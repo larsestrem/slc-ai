@@ -15,12 +15,11 @@ layout: default
         <path d="{{ page.map.outline }}" class="map-shape"/>
         {%- for d in page.map.dots %}
         <a href="#c-{{ d.slug }}" data-city="{{ d.slug }}" aria-label="{{ d.label | replace: '(', '— ' | replace: ')', ' communities' }}">
-          <circle cx="{{ d.x }}" cy="{{ d.y }}" r="{{ d.r }}" class="map-dot"/>
-          <text x="{{ d.x | plus: d.r | plus: 4 }}" y="{{ d.label_y }}"{% if d.anchor_end %} text-anchor="end" transform="translate(-{{ d.r | plus: 16 }},0)"{% endif %} class="map-label">{{ d.label }}</text>
+          <circle cx="{{ d.x }}" cy="{{ d.y }}" r="{{ d.r }}" class="map-dot"><title>{{ d.label }}</title></circle>
         </a>
         {%- endfor %}
       </svg>
-      <figcaption>Simplified map — dot size reflects the number of communities. Helpful when your parents live in a state you don't know well.</figcaption>
+      <figcaption>Simplified map — each dot is a city with communities (hover or tap for the name; dot size reflects how many). Helpful when your parents live in a state you don't know well.</figcaption>
     </figure>
     {%- endif %}
 

@@ -155,9 +155,7 @@ tbody tr:hover { background: var(--soft); }
 .map-shape { fill: var(--soft); stroke: var(--line); stroke-width: 1.5; }
 .map-dot { fill: var(--accent); opacity: .9; transition: r .15s; }
 .state-map a:hover .map-dot, .state-map a:focus .map-dot,
-.state-map a.hl .map-dot { fill: var(--gold); opacity: 1; }
-.map-label { font-size: 11px; fill: var(--ink); }
-.state-map a:hover .map-label, .state-map a.hl .map-label { font-weight: 700; }
+.state-map a.hl .map-dot { fill: var(--gold); opacity: 1; r: 7px; }
 .state-map figcaption { color: var(--muted); font-size: .82rem; }
 .state-list .card.hl { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
 .state-resources { font-size: .92rem; }
@@ -238,40 +236,32 @@ tbody tr:hover { background: var(--soft); }
       <svg viewBox="0 0 340.0 230.9" role="img"
            aria-label="Map of Washington showing cities with senior living communities">
         <path d="M12.0,48.9 L78.9,61.6 L92.8,12.6 L328.0,12.0 L328.0,193.5 L248.0,193.5 L222.5,198.4 L169.2,214.7 L115.8,218.9 L92.8,216.5 L74.8,184.4 L44.0,178.4 L37.9,139.1 L23.5,84.6 L12.0,48.9 Z" class="map-shape"/>
-        <a href="#c-sequim" data-city="sequim" aria-label="Sequim — 1 communities">
-          <circle cx="78.9" cy="67.7" r="4.5" class="map-dot"/>
-          <text x="87.4" y="71.7" class="map-label">Sequim (1)</text>
-        </a>
-        <a href="#c-spokane" data-city="spokane" aria-label="Spokane — 2 communities">
-          <circle cx="311.6" cy="93.1" r="5.7" class="map-dot"/>
-          <text x="321.3" y="97.1" text-anchor="end" transform="translate(-21.7,0)" class="map-label">Spokane (2)</text>
-        </a>
-        <a href="#c-seattle" data-city="seattle" aria-label="Seattle — 3 communities">
-          <circle cx="110.5" cy="96.1" r="6.9" class="map-dot"/>
-          <text x="121.4" y="100.1" class="map-label">Seattle (3)</text>
-        </a>
         <a href="#c-bellevue" data-city="bellevue" aria-label="Bellevue — 1 communities">
-          <circle cx="115.8" cy="96.1" r="4.5" class="map-dot"/>
-          <text x="124.3" y="113.1" class="map-label">Bellevue (1)</text>
-        </a>
-        <a href="#c-east-wenatchee" data-city="east-wenatchee" aria-label="East Wenatchee — 1 communities">
-          <circle cx="194.2" cy="107.6" r="4.5" class="map-dot"/>
-          <text x="202.7" y="126.1" class="map-label">East Wenatchee (1)</text>
-        </a>
-        <a href="#c-tacoma" data-city="tacoma" aria-label="Tacoma — 1 communities">
-          <circle cx="106.0" cy="117.9" r="4.5" class="map-dot"/>
-          <text x="114.5" y="139.1" class="map-label">Tacoma (1)</text>
-        </a>
-        <a href="#c-vancouver" data-city="vancouver" aria-label="Vancouver — 3 communities">
-          <circle cx="97.0" cy="215.3" r="6.9" class="map-dot"/>
-          <text x="107.9" y="219.3" class="map-label">Vancouver (3)</text>
+          <circle cx="115.8" cy="96.1" r="3.5" class="map-dot"><title>Bellevue (1)</title></circle>
         </a>
         <a href="#c-camas" data-city="camas" aria-label="Camas — 1 communities">
-          <circle cx="107.6" cy="218.3" r="4.5" class="map-dot"/>
-          <text x="116.1" y="232.3" class="map-label">Camas (1)</text>
+          <circle cx="107.6" cy="218.3" r="3.5" class="map-dot"><title>Camas (1)</title></circle>
+        </a>
+        <a href="#c-east-wenatchee" data-city="east-wenatchee" aria-label="East Wenatchee — 1 communities">
+          <circle cx="194.2" cy="107.6" r="3.5" class="map-dot"><title>East Wenatchee (1)</title></circle>
+        </a>
+        <a href="#c-seattle" data-city="seattle" aria-label="Seattle — 3 communities">
+          <circle cx="110.5" cy="96.1" r="4.9" class="map-dot"><title>Seattle (3)</title></circle>
+        </a>
+        <a href="#c-sequim" data-city="sequim" aria-label="Sequim — 1 communities">
+          <circle cx="78.9" cy="67.7" r="3.5" class="map-dot"><title>Sequim (1)</title></circle>
+        </a>
+        <a href="#c-spokane" data-city="spokane" aria-label="Spokane — 2 communities">
+          <circle cx="311.6" cy="93.1" r="4.2" class="map-dot"><title>Spokane (2)</title></circle>
+        </a>
+        <a href="#c-tacoma" data-city="tacoma" aria-label="Tacoma — 1 communities">
+          <circle cx="106.0" cy="117.9" r="3.5" class="map-dot"><title>Tacoma (1)</title></circle>
+        </a>
+        <a href="#c-vancouver" data-city="vancouver" aria-label="Vancouver — 3 communities">
+          <circle cx="97.0" cy="215.3" r="4.9" class="map-dot"><title>Vancouver (3)</title></circle>
         </a>
       </svg>
-      <figcaption>Simplified map — dot size reflects the number of communities. Helpful when your parents live in a state you don't know well.</figcaption>
+      <figcaption>Simplified map — each dot is a city with communities (hover or tap for the name; dot size reflects how many). Helpful when your parents live in a state you don't know well.</figcaption>
     </figure>
 
     <div class="state-resources">

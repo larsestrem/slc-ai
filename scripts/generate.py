@@ -128,22 +128,15 @@ def build_map(state, facs, geo):
     for f in facs:
         per_city.setdefault(f["city"], {"name": f["city_name"], "count": 0})
         per_city[f["city"]]["count"] += 1
-    dots, placed = [], []
-    missing = []
-    for slug, info in sorted(per_city.items(), key=lambda kv: city_coords.get(kv[0], [0])[0], reverse=True):
+    dots, missing = [], []
+    for slug, info in sorted(per_city.items()):
         if slug not in city_coords:
             missing.append(info["name"])
             continue
         lat, lon = city_coords[slug]
         x, y = pt(lon, lat)
-        label_y = y + 4
-        for px, py in placed:  # nudge overlapping labels apart
-            if abs(px - x) < 100 and abs(py - label_y) < 13:
-                label_y = py + 13
-        placed.append((x, label_y))
-        dots.append({"slug": slug, "x": x, "y": y, "label_y": round(label_y, 1),
-                     "r": min(9, 4.5 + 1.2 * (info["count"] - 1)),
-                     "anchor_end": x > width - 95,
+        dots.append({"slug": slug, "x": x, "y": y,
+                     "r": min(6, 3.5 + 0.7 * (info["count"] - 1)),
                      "label": f"{info['name']} ({info['count']})"})
     if missing:
         print(f"  !! no map coordinates for: {', '.join(missing)} (add to data/geo.json)")
@@ -183,7 +176,9 @@ def gen_facility_page(f, siblings, licensing):
                    "pets", "couples", "min_age", "transportation",
                    "medical_services", "support_services",
                    # media — photos: [{src, alt, caption}], logo: path
-                   "photos", "logo")
+                   "photos", "logo",
+                   # public review reputation (from search, dated)
+                   "google_rating", "google_review_count", "rating_as_of")
     for k in passthrough:
         if f.get(k) not in (None, "", []):
             front[k] = f[k]

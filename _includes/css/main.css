@@ -141,9 +141,7 @@ tbody tr:hover { background: var(--soft); }
 .map-shape { fill: var(--soft); stroke: var(--line); stroke-width: 1.5; }
 .map-dot { fill: var(--accent); opacity: .9; transition: r .15s; }
 .state-map a:hover .map-dot, .state-map a:focus .map-dot,
-.state-map a.hl .map-dot { fill: var(--gold); opacity: 1; }
-.map-label { font-size: 11px; fill: var(--ink); }
-.state-map a:hover .map-label, .state-map a.hl .map-label { font-weight: 700; }
+.state-map a.hl .map-dot { fill: var(--gold); opacity: 1; r: 7px; }
 .state-map figcaption { color: var(--muted); font-size: .82rem; }
 .state-list .card.hl { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
 .state-resources { font-size: .92rem; }

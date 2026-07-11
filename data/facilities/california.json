@@ -1,0 +1,391 @@
+{
+  "facilities": [
+    {
+      "name": "Sunrise of Beverly Hills",
+      "slug": "sunrise-of-beverly-hills",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "los-angeles", "county_name": "Los Angeles",
+      "city": "beverly-hills", "city_name": "Beverly Hills",
+      "address": "201 North Crescent Drive", "zip": "90210",
+      "phone": "(310) 274-4479",
+      "website": "https://www.sunriseseniorliving.com/communities/ca/sunrise-of-beverly-hills",
+      "care_levels": ["assisted-living", "memory-care", "respite-care"],
+      "organization": "sunrise-senior-living",
+      "organization_name": "Sunrise Senior Living",
+      "description": "Sunrise of Beverly Hills is an assisted living and memory care community on North Crescent Drive in Beverly Hills, operated by Sunrise Senior Living. The community also offers short-term respite stays.",
+      "sources": [
+        "https://www.sunriseseniorliving.com/communities/ca/sunrise-of-beverly-hills",
+        "https://www.yelp.com/biz/sunrise-of-beverly-hills-beverly-hills"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Silverado Beverly Place Memory Care Community",
+      "slug": "silverado-beverly-place-memory-care-community",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "los-angeles", "county_name": "Los Angeles",
+      "city": "los-angeles", "city_name": "Los Angeles",
+      "address": "330 N Hayworth Ave", "zip": "90048",
+      "phone": "(323) 852-9200",
+      "website": "https://www.silverado.com/locations/beverly-place/",
+      "care_levels": ["memory-care"],
+      "organization": "silverado",
+      "organization_name": "Silverado",
+      "description": "Silverado Beverly Place is a specialized memory care community in Los Angeles dedicated to residents living with Alzheimer's disease and other dementias. It is centrally located near Beverly Hills and West Hollywood and is operated by memory care specialist Silverado.",
+      "sources": [
+        "https://www.silverado.com/locations/beverly-place/",
+        "https://www.yelp.com/biz/silverado-beverly-place-memory-care-community-los-angeles"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Brookdale Camarillo",
+      "slug": "brookdale-camarillo",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "ventura", "county_name": "Ventura",
+      "city": "camarillo", "city_name": "Camarillo",
+      "address": "6000 Santa Rosa Road", "zip": "93012",
+      "phone": "(805) 892-8032",
+      "website": "https://www.brookdale.com/en/communities/brookdale-camarillo.html",
+      "care_levels": ["assisted-living", "memory-care"],
+      "organization": "brookdale-senior-living",
+      "organization_name": "Brookdale Senior Living",
+      "description": "Brookdale Camarillo is an assisted living and memory care community on Santa Rosa Road in Camarillo, in Ventura County. It is operated by Brookdale Senior Living, one of the largest senior living operators in the United States.",
+      "sources": [
+        "https://www.yelp.com/biz/brookdale-camarillo-camarillo",
+        "https://seniorcarehomes.com/assisted-living/california/camarillo-ca/brookdale-camarillo/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Belmont Village Sabre Springs",
+      "slug": "belmont-village-sabre-springs",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "san-diego", "county_name": "San Diego",
+      "city": "san-diego", "city_name": "San Diego",
+      "address": "13075 Evening Creek Dr S", "zip": "92128",
+      "phone": "(858) 486-5020",
+      "website": "https://www.belmontvillage.com/locations/sabre-springs-california/",
+      "care_levels": ["assisted-living", "memory-care"],
+      "facility_size": "large",
+      "capacity": 184,
+      "organization": "belmont-village-senior-living",
+      "organization_name": "Belmont Village Senior Living",
+      "description": "Belmont Village Sabre Springs is an assisted living and memory care community in the Sabre Springs area of San Diego. The residential care facility is licensed for 184 beds and is operated by Belmont Village Senior Living.",
+      "sources": [
+        "https://www.belmontvillage.com/locations/sabre-springs-california/",
+        "https://www.yelp.com/biz/belmont-village-senior-living-sabre-springs-san-diego-2",
+        "https://carelistings.com/assisted-living-homes/san-diego-ca/belmont-village-sabre-springs/5acd01bca71d8c15cf685bb5"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Vi at La Jolla Village",
+      "slug": "vi-at-la-jolla-village",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "san-diego", "county_name": "San Diego",
+      "city": "san-diego", "city_name": "San Diego",
+      "address": "8515 Costa Verde Blvd", "zip": "92122",
+      "phone": "(858) 646-7700",
+      "website": "https://www.viliving.com/locations/ca/san-diego-la-jolla",
+      "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"],
+      "organization": "vi",
+      "organization_name": "Vi",
+      "description": "Vi at La Jolla Village is a Life Plan Community (continuing care retirement community) in San Diego's University City/La Jolla area. The campus offers independent living plus a care center with assisted living, memory care, and skilled nursing at 4171 Las Palmas Square.",
+      "sources": [
+        "https://www.viliving.com/locations/ca/san-diego-la-jolla",
+        "https://www.viliving.com/locations/ca/san-diego-la-jolla/contact",
+        "https://www.yelp.com/biz/vi-at-la-jolla-village-san-diego"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Cove at La Jolla",
+      "slug": "the-cove-at-la-jolla",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "san-diego", "county_name": "San Diego",
+      "city": "la-jolla", "city_name": "La Jolla",
+      "address": "7160 Fay Avenue", "zip": "92037",
+      "phone": "(858) 459-4361",
+      "website": "https://thecoveatlajolla.com/",
+      "care_levels": ["skilled-nursing", "respite-care"],
+      "facility_size": "medium",
+      "capacity": 59,
+      "organization": "the-ensign-group",
+      "organization_name": "The Ensign Group",
+      "cms_ccn": "555545",
+      "cms_rating_overall": 5,
+      "description": "The Cove at La Jolla is a 59-bed Medicare-certified skilled nursing facility near the coast in La Jolla. It provides short-term rehabilitation, post-acute care, long-term care, and hospice support, and holds a 5-star overall rating from Medicare. The facility is affiliated with The Ensign Group.",
+      "sources": [
+        "https://thecoveatlajolla.com/",
+        "https://health.usnews.com/best-nursing-homes/area/ca/the-cove-at-la-jolla-555545",
+        "https://www.yelp.com/biz/the-cove-at-la-jolla-la-jolla-2"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "San Francisco Towers",
+      "slug": "san-francisco-towers",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "san-francisco", "county_name": "San Francisco",
+      "city": "san-francisco", "city_name": "San Francisco",
+      "address": "1661 Pine Street",
+      "phone": "(415) 776-0500",
+      "website": "https://covia.org/san-francisco-towers/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"],
+      "organization": "front-porch",
+      "organization_name": "Front Porch",
+      "description": "San Francisco Towers is a nonprofit continuing care retirement community on Pine Street in San Francisco. It brings independent living apartments, assisted living suites, a memory-support neighborhood, and a Medicare-certified skilled nursing and rehabilitation center together on one site. It is operated by Front Porch (formerly Covia Communities).",
+      "sources": [
+        "https://covia.org/san-francisco-towers/contact/",
+        "https://www.yelp.com/biz/san-francisco-towers-san-francisco"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "San Francisco Campus for Jewish Living",
+      "slug": "san-francisco-campus-for-jewish-living",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "san-francisco", "county_name": "San Francisco",
+      "city": "san-francisco", "city_name": "San Francisco",
+      "address": "302 Silver Ave", "zip": "94112",
+      "phone": "(415) 334-2500",
+      "website": "https://sfcjl.org/",
+      "care_levels": ["skilled-nursing"],
+      "facility_size": "large",
+      "capacity": 362,
+      "cms_ccn": "055169",
+      "description": "The San Francisco Campus for Jewish Living is a nonprofit senior care campus on Silver Avenue in San Francisco. Its skilled nursing center (licensed as Jewish Home & Rehab Center D/P SNF) is Medicare- and Medicaid-certified with 362 certified beds and provides long-term care and rehabilitation services.",
+      "sources": [
+        "https://sfcjl.org/",
+        "https://www.medicare.gov/care-compare/details/nursing-home/055169/view-all/?city=San+Francisco&state=CA&zipcode=94112",
+        "https://www.yelp.com/biz/san-francisco-campus-for-jewish-living-san-francisco"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Oakmont of Mariner Point",
+      "slug": "oakmont-of-mariner-point",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "alameda", "county_name": "Alameda",
+      "city": "alameda", "city_name": "Alameda",
+      "address": "2400 Mariner Square Dr", "zip": "94501",
+      "phone": "(510) 347-5959",
+      "website": "https://oakmontseniorliving.com/marinerpoint/",
+      "care_levels": ["assisted-living", "memory-care"],
+      "organization": "oakmont-senior-living",
+      "organization_name": "Oakmont Senior Living",
+      "description": "Oakmont of Mariner Point is an assisted living and memory care community at Mariner Square in Alameda, on the east side of San Francisco Bay. It is operated by Oakmont Senior Living and offers personal care, meals, medication management, and 24-hour staffing.",
+      "sources": [
+        "https://oakmontseniorliving.com/marinerpoint/",
+        "https://www.assistedlivingcenter.com/facilities/ca/alameda/oakmont-of-mariner-point-94501/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Eskaton Land Park",
+      "slug": "eskaton-land-park",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "sacramento", "county_name": "Sacramento",
+      "city": "sacramento", "city_name": "Sacramento",
+      "address": "3225 Freeport Blvd", "zip": "95818",
+      "phone": "(916) 441-1015",
+      "website": "https://discover.eskaton.org/land-park/",
+      "care_levels": ["independent-living"],
+      "facility_size": "large",
+      "organization": "eskaton",
+      "organization_name": "Eskaton",
+      "description": "Eskaton Land Park (formerly Eskaton Monroe Lodge) is an independent living community in Sacramento's Land Park neighborhood, near Sacramento City College and William Land Park. The six-story community offers private apartments, restaurant-style dining, and around-the-clock staff, and is operated by the nonprofit Eskaton.",
+      "sources": [
+        "https://discover.eskaton.org/land-park/",
+        "https://www.yelp.com/biz/eskaton-land-park-sacramento",
+        "https://www.aplaceformom.com/community/eskaton-land-park-59311"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Atria Carmichael Oaks",
+      "slug": "atria-carmichael-oaks",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "sacramento", "county_name": "Sacramento",
+      "city": "carmichael", "city_name": "Carmichael",
+      "address": "8350 Fair Oaks Blvd", "zip": "95608",
+      "phone": "(916) 944-2323",
+      "website": "https://www.atriaseniorliving.com/retirement-communities/atria-carmichael-oaks-carmichael-ca/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care"],
+      "organization": "atria-senior-living",
+      "organization_name": "Atria Senior Living",
+      "description": "Atria Carmichael Oaks is a senior living community on Fair Oaks Boulevard in Carmichael, in the Sacramento metro area, next to Jensen Botanical Garden. It offers independent living, assisted living, and memory care with 24-hour staff, and is operated by Atria Senior Living.",
+      "sources": [
+        "https://www.atriaseniorliving.com/retirement-communities/atria-carmichael-oaks-carmichael-ca/",
+        "https://www.yelp.com/biz/atria-carmichael-oaks-carmichael"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "ACC Care Center",
+      "slug": "acc-care-center",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "sacramento", "county_name": "Sacramento",
+      "city": "sacramento", "city_name": "Sacramento",
+      "address": "7801 Rush River Drive", "zip": "95831",
+      "phone": "(916) 393-9020",
+      "website": "https://www.accsv.org/locations/care-center/",
+      "care_levels": ["skilled-nursing"],
+      "facility_size": "large",
+      "capacity": 99,
+      "organization": "acc-senior-services",
+      "organization_name": "ACC Senior Services",
+      "cms_ccn": "555261",
+      "cms_rating_overall": 4,
+      "description": "ACC Care Center is a nonprofit, 99-bed Medicare- and Medicaid-certified skilled nursing facility in Sacramento's Pocket/Greenhaven area, operated by ACC Senior Services. In 2026 the facility announced a 4-star overall rating from the Centers for Medicare & Medicaid Services, and its nurse staffing hours are above the national average.",
+      "sources": [
+        "https://www.accsv.org/locations/care-center/",
+        "https://www.accsv.org/acc-care-center-4-stars/",
+        "https://www.medicare.gov/care-compare/details/nursing-home/555261/view-all/?city=Sacramento&state=CA"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Terraces at San Joaquin Gardens",
+      "slug": "the-terraces-at-san-joaquin-gardens",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "fresno", "county_name": "Fresno",
+      "city": "fresno", "city_name": "Fresno",
+      "address": "5555 N Fresno St", "zip": "93710",
+      "phone": "(559) 430-8211",
+      "website": "https://www.humangood.org/the-terraces-at-san-joaquin-gardens",
+      "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"],
+      "organization": "humangood",
+      "organization_name": "HumanGood",
+      "description": "The Terraces at San Joaquin Gardens is a continuing care retirement community on North Fresno Street in Fresno. It offers maintenance-free independent living, assisted living, memory care, and long-term skilled nursing with post-acute rehabilitation on one campus, and is part of the nonprofit HumanGood family of communities.",
+      "sources": [
+        "https://www.humangood.org/the-terraces-at-san-joaquin-gardens/post-acute-rehab/about",
+        "https://www.yelp.com/biz/the-terraces-at-san-joaquin-gardens-fresno-2",
+        "https://www.aplaceformom.com/community/the-terraces-at-san-joaquin-gardens-a-ccrc-56811"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Oakmont of Fresno",
+      "slug": "oakmont-of-fresno",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "fresno", "county_name": "Fresno",
+      "city": "fresno", "city_name": "Fresno",
+      "address": "5605 N. Gates Ave.", "zip": "93722",
+      "phone": "(559) 477-4466",
+      "website": "https://oakmontseniorliving.com/fresno/",
+      "care_levels": ["assisted-living", "memory-care"],
+      "organization": "oakmont-senior-living",
+      "organization_name": "Oakmont Senior Living",
+      "description": "Oakmont of Fresno is an assisted living and memory care community on North Gates Avenue in northwest Fresno. It is operated by Oakmont Senior Living, a California-based operator of luxury senior living communities.",
+      "sources": [
+        "https://oakmontseniorliving.com/fresno/contact/",
+        "https://www.yelp.com/biz/oakmont-of-fresno-fresno",
+        "https://www.seniorlivingguide.com/communities/oakmont-of-fresno-5605-n-gates-avenue-fresno-ca-93722/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Oaks at Paso Robles",
+      "slug": "the-oaks-at-paso-robles",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "san-luis-obispo", "county_name": "San Luis Obispo",
+      "city": "paso-robles", "city_name": "Paso Robles",
+      "address": "526 S River Rd", "zip": "93446",
+      "phone": "(805) 239-5851",
+      "website": "https://westmontliving.com/our-communities/california/paso-robles/the-oaks-at-paso-robles/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care"],
+      "organization": "westmont-living",
+      "organization_name": "Westmont Living",
+      "description": "The Oaks at Paso Robles is a senior living community on South River Road in Paso Robles, in San Luis Obispo County wine country. It offers independent living, assisted living, and memory care, and is operated by Westmont Living.",
+      "sources": [
+        "https://westmontliving.com/our-communities/california/paso-robles/the-oaks-at-paso-robles/",
+        "https://www.yelp.com/biz/the-oaks-at-paso-robles-paso-robles",
+        "https://www.aplaceformom.com/community/the-oaks-at-paso-robles-1445088"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Care Home by RNs",
+      "slug": "care-home-by-rns",
+      "state": "california", "state_name": "California", "state_abbrev": "CA",
+      "county": "sacramento", "county_name": "Sacramento",
+      "city": "sacramento", "city_name": "Sacramento",
+      "address": "4970 Walnut Avenue", "zip": "95841",
+      "phone": "(916) 408-7199",
+      "website": "https://carehomebyrns.com/",
+      "care_levels": ["assisted-living"],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Care Home by RNs is a small residential care facility for the elderly (RCFE) in Sacramento, licensed by the State of California to care for six residents in private room settings. The registered-nurse-operated board and care home also runs sister homes in Lincoln, California.",
+      "sources": [
+        "https://carehomebyrns.com/",
+        "https://carehomebyrns.com/sacramento/",
+        "https://carehomebyrns.com/contact-us/"
+      ],
+      "verified_date": "2026-07-11"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Brookdale Senior Living",
+      "slug": "brookdale-senior-living",
+      "headquarters": "Brentwood, Tennessee",
+      "website": "https://www.brookdale.com/",
+      "facility_count_approx": 541,
+      "description": "Brookdale Senior Living is one of the largest senior living operators in the United States, operating 541 communities across 41 states as of June 2026. The publicly traded company offers independent living, assisted living, memory care, and continuing care retirement communities.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/0001332349/000133234926000057/june2026occupancy.htm",
+        "https://en.wikipedia.org/wiki/Brookdale_Senior_Living"
+      ]
+    },
+    {
+      "name": "Sunrise Senior Living",
+      "slug": "sunrise-senior-living",
+      "headquarters": "McLean, Virginia",
+      "website": "https://www.sunriseseniorliving.com/",
+      "facility_count_approx": 240,
+      "description": "Sunrise Senior Living is one of the largest senior living operators in North America, headquartered in McLean, Virginia. As of 2026 it operates more than 240 independent living, assisted living, and memory care communities in the United States and Canada.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sunrise_Senior_Living"
+      ]
+    },
+    {
+      "name": "Atria Senior Living",
+      "slug": "atria-senior-living",
+      "headquarters": "Louisville, Kentucky",
+      "website": "https://www.atriaseniorliving.com/",
+      "facility_count_approx": 200,
+      "description": "Atria Senior Living, founded in 1996 and headquartered in Louisville, Kentucky, manages independent living, assisted living, and memory care communities in more than 200 locations across dozens of U.S. states, plus independent living communities in Canada.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Atria_Management_Company",
+        "https://www.atriaseniorliving.com/"
+      ]
+    },
+    {
+      "name": "Oakmont Senior Living",
+      "slug": "oakmont-senior-living",
+      "headquarters": "Windsor, California",
+      "website": "https://oakmontseniorliving.com/",
+      "states": ["CA", "NV", "CO", "HI"],
+      "description": "Oakmont Senior Living is a California-based operator of luxury assisted living and memory care communities. It operates senior living communities across California, Nevada, Colorado, and Hawaii, with most of its portfolio concentrated in California.",
+      "sources": [
+        "https://oakmontseniorliving.com/",
+        "https://www.seniorliving.org/companies/oakmont-senior-living/"
+      ]
+    },
+    {
+      "name": "Eskaton",
+      "slug": "eskaton",
+      "headquarters": "Carmichael, California",
+      "website": "https://www.eskaton.org/",
+      "states": ["CA"],
+      "description": "Eskaton is a nonprofit senior living and services provider founded in 1968 and headquartered in Carmichael, California. It serves more than 14,000 older adults annually across Northern California, from Nevada County to the Bay Area, with communities and services spanning independent living, assisted living, memory care, skilled nursing, and home-based care.",
+      "sources": [
+        "https://www.eskaton.org/our-history-and-timeline",
+        "https://discover.eskaton.org/"
+      ]
+    }
+  ]
+}

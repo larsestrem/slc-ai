@@ -1,0 +1,13 @@
+---
+layout: "organization"
+title: "Bonaventure Senior Living"
+seo_title: "Bonaventure Senior Living — Senior Living Communities & Locations"
+description: "Bonaventure Senior Living is a senior living operator headquartered in Salem, Oregon, with a portfolio of roughly 28 communities across Oregon, Washington, an"
+org_description: "Bonaventure Senior Living is a senior living operator headquartered in Salem, Oregon, with a portfolio of roughly 28 communities across Oregon, Washington, and Colorado. Its communities offer independent living, assisted living, and memory care. In Washington, the company entered a $7 million consent agreement with the state attorney general to improve services at 10 of its long-term care facilities."
+headquarters: "Salem, Oregon"
+website: "https://bonaventuresenior.com/"
+facility_count_approx: 28
+org_states: ["OR", "WA", "CO"]
+facilities: [{"name": "Bonaventure of East Wenatchee", "url": "/directory/washington/douglas-county/east-wenatchee/bonaventure-of-east-wenatchee/", "city_name": "East Wenatchee", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Bonaventure of East Wenatchee is a senior living community in East Wenatchee, in central Washington, offering retirement (independent) living, assisted living, and memory care. It is operated by Bonaventure Senior Living of Salem, Oregon."}, {"name": "Bonaventure of Salem", "url": "/directory/oregon/marion-county/salem/bonaventure-of-salem/", "city_name": "Salem", "state_abbrev": "OR", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Bonaventure of Salem is a senior living community in southeast Salem offering independent living, assisted living, and memory care on one campus. Residents in the secured memory care neighborhood receive 24-hour supervision and dementia-specific programming. The community allows residents to age in place and adjust their level of care as needed."}, {"name": "Bonaventure of Vancouver", "url": "/directory/washington/clark-county/vancouver/bonaventure-of-vancouver/", "city_name": "Vancouver", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Bonaventure of Vancouver is a senior living community in Vancouver, Washington offering retirement (independent) living, assisted living, and memory care. It is operated by Bonaventure Senior Living, a family-owned company based in Salem, Oregon."}]
+crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Bonaventure Senior Living", "url": "/organizations/bonaventure-senior-living/"}]
+---

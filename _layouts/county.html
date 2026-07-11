@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<h1>{{ page.county_name }} County, {{ page.state_abbrev }} Senior Living Facilities</h1>
+<p class="lead">{{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in {{ page.county_name }} County, {{ page.state_name }}, organized by city.</p>
+
+{{ content }}
+
+{%- for city in page.cities %}
+<section aria-labelledby="c-{{ city.slug }}">
+  <h2 id="c-{{ city.slug }}"><a href="{{ city.url }}">{{ city.name }}, {{ page.state_abbrev }}</a></h2>
+  <ul class="grid">
+    {%- for f in city.facilities %}
+    {% include facility-card.html facility=f %}
+    {%- endfor %}
+  </ul>
+</section>
+{%- endfor %}
+
+{% include ad-slot.html %}
+
+<p class="notice">Don't see a community you know of? Coverage grows state by state —
+<a href="/for-communities/">communities can add or update a listing here</a>.</p>

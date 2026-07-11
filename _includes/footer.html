@@ -1,0 +1,38 @@
+<footer class="site-footer">
+  <div class="wrap">
+    <div>
+      <h2>Directory</h2>
+      <ul>
+        {%- for st in site.data.states %}
+        <li><a href="/directory/{{ st.slug }}/">{{ st.name }} senior living</a></li>
+        {%- endfor %}
+      </ul>
+    </div>
+    <div>
+      <h2>Start here</h2>
+      <ul>
+        <li><a href="/guides/how-to-choose-a-senior-care-facility/">How to choose a facility</a></li>
+        <li><a href="/guides/levels-of-care-explained/">Levels of care explained</a></li>
+        <li><a href="/guides/cost-of-senior-living/">What senior living costs</a></li>
+        <li><a href="/guides/paying-for-senior-care/">How to pay for care</a></li>
+        <li><a href="/guides/touring-checklist/">Touring checklist</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>Site</h2>
+      <ul>
+        <li><a href="/about/">About this site</a></li>
+        <li><a href="/for-communities/">For senior living communities</a></li>
+        <li><a href="/placement-professionals/">Placement professionals</a></li>
+        <li><a href="/news/">News</a></li>
+      </ul>
+    </div>
+    <p class="fine">
+      {{ site.title }} is an independent information resource for families. We are not a referral
+      service and do not provide medical, legal, or financial advice — for decisions about care,
+      consult the professionals involved. Facility details change; always confirm directly with a
+      community. Last data review: {{ site.data_vintage.last_verified }}.
+    </p>
+  </div>
+</footer>
+{% if site.ads.enabled %}<script src="/assets/js/lazy-ads.js" defer></script>{% endif %}

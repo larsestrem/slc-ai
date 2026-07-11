@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<h1>Senior Living in {{ page.city_name }}, {{ page.state_abbrev }}</h1>
+<p class="lead">{{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in {{ page.city_name }}, {{ page.county_name }} County, {{ page.state_name }}.</p>
+
+{{ content }}
+
+<ul class="grid">
+  {%- for f in page.facilities %}
+  {% include facility-card.html facility=f %}
+  {%- endfor %}
+</ul>
+
+{% include ad-slot.html %}
+
+<section class="prose">
+  <h2>Comparing communities in {{ page.city_name }}</h2>
+  <p>When you have a shortlist, tour each community more than once — including one unannounced
+  visit — and ask the same questions everywhere so you can compare fairly. Our
+  <a href="/guides/touring-checklist/">touring checklist</a> covers what to look for, and
+  <a href="/guides/whats-not-included-hidden-fees/">what's not included in the monthly rate</a>
+  explains how to compare true costs, not sticker prices.</p>
+</section>

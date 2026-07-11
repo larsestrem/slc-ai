@@ -1,0 +1,335 @@
+{
+  "facilities": [
+    {
+      "name": "Bonaventure of Salem",
+      "slug": "bonaventure-of-salem",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "marion", "county_name": "Marion",
+      "city": "salem", "city_name": "Salem",
+      "address": "3411 Boone Rd SE", "zip": "97317",
+      "phone": "(503) 480-0004",
+      "website": "https://bonaventuresenior.com/community/bonaventure-of-salem/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care"],
+      "organization": "bonaventure-senior-living",
+      "organization_name": "Bonaventure Senior Living",
+      "description": "Bonaventure of Salem is a senior living community in southeast Salem offering independent living, assisted living, and memory care on one campus. Residents in the secured memory care neighborhood receive 24-hour supervision and dementia-specific programming. The community allows residents to age in place and adjust their level of care as needed.",
+      "sources": [
+        "https://bonaventuresenior.com/community/bonaventure-of-salem/",
+        "https://www.aplaceformom.com/community/bonaventure-of-salem-1359646",
+        "https://www.seniorlivingguide.com/communities/bonaventure-of-salem-3411-boone-road-se-salem-or-97317/",
+        "https://www.ohca.com/facility-finder/bonaventure-of-salem-assisted-living/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Prestige Senior Living Orchard Heights",
+      "slug": "prestige-senior-living-orchard-heights",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "polk", "county_name": "Polk",
+      "city": "salem", "city_name": "Salem",
+      "address": "695 Orchard Heights Rd NW", "zip": "97304",
+      "phone": "(503) 566-9052",
+      "website": "https://www.prestigecare.com/locations/prestige-senior-living-orchard-heights/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care"],
+      "organization": "prestige-care",
+      "organization_name": "Prestige Care",
+      "description": "Prestige Senior Living Orchard Heights is a senior community in West Salem offering independent living, assisted living, and memory care. Assisted living residents participate in the Celebrations wellness program, and the community's Expressions memory care program serves residents living with Alzheimer's disease and other dementias.",
+      "sources": [
+        "https://www.prestigecare.com/locations/prestige-senior-living-orchard-heights/",
+        "https://www.aplaceformom.com/community/prestige-senior-living-orchard-heights-96843",
+        "https://www.caring.com/senior-living/oregon/salem/prestige-senior-living-at-orchard-heights-97304",
+        "https://www.ohca.com/facility-finder/prestige-senior-living-orchard-heights/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Avamere Rehabilitation of Oregon City",
+      "slug": "avamere-rehabilitation-of-oregon-city",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "clackamas", "county_name": "Clackamas",
+      "city": "oregon-city", "city_name": "Oregon City",
+      "address": "1400 Division Street", "zip": "97045",
+      "phone": "(503) 656-0367",
+      "care_levels": ["skilled-nursing"],
+      "facility_size": "large",
+      "capacity": 111,
+      "organization": "avamere",
+      "organization_name": "Avamere",
+      "cms_ccn": "385125",
+      "cms_rating_overall": 1,
+      "description": "Avamere Rehabilitation of Oregon City is a 111-bed Medicare- and Medicaid-certified skilled nursing facility providing short-term rehabilitation and long-term nursing care. Medicare quality measures for short-stay care have rated above average, while its overall CMS star rating has been low, driven by health inspection results.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385125/",
+        "https://carelistings.com/skilled-nursing-facilities/oregon-city-or/avamere-rehabilitation-of-oregon-city/5ace88d093efd2372f98c1a7",
+        "https://www.nursinghomedatabase.com/snf/385125"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Avamere Rehabilitation of Eugene",
+      "slug": "avamere-rehabilitation-of-eugene",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "lane", "county_name": "Lane",
+      "city": "eugene", "city_name": "Eugene",
+      "address": "2360 Chambers Street", "zip": "97405",
+      "phone": "(541) 687-1310",
+      "website": "https://www.avamere.com/avamere-rehabilitation-of-eugene/",
+      "care_levels": ["skilled-nursing"],
+      "facility_size": "large",
+      "capacity": 92,
+      "organization": "avamere",
+      "organization_name": "Avamere",
+      "cms_ccn": "385053",
+      "description": "Avamere Rehabilitation of Eugene is a 92-bed skilled nursing and rehabilitation facility in Eugene. It provides short-term post-acute rehabilitation and long-term nursing care, and holds a 4-star Medicare staffing rating. CMS closely monitored the facility for a period between 2024 and 2025 due to a documented pattern of care concerns.",
+      "sources": [
+        "https://www.avamere.com/avamere-rehabilitation-of-eugene/",
+        "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-eugene-385053",
+        "https://www.ohca.com/facility-finder/avamere-rehabilitation-of-eugene/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Cascade Manor",
+      "slug": "cascade-manor",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "lane", "county_name": "Lane",
+      "city": "eugene", "city_name": "Eugene",
+      "address": "65 West 30th Avenue", "zip": "97405",
+      "phone": "(541) 342-5901",
+      "website": "https://www.cascademanor.org/",
+      "care_levels": ["independent-living", "assisted-living", "skilled-nursing", "ccrc"],
+      "organization": "pacific-retirement-services",
+      "organization_name": "Pacific Retirement Services",
+      "description": "Cascade Manor is Eugene's only accredited continuing care retirement community, offering independent living, assisted living, and skilled nursing on a single campus. It is affiliated with Pacific Retirement Services, a Medford-based nonprofit senior living organization, and lets residents move between levels of care as their needs change.",
+      "sources": [
+        "https://www.cascademanor.org/",
+        "https://findcontinuingcare.com/community/or/eugene/cascade-manor-c01396",
+        "https://www.aplaceformom.com/community/cascade-manor-ccrc-60130"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Brookdale Oswego Springs Portland",
+      "slug": "brookdale-oswego-springs-portland",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "multnomah", "county_name": "Multnomah",
+      "city": "portland", "city_name": "Portland",
+      "address": "11552 SW Lesser Rd", "zip": "97219",
+      "phone": "(503) 542-4747",
+      "website": "https://www.brookdale.com/en/communities/brookdale-oswego-springs-portland.html",
+      "care_levels": ["assisted-living"],
+      "organization": "brookdale-senior-living",
+      "organization_name": "Brookdale Senior Living",
+      "description": "Brookdale Oswego Springs Portland is an assisted living community in southwest Portland operated by Brookdale Senior Living, the largest senior living operator in the United States. The community provides personal care assistance, dining, and activity programming in a residential setting near the Lake Oswego border.",
+      "sources": [
+        "https://www.brookdale.com/en/communities/brookdale-oswego-springs-portland.html",
+        "https://www.aplaceformom.com/community/brookdale-oswego-springs-portland-102302",
+        "https://www.familyassets.com/assisted-living/oregon/portland/brookdale-oswego-springs"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Mirabella Portland",
+      "slug": "mirabella-portland",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "multnomah", "county_name": "Multnomah",
+      "city": "portland", "city_name": "Portland",
+      "address": "3550 SW Bond Ave", "zip": "97239",
+      "phone": "(503) 688-6400",
+      "care_levels": ["independent-living", "assisted-living", "skilled-nursing", "ccrc"],
+      "organization": "pacific-retirement-services",
+      "organization_name": "Pacific Retirement Services",
+      "description": "Mirabella Portland is a high-rise continuing care retirement community in Portland's South Waterfront district, offering independent living, assisted living, and skilled nursing in one building. It is affiliated with Pacific Retirement Services, a nonprofit senior living organization headquartered in Medford, Oregon.",
+      "sources": [
+        "https://www.aplaceformom.com/community/mirabella-portland-ccrc-1336580",
+        "https://www.yelp.com/biz/mirabella-portland-portland",
+        "https://www.assistedlivingcenter.com/facilities/or/portland/mirabella-at-south-waterfront-ccrc-97239/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Touchmark at Mount Bachelor Village",
+      "slug": "touchmark-at-mount-bachelor-village",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "deschutes", "county_name": "Deschutes",
+      "city": "bend", "city_name": "Bend",
+      "address": "19800 SW Touchmark Way", "zip": "97702",
+      "phone": "(541) 316-8445",
+      "website": "https://www.touchmark.com/senior-living/or/bend/mount-bachelor-village/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care"],
+      "organization": "touchmark",
+      "organization_name": "Touchmark",
+      "description": "Touchmark at Mount Bachelor Village is a full-service retirement community along the Deschutes River in Bend, offering independent living plus licensed residential care (Oregon's term for assisted living) and memory care. The community is operated by Touchmark, a multi-state senior living company.",
+      "sources": [
+        "https://www.touchmark.com/senior-living/or/bend/mount-bachelor-village/",
+        "https://www.ohca.com/facility-finder/touchmark-at-mount-bachelor-village/",
+        "https://www.yelp.com/biz/touchmark-at-mount-bachelor-village-bend-2"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Prestige Senior Living High Desert",
+      "slug": "prestige-senior-living-high-desert",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "deschutes", "county_name": "Deschutes",
+      "city": "bend", "city_name": "Bend",
+      "address": "2660 NE Mary Rose Pl", "zip": "97701",
+      "phone": "(541) 312-2003",
+      "website": "https://www.prestigecare.com/locations/prestige-senior-living-high-desert/",
+      "care_levels": ["assisted-living", "memory-care"],
+      "facility_size": "large",
+      "capacity": 75,
+      "organization": "prestige-care",
+      "organization_name": "Prestige Care",
+      "description": "Prestige Senior Living High Desert is a 75-bed assisted living and memory care community in Bend, near shopping and medical clinics. Residents receive medication management and help with daily activities, with the Expressions memory care program serving residents with Alzheimer's disease or other dementias.",
+      "sources": [
+        "https://www.prestigecare.com/locations/prestige-senior-living-high-desert/",
+        "https://www.ohca.com/facility-finder/prestige-senior-living-high-desert/",
+        "https://newlifestyles.com/listings/prestige-senior-living-high-desert-118593-bend-or",
+        "https://www.aplaceformom.com/community/prestige-senior-living-high-desert-98106"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Willow Place",
+      "slug": "willow-place",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "yamhill", "county_name": "Yamhill",
+      "city": "newberg", "city_name": "Newberg",
+      "address": "1307 N. College Street", "zip": "97132",
+      "phone": "(503) 537-9100",
+      "website": "https://ccliving.com/our-communities/willow-place/",
+      "care_levels": ["memory-care"],
+      "description": "Willow Place is a memory care community in Newberg serving seniors with Alzheimer's disease and other dementias, with 24-hour care overseen by licensed nurses. Originally opened as Huffman House in 1991, it is co-owned and managed by Concepts in Community Living and has also been operated in association with Prestige.",
+      "sources": [
+        "https://ccliving.com/our-communities/willow-place/",
+        "https://www.prestigecare.com/locations/willow-place/",
+        "https://www.caring.com/senior-living/oregon/newberg/willow-place-97132",
+        "https://www.ohca.com/facility-finder/willow-place/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Mt. Angel Health and Rehabilitation",
+      "slug": "mt-angel-health-and-rehabilitation",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "marion", "county_name": "Marion",
+      "city": "mount-angel", "city_name": "Mount Angel",
+      "address": "540 South Main Street", "zip": "97362",
+      "phone": "(503) 845-6841",
+      "website": "https://mtangelcare.com/",
+      "care_levels": ["skilled-nursing"],
+      "facility_size": "large",
+      "capacity": 93,
+      "cms_ccn": "385018",
+      "description": "Mt. Angel Health and Rehabilitation is a 93-bed Medicare- and Medicaid-certified skilled nursing facility in the small town of Mount Angel, offering skilled nursing, short-term rehabilitation, and long-term care. The facility was formerly known as Providence Benedictine Nursing Center, originally founded by the Benedictine Sisters in 1957.",
+      "sources": [
+        "https://mtangelcare.com/",
+        "https://health.usnews.com/best-nursing-homes/area/or/mt-angel-health-and-rehabilitation-385018",
+        "https://www.ohca.com/facility-finder/mt-angel-health-and-rehabilitation/",
+        "https://careavailability.com/provider/providence-benedictine-nursing-center/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Prestige Senior Living Arbor Place",
+      "slug": "prestige-senior-living-arbor-place",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "jackson", "county_name": "Jackson",
+      "city": "medford", "city_name": "Medford",
+      "address": "3150 Juanipero Way", "zip": "97504",
+      "phone": "(541) 773-5380",
+      "website": "https://www.prestigecare.com/locations/prestige-senior-living-arbor-place/",
+      "care_levels": ["assisted-living", "memory-care"],
+      "facility_size": "large",
+      "organization": "prestige-care",
+      "organization_name": "Prestige Care",
+      "description": "Prestige Senior Living Arbor Place is a 72-apartment assisted living community in Medford with an attached 18-room memory care center. Assisted living residents participate in the Celebrations wellness program, while the Expressions memory care program serves residents living with Alzheimer's disease or other memory impairments.",
+      "sources": [
+        "https://www.prestigecare.com/locations/prestige-senior-living-arbor-place/",
+        "https://www.seniorlivingguide.com/communities/arbor-place-3150-juanipero-way-medford-or-97504/",
+        "https://www.aplaceformom.com/community/prestige-senior-living-arbor-place-98105",
+        "https://www.ohca.com/facility-finder/prestige-senior-living-arbor-place/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Felicity Haven Adult Foster Home",
+      "slug": "felicity-haven-adult-foster-home",
+      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
+      "county": "marion", "county_name": "Marion",
+      "city": "salem", "city_name": "Salem",
+      "address": "2676 Tahoe Ave SE", "zip": "97306",
+      "phone": "(503) 581-8385",
+      "care_levels": ["adult-family-home", "memory-care"],
+      "facility_size": "small",
+      "description": "Felicity Haven Adult Foster Home is a licensed adult foster home in a residential neighborhood of South Salem, within five miles of shopping, clinics, hospitals, and a senior center. It provides 24-hour personal care in a small home setting and cares for seniors with disabilities, including those diagnosed with Alzheimer's disease and other forms of dementia.",
+      "sources": [
+        "https://www.aplaceformom.com/community/felicity-haven-adult-foster-home-1393946",
+        "https://www.seniorhousingnet.com/seniorliving-detail/felicity-haven-adult-foster-home_2676-tahoe-ave-se_salem_or_97306-623974",
+        "https://www.seniorhomes.com/oregon/salem/felicity-haven-adult-foster-home"
+      ],
+      "verified_date": "2026-07-11"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Bonaventure Senior Living",
+      "slug": "bonaventure-senior-living",
+      "headquarters": "Salem, Oregon",
+      "website": "https://bonaventuresenior.com/",
+      "facility_count_approx": 28,
+      "states": ["OR", "WA", "CO"],
+      "description": "Bonaventure Senior Living is a senior living operator headquartered in Salem, Oregon, with a portfolio of roughly 28 communities across Oregon, Washington, and Colorado. Its communities offer independent living, assisted living, and memory care. In Washington, the company entered a $7 million consent agreement with the state attorney general to improve services at 10 of its long-term care facilities.",
+      "sources": [
+        "https://bonaventuresenior.com/about-us/",
+        "https://www.linkedin.com/company/bonaventure-senior-living",
+        "https://www.atg.wa.gov/news/news-releases/bonaventure-will-pay-7-million-improve-services-10-long-term-care-facilities-wa"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Avamere",
+      "slug": "avamere",
+      "headquarters": "Wilsonville, Oregon",
+      "website": "https://www.avamere.com/",
+      "facility_count_approx": 32,
+      "states": ["OR", "WA"],
+      "description": "Avamere Family of Companies is a senior care organization headquartered in Wilsonville, Oregon, operating skilled nursing, post-acute rehabilitation, and senior living locations in the Pacific Northwest. After acquiring four Washington facilities, its footprint grew to roughly 32 facilities across Oregon and Washington.",
+      "sources": [
+        "https://www.avamere.com/locations/",
+        "https://www.bbb.org/us/or/wilsonville/profile/senior-citizens-service-organizations/avamere-family-of-companies-1296-22023778"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Prestige Care",
+      "slug": "prestige-care",
+      "headquarters": "Vancouver, Washington",
+      "website": "https://www.prestigecare.com/",
+      "facility_count_approx": 70,
+      "states": ["OR", "WA", "ID", "MT", "NV", "AK", "AZ", "CA"],
+      "description": "Prestige Care, Inc. is a family-owned senior care company headquartered in Vancouver, Washington, providing independent living, assisted living, memory care, and skilled nursing across eight Western states, historically with more than 70 locations. In 2024, PACS Group acquired the operations of 53 skilled nursing, assisted living, and independent living facilities from Prestige, so its current footprint is smaller than its historical peak.",
+      "sources": [
+        "https://www.prestigecare.com/contact-us/",
+        "https://www.prestigecare.com/find-a-location/",
+        "https://www.nasdaq.com/press-release/pacs-group-extends-footprint-services-pacific-northwest-and-other-states-2024-09-11"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Brookdale Senior Living",
+      "slug": "brookdale-senior-living",
+      "headquarters": "Brentwood, Tennessee",
+      "website": "https://www.brookdale.com/",
+      "facility_count_approx": 647,
+      "description": "Brookdale Senior Living Inc. is the largest senior living operator in the United States, headquartered in Brentwood, Tennessee. As of March 31, 2025, it operated 647 communities across 41 states, serving approximately 58,000 residents through independent living, assisted living, memory care, and continuing care retirement communities, including multiple communities in Oregon.",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1332349/000133234925000063/march2025occupancy.htm",
+        "https://en.wikipedia.org/wiki/Brookdale_Senior_Living",
+        "https://www.brookdale.com/en/locations/oregon.html"
+      ],
+      "verified_date": "2026-07-11"
+    }
+  ]
+}

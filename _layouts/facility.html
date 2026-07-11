@@ -1,0 +1,105 @@
+---
+layout: default
+---
+<article>
+  <h1>{{ page.title }}</h1>
+  <p class="meta">{% if page.organization %}Part of <a href="/organizations/{{ page.organization }}/">{{ page.organization_name }}</a> · {% endif %}{{ page.city_name }}, {{ page.county_name }} County, {{ page.state_name }}</p>
+  {% include care-badges.html levels=page.care_levels %}
+
+  <div class="two-col">
+    <div>
+      <section class="panel" aria-labelledby="contact-h">
+        <h2 id="contact-h">Contact &amp; Location</h2>
+        <dl class="kv">
+          {%- if page.address %}
+          <dt>Address</dt>
+          <dd>{{ page.address }}, {{ page.city_name }}, {{ page.state_abbrev }}{% if page.zip %} {{ page.zip }}{% endif %}
+            · <a href="https://www.google.com/maps/search/?api=1&amp;query={{ page.title | append: ' ' | append: page.address | append: ' ' | append: page.city_name | append: ' ' | append: page.state_abbrev | url_encode }}" rel="noopener">Map</a></dd>
+          {%- endif %}
+          {%- if page.phone %}<dt>Phone</dt><dd><a href="tel:+1{{ page.phone | remove: '(' | remove: ')' | remove: '-' | remove: ' ' | remove: '.' }}">{{ page.phone }}</a></dd>{% endif %}
+          {%- if page.website %}<dt>Website</dt><dd><a href="{{ page.website }}" rel="noopener nofollow">{{ page.website | remove: 'https://' | remove: 'http://' | remove: 'www.' | split: '/' | first }}</a></dd>{% endif %}
+          {%- if page.capacity %}<dt>Capacity</dt><dd>{{ page.capacity }} residents</dd>{% endif %}
+          {%- if page.facility_size %}<dt>Community size</dt><dd>{% if page.facility_size == 'small' %}Small residential care home — <a href="/guides/adult-family-homes/">what that means</a>{% elsif page.facility_size == 'medium' %}Mid-size community{% else %}Large community{% endif %}</dd>{% endif %}
+        </dl>
+      </section>
+
+      {%- assign about = page.description_full | default: page.description %}
+      {%- if about %}
+      <section class="prose" aria-labelledby="about-h">
+        <h2 id="about-h">About {{ page.title }}</h2>
+        <p>{{ about }}</p>
+      </section>
+      {%- endif %}
+
+      <section class="prose" aria-labelledby="care-h">
+        <h2 id="care-h">Care offered here</h2>
+        <ul>
+          {%- for lv in page.care_levels %}
+          {%- assign info = site.data.care_levels[lv] %}
+          <li><strong>{{ info.label }}</strong> — <a href="{{ info.guide }}">what {{ info.label | downcase }} includes and who it fits</a></li>
+          {%- endfor %}
+        </ul>
+        <p>Care needs usually grow over time. Ask every community what happens when your parent
+        needs more care than their current level — moving twice is hard on everyone.
+        See <a href="/guides/levels-of-care-explained/">levels of care explained</a>.</p>
+      </section>
+
+      {% include ad-slot.html %}
+    </div>
+
+    <aside>
+      <section class="panel" aria-labelledby="ratings-h">
+        <h2 id="ratings-h">Official Ratings &amp; Inspections</h2>
+        {%- if page.cms_ccn %}
+        {%- if page.cms_rating_overall %}
+        <p>Medicare overall rating: {% include stars.html rating=page.cms_rating_overall %}</p>
+        {%- endif %}
+        <p>This community is Medicare-certified for skilled nursing. See its full federal report —
+        health inspections, staffing levels, and quality measures — on
+        <a href="https://www.medicare.gov/care-compare/details/nursing-home/{{ page.cms_ccn }}" rel="noopener">Medicare Care Compare</a>.</p>
+        {%- else %}
+        <p>Assisted living and residential care are licensed and inspected by the state, not
+        Medicare.{% if page.licensing %} Look up this community's license and inspection history at the
+        <a href="{{ page.licensing.lookup_url }}" rel="noopener">{{ page.licensing.agency }}</a>.{% endif %}</p>
+        {%- endif %}
+        <p><a href="/guides/reading-inspection-reports-and-ratings/">How to read ratings and inspection reports</a> —
+        including what the stars don't tell you.</p>
+      </section>
+
+      <section class="panel" aria-labelledby="tour-h">
+        <h2 id="tour-h">Before you tour</h2>
+        <ul>
+          <li><a href="/guides/touring-checklist/">What to look for on a tour</a></li>
+          <li><a href="/guides/staffing-ratios/">Questions to ask about staffing</a></li>
+          <li><a href="/guides/whats-not-included-hidden-fees/">Fees beyond the monthly rate</a></li>
+          <li><a href="/guides/food-and-dining/">How to judge the food</a></li>
+        </ul>
+      </section>
+    </aside>
+  </div>
+
+  {%- if page.nearby and page.nearby.size > 0 %}
+  <section aria-labelledby="nearby-h">
+    <h2 id="nearby-h">Other communities in {{ page.city_name }}</h2>
+    <ul class="grid">
+      {%- for f in page.nearby %}
+      {% include facility-card.html facility=f %}
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endif %}
+
+  <p class="notice">
+    Details verified against public sources on {{ page.verified_date | default: site.data_vintage.last_verified }}.
+    {%- if page.sources %} Sources:{% for s in page.sources %} <a href="{{ s }}" rel="nofollow noopener">[{{ forloop.index }}]</a>{% endfor %}.{% endif %}
+    Availability, pricing, and services change — always confirm directly with the community.
+    Represent this community? <a href="/for-communities/">Update this listing</a>.
+  </p>
+</article>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"LocalBusiness","additionalType":"https://schema.org/HealthAndBeautyBusiness","name":{{ page.title | jsonify }},
+{%- if page.address %}"address":{"@type":"PostalAddress","streetAddress":{{ page.address | jsonify }},"addressLocality":{{ page.city_name | jsonify }},"addressRegion":"{{ page.state_abbrev }}"{% if page.zip %},"postalCode":"{{ page.zip }}"{% endif %},"addressCountry":"US"},{% endif %}
+{%- if page.phone %}"telephone":{{ page.phone | jsonify }},{% endif %}
+{%- if page.website %}"sameAs":{{ page.website | jsonify }},{% endif %}
+"url":"{{ page.url | absolute_url }}"}
+</script>

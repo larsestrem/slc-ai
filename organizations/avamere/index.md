@@ -1,0 +1,13 @@
+---
+layout: "organization"
+title: "Avamere"
+seo_title: "Avamere — Senior Living Communities & Locations"
+description: "The Avamere Family of Companies, founded in 1995 and headquartered in Wilsonville, Oregon, began as a single nursing facility in Hillsboro, Oregon. It operate"
+org_description: "The Avamere Family of Companies, founded in 1995 and headquartered in Wilsonville, Oregon, began as a single nursing facility in Hillsboro, Oregon. It operates nearly 50 independent living, assisted living, transitional care, and skilled nursing facilities, concentrated in Oregon, Washington, and Colorado, along with ancillary companies providing rehabilitation, home health, and hospice services."
+headquarters: "Wilsonville, Oregon"
+website: "https://www.avamere.com/"
+facility_count_approx: 32
+org_states: ["OR", "WA"]
+facilities: [{"name": "Avamere Olympic Rehabilitation of Sequim", "url": "/directory/washington/clallam-county/sequim/avamere-olympic-rehabilitation-of-sequim/", "city_name": "Sequim", "state_abbrev": "WA", "care_levels": ["skilled-nursing"], "facility_size": "large", "description": "Avamere Olympic Rehabilitation of Sequim is a Medicare- and Medicaid-certified skilled nursing and rehabilitation facility with 125 federally certified beds in Sequim, on Washington's Olympic Peninsula. First certified by CMS in 1989, it is operated by the Avamere Family of Companies."}, {"name": "Avamere Rehabilitation of Eugene", "url": "/directory/oregon/lane-county/eugene/avamere-rehabilitation-of-eugene/", "city_name": "Eugene", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "facility_size": "large", "description": "Avamere Rehabilitation of Eugene is a 92-bed skilled nursing and rehabilitation facility in Eugene. It provides short-term post-acute rehabilitation and long-term nursing care, and holds a 4-star Medicare staffing rating. CMS closely monitored the facility for a period between 2024 and 2025 due to a documented pattern of care concerns."}, {"name": "Avamere Rehabilitation of Oregon City", "url": "/directory/oregon/clackamas-county/oregon-city/avamere-rehabilitation-of-oregon-city/", "city_name": "Oregon City", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "facility_size": "large", "cms_rating_overall": 1, "description": "Avamere Rehabilitation of Oregon City is a 111-bed Medicare- and Medicaid-certified skilled nursing facility providing short-term rehabilitation and long-term nursing care. Medicare quality measures for short-stay care have rated above average, while its overall CMS star rating has been low, driven by health inspection results."}]
+crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Avamere", "url": "/organizations/avamere/"}]
+---

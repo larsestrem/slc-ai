@@ -1,0 +1,49 @@
+# senior.living.community — Jekyll configuration
+title: Senior Living Community
+tagline: Find and choose senior care with confidence
+description: >-
+  A senior living directory and plain-language guide for families choosing
+  independent living, assisted living, memory care, or nursing care.
+url: "https://senior.living.community"
+baseurl: ""
+lang: en
+
+# Data provenance shown sitewide (updated by scripts/fetch_cms.py)
+data_vintage:
+  cms_note: "Facility details verified against public sources; CMS Care Compare ratings shown where available."
+  last_verified: "2026-07-11"
+
+# Monetization — ads are OFF by default. Set enabled: true and your publisher
+# ID to activate the lazy-loaded AdSense slots (see _includes/ad-slot.html).
+ads:
+  enabled: false
+  adsense_publisher: ""
+
+permalink: /news/:year/:month/:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - scripts/
+  - data/
+  - vendor/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

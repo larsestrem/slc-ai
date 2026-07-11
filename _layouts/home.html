@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}"{% if site.ads.enabled and site.ads.adsense_publisher != '' %} data-adsense-pub="{{ site.ads.adsense_publisher }}"{% endif %}>
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include header.html %}
+  <div class="hero">
+    <div class="wrap">
+      <h1>Choosing senior care is hard.<br>We help you do it with confidence.</h1>
+      <p class="lead">A plain-language directory of senior living communities — with honest guides
+      to care levels, real costs, government help, and the questions nobody tells you to ask.</p>
+      <p>
+        <a class="btn" href="/directory/">Browse the directory</a>
+        <a class="btn ghost" href="/guides/how-to-choose-a-senior-care-facility/">Start with the guide</a>
+      </p>
+    </div>
+  </div>
+  <main id="main" class="wrap">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
+</html>

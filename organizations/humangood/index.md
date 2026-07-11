@@ -1,0 +1,8 @@
+---
+layout: "organization"
+title: "HumanGood"
+seo_title: "HumanGood — Senior Living Communities & Locations"
+description: "HumanGood senior living communities: locations in our directory, company facts, and how to evaluate each community."
+facilities: [{"name": "Las Ventanas at Summerlin", "url": "/directory/nevada/clark-county/las-vegas/las-ventanas-at-summerlin/", "city_name": "Las Vegas", "state_abbrev": "NV", "care_levels": ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"], "facility_size": "large", "description": "Las Ventanas at Summerlin is Nevada's only Life Care community (CCRC), operated by the nonprofit HumanGood. The campus offers independent living apartments and villas plus assisted living, memory care, and skilled nursing on one site. U.S. News & World Report named it a Best Continuing Care Retirement Community in its 2026 Best Senior Living awards."}, {"name": "The Terraces at San Joaquin Gardens", "url": "/directory/california/fresno-county/fresno/the-terraces-at-san-joaquin-gardens/", "city_name": "Fresno", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "description": "The Terraces at San Joaquin Gardens is a continuing care retirement community on North Fresno Street in Fresno. It offers maintenance-free independent living, assisted living, memory care, and long-term skilled nursing with post-acute rehabilitation on one campus, and is part of the nonprofit HumanGood family of communities."}]
+crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "HumanGood", "url": "/organizations/humangood/"}]
+---

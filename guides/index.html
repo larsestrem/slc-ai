@@ -1,0 +1,31 @@
+---
+layout: default
+title: "Family Guides to Choosing Senior Care"
+description: "Plain-language guides for families choosing senior living: care levels, real costs, Medicaid and government help, touring, staffing, and the emotional side."
+crumbs:
+  - name: Guides
+    url: /guides/
+---
+<h1>Family Guides</h1>
+<p class="lead">Everything we know about choosing well — written for families under stress, not
+industry insiders. One topic per page, straight answers, no sales pitch.</p>
+
+{%- assign groups = "choosing|Making the decision,care-levels|Understanding care & facility types,costs|What it really costs,paying|Paying for care & government help,quality|Judging quality,emotional|The emotional side" | split: "," %}
+{%- assign guide_pages = site.pages | where: "layout", "guide" | sort: "title" %}
+{%- for g in groups %}
+{%- assign parts = g | split: "|" %}
+{%- assign in_group = guide_pages | where: "topic_group", parts[0] %}
+{%- if in_group.size > 0 %}
+<section aria-labelledby="g-{{ parts[0] }}">
+  <h2 id="g-{{ parts[0] }}">{{ parts[1] }}</h2>
+  <ul class="grid">
+    {%- for p in in_group %}
+    <li class="card">
+      <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
+      <p class="desc">{{ p.description }}</p>
+    </li>
+    {%- endfor %}
+  </ul>
+</section>
+{%- endif %}
+{%- endfor %}

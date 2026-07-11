@@ -1,0 +1,12 @@
+---
+layout: "county"
+title: "Payette County, ID Senior Living"
+seo_title: "Senior Living in Payette County, ID — 1 Communities"
+description: "Senior living in Payette County, Idaho: 1 communities across 1 cities, with care levels and inspection links."
+county_name: "Payette"
+state_name: "Idaho"
+state_abbrev: "ID"
+facility_count: 1
+cities: [{"slug": "fruitland", "name": "Fruitland", "url": "/directory/idaho/payette-county/fruitland/", "facilities": [{"name": "Edgewood Spring Creek Fruitland", "url": "/directory/idaho/payette-county/fruitland/edgewood-spring-creek-fruitland/", "city_name": "Fruitland", "state_abbrev": "ID", "care_levels": ["assisted-living", "memory-care"], "description": "Edgewood Spring Creek Fruitland is an assisted living community in the small western Idaho town of Fruitland, licensed for traditional assisted living plus a secured memory care neighborhood for residents with Alzheimer's disease or other dementias. Services include 24-hour caregiver coverage, on-call nursing, medication administration, three daily meals, housekeeping, scheduled transportation, and coordination with visiting therapy and hospice teams."}]}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Payette County", "url": "/directory/idaho/payette-county/"}]
+---

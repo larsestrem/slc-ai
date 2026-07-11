@@ -1,0 +1,44 @@
+---
+layout: home
+title: null
+description: >-
+  Find senior living communities by state, county, and city — and learn how to choose well:
+  care levels, real costs, Medicaid and government help, touring checklists, and more.
+---
+<section aria-labelledby="dir-h">
+  <h2 id="dir-h">Find communities near your family</h2>
+  <ul class="grid">
+    {%- for st in site.data.states %}
+    {%- assign stats = site.data.stats.states[st.slug] %}
+    <li class="card">
+      <h3><a href="/directory/{{ st.slug }}/">{{ st.name }}</a></h3>
+      <p class="meta">{% if stats %}{{ stats.facilities }} communities · {{ stats.cities }} cities{% else %}Browse communities{% endif %}</p>
+    </li>
+    {%- endfor %}
+  </ul>
+  <p class="notice">Coverage is growing state by state. Our facility data starts from public and
+  government sources and is verified against current listings — see <a href="/about/">how we source
+  and check data</a>.</p>
+</section>
+
+<section aria-labelledby="start-h">
+  <h2 id="start-h">If you're just starting, start here</h2>
+  <ul class="grid">
+    <li class="card"><h3><a href="/guides/how-to-choose-a-senior-care-facility/">How to choose a senior care facility</a></h3><p class="desc">The whole process, step by step — from "we need help" to move-in day.</p></li>
+    <li class="card"><h3><a href="/guides/levels-of-care-explained/">Levels of care, explained</a></h3><p class="desc">Independent living, assisted living, memory care, skilled nursing — what each really means.</p></li>
+    <li class="card"><h3><a href="/guides/cost-of-senior-living/">What senior living really costs</a></h3><p class="desc">Honest numbers, how the bill grows, and how to compare quotes fairly.</p></li>
+    <li class="card"><h3><a href="/guides/paying-for-senior-care/">How families actually pay for it</a></h3><p class="desc">Savings, insurance, VA benefits, Medicaid — and what to plan for ahead of time.</p></li>
+    <li class="card"><h3><a href="/guides/touring-checklist/">The touring checklist</a></h3><p class="desc">What to look for, what to ask, and the red flags that matter.</p></li>
+    <li class="card"><h3><a href="/guides/coping-with-the-decision/">The emotional side</a></h3><p class="desc">Guilt, family conflict, and why choosing care is an act of love — plus where to find support.</p></li>
+  </ul>
+</section>
+
+<section aria-labelledby="honest-h" class="prose">
+  <h2 id="honest-h">Why families trust this site</h2>
+  <p>We're independent. We don't take referral fees from communities, so we can tell you the
+  things sales tours won't: <a href="/guides/whats-not-included-hidden-fees/">what's not in the
+  quoted monthly rate</a>, <a href="/guides/staffing-ratios/">how to check real staffing</a>,
+  <a href="/guides/placement-professionals/">how "free" placement services get paid</a>, and
+  <a href="/guides/medicaid-estate-recovery/">how Medicaid can claim the family home afterward</a>.
+  Big decisions deserve straight answers.</p>
+</section>

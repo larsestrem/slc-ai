@@ -1,0 +1,8 @@
+{%- if include.levels %}
+<ul class="badges" aria-label="Care levels offered">
+  {%- for lv in include.levels %}
+  {%- assign info = site.data.care_levels[lv] %}
+  <li><a class="badge{% if lv == 'adult-family-home' %} small-home{% endif %}" href="{{ info.guide | default: '/guides/levels-of-care-explained/' }}" title="Learn what {{ info.label | default: lv }} means">{{ info.label | default: lv }}</a></li>
+  {%- endfor %}
+</ul>
+{%- endif %}

@@ -1,0 +1,28 @@
+---
+layout: "facility"
+title: "Twin Falls Transitional Care of Cascadia"
+seo_title: "Twin Falls Transitional Care of Cascadia — Senior Living in Twin Falls, ID"
+description: "Twin Falls Transitional Care of Cascadia is a 116-bed Medicare- and Medicaid-certified skilled nursing facility providing rehabilitation and long-term skilled"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Twin Falls County", "url": "/directory/idaho/twin-falls-county/"}, {"name": "Twin Falls", "url": "/directory/idaho/twin-falls-county/twin-falls/"}, {"name": "Twin Falls Transitional Care of Cascadia", "url": "/directory/idaho/twin-falls-county/twin-falls/twin-falls-transitional-care-of-cascadia/"}]
+nearby: []
+state: "idaho"
+state_name: "Idaho"
+state_abbrev: "ID"
+county: "twin-falls"
+county_name: "Twin Falls"
+city: "twin-falls"
+city_name: "Twin Falls"
+address: "674 Eastland Drive"
+zip: "83301"
+phone: "(208) 734-4264"
+website: "https://www.twinfallstransitionalofcascadia.com/"
+care_levels: ["skilled-nursing"]
+facility_size: "large"
+capacity: 116
+organization: "cascadia-healthcare"
+organization_name: "Cascadia Healthcare"
+cms_ccn: "135104"
+sources: ["https://www.twinfallstransitionalofcascadia.com/", "https://www.medicarelist.com/nursing-home/twin-falls-center-twin-falls-id/", "https://health.usnews.com/best-nursing-homes/area/id/twin-falls-transitional-care-of-cascadia-135104", "https://carelistings.com/skilled-nursing-facilities/twin-falls-id/twin-falls-transitional-care-of-cascadia/5ace880f93efd2372f97bc38"]
+verified_date: "2026-07-11"
+description_full: "Twin Falls Transitional Care of Cascadia is a 116-bed Medicare- and Medicaid-certified skilled nursing facility providing rehabilitation and long-term skilled nursing care in Twin Falls. The facility focuses on transitional, post-acute care for patients recovering after a hospital stay. It is operated by Idaho-based Cascadia Healthcare."
+---

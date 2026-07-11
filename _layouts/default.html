@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}"{% if site.ads.enabled and site.ads.adsense_publisher != '' %} data-adsense-pub="{{ site.ads.adsense_publisher }}"{% endif %}>
+<head>
+  {% include head.html %}
+  {{ content_head }}
+</head>
+<body>
+  {% include header.html %}
+  {% include breadcrumbs.html %}
+  <main id="main" class="wrap">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
+</html>

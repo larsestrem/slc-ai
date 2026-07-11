@@ -1,0 +1,23 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- assign skip = "/404.html" %}
+{%- for p in site.pages %}
+{%- if p.sitemap == false or p.url == skip %}{% continue %}{% endif %}
+{%- assign ext = p.url | split: "." | last %}
+{%- if ext == "xml" or ext == "txt" or ext == "css" or ext == "js" %}{% continue %}{% endif %}
+  <url>
+    <loc>{{ p.url | replace: 'index.html', '' | absolute_url | xml_escape }}</loc>
+    {%- if p.updated %}<lastmod>{{ p.updated }}</lastmod>{% elsif p.verified_date %}<lastmod>{{ p.verified_date }}</lastmod>{% endif %}
+  </url>
+{%- endfor %}
+{%- for post in site.posts %}
+  <url>
+    <loc>{{ post.url | absolute_url | xml_escape }}</loc>
+    <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
+  </url>
+{%- endfor %}
+</urlset>

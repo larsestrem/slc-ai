@@ -1,0 +1,27 @@
+---
+layout: "facility"
+title: "Las Ventanas at Summerlin"
+seo_title: "Las Ventanas at Summerlin — Senior Living in Las Vegas, NV"
+description: "Las Ventanas at Summerlin is Nevada's only Life Care community (CCRC), operated by the nonprofit HumanGood. The campus offers independent living apartments an"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Clark County", "url": "/directory/nevada/clark-county/"}, {"name": "Las Vegas", "url": "/directory/nevada/clark-county/las-vegas/"}, {"name": "Las Ventanas at Summerlin", "url": "/directory/nevada/clark-county/las-vegas/las-ventanas-at-summerlin/"}]
+nearby: [{"name": "Atria Seville", "url": "/directory/nevada/clark-county/las-vegas/atria-seville/", "city_name": "Las Vegas", "state_abbrev": "NV", "care_levels": ["independent-living", "assisted-living"], "description": "Atria Seville is an independent and assisted living community in the Summerlin area of Las Vegas, operated by Atria Senior Living. The community offers both independent living apartments and assisted living services with staff available around the clock."}, {"name": "Life Care Center of Las Vegas", "url": "/directory/nevada/clark-county/las-vegas/life-care-center-of-las-vegas/", "city_name": "Las Vegas", "state_abbrev": "NV", "care_levels": ["skilled-nursing"], "facility_size": "large", "cms_rating_overall": 4, "description": "Life Care Center of Las Vegas is a 178-bed Medicare- and Medicaid-certified skilled nursing facility offering short-term rehabilitation and long-term care. It is operated by Life Care Centers of America and was first certified for Medicare/Medicaid in 1993."}, {"name": "Golden Villa Care Home", "url": "/directory/nevada/clark-county/las-vegas/golden-villa-care-home/", "city_name": "Las Vegas", "state_abbrev": "NV", "care_levels": ["assisted-living", "memory-care"], "facility_size": "small", "description": "Golden Villa Care Home is a 10-bed residential care home in a single-story house on Las Vegas's west side. As a small group home, it offers personal care and memory care support in a home-like setting as an alternative to a large assisted living community."}]
+state: "nevada"
+state_name: "Nevada"
+state_abbrev: "NV"
+county: "clark"
+county_name: "Clark"
+city: "las-vegas"
+city_name: "Las Vegas"
+address: "10401 W Charleston Blvd"
+zip: "89135"
+phone: "(702) 207-4242"
+website: "https://www.humangood.org/las-ventanas-at-summerlin"
+care_levels: ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"]
+facility_size: "large"
+organization: "humangood"
+organization_name: "HumanGood"
+sources: ["https://www.humangood.org/las-ventanas-at-summerlin", "https://www.seniorlivingguide.com/communities/las-ventanas-at-summerlin-10401-w-charleston-blvd-las-vegas-nv-89135/", "https://health.usnews.com/best-senior-living/las-ventanas-628"]
+verified_date: "2026-07-11"
+description_full: "Las Ventanas at Summerlin is Nevada's only Life Care community (CCRC), operated by the nonprofit HumanGood. The campus offers independent living apartments and villas plus assisted living, memory care, and skilled nursing on one site. U.S. News & World Report named it a Best Continuing Care Retirement Community in its 2026 Best Senior Living awards."
+licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
+---

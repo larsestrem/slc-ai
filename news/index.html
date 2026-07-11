@@ -1,0 +1,21 @@
+---
+layout: default
+title: "Senior Living News for Families"
+description: "News that affects families choosing senior care — staffing rules, cost trends, and regulation — explained in plain language with what it means for you."
+crumbs:
+  - name: News
+    url: /news/
+---
+<h1>Senior Living News</h1>
+<p class="lead">Industry and policy news, translated: every story ends with what it means for a
+family choosing a community.</p>
+
+<ul class="post-list">
+  {%- for post in site.posts %}
+  <li>
+    <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
+    <h2 style="margin:.1rem 0 .3rem;font-size:1.2rem"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p style="margin:0">{{ post.description }}</p>
+  </li>
+  {%- endfor %}
+</ul>

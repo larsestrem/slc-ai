@@ -1,0 +1,278 @@
+{
+  "facilities": [
+    {
+      "name": "Brookdale Boise Parkcenter",
+      "slug": "brookdale-boise-parkcenter",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "739 East Parkcenter Blvd",
+      "zip": "83706",
+      "phone": "(208) 338-5600",
+      "website": "https://www.brookdale.com/en/communities/brookdale-boise-parkcenter-al.html",
+      "care_levels": ["independent-living", "assisted-living"],
+      "organization": "brookdale-senior-living",
+      "organization_name": "Brookdale Senior Living",
+      "description": "Brookdale Boise Parkcenter offers both independent living and assisted living on one campus along the Boise River greenbelt corridor in southeast Boise. Assisted living residents receive help with daily tasks such as bathing, dressing, and mobility, with staff available around the clock. The community is part of Brookdale Senior Living, the largest senior living operator in the United States.",
+      "sources": [
+        "https://www.brookdale.com/en/communities/brookdale-boise-parkcenter-al.html",
+        "https://www.aplaceformom.com/community/brookdale-boise-parkcenter-52862",
+        "https://www.yelp.com/biz/brookdale-senior-living-boise"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Edgewood Meridian",
+      "slug": "edgewood-meridian",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "meridian",
+      "city_name": "Meridian",
+      "address": "175 East Calderwood Drive",
+      "zip": "83642",
+      "phone": "(208) 884-6199",
+      "website": "https://www.edgewoodhealthcare.com/community/meridian/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"],
+      "organization": "edgewood-healthcare",
+      "organization_name": "Edgewood Healthcare",
+      "description": "Edgewood Meridian (licensed as Edgewood Spring Creek Meridian) offers independent living, assisted living, secured memory care, and short-term stays near Ten Mile Creek in Meridian. The state-licensed assisted living facility maintains 24-hour staffing, medication management, and on-site coordination of physical, occupational, and speech therapy. Its memory care neighborhood serves residents with Alzheimer's disease and other dementias, with secured, alarmed doors and a fenced outdoor area.",
+      "sources": [
+        "https://www.edgewoodhealthcare.com/community/meridian/",
+        "https://www.aplaceformom.com/community/edgewood-spring-creek-meridian-llc-140006",
+        "https://www.carechanges.com/living-communities/edgewood-meridian_meridian_idaho/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Touchmark at Meadow Lake Village",
+      "slug": "touchmark-at-meadow-lake-village",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "meridian",
+      "city_name": "Meridian",
+      "address": "4037 E Clocktower Ln",
+      "zip": "83642",
+      "phone": "(208) 888-2277",
+      "website": "https://www.touchmark.com/senior-living/id/meridian/meadow-lake-village/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"],
+      "organization": "touchmark",
+      "organization_name": "Touchmark",
+      "description": "Touchmark at Meadow Lake Village is a full-continuum retirement community in Meridian, near Boise, offering independent living cottages and lodge homes, assisted living, memory care, and respite care. The campus lets residents move between levels of care as needs change. It is operated by Touchmark, a multi-state senior living company.",
+      "sources": [
+        "https://www.touchmark.com/senior-living/id/meridian/meadow-lake-village/",
+        "https://www.yelp.com/biz/touchmark-at-meadow-lake-village-meridian-3",
+        "https://www.aplaceformom.com/community/touchmark-at-meadow-lake-village-1414717"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Grace Assisted Living - Nampa",
+      "slug": "grace-assisted-living-nampa",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "canyon",
+      "county_name": "Canyon",
+      "city": "nampa",
+      "city_name": "Nampa",
+      "address": "1610 Sunny Ridge Road",
+      "zip": "83686",
+      "phone": "(208) 442-9595",
+      "website": "https://graceseniorcommunity.com/nampa-assisted-living/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"],
+      "organization": "grace-assisted-living",
+      "organization_name": "Grace Assisted Living",
+      "description": "Grace Assisted Living in Nampa offers independent retirement living and assisted living, plus Assist Plus memory care, respite day care, and hospice support, on Sunny Ridge Road overlooking Liberty Park. Care staff are available 24 hours a day under the supervision of a facility RN. Amenities include a hair salon, library, outdoor garden, communal dining hall, and swimming pool.",
+      "sources": [
+        "https://graceseniorcommunity.com/nampa-assisted-living/",
+        "https://www.yelp.com/biz/grace-independent-and-assisted-living-nampa-nampa-4",
+        "https://www.senioradvice.com/providers/view/grace-assisted-living-grace-at-sunny-ridge-nampa-id"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Fox Den Homes Bannock House",
+      "slug": "fox-den-homes-bannock-house",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "1819 W Bannock St",
+      "zip": "83702",
+      "phone": "(208) 914-3678",
+      "website": "https://www.foxdenidaho.com/",
+      "care_levels": ["assisted-living", "memory-care"],
+      "facility_size": "small",
+      "capacity": 8,
+      "organization": "fox-den-homes",
+      "organization_name": "Fox Den Homes",
+      "description": "Fox Den Homes Bannock House is a cozy 8-bed residential assisted living and memory care home just west of downtown Boise. As a small residential care home, it emphasizes a lower caregiver-to-resident ratio and a personal, home-like feel compared with larger facilities. It is one of several small Fox Den Homes residences in the Treasure Valley.",
+      "sources": [
+        "https://www.foxdenidaho.com/",
+        "https://www.aplaceformom.com/community/fox-den-homes-bannock-house-52827",
+        "https://www.mycaringplan.com/senior-living/fox-den-homes-bannock-house/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Life Care Center of Idaho Falls",
+      "slug": "life-care-center-of-idaho-falls",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bonneville",
+      "county_name": "Bonneville",
+      "city": "idaho-falls",
+      "city_name": "Idaho Falls",
+      "address": "2725 East 17th Street",
+      "zip": "83406",
+      "phone": "(208) 529-4567",
+      "website": "https://lcca.com/locations/id/idaho-falls/",
+      "care_levels": ["skilled-nursing"],
+      "facility_size": "large",
+      "capacity": 109,
+      "organization": "life-care-centers-of-america",
+      "organization_name": "Life Care Centers of America",
+      "cms_ccn": "135091",
+      "cms_rating_overall": 5,
+      "description": "Life Care Center of Idaho Falls is a 109-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility on the east side of Idaho Falls. It provides post-acute skilled nursing and short-term rehabilitation, and holds a 5-star overall rating from the Centers for Medicare & Medicaid Services. The facility has participated in Medicare since 1981 and is part of Life Care Centers of America.",
+      "sources": [
+        "https://lcca.com/locations/id/idaho-falls/",
+        "https://health.usnews.com/best-nursing-homes/area/id/life-care-center-of-idaho-falls-135091",
+        "https://www.mycaringplan.com/senior-living/life-care-center-of-idaho-falls/",
+        "https://carelistings.com/skilled-nursing-facilities/idaho-falls-id/life-care-center-of-idaho-falls/5ace880f93efd2372f97bc1e"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Twin Falls Transitional Care of Cascadia",
+      "slug": "twin-falls-transitional-care-of-cascadia",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "twin-falls",
+      "county_name": "Twin Falls",
+      "city": "twin-falls",
+      "city_name": "Twin Falls",
+      "address": "674 Eastland Drive",
+      "zip": "83301",
+      "phone": "(208) 734-4264",
+      "website": "https://www.twinfallstransitionalofcascadia.com/",
+      "care_levels": ["skilled-nursing"],
+      "facility_size": "large",
+      "capacity": 116,
+      "organization": "cascadia-healthcare",
+      "organization_name": "Cascadia Healthcare",
+      "cms_ccn": "135104",
+      "description": "Twin Falls Transitional Care of Cascadia is a 116-bed Medicare- and Medicaid-certified skilled nursing facility providing rehabilitation and long-term skilled nursing care in Twin Falls. The facility focuses on transitional, post-acute care for patients recovering after a hospital stay. It is operated by Idaho-based Cascadia Healthcare.",
+      "sources": [
+        "https://www.twinfallstransitionalofcascadia.com/",
+        "https://www.medicarelist.com/nursing-home/twin-falls-center-twin-falls-id/",
+        "https://health.usnews.com/best-nursing-homes/area/id/twin-falls-transitional-care-of-cascadia-135104",
+        "https://carelistings.com/skilled-nursing-facilities/twin-falls-id/twin-falls-transitional-care-of-cascadia/5ace880f93efd2372f97bc38"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Creekside Inn",
+      "slug": "creekside-inn",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "kootenai",
+      "county_name": "Kootenai",
+      "city": "coeur-dalene",
+      "city_name": "Coeur d'Alene",
+      "address": "240 E Kathleen Ave",
+      "zip": "83815",
+      "phone": "(208) 665-2444",
+      "website": "https://koelschseniorcommunities.com/senior-living/id/coeur-dalene/memory-care/creekside-inn/",
+      "care_levels": ["memory-care"],
+      "organization": "koelsch-communities",
+      "organization_name": "Koelsch Communities",
+      "description": "Creekside Inn is a dedicated memory care community in Coeur d'Alene designed exclusively for residents living with Alzheimer's disease, dementia, and other forms of memory loss. Licensed nurses are on site 24 hours a day, and staff use Humanitude care techniques. The community is located near medical facilities and is operated by Koelsch Communities, a family-owned multi-state senior living company.",
+      "sources": [
+        "https://koelschseniorcommunities.com/senior-living/id/coeur-dalene/memory-care/creekside-inn/",
+        "https://www.yelp.com/biz/creekside-inn-coeur-d-alene-2",
+        "https://www.aplaceformom.com/community/creekside-inn-memory-care-community-146875"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Edgewood Spring Creek Fruitland",
+      "slug": "edgewood-spring-creek-fruitland",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "payette",
+      "county_name": "Payette",
+      "city": "fruitland",
+      "city_name": "Fruitland",
+      "address": "1255 Allen Avenue",
+      "zip": "83619",
+      "phone": "(208) 452-5163",
+      "care_levels": ["assisted-living", "memory-care"],
+      "organization": "edgewood-healthcare",
+      "organization_name": "Edgewood Healthcare",
+      "description": "Edgewood Spring Creek Fruitland is an assisted living community in the small western Idaho town of Fruitland, licensed for traditional assisted living plus a secured memory care neighborhood for residents with Alzheimer's disease or other dementias. Services include 24-hour caregiver coverage, on-call nursing, medication administration, three daily meals, housekeeping, scheduled transportation, and coordination with visiting therapy and hospice teams.",
+      "sources": [
+        "https://carechanges.com/living-communities/edgewood-spring-creek-fruitland_fruitland_idaho/",
+        "https://www.aplaceformom.com/community/edgewood-spring-creek-fruitland-1363294",
+        "https://edgewoodreit.com/properties/edgewood-spring-creek-fruitland/"
+      ],
+      "verified_date": "2026-07-11"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Edgewood Healthcare",
+      "slug": "edgewood-healthcare",
+      "headquarters": "Grand Forks, North Dakota",
+      "website": "https://www.edgewoodhealthcare.com/",
+      "facility_count_approx": 64,
+      "states": ["ND", "SD", "MN", "MT", "NE", "WY", "ID"],
+      "description": "Edgewood Healthcare, headquartered in Grand Forks, North Dakota, is the leading operator of senior living communities in the upper Midwest. The company owns and/or operates 64 independent living, assisted living, and memory care communities with over 4,100 beds across seven states, including several Spring Creek communities in Idaho's Treasure Valley and western Idaho.",
+      "sources": [
+        "https://www.edgewoodhealthcare.com/edgewood-expands-north-dakota-operations-3/",
+        "https://www.edgewoodhealthcare.com/find-community/"
+      ]
+    },
+    {
+      "name": "Brookdale Senior Living",
+      "slug": "brookdale-senior-living",
+      "headquarters": "Brentwood, Tennessee",
+      "website": "https://www.brookdale.com/",
+      "facility_count_approx": 424,
+      "description": "Brookdale Senior Living, headquartered at 111 Westwood Place in Brentwood, Tennessee, is the largest operator of senior housing in the United States, serving over 51,000 residents as of December 31, 2025. The publicly traded company operates 424 communities offering independent living, assisted living, memory care, and continuing care across the country, including the Brookdale Boise Parkcenter campus in Idaho.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brookdale_Senior_Living",
+        "https://www.brookdale.com/en/locations/idaho.html"
+      ]
+    },
+    {
+      "name": "Koelsch Communities",
+      "slug": "koelsch-communities",
+      "headquarters": "Olympia, Washington",
+      "website": "https://koelschseniorcommunities.com/",
+      "facility_count_approx": 40,
+      "description": "Koelsch Communities is a family-owned senior living company founded in 1958 and headquartered in Olympia, Washington. It operates a portfolio of more than 40 communities across eight states, offering independent living, assisted living, and memory care, including the Creekside Inn memory care community in Coeur d'Alene, Idaho.",
+      "sources": [
+        "https://koelschseniorcommunities.com/",
+        "https://www.linkedin.com/company/koelsch-communities"
+      ]
+    }
+  ]
+}

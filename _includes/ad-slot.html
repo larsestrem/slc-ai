@@ -1,0 +1,9 @@
+{%- comment -%}
+Lazy-loaded ad slot. Renders nothing unless site.ads.enabled is true, so the
+site ships ad-free and Lighthouse-clean until monetization is switched on.
+The AdSense script is injected by /assets/js/lazy-ads.js only when the slot
+approaches the viewport (IntersectionObserver), so ads never block first paint.
+{%- endcomment -%}
+{%- if site.ads.enabled %}
+<div class="ad-slot" data-ad-slot="{{ include.slot | default: 'auto' }}" aria-hidden="true">Advertisement</div>
+{%- endif %}

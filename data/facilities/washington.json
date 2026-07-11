@@ -1,0 +1,324 @@
+{
+  "facilities": [
+    {
+      "name": "Aegis Living Queen Anne Rodgers Park",
+      "slug": "aegis-living-queen-anne-rodgers-park",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "king", "county_name": "King",
+      "city": "seattle", "city_name": "Seattle",
+      "address": "2900 3rd Ave W", "zip": "98119",
+      "phone": "(206) 858-9989",
+      "website": "https://www.aegisliving.com/locations/aegis-living-queen-anne-rodgers-park-seattle-wa/",
+      "care_levels": ["assisted-living", "memory-care"],
+      "facility_size": "large",
+      "capacity": 129,
+      "organization": "aegis-living",
+      "organization_name": "Aegis Living",
+      "description": "Aegis Living Queen Anne Rodgers Park is an assisted living and memory care community on Queen Anne Hill in Seattle, across from Rodgers Park. The community offers 88 assisted living apartments and 41 Life's Neighborhood memory care apartments. It is operated by Aegis Living, a Bellevue-based senior living company.",
+      "sources": [
+        "https://www.aegisliving.com/locations/aegis-living-queen-anne-rodgers-park-seattle-wa/",
+        "https://www.yelp.com/biz/aegis-living-queen-anne-rodgers-park-seattle",
+        "https://www.familyassets.com/assisted-living/washington/seattle/aegis-living-queen-anne-rodgers-park"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "University House Wallingford",
+      "slug": "university-house-wallingford",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "king", "county_name": "King",
+      "city": "seattle", "city_name": "Seattle",
+      "address": "4400 Stone Way N", "zip": "98103",
+      "phone": "(206) 545-8400",
+      "website": "https://www.eraliving.com/community/the-university-house-wallingford/",
+      "care_levels": ["independent-living", "assisted-living"],
+      "facility_size": "large",
+      "capacity": 146,
+      "organization": "era-living",
+      "organization_name": "Era Living",
+      "description": "University House Wallingford is an Era Living retirement community in Seattle's Wallingford neighborhood, opened in 1997, with 146 one- and two-bedroom apartments. It offers independent living with assisted living services available, a full-service restaurant, and an on-site wellness center staffed by a registered nurse. The community sits within walking distance of Wallingford shops, restaurants, and the library.",
+      "sources": [
+        "https://www.eraliving.com/community/the-university-house-wallingford/",
+        "https://www.yelp.com/biz/university-house-wallingford-seattle",
+        "https://www.aplaceformom.com/community/university-house-wallingford-71370"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Merrill Gardens at Ballard",
+      "slug": "merrill-gardens-at-ballard",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "king", "county_name": "King",
+      "city": "seattle", "city_name": "Seattle",
+      "address": "2418 NW 56th St", "zip": "98107",
+      "phone": "(206) 838-8555",
+      "website": "https://www.merrillgardens.com/senior-living/wa/seattle/merrill-gardens-at-ballard/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care"],
+      "organization": "merrill-gardens",
+      "organization_name": "Merrill Gardens",
+      "description": "Merrill Gardens at Ballard is a senior living community in the heart of Seattle's Ballard neighborhood offering independent living, assisted living, and memory care. It is operated by Merrill Gardens, a Seattle-based senior living company, and is located near Ballard's shopping, dining, and medical facilities.",
+      "sources": [
+        "https://www.merrillgardens.com/senior-living/wa/seattle/merrill-gardens-at-ballard/",
+        "https://www.yelp.com/biz/merrill-gardens-at-ballard-seattle",
+        "https://www.aplaceformom.com/community/merrill-gardens-at-ballard-1395594"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Cascades Adult Family Home",
+      "slug": "cascades-adult-family-home",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "king", "county_name": "King",
+      "city": "bellevue", "city_name": "Bellevue",
+      "address": "16512 SE Newport Way", "zip": "98006",
+      "phone": "(206) 355-3949",
+      "website": "https://cascadesafh.com/",
+      "care_levels": ["adult-family-home", "memory-care"],
+      "facility_size": "small",
+      "description": "Cascades Adult Family Home is a Washington state-licensed adult family home in Bellevue providing residential care and memory care in a home setting. The home is run under the direction of a registered nurse and serves seniors from Bellevue, Seattle, Redmond, and the surrounding Puget Sound area.",
+      "sources": [
+        "https://cascadesafh.com/",
+        "https://agesong.com/listing/cascades-adult-family-home-inc-bellevue/",
+        "https://www.aplaceformom.com/community/cascades-adult-family-home-141502"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Franke Tobey Jones",
+      "slug": "franke-tobey-jones",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "pierce", "county_name": "Pierce",
+      "city": "tacoma", "city_name": "Tacoma",
+      "address": "5340 N Bristol St", "zip": "98407",
+      "phone": "(253) 752-6621",
+      "website": "https://www.franketobeyjones.com/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing"],
+      "facility_size": "large",
+      "description": "Franke Tobey Jones is a not-for-profit senior living campus in North Tacoma offering independent living, assisted living, memory care, and skilled nursing at its FTJ Care Center. The community has served Tacoma seniors for more than a century and operates as a full-continuum campus near Point Defiance Park.",
+      "sources": [
+        "https://www.franketobeyjones.com/",
+        "https://www.franketobeyjones.com/living-options/skilled-nursing/ftj-care-center/",
+        "https://www.yelp.com/biz/franke-tobey-jones-tacoma"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Rockwood South Hill",
+      "slug": "rockwood-south-hill",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "spokane", "county_name": "Spokane",
+      "city": "spokane", "city_name": "Spokane",
+      "address": "2903 E 25th Ave", "zip": "99223",
+      "phone": "(509) 536-6650",
+      "website": "https://www.rockwoodretirement.org/southhill/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"],
+      "facility_size": "large",
+      "description": "Rockwood South Hill is a nonprofit continuing care retirement community (CCRC) on Spokane's South Hill, operated by Rockwood Retirement Communities. It offers independent living, assisted living, memory care, and skilled nursing on one campus. Rockwood's two Spokane campuses are the only accredited nonprofit CCRCs in the region.",
+      "sources": [
+        "https://www.rockwoodretirement.org/southhill/",
+        "https://www.seniorresource.com/retirement_community/rockwood-south-hill-spokane-wa-ccrc/",
+        "https://www.leadingagewa.org/directory/rockwood-retirement-communities/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Touchmark on South Hill",
+      "slug": "touchmark-on-south-hill",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "spokane", "county_name": "Spokane",
+      "city": "spokane", "city_name": "Spokane",
+      "address": "2929 S Waterford Dr", "zip": "99203",
+      "phone": "(509) 210-0164",
+      "website": "https://www.touchmark.com/senior-living/wa/spokane/south-hill/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing"],
+      "facility_size": "large",
+      "organization": "touchmark",
+      "organization_name": "Touchmark",
+      "description": "Touchmark on South Hill is a full-service retirement community on a 19-acre campus on Spokane's South Hill, near Manito Park. It offers independent living, assisted living, memory care, and skilled nursing and rehabilitation, plus home health and home care services. The community is part of Touchmark, a multi-state senior living operator.",
+      "sources": [
+        "https://www.touchmark.com/senior-living/wa/spokane/south-hill/",
+        "https://www.yelp.com/biz/touchmark-on-south-hill-spokane-4",
+        "https://carelistings.com/assisted-living-homes/spokane-wa/touchmark-on-south-hill/5acd0283a71d8c15cf695352"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Bonaventure of Vancouver",
+      "slug": "bonaventure-of-vancouver",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "clark", "county_name": "Clark",
+      "city": "vancouver", "city_name": "Vancouver",
+      "address": "9317 NE 86th St", "zip": "98662",
+      "phone": "(360) 718-3520",
+      "website": "https://bonaventuresenior.com/community/bonaventure-of-vancouver/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care"],
+      "organization": "bonaventure-senior-living",
+      "organization_name": "Bonaventure Senior Living",
+      "description": "Bonaventure of Vancouver is a senior living community in Vancouver, Washington offering retirement (independent) living, assisted living, and memory care. It is operated by Bonaventure Senior Living, a family-owned company based in Salem, Oregon.",
+      "sources": [
+        "https://bonaventuresenior.com/community/bonaventure-of-vancouver/",
+        "https://www.whca.org/facility-finder/bonaventure-of-vancouver/",
+        "https://www.yelp.com/biz/bonaventure-of-vancouver-vancouver-3"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Prestige Senior Living Bridgewood",
+      "slug": "prestige-senior-living-bridgewood",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "clark", "county_name": "Clark",
+      "city": "vancouver", "city_name": "Vancouver",
+      "address": "11700 NE Angelo Dr", "zip": "98684",
+      "phone": "(360) 254-4666",
+      "website": "https://www.prestigecare.com/locations/prestige-senior-living-bridgewood/",
+      "care_levels": ["independent-living", "assisted-living"],
+      "organization": "prestige-care",
+      "organization_name": "Prestige Care",
+      "description": "Prestige Senior Living Bridgewood is an independent and assisted living community in a park-like setting in east Vancouver, Washington, near I-205 between SR-500 and Mill Plain Boulevard. It is operated by Prestige Care, a senior care company headquartered in Vancouver, Washington.",
+      "sources": [
+        "https://www.prestigecare.com/locations/prestige-senior-living-bridgewood/",
+        "https://www.aplaceformom.com/community/prestige-senior-living-bridgewood-97217",
+        "https://www.yelp.com/biz/prestige-senior-living-bridgewood-vancouver"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Best Care Adult Family Home",
+      "slug": "best-care-adult-family-home",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "clark", "county_name": "Clark",
+      "city": "vancouver", "city_name": "Vancouver",
+      "address": "1512 SE Ellsworth Rd", "zip": "98664",
+      "phone": "(360) 891-1370",
+      "website": "https://afhbestcare.com/",
+      "care_levels": ["adult-family-home"],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Best Care Adult Family Home is a Washington state-licensed, 6-bed adult family home in Vancouver offering residential senior care in a home setting. Private rooms and semi-private rooms with a private bathroom are available.",
+      "sources": [
+        "https://afhbestcare.com/",
+        "https://www.yelp.com/biz/best-care-adult-family-home-vancouver",
+        "https://www.myafh.com/adult-family-home-vancouver-98664-6/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Lacamas Creek Post Acute",
+      "slug": "lacamas-creek-post-acute",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "clark", "county_name": "Clark",
+      "city": "camas", "city_name": "Camas",
+      "address": "740 NE Dallas St", "zip": "98607",
+      "phone": "(360) 834-5055",
+      "website": "https://lacamascreekpa.com/",
+      "care_levels": ["skilled-nursing"],
+      "facility_size": "large",
+      "capacity": 83,
+      "cms_ccn": "505273",
+      "description": "Lacamas Creek Post Acute is an 83-bed Medicare- and Medicaid-certified skilled nursing facility in Camas, Washington, owned by PACS Group. Formerly operated as Prestige Care and Rehabilitation - Camas, it provides short-term rehabilitation including physical, occupational, and speech therapy, plus wound care and other post-acute services.",
+      "sources": [
+        "https://lacamascreekpa.com/",
+        "https://www.whca.org/facility-finder/lacamas-creek-post-acute/",
+        "https://health.usnews.com/best-nursing-homes/area/wa/lacamas-creek-post-acute-505273"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Avamere Olympic Rehabilitation of Sequim",
+      "slug": "avamere-olympic-rehabilitation-of-sequim",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "clallam", "county_name": "Clallam",
+      "city": "sequim", "city_name": "Sequim",
+      "address": "1000 S 5th Ave", "zip": "98382",
+      "phone": "(360) 582-3900",
+      "website": "https://www.avamere.com/avamere-olympic-rehabilitation-of-sequim/",
+      "care_levels": ["skilled-nursing"],
+      "facility_size": "large",
+      "capacity": 125,
+      "cms_ccn": "505327",
+      "organization": "avamere",
+      "organization_name": "Avamere",
+      "description": "Avamere Olympic Rehabilitation of Sequim is a Medicare- and Medicaid-certified skilled nursing and rehabilitation facility with 125 federally certified beds in Sequim, on Washington's Olympic Peninsula. First certified by CMS in 1989, it is operated by the Avamere Family of Companies.",
+      "sources": [
+        "https://www.avamere.com/avamere-olympic-rehabilitation-of-sequim/",
+        "https://www.seniorcare.com/nursing-homes/wa/sequim/avamere-olympic-rehabilitation-of-sequim/505327/",
+        "https://www.yelp.com/biz/avamere-olympic-rehabilitation-of-sequim-sequim"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Bonaventure of East Wenatchee",
+      "slug": "bonaventure-of-east-wenatchee",
+      "state": "washington", "state_name": "Washington", "state_abbrev": "WA",
+      "county": "douglas", "county_name": "Douglas",
+      "city": "east-wenatchee", "city_name": "East Wenatchee",
+      "address": "50 29th St NW", "zip": "98802",
+      "phone": "(509) 881-2093",
+      "website": "https://bonaventuresenior.com/community/bonaventure-of-east-wenatchee/",
+      "care_levels": ["independent-living", "assisted-living", "memory-care"],
+      "organization": "bonaventure-senior-living",
+      "organization_name": "Bonaventure Senior Living",
+      "description": "Bonaventure of East Wenatchee is a senior living community in East Wenatchee, in central Washington, offering retirement (independent) living, assisted living, and memory care. It is operated by Bonaventure Senior Living of Salem, Oregon.",
+      "sources": [
+        "https://bonaventuresenior.com/community/bonaventure-of-east-wenatchee/",
+        "https://www.whca.org/facility-finder/bonaventure-of-east-wenatchee/",
+        "https://www.yelp.com/biz/bonaventure-of-east-wenatchee-east-wenatchee"
+      ],
+      "verified_date": "2026-07-11"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Aegis Living",
+      "slug": "aegis-living",
+      "headquarters": "Bellevue, Washington",
+      "website": "https://www.aegisliving.com/",
+      "facility_count_approx": 36,
+      "states": ["WA", "CA", "NV"],
+      "description": "Aegis Living is a privately held, family-owned senior living company headquartered in Bellevue, Washington. It operates roughly three dozen assisted living and memory care communities in Washington, California, and Nevada, with additional communities in development. The company is known for design-forward buildings and its Life's Neighborhood memory care program.",
+      "sources": [
+        "https://www.aegisliving.com/contact/",
+        "https://www.linkedin.com/company/aegis-living"
+      ]
+    },
+    {
+      "name": "Era Living",
+      "slug": "era-living",
+      "headquarters": "Seattle, Washington",
+      "website": "https://www.eraliving.com/",
+      "facility_count_approx": 8,
+      "states": ["WA"],
+      "description": "Era Living is a private, Seattle-based company founded by Eli and Rebecca Almo that opened its first retirement community in 1987. It manages eight premier retirement communities in the greater Seattle area, including University House Wallingford (1997), Ida Culver House Broadview (1990), and The Lakeshore (1995). The company partners with the University of Washington Retirement Association.",
+      "sources": [
+        "https://www.eraliving.com/about/",
+        "https://retirees.uw.edu/membership/member-benefits/era-living/"
+      ]
+    },
+    {
+      "name": "Bonaventure Senior Living",
+      "slug": "bonaventure-senior-living",
+      "headquarters": "Salem, Oregon",
+      "website": "https://bonaventuresenior.com/",
+      "facility_count_approx": 35,
+      "states": ["OR", "WA", "CO", "ID", "MT"],
+      "description": "Bonaventure Senior Living is a family-owned senior living company based in Salem, Oregon. It operates roughly 35 communities offering independent living, assisted living, and memory care, with its largest concentrations in Oregon and Washington and additional communities in Colorado, Idaho, and Montana.",
+      "sources": [
+        "https://bonaventuresenior.com/",
+        "https://www.liveyourretirement.com/homes/group/bonaventure-senior-living/united-states/oregon"
+      ]
+    },
+    {
+      "name": "Avamere",
+      "slug": "avamere",
+      "headquarters": "Wilsonville, Oregon",
+      "website": "https://www.avamere.com/",
+      "facility_count_approx": 50,
+      "states": ["OR", "WA", "CO"],
+      "description": "The Avamere Family of Companies, founded in 1995 and headquartered in Wilsonville, Oregon, began as a single nursing facility in Hillsboro, Oregon. It operates nearly 50 independent living, assisted living, transitional care, and skilled nursing facilities, concentrated in Oregon, Washington, and Colorado, along with ancillary companies providing rehabilitation, home health, and hospice services.",
+      "sources": [
+        "https://www.avamere.com/locations/",
+        "https://www.bbb.org/us/or/wilsonville/profile/senior-citizens-service-organizations/avamere-family-of-companies-1296-22023778"
+      ]
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Coeur d'Alene, ID"
 seo_title: "Senior Living in Coeur d'Alene, ID — Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Coeur d'Alene, Idaho: care levels, sizes, and official inspection records for each."

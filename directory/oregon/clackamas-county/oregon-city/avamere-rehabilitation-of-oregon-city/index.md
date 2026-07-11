@@ -3,7 +3,7 @@ layout: "facility"
 title: "Avamere Rehabilitation of Oregon City"
 seo_title: "Avamere Rehabilitation of Oregon City — Senior Living in Oregon City, OR"
 description: "Avamere Rehabilitation of Oregon City is a 111-bed Medicare- and Medicaid-certified skilled nursing facility providing short-term rehabilitation and long-term"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Clackamas County", "url": "/directory/oregon/clackamas-county/"}, {"name": "Oregon City", "url": "/directory/oregon/clackamas-county/oregon-city/"}, {"name": "Avamere Rehabilitation of Oregon City", "url": "/directory/oregon/clackamas-county/oregon-city/avamere-rehabilitation-of-oregon-city/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Avamere Rehabilitation of Oregon City", "url": "/directory/oregon/clackamas-county/oregon-city/avamere-rehabilitation-of-oregon-city/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Oregon City, OR"
 seo_title: "Senior Living in Oregon City, OR — Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Oregon City, Oregon: care levels, sizes, and official inspection records for each."

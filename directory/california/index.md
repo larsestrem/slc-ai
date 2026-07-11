@@ -1,5 +1,6 @@
 ---
 layout: "state"
+care_level_counts: [{"slug": "assisted-living", "count": 11}, {"slug": "memory-care", "count": 11}, {"slug": "independent-living", "count": 6}, {"slug": "skilled-nursing", "count": 6}, {"slug": "ccrc", "count": 3}, {"slug": "respite-care", "count": 2}]
 title: "California Senior Living"
 seo_title: "Senior Living in California — Assisted Living, Memory Care & Nursing Homes"
 description: "Find senior living in California: 16 communities across 11 cities, with care levels, sizes, and links to official state inspection records."

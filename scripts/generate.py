@@ -166,11 +166,11 @@ def gen_facility_page(f, siblings, licensing):
         "seo_title": f"{f['name']} — Senior Living in {f['city_name']}, {f['state_abbrev']}",
         "description": (f.get("description") or
                         f"{f['name']} in {f['city_name']}, {f['state_name']}: care levels, contact details, and official inspection records.")[:158],
+        # County/city pages exist (stable URLs for future density) but are
+        # intentionally not linked — breadcrumbs jump state → facility.
         "crumbs": [
             {"name": "Directory", "url": "/directory/"},
             {"name": f["state_name"], "url": f"/directory/{f['state']}/"},
-            {"name": f["county_name"] + " County", "url": f"/directory/{f['state']}/{county_slug(f)}/"},
-            {"name": f["city_name"], "url": f"/directory/{f['state']}/{county_slug(f)}/{f['city']}/"},
             {"name": f["name"], "url": facility_url(f)},
         ],
         "nearby": nearby,
@@ -181,7 +181,9 @@ def gen_facility_page(f, siblings, licensing):
                    "cms_ccn", "cms_rating_overall", "sources", "verified_date",
                    # lifestyle & services — optional, shown when verified
                    "pets", "couples", "min_age", "transportation",
-                   "medical_services", "support_services")
+                   "medical_services", "support_services",
+                   # media — photos: [{src, alt, caption}], logo: path
+                   "photos", "logo")
     for k in passthrough:
         if f.get(k) not in (None, "", []):
             front[k] = f[k]
@@ -195,6 +197,7 @@ def gen_city_page(state, cslug, city_facs):
     f0 = city_facs[0]
     front = {
         "layout": "city",
+        "noindex": True,  # thin at seed density; flip when city coverage is real
         "title": f"Senior Living in {f0['city_name']}, {f0['state_abbrev']}",
         "seo_title": f"Senior Living in {f0['city_name']}, {f0['state_abbrev']} — Assisted Living, Memory Care & More",
         "description": f"Compare {len(city_facs)} senior living communities in {f0['city_name']}, {f0['state_name']}: care levels, sizes, and official inspection records for each.",
@@ -225,6 +228,7 @@ def gen_county_page(state, cslug, county_facs):
     ]
     front = {
         "layout": "county",
+        "noindex": True,  # thin at seed density; flip when county coverage is real
         "title": f"{f0['county_name']} County, {f0['state_abbrev']} Senior Living",
         "seo_title": f"Senior Living in {f0['county_name']} County, {f0['state_abbrev']} — {len(county_facs)} Communities",
         "description": f"Senior living in {f0['county_name']} County, {f0['state_name']}: {len(county_facs)} communities across {len(cities)} cities, with care levels and inspection links.",
@@ -255,8 +259,14 @@ def gen_state_page(state, facs, meta, geo):
          "facilities": [card(f) for f in sorted(c["facilities"], key=lambda x: x["name"])]}
         for c in sorted(cities.values(), key=lambda c: c["name"])
     ]
+    level_counts = {}
+    for f in facs:
+        for lv in f.get("care_levels", []):
+            level_counts[lv] = level_counts.get(lv, 0) + 1
     front = {
         "layout": "state",
+        "care_level_counts": [{"slug": k, "count": v}
+                              for k, v in sorted(level_counts.items(), key=lambda kv: -kv[1])],
         "title": f"{meta['name']} Senior Living",
         "seo_title": f"Senior Living in {meta['name']} — Assisted Living, Memory Care & Nursing Homes",
         "description": f"Find senior living in {meta['name']}: {len(facs)} communities across {len(cities)} cities, with care levels, sizes, and links to official state inspection records.",

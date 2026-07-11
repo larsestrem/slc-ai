@@ -6,7 +6,7 @@ permalink: /sitemap.xml
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- assign skip = "/404.html" %}
 {%- for p in site.pages %}
-{%- if p.sitemap == false or p.url == skip %}{% continue %}{% endif %}
+{%- if p.sitemap == false or p.noindex or p.url == skip %}{% continue %}{% endif %}
 {%- assign ext = p.url | split: "." | last %}
 {%- if ext == "xml" or ext == "txt" or ext == "css" or ext == "js" %}{% continue %}{% endif %}
   <url>

@@ -3,7 +3,7 @@ layout: "facility"
 title: "Life Care Center of Idaho Falls"
 seo_title: "Life Care Center of Idaho Falls — Senior Living in Idaho Falls, ID"
 description: "Life Care Center of Idaho Falls is a 109-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility on the east side of Idaho Falls. It "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Bonneville County", "url": "/directory/idaho/bonneville-county/"}, {"name": "Idaho Falls", "url": "/directory/idaho/bonneville-county/idaho-falls/"}, {"name": "Life Care Center of Idaho Falls", "url": "/directory/idaho/bonneville-county/idaho-falls/life-care-center-of-idaho-falls/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Life Care Center of Idaho Falls", "url": "/directory/idaho/bonneville-county/idaho-falls/life-care-center-of-idaho-falls/"}]
 nearby: []
 state: "idaho"
 state_name: "Idaho"

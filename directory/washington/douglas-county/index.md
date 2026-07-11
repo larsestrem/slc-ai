@@ -1,5 +1,6 @@
 ---
 layout: "county"
+noindex: true
 title: "Douglas County, WA Senior Living"
 seo_title: "Senior Living in Douglas County, WA — 1 Communities"
 description: "Senior living in Douglas County, Washington: 1 communities across 1 cities, with care levels and inspection links."

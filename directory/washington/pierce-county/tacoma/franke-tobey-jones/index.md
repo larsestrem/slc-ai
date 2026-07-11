@@ -3,7 +3,7 @@ layout: "facility"
 title: "Franke Tobey Jones"
 seo_title: "Franke Tobey Jones — Senior Living in Tacoma, WA"
 description: "Franke Tobey Jones is a not-for-profit senior living campus in North Tacoma offering independent living, assisted living, memory care, and skilled nursing at "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Pierce County", "url": "/directory/washington/pierce-county/"}, {"name": "Tacoma", "url": "/directory/washington/pierce-county/tacoma/"}, {"name": "Franke Tobey Jones", "url": "/directory/washington/pierce-county/tacoma/franke-tobey-jones/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Franke Tobey Jones", "url": "/directory/washington/pierce-county/tacoma/franke-tobey-jones/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

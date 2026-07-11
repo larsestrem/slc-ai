@@ -1,5 +1,6 @@
 ---
 layout: "county"
+noindex: true
 title: "Carson City County, NV Senior Living"
 seo_title: "Senior Living in Carson City County, NV — 1 Communities"
 description: "Senior living in Carson City County, Nevada: 1 communities across 1 cities, with care levels and inspection links."

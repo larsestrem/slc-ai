@@ -1,5 +1,6 @@
 ---
 layout: "state"
+care_level_counts: [{"slug": "assisted-living", "count": 6}, {"slug": "memory-care", "count": 6}, {"slug": "skilled-nursing", "count": 3}, {"slug": "independent-living", "count": 2}, {"slug": "ccrc", "count": 1}, {"slug": "respite-care", "count": 1}]
 title: "Nevada Senior Living"
 seo_title: "Senior Living in Nevada — Assisted Living, Memory Care & Nursing Homes"
 description: "Find senior living in Nevada: 9 communities across 5 cities, with care levels, sizes, and links to official state inspection records."

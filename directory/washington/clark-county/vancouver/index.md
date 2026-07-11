@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Vancouver, WA"
 seo_title: "Senior Living in Vancouver, WA — Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Vancouver, Washington: care levels, sizes, and official inspection records for each."

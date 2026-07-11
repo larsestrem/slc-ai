@@ -1,5 +1,6 @@
 ---
 layout: "county"
+noindex: true
 title: "Marion County, OR Senior Living"
 seo_title: "Senior Living in Marion County, OR — 3 Communities"
 description: "Senior living in Marion County, Oregon: 3 communities across 2 cities, with care levels and inspection links."

@@ -3,7 +3,7 @@ layout: "facility"
 title: "Creekside Inn"
 seo_title: "Creekside Inn — Senior Living in Coeur d'Alene, ID"
 description: "Creekside Inn is a dedicated memory care community in Coeur d'Alene designed exclusively for residents living with Alzheimer's disease, dementia, and other fo"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Kootenai County", "url": "/directory/idaho/kootenai-county/"}, {"name": "Coeur d'Alene", "url": "/directory/idaho/kootenai-county/coeur-dalene/"}, {"name": "Creekside Inn", "url": "/directory/idaho/kootenai-county/coeur-dalene/creekside-inn/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Creekside Inn", "url": "/directory/idaho/kootenai-county/coeur-dalene/creekside-inn/"}]
 nearby: []
 state: "idaho"
 state_name: "Idaho"

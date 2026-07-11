@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Sequim, WA"
 seo_title: "Senior Living in Sequim, WA — Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Sequim, Washington: care levels, sizes, and official inspection records for each."

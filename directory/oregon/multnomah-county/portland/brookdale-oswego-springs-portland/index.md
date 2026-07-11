@@ -3,7 +3,7 @@ layout: "facility"
 title: "Brookdale Oswego Springs Portland"
 seo_title: "Brookdale Oswego Springs Portland — Senior Living in Portland, OR"
 description: "Brookdale Oswego Springs Portland is an assisted living community in southwest Portland operated by Brookdale Senior Living, the largest senior living operato"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Multnomah County", "url": "/directory/oregon/multnomah-county/"}, {"name": "Portland", "url": "/directory/oregon/multnomah-county/portland/"}, {"name": "Brookdale Oswego Springs Portland", "url": "/directory/oregon/multnomah-county/portland/brookdale-oswego-springs-portland/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Brookdale Oswego Springs Portland", "url": "/directory/oregon/multnomah-county/portland/brookdale-oswego-springs-portland/"}]
 nearby: [{"name": "Mirabella Portland", "url": "/directory/oregon/multnomah-county/portland/mirabella-portland/", "city_name": "Portland", "state_abbrev": "OR", "care_levels": ["independent-living", "assisted-living", "skilled-nursing", "ccrc"], "description": "Mirabella Portland is a high-rise continuing care retirement community in Portland's South Waterfront district, offering independent living, assisted living, and skilled nursing in one building. It is affiliated with Pacific Retirement Services, a nonprofit senior living organization headquartered in Medford, Oregon."}]
 state: "oregon"
 state_name: "Oregon"

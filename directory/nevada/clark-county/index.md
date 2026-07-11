@@ -1,5 +1,6 @@
 ---
 layout: "county"
+noindex: true
 title: "Clark County, NV Senior Living"
 seo_title: "Senior Living in Clark County, NV — 5 Communities"
 description: "Senior living in Clark County, Nevada: 5 communities across 2 cities, with care levels and inspection links."

@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Las Vegas, NV"
 seo_title: "Senior Living in Las Vegas, NV — Assisted Living, Memory Care & More"
 description: "Compare 4 senior living communities in Las Vegas, Nevada: care levels, sizes, and official inspection records for each."

@@ -3,7 +3,7 @@ layout: "facility"
 title: "Oakmont of Mariner Point"
 seo_title: "Oakmont of Mariner Point — Senior Living in Alameda, CA"
 description: "Oakmont of Mariner Point is an assisted living and memory care community at Mariner Square in Alameda, on the east side of San Francisco Bay. It is operated b"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Alameda County", "url": "/directory/california/alameda-county/"}, {"name": "Alameda", "url": "/directory/california/alameda-county/alameda/"}, {"name": "Oakmont of Mariner Point", "url": "/directory/california/alameda-county/alameda/oakmont-of-mariner-point/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Oakmont of Mariner Point", "url": "/directory/california/alameda-county/alameda/oakmont-of-mariner-point/"}]
 nearby: []
 state: "california"
 state_name: "California"

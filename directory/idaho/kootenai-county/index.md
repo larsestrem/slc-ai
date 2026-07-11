@@ -1,5 +1,6 @@
 ---
 layout: "county"
+noindex: true
 title: "Kootenai County, ID Senior Living"
 seo_title: "Senior Living in Kootenai County, ID — 1 Communities"
 description: "Senior living in Kootenai County, Idaho: 1 communities across 1 cities, with care levels and inspection links."

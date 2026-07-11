@@ -3,7 +3,7 @@ layout: "facility"
 title: "Prestige Senior Living Orchard Heights"
 seo_title: "Prestige Senior Living Orchard Heights — Senior Living in Salem, OR"
 description: "Prestige Senior Living Orchard Heights is a senior community in West Salem offering independent living, assisted living, and memory care. Assisted living resi"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Polk County", "url": "/directory/oregon/polk-county/"}, {"name": "Salem", "url": "/directory/oregon/polk-county/salem/"}, {"name": "Prestige Senior Living Orchard Heights", "url": "/directory/oregon/polk-county/salem/prestige-senior-living-orchard-heights/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Prestige Senior Living Orchard Heights", "url": "/directory/oregon/polk-county/salem/prestige-senior-living-orchard-heights/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

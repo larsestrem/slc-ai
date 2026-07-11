@@ -3,7 +3,7 @@ layout: "facility"
 title: "Bonaventure of East Wenatchee"
 seo_title: "Bonaventure of East Wenatchee — Senior Living in East Wenatchee, WA"
 description: "Bonaventure of East Wenatchee is a senior living community in East Wenatchee, in central Washington, offering retirement (independent) living, assisted living"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Douglas County", "url": "/directory/washington/douglas-county/"}, {"name": "East Wenatchee", "url": "/directory/washington/douglas-county/east-wenatchee/"}, {"name": "Bonaventure of East Wenatchee", "url": "/directory/washington/douglas-county/east-wenatchee/bonaventure-of-east-wenatchee/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Bonaventure of East Wenatchee", "url": "/directory/washington/douglas-county/east-wenatchee/bonaventure-of-east-wenatchee/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

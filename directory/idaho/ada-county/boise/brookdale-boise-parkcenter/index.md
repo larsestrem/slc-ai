@@ -3,7 +3,7 @@ layout: "facility"
 title: "Brookdale Boise Parkcenter"
 seo_title: "Brookdale Boise Parkcenter — Senior Living in Boise, ID"
 description: "Brookdale Boise Parkcenter offers both independent living and assisted living on one campus along the Boise River greenbelt corridor in southeast Boise. Assis"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Ada County", "url": "/directory/idaho/ada-county/"}, {"name": "Boise", "url": "/directory/idaho/ada-county/boise/"}, {"name": "Brookdale Boise Parkcenter", "url": "/directory/idaho/ada-county/boise/brookdale-boise-parkcenter/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Brookdale Boise Parkcenter", "url": "/directory/idaho/ada-county/boise/brookdale-boise-parkcenter/"}]
 nearby: [{"name": "Fox Den Homes Bannock House", "url": "/directory/idaho/ada-county/boise/fox-den-homes-bannock-house/", "city_name": "Boise", "state_abbrev": "ID", "care_levels": ["assisted-living", "memory-care"], "facility_size": "small", "description": "Fox Den Homes Bannock House is a cozy 8-bed residential assisted living and memory care home just west of downtown Boise. As a small residential care home, it emphasizes a lower caregiver-to-resident ratio and a personal, home-like feel compared with larger facilities. It is one of several small Fox Den Homes residences in the Treasure Valley."}]
 state: "idaho"
 state_name: "Idaho"

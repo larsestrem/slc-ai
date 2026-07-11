@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Newberg, OR"
 seo_title: "Senior Living in Newberg, OR — Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Newberg, Oregon: care levels, sizes, and official inspection records for each."

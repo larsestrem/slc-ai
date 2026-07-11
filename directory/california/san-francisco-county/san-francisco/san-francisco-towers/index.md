@@ -3,7 +3,7 @@ layout: "facility"
 title: "San Francisco Towers"
 seo_title: "San Francisco Towers — Senior Living in San Francisco, CA"
 description: "San Francisco Towers is a nonprofit continuing care retirement community on Pine Street in San Francisco. It brings independent living apartments, assisted li"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Francisco County", "url": "/directory/california/san-francisco-county/"}, {"name": "San Francisco", "url": "/directory/california/san-francisco-county/san-francisco/"}, {"name": "San Francisco Towers", "url": "/directory/california/san-francisco-county/san-francisco/san-francisco-towers/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Francisco Towers", "url": "/directory/california/san-francisco-county/san-francisco/san-francisco-towers/"}]
 nearby: [{"name": "San Francisco Campus for Jewish Living", "url": "/directory/california/san-francisco-county/san-francisco/san-francisco-campus-for-jewish-living/", "city_name": "San Francisco", "state_abbrev": "CA", "care_levels": ["skilled-nursing"], "facility_size": "large", "description": "The San Francisco Campus for Jewish Living is a nonprofit senior care campus on Silver Avenue in San Francisco. Its skilled nursing center (licensed as Jewish Home & Rehab Center D/P SNF) is Medicare- and Medicaid-certified with 362 certified beds and provides long-term care and rehabilitation services."}]
 state: "california"
 state_name: "California"

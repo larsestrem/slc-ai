@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Portland, OR"
 seo_title: "Senior Living in Portland, OR — Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Portland, Oregon: care levels, sizes, and official inspection records for each."

@@ -1,5 +1,6 @@
 ---
 layout: "county"
+noindex: true
 title: "San Francisco County, CA Senior Living"
 seo_title: "Senior Living in San Francisco County, CA — 2 Communities"
 description: "Senior living in San Francisco County, California: 2 communities across 1 cities, with care levels and inspection links."

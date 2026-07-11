@@ -3,7 +3,7 @@ layout: "facility"
 title: "The Lodge Assisted Living and Memory Care Community"
 seo_title: "The Lodge Assisted Living and Memory Care Community — Senior Living in Carson City, NV"
 description: "The Lodge Assisted Living and Memory Care Community serves seniors in Carson City, Nevada's capital, which is an independent city that functions as its own co"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Carson City County", "url": "/directory/nevada/carson-city-county/"}, {"name": "Carson City", "url": "/directory/nevada/carson-city-county/carson-city/"}, {"name": "The Lodge Assisted Living and Memory Care Community", "url": "/directory/nevada/carson-city-county/carson-city/the-lodge-assisted-living-and-memory-care-community/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "The Lodge Assisted Living and Memory Care Community", "url": "/directory/nevada/carson-city-county/carson-city/the-lodge-assisted-living-and-memory-care-community/"}]
 nearby: []
 state: "nevada"
 state_name: "Nevada"

@@ -1,5 +1,6 @@
 ---
 layout: "county"
+noindex: true
 title: "Multnomah County, OR Senior Living"
 seo_title: "Senior Living in Multnomah County, OR — 2 Communities"
 description: "Senior living in Multnomah County, Oregon: 2 communities across 1 cities, with care levels and inspection links."

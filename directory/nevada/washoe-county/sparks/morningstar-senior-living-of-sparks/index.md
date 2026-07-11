@@ -3,7 +3,7 @@ layout: "facility"
 title: "MorningStar Senior Living of Sparks"
 seo_title: "MorningStar Senior Living of Sparks — Senior Living in Sparks, NV"
 description: "MorningStar Senior Living of Sparks is an assisted living and memory care community in the Wingfield Hills area of Sparks, north of Reno. It is operated by De"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Washoe County", "url": "/directory/nevada/washoe-county/"}, {"name": "Sparks", "url": "/directory/nevada/washoe-county/sparks/"}, {"name": "MorningStar Senior Living of Sparks", "url": "/directory/nevada/washoe-county/sparks/morningstar-senior-living-of-sparks/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "MorningStar Senior Living of Sparks", "url": "/directory/nevada/washoe-county/sparks/morningstar-senior-living-of-sparks/"}]
 nearby: []
 state: "nevada"
 state_name: "Nevada"

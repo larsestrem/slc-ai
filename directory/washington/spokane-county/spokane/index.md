@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Spokane, WA"
 seo_title: "Senior Living in Spokane, WA — Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Spokane, Washington: care levels, sizes, and official inspection records for each."

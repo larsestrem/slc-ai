@@ -3,7 +3,7 @@ layout: "facility"
 title: "Silverado Beverly Place Memory Care Community"
 seo_title: "Silverado Beverly Place Memory Care Community — Senior Living in Los Angeles, CA"
 description: "Silverado Beverly Place is a specialized memory care community in Los Angeles dedicated to residents living with Alzheimer's disease and other dementias. It i"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Angeles County", "url": "/directory/california/los-angeles-county/"}, {"name": "Los Angeles", "url": "/directory/california/los-angeles-county/los-angeles/"}, {"name": "Silverado Beverly Place Memory Care Community", "url": "/directory/california/los-angeles-county/los-angeles/silverado-beverly-place-memory-care-community/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Silverado Beverly Place Memory Care Community", "url": "/directory/california/los-angeles-county/los-angeles/silverado-beverly-place-memory-care-community/"}]
 nearby: []
 state: "california"
 state_name: "California"

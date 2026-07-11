@@ -3,7 +3,7 @@ layout: "facility"
 title: "Twin Falls Transitional Care of Cascadia"
 seo_title: "Twin Falls Transitional Care of Cascadia — Senior Living in Twin Falls, ID"
 description: "Twin Falls Transitional Care of Cascadia is a 116-bed Medicare- and Medicaid-certified skilled nursing facility providing rehabilitation and long-term skilled"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Twin Falls County", "url": "/directory/idaho/twin-falls-county/"}, {"name": "Twin Falls", "url": "/directory/idaho/twin-falls-county/twin-falls/"}, {"name": "Twin Falls Transitional Care of Cascadia", "url": "/directory/idaho/twin-falls-county/twin-falls/twin-falls-transitional-care-of-cascadia/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Twin Falls Transitional Care of Cascadia", "url": "/directory/idaho/twin-falls-county/twin-falls/twin-falls-transitional-care-of-cascadia/"}]
 nearby: []
 state: "idaho"
 state_name: "Idaho"

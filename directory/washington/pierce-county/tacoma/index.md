@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Tacoma, WA"
 seo_title: "Senior Living in Tacoma, WA — Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Tacoma, Washington: care levels, sizes, and official inspection records for each."

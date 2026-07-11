@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Twin Falls, ID"
 seo_title: "Senior Living in Twin Falls, ID — Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Twin Falls, Idaho: care levels, sizes, and official inspection records for each."

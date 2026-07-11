@@ -3,7 +3,7 @@ layout: "facility"
 title: "Avamere Rehabilitation of Eugene"
 seo_title: "Avamere Rehabilitation of Eugene — Senior Living in Eugene, OR"
 description: "Avamere Rehabilitation of Eugene is a 92-bed skilled nursing and rehabilitation facility in Eugene. It provides short-term post-acute rehabilitation and long-"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Lane County", "url": "/directory/oregon/lane-county/"}, {"name": "Eugene", "url": "/directory/oregon/lane-county/eugene/"}, {"name": "Avamere Rehabilitation of Eugene", "url": "/directory/oregon/lane-county/eugene/avamere-rehabilitation-of-eugene/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Avamere Rehabilitation of Eugene", "url": "/directory/oregon/lane-county/eugene/avamere-rehabilitation-of-eugene/"}]
 nearby: [{"name": "Cascade Manor", "url": "/directory/oregon/lane-county/eugene/cascade-manor/", "city_name": "Eugene", "state_abbrev": "OR", "care_levels": ["independent-living", "assisted-living", "skilled-nursing", "ccrc"], "description": "Cascade Manor is Eugene's only accredited continuing care retirement community, offering independent living, assisted living, and skilled nursing on a single campus. It is affiliated with Pacific Retirement Services, a Medford-based nonprofit senior living organization, and lets residents move between levels of care as their needs change."}]
 state: "oregon"
 state_name: "Oregon"

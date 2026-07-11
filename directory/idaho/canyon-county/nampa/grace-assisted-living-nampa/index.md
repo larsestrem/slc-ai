@@ -3,7 +3,7 @@ layout: "facility"
 title: "Grace Assisted Living - Nampa"
 seo_title: "Grace Assisted Living - Nampa — Senior Living in Nampa, ID"
 description: "Grace Assisted Living in Nampa offers independent retirement living and assisted living, plus Assist Plus memory care, respite day care, and hospice support, "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Canyon County", "url": "/directory/idaho/canyon-county/"}, {"name": "Nampa", "url": "/directory/idaho/canyon-county/nampa/"}, {"name": "Grace Assisted Living - Nampa", "url": "/directory/idaho/canyon-county/nampa/grace-assisted-living-nampa/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Grace Assisted Living - Nampa", "url": "/directory/idaho/canyon-county/nampa/grace-assisted-living-nampa/"}]
 nearby: []
 state: "idaho"
 state_name: "Idaho"

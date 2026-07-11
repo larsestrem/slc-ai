@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Fresno, CA"
 seo_title: "Senior Living in Fresno, CA — Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Fresno, California: care levels, sizes, and official inspection records for each."

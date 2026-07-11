@@ -3,7 +3,7 @@ layout: "facility"
 title: "Felicity Haven Adult Foster Home"
 seo_title: "Felicity Haven Adult Foster Home — Senior Living in Salem, OR"
 description: "Felicity Haven Adult Foster Home is a licensed adult foster home in a residential neighborhood of South Salem, within five miles of shopping, clinics, hospita"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Marion County", "url": "/directory/oregon/marion-county/"}, {"name": "Salem", "url": "/directory/oregon/marion-county/salem/"}, {"name": "Felicity Haven Adult Foster Home", "url": "/directory/oregon/marion-county/salem/felicity-haven-adult-foster-home/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Felicity Haven Adult Foster Home", "url": "/directory/oregon/marion-county/salem/felicity-haven-adult-foster-home/"}]
 nearby: [{"name": "Bonaventure of Salem", "url": "/directory/oregon/marion-county/salem/bonaventure-of-salem/", "city_name": "Salem", "state_abbrev": "OR", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Bonaventure of Salem is a senior living community in southeast Salem offering independent living, assisted living, and memory care on one campus. Residents in the secured memory care neighborhood receive 24-hour supervision and dementia-specific programming. The community allows residents to age in place and adjust their level of care as needed."}]
 state: "oregon"
 state_name: "Oregon"

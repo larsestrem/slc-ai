@@ -1,5 +1,6 @@
 ---
 layout: "county"
+noindex: true
 title: "Spokane County, WA Senior Living"
 seo_title: "Senior Living in Spokane County, WA — 2 Communities"
 description: "Senior living in Spokane County, Washington: 2 communities across 1 cities, with care levels and inspection links."

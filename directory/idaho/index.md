@@ -1,5 +1,6 @@
 ---
 layout: "state"
+care_level_counts: [{"slug": "assisted-living", "count": 6}, {"slug": "memory-care", "count": 6}, {"slug": "independent-living", "count": 4}, {"slug": "respite-care", "count": 3}, {"slug": "skilled-nursing", "count": 2}]
 title: "Idaho Senior Living"
 seo_title: "Senior Living in Idaho — Assisted Living, Memory Care & Nursing Homes"
 description: "Find senior living in Idaho: 9 communities across 7 cities, with care levels, sizes, and links to official state inspection records."

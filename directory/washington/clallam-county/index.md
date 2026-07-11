@@ -1,5 +1,6 @@
 ---
 layout: "county"
+noindex: true
 title: "Clallam County, WA Senior Living"
 seo_title: "Senior Living in Clallam County, WA — 1 Communities"
 description: "Senior living in Clallam County, Washington: 1 communities across 1 cities, with care levels and inspection links."

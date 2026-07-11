@@ -3,7 +3,7 @@ layout: "facility"
 title: "Touchmark on South Hill"
 seo_title: "Touchmark on South Hill — Senior Living in Spokane, WA"
 description: "Touchmark on South Hill is a full-service retirement community on a 19-acre campus on Spokane's South Hill, near Manito Park. It offers independent living, as"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Spokane County", "url": "/directory/washington/spokane-county/"}, {"name": "Spokane", "url": "/directory/washington/spokane-county/spokane/"}, {"name": "Touchmark on South Hill", "url": "/directory/washington/spokane-county/spokane/touchmark-on-south-hill/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Touchmark on South Hill", "url": "/directory/washington/spokane-county/spokane/touchmark-on-south-hill/"}]
 nearby: [{"name": "Rockwood South Hill", "url": "/directory/washington/spokane-county/spokane/rockwood-south-hill/", "city_name": "Spokane", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "facility_size": "large", "description": "Rockwood South Hill is a nonprofit continuing care retirement community (CCRC) on Spokane's South Hill, operated by Rockwood Retirement Communities. It offers independent living, assisted living, memory care, and skilled nursing on one campus. Rockwood's two Spokane campuses are the only accredited nonprofit CCRCs in the region."}]
 state: "washington"
 state_name: "Washington"

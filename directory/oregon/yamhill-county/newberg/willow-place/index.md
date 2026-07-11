@@ -3,7 +3,7 @@ layout: "facility"
 title: "Willow Place"
 seo_title: "Willow Place — Senior Living in Newberg, OR"
 description: "Willow Place is a memory care community in Newberg serving seniors with Alzheimer's disease and other dementias, with 24-hour care overseen by licensed nurses"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Yamhill County", "url": "/directory/oregon/yamhill-county/"}, {"name": "Newberg", "url": "/directory/oregon/yamhill-county/newberg/"}, {"name": "Willow Place", "url": "/directory/oregon/yamhill-county/newberg/willow-place/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Willow Place", "url": "/directory/oregon/yamhill-county/newberg/willow-place/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

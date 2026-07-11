@@ -3,7 +3,7 @@ layout: "facility"
 title: "Sunrise of Henderson"
 seo_title: "Sunrise of Henderson — Senior Living in Henderson, NV"
 description: "Sunrise of Henderson offers assisted living, memory care, and short-term respite stays in the Horizon Ridge area of Henderson. The community was recognized as"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Clark County", "url": "/directory/nevada/clark-county/"}, {"name": "Henderson", "url": "/directory/nevada/clark-county/henderson/"}, {"name": "Sunrise of Henderson", "url": "/directory/nevada/clark-county/henderson/sunrise-of-henderson/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Sunrise of Henderson", "url": "/directory/nevada/clark-county/henderson/sunrise-of-henderson/"}]
 nearby: []
 state: "nevada"
 state_name: "Nevada"

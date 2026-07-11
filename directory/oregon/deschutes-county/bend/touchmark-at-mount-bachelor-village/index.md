@@ -3,7 +3,7 @@ layout: "facility"
 title: "Touchmark at Mount Bachelor Village"
 seo_title: "Touchmark at Mount Bachelor Village — Senior Living in Bend, OR"
 description: "Touchmark at Mount Bachelor Village is a full-service retirement community along the Deschutes River in Bend, offering independent living plus licensed reside"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Deschutes County", "url": "/directory/oregon/deschutes-county/"}, {"name": "Bend", "url": "/directory/oregon/deschutes-county/bend/"}, {"name": "Touchmark at Mount Bachelor Village", "url": "/directory/oregon/deschutes-county/bend/touchmark-at-mount-bachelor-village/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Touchmark at Mount Bachelor Village", "url": "/directory/oregon/deschutes-county/bend/touchmark-at-mount-bachelor-village/"}]
 nearby: [{"name": "Prestige Senior Living High Desert", "url": "/directory/oregon/deschutes-county/bend/prestige-senior-living-high-desert/", "city_name": "Bend", "state_abbrev": "OR", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "description": "Prestige Senior Living High Desert is a 75-bed assisted living and memory care community in Bend, near shopping and medical clinics. Residents receive medication management and help with daily activities, with the Expressions memory care program serving residents with Alzheimer's disease or other dementias."}]
 state: "oregon"
 state_name: "Oregon"

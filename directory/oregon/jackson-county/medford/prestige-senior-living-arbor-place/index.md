@@ -3,7 +3,7 @@ layout: "facility"
 title: "Prestige Senior Living Arbor Place"
 seo_title: "Prestige Senior Living Arbor Place — Senior Living in Medford, OR"
 description: "Prestige Senior Living Arbor Place is a 72-apartment assisted living community in Medford with an attached 18-room memory care center. Assisted living residen"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Jackson County", "url": "/directory/oregon/jackson-county/"}, {"name": "Medford", "url": "/directory/oregon/jackson-county/medford/"}, {"name": "Prestige Senior Living Arbor Place", "url": "/directory/oregon/jackson-county/medford/prestige-senior-living-arbor-place/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Prestige Senior Living Arbor Place", "url": "/directory/oregon/jackson-county/medford/prestige-senior-living-arbor-place/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

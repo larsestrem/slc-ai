@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Paso Robles, CA"
 seo_title: "Senior Living in Paso Robles, CA — Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Paso Robles, California: care levels, sizes, and official inspection records for each."

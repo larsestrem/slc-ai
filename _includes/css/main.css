@@ -128,21 +128,39 @@ tbody tr:hover { background: var(--soft); }
 .dir-list li { break-inside: avoid; margin: .25rem 0; }
 .count { color: var(--muted); font-size: .85em; }
 
-/* State map */
-.state-map { margin: 1.6rem 0; }
-.state-map svg { max-width: 26rem; width: 100%; height: auto; display: block; }
+/* State page: map + resources left, scrolling facility list right */
+.state-layout { display: grid; gap: 1.6rem; grid-template-columns: 1fr; margin-top: 1.2rem; }
+@media (min-width: 56rem) {
+  .state-layout { grid-template-columns: minmax(20rem, 5fr) 7fr; align-items: start; }
+  .state-side { position: sticky; top: 1rem; }
+  .state-list { max-height: calc(100vh - 2rem); overflow-y: auto; padding-right: .5rem; scroll-behavior: smooth; }
+  .state-list section:first-child h2 { margin-top: .2rem; }
+}
+.state-map { margin: 0 0 1.2rem; }
+.state-map svg { max-width: 24rem; width: 100%; height: auto; display: block; }
 .map-shape { fill: var(--soft); stroke: var(--line); stroke-width: 1.5; }
-.map-dot { fill: var(--accent); opacity: .9; }
-.state-map a:hover .map-dot, .state-map a:focus .map-dot { fill: var(--accent-strong); opacity: 1; }
+.map-dot { fill: var(--accent); opacity: .9; transition: r .15s; }
+.state-map a:hover .map-dot, .state-map a:focus .map-dot,
+.state-map a.hl .map-dot { fill: var(--gold); opacity: 1; }
 .map-label { font-size: 11px; fill: var(--ink); }
-.state-map a:hover .map-label { text-decoration: underline; }
-.state-map figcaption { color: var(--muted); font-size: .82rem; max-width: 30rem; }
+.state-map a:hover .map-label, .state-map a.hl .map-label { font-weight: 700; }
+.state-map figcaption { color: var(--muted); font-size: .82rem; }
+.state-list .card.hl { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+.state-resources { font-size: .92rem; }
+.state-resources h2 { font-size: 1.05rem; margin-top: 1.4rem; }
+.state-resources ul { padding-left: 1.2rem; margin: .5rem 0; }
 
 /* Posts */
 .post-list { list-style: none; padding: 0; }
 .post-list li { padding: 1rem 0; border-bottom: 1px solid var(--line); }
 .post-list .date { color: var(--muted); font-size: .85rem; }
 .post-meta { color: var(--muted); font-size: .9rem; margin: 0 0 1.4rem; }
+
+/* Photos */
+.photo-grid figure { margin: 0; }
+.photo-grid img { width: 100%; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
+.photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
+.claim { border-left: 4px solid var(--accent); }
 
 /* Ads (lazy) */
 .ad-slot { min-height: 100px; margin: 1.6rem 0; display: flex; align-items: center; justify-content: center; background: var(--soft); border: 1px dashed var(--line); border-radius: var(--radius); color: var(--muted); font-size: .75rem; }

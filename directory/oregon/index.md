@@ -1,5 +1,6 @@
 ---
 layout: "state"
+care_level_counts: [{"slug": "assisted-living", "count": 8}, {"slug": "memory-care", "count": 7}, {"slug": "independent-living", "count": 5}, {"slug": "skilled-nursing", "count": 5}, {"slug": "ccrc", "count": 2}, {"slug": "adult-family-home", "count": 1}]
 title: "Oregon Senior Living"
 seo_title: "Senior Living in Oregon — Assisted Living, Memory Care & Nursing Homes"
 description: "Find senior living in Oregon: 13 communities across 8 cities, with care levels, sizes, and links to official state inspection records."

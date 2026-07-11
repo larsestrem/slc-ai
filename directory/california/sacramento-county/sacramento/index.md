@@ -1,5 +1,6 @@
 ---
 layout: "city"
+noindex: true
 title: "Senior Living in Sacramento, CA"
 seo_title: "Senior Living in Sacramento, CA — Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Sacramento, California: care levels, sizes, and official inspection records for each."

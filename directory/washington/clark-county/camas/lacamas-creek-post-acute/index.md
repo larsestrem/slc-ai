@@ -3,7 +3,7 @@ layout: "facility"
 title: "Lacamas Creek Post Acute"
 seo_title: "Lacamas Creek Post Acute — Senior Living in Camas, WA"
 description: "Lacamas Creek Post Acute is an 83-bed Medicare- and Medicaid-certified skilled nursing facility in Camas, Washington, owned by PACS Group. Formerly operated a"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Clark County", "url": "/directory/washington/clark-county/"}, {"name": "Camas", "url": "/directory/washington/clark-county/camas/"}, {"name": "Lacamas Creek Post Acute", "url": "/directory/washington/clark-county/camas/lacamas-creek-post-acute/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Lacamas Creek Post Acute", "url": "/directory/washington/clark-county/camas/lacamas-creek-post-acute/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

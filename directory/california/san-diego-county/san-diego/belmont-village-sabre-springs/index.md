@@ -3,7 +3,7 @@ layout: "facility"
 title: "Belmont Village Sabre Springs"
 seo_title: "Belmont Village Sabre Springs — Senior Living in San Diego, CA"
 description: "Belmont Village Sabre Springs is an assisted living and memory care community in the Sabre Springs area of San Diego. The residential care facility is license"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Diego County", "url": "/directory/california/san-diego-county/"}, {"name": "San Diego", "url": "/directory/california/san-diego-county/san-diego/"}, {"name": "Belmont Village Sabre Springs", "url": "/directory/california/san-diego-county/san-diego/belmont-village-sabre-springs/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Belmont Village Sabre Springs", "url": "/directory/california/san-diego-county/san-diego/belmont-village-sabre-springs/"}]
 nearby: [{"name": "Vi at La Jolla Village", "url": "/directory/california/san-diego-county/san-diego/vi-at-la-jolla-village/", "city_name": "San Diego", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "description": "Vi at La Jolla Village is a Life Plan Community (continuing care retirement community) in San Diego's University City/La Jolla area. The campus offers independent living plus a care center with assisted living, memory care, and skilled nursing at 4171 Las Palmas Square."}]
 state: "california"
 state_name: "California"

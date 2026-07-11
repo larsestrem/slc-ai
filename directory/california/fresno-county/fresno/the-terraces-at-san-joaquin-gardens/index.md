@@ -3,7 +3,7 @@ layout: "facility"
 title: "The Terraces at San Joaquin Gardens"
 seo_title: "The Terraces at San Joaquin Gardens — Senior Living in Fresno, CA"
 description: "The Terraces at San Joaquin Gardens is a continuing care retirement community on North Fresno Street in Fresno. It offers maintenance-free independent living,"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Fresno County", "url": "/directory/california/fresno-county/"}, {"name": "Fresno", "url": "/directory/california/fresno-county/fresno/"}, {"name": "The Terraces at San Joaquin Gardens", "url": "/directory/california/fresno-county/fresno/the-terraces-at-san-joaquin-gardens/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Terraces at San Joaquin Gardens", "url": "/directory/california/fresno-county/fresno/the-terraces-at-san-joaquin-gardens/"}]
 nearby: [{"name": "Oakmont of Fresno", "url": "/directory/california/fresno-county/fresno/oakmont-of-fresno/", "city_name": "Fresno", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "description": "Oakmont of Fresno is an assisted living and memory care community on North Gates Avenue in northwest Fresno. It is operated by Oakmont Senior Living, a California-based operator of luxury senior living communities."}]
 state: "california"
 state_name: "California"

@@ -1,5 +1,6 @@
 ---
 layout: "county"
+noindex: true
 title: "Pierce County, WA Senior Living"
 seo_title: "Senior Living in Pierce County, WA — 1 Communities"
 description: "Senior living in Pierce County, Washington: 1 communities across 1 cities, with care levels and inspection links."

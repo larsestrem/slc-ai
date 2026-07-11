@@ -104,6 +104,30 @@ layout: default
     </aside>
   </div>
 
+  {%- if page.photos and page.photos.size > 0 %}
+  <section aria-labelledby="photos-h">
+    <h2 id="photos-h">Photos of {{ page.title }}</h2>
+    <ul class="grid photo-grid">
+      {%- for ph in page.photos %}
+      <li><figure>
+        <img src="{{ ph.src }}" alt="{{ ph.alt }}" loading="lazy" decoding="async">
+        {%- if ph.caption %}<figcaption>{{ ph.caption }}</figcaption>{% endif %}
+      </figure></li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endif %}
+
+  <section class="panel claim" aria-labelledby="claim-h">
+    <h2 id="claim-h">Do you work at {{ page.title }}?</h2>
+    <p>Families make one of their biggest decisions with pages like this one — and nobody can
+    describe your community better than the people who work there. If you're on staff or manage
+    this community, you can update these details, answer short topic-by-topic questionnaires
+    (each takes just a few minutes), and share photos of your community. It's free, and accurate
+    listings help the right families find you.</p>
+    <p><a class="btn" href="/for-communities/">Claim &amp; update this listing</a></p>
+  </section>
+
   {%- if page.nearby and page.nearby.size > 0 %}
   <section aria-labelledby="nearby-h">
     <h2 id="nearby-h">Other communities in {{ page.city_name }}</h2>
@@ -119,7 +143,6 @@ layout: default
     Details verified against public sources on {{ page.verified_date | default: site.data_vintage.last_verified }}.
     {%- if page.sources %} Sources:{% for s in page.sources %} <a href="{{ s }}" rel="nofollow noopener">[{{ forloop.index }}]</a>{% endfor %}.{% endif %}
     Availability, pricing, and services change — always confirm directly with the community.
-    Represent this community? <a href="/for-communities/">Update this listing</a>.
   </p>
 </article>
 <script type="application/ld+json">

@@ -3,7 +3,7 @@ layout: "facility"
 title: "Brookdale Reno"
 seo_title: "Brookdale Reno — Senior Living in Reno, NV"
 description: "Brookdale Reno is a 56-bed memory care community in a quiet residential neighborhood of Reno, operated by Brookdale Senior Living. It uses Brookdale's Clare B"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Washoe County", "url": "/directory/nevada/washoe-county/"}, {"name": "Reno", "url": "/directory/nevada/washoe-county/reno/"}, {"name": "Brookdale Reno", "url": "/directory/nevada/washoe-county/reno/brookdale-reno/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Brookdale Reno", "url": "/directory/nevada/washoe-county/reno/brookdale-reno/"}]
 nearby: [{"name": "Life Care Center of Reno", "url": "/directory/nevada/washoe-county/reno/life-care-center-of-reno/", "city_name": "Reno", "state_abbrev": "NV", "care_levels": ["skilled-nursing"], "facility_size": "large", "description": "Life Care Center of Reno is a 198-bed Medicare- and Medicaid-certified skilled nursing facility in south Reno, operated by Life Care Centers of America. It provides short-term rehabilitation (physical, occupational, and speech therapy) and long-term skilled nursing care; the facility has been Medicare-certified since 1991."}]
 state: "nevada"
 state_name: "Nevada"

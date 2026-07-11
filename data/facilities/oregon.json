@@ -1428,6 +1428,1150 @@
         "https://www.seniorly.com/independent-living/oregon/oregon-city/the-ridge-at-oregon-city"
       ],
       "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Merrill Gardens at Sheldon Park",
+      "slug": "merrill-gardens-at-sheldon-park",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "eugene",
+      "city_name": "Eugene",
+      "address": "2440 Willakenzie Rd",
+      "zip": "97401",
+      "phone": "(541) 344-1078",
+      "website": "https://www.merrillgardens.com/senior-living/or/eugene/merrill-gardens-at-sheldon-park/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "merrill-gardens",
+      "organization_name": "Merrill Gardens",
+      "description": "Assisted living and memory care community in northeast Eugene's Willakenzie area, operated by Seattle-based Merrill Gardens. Offers restaurant-style dining with flexible hours, on-site salon services, multiple common areas and outdoor spaces, and the Bridges memory care program for residents with dementia. Reviewers frequently mention long staff tenure and attentive, compassionate caregivers.",
+      "review_note": "4.3/5 average across 113 all-time reviews on A Place for Mom, with a 9.3/10 APFM review score based on 13 reviews in the last 2 years (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/merrill-gardens-at-sheldon-park-60114",
+        "https://www.caring.com/senior-living/oregon/eugene/merrill-gardens-at-sheldon-park",
+        "https://www.merrillgardens.com/senior-living/or/eugene/merrill-gardens-at-sheldon-park/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Trustwell Living at River Run Place",
+      "slug": "trustwell-living-at-river-run-place",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "eugene",
+      "city_name": "Eugene",
+      "address": "1155 Darlene Ln",
+      "zip": "97401",
+      "website": "https://www.trustwellliving.com/communities/river-run-place/",
+      "care_levels": [
+        "assisted-living",
+        "respite-care"
+      ],
+      "organization": "trustwell-living",
+      "organization_name": "Trustwell Living",
+      "description": "Assisted living and respite care community in Eugene near the Willamette River, operated by Trustwell Living. Reviewers describe the community as clean, quiet, and attentive, with high marks for staff responsiveness and a robust activities calendar with community outings. Some reviews note concerns about staffing turnover.",
+      "review_note": "4.4/5 average across 62 all-time reviews on A Place for Mom, with a 9.6/10 APFM review score based on 23 reviews in the last 2 years (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/trustwell-living-at-river-run-place-60112",
+        "https://www.trustwellliving.com/communities/river-run-place/",
+        "https://www.caring.com/senior-living/oregon/eugene/trustwell-living-at-river-run-place"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Willamette Oaks",
+      "slug": "willamette-oaks",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "eugene",
+      "city_name": "Eugene",
+      "address": "455 Alexander Loop",
+      "zip": "97401",
+      "phone": "(541) 343-2688",
+      "website": "https://www.willametteoaks.com/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "description": "Independent living retirement community on an 11-acre riverfront property beside the Willamette River in Eugene. Its signature LifeMinded program lets residents build a personalized wellness plan, with exercise and yoga classes, garden spaces, and evening outings. Residents praise the riverside setting, upkeep, and attentive staff across dining, housekeeping, and social programs.",
+      "review_note": "4.4/5 across 33 reviews on Birdeye; 4.2/5 across 9 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/willamette-oaks-a-lifeminded-residence-senior-housing-eugene-157256464716654",
+        "https://www.caring.com/senior-living/oregon/eugene/willamette-oaks-97401",
+        "https://www.aplaceformom.com/community/willamette-oaks-60116"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Garden Way Retirement Community",
+      "slug": "garden-way-retirement-community",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "eugene",
+      "city_name": "Eugene",
+      "address": "175 S Garden Way",
+      "zip": "97401",
+      "phone": "(541) 532-8934",
+      "website": "https://www.sunshineretirementliving.com/eugene-retirement-living/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "organization": "sunshine-retirement-living",
+      "organization_name": "Sunshine Retirement Living",
+      "description": "Independent living community for adults 55+ established in 2010, set on landscaped grounds in east Eugene near shopping, dining, and medical facilities. Operated by Bend-based Sunshine Retirement Living, it offers all-day restaurant-style dining, salon services, free transportation, and a full activity calendar.",
+      "review_note": "4.6/5 across 75 reviews on Birdeye (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/garden-way-retirement-community-157269666364288",
+        "https://www.aplaceformom.com/community/garden-way-retirement-community-145001",
+        "https://www.sunshineretirementliving.com/eugene-retirement-living/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Springs at Greer Gardens",
+      "slug": "the-springs-at-greer-gardens",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "eugene",
+      "city_name": "Eugene",
+      "address": "1282 Goodpasture Island Rd",
+      "zip": "97401",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "the-springs-living",
+      "organization_name": "The Springs Living",
+      "description": "Independent living, assisted living, and memory care community on a 14-acre property built on the site of Eugene's former Greer Gardens nursery. Operated by Oregon-based The Springs Living, the campus is known for its gardens and grounds. Reviewers highlight caring staff and strong amenities, while some note staffing-level concerns.",
+      "review_note": "4.5/5 across 23 reviews on AssistedLivingCenter.com (July 2026)",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/or/eugene/the-springs-at-greer-gardens-97401/",
+        "https://www.caring.com/senior-living/oregon/eugene/the-springs-at-greer-gardens-97401",
+        "https://health.usnews.com/best-senior-living/the-springs-at-greer-gardens-5369"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Sweetbriar Villa",
+      "slug": "sweetbriar-villa",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "springfield",
+      "city_name": "Springfield",
+      "address": "6135 E St",
+      "zip": "97478",
+      "phone": "(541) 234-3022",
+      "website": "https://sweetbriarvilla.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 39,
+      "organization": "radiant-senior-living",
+      "organization_name": "Radiant Senior Living",
+      "description": "Smaller assisted living and memory care community with 39 total beds in the heart of Springfield, near area shopping, restaurants, and parks. Part of family-owned Radiant Senior Living. Families frequently cite the intimate size, homey feel, attentive staff, and personalized care.",
+      "review_note": "4.5/5 average across 22 reviews on A Place for Mom; 5.0/5 across 8 reviews on Caring.com (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/sweetbriar-villa-60217",
+        "https://www.caring.com/senior-living/oregon/springfield/sweetbriar-villa-97478-2",
+        "https://sweetbriarvilla.com/",
+        "https://www.ohca.com/facility-finder/sweetbriar-villa/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Redwood Heights by Cogir",
+      "slug": "redwood-heights-by-cogir",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "4050 12th St Cutoff SE",
+      "zip": "97302",
+      "phone": "(503) 540-0822",
+      "website": "https://cogirusa.com/communities/redwood-heights/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "description": "Retirement and assisted living community in southeast Salem, operated by Cogir Senior Living. Reviews consistently praise the warm, attentive caregivers and nurses, chef-prepared dining, and home-like atmosphere; the community passed a 2019 state healthcare survey deficiency-free. Partners with local providers for home care and transitional nursing needs.",
+      "review_note": "9.9/10 A Place for Mom review score, with 47 all-time reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/redwood-heights-by-cogir-137979",
+        "https://cogirusa.com/communities/redwood-heights/",
+        "https://www.ohca.com/facility-finder/redwood-heights-retirement-assisted-living-community/",
+        "https://www.caring.com/senior-living/oregon/salem/redwood-heights-assisted-living-97302"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Capital Manor",
+      "slug": "capital-manor",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "polk",
+      "county_name": "Polk",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "1955 Dallas Highway NW",
+      "zip": "97304",
+      "phone": "(503) 967-3086",
+      "website": "https://www.capitalmanor.com/",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 255,
+      "description": "Nonprofit continuing care retirement community in West Salem, anchored by a 10-story tower with 255 apartments facing the Salem-Dallas Highway. Offers independent living, assisted living, and memory care on one campus, with a salon, walking trails, and an active social calendar of field trips and concerts. Managed in partnership with Life Care Services (LCS).",
+      "review_note": "4.49/5 average across 54 ratings listed by Senior Care Authority (July 2026)",
+      "sources": [
+        "https://www.seniorcareauthority.com/assisted-living/capital-manor-retirement-community-in-salem-oregon.html",
+        "https://www.capitalmanor.com/",
+        "https://www.lcsliving.com/location-finder/oregon/salem/capital-manor/",
+        "https://www.caring.com/senior-living/oregon/salem/capital-manor-97304"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Ridge at Madrona Hills",
+      "slug": "the-ridge-at-madrona-hills",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "707 Madrona Ave SE",
+      "zip": "97302",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "description": "Independent living retirement community in southeast Salem offering studio, one-bedroom, and two-bedroom apartments with three chef-prepared meals daily, housekeeping, and maintenance included. Formerly operated as Madrona Hills within the Holiday Retirement network before rebranding as The Ridge at Madrona Hills. Activities include card games, movie nights, walking trails, gardening, and museum trips.",
+      "review_note": "4.2/5 across 95 reviews on Birdeye (listed under its longtime name Madrona Hills; July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/madrona-hills-148052197703650",
+        "https://www.aplaceformom.com/community/the-ridge-at-madrona-hills-95145",
+        "https://seniorhomes.net/communities/ridge-at-madrona-hills-salem-or-1892",
+        "https://www.assistedlivingcenter.com/facilities/or/salem/holiday-madrona-hills-97302/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Trustwell Living at Davenport Place",
+      "slug": "trustwell-living-at-davenport-place",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "silverton",
+      "city_name": "Silverton",
+      "address": "930 Oak St",
+      "zip": "97381",
+      "phone": "(503) 873-7162",
+      "website": "https://www.trustwellliving.com/communities/davenport-place/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "organization": "trustwell-living",
+      "organization_name": "Trustwell Living",
+      "description": "Assisted living community in Silverton, a small Marion County town near Silver Falls State Park, operated by Trustwell Living. Reviewers describe upfront, communicative management and staff who support residents' independence, along with a clean environment and well-regarded food. It does not offer memory care or skilled nursing on site.",
+      "review_note": "9.2/10 A Place for Mom review score, with 18 all-time reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/trustwell-living-at-davenport-place-1370256",
+        "https://www.trustwellliving.com/communities/davenport-place/",
+        "https://www.ohca.com/facility-finder/trustwell-living-at-davenport-place/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Farmington Square Medford",
+      "slug": "farmington-square-medford",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "jackson",
+      "county_name": "Jackson",
+      "city": "medford",
+      "city_name": "Medford",
+      "address": "1530 Poplar Dr",
+      "zip": "97504",
+      "phone": "(541) 210-5462",
+      "website": "https://farmingtonsquare-medford.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 81,
+      "organization": "radiant-senior-living",
+      "organization_name": "Radiant Senior Living",
+      "google_rating": 4.4,
+      "google_review_count": 28,
+      "rating_as_of": "2026-07-11",
+      "description": "Farmington Square Medford is a cottage-style community in north Medford focused primarily on memory care for seniors living with Alzheimer's and other dementias, with assisted living support also available. The community has 81 beds across studio, one-bedroom, and two-bedroom floor plans and is managed by Radiant Senior Living.",
+      "sources": [
+        "https://farmingtonsquare-medford.com/",
+        "https://www.seniorly.com/memory-care/oregon/medford/farmington-square-medford",
+        "https://www.caring.com/senior-living/oregon/medford/farmington-square-medford"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Brookdale Medford",
+      "slug": "brookdale-medford",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "jackson",
+      "county_name": "Jackson",
+      "city": "medford",
+      "city_name": "Medford",
+      "address": "3033 Barnett Rd",
+      "zip": "97504",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "capacity": 95,
+      "organization": "brookdale-senior-living",
+      "organization_name": "Brookdale Senior Living",
+      "review_note": "4.3/5 across 68 reviews on A Place for Mom (July 2026)",
+      "description": "Brookdale Medford is an assisted living community on Barnett Road in Medford serving up to 95 residents. Part of the national Brookdale Senior Living network, it has been named a U.S. News Best Senior Living community for assisted living based on resident and family surveys.",
+      "sources": [
+        "https://www.aplaceformom.com/community/brookdale-medford-60233",
+        "https://www.caring.com/senior-living/oregon/medford/brookdale-medford",
+        "https://health.usnews.com/best-senior-living/brookdale-medford-1800"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Springs at Anna Maria",
+      "slug": "the-springs-at-anna-maria",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "jackson",
+      "county_name": "Jackson",
+      "city": "medford",
+      "city_name": "Medford",
+      "address": "822 Golf View Dr",
+      "zip": "97504",
+      "phone": "(541) 774-1822",
+      "website": "https://www.thespringsliving.com/senior-living/medford/oregon/anna-maria",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "organization": "the-springs-living",
+      "organization_name": "The Springs Living",
+      "review_note": "4.6/5 across 9 reviews on A Place for Mom (July 2026)",
+      "description": "The Springs at Anna Maria is an independent and assisted living campus in the foothills of Medford's Rogue Valley, operated by Oregon-based The Springs Living. Most residents live independently and can add assisted living services as their needs change, choosing from studio, one-bedroom, and two-bedroom apartments.",
+      "sources": [
+        "https://www.thespringsliving.com/senior-living/medford/oregon/anna-maria",
+        "https://www.aplaceformom.com/community/the-springs-at-anna-maria-60232",
+        "https://www.caring.com/senior-living/oregon/medford/the-springs-at-anna-maria-medford"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Ashland Post Acute",
+      "slug": "ashland-post-acute",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "jackson",
+      "county_name": "Jackson",
+      "city": "ashland",
+      "city_name": "Ashland",
+      "address": "135 Maple St",
+      "zip": "97520",
+      "phone": "(541) 482-2341",
+      "website": "https://ashland-pa.com/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 87,
+      "cms_ccn": "385197",
+      "cms_rating_overall": 3,
+      "review_note": "4.8/5 across 16 reviews on AssistedLivingCenter.com (July 2026)",
+      "description": "Ashland Post Acute is an 87-bed Medicare- and Medicaid-certified skilled nursing facility near downtown Ashland, set against the Siskiyou Mountains. It provides short-term rehabilitation and long-term care, holds a CMS overall rating of 3 stars with a 4-star quality measures rating, and earns strongly positive family reviews for its staff and clean, comfortable setting.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/ashland-post-acute-in-ashland-385197",
+        "https://www.assistedlivingcenter.com/facilities/or/ashland/ashland-post-acute-97520/",
+        "https://ashland-pa.com/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Suites Assisted Living and Memory Care",
+      "slug": "the-suites-assisted-living-and-memory-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "josephine",
+      "county_name": "Josephine",
+      "city": "grants-pass",
+      "city_name": "Grants Pass",
+      "address": "1301 Parkdale Dr",
+      "zip": "97527",
+      "phone": "(541) 955-9115",
+      "website": "https://www.compass-living.com/community/the-suites-assisted-living-and-memory-care/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 93,
+      "organization": "compass-senior-living",
+      "organization_name": "Compass Senior Living",
+      "review_note": "4.3/5 across 14 reviews on A Place for Mom (July 2026)",
+      "description": "The Suites is a combined assisted living and memory care community in Grants Pass with 65 licensed assisted living beds and a 28-bed memory care neighborhood. Families consistently describe it as clean, bright, and cheerful, with attentive communication from staff. It is operated by Eugene-based Compass Senior Living.",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-suites-assisted-living-and-memory-care-60265",
+        "https://www.ohca.com/facility-finder/suites-assisted-living-community-the/",
+        "https://www.compass-living.com/community/the-suites-assisted-living-and-memory-care/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Solista Roseburg by Cogir",
+      "slug": "solista-roseburg-by-cogir",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "douglas",
+      "county_name": "Douglas",
+      "city": "roseburg",
+      "city_name": "Roseburg",
+      "address": "1800 NW Hughwood Ave",
+      "zip": "97471",
+      "phone": "(541) 391-5793",
+      "website": "https://cogirusa.com/communities/solista-roseburg/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "review_note": "4.5/5 across 53 reviews on A Place for Mom (July 2026)",
+      "description": "Solista Roseburg (formerly Holiday Garden Valley) is an independent living community for older adults in Roseburg operated by Cogir Senior Living. Monthly rent includes three chef-prepared meals daily, weekly housekeeping, scheduled local transportation, and a full activity calendar in a four-story apartment building.",
+      "sources": [
+        "https://www.aplaceformom.com/community/solista-roseburg-by-cogir-60196",
+        "https://www.caring.com/senior-living/oregon/roseburg/solista-roseburg-by-cogir",
+        "https://cogirusa.com/communities/solista-roseburg/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Crystal Terrace of Klamath Falls",
+      "slug": "crystal-terrace-of-klamath-falls",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "klamath",
+      "county_name": "Klamath",
+      "city": "klamath-falls",
+      "city_name": "Klamath Falls",
+      "address": "1000 Town Center Dr",
+      "zip": "97601",
+      "phone": "(541) 885-7250",
+      "website": "https://www.mbkseniorliving.com/senior-living/or/klamath-falls/crystal-terrace/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "organization": "mbk-senior-living",
+      "organization_name": "MBK Senior Living",
+      "review_note": "4.2/5 across 38 reviews on A Place for Mom (July 2026)",
+      "description": "Crystal Terrace of Klamath Falls brings independent living and assisted living together on a 22-acre mountainside campus, with studio, one-bedroom, and two-bedroom apartments plus independent living cottages. Short-term respite stays are also offered. The community is managed by MBK Senior Living.",
+      "sources": [
+        "https://www.mbkseniorliving.com/senior-living/or/klamath-falls/crystal-terrace/",
+        "https://www.aplaceformom.com/community/crystal-terrace-of-klamath-falls-60277",
+        "https://www.seniorly.com/assisted-living/oregon/klamath-falls/crystal-terrace-of-klamath-falls"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Pelican Pointe by Cogir",
+      "slug": "pelican-pointe-by-cogir",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "klamath",
+      "county_name": "Klamath",
+      "city": "klamath-falls",
+      "city_name": "Klamath Falls",
+      "address": "615 Washburn Way",
+      "zip": "97603",
+      "phone": "(541) 882-8900",
+      "website": "https://cogirusa.com/communities/pelican-pointe/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "review_note": "4.5/5 across 36 reviews on A Place for Mom (July 2026)",
+      "description": "Pelican Pointe is an assisted living and memory care community on Washburn Way in Klamath Falls, offering studio, private room, and one-bedroom apartments including a dedicated memory care neighborhood. Reviewers consistently praise the friendly staff, clean facilities, and meals. The community is operated by Cogir Senior Living.",
+      "sources": [
+        "https://www.aplaceformom.com/community/pelican-pointe-by-cogir-60287",
+        "https://cogirusa.com/communities/pelican-pointe/",
+        "https://www.ohca.com/facility-finder/pelican-pointe-assisted-living-community/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Klamath Falls Senior Living",
+      "slug": "klamath-falls-senior-living",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "klamath",
+      "county_name": "Klamath",
+      "city": "klamath-falls",
+      "city_name": "Klamath Falls",
+      "address": "2130 N Eldorado Ave",
+      "zip": "97601",
+      "phone": "(541) 882-4830",
+      "website": "https://klamathfallsseniorliving.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 70,
+      "review_note": "4.8/5 across 124 reviews on Birdeye (July 2026)",
+      "description": "Klamath Falls Senior Living (formerly Pacifica Senior Living Klamath Falls) is a licensed assisted living community on North Eldorado Avenue with a maximum capacity of 70 residents, also offering independent living and short-term respite stays. Apartments include studio, one-bedroom, and two-bedroom floor plans with kitchenettes and wheelchair-accessible showers.",
+      "sources": [
+        "https://klamathfallsseniorliving.com/",
+        "https://www.aplaceformom.com/community/klamath-falls-senior-living-60278",
+        "https://www.trustedlivingcare.com/item/pacifica-senior-living-klamath-falls/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Trustwell Living at Astor Place",
+      "slug": "trustwell-living-at-astor-place",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clatsop",
+      "county_name": "Clatsop",
+      "city": "astoria",
+      "city_name": "Astoria",
+      "address": "999 Klaskanine Ave",
+      "zip": "97103",
+      "phone": "(503) 325-6970",
+      "website": "https://www.trustwellliving.com/communities/astor-place/",
+      "care_levels": [
+        "assisted-living",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 28,
+      "organization": "trustwell-living",
+      "organization_name": "Trustwell Living",
+      "review_note": "4.4/5 average across 53 all-time reviews on A Place for Mom; A Place for Mom review score 9.4/10 based on 10 reviews in the last 2 years (July 2026)",
+      "description": "A 28-bed assisted living community on Klaskanine Avenue in Astoria, also offering respite and short-term stays. Reviewers consistently praise compassionate, attentive caregivers who encourage resident independence. Part of the national Trustwell Living portfolio.",
+      "sources": [
+        "https://www.aplaceformom.com/community/trustwell-living-at-astor-place-59779",
+        "https://www.ohca.com/facility-finder/trustwell-living-at-astor-place/",
+        "https://www.trustwellliving.com/communities/astor-place/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Avamere at Seaside",
+      "slug": "avamere-at-seaside",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clatsop",
+      "county_name": "Clatsop",
+      "city": "seaside",
+      "city_name": "Seaside",
+      "address": "2500 S Roosevelt Dr",
+      "zip": "97138",
+      "phone": "(503) 738-0900",
+      "website": "https://avamereatseaside.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "avamere-family-of-companies",
+      "organization_name": "Avamere Family of Companies",
+      "review_note": "4.8/5 average across 16 reviews on A Place for Mom; A Place for Mom review score 9.7/10 based on 10 reviews in the last 2 years (July 2026)",
+      "description": "An Oregon-licensed residential care community in Seaside offering assisted living with a dedicated memory care unit and an independent living option. Families highlight the welcoming environment, attentive staff, and activity program; some reviews note rent increases. Operated by Oregon-based Avamere.",
+      "sources": [
+        "https://www.aplaceformom.com/community/avamere-at-seaside-96454",
+        "https://avamereatseaside.com/contact/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/50R296"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Neawanna by the Sea",
+      "slug": "neawanna-by-the-sea",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clatsop",
+      "county_name": "Clatsop",
+      "city": "seaside",
+      "city_name": "Seaside",
+      "address": "20 N Wahanna Rd",
+      "zip": "97138",
+      "phone": "(503) 738-5526",
+      "website": "https://www.compass-living.com/community/neawanna-by-the-sea/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "respite-care"
+      ],
+      "google_rating": 4.4,
+      "rating_as_of": "2026-07-11",
+      "organization": "compass-senior-living",
+      "organization_name": "Compass Senior Living",
+      "review_note": "4.7/5 across 20 reviews on AssistedLivingCenter.com; Google rating 4.4 as shown in listings (July 2026)",
+      "description": "An independent and assisted living community a few blocks from the beach in Seaside, with cottages and apartment-style units plus respite stays. Reviewers describe a vibrant atmosphere, supportive staff, and well-designed community, though several note premium pricing. Operated by Eugene-based Compass Senior Living.",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/or/seaside/neawanna-by-the-sea-97138/",
+        "https://www.aplaceformom.com/community/neawanna-by-the-sea-59828",
+        "https://www.compass-living.com/community/neawanna-by-the-sea/independent-living/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Oceanview Senior Living",
+      "slug": "oceanview-senior-living",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lincoln",
+      "county_name": "Lincoln",
+      "city": "newport",
+      "city_name": "Newport",
+      "address": "525 NE 71st St",
+      "zip": "97365",
+      "phone": "(541) 574-0550",
+      "website": "https://westmontliving.com/our-communities/oregon/newport/oceanview-senior-living/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "google_rating": 4.8,
+      "rating_as_of": "2026-07-11",
+      "organization": "westmont-living",
+      "organization_name": "Westmont Living",
+      "review_note": "A Place for Mom review score 9.2/10 with 16 reviews on the platform; Google rating 4.8 as cited in listings (July 2026)",
+      "description": "A Westmont Living community on the Central Oregon coast in Newport offering independent living, assisted living, and memory care. Reviews praise the coastal setting, on-site physical therapy, and activity calendar, while some mention staffing turnover. Located just north of downtown Newport off Highway 101.",
+      "sources": [
+        "https://www.aplaceformom.com/community/oceanview-senior-living-60075",
+        "https://westmontliving.com/our-communities/oregon/newport/oceanview-senior-living/",
+        "https://www.yelp.com/biz/oceanview-senior-living-newport"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Shorewood Senior Living",
+      "slug": "shorewood-senior-living",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "florence",
+      "city_name": "Florence",
+      "address": "1451 Spruce St",
+      "zip": "97439",
+      "phone": "(541) 997-8202",
+      "website": "https://www.compass-living.com/community/shorewood-senior-living/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "capacity": 74,
+      "organization": "compass-senior-living",
+      "organization_name": "Compass Senior Living",
+      "review_note": "12 reviews on A Place for Mom with My Caring Plan aggregate 9.7/10 (highest rated in Florence); 4.9/5 on AssistedLivingCenter.com; 100% recommend from 8 Facebook reviews (July 2026)",
+      "description": "A 74-apartment independent living community in Florence, a short drive from the Oregon dunes and beaches. Reviews consistently emphasize friendly staff and residents, renovated common areas, dog-friendly patios, and walking trails on the grounds. Operated by Compass Senior Living of Eugene.",
+      "sources": [
+        "https://www.aplaceformom.com/community/shorewood-senior-living-60174",
+        "https://www.mycaringplan.com/senior-living/shorewood-senior-living/",
+        "https://www.compass-living.com/community/shorewood-senior-living/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Ocean Ridge by Cogir",
+      "slug": "ocean-ridge-by-cogir",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "coos",
+      "county_name": "Coos",
+      "city": "coos-bay",
+      "city_name": "Coos Bay",
+      "address": "1855 Ocean Blvd SE",
+      "zip": "97420",
+      "phone": "(541) 267-4000",
+      "website": "https://cogirusa.com/communities/ocean-ridge/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "review_note": "20 reviews on A Place for Mom with My Caring Plan aggregate 9.2/10 (highest rated of 4 communities in Coos Bay); 38 reviews listed on AssistedLivingCenter.com (July 2026)",
+      "description": "A senior living community in a quiet Coos Bay neighborhood offering independent living, assisted living, and memory care. The majority of reviews are strongly positive, with families praising the caregiving staff and management. Formerly known as Ocean Ridge Assisted Living, now managed by Cogir Senior Living.",
+      "sources": [
+        "https://www.aplaceformom.com/community/ocean-ridge-by-cogir-141204",
+        "https://www.mycaringplan.com/senior-living/ocean-ridge/",
+        "https://cogirusa.com/communities/ocean-ridge/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Baycrest Village",
+      "slug": "baycrest-village",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "coos",
+      "county_name": "Coos",
+      "city": "north-bend",
+      "city_name": "North Bend",
+      "address": "3959 Sheridan Ave",
+      "zip": "97459",
+      "phone": "(541) 756-4151",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "cms_ccn": "385039",
+      "review_note": "20 reviews on A Place for Mom with My Caring Plan aggregate 9.5/10 (highest rated of 3 communities in North Bend) (July 2026)",
+      "description": "A full-continuum senior campus on 14 acres overlooking the bay in North Bend, offering independent living, assisted living, memory care, and the 84-bed Medicare- and Medicaid-certified Baycrest Health Center skilled nursing facility. Reviews highlight compassionate caregiving, effective rehab and therapy, and a community-oriented environment, with a minority noting inconsistencies in care.",
+      "sources": [
+        "https://www.aplaceformom.com/community/baycrest-village-60187",
+        "https://www.mycaringplan.com/senior-living/baycrest-village/",
+        "https://www.healthcare4ppl.com/nursing-home/oregon/north-bend/baycrest-health-center-385039.html"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Sea View Senior Living Community",
+      "slug": "sea-view-senior-living-community",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "curry",
+      "county_name": "Curry",
+      "city": "brookings",
+      "city_name": "Brookings",
+      "address": "98059 Gerlach Ln",
+      "zip": "97415",
+      "phone": "(541) 469-4500",
+      "website": "https://www.seaviewseniorliving.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 135,
+      "review_note": "4.4/5 across 27 reviews on AssistedLivingCenter.com; 13 reviews on A Place for Mom; 92% recommend from 20 Facebook reviews (July 2026)",
+      "description": "A 135-apartment community on the far southern Oregon coast in Brookings offering independent living, assisted living, memory care, and respite stays. Reviewers describe it as well-run, clean, and welcoming, with restaurant-style dining, an active events calendar, and pet-friendly areas. One of the largest senior communities in Curry County.",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/or/brookings/sea-view-senior-living-community-97415/",
+        "https://www.aplaceformom.com/community/sea-view-senior-living-community-157843",
+        "https://www.seaviewseniorliving.com/senior-living/or/brookings/contact/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Providence Down Manor",
+      "slug": "providence-down-manor",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "hood-river",
+      "county_name": "Hood River",
+      "city": "hood-river",
+      "city_name": "Hood River",
+      "address": "1950 Sterling Pl",
+      "zip": "97031",
+      "phone": "(541) 387-8290",
+      "website": "https://www.providence.org/locations/or/down-manor",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "capacity": 99,
+      "organization": "providence",
+      "organization_name": "Providence",
+      "review_note": "4.8/5 average across 10 reviews on A Place for Mom; 5.0 stars on SeniorAdvisor (July 2026)",
+      "description": "A 99-unit independent retirement community on the Providence Senior Village campus in Hood River, with views of the Hood River Valley. Rent includes daily meals, housekeeping, laundry, and scheduled transportation, and the campus sits adjacent to Providence Brookside Manor for higher levels of care. Operated by the Providence health system.",
+      "sources": [
+        "https://www.aplaceformom.com/community/providence-down-manor-59715",
+        "https://www.providence.org/locations/or/down-manor",
+        "https://www.seniorhousingnet.com/seniorliving-detail/down-manor_1950-sterling-pl_hood-river_or_97031-627954"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "McKay Creek Assisted Living",
+      "slug": "mckay-creek-assisted-living",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "umatilla",
+      "county_name": "Umatilla",
+      "city": "pendleton",
+      "city_name": "Pendleton",
+      "address": "1601 Southgate Pl",
+      "zip": "97801",
+      "phone": "(541) 276-1987",
+      "website": "https://mckaycreekal.com/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "capacity": 44,
+      "review_note": "4.8/5 across 20 reviews on Birdeye (listed as McKay Creek Estates); A Place for Mom review score 8.9/10 with 7 reviews (July 2026)",
+      "description": "A 44-unit assisted living community on Southgate Place in Pendleton, also known as McKay Creek Estates. Reviewers describe an active, social community with excellent staff and management, large clean apartments, and well-kept grounds. One of the highest-rated senior communities in Umatilla County.",
+      "sources": [
+        "https://reviews.birdeye.com/mckay-creek-estates-173507633638028",
+        "https://mckaycreekal.com/",
+        "https://www.ohca.com/facility-finder/mckay-creek-assisted-living/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Avamere at Hermiston",
+      "slug": "avamere-at-hermiston",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "umatilla",
+      "county_name": "Umatilla",
+      "city": "hermiston",
+      "city_name": "Hermiston",
+      "address": "980 W Highland Ave",
+      "zip": "97838",
+      "phone": "(541) 567-3141",
+      "website": "https://avamereathermiston.com/",
+      "care_levels": [
+        "assisted-living",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 57,
+      "organization": "avamere-family-of-companies",
+      "organization_name": "Avamere Family of Companies",
+      "review_note": "4.7/5 across 13 reviews on AssistedLivingCenter.com; My Caring Plan aggregate 9.1/10, highest rated of 6 communities in Hermiston; 4.5/5 across 4 all-time reviews on A Place for Mom (July 2026)",
+      "description": "A 57-room assisted living community in Hermiston offering round-the-clock caregiving, medication management, and respite stays in studio and one-bedroom apartments. Reviews credit caring, professional staff and a supportive environment. Operated by Oregon-based Avamere.",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/or/hermiston/avamere-at-hermiston-97838/",
+        "https://www.mycaringplan.com/senior-living/avamere-at-hermiston/",
+        "https://avamereathermiston.com/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Angeline Senior Living",
+      "slug": "angeline-senior-living",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "union",
+      "county_name": "Union",
+      "city": "la-grande",
+      "city_name": "La Grande",
+      "address": "501 3rd St",
+      "zip": "97850",
+      "phone": "(541) 975-2418",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "capacity": 15,
+      "review_note": "4.2/5 across 41 reviews on Birdeye (July 2026)",
+      "description": "A 15-bed licensed residential care facility in downtown La Grande providing assisted living in a small, home-like setting. Reviewers repeatedly describe loving, caring staff and personalized attention, at a monthly cost below the La Grande average. One of the few multi-review-rated senior care options in Union County.",
+      "sources": [
+        "https://reviews.birdeye.com/angeline-senior-living-157271060160698",
+        "https://carelistings.com/assisted-living-homes/la-grande-or/angeline-senior-living-llc/5acd025fa71d8c15cf6925e2",
+        "https://www.aplaceformom.com/community/angeline-senior-living-140719"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Orchard Care Home",
+      "slug": "orchard-care-home",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "17932 NE Everett Ct",
+      "zip": "97230",
+      "phone": "(503) 618-1133",
+      "website": "https://orchardach.com",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "capacity": 5,
+      "google_rating": 5.0,
+      "google_review_count": 5,
+      "rating_as_of": "2026-07-11",
+      "description": "Orchard Care Home is a Class 2 adult foster home in east Portland licensed for 5 residents. The home provides family-style residential care with medication management, home-cooked meals, housekeeping, and personalized attention in a single-family neighborhood setting.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/portland-or/orchard-care-home/5acd0265a71d8c15cf692e2a",
+        "https://careavailability.com/provider/orchard-adult-care-home/",
+        "https://orchardach.com"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Elder Garden Care Home, LLC",
+      "slug": "elder-garden-care-home",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "4 NE 202nd Ave",
+      "zip": "97230",
+      "phone": "(503) 465-6888",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "review_note": "5.0/5 overall experience across 5 reviews and a 9.8/10 review score on A Place for Mom (July 2026)",
+      "description": "Elder Garden Care Home is a small residential care home in the Portland/Gresham area, purpose-built for senior care and operated by a CNA-certified provider with assisted living experience. It offers around-the-clock caregivers, memory care, medication administration, and health monitoring in a quiet home setting.",
+      "sources": [
+        "https://www.aplaceformom.com/community/elder-garden-care-home-llc-1365979",
+        "https://www.seniorhousingnet.com/seniorliving-detail/elder-garden-care-home-llc_4-ne-202nd-ave_portland_or_97230-631722",
+        "https://www.senioradvisor.com/local/elder-garden-care-home-llc-portland-or"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Angels Place Adult Foster Care",
+      "slug": "angels-place-adult-foster-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "gresham",
+      "city_name": "Gresham",
+      "address": "1535 SE Evelyn Ct",
+      "zip": "97080",
+      "phone": "(503) 515-5079",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "review_note": "5.0/5 overall experience across 6 reviews on A Place for Mom (July 2026)",
+      "description": "Angels Place Adult Foster Care is a small residential care home in Gresham offering one-on-one personal care, help with bathing and medication management, and home-cooked meals tailored to residents' preferences. Families describe a very clean, well-maintained home with cozy indoor and outdoor common areas.",
+      "sources": [
+        "https://www.aplaceformom.com/community/angels-place-adult-foster-care-160284",
+        "https://www.senioradvisor.com/local/angels-place-adult-foster-care-gresham-or",
+        "https://www.seniorhousingnet.com/seniorliving-detail/angels-place-adult-foster-care_1535-se-evelyn-ct_gresham_or_97080-637213"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Atrium Adult Care Home, LLC",
+      "slug": "atrium-adult-care-home",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "oregon-city",
+      "city_name": "Oregon City",
+      "address": "212 Amanda Ct",
+      "zip": "97045",
+      "phone": "(503) 908-1889",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "review_note": "4.9/5 overall experience across 8 reviews on A Place for Mom; 5.0 stars from 8 reviews on SeniorAdvisor (July 2026)",
+      "description": "Atrium Adult Care Home is a small residential care home in a quiet Oregon City neighborhood with four private rooms, each with a half bath, plus a wheelchair-accessible shower room. Families consistently praise the cleanliness of the home and the staff's communication about residents' care.",
+      "sources": [
+        "https://www.aplaceformom.com/community/atrium-adult-care-home-llc-1335440",
+        "https://www.senioradvisor.com/local/atrium-adult-care-home-llc-oregon-city-or",
+        "https://www.seniorhousingnet.com/seniorliving-detail/atrium-adult-care-home-llc_212-amanda-ct_oregon-city_or_97045-633086"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Eden Adult Foster Home LLC",
+      "slug": "eden-adult-foster-home",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "beaverton",
+      "city_name": "Beaverton",
+      "address": "20695 SW Clarion St",
+      "zip": "97006",
+      "phone": "(503) 259-2627",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "review_note": "5.0/5 across 11 reviews on Birdeye review aggregator (July 2026)",
+      "description": "Eden Adult Foster Home is a licensed adult foster home in a quiet residential Beaverton neighborhood, providing a warm, home-like environment for seniors who need personalized care and support. Reviewers highlight the loving, kind care and welcoming atmosphere.",
+      "sources": [
+        "https://reviews.birdeye.com/eden-adult-foster-home-llc-169865927243603",
+        "https://www.carechanges.com/living-communities/eden-adult-foster-home-llc_beaverton_oregon/",
+        "https://www.familyassets.com/assisted-living/oregon/beaverton/eden-adult-foster-home-llc"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Golden Nest Adult Foster Home",
+      "slug": "golden-nest-adult-foster-home",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "4625 Baldwin Ct NE",
+      "zip": "97301",
+      "phone": "(503) 884-7291",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "review_note": "4.9/5 across 15 reviews on Birdeye review aggregator (July 2026)",
+      "description": "Golden Nest Adult Foster Home is a Class 2 adult foster home in northeast Salem providing 24-hour residential care in a family home setting. Reviewers note that the providers treat every resident with love, patience, and compassion.",
+      "sources": [
+        "https://reviews.birdeye.com/golden-nest-adult-foster-home-168248759279253",
+        "https://www.myseniorcarefinder.com/salem-or/golden-nest-afh",
+        "https://www.chamberofcommerce.com/business-directory/oregon/salem/adult-foster-care-service/2015103318-golden-nest-adult-foster-home"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Valley View II Manor Care Home",
+      "slug": "valley-view-ii-manor-care-home",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "polk",
+      "county_name": "Polk",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "451 Eagle Feather St NW",
+      "zip": "97304",
+      "phone": "(503) 990-8275",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "review_note": "4.4/5 overall experience across 10 reviews on A Place for Mom (July 2026)",
+      "description": "Valley View II Manor Care Home is a licensed residential care home in West Salem operating in a custom-built house, offering both residential care and memory care with staff on duty 24 hours a day. Reviewers praise the dedicated staff and warm, supportive community setting.",
+      "sources": [
+        "https://www.aplaceformom.com/community/valley-view-ii-manor-care-home-1365983",
+        "https://www.senioradvisor.com/local/valley-view-ii-manor-care-home-salem-or",
+        "https://www.familyassets.com/assisted-living/oregon/salem/valley-view-ii-manor-care-home"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "High Lakes Care Homes LLC",
+      "slug": "high-lakes-care-homes",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "sisters",
+      "city_name": "Sisters",
+      "address": "119 N Rope St",
+      "zip": "97759",
+      "phone": "(541) 549-6958",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "capacity": 5,
+      "google_rating": 5.0,
+      "google_review_count": 5,
+      "rating_as_of": "2026-07-11",
+      "review_note": "5.0/5 across 6 reviews on Birdeye review aggregator (July 2026)",
+      "description": "High Lakes Care Homes is a nurse-owned and operated Class 3 adult foster home in Sisters licensed for 5 residents, with an in-house doctor and level 3 (skilled-level) care available. Reviewers highlight the compassionate staff, frequent family communication, and video chats that keep families connected.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/sisters-or/high-lakes-care-homes/5acd026aa71d8c15cf693343",
+        "https://reviews.birdeye.com/high-lakes-care-homes-llc-168190963114408",
+        "https://www.yelp.com/biz/high-lakes-care-homes-sisters"
+      ],
+      "verified_date": "2026-07-11"
     }
   ],
   "organizations": [
@@ -1651,6 +2795,139 @@
       "description": "HumanGood is one of the nation's largest nonprofit senior living providers, formed in 2016 through the merger of American Baptist Homes of the West and be.group. It operates Life Plan Communities (CCRCs) and affordable senior housing communities in multiple states, including Hillside in McMinnville, Oregon.",
       "sources": [
         "https://www.humangood.org/"
+      ]
+    },
+    {
+      "name": "Trustwell Living",
+      "slug": "trustwell-living",
+      "headquarters": "New York, New York",
+      "website": "https://www.trustwellliving.com/",
+      "facility_count_approx": 40,
+      "states": [
+        "AZ",
+        "FL",
+        "IL",
+        "IN",
+        "IA",
+        "KS",
+        "LA",
+        "MO",
+        "OH",
+        "OR",
+        "TN",
+        "TX",
+        "WA",
+        "WI"
+      ],
+      "description": "Senior living operator founded in 2021 by Larry Cohen, former CEO of Capital Senior Living. Trustwell operates about 40 communities across the Western, Central, and Southern United States, providing independent living, assisted living, and memory care.",
+      "sources": [
+        "https://www.trustwellliving.com/about-us/",
+        "https://seniorhousingnews.com/2023/10/12/trustwell-adds-24-new-communities-after-building-senior-living-a-team/"
+      ]
+    },
+    {
+      "name": "Sunshine Retirement Living",
+      "slug": "sunshine-retirement-living",
+      "headquarters": "Bend, Oregon",
+      "website": "https://www.sunshineretirementliving.com/",
+      "facility_count_approx": 41,
+      "description": "Senior living operator headquartered in Bend, Oregon, managing 41 retirement communities across 18 states. Sunshine offers senior apartments, independent living, assisted living, and memory care, with an emphasis on all-inclusive independent retirement living.",
+      "sources": [
+        "https://www.sunshineretirementliving.com/",
+        "https://seniorshousingbusiness.com/sunshine-retirement-moves-to-new-headquarters-in-bend-oregon/"
+      ]
+    },
+    {
+      "name": "Radiant Senior Living",
+      "slug": "radiant-senior-living",
+      "headquarters": "Portland, Oregon",
+      "website": "https://radiantseniorliving.com/",
+      "states": [
+        "OR",
+        "WA",
+        "MT",
+        "CO",
+        "NV",
+        "ID"
+      ],
+      "description": "Family-owned senior living company formed in mid-2011 and headquartered in Portland, Oregon. Radiant operates communities in Oregon, Washington, Montana, Colorado, Nevada, and Idaho, employing over 1,000 staff and serving more than 1,260 residents across all levels of care.",
+      "sources": [
+        "https://radiantseniorliving.com/about-us/",
+        "https://radiantseniorliving.com/"
+      ]
+    },
+    {
+      "name": "Cogir Senior Living",
+      "slug": "cogir-senior-living",
+      "headquarters": "Scottsdale, Arizona",
+      "website": "https://cogirusa.com/",
+      "description": "U.S. senior living management arm of Canadian real estate group Cogir, headquartered in Scottsdale, Arizona. Cogir Senior Living operates a large portfolio of independent living, assisted living, and memory care communities across the United States, including several in Oregon.",
+      "sources": [
+        "https://cogirusa.com/",
+        "https://www.zoominfo.com/c/cogir-senior-living/51563288"
+      ]
+    },
+    {
+      "name": "Compass Senior Living",
+      "slug": "compass-senior-living",
+      "headquarters": "Eugene, Oregon",
+      "website": "https://www.compass-living.com/",
+      "description": "Compass Senior Living is a Eugene, Oregon-based operator of independent living, assisted living, and memory care communities in the western and central United States, including The Suites in Grants Pass and Morrow Heights in Rogue River. The company describes its guiding values as goodness, loyalty, faith, and fun.",
+      "sources": [
+        "https://www.compass-living.com/"
+      ]
+    },
+    {
+      "name": "MBK Senior Living",
+      "slug": "mbk-senior-living",
+      "headquarters": "Irvine, California",
+      "website": "https://www.mbkseniorliving.com/",
+      "description": "MBK Senior Living is an Irvine, California-based senior living operator and a subsidiary of Mitsui & Co., managing independent living, assisted living, and memory care communities across the western United States. Its portfolio includes Crystal Terrace of Klamath Falls in southern Oregon.",
+      "sources": [
+        "https://www.mbkseniorliving.com/"
+      ]
+    },
+    {
+      "name": "Avamere Family of Companies",
+      "slug": "avamere-family-of-companies",
+      "headquarters": "Wilsonville, Oregon",
+      "website": "https://www.avamere.com/",
+      "states": [
+        "OR",
+        "WA",
+        "UT",
+        "NM",
+        "NE",
+        "NV"
+      ],
+      "description": "Founded in 1995 and headquartered in Wilsonville, Oregon, Avamere operates a full continuum of senior care including independent living, assisted living, memory care, skilled nursing, and rehabilitation. Its footprint includes more than 30 facilities concentrated in Oregon and Washington, with additional locations in other Western states.",
+      "sources": [
+        "https://www.avamere.com/about/",
+        "https://www.bbb.org/us/or/wilsonville/profile/senior-citizens-service-organizations/avamere-family-of-companies-1296-22023778"
+      ]
+    },
+    {
+      "name": "Westmont Living",
+      "slug": "westmont-living",
+      "headquarters": "San Diego, California",
+      "website": "https://westmontliving.com/",
+      "states": [
+        "CA",
+        "OR"
+      ],
+      "description": "Westmont Living is a family-owned senior living company operating full-service independent living, assisted living, and memory care communities since 1996, primarily in California and Oregon. Its Oregon communities include Oceanview Senior Living in Newport and Lakeview Senior Living in Lincoln City.",
+      "sources": [
+        "https://westmontliving.com/about/"
+      ]
+    },
+    {
+      "name": "Providence",
+      "slug": "providence",
+      "headquarters": "Renton, Washington",
+      "website": "https://www.providence.org/",
+      "description": "Providence is one of the largest not-for-profit Catholic health systems in the United States, serving communities across seven Western states. Alongside hospitals and clinics, it operates senior services including the Providence Senior Village campus in Hood River, Oregon, home to Providence Down Manor independent living and Providence Brookside Manor assisted living and memory care.",
+      "sources": [
+        "https://www.providence.org/locations/or/down-manor"
       ]
     }
   ]

@@ -4,7 +4,7 @@ title: "Courtyard Fountains"
 seo_title: "Courtyard Fountains — Senior Living in Gresham, OR"
 description: "Courtyard Fountains is a large independent and assisted living community in Gresham operated by Senior Lifestyle. Residents choose from studio, one-bedroom, a"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Courtyard Fountains", "url": "/directory/oregon/multnomah-county/gresham/courtyard-fountains/"}]
-nearby: []
+nearby: [{"name": "Angels Place Adult Foster Care", "url": "/directory/oregon/multnomah-county/gresham/angels-place-adult-foster-care/", "city_name": "Gresham", "state_abbrev": "OR", "care_levels": ["adult-family-home"], "facility_size": "small", "description": "Angels Place Adult Foster Care is a small residential care home in Gresham offering one-on-one personal care, help with bathing and medication management, and home-cooked meals tailored to residents' preferences. Families describe a very clean, well-maintained home with cozy indoor and outdoor common areas."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"

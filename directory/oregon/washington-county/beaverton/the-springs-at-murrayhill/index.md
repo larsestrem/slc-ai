@@ -4,7 +4,7 @@ title: "The Springs at Murrayhill"
 seo_title: "The Springs at Murrayhill — Senior Living in Beaverton, OR"
 description: "The Springs at Murrayhill, formerly Hearthstone at Murrayhill, is a senior living community in Beaverton's Murrayhill neighborhood serving more than 200 resid"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "The Springs at Murrayhill", "url": "/directory/oregon/washington-county/beaverton/the-springs-at-murrayhill/"}]
-nearby: []
+nearby: [{"name": "Eden Adult Foster Home LLC", "url": "/directory/oregon/washington-county/beaverton/eden-adult-foster-home/", "city_name": "Beaverton", "state_abbrev": "OR", "care_levels": ["adult-family-home"], "facility_size": "small", "description": "Eden Adult Foster Home is a licensed adult foster home in a quiet residential Beaverton neighborhood, providing a warm, home-like environment for seniors who need personalized care and support. Reviewers highlight the loving, kind care and welcoming atmosphere."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"

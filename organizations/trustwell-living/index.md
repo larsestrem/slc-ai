@@ -1,0 +1,13 @@
+---
+layout: "organization"
+title: "Trustwell Living"
+seo_title: "Trustwell Living — Senior Living Communities & Locations"
+description: "Senior living operator founded in 2021 by Larry Cohen, former CEO of Capital Senior Living. Trustwell operates about 40 communities across the Western, Centra"
+org_description: "Senior living operator founded in 2021 by Larry Cohen, former CEO of Capital Senior Living. Trustwell operates about 40 communities across the Western, Central, and Southern United States, providing independent living, assisted living, and memory care."
+headquarters: "New York, New York"
+website: "https://www.trustwellliving.com/"
+facility_count_approx: 40
+org_states: ["AZ", "FL", "IL", "IN", "IA", "KS", "LA", "MO", "OH", "OR", "TN", "TX", "WA", "WI"]
+facilities: [{"name": "Trustwell Living at Astor Place", "url": "/directory/oregon/clatsop-county/astoria/trustwell-living-at-astor-place/", "city_name": "Astoria", "state_abbrev": "OR", "care_levels": ["assisted-living", "respite-care"], "facility_size": "medium", "description": "A 28-bed assisted living community on Klaskanine Avenue in Astoria, also offering respite and short-term stays. Reviewers consistently praise compassionate, attentive caregivers who encourage resident independence. Part of the national Trustwell Living portfolio."}, {"name": "Trustwell Living at Davenport Place", "url": "/directory/oregon/marion-county/silverton/trustwell-living-at-davenport-place/", "city_name": "Silverton", "state_abbrev": "OR", "care_levels": ["assisted-living"], "description": "Assisted living community in Silverton, a small Marion County town near Silver Falls State Park, operated by Trustwell Living. Reviewers describe upfront, communicative management and staff who support residents' independence, along with a clean environment and well-regarded food. It does not offer memory care or skilled nursing on site."}, {"name": "Trustwell Living at River Run Place", "url": "/directory/oregon/lane-county/eugene/trustwell-living-at-river-run-place/", "city_name": "Eugene", "state_abbrev": "OR", "care_levels": ["assisted-living", "respite-care"], "description": "Assisted living and respite care community in Eugene near the Willamette River, operated by Trustwell Living. Reviewers describe the community as clean, quiet, and attentive, with high marks for staff responsiveness and a robust activities calendar with community outings. Some reviews note concerns about staffing turnover."}]
+crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Trustwell Living", "url": "/organizations/trustwell-living/"}]
+---

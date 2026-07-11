@@ -1,0 +1,28 @@
+---
+layout: "facility"
+title: "The Springs at Anna Maria"
+seo_title: "The Springs at Anna Maria — Senior Living in Medford, OR"
+description: "The Springs at Anna Maria is an independent and assisted living campus in the foothills of Medford's Rogue Valley, operated by Oregon-based The Springs Living"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "The Springs at Anna Maria", "url": "/directory/oregon/jackson-county/medford/the-springs-at-anna-maria/"}]
+nearby: [{"name": "Prestige Senior Living Arbor Place", "url": "/directory/oregon/jackson-county/medford/prestige-senior-living-arbor-place/", "city_name": "Medford", "state_abbrev": "OR", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "description": "Prestige Senior Living Arbor Place is a 72-apartment assisted living community in Medford with an attached 18-room memory care center. Assisted living residents participate in the Celebrations wellness program, while the Expressions memory care program serves residents living with Alzheimer's disease or other memory impairments."}, {"name": "Farmington Square Medford", "url": "/directory/oregon/jackson-county/medford/farmington-square-medford/", "city_name": "Medford", "state_abbrev": "OR", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "description": "Farmington Square Medford is a cottage-style community in north Medford focused primarily on memory care for seniors living with Alzheimer's and other dementias, with assisted living support also available. The community has 81 beds across studio, one-bedroom, and two-bedroom floor plans and is managed by Radiant Senior Living."}, {"name": "Brookdale Medford", "url": "/directory/oregon/jackson-county/medford/brookdale-medford/", "city_name": "Medford", "state_abbrev": "OR", "care_levels": ["assisted-living"], "facility_size": "large", "description": "Brookdale Medford is an assisted living community on Barnett Road in Medford serving up to 95 residents. Part of the national Brookdale Senior Living network, it has been named a U.S. News Best Senior Living community for assisted living based on resident and family surveys."}]
+state: "oregon"
+state_name: "Oregon"
+state_abbrev: "OR"
+county: "jackson"
+county_name: "Jackson"
+city: "medford"
+city_name: "Medford"
+address: "822 Golf View Dr"
+zip: "97504"
+phone: "(541) 774-1822"
+website: "https://www.thespringsliving.com/senior-living/medford/oregon/anna-maria"
+care_levels: ["independent-living", "assisted-living"]
+facility_size: "large"
+organization: "the-springs-living"
+organization_name: "The Springs Living"
+sources: ["https://www.thespringsliving.com/senior-living/medford/oregon/anna-maria", "https://www.aplaceformom.com/community/the-springs-at-anna-maria-60232", "https://www.caring.com/senior-living/oregon/medford/the-springs-at-anna-maria-medford"]
+verified_date: "2026-07-11"
+review_note: "4.6/5 across 9 reviews on A Place for Mom (July 2026)"
+description_full: "The Springs at Anna Maria is an independent and assisted living campus in the foothills of Medford's Rogue Valley, operated by Oregon-based The Springs Living. Most residents live independently and can add assisted living services as their needs change, choosing from studio, one-bedroom, and two-bedroom apartments."
+licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+---

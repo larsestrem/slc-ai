@@ -2,9 +2,36 @@
 layout: default
 ---
 <h1>{{ page.state_name }} Senior Living Facilities &amp; Care Homes</h1>
-<p class="lead">Browse {{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in {{ page.state_name }} by county and city — independent living, assisted living, memory care, small care homes, and skilled nursing.</p>
+<p class="lead">{{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in {{ page.state_name }} — independent living, assisted living, memory care, small care homes, and skilled nursing. Pick a city on the map or browse below.</p>
 
 {{ content }}
+
+{%- if page.map %}
+<figure class="state-map">
+  <svg viewBox="0 0 {{ page.map.width }} {{ page.map.height }}" role="img"
+       aria-label="Map of {{ page.state_name }} showing cities with senior living communities">
+    <path d="{{ page.map.outline }}" class="map-shape"/>
+    {%- for d in page.map.dots %}
+    <a href="#c-{{ d.slug }}" aria-label="{{ d.label | replace: '(', '— ' | replace: ')', ' communities' }}">
+      <circle cx="{{ d.x }}" cy="{{ d.y }}" r="{{ d.r }}" class="map-dot"/>
+      <text x="{{ d.x | plus: d.r | plus: 4 }}" y="{{ d.label_y }}"{% if d.anchor_end %} text-anchor="end" transform="translate(-{{ d.r | plus: 16 }},0)"{% endif %} class="map-label">{{ d.label }}</text>
+    </a>
+    {%- endfor %}
+  </svg>
+  <figcaption>Simplified map — dot size reflects the number of communities. Select a city to jump to its listings. Helpful when your parents live in a state you don't know well.</figcaption>
+</figure>
+{%- endif %}
+
+{%- for city in page.cities %}
+<section aria-labelledby="c-{{ city.slug }}">
+  <h2 id="c-{{ city.slug }}">{{ city.name }}, {{ page.state_abbrev }} <span class="count">· {{ city.county_label }}</span></h2>
+  <ul class="grid">
+    {%- for f in city.facilities %}
+    {% include facility-card.html facility=f %}
+    {%- endfor %}
+  </ul>
+</section>
+{%- endfor %}
 
 {%- if page.licensing %}
 <div class="notice">
@@ -15,22 +42,6 @@ layout: default
 </div>
 {%- endif %}
 
-<h2>Counties in {{ page.state_name }}</h2>
-<div class="table-scroll">
-<table>
-  <thead><tr><th scope="col">County</th><th scope="col">Communities</th><th scope="col">Cities</th></tr></thead>
-  <tbody>
-    {%- for c in page.counties %}
-    <tr>
-      <td><a href="{{ c.url }}">{{ c.name }} County</a></td>
-      <td>{{ c.facility_count }}</td>
-      <td>{{ c.city_names | join: ", " }}</td>
-    </tr>
-    {%- endfor %}
-  </tbody>
-</table>
-</div>
-
 {% include ad-slot.html %}
 
 <section class="prose">
@@ -39,5 +50,6 @@ layout: default
   <a href="/guides/how-to-choose-a-senior-care-facility/">step-by-step guide to choosing a facility</a>
   walks through assessing care needs, budgeting, touring, and deciding. Not sure what level of care
   is right? Start with <a href="/guides/levels-of-care-explained/">levels of care explained</a> and
-  <a href="/guides/cost-of-senior-living/">what senior living really costs</a>.</p>
+  <a href="/guides/cost-of-senior-living/">what senior living really costs</a>. Coverage grows
+  state by state — if a community is missing, <a href="/for-communities/">let us know</a>.</p>
 </section>

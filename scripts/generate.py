@@ -20,6 +20,7 @@ state JSON files; re-run this script afterward for the affected states.
 """
 import argparse
 import json
+import math
 import shutil
 import sys
 from pathlib import Path
@@ -95,6 +96,60 @@ def card(f):
     return c
 
 
+def load_geo():
+    path = ROOT / "data" / "geo.json"
+    return json.loads(path.read_text()) if path.exists() else {"outlines": {}, "cities": {}}
+
+
+def build_map(state, facs, geo):
+    """Inline-SVG state map: simplified outline + one clickable dot per city.
+
+    Equirectangular projection with cos(mid-latitude) x-scaling — fine at state scale.
+    Returns front-matter data the state layout renders; no external map service needed.
+    """
+    outline = geo["outlines"].get(state)
+    city_coords = geo["cities"].get(state, {})
+    if not outline:
+        return None
+    lons = [p[0] for p in outline]
+    lats = [p[1] for p in outline]
+    kx = math.cos(math.radians((min(lats) + max(lats)) / 2))
+    width = 340.0
+    scale = (width - 24) / ((max(lons) - min(lons)) * kx)
+    height = round((max(lats) - min(lats)) * scale + 24, 1)
+
+    def pt(lon, lat):
+        return (round(12 + (lon - min(lons)) * kx * scale, 1),
+                round(12 + (max(lats) - lat) * scale, 1))
+
+    path = "M" + " L".join(f"{x},{y}" for x, y in (pt(lon, lat) for lon, lat in outline)) + " Z"
+
+    per_city = {}
+    for f in facs:
+        per_city.setdefault(f["city"], {"name": f["city_name"], "count": 0})
+        per_city[f["city"]]["count"] += 1
+    dots, placed = [], []
+    missing = []
+    for slug, info in sorted(per_city.items(), key=lambda kv: city_coords.get(kv[0], [0])[0], reverse=True):
+        if slug not in city_coords:
+            missing.append(info["name"])
+            continue
+        lat, lon = city_coords[slug]
+        x, y = pt(lon, lat)
+        label_y = y + 4
+        for px, py in placed:  # nudge overlapping labels apart
+            if abs(px - x) < 100 and abs(py - label_y) < 13:
+                label_y = py + 13
+        placed.append((x, label_y))
+        dots.append({"slug": slug, "x": x, "y": y, "label_y": round(label_y, 1),
+                     "r": min(9, 4.5 + 1.2 * (info["count"] - 1)),
+                     "anchor_end": x > width - 95,
+                     "label": f"{info['name']} ({info['count']})"})
+    if missing:
+        print(f"  !! no map coordinates for: {', '.join(missing)} (add to data/geo.json)")
+    return {"width": width, "height": height, "outline": path, "dots": dots}
+
+
 def load_state(slug):
     path = DATA / f"{slug}.json"
     if not path.exists():
@@ -123,7 +178,10 @@ def gen_facility_page(f, siblings, licensing):
     passthrough = ("state", "state_name", "state_abbrev", "county", "county_name", "city",
                    "city_name", "address", "zip", "phone", "website", "care_levels",
                    "facility_size", "capacity", "organization", "organization_name",
-                   "cms_ccn", "cms_rating_overall", "sources", "verified_date")
+                   "cms_ccn", "cms_rating_overall", "sources", "verified_date",
+                   # lifestyle & services — optional, shown when verified
+                   "pets", "couples", "min_age", "transportation",
+                   "medical_services", "support_services")
     for k in passthrough:
         if f.get(k) not in (None, "", []):
             front[k] = f[k]
@@ -182,26 +240,30 @@ def gen_county_page(state, cslug, county_facs):
     write(DIRECTORY / state / cslug / "index.md", fm(front))
 
 
-def gen_state_page(state, facs, meta):
-    counties = {}
+def gen_state_page(state, facs, meta, geo):
+    # Group directly by city (merged across county lines — Salem spans two counties)
+    # so the state page links straight to facilities, no county/city hop.
+    cities = {}
     for f in facs:
-        counties.setdefault(county_slug(f), []).append(f)
-    county_rows = []
-    for cslug, fl in sorted(counties.items()):
-        city_names = sorted({f["city_name"] for f in fl})
-        county_rows.append({
-            "slug": cslug, "name": fl[0]["county_name"],
-            "url": f"/directory/{state}/{cslug}/",
-            "facility_count": len(fl), "city_names": city_names,
-        })
+        c = cities.setdefault(f["city"], {"slug": f["city"], "name": f["city_name"],
+                                          "counties": set(), "facilities": []})
+        c["counties"].add(f["county_name"] + " County")
+        c["facilities"].append(f)
+    city_blocks = [
+        {"slug": c["slug"], "name": c["name"],
+         "county_label": " / ".join(sorted(c["counties"])),
+         "facilities": [card(f) for f in sorted(c["facilities"], key=lambda x: x["name"])]}
+        for c in sorted(cities.values(), key=lambda c: c["name"])
+    ]
     front = {
         "layout": "state",
         "title": f"{meta['name']} Senior Living",
         "seo_title": f"Senior Living in {meta['name']} — Assisted Living, Memory Care & Nursing Homes",
-        "description": f"Find senior living in {meta['name']}: {len(facs)} communities by county and city, with care levels, sizes, and links to official state inspection records.",
+        "description": f"Find senior living in {meta['name']}: {len(facs)} communities across {len(cities)} cities, with care levels, sizes, and links to official state inspection records.",
         "state_name": meta["name"], "state_abbrev": meta["abbrev"],
         "facility_count": len(facs),
-        "counties": county_rows,
+        "cities": city_blocks,
+        "map": build_map(state, facs, geo),
         "licensing": meta.get("licensing"),
         "crumbs": [
             {"name": "Directory", "url": "/directory/"},
@@ -211,7 +273,7 @@ def gen_state_page(state, facs, meta):
     write(DIRECTORY / state / "index.md", fm(front))
 
 
-def gen_state(state, states_meta, stats):
+def gen_state(state, states_meta, stats, geo):
     loaded = load_state(state)
     if loaded is None:
         print(f"  !! no data file for {state} (data/facilities/{state}.json) — skipped")
@@ -237,7 +299,7 @@ def gen_state(state, states_meta, stats):
             for f in city_facs:
                 gen_facility_page(f, city_facs, licensing)
 
-    gen_state_page(state, facs, meta)
+    gen_state_page(state, facs, meta, geo)
     stats["states"][state] = {
         "facilities": len(facs),
         "cities": len({(f["county"], f["city"]) for f in facs}),
@@ -311,6 +373,7 @@ def main():
     args = ap.parse_args()
 
     states_meta = read_states_meta()
+    geo = load_geo()
     if args.all:
         targets = sorted(p.stem for p in DATA.glob("*.json"))
     else:
@@ -333,7 +396,7 @@ def main():
     all_orgs, facilities_by_org, org_names = [], {}, {}
     for state in sorted(set(p.stem for p in DATA.glob("*.json"))):
         if state in targets:
-            orgs = gen_state(state, states_meta, stats)
+            orgs = gen_state(state, states_meta, stats, geo)
             if orgs is None:
                 continue
         else:

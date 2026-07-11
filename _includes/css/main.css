@@ -128,6 +128,16 @@ tbody tr:hover { background: var(--soft); }
 .dir-list li { break-inside: avoid; margin: .25rem 0; }
 .count { color: var(--muted); font-size: .85em; }
 
+/* State map */
+.state-map { margin: 1.6rem 0; }
+.state-map svg { max-width: 26rem; width: 100%; height: auto; display: block; }
+.map-shape { fill: var(--soft); stroke: var(--line); stroke-width: 1.5; }
+.map-dot { fill: var(--accent); opacity: .9; }
+.state-map a:hover .map-dot, .state-map a:focus .map-dot { fill: var(--accent-strong); opacity: 1; }
+.map-label { font-size: 11px; fill: var(--ink); }
+.state-map a:hover .map-label { text-decoration: underline; }
+.state-map figcaption { color: var(--muted); font-size: .82rem; max-width: 30rem; }
+
 /* Posts */
 .post-list { list-style: none; padding: 0; }
 .post-list li { padding: 1rem 0; border-bottom: 1px solid var(--line); }

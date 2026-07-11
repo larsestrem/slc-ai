@@ -92,6 +92,10 @@ layout: default
         <p>Families rate this community <strong>{{ page.google_rating }}/5</strong>{% if page.google_review_count %} across {{ page.google_review_count }} Google reviews{% endif %}{% if page.rating_as_of %} (as of {{ page.rating_as_of | date: "%B %Y" }}){% endif %}. Public
         reviews are a useful signal — but read the recent ones yourself, and weigh them alongside
         official inspections.</p>
+        {%- elsif page.review_note %}
+        <p>Family reviews: <strong>{{ page.review_note }}</strong>. Public reviews are a useful
+        signal — but read the recent ones yourself, and weigh them alongside official
+        inspections.</p>
         {%- endif %}
         <p><a href="/guides/reading-inspection-reports-and-ratings/">How to read ratings and inspection reports</a> —
         including what the stars don't tell you.</p>

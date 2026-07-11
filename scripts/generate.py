@@ -178,7 +178,7 @@ def gen_facility_page(f, siblings, licensing):
                    # media — photos: [{src, alt, caption}], logo: path
                    "photos", "logo",
                    # public review reputation (from search, dated)
-                   "google_rating", "google_review_count", "rating_as_of")
+                   "google_rating", "google_review_count", "rating_as_of", "review_note")
     for k in passthrough:
         if f.get(k) not in (None, "", []):
             front[k] = f[k]

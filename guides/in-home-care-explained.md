@@ -32,7 +32,7 @@ This is the level most families mean when they say "home care," and it's the dir
 
 ### Home health (skilled care)
 
-Home health is medical care at home: skilled nursing visits, physical therapy, occupational therapy, speech therapy, wound care. It must be ordered by a physician, it's provided by a Medicare-certified agency, and it's typically short-term — a series of visits after a hospital stay, surgery, or new diagnosis.
+Home health is medical care at home: [skilled nursing](/guides/skilled-nursing/) visits, physical therapy, occupational therapy, speech therapy, wound care. It must be ordered by a physician, it's provided by a Medicare-certified agency, and it's typically short-term — a series of visits after a hospital stay, surgery, or new diagnosis.
 
 Here's the insider distinction that trips up almost every family: **home health is the only kind of in-home care Medicare routinely covers**, and it does not include ongoing help with bathing, meals, or supervision. When a hospital discharge planner says "Medicare will cover home care," they mean a nurse or therapist visiting a few times a week for a few weeks — not a daily aide. Budget accordingly, and see [what Medicare and Medicaid each cover](/guides/medicaid-vs-medicare/).
 
@@ -74,7 +74,7 @@ In-home care rarely stands alone, and it doesn't have to carry the whole load:
 
 - **Adult day programs** provide supervision, activities, meals, and social time on weekdays, often for $80–$100 a day — far less than the same hours of one-on-one care. Many families use adult day Monday through Friday and in-home care for mornings, evenings, and weekends.
 - **Family caregiving** is usually the backbone. Paid care works best when it covers the tasks that strain the family most — bathing, nights, respite so a spouse or daughter can rest. Some Medicaid programs can even pay family caregivers; see [government assistance programs](/guides/government-assistance-programs/).
-- **Home health and hospice** layer on top of daily care when medical needs arise, without replacing it.
+- **Home health and [hospice](/guides/hospice-and-palliative-care/)** layer on top of daily care when medical needs arise, without replacing it.
 
 If your parent is showing early warning signs but resisting the conversation, start with [signs your parent needs help](/guides/signs-your-parent-needs-help/) and [how to talk to a parent about care](/guides/talking-to-a-parent-about-care/). "A little help at home" is often the offer a proud parent can accept when "moving" is off the table.
 

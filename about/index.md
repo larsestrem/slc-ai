@@ -14,8 +14,8 @@ guides, built to help you decide well.
 
 ## How we source facility data
 
-- **Government records first.** Skilled nursing facilities come with federal CMS Care Compare
-  records (star ratings, inspections, staffing). Assisted living and small care homes are
+- **Government records first.** [Skilled nursing](/guides/skilled-nursing/) facilities come with federal CMS Care Compare
+  records (star ratings, inspections, staffing). [Assisted living](/guides/assisted-living/) and small care homes are
   licensed and inspected by each state; we link to the official license lookup for every state
   we cover.
 - **Verified against current sources.** Names, addresses, phone numbers, and care levels are

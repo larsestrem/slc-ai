@@ -38,7 +38,7 @@ Granite countertops don't provide care; people do. During the tour:
 - Does your tour guide know residents' names — or only the sales script?
 - Are caregivers rushing, or do they have time to stop and talk?
 
-**What insiders know:** the marketing director you tour with often has little day-to-day contact with care. Ask to meet the people who actually run your parent's life: the nurse or wellness director, the activity director, and — in memory care — the unit coordinator. If leadership "isn't available" on a scheduled tour, ask why.
+**What insiders know:** the marketing director you tour with often has little day-to-day contact with care. Ask to meet the people who actually run your parent's life: the nurse or wellness director, the activity director, and — in [memory care](/guides/memory-care/) — the unit coordinator. If leadership "isn't available" on a scheduled tour, ask why.
 
 > **Ask this:** "How many caregivers are on this wing right now, and how many residents? What about at 2 a.m.?" Then count doors and staff as you walk, and see whether reality matches the answer. Our [staffing ratios guide](/guides/staffing-ratios/) explains what good answers sound like.
 

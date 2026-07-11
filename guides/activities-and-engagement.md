@@ -80,7 +80,7 @@ Activity quality is one of the clearest visible differences between facilities t
 Yes — maybe more. Ask how the facility engages reluctant or room-bound residents: one-on-one visits, personal invitations from staff, small quiet groups. Good programs win over "I'm not a joiner" people gently; weak ones just let them disappear. Many holdouts join within a couple of months when someone bothers to invite them personally.
 
 **How many activities per day is normal?**
-In assisted living, several genuinely staffed activities a day — typically morning, afternoon, and something in the evening — plus fitness most days is a healthy baseline. But count quality, not lines on the calendar: three real programs beat eight fillers.
+In [assisted living](/guides/assisted-living/), several genuinely staffed activities a day — typically morning, afternoon, and something in the evening — plus fitness most days is a healthy baseline. But count quality, not lines on the calendar: three real programs beat eight fillers.
 
 **Do activities cost extra?**
 The core program should be included in the base rate. Outings with transportation, tickets, or supplies sometimes carry small fees, and some communities charge for one-on-one companion time — ask, and see our guide to [hidden fees](/guides/whats-not-included-hidden-fees/).

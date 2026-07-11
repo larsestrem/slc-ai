@@ -42,9 +42,9 @@ Hiring an independent caregiver directly saves real money — often $20–$28 pe
 
 But go in with your eyes open: **you become a household employer**, with everything that legally means:
 
-- **Payroll taxes.** If you pay a caregiver above the annual IRS threshold (a few thousand dollars), you owe Social Security and Medicare taxes and possibly unemployment tax — the so-called "nanny tax." Paying cash under the table is tax evasion, and it also blocks the caregiver from Social Security credit and unemployment benefits. Payroll services built for household employers make compliance cheap and painless.
+- **Payroll taxes.** If you pay a caregiver above the annual IRS threshold (a few thousand dollars), you owe Social Security and [Medicare](/guides/medicaid-vs-medicare/) taxes and possibly unemployment tax — the so-called "nanny tax." Paying cash under the table is tax evasion, and it also blocks the caregiver from Social Security credit and unemployment benefits. Payroll services built for household employers make compliance cheap and painless.
 - **Workers' compensation.** Required for household employers in some states, and wise everywhere — caregiving involves lifting, and a back injury without coverage can turn into a lawsuit against your parent.
-- **Overtime rules.** Federal law generally entitles home care workers to minimum wage and overtime; live-in arrangements have their own rules that vary by state.
+- **Overtime rules.** Federal law generally entitles [home care](/guides/in-home-care-explained/) workers to minimum wage and overtime; live-in arrangements have their own rules that vary by state.
 - **Backup is on you.** When your one caregiver gets the flu, there is no office to call. Have a plan B — a second part-time caregiver, a family rotation, or an agency you can call for fill-in shifts — before you need it.
 
 ## Screening: interviews, checks, and trial shifts

@@ -19,7 +19,7 @@ this industry already do. Email your answers (and attachments) to
 1. Legal business name, DBA, state(s) of registration, and year founded (we verify with the Secretary of State)
 2. States and metro areas you actively serve, and your office address in each
 3. Are you independent or part of a franchise/network? Which?
-4. Approximate placements completed in the last 12 months, and the settings you place into (assisted living, memory care, small care homes, independent living, skilled nursing)
+4. Approximate placements completed in the last 12 months, and the settings you place into ([assisted living](/guides/assisted-living/), [memory care](/guides/memory-care/), small care homes, [independent living](/guides/independent-living/), [skilled nursing](/guides/skilled-nursing/))
 
 ## Compliance & credentials
 
@@ -38,7 +38,7 @@ this industry already do. Email your answers (and attachments) to
 
 ## Service model
 
-14. Describe your intake assessment (care needs, budget, Medicaid trajectory). Do you serve families who will need Medicaid within 24 months?
+14. Describe your intake assessment (care needs, budget, [Medicaid](/guides/medicaid-vs-medicare/) trajectory). Do you serve families who will need Medicaid within 24 months?
 15. Do you tour communities with families in person? What share of last year's placements included an accompanied tour?
 16. When did you last personally visit the communities you most often recommend, and how do you check inspection histories before recommending?
 17. What does your follow-up after move-in look like, and for how long?

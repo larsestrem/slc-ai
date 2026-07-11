@@ -37,7 +37,7 @@ What insiders know: if the facility says therapy will end and coverage will stop
 
 ## Long-term care: who truly needs a nursing home
 
-Fewer people need long-term nursing home care than families fear. It's the right setting when:
+Fewer people need long-term nursing [home care](/guides/in-home-care-explained/) than families fear. It's the right setting when:
 
 - Care needs exceed what [assisted living](/guides/assisted-living/) or [memory care](/guides/memory-care/) can legally or practically provide — ventilators, feeding tubes, complex wounds, injections, two-person transfers, total assistance with daily living.
 - Medical instability requires a licensed nurse on every shift, 24/7, with physicians and pharmacists overseeing care.
@@ -52,7 +52,7 @@ Long-term skilled nursing is the most expensive care there is: nationally, rough
 Because almost no one can pay that indefinitely, **Medicaid is the largest payer of nursing home care in America** — it covers the majority of long-term residents. The typical path: a resident pays privately, spends down assets to their state's eligibility limits, then transitions to Medicaid in the same bed. Know these basics (rules vary by state):
 
 - Most nursing homes are Medicaid-certified, but some limit Medicaid beds. Ask up front whether your parent could stay if they convert to Medicaid later.
-- Medicaid has a **five-year look-back** on asset transfers, spousal protections that shield some income and assets for a husband or wife at home, and **estate recovery** rules that can reach a home after death. This is exactly where an **elder law attorney** earns their fee — talk to one before moving money, not after.
+- Medicaid has a **five-year look-back** on asset transfers, spousal protections that shield some income and assets for a husband or wife at home, and **[estate recovery](/guides/medicaid-estate-recovery/)** rules that can reach a home after death. This is exactly where an **elder law attorney** earns their fee — talk to one before moving money, not after.
 - The uncomfortable truth: facilities know private-pay residents are more profitable, and admissions offices favor them. A year or two of private-pay runway makes your parent a more welcome applicant almost everywhere. It isn't fair; it is real.
 
 ## The Five-Star system — and its limits

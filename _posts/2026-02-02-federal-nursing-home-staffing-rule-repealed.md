@@ -12,7 +12,7 @@ sources:
     name: "Skilled Nursing News"
 ---
 
-The first federal minimum staffing standard for nursing homes is officially off the books. The Centers for Medicare & Medicaid Services (CMS) published an interim final rule in the [Federal Register](https://www.federalregister.gov/documents/2025/12/03/2025-21792/medicare-and-medicaid-programs-repeal-of-minimum-staffing-standards-for-long-term-care-facilities) on December 3, 2025, repealing the staffing mandate, and the repeal took effect on February 2, 2026.
+The first federal minimum staffing standard for [nursing homes](/guides/skilled-nursing/) is officially off the books. The Centers for Medicare & [Medicaid](/guides/medicaid-vs-medicare/) Services (CMS) published an interim final rule in the [Federal Register](https://www.federalregister.gov/documents/2025/12/03/2025-21792/medicare-and-medicaid-programs-repeal-of-minimum-staffing-standards-for-long-term-care-facilities) on December 3, 2025, repealing the staffing mandate, and the repeal took effect on February 2, 2026.
 
 The rule being withdrawn was finalized in 2024 and would have required nursing homes that participate in Medicare and Medicaid to keep a registered nurse on site 24 hours a day, seven days a week, and to provide at least 3.48 total nurse staffing hours per resident per day — including 0.55 hours from registered nurses and 2.45 hours from nurse aides.
 

@@ -15,7 +15,7 @@ related:
 
 "Full range of services" appears in every senior living brochure, and it tells you almost nothing. What you actually need to know is which specific services exist, who provides them, and which ones cost extra. This page splits the service menu into medical and non-medical support, so you can compare two communities line by line instead of brochure by brochure.
 
-One foundational truth first, because it reshapes everything else: **assisted living is not a medical facility in most states.** It is licensed as housing with supportive services. What staff can legally do — even give a pill versus hand over a pill — varies by state and by each community's license. Only skilled nursing facilities are staffed and licensed as medical settings. If a salesperson's answers blur this line, slow down and get specifics. Our overview of [levels of care](/guides/levels-of-care-explained/) explains the licensing tiers.
+One foundational truth first, because it reshapes everything else: **[assisted living](/guides/assisted-living/) is not a medical facility in most states.** It is licensed as housing with supportive services. What staff can legally do — even give a pill versus hand over a pill — varies by state and by each community's license. Only [skilled nursing](/guides/skilled-nursing/) facilities are staffed and licensed as medical settings. If a salesperson's answers blur this line, slow down and get specifics. Our overview of [levels of care](/guides/levels-of-care-explained/) explains the licensing tiers.
 
 ## Medical support: what to look for
 
@@ -31,11 +31,11 @@ None of these is automatically wrong for your parent. But with an on-call nurse,
 
 > **Ask this:** "On a Saturday at 2 a.m., who is in this building, what licenses do they hold, and what exactly happens if my mother falls?"
 
-**Therapy services (PT, OT, speech).** Most communities don't employ therapists; outside agencies come in, usually billed to Medicare Part B after a doctor's order. Ask whether therapy happens on-site and whether there's a dedicated therapy space.
+**Therapy services (PT, OT, speech).** Most communities don't employ therapists; outside agencies come in, usually billed to [Medicare](/guides/medicaid-vs-medicare/) Part B after a doctor's order. Ask whether therapy happens on-site and whether there's a dedicated therapy space.
 
 **Visiting practitioners.** Many communities host visiting physicians, podiatrists, dentists, optometrists, and mobile lab or X-ray services. These bill insurance directly and eliminate many exhausting outside trips. A strong visiting-provider list is a genuinely underrated feature — ask for it in writing.
 
-**Hospice and palliative care coordination.** Most assisted living communities allow outside hospice agencies to serve residents in their apartments, which can let your parent avoid a traumatic late-life move. But policies differ: some communities require residents to move out when needs exceed their license, hospice or not. Ask directly whether residents can die in place there, and whether the community has worked with hospice teams before.
+**[Hospice](/guides/hospice-and-palliative-care/) and palliative care coordination.** Most assisted living communities allow outside hospice agencies to serve residents in their apartments, which can let your parent avoid a traumatic late-life move. But policies differ: some communities require residents to move out when needs exceed their license, hospice or not. Ask directly whether residents can die in place there, and whether the community has worked with hospice teams before.
 
 **Chronic condition support.** Diabetes is the test case. Can staff do blood-sugar checks? Administer insulin, or only store it? Sliding-scale insulin is beyond many assisted living licenses. Same questions for oxygen: who manages the equipment, and what happens during a power outage? If your parent has a specific condition, make the community explain — in writing — exactly what staff will and won't do for it.
 
@@ -44,7 +44,7 @@ None of these is automatically wrong for your parent. But with an on-call nurse,
 These matter just as much to quality of life, and they're where base rent and add-ons get tangled.
 
 - **Housekeeping and laundry.** Weekly housekeeping and linen service are usually in base rent. Personal laundry is often extra, or done "as available."
-- **Meals.** Typically three daily meals in assisted living (sometimes fewer in independent living, or a meal-credit system). Tray delivery to the room usually costs extra per tray. Dining quality varies enormously — see [food and dining](/guides/food-and-dining/).
+- **Meals.** Typically three daily meals in assisted living (sometimes fewer in [independent living](/guides/independent-living/), or a meal-credit system). Tray delivery to the room usually costs extra per tray. Dining quality varies enormously — see [food and dining](/guides/food-and-dining/).
 - **Personal care (ADL help).** Bathing, dressing, grooming, toileting, transfers, incontinence care. This is the heart of assisted living, and it is almost never in base rent — it's billed through care levels or points, the largest variable on the bill.
 - **Transportation.** Three different things hide under one word: scheduled group shuttles to shopping and outings (usually included), rides to medical appointments (often limited to certain days and a mileage radius, frequently $20-$50+ each way), and on-demand personal rides (often not offered at all). Ask which of the three exists and what each costs.
 - **Escort and companion services.** A ride to the cardiologist is not the same as someone who parks, walks Mom in, sits with her, and takes notes. Staff escorts, where offered, are usually billed hourly. Many families end up hiring outside companions for this — budget for it.
@@ -58,7 +58,7 @@ The pattern, by care type:
 
 - **Independent living:** rent generally covers the apartment, utilities, some meals, housekeeping, activities, and scheduled transportation. Any personal care comes from outside home-care agencies you hire and pay separately.
 - **Assisted living:** base rent covers room, meals, housekeeping, and activities. Personal care, medication management, incontinence care, and escorts are billed as care levels, points, or à la carte fees on top — often adding $1,000-$3,000+ to the advertised rate. National median base rates run roughly $5,500-$6,000 per month before care charges, varying widely by region.
-- **Memory care:** more services are bundled (supervision, structured programming, usually most personal care), which is part of why it runs roughly $7,000-$8,500 per month nationally.
+- **[Memory care](/guides/memory-care/):** more services are bundled (supervision, structured programming, usually most personal care), which is part of why it runs roughly $7,000-$8,500 per month nationally.
 - **Skilled nursing:** essentially all-inclusive medically, at roughly $10,000-$12,000 per month for a private room.
 
 The honest truth: communities know families compare advertised base rates, so services migrate out of "included" and into "care charges" where they're invisible until after assessment. Our [hidden fees guide](/guides/whats-not-included-hidden-fees/) walks through forcing the full picture into the open.

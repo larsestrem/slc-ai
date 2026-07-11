@@ -19,7 +19,7 @@ Watching a parent's memory fail is one of the hardest things a family goes throu
 Memory care is residential care designed for people with Alzheimer's disease or other dementias. The core elements:
 
 - **A secured environment.** Doors are alarmed or keypad-controlled so residents who wander can't walk into traffic. Good units make this feel safe rather than locked-in, with enclosed courtyards and circular walking paths.
-- **Higher staffing and dementia training.** Ratios are usually better than assisted living, and staff should be trained in dementia-specific communication and in responding to fear, agitation, and refusal without force or medication.
+- **Higher staffing and dementia training.** Ratios are usually better than [assisted living](/guides/assisted-living/), and staff should be trained in dementia-specific communication and in responding to fear, agitation, and refusal without force or medication.
 - **Structured engagement.** Failure-free activities scaled to ability — music, folding towels, gardening, sensory activities — because unoccupied hours are when distress and decline accelerate.
 - **Full personal care,** including bathing, dressing, toileting, and eating support, adapted to someone who may resist because they no longer understand what's happening.
 
@@ -71,7 +71,7 @@ Bring our general [touring checklist](/guides/touring-checklist/), plus these de
 ## Common questions
 
 **Is memory care the same as a nursing home?**
-No. Memory care is specialized residential care for dementia; it does not provide 24-hour licensed nursing. If your parent develops medical needs like wound care or feeding tubes, a skilled nursing facility (many have secured dementia units) may become necessary. See [levels of care explained](/guides/levels-of-care-explained/).
+No. Memory care is specialized residential care for dementia; it does not provide 24-hour licensed nursing. If your parent develops medical needs like wound care or feeding tubes, a [skilled nursing](/guides/skilled-nursing/) facility (many have secured dementia units) may become necessary. See [levels of care explained](/guides/levels-of-care-explained/).
 
 **Does Medicare pay for memory care?**
 No — Medicare doesn't cover long-term custodial care in memory care communities. Medicaid may help in some states through waivers, though coverage and waiting lists vary widely by state. A SHIP counselor or elder law attorney can map your options; see [Medicaid vs. Medicare](/guides/medicaid-vs-medicare/).

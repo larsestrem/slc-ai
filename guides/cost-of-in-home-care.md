@@ -13,11 +13,11 @@ related:
   - /guides/paying-for-senior-care/
 ---
 
-In-home care is priced by the hour, which makes it sound affordable — and at modest hours, it genuinely is. But the same hourly rate that costs a few hundred dollars a month at one level becomes the most expensive care arrangement in America at another. This page does the math honestly, so you can budget for the care your parent needs now and see the tipping points coming.
+[In-home care](/guides/in-home-care-explained/) is priced by the hour, which makes it sound affordable — and at modest hours, it genuinely is. But the same hourly rate that costs a few hundred dollars a month at one level becomes the most expensive care arrangement in America at another. This page does the math honestly, so you can budget for the care your parent needs now and see the tipping points coming.
 
 ## The hourly rate in 2025-2026
 
-Nationally, the median rate for a home care aide through an agency runs roughly **$30–$35 per hour** as of 2025-2026. Region matters a lot: rural areas in lower-cost states may run $25–$28, while major metros and high-cost states can exceed $40. Skilled nursing visits and private-duty nurses cost considerably more per hour; companion-only care sometimes costs slightly less.
+Nationally, the median rate for a home care aide through an agency runs roughly **$30–$35 per hour** as of 2025-2026. Region matters a lot: rural areas in lower-cost states may run $25–$28, while major metros and high-cost states can exceed $40. [Skilled nursing](/guides/skilled-nursing/) visits and private-duty nurses cost considerably more per hour; companion-only care sometimes costs slightly less.
 
 Most agencies also have minimum shifts (often 3–4 hours) and may charge premiums for weekends, holidays, overnight shifts, and dementia care. Get the full rate sheet in writing before comparing agencies.
 
@@ -72,7 +72,7 @@ But the sticker comparison is misleadingly simple. With a private hire, you beco
 
 ## Common questions
 
-**Is in-home care cheaper than assisted living?**
+**Is in-home care cheaper than [assisted living](/guides/assisted-living/)?**
 At under roughly 30-35 hours a week, usually yes — especially since your parent's housing is already paid for or owned. At 40+ hours it costs about the same as assisted living, and 24/7 in-home care costs two to four times more. The honest comparison depends entirely on hours needed.
 
 **Will Medicare pay for an aide to help my mother bathe and dress every day?**

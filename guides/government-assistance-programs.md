@@ -24,13 +24,13 @@ Before you fill out a single application, call these two resources. They exist f
 
 These calls cost nothing and can save you months of confusion.
 
-> **Ask this:** "What programs in this state help pay for assisted living or in-home care, and how long is the waiting list for each?" Waiting lists are the detail nobody volunteers — some waiver programs have them, and knowing early changes your whole plan.
+> **Ask this:** "What programs in this state help pay for [assisted living](/guides/assisted-living/) or [in-home care](/guides/in-home-care-explained/), and how long is the waiting list for each?" Waiting lists are the detail nobody volunteers — some waiver programs have them, and knowing early changes your whole plan.
 
 ## Medicaid and HCBS waivers: the biggest source of help
 
-Medicaid is the largest payer of long-term care in the country. Original Medicaid pays for nursing home care for people who qualify financially and medically. But most families want to avoid a nursing home — and that's where **Home and Community-Based Services (HCBS) waivers** come in.
+Medicaid is the largest payer of long-term care in the country. Original Medicaid pays for [nursing home](/guides/skilled-nursing/) care for people who qualify financially and medically. But most families want to avoid a nursing home — and that's where **Home and Community-Based Services (HCBS) waivers** come in.
 
-HCBS waivers let states use Medicaid money to pay for care in settings other than nursing homes: assisted living, adult family homes, and care delivered in a person's own home. Key things to know:
+HCBS waivers let states use Medicaid money to pay for care in settings other than nursing homes: assisted living, [adult family homes](/guides/adult-family-homes/), and care delivered in a person's own home. Key things to know:
 
 - Waivers usually pay for the **care services**, not the room and board. Your parent typically still pays rent from their income (Social Security, pension), often with a state-set cap.
 - Waivers are not an entitlement the way nursing home Medicaid is. States can cap enrollment, which is why waiting lists exist in some places.
@@ -79,7 +79,7 @@ A Medicaid-heavy facility with clean inspections and stable staff is a far bette
 ## Common questions
 
 **Does Medicare pay for assisted living or long-term care?**
-No. Medicare covers short rehab stays after a hospital admission and some home health, but it does not pay for ongoing assisted living, memory care, or long-term nursing home care. This surprises almost every family — see [Medicaid vs. Medicare](/guides/medicaid-vs-medicare/).
+No. Medicare covers short rehab stays after a hospital admission and some home health, but it does not pay for ongoing assisted living, [memory care](/guides/memory-care/), or long-term nursing home care. This surprises almost every family — see [Medicaid vs. Medicare](/guides/medicaid-vs-medicare/).
 
 **My parent has too much money for Medicaid but can't afford care. What now?**
 This is common. Many people privately pay until their savings drop to Medicaid levels, then convert — which is why you should ask every facility whether it accepts Medicaid *later*, not just now. An elder law attorney can also advise on legal spend-down planning.

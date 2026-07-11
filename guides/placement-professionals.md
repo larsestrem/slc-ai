@@ -16,7 +16,7 @@ If you've searched for senior living online, you've probably already met a place
 
 ## What placement professionals are
 
-Senior living placement services — also called referral agencies or senior care advisors — help families find assisted living, memory care, and other senior housing. They come in two very different flavors:
+Senior living placement services — also called referral agencies or senior care advisors — help families find [assisted living](/guides/assisted-living/), [memory care](/guides/memory-care/), and other senior housing. They come in two very different flavors:
 
 - **National online referral services.** Big brands that dominate search results. You fill out a web form; an advisor works your case largely by phone, sending you a list of communities from their partner network.
 - **Local independent advisors.** Individuals or small firms who work one region, know the buildings personally, and will often tour facilities with you in person. Some belong to networks or franchises.
@@ -33,7 +33,7 @@ Nothing about this is illegal or hidden from the facilities — it's the industr
 - **The incentive tilts toward a move, and toward higher rent.** The advisor is paid only if you move in, and often paid more when the rent is higher. Most advisors are ethical people — but you should know which way the current flows.
 - **Your contact information is the product.** With some national services, submitting a web form can result in your phone number going to multiple facilities at once. If you're getting six sales calls a day, that's why. Ask any service exactly who your information will be shared with before you hand it over.
 
-There's one more quiet wrinkle: because fees are usually contingent on move-in, some advisors also steer away from Medicaid-funded options, which pay lower rents or no referral fee. If you'll need Medicaid now or later, say so up front and see how the advisor responds — it's a revealing moment.
+There's one more quiet wrinkle: because fees are usually contingent on move-in, some advisors also steer away from Medicaid-funded options, which pay lower rents or no referral fee. If you'll need [Medicaid](/guides/medicaid-vs-medicare/) now or later, say so up front and see how the advisor responds — it's a revealing moment.
 
 ## National call centers vs. local advisors
 

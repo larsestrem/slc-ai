@@ -28,7 +28,7 @@ answers. Partial answers are welcome.
 8. Games, clubs, and social events (cards, bingo, book clubs, happy hours, live music, holiday events)
 9. Entertainment and enrichment (performers, lectures, crafts, gardening, intergenerational programs)
 10. Religious/spiritual services on site or nearby
-11. For memory care: what does engagement look like on your secured unit specifically?
+11. For [memory care](/guides/memory-care/): what does engagement look like on your secured unit specifically?
 
 ## Getting out & around
 

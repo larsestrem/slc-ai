@@ -13,7 +13,7 @@ related:
 
 "Mom has Medicare, so the nursing home is covered, right?" This is the most common — and most costly — misunderstanding in all of senior care. The short answer is no: Medicare does not pay for long-term care. This page explains what Medicare and Medicaid each actually cover, and how families move from one to the other.
 
-One caveat up front: Medicaid rules genuinely vary by state — income and asset limits, what assisted living coverage exists, even program names. Everything here is the general national picture as of 2025-2026. For your state's specifics, talk to a SHIP counselor or elder law attorney (see "Where to get help" below).
+One caveat up front: Medicaid rules genuinely vary by state — income and asset limits, what [assisted living](/guides/assisted-living/) coverage exists, even program names. Everything here is the general national picture as of 2025-2026. For your state's specifics, talk to a SHIP counselor or elder law attorney (see "Where to get help" below).
 
 ## What Medicare actually covers
 
@@ -22,12 +22,12 @@ Medicare is health insurance for people 65+ (and some younger people with disabi
 For nursing facility care, Medicare Part A pays only when all of these are true:
 
 - Your parent had a **qualifying inpatient hospital stay** (generally at least 3 days, and "observation status" days don't count — ask the hospital directly, because this catches many families).
-- They're admitted to a Medicare-certified skilled nursing facility for **skilled** needs: rehab (physical, occupational, speech therapy) or skilled nursing like wound care or IV medications.
+- They're admitted to a Medicare-certified [skilled nursing](/guides/skilled-nursing/) facility for **skilled** needs: rehab (physical, occupational, speech therapy) or skilled nursing like wound care or IV medications.
 - They continue to need and receive that skilled care.
 
 Even then, coverage runs **up to 100 days per benefit period** — and 100 days is a maximum, not a promise. Days 1-20 are fully covered; days 21-100 carry a significant daily copay (around $210 per day in 2025, adjusted annually), which supplemental insurance may cover. In practice, coverage often ends well before day 100, when the person "plateaus" in therapy.
 
-What Medicare does **not** cover: help with bathing, dressing, eating, toileting, and supervision — the "custodial care" that is the entire substance of assisted living, memory care, and long-term nursing home stays. It also doesn't cover room and board in any senior living community. Medicare Advantage plans follow the same fundamental rule, whatever the ads imply.
+What Medicare does **not** cover: help with bathing, dressing, eating, toileting, and supervision — the "custodial care" that is the entire substance of assisted living, [memory care](/guides/memory-care/), and long-term nursing home stays. It also doesn't cover room and board in any senior living community. Medicare Advantage plans follow the same fundamental rule, whatever the ads imply.
 
 What insiders know: when Medicare rehab coverage ends, the facility will hand you a notice and the daily bill becomes yours — often $300-$400 a day. You have the right to a fast appeal of that cutoff decision, and appeals sometimes buy needed time. Never assume the cutoff date is final without asking.
 
@@ -37,7 +37,7 @@ What insiders know: when Medicare rehab coverage ends, the facility will hand yo
 
 Medicaid is the joint federal-state program for people with limited income and assets — and it is the **primary payer of long-term care in America**, covering a large share of all nursing home residents.
 
-- **Nursing home care:** every state Medicaid program covers long-term nursing home care — room, board, and care — indefinitely for eligible people who medically need it. Facilities must be Medicaid-certified, and not all are; some also limit their number of "Medicaid beds."
+- **Nursing [home care](/guides/in-home-care-explained/):** every state Medicaid program covers long-term nursing home care — room, board, and care — indefinitely for eligible people who medically need it. Facilities must be Medicaid-certified, and not all are; some also limit their number of "Medicaid beds."
 - **Assisted living and home care:** through **Home and Community-Based Services (HCBS) waivers**, most states cover some services in assisted living or at home. But coverage varies enormously by state, waivers often have **waiting lists**, Medicaid generally pays for *care services* but not the room-and-board portion, and many assisted living communities simply don't participate. If Medicaid may be in your parent's future, ask every community about it now — see [paying for senior care](/guides/paying-for-senior-care/).
 
 ## Medicaid eligibility basics

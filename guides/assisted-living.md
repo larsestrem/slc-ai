@@ -58,7 +58,7 @@ Get every number in writing before you fall in love with a community. Our guide 
 
 Assisted living is licensed by states, not the federal government, so **what staff may legally do varies by state** — sometimes dramatically. In general:
 
-- **Usually allowed:** help with ADLs; medication reminders or administration by trained aides or med techs (state-dependent); coordinating with outside doctors, home health, and hospice.
+- **Usually allowed:** help with ADLs; medication reminders or administration by trained aides or med techs (state-dependent); coordinating with outside doctors, home health, and [hospice](/guides/hospice-and-palliative-care/).
 - **Often restricted or prohibited:** injections other than insulin support, sliding-scale insulin, wound care beyond the minor, feeding tubes, two-person transfers, ventilators, and ongoing care for residents who cannot bear their own weight.
 
 This is the honest truth behind the "we can handle anything" tour promise: assisted living is **not a nursing facility**. There is typically no doctor on site and often no registered nurse overnight — evenings and weekends are usually aides, sometimes with an LPN. When needs cross into daily skilled procedures, the resident either brings in outside home health or hospice, or moves to [skilled nursing](/guides/skilled-nursing/).

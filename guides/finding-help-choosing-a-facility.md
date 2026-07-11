@@ -53,7 +53,7 @@ sale. Placement specialists work the same way:
 
 - **They assess your parent's needs** — care level, budget, location, personality, timeline.
 - **They know the local communities personally** — which ones have openings, which handle
-  memory care well, which just lost a good administrator — the "local inventory" knowledge
+  [memory care](/guides/memory-care/) well, which just lost a good administrator — the "local inventory" knowledge
   that would take you weeks to build.
 - **They arrange and often join the tours**, help you compare, and guide the move-in
   paperwork.
@@ -108,7 +108,7 @@ incentives yourself regardless of how you found the community.
 Absolutely. A good specialist narrows the field and joins your tours — they don't replace
 your own eyes. Never choose a community you haven't visited.
 
-**What if my parent will need Medicaid soon?**
+**What if my parent will need [Medicaid](/guides/medicaid-vs-medicare/) soon?**
 Tell the specialist up front. Because placement fees come from communities, some services
 quietly deprioritize families heading toward Medicaid — a good one will say plainly whether
 they can help and point you to your Area Agency on Aging if they can't.

@@ -12,7 +12,7 @@ related:
   - /guides/in-home-care-explained/
 ---
 
-If you've left a visit with your parent feeling uneasy but unable to say exactly why, trust that feeling — it's usually right. This page turns that vague worry into a clear-eyed assessment: the specific signs that an aging parent needs help, why they're so easy to miss, and what to do next. No sign on this list means "nursing home." Most mean "it's time to get more information."
+If you've left a visit with your parent feeling uneasy but unable to say exactly why, trust that feeling — it's usually right. This page turns that vague worry into a clear-eyed assessment: the specific signs that an aging parent needs help, why they're so easy to miss, and what to do next. No sign on this list means "[nursing home](/guides/skilled-nursing/)." Most mean "it's time to get more information."
 
 ## Why decline is invisible — to them and to you
 

@@ -16,7 +16,7 @@ Two facilities can hold the exact same license and feel like different planets �
 
 ## Large communities (100–200+ residents)
 
-These are the places you see advertised: hotel-style buildings or campuses with a dining room, bistro, fitness center, salon, theater, and a full activities calendar. Many combine independent living, assisted living, and memory care under one roof.
+These are the places you see advertised: hotel-style buildings or campuses with a dining room, bistro, fitness center, salon, theater, and a full activities calendar. Many combine [independent living](/guides/independent-living/), [assisted living](/guides/assisted-living/), and memory care under one roof.
 
 What they do well:
 
@@ -45,7 +45,7 @@ Some buildings do nothing but dementia care. The whole environment — layout, l
 
 ## CCRCs / life-plan communities
 
-Continuing care retirement communities put independent living through skilled nursing on one campus, usually in exchange for a large entrance fee plus monthly fees. The promise is aging in one place; the risk is contractual and financial complexity. Treat a CCRC decision as a legal and financial decision as much as a care decision, and get the contract reviewed by an elder law attorney.
+[Continuing care retirement communities](/guides/ccrc-life-plan-communities/) put independent living through [skilled nursing](/guides/skilled-nursing/) on one campus, usually in exchange for a large entrance fee plus monthly fees. The promise is aging in one place; the risk is contractual and financial complexity. Treat a CCRC decision as a legal and financial decision as much as a care decision, and get the contract reviewed by an elder law attorney.
 
 ## For-profit vs. non-profit
 

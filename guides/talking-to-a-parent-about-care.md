@@ -60,7 +60,7 @@ Almost no one should open this conversation with "senior living." Start with the
 - A housekeeper or a few hours a week of [in-home help](/guides/in-home-care-explained/).
 - Meal delivery, a medication service, grab bars, a medical alert button.
 - An **adult day program** — activities, a meal, and supervision during the day, home at night. These are among the most underused resources in senior care.
-- A short **respite stay** at a community as a trial, framed as recovery or "while I'm traveling."
+- A short **[respite stay](/guides/respite-care/)** at a community as a trial, framed as recovery or "while I'm traveling."
 
 Small steps get accepted because they don't threaten the big picture — and they build the habit of accepting help, which makes every later step easier. When needs grow, the [home care or facility](/guides/home-care-or-facility/) question comes next, and [levels of care explained](/guides/levels-of-care-explained/) maps the options.
 

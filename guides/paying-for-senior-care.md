@@ -17,7 +17,7 @@ Before the list, one thing matters more than any single source: **time**. Nearly
 
 ## Private pay: savings, income, and investments
 
-Most assisted living in the U.S. is paid privately, from Social Security, pensions, retirement accounts, and savings. The core exercise is simple: add up your parent's reliable monthly income, subtract it from the realistic total monthly cost (including care charges and increases — see [hidden fees](/guides/whats-not-included-hidden-fees/)), and see how many years the gap can be covered from assets.
+Most [assisted living](/guides/assisted-living/) in the U.S. is paid privately, from Social Security, pensions, retirement accounts, and savings. The core exercise is simple: add up your parent's reliable monthly income, subtract it from the realistic total monthly cost (including care charges and increases — see [hidden fees](/guides/whats-not-included-hidden-fees/)), and see how many years the gap can be covered from assets.
 
 Be conservative. Assume costs rise 5-8% a year and care needs grow. A plan that only works if nothing changes is not a plan.
 
@@ -34,7 +34,7 @@ What insiders know: how the house is handled can make or break later Medicaid el
 
 ## Long-term care insurance — and actually claiming it
 
-If your parent bought a long-term care (LTC) policy years ago, find it now. These policies typically pay a daily or monthly benefit for assisted living, memory care, home care, or nursing care once the person can't perform a set number of daily activities (usually 2 of 6) or has a cognitive diagnosis.
+If your parent bought a long-term care (LTC) policy years ago, find it now. These policies typically pay a daily or monthly benefit for assisted living, [memory care](/guides/memory-care/), home care, or nursing care once the person can't perform a set number of daily activities (usually 2 of 6) or has a cognitive diagnosis.
 
 Claiming takes work:
 
@@ -49,7 +49,7 @@ Start the claim the moment care looks likely — benefits usually can't be paid 
 
 ## VA Aid & Attendance
 
-Wartime-era veterans and their surviving spouses may qualify for VA pension with Aid & Attendance — a monthly, tax-free benefit (roughly $1,300-$2,700+ per month in 2025-2026 depending on category) that can go toward assisted living or in-home care. Requirements include wartime service, care needs, and income/asset limits, and the VA now has its own look-back period on asset transfers.
+Wartime-era veterans and their surviving spouses may qualify for VA pension with Aid & Attendance — a monthly, tax-free benefit (roughly $1,300-$2,700+ per month in 2025-2026 depending on category) that can go toward assisted living or [in-home care](/guides/in-home-care-explained/). Requirements include wartime service, care needs, and income/asset limits, and the VA now has its own look-back period on asset transfers.
 
 Two cautions. Applications can take months, though payments are retroactive to the application date. And beware "free" VA benefit seminars run by annuity salespeople — get help instead from an accredited Veterans Service Officer (free) or your county Veterans Service Office. More in our [government assistance programs](/guides/government-assistance-programs/) guide.
 
@@ -65,7 +65,7 @@ Honest truth: these options pay pennies on the dollar of the death benefit, and 
 
 ## Annuities and family cost-sharing
 
-**Annuities:** converting savings into a guaranteed income stream can help cover a predictable monthly gap, and specific Medicaid-compliant annuities are used in spousal planning. But annuities sold at "senior seminars" are a notorious problem area — high commissions, long surrender penalties. Never buy one to "protect assets from the nursing home" without independent elder law advice.
+**Annuities:** converting savings into a guaranteed income stream can help cover a predictable monthly gap, and specific Medicaid-compliant annuities are used in spousal planning. But annuities sold at "senior seminars" are a notorious problem area — high commissions, long surrender penalties. Never buy one to "protect assets from the [nursing home](/guides/skilled-nursing/)" without independent elder law advice.
 
 **Family cost-sharing:** when siblings chip in, put it in writing — who pays what, what happens if someone's finances change, and how contributions are treated later (gift vs. loan vs. reimbursable from the estate). A short written agreement drafted with an attorney prevents the most common and most painful family fights. If an adult child is providing substantial care themselves, a formal **personal care agreement** can compensate them without jeopardizing future Medicaid eligibility — again, this must be drafted properly.
 

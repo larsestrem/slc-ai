@@ -12,7 +12,7 @@ related:
   - /guides/cost-of-senior-living/
 ---
 
-Here's something almost nobody tells families until it's too late: Medicaid is not exactly free. After a Medicaid recipient dies, the state can seek repayment for long-term care costs from whatever they leave behind — very often the family home. This page explains how Medicaid estate recovery works, what's exempt, and why you should talk to an elder law attorney *before* your parent applies.
+Here's something almost nobody tells families until it's too late: [Medicaid](/guides/medicaid-vs-medicare/) is not exactly free. After a Medicaid recipient dies, the state can seek repayment for long-term care costs from whatever they leave behind — very often the family home. This page explains how Medicaid estate recovery works, what's exempt, and why you should talk to an elder law attorney *before* your parent applies.
 
 ## What estate recovery is
 
@@ -21,7 +21,7 @@ Under a federal law passed in 1993, every state **must** try to recover the mone
 The basics:
 
 - Recovery happens **after death** — the state files a claim against the deceased person's estate, much like any other creditor.
-- It covers nursing home care, home and community-based services (the waivers described in our [government assistance guide](/guides/government-assistance-programs/)), and related hospital and prescription costs. In some states, if your parent was in a Medicaid managed care plan, the state can recover the monthly payments it made to the plan — even for months when little care was used.
+- It covers nursing [home care](/guides/in-home-care-explained/), home and community-based services (the waivers described in our [government assistance guide](/guides/government-assistance-programs/)), and related hospital and prescription costs. In some states, if your parent was in a Medicaid managed care plan, the state can recover the monthly payments it made to the plan — even for months when little care was used.
 - The state can recover up to the amount Medicaid actually paid, but never more than the estate is worth. No one inherits the debt personally.
 - States cannot recover from people under 55 for most services, and they must have a hardship waiver process.
 

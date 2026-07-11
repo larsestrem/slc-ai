@@ -16,7 +16,7 @@ Every senior care facility looks good in its brochure. Inspection reports and ra
 
 ## Nursing homes: the CMS five-star system
 
-If a facility is a Medicare- or Medicaid-certified nursing home, it appears on **Care Compare** at medicare.gov/care-compare. Search by name or ZIP code and you'll see an overall rating of one to five stars, built from three parts:
+If a facility is a Medicare- or Medicaid-certified [nursing home](/guides/skilled-nursing/), it appears on **Care Compare** at medicare.gov/care-compare. Search by name or ZIP code and you'll see an overall rating of one to five stars, built from three parts:
 
 - **Health inspections.** Based on unannounced state surveys (roughly annual) and complaint investigations over about three years. Surveyors cite deficiencies and grade their severity, from paperwork problems up to "immediate jeopardy" — situations that put residents at risk of serious harm or death.
 - **Staffing.** How many nurse and aide hours residents receive per day, adjusted for how sick the residents are, plus turnover measures. See our [staffing ratios guide](/guides/staffing-ratios/) for why this number matters so much.
@@ -40,7 +40,7 @@ Also know the limits: surveys are a snapshot of a few days a year, surveyor stri
 
 ## Assisted living: state licensing reports
 
-Here's what surprises most families: **CMS stars don't exist for assisted living.** Assisted living communities, memory care, and [adult family homes](/guides/adult-family-homes/) are licensed and inspected by each state, not the federal government — so there is no national rating and no single website.
+Here's what surprises most families: **CMS stars don't exist for [assisted living](/guides/assisted-living/).** Assisted living communities, [memory care](/guides/memory-care/), and [adult family homes](/guides/adult-family-homes/) are licensed and inspected by each state, not the federal government — so there is no national rating and no single website.
 
 To find the records:
 

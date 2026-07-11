@@ -32,7 +32,7 @@ Here's the honest part. Certain changes shift the balance, and pretending otherw
 
 ### Around-the-clock supervision
 
-Once your parent can't safely be alone — advanced dementia, nighttime wandering, frequent falls — home care means paying humans to be present 24/7. That typically runs $15,000–$25,000+ a month, while memory care runs roughly $7,000–$8,500 and even a private nursing home room runs $10,000–$12,000. Do [the math](/guides/cost-of-in-home-care/) against [facility costs](/guides/cost-of-senior-living/) honestly: at this level of need, the facility is usually the less expensive option, and its staffing doesn't call in sick all at once.
+Once your parent can't safely be alone — advanced dementia, nighttime wandering, frequent falls — home care means paying humans to be present 24/7. That typically runs $15,000–$25,000+ a month, while [memory care](/guides/memory-care/) runs roughly $7,000–$8,500 and even a private [nursing home](/guides/skilled-nursing/) room runs $10,000–$12,000. Do [the math](/guides/cost-of-in-home-care/) against [facility costs](/guides/cost-of-senior-living/) honestly: at this level of need, the facility is usually the less expensive option, and its staffing doesn't call in sick all at once.
 
 ### Caregiver burnout
 
@@ -58,7 +58,7 @@ If home is the plan, invest in the house early, while your parent can adapt to t
 - **Bigger projects**: a walk-in shower, first-floor bedroom and full bath, ramped entry, widened doorways, stair lift.
 - **Technology**: medical alert pendant or fall-detection watch, medication dispensers, video doorbell, stove shutoff.
 
-An occupational therapist can do a home safety assessment (sometimes covered by Medicare when ordered alongside home health) and will spot hazards you've stopped seeing. Some [Medicaid waivers and VA programs](/guides/government-assistance-programs/) help pay for modifications; Area Agencies on Aging often know about local grant programs.
+An occupational therapist can do a home safety assessment (sometimes covered by [Medicare](/guides/medicaid-vs-medicare/) when ordered alongside home health) and will spot hazards you've stopped seeing. Some [Medicaid waivers and VA programs](/guides/government-assistance-programs/) help pay for modifications; Area Agencies on Aging often know about local grant programs.
 
 ## Hybrid paths — it's not either/or
 
@@ -66,8 +66,8 @@ The strongest plans usually mix pieces:
 
 - **Adult day program + in-home care.** Weekday supervision, meals, and — critically — social contact at an adult day center, with an aide covering mornings, evenings, or weekends. Often the best answer to both the cost problem and the loneliness problem at once.
 - **In-home care now, community later.** Use home care for the next year or two, while touring communities without pressure and getting on waiting lists. You lose nothing by being ready.
-- **Home care inside independent living.** Many parents move to [independent living](/guides/levels-of-care-explained/) for the community and hire aides there as needs grow — home care and senior housing aren't mutually exclusive.
-- **Respite stays.** A two-week respite stay in a community gives the family caregiver a real break and doubles as a no-commitment trial of facility life.
+- **Home care inside [independent living](/guides/independent-living/).** Many parents move to [independent living](/guides/levels-of-care-explained/) for the community and hire aides there as needs grow — home care and senior housing aren't mutually exclusive.
+- **[Respite stays](/guides/respite-care/).** A two-week respite stay in a community gives the family caregiver a real break and doubles as a no-commitment trial of facility life.
 
 ## Revisit the decision — on a schedule, not in a crisis
 
@@ -86,7 +86,7 @@ Early on, home often wins: familiar surroundings genuinely help, and one consist
 Honor the fear behind the promise — abandonment, loss of control — rather than the literal words, which were usually spoken about the nursing homes of decades past. You can promise to keep them home as long as it's safe, to involve them in every choice, and to visit constantly wherever they live. Sacrificing your own health to keep a literal promise helps no one, including them.
 
 **Isn't home care always cheaper since the house is paid off?**
-Only at lower hours. Add the aide's cost to property taxes, insurance, utilities, maintenance, food, and modifications, and full-time home care usually costs as much as assisted living — while 24/7 care costs far more than any facility. Run the true monthly total for both, not just the headline rates.
+Only at lower hours. Add the aide's cost to property taxes, insurance, utilities, maintenance, food, and modifications, and full-time home care usually costs as much as [assisted living](/guides/assisted-living/) — while 24/7 care costs far more than any facility. Run the true monthly total for both, not just the headline rates.
 
 **What if my siblings and I disagree about which path to take?**
 Get an objective third voice: a geriatric care manager (aging life care professional) can assess your parent's needs and recommend a level of care without a stake in the answer. It turns a family argument into a shared plan — and it's usually a few hundred dollars well spent.

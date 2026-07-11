@@ -18,9 +18,9 @@ When the monthly quotes come in, the room type is often the single biggest lever
 
 Room type moves the bill more than most care decisions do:
 
-- **Nursing homes:** a private room runs roughly $10,000–$12,000 per month nationally; a semi-private (shared) room typically costs about $900–$1,000 less per month. Costs vary a lot by region.
-- **Assisted living:** the national median for a private apartment is roughly $5,500–$6,000 per month. A shared "companion suite" often cuts $1,000–$2,000 off each resident's monthly rent.
-- **Memory care:** shared rooms are common and can bring a $7,000–$8,500 private rate down meaningfully.
+- **[Nursing homes](/guides/skilled-nursing/):** a private room runs roughly $10,000–$12,000 per month nationally; a semi-private (shared) room typically costs about $900–$1,000 less per month. Costs vary a lot by region.
+- **[Assisted living](/guides/assisted-living/):** the national median for a private apartment is roughly $5,500–$6,000 per month. A shared "companion suite" often cuts $1,000–$2,000 off each resident's monthly rent.
+- **[Memory care](/guides/memory-care/):** shared rooms are common and can bring a $7,000–$8,500 private rate down meaningfully.
 
 Over a two- or three-year stay, choosing shared can preserve $25,000–$70,000 of your parent's savings — which can mean the difference between running out of money and not. That's not a shameful calculation; it's stewardship.
 
@@ -47,7 +47,7 @@ Here's the insider part: ask how roommate conflicts are handled and how often re
 
 ## Private rooms and Medicaid: the part nobody explains
 
-This matters enormously for long stays. **Medicaid — the main payer for long-term nursing home care — typically covers a semi-private room, not a private one.** If your parent is on Medicaid in a nursing home, a shared room is the default. Exceptions generally exist only when a private room is medically necessary (for example, infection control), and rules vary by state.
+This matters enormously for long stays. **Medicaid — the main payer for long-term nursing [home care](/guides/in-home-care-explained/) — typically covers a semi-private room, not a private one.** If your parent is on Medicaid in a nursing home, a shared room is the default. Exceptions generally exist only when a private room is medically necessary (for example, infection control), and rules vary by state.
 
 Families sometimes want to pay the difference to upgrade a Medicaid resident to a private room. Some states and facilities allow family supplementation for a private room; others restrict it. Ask the facility's business office directly, and confirm with your state Medicaid agency or an elder law attorney before promising your parent anything.
 

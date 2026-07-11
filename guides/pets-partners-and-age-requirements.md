@@ -17,7 +17,7 @@ Families spend weeks comparing care levels and prices, then discover on move-in 
 
 ## Can the dog or cat come?
 
-For many older adults, the pet is the deal-breaker — and honestly, that's reasonable. A dog or cat is often the last daily companion left, and research on this is clear: pets reduce loneliness. The good news is that most independent living and assisted living communities now accept pets. The details, though, vary a lot.
+For many older adults, the pet is the deal-breaker — and honestly, that's reasonable. A dog or cat is often the last daily companion left, and research on this is clear: pets reduce loneliness. The good news is that most [independent living](/guides/independent-living/) and [assisted living](/guides/assisted-living/) communities now accept pets. The details, though, vary a lot.
 
 Ask about each of these specifically:
 
@@ -30,7 +30,7 @@ Ask about each of these specifically:
 
 Some communities have paid pet-care services or volunteer programs. Many have nothing, and the answer is "the family handles it." You need to know which one you're dealing with, and you need a named backup plan.
 
-The hardest question is the one nobody wants to ask: what happens to the pet if your parent passes away or moves to a higher level of care that doesn't allow pets? (Memory care and skilled nursing frequently don't — visiting pets yes, live-in pets often no.) Decide now, as a family, who takes the animal. Writing the pet into your parent's estate plan, with a named caregiver, is worth a conversation with an elder law attorney.
+The hardest question is the one nobody wants to ask: what happens to the pet if your parent passes away or moves to a higher level of care that doesn't allow pets? (Memory care and [skilled nursing](/guides/skilled-nursing/) frequently don't — visiting pets yes, live-in pets often no.) Decide now, as a family, who takes the animal. Writing the pet into your parent's estate plan, with a named caregiver, is worth a conversation with an elder law attorney.
 
 ## Can spouses and partners move in together?
 
@@ -41,7 +41,7 @@ This is one of the most common — and most emotionally loaded — situations in
 **Different care levels under one roof.** Communities handle the "one needs care, one doesn't" couple in a few ways:
 
 - **Same apartment, different services.** The most common setup in assisted living: the couple shares a unit, and only the spouse who needs care is billed for care. Many communities are genuinely good at this.
-- **Same campus, different buildings.** In larger communities and CCRCs, one spouse may live in independent living while the other lives in assisted living or [memory care](/guides/memory-care/) a short walk away. Ask exactly how far apart the buildings are and whether the well spouse can eat meals with, and visit freely in, the care neighborhood.
+- **Same campus, different buildings.** In larger communities and [CCRCs](/guides/ccrc-life-plan-communities/), one spouse may live in independent living while the other lives in assisted living or [memory care](/guides/memory-care/) a short walk away. Ask exactly how far apart the buildings are and whether the well spouse can eat meals with, and visit freely in, the care neighborhood.
 - **Not possible.** Some communities only license certain buildings for care, and a couple with very different needs simply can't share a unit there. Better to learn this on the phone than on the tour.
 
 What insiders know: memory care is the usual breaking point for couples. When one spouse develops dementia that requires a secured unit, most communities move that spouse into memory care alone — the well spouse typically cannot live inside the secured unit. A small number of communities offer couples' suites adjacent to memory care. If dementia is in the picture, ask about this on day one.

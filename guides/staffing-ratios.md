@@ -16,7 +16,7 @@ When you strip away the chandeliers and the brochure photos, senior care comes d
 
 ## What a staffing ratio actually means
 
-A staffing ratio is how many residents each direct-care worker is responsible for at a given moment — say, one caregiver for every eight residents ("1:8"). Lower is better. The people who matter most are the hands-on staff: certified nursing assistants and resident care aides who do the bathing, dressing, toileting, and answering of call buttons. Nurses matter too, but in assisted living a nurse may oversee the building (or several buildings) while aides do nearly all the daily care.
+A staffing ratio is how many residents each direct-care worker is responsible for at a given moment — say, one caregiver for every eight residents ("1:8"). Lower is better. The people who matter most are the hands-on staff: certified nursing assistants and resident care aides who do the bathing, dressing, toileting, and answering of call buttons. Nurses matter too, but in [assisted living](/guides/assisted-living/) a nurse may oversee the building (or several buildings) while aides do nearly all the daily care.
 
 Be alert to a common sleight of hand: quoting a ratio that counts *everyone on payroll* — administrators, cooks, housekeepers — instead of caregivers actually on the floor for that shift.
 
@@ -24,7 +24,7 @@ Be alert to a common sleight of hand: quoting a ratio that counts *everyone on p
 
 Here's the uncomfortable truth: **most states don't require assisted living communities to maintain any specific ratio, or to publish their staffing levels at all.** Typical state rules just say staffing must be "sufficient to meet residents' needs" — language vague enough that a thin overnight crew can be technically compliant. There is no national database of assisted living staffing.
 
-Nursing homes are the exception: their staffing (from payroll records) and turnover appear on Care Compare — see our guide to [inspection reports and ratings](/guides/reading-inspection-reports-and-ratings/). For assisted living and memory care, the only way to learn the numbers is to ask — precisely — and verify with your own eyes.
+[Nursing homes](/guides/skilled-nursing/) are the exception: their staffing (from payroll records) and turnover appear on Care Compare — see our guide to [inspection reports and ratings](/guides/reading-inspection-reports-and-ratings/). For assisted living and [memory care](/guides/memory-care/), the only way to learn the numbers is to ask — precisely — and verify with your own eyes.
 
 ## What good numbers look like
 

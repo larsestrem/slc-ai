@@ -16,7 +16,7 @@ Most families searching for senior care never hear about adult family homes, bec
 
 ## What an adult family home is
 
-An adult family home is an ordinary house in a residential neighborhood, licensed by the state to provide room, board, and personal care to a small number of residents. Caregivers help with bathing, dressing, medications, meals, and often much more — many homes care for residents through hospice at end of life.
+An adult family home is an ordinary house in a residential neighborhood, licensed by the state to provide room, board, and personal care to a small number of residents. Caregivers help with bathing, dressing, medications, meals, and often much more — many homes care for residents through [hospice](/guides/hospice-and-palliative-care/) at end of life.
 
 They go by different names, and the size limits vary by state. A few examples:
 
@@ -25,7 +25,7 @@ They go by different names, and the size limits vary by state. A few examples:
 - **California:** small residential care facilities for the elderly (RCFEs), commonly licensed for up to 6
 - **Idaho:** certified family homes, typically caring for a handful of residents
 
-Other states use terms like board and care homes, personal care homes, or residential care homes. Whatever the label, the model is the same: a real house, a small group, and caregivers who know everyone deeply. Rates often run at or below assisted living for comparable care — and are usually one inclusive price rather than base rent plus stacked care-level fees.
+Other states use terms like board and care homes, personal care homes, or residential care homes. Whatever the label, the model is the same: a real house, a small group, and caregivers who know everyone deeply. Rates often run at or below [assisted living](/guides/assisted-living/) for comparable care — and are usually one inclusive price rather than base rent plus stacked care-level fees.
 
 ## Why the care can be exceptional
 

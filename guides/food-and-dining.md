@@ -21,14 +21,14 @@ Meals are also the social heartbeat of a community. A parent who enjoys going do
 
 ## The main dining models
 
-- **Restaurant-style dining.** Residents order from a menu with choices at each meal, served at their table, often with flexible "anytime dining" hours. This is now standard in newer assisted and independent living communities and is what most residents prefer.
-- **Cafeteria or set-menu service.** One or two set options per meal, fixed times, sometimes buffet lines. More common in older buildings and skilled nursing. Not automatically bad — some set-menu kitchens cook wonderfully — but it offers less choice and flexibility.
+- **Restaurant-style dining.** Residents order from a menu with choices at each meal, served at their table, often with flexible "anytime dining" hours. This is now standard in newer assisted and [independent living](/guides/independent-living/) communities and is what most residents prefer.
+- **Cafeteria or set-menu service.** One or two set options per meal, fixed times, sometimes buffet lines. More common in older buildings and [skilled nursing](/guides/skilled-nursing/). Not automatically bad — some set-menu kitchens cook wonderfully — but it offers less choice and flexibility.
 - **Family-style.** In small [adult family homes](/guides/adult-family-homes/), residents typically eat home-cooked meals together at one table. Often the best food in senior living, though menus depend entirely on the caregiver's cooking.
 - **Room delivery (tray service).** Meals brought to the apartment. Useful during illness — but watch this one. Many communities charge a per-tray fee, often $5-$10 per meal, and some limit how many delivered meals are allowed. A parent who takes most meals in their room can quietly add hundreds a month to the bill, and the isolation itself is a warning sign worth acting on.
 
 ## Meal plans and what they cost
 
-In assisted living and memory care, three daily meals are usually bundled into base rent. Independent living varies widely: some communities include all meals, many include one or two per day, and others sell meal plans or per-meal credits separately — sometimes $300-$800+ per month for a full plan.
+In [assisted living](/guides/assisted-living/) and memory care, three daily meals are usually bundled into base rent. Independent living varies widely: some communities include all meals, many include one or two per day, and others sell meal plans or per-meal credits separately — sometimes $300-$800+ per month for a full plan.
 
 What insiders know: the meal plan structure quietly changes the real price comparison between communities. A community quoting $500 less per month but including only one daily meal can cost the same or more once your parent buys the rest. Also ask about credits for missed meals — most communities give nothing back when a resident travels or is hospitalized, but some offer flexible-spending dining dollars usable in a bistro or for guest meals. Fold all of this into the apples-to-apples math from our [hidden fees guide](/guides/whats-not-included-hidden-fees/).
 

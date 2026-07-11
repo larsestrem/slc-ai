@@ -27,7 +27,7 @@ Ask yourself honestly:
 - Is there memory loss — missed bills, getting lost, repeating questions?
 - Do they need daily nursing care, like wound care or injections?
 
-Someone who is mostly independent but lonely may only need [independent living](/guides/types-of-senior-living-facilities/). Help with ADLs points to assisted living. Significant dementia points to [memory care](/guides/memory-care/). Round-the-clock medical needs point to skilled nursing. Our guide to [levels of care](/guides/levels-of-care-explained/) explains each one in plain language.
+Someone who is mostly independent but lonely may only need [independent living](/guides/types-of-senior-living-facilities/). Help with ADLs points to [assisted living](/guides/assisted-living/). Significant dementia points to [memory care](/guides/memory-care/). Round-the-clock medical needs point to [skilled nursing](/guides/skilled-nursing/). Our guide to [levels of care](/guides/levels-of-care-explained/) explains each one in plain language.
 
 **What insiders know:** a doctor's or geriatric care manager's needs assessment carries weight with facilities and helps you push back if a community tries to sell you more (or less) care than your parent needs. Many Area Agencies on Aging offer free assessments.
 
@@ -74,7 +74,7 @@ Bring our full [touring checklist](/guides/touring-checklist/) with you, includi
 
 ## Step 6: Consider a trial stay
 
-Many assisted living and memory care communities offer respite stays — a furnished room for a few weeks at a daily rate. A trial stay is the single best predictor of fit: your parent experiences the food, the staff, and the other residents before anyone signs a long-term agreement. Ask each finalist whether they offer respite care and what it costs. Even a two-week stay can save you from a $6,000-per-month mistake and a traumatic second move.
+Many assisted living and memory care communities offer respite stays — a furnished room for a few weeks at a daily rate. A trial stay is the single best predictor of fit: your parent experiences the food, the staff, and the other residents before anyone signs a long-term agreement. Ask each finalist whether they offer [respite care](/guides/respite-care/) and what it costs. Even a two-week stay can save you from a $6,000-per-month mistake and a traumatic second move.
 
 ## Step 7: Decide as a family — including your parent
 

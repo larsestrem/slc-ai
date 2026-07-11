@@ -51,11 +51,11 @@ Respite depends on empty apartments, so availability is unpredictable. A communi
 - **Book as early as you can.** Holiday weeks and summer fill first, because that's when every caregiver needs a break.
 - **Call several communities**, not just your favorite. Use our [directory](/directory/) and the [types of facilities guide](/guides/types-of-senior-living-facilities/) to widen the list — small adult family homes often say yes when big communities are full.
 - **Have the paperwork ready** so you can move fast when a room opens.
-- **Have a backup plan** for last-minute needs: in-home care agencies can usually staff shifts on shorter notice than a community can admit.
+- **Have a backup plan** for last-minute needs: [in-home care](/guides/in-home-care-explained/) agencies can usually staff shifts on shorter notice than a community can admit.
 
 ## Help paying: VA and Medicaid respite benefits
 
-Regular Medicare does not pay for respite stays in assisted living. (The exception: if your parent is on hospice, Medicare covers up to five days of inpatient respite at a time specifically to give the caregiver a break.) But two programs help many families:
+Regular Medicare does not pay for respite stays in assisted living. (The exception: if your parent is on [hospice](/guides/hospice-and-palliative-care/), Medicare covers up to five days of inpatient respite at a time specifically to give the caregiver a break.) But two programs help many families:
 
 - **VA benefits.** Veterans enrolled in VA health care may qualify for up to 30 days of respite care per year, in a facility or at home, at little or no cost. Contact the VA social worker at your parent's VA clinic. Rules and availability vary by location.
 - **Medicaid waivers.** Many state Medicaid home-and-community-based services (HCBS) waivers cover respite for family caregivers, though rules and waiting lists vary widely by state. See [Medicaid vs. Medicare](/guides/medicaid-vs-medicare/) for how eligibility works.

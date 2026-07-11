@@ -17,10 +17,10 @@ If you've just started calling communities and the prices made your stomach drop
 
 These are realistic national figures for 2025-2026. Your local market may run well above or below them — more on that below. If you're not sure which level your parent needs, start with our guide to [levels of care explained](/guides/levels-of-care-explained/).
 
-- **Independent living:** roughly $2,500–$4,500 per month. This is closest to rent-plus-services: housing, some meals, activities, and light housekeeping, but no hands-on care.
-- **Assisted living:** national median around $5,500–$6,000 per month, with common ranges from about $4,000 to $8,000+ depending on the market and how much help your parent needs.
-- **Memory care:** typically $7,000–$8,500 per month. The premium over assisted living pays for a secured environment, higher staffing, and dementia-specific training.
-- **Nursing home (skilled nursing):** roughly $9,000–$10,000 per month for a semi-private room and $10,000–$12,000 for a private room.
+- **[Independent living](/guides/independent-living/):** roughly $2,500–$4,500 per month. This is closest to rent-plus-services: housing, some meals, activities, and light housekeeping, but no hands-on care.
+- **[Assisted living](/guides/assisted-living/):** national median around $5,500–$6,000 per month, with common ranges from about $4,000 to $8,000+ depending on the market and how much help your parent needs.
+- **[Memory care](/guides/memory-care/):** typically $7,000–$8,500 per month. The premium over assisted living pays for a secured environment, higher staffing, and dementia-specific training.
+- **Nursing home ([skilled nursing](/guides/skilled-nursing/)):** roughly $9,000–$10,000 per month for a semi-private room and $10,000–$12,000 for a private room.
 - **Adult family homes / residential care homes:** often $4,000–$7,000 per month, sometimes less. These small homes can be a strong value — see our guide to [adult family homes](/guides/adult-family-homes/).
 
 One number to hold onto: at these rates, three years of assisted living can easily cost $200,000 or more. That's why the funding conversation in [paying for senior care](/guides/paying-for-senior-care/) matters just as much as the price tag.

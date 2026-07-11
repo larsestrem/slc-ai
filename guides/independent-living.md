@@ -96,7 +96,7 @@ The tell is the dining room. If there isn't one, it's active adult housing, and 
 Often yes, if the healthier spouse or hired caregivers can cover the care. Many couples choose a campus with multiple levels — independent living plus [assisted living](/guides/assisted-living/) or [memory care](/guides/memory-care/) — so a future move is down the hall, not across town.
 
 **Does Medicare or Medicaid pay for independent living?**
-No. Independent living is housing plus lifestyle services, not medical care, so neither program covers the rent. A few states' Medicaid programs can pay for in-home care services delivered inside an apartment; rules vary by state, so check with your State Health Insurance Assistance Program (SHIP) or local Area Agency on Aging.
+No. Independent living is housing plus lifestyle services, not medical care, so neither program covers the rent. A few states' Medicaid programs can pay for [in-home care](/guides/in-home-care-explained/) services delivered inside an apartment; rules vary by state, so check with your State Health Insurance Assistance Program (SHIP) or local Area Agency on Aging.
 
 **Is it too early if my parent is still completely healthy?**
 Healthy is the best time to move. Residents who arrive while active build friendships and routines that carry them through later health changes. The common regret we hear from families isn't "we moved too soon" — it's "we waited too long."

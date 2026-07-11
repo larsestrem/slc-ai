@@ -46,7 +46,7 @@ What helps:
 - **Start early and small.** Talks go better before a crisis. Try "Let's just look at a couple of places so we know the options" rather than "You're moving."
 - **Give real choices.** Control is what people fear losing. Let your parent pick between two facilities, choose which furniture comes, decide the move date.
 - **Use trusted messengers.** Many parents will hear from a doctor, pastor, or old friend what they can't hear from their child.
-- **Try respite care as a trial.** Most facilities offer short **respite stays** — a few weeks, no long-term commitment. Frame it as recovery after an illness or "just while I'm traveling." Many parents who insist they'll hate it discover the meals, safety, and company are a relief. A trial converts an unthinkable idea into a familiar one.
+- **Try [respite care](/guides/respite-care/) as a trial.** Most facilities offer short **respite stays** — a few weeks, no long-term commitment. Frame it as recovery after an illness or "just while I'm traveling." Many parents who insist they'll hate it discover the meals, safety, and company are a relief. A trial converts an unthinkable idea into a familiar one.
 - **Know the limits.** A legally competent adult can refuse. If dementia is impairing judgment and safety, talk to their doctor and an elder law attorney about assessment and next steps.
 
 ## Caregiver burnout is a medical issue, not a character flaw

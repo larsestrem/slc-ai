@@ -32,7 +32,7 @@ rather not publish. Partial answers are welcome; you can always add more later.
 
 10. Total building square footage (approximate is fine)
 11. Number of floors; elevator available?
-12. Outdoor spaces: courtyard, gardens, walking paths, secured outdoor area for memory care
+12. Outdoor spaces: courtyard, gardens, walking paths, secured outdoor area for [memory care](/guides/memory-care/)
 
 ## Staffing
 

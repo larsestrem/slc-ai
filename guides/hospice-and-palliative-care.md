@@ -27,7 +27,7 @@ Two truths that surprise families: the six months is a medical estimate, not a d
 This is the most common misunderstanding. Hospice is not a building you move into — it's a team that comes to wherever your parent lives:
 
 - **At home**, which is where most hospice care in America happens.
-- **In a senior living community** — [assisted living](/guides/assisted-living/), [memory care](/guides/memory-care/), an adult family home, or a [skilled nursing facility](/guides/skilled-nursing/). The hospice team layers onto the community's daily care; your parent doesn't have to move. This matters when you're choosing a community: see our [levels of care overview](/guides/levels-of-care-explained/).
+- **In a senior living community** — [assisted living](/guides/assisted-living/), [memory care](/guides/memory-care/), an [adult family home](/guides/adult-family-homes/), or a [skilled nursing facility](/guides/skilled-nursing/). The hospice team layers onto the community's daily care; your parent doesn't have to move. This matters when you're choosing a community: see our [levels of care overview](/guides/levels-of-care-explained/).
 - **In an inpatient hospice unit**, used for short stays when symptoms need round-the-clock management that can't be handled at home.
 
 One practical note: Medicare's hospice benefit pays for the hospice services, not the rent. If your parent lives in assisted living or a nursing home, room and board is still paid the same way it was before — privately, or by Medicaid if eligible. See [Medicaid vs. Medicare](/guides/medicaid-vs-medicare/).

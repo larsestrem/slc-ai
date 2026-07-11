@@ -5,10 +5,24 @@ Structure modeled on firedepartment.net: **state → county → city → facilit
 organization pages, family guides, and news. The folder structure *is* the directory —
 no database, no server-side code.
 
+## Deploying on Cloudflare Pages
+
+The CSS is inlined into every page **by Jekyll at build time** — if the deployed site has no
+styling, Pages is serving the raw repo without building it. In the Cloudflare dashboard →
+your Pages project → **Settings → Builds & deployments**, set:
+
+- **Framework preset:** Jekyll
+- **Build command:** `bundle exec jekyll build`
+- **Build output directory:** `_site`
+
+then **Retry deployment** (or push any commit). The repo pins Ruby via `.ruby-version`
+(3.3.6) and commits `Gemfile.lock`, which is all the build image needs. When you attach the
+custom domain, `senior.living.community` is already set as `url` in `_config.yml`, so
+canonicals and the sitemap will be correct.
+
 ## Run locally
 
 ```sh
-cd senior-living-community
 bundle install
 bundle exec jekyll serve
 ```

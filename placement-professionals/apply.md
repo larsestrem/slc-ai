@@ -50,5 +50,7 @@ this industry already do. Email your answers (and attachments) to
 20. Links to your review profiles — we look at review age and spread, not just the star average
 
 We treat references and documents confidentially; what we publish is your listing profile and
-your verbatim answers to the conflict-of-interest questions. We may decline or delist for
-verified ethics violations — that protection is what makes the listing worth having.
+your verbatim answers to the conflict-of-interest questions. Listing decisions — including
+whether to publish, feature, or continue any listing — remain at our editorial discretion.
+That independence is exactly what makes a listing here worth having: families trust the
+directory because nobody is entitled to be in it.

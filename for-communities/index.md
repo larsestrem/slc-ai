@@ -9,8 +9,9 @@ crumbs:
 
 Families use this directory at one of the most stressful moments of their lives. The listings
 that help them most — and get the most attention — are the ones with complete, current,
-first-hand information. Nobody has that information but you. Claiming and updating your
-listing is **free**.
+first-hand information. Nobody has that information but you. Claiming your listing and keeping
+the basics current is **free** — and communities that share more, earlier, simply have richer
+profiles for families to find.
 
 ## How claiming works
 

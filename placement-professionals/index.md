@@ -33,7 +33,7 @@ just a badge:
 7. **Conflict-of-interest answers, published verbatim** — "Do you ever recommend communities that don't pay you?" and "Does your fee vary by community?"
 8. **Complaint screen** — BBB, state attorney general actions, and court records
 9. **References** — recent placed families plus a professional reference who doesn't pay them
-10. **Ethics commitment** — a signed code of conduct, with delisting for verified violations
+10. **Ethics commitment** — a signed code of conduct; all listings remain at our editorial discretion
 
 ## Verify an advisor yourself
 

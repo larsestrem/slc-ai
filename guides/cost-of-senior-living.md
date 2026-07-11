@@ -25,6 +25,8 @@ These are realistic national figures for 2025-2026. Your local market may run we
 
 One number to hold onto: at these rates, three years of assisted living can easily cost $200,000 or more. That's why the funding conversation in [paying for senior care](/guides/paying-for-senior-care/) matters just as much as the price tag.
 
+**Don't forget the alternative: staying home with support.** [In-home care](/guides/in-home-care-explained/) — from a few hours of help a week (roughly $2,600–$3,000 a month at 20 hours/week) up to full-time support — lets your parent stay in their own home, and at lower care needs it's often the least expensive option. See [what in-home care costs](/guides/cost-of-in-home-care/) and our honest framework for [choosing between home care and a facility](/guides/home-care-or-facility/).
+
 ## Base rent vs. care charges: how the bill is built
 
 Most assisted living and memory care communities split the monthly bill into two parts, and this is where families get surprised.

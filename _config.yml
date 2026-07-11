@@ -35,6 +35,7 @@ exclude:
   - README.md
   - scripts/
   - data/
+  - docs/
   - vendor/
 
 defaults:

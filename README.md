@@ -7,18 +7,25 @@ no database, no server-side code.
 
 ## Deploying on Cloudflare Pages
 
-The CSS is inlined into every page **by Jekyll at build time** — if the deployed site has no
-styling, Pages is serving the raw repo without building it. In the Cloudflare dashboard →
-your Pages project → **Settings → Builds & deployments**, set:
+**Zero-config mode (current setup):** the built site (`_site/`) is committed to the repo, and
+`wrangler.toml` tells Pages to publish it (`pages_build_output_dir = "_site"`). No dashboard
+build settings are needed — leave the build command empty. The trade-off: after any content
+change, rebuild before pushing:
 
-- **Framework preset:** Jekyll
-- **Build command:** `bundle exec jekyll build`
-- **Build output directory:** `_site`
+```sh
+python3 scripts/generate.py --all   # only if facility data changed
+bundle exec jekyll build
+git add -A && git commit && git push
+```
 
-then **Retry deployment** (or push any commit). The repo pins Ruby via `.ruby-version`
-(3.3.6) and commits `Gemfile.lock`, which is all the build image needs. When you attach the
-custom domain, `senior.living.community` is already set as `url` in `_config.yml`, so
-canonicals and the sitemap will be correct.
+**Build-on-deploy mode (optional later):** set Build command `bundle exec jekyll build` and
+output directory `_site` (exactly that, with the underscore) in the Pages project settings.
+Then `_site/` can be removed from the repo and re-added to `.gitignore`. The repo pins Ruby
+via `.ruby-version` and commits `Gemfile.lock`, so the build image is ready either way.
+
+The CSS is inlined into every page by Jekyll — an unstyled deployment always means the raw
+source was published instead of `_site`. When you attach the custom domain,
+`senior.living.community` is already the canonical `url` in `_config.yml`.
 
 ## Run locally
 

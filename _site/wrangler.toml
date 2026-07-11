@@ -1,0 +1,5 @@
+# Cloudflare Pages reads this automatically — no dashboard build config needed.
+# The built site is committed to the repo (see README "Deploying").
+name = "senior-living-community"
+compatibility_date = "2026-07-01"
+pages_build_output_dir = "_site"

@@ -13,8 +13,11 @@ communities they place you in, and national call-center services have drawn seri
 for recommending only communities that pay them. You deserve advisors whose incentives you
 can see.
 
-**Start here:** [How placement services really work](/guides/placement-professionals/) — the
-business model, the questions to ask, and when an advisor is genuinely worth it.
+**Start here:** [Finding help choosing a facility](/guides/finding-help-choosing-a-facility/) —
+all your options for getting help, including how placement specialists work like a realtor for
+senior care (paid by the community, not by you). Then
+[how placement services really work](/guides/placement-professionals/) for the business model
+in depth and the questions to ask.
 
 ## What we verify before listing an advisor
 

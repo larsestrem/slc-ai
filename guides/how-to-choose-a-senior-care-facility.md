@@ -6,6 +6,7 @@ permalink: /guides/how-to-choose-a-senior-care-facility/
 topic_group: choosing
 updated: 2026-07-11
 related:
+  - /guides/finding-help-choosing-a-facility/
   - /guides/levels-of-care-explained/
   - /guides/touring-checklist/
   - /guides/cost-of-senior-living/
@@ -49,7 +50,7 @@ Read [paying for senior care](/guides/paying-for-senior-care/) before you tour, 
 
 With a care level and budget in hand, list every realistic option within your preferred radius — usually near the adult child who will visit most, not near the parent's old house. Use our [directory](/directory/) to find facilities by state, county, and city.
 
-Don't overlook small [adult family homes](/guides/adult-family-homes/), which often offer better staff-to-resident ratios at lower prices than big communities. And be careful with online "free placement services" — most are paid commissions by facilities, which shapes their recommendations. Our guide to [placement professionals](/guides/placement-professionals/) explains how to use them without being steered.
+Don't overlook small [adult family homes](/guides/adult-family-homes/), which often offer better staff-to-resident ratios at lower prices than big communities. And be careful with online "free placement services" — most are paid commissions by facilities, which shapes their recommendations. Our guide to [placement professionals](/guides/placement-professionals/) explains how to use them without being steered — and if the whole search feels like too much to carry alone, [finding help choosing a facility](/guides/finding-help-choosing-a-facility/) lays out every source of help, free and paid.
 
 Aim for four to six facilities to research seriously, and three to tour.
 

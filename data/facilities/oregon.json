@@ -2572,6 +2572,43 @@
         "https://www.yelp.com/biz/high-lakes-care-homes-sisters"
       ],
       "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Rogue Valley Manor",
+      "slug": "rogue-valley-manor",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "jackson",
+      "county_name": "Jackson",
+      "city": "medford",
+      "city_name": "Medford",
+      "address": "1200 Mira Mar Ave",
+      "zip": "97504",
+      "phone": "(541) 857-7777",
+      "website": "https://www.roguevalleymanor.org/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "pacific-retirement-services",
+      "organization_name": "Pacific Retirement Services",
+      "cms_ccn": "385250",
+      "cms_rating_overall": 5,
+      "google_rating": 4.1,
+      "google_review_count": 51,
+      "rating_as_of": "2026-07-11",
+      "description": "Rogue Valley Manor is southern Oregon's only continuing care retirement community and the longest-standing accredited CCRC on the West Coast, open since 1961. The nonprofit campus spans 668 acres in Medford with nearly 1,000 residents, offering independent living through Medicare 5-star-rated skilled nursing, and serves as the flagship of Medford-based Pacific Retirement Services.",
+      "sources": [
+        "https://www.roguevalleymanor.org/",
+        "https://health.usnews.com/best-nursing-homes/area/or/rogue-valley-manor-385250",
+        "https://www.caring.com/senior-living/oregon/medford/rogue-valley-manor-97504"
+      ],
+      "verified_date": "2026-07-11"
     }
   ],
   "organizations": [

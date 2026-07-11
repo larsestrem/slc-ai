@@ -52,6 +52,19 @@ Rebuilds are scoped the way you'd expect: updating one facility means editing it
 state JSON and re-running `generate.py --state <slug>` (subtree rewrite, seconds), then a Jekyll
 build. Nothing outside that state's folder changes except shared organization pages and stats.
 
+## Inclusion policy
+
+Listings are quality-gated, not exhaustive:
+
+- **Assisted living / independent living / memory care / small homes:** included only with a
+  strong rating built on multiple reviews (>=4.2 across >=8 reviews; >=5 for small homes),
+  with the evidence recorded and dated on the facility record.
+- **Skilled nursing:** gated on the **CMS overall rating (>=4 stars)** rather than consumer
+  reviews — families reviewing stressful short rehab stays rate SNFs structurally lower, so
+  the federal measure is the fairer quality signal there.
+- **Editorial exceptions** (e.g. a CMS 5-star community narrowly missing the consumer bar)
+  are allowed; the page still shows the real consumer numbers.
+
 ## Data sources & refresh
 
 - **Skilled nursing:** federal CMS Care Compare "Provider Information" dataset (refreshed

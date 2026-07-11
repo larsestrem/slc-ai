@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Senior Living in Oregon — Assisted Living, Memory Care &amp; Nursing Homes | Senior Living Community</title>
-<meta name="description" content="Find senior living in Oregon: 13 communities across 8 cities, with care levels, sizes, and links to official state inspection records.">
+<meta name="description" content="Find senior living in Oregon: 49 communities across 28 cities, with care levels, sizes, and links to official state inspection records.">
 <link rel="canonical" href="https://senior.living.community/directory/oregon/">
 <meta property="og:site_name" content="Senior Living Community">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Senior Living in Oregon — Assisted Living, Memory Care &amp; Nursing Homes">
-<meta property="og:description" content="Find senior living in Oregon: 13 communities across 8 cities, with care levels, sizes, and links to official state inspection records.">
+<meta property="og:description" content="Find senior living in Oregon: 49 communities across 28 cities, with care levels, sizes, and links to official state inspection records.">
 <meta property="og:url" content="https://senior.living.community/directory/oregon/">
 <meta name="theme-color" content="#2f6f62">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%232f6f62'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
@@ -68,14 +68,27 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .prose li { margin: .3rem 0; }
 .lead { font-size: 1.12em; color: var(--muted); max-width: var(--prose); }
 
-/* Header / nav */
+/* Header / nav (hamburger on mobile — CSS-only checkbox toggle) */
 .site-header { background: var(--surface); border-bottom: 1px solid var(--line); }
-.site-header .wrap { display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
-.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; }
+.site-header .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
+.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; margin-right: auto; }
 .brand em { color: var(--accent); font-style: normal; }
-.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; margin-left: auto; }
+.nav-toggle-box { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.nav-toggle { display: none; cursor: pointer; font-size: 1.4rem; line-height: 1; color: var(--ink); padding: .2rem .4rem; border-radius: 6px; user-select: none; }
+.nav-toggle .nav-close { display: none; }
+.nav-toggle-box:focus-visible + .nav-toggle { outline: 2px solid var(--accent); outline-offset: 2px; }
+.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
 .site-nav a { text-decoration: none; color: var(--muted); font-weight: 500; padding: .2rem .1rem; }
 .site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--accent-strong); }
+@media (max-width: 46rem) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; }
+  .nav-toggle-box:checked ~ .site-nav { display: flex; flex-direction: column; flex-basis: 100%; gap: 0; padding: .4rem 0 .2rem; border-top: 1px solid var(--line); margin-top: .5rem; }
+  .nav-toggle-box:checked ~ .site-nav a { padding: .55rem .2rem; font-size: 1.05rem; border-bottom: 1px solid var(--line); }
+  .nav-toggle-box:checked ~ .site-nav a:last-child { border-bottom: 0; }
+  .nav-toggle-box:checked + .nav-toggle .nav-open { display: none; }
+  .nav-toggle-box:checked + .nav-toggle .nav-close { display: block; }
+}
 
 /* Breadcrumbs */
 .crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem 0 0; }
@@ -200,6 +213,8 @@ tbody tr:hover { background: var(--soft); }
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/">senior<em>.living.community</em></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-box">
+    <label for="nav-toggle" class="nav-toggle" aria-label="Menu"><span class="nav-open">&#9776;</span><span class="nav-close">&#10005;</span></label>
     <nav class="site-nav" aria-label="Main">
       <a href="/directory/" aria-current="page">Directory</a>
       <a href="/guides/">Guides</a>
@@ -225,7 +240,7 @@ tbody tr:hover { background: var(--soft); }
 
   <main id="main" class="wrap">
     <h1>Oregon Senior Living Facilities &amp; Care Homes</h1>
-<p class="lead">13 senior living communities in Oregon — pick a city on the map, or browse the list. Hover or tap a community to see where it is.</p>
+<p class="lead">49 senior living communities in Oregon — pick a city on the map, or browse the list. Hover or tap a community to see where it is.</p>
 
 
 
@@ -236,29 +251,89 @@ tbody tr:hover { background: var(--soft); }
       <svg viewBox="0 0 340.0 259.6" role="img"
            aria-label="Map of Oregon showing cities with senior living communities">
         <path d="M29.9,12.0 L59.8,17.5 L77.3,46.9 L99.6,49.1 L151.3,45.3 L203.0,30.3 L227.7,25.9 L309.7,26.4 L328.0,46.9 L310.5,92.4 L298.5,114.6 L305.3,125.7 L305.3,247.6 L19.6,247.6 L12.0,175.6 L25.9,97.9 L29.9,53.6 L29.9,12.0 Z" class="map-shape"/>
-        <a href="#c-bend" data-city="bend" aria-label="Bend — 2 communities">
-          <circle cx="135.0" cy="133.4" r="4.2" class="map-dot"><title>Bend (2)</title></circle>
+        <a href="#c-albany" data-city="albany" aria-label="Albany — 2 communities">
+          <circle cx="63.3" cy="101.3" r="4.2" class="map-dot"><title>Albany (2)</title></circle>
+        </a>
+        <a href="#c-beaverton" data-city="beaverton" aria-label="Beaverton — 1 communities">
+          <circle cx="75.7" cy="54.1" r="3.5" class="map-dot"><title>Beaverton (1)</title></circle>
+        </a>
+        <a href="#c-bend" data-city="bend" aria-label="Bend — 7 communities">
+          <circle cx="135.0" cy="133.4" r="6" class="map-dot"><title>Bend (7)</title></circle>
+        </a>
+        <a href="#c-canby" data-city="canby" aria-label="Canby — 2 communities">
+          <circle cx="80.1" cy="66.9" r="4.2" class="map-dot"><title>Canby (2)</title></circle>
+        </a>
+        <a href="#c-corvallis" data-city="corvallis" aria-label="Corvallis — 3 communities">
+          <circle cx="57.4" cy="105.7" r="4.9" class="map-dot"><title>Corvallis (3)</title></circle>
+        </a>
+        <a href="#c-dallas" data-city="dallas" aria-label="Dallas — 1 communities">
+          <circle cx="55.0" cy="85.7" r="3.5" class="map-dot"><title>Dallas (1)</title></circle>
         </a>
         <a href="#c-eugene" data-city="eugene" aria-label="Eugene — 2 communities">
           <circle cx="64.1" cy="134.0" r="4.2" class="map-dot"><title>Eugene (2)</title></circle>
         </a>
+        <a href="#c-forest-grove" data-city="forest-grove" aria-label="Forest Grove — 1 communities">
+          <circle cx="63.3" cy="52.5" r="3.5" class="map-dot"><title>Forest Grove (1)</title></circle>
+        </a>
+        <a href="#c-gresham" data-city="gresham" aria-label="Gresham — 1 communities">
+          <circle cx="90.4" cy="53.6" r="3.5" class="map-dot"><title>Gresham (1)</title></circle>
+        </a>
+        <a href="#c-happy-valley" data-city="happy-valley" aria-label="Happy Valley — 1 communities">
+          <circle cx="86.4" cy="56.4" r="3.5" class="map-dot"><title>Happy Valley (1)</title></circle>
+        </a>
+        <a href="#c-hillsboro" data-city="hillsboro" aria-label="Hillsboro — 1 communities">
+          <circle cx="68.1" cy="52.5" r="3.5" class="map-dot"><title>Hillsboro (1)</title></circle>
+        </a>
+        <a href="#c-la-pine" data-city="la-pine" aria-label="La Pine — 1 communities">
+          <circle cx="127.4" cy="155.0" r="3.5" class="map-dot"><title>La Pine (1)</title></circle>
+        </a>
+        <a href="#c-lake-oswego" data-city="lake-oswego" aria-label="Lake Oswego — 2 communities">
+          <circle cx="80.9" cy="58.0" r="4.2" class="map-dot"><title>Lake Oswego (2)</title></circle>
+        </a>
+        <a href="#c-lebanon" data-city="lebanon" aria-label="Lebanon — 2 communities">
+          <circle cx="71.3" cy="106.8" r="4.2" class="map-dot"><title>Lebanon (2)</title></circle>
+        </a>
+        <a href="#c-mcminnville" data-city="mcminnville" aria-label="McMinnville — 1 communities">
+          <circle cx="59.8" cy="69.7" r="3.5" class="map-dot"><title>McMinnville (1)</title></circle>
+        </a>
         <a href="#c-medford" data-city="medford" aria-label="Medford — 1 communities">
           <circle cx="72.9" cy="229.3" r="3.5" class="map-dot"><title>Medford (1)</title></circle>
+        </a>
+        <a href="#c-milwaukie" data-city="milwaukie" aria-label="Milwaukie — 1 communities">
+          <circle cx="82.0" cy="56.4" r="3.5" class="map-dot"><title>Milwaukie (1)</title></circle>
         </a>
         <a href="#c-mount-angel" data-city="mount-angel" aria-label="Mount Angel — 1 communities">
           <circle cx="75.7" cy="77.4" r="3.5" class="map-dot"><title>Mount Angel (1)</title></circle>
         </a>
-        <a href="#c-newberg" data-city="newberg" aria-label="Newberg — 1 communities">
-          <circle cx="68.9" cy="64.7" r="3.5" class="map-dot"><title>Newberg (1)</title></circle>
+        <a href="#c-newberg" data-city="newberg" aria-label="Newberg — 2 communities">
+          <circle cx="68.9" cy="64.7" r="4.2" class="map-dot"><title>Newberg (2)</title></circle>
         </a>
-        <a href="#c-oregon-city" data-city="oregon-city" aria-label="Oregon City — 1 communities">
-          <circle cx="83.2" cy="61.3" r="3.5" class="map-dot"><title>Oregon City (1)</title></circle>
+        <a href="#c-oregon-city" data-city="oregon-city" aria-label="Oregon City — 2 communities">
+          <circle cx="83.2" cy="61.3" r="4.2" class="map-dot"><title>Oregon City (2)</title></circle>
         </a>
-        <a href="#c-portland" data-city="portland" aria-label="Portland — 2 communities">
-          <circle cx="80.5" cy="52.5" r="4.2" class="map-dot"><title>Portland (2)</title></circle>
+        <a href="#c-portland" data-city="portland" aria-label="Portland — 5 communities">
+          <circle cx="80.5" cy="52.5" r="6" class="map-dot"><title>Portland (5)</title></circle>
+        </a>
+        <a href="#c-prineville" data-city="prineville" aria-label="Prineville — 1 communities">
+          <circle cx="154.1" cy="120.1" r="3.5" class="map-dot"><title>Prineville (1)</title></circle>
+        </a>
+        <a href="#c-redmond" data-city="redmond" aria-label="Redmond — 1 communities">
+          <circle cx="140.5" cy="121.8" r="3.5" class="map-dot"><title>Redmond (1)</title></circle>
         </a>
         <a href="#c-salem" data-city="salem" aria-label="Salem — 3 communities">
           <circle cx="66.1" cy="84.6" r="4.9" class="map-dot"><title>Salem (3)</title></circle>
+        </a>
+        <a href="#c-sherwood" data-city="sherwood" aria-label="Sherwood — 1 communities">
+          <circle cx="74.1" cy="61.3" r="3.5" class="map-dot"><title>Sherwood (1)</title></circle>
+        </a>
+        <a href="#c-tualatin" data-city="tualatin" aria-label="Tualatin — 1 communities">
+          <circle cx="77.3" cy="60.2" r="3.5" class="map-dot"><title>Tualatin (1)</title></circle>
+        </a>
+        <a href="#c-wilsonville" data-city="wilsonville" aria-label="Wilsonville — 1 communities">
+          <circle cx="76.9" cy="64.7" r="3.5" class="map-dot"><title>Wilsonville (1)</title></circle>
+        </a>
+        <a href="#c-woodburn" data-city="woodburn" aria-label="Woodburn — 1 communities">
+          <circle cx="73.3" cy="73.5" r="3.5" class="map-dot"><title>Woodburn (1)</title></circle>
         </a>
       </svg>
       <figcaption>Simplified map — each dot is a city with communities (hover or tap for the name; dot size reflects how many). Helpful when your parents live in a state you don't know well.</figcaption>
@@ -267,11 +342,12 @@ tbody tr:hover { background: var(--soft); }
     <div class="state-resources">
       <h2>What's available in Oregon</h2>
       <ul>
-        <li><a href="/guides/levels-of-care-explained/">Assisted Living</a> — 8 communities</li>
-        <li><a href="/guides/memory-care/">Memory Care</a> — 7 communities</li>
-        <li><a href="/guides/levels-of-care-explained/">Independent Living</a> — 5 communities</li>
-        <li><a href="/guides/levels-of-care-explained/">Skilled Nursing</a> — 5 communities</li>
-        <li><a href="/guides/types-of-senior-living-facilities/">CCRC / Life Plan</a> — 2 communities</li>
+        <li><a href="/guides/assisted-living/">Assisted Living</a> — 34 communities</li>
+        <li><a href="/guides/independent-living/">Independent Living</a> — 31 communities</li>
+        <li><a href="/guides/memory-care/">Memory Care</a> — 27 communities</li>
+        <li><a href="/guides/skilled-nursing/">Skilled Nursing</a> — 16 communities</li>
+        <li><a href="/guides/ccrc-life-plan-communities/">CCRC / Life Plan</a> — 10 communities</li>
+        <li><a href="/guides/respite-care/">Respite Care</a> — 4 communities</li>
         <li><a href="/guides/adult-family-homes/">Small Care Home</a> — 1 community</li>
       </ul>
       <h2>How Oregon regulates senior care</h2>
@@ -293,15 +369,110 @@ tbody tr:hover { background: var(--soft); }
   </div>
 
   <div class="state-list" id="communities" aria-label="Communities in Oregon by city">
+    <section aria-labelledby="c-albany">
+      <h2 id="c-albany">Albany, OR <span class="count">· Linn County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="albany">
+  <h3><a href="/directory/oregon/linn-county/albany/brookdale-grand-prairie/">Brookdale Grand Prairie</a></h3>
+  <p class="meta">Albany, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Brookdale Grand Prairie is an independent living community with assisted living options in Albany, offering studio, one-bedroom, two-bedr...</p>
+</li>
+
+        <li class="card" data-city="albany">
+  <h3><a href="/directory/oregon/linn-county/albany/mennonite-village/">Mennonite Village</a></h3>
+  <p class="meta">Albany, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Mennonite Village is a not-for-profit continuing care retirement community on a 275-acre campus in Albany, serving Oregon families for ab...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-beaverton">
+      <h2 id="c-beaverton">Beaverton, OR <span class="count">· Washington County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="beaverton">
+  <h3><a href="/directory/oregon/washington-county/beaverton/the-springs-at-murrayhill/">The Springs at Murrayhill</a></h3>
+  <p class="meta">Beaverton, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">The Springs at Murrayhill, formerly Hearthstone at Murrayhill, is a senior living community in Beaverton's Murrayhill neighborhood servin...</p>
+</li>
+
+      </ul>
+    </section>
     <section aria-labelledby="c-bend">
       <h2 id="c-bend">Bend, OR <span class="count">· Deschutes County</span></h2>
       <ul class="grid">
+        <li class="card" data-city="bend">
+  <h3><a href="/directory/oregon/deschutes-county/bend/bend-transitional-care/">Bend Transitional Care</a></h3>
+  <p class="meta">Bend, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">Bend Transitional Care is a 54-bed skilled nursing and rehabilitation community in the Avamere family, certified by both Medicare and Med...</p>
+</li>
+
+        <li class="card" data-city="bend">
+  <h3><a href="/directory/oregon/deschutes-county/bend/brookdale-bend/">Brookdale Bend</a></h3>
+  <p class="meta">Bend, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Brookdale Bend is a single-story community licensed for 59 residents that focuses on memory care for people living with Alzheimer's disea...</p>
+</li>
+
+        <li class="card" data-city="bend">
+  <h3><a href="/directory/oregon/deschutes-county/bend/cascades-of-bend/">Cascades of Bend</a></h3>
+  <p class="meta">Bend, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">Cascades of Bend describes itself as the longest-standing retirement community in Central Oregon, offering independent living, assisted l...</p>
+</li>
+
+        <li class="card" data-city="bend">
+  <h3><a href="/directory/oregon/deschutes-county/bend/fox-hollow-independent-and-assisted-living/">Fox Hollow Independent and Assisted Living</a></h3>
+  <p class="meta">Bend, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">Fox Hollow is an independent and assisted living community in northeast Bend operated by Regency Pacific Management. Residents choose fro...</p>
+</li>
+
         <li class="card" data-city="bend">
   <h3><a href="/directory/oregon/deschutes-county/bend/prestige-senior-living-high-desert/">Prestige Senior Living High Desert</a></h3>
   <p class="meta">Bend, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Prestige Senior Living High Desert is a 75-bed assisted living and memory care community in Bend, near shopping and medical clinics. Resi...</p>
@@ -312,11 +483,101 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Bend, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Touchmark at Mount Bachelor Village is a full-service retirement community along the Deschutes River in Bend, offering independent living...</p>
+</li>
+
+        <li class="card" data-city="bend">
+  <h3><a href="/directory/oregon/deschutes-county/bend/whispering-winds-retirement/">Whispering Winds Retirement</a></h3>
+  <p class="meta">Bend, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+</ul>
+<p class="desc">Whispering Winds is an independent living retirement community in Bend with 112 apartment homes, including studio, one-bedroom, two-bedro...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-canby">
+      <h2 id="c-canby">Canby, OR <span class="count">· Clackamas County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="canby">
+  <h3><a href="/directory/oregon/clackamas-county/canby/hope-village/">Hope Village</a></h3>
+  <p class="meta">Canby, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+</ul>
+<p class="desc">Hope Village is a faith-based, not-for-profit retirement community for adults 62 and older on a 56-acre campus in Canby, sponsored by Hou...</p>
+</li>
+
+        <li class="card" data-city="canby">
+  <h3><a href="/directory/oregon/clackamas-county/canby/marquis-hope-village/">Marquis Hope Village</a></h3>
+  <p class="meta">Canby, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Marquis Hope Village is a 50-bed Medicare- and Medicaid-certified skilled nursing facility offering post-hospital rehabilitation and long...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-corvallis">
+      <h2 id="c-corvallis">Corvallis, OR <span class="count">· Benton County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="corvallis">
+  <h3><a href="/directory/oregon/benton-county/corvallis/regent-court/">Regent Court</a></h3>
+  <p class="meta">Corvallis, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">Regent Court is a stand-alone, single-story memory care community in Corvallis with 48 studio homes divided into two neighborhoods of no ...</p>
+</li>
+
+        <li class="card" data-city="corvallis">
+  <h3><a href="/directory/oregon/benton-county/corvallis/stoneybrook-lodge/">Stoneybrook Lodge</a></h3>
+  <p class="meta">Corvallis, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+</ul>
+<p class="desc">Stoneybrook Lodge is an all-inclusive independent living community in south Corvallis that opened in 1999 with 115 apartments. Monthly re...</p>
+</li>
+
+        <li class="card" data-city="corvallis">
+  <h3><a href="/directory/oregon/benton-county/corvallis/timberhill-place/">Timberhill Place</a></h3>
+  <p class="meta">Corvallis, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Timberhill Place is a privately owned assisted living community in north Corvallis with 60 apartments, within walking distance of grocery...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-dallas">
+      <h2 id="c-dallas">Dallas, OR <span class="count">· Polk County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="dallas">
+  <h3><a href="/directory/oregon/polk-county/dallas/dallas-retirement-village/">Dallas Retirement Village</a></h3>
+  <p class="meta">Dallas, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Dallas Retirement Village is a nonprofit continuing care retirement community on a 30-acre campus in Dallas, Oregon, about 15 miles west ...</p>
 </li>
 
       </ul>
@@ -329,7 +590,7 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Eugene, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Avamere Rehabilitation of Eugene is a 92-bed skilled nursing and rehabilitation facility in Eugene. It provides short-term post-acute reh...</p>
 </li>
@@ -339,12 +600,172 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Eugene, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/types-of-senior-living-facilities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
 <p class="desc">Cascade Manor is Eugene's only accredited continuing care retirement community, offering independent living, assisted living, and skilled...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-forest-grove">
+      <h2 id="c-forest-grove">Forest Grove, OR <span class="count">· Washington County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="forest-grove">
+  <h3><a href="/directory/oregon/washington-county/forest-grove/jennings-mccall-center/">Jennings McCall Center</a></h3>
+  <p class="meta">Forest Grove, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Jennings McCall is an independent nonprofit retirement community on 15 acres in Forest Grove, started by the Masons of Oregon in 1922 and...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-gresham">
+      <h2 id="c-gresham">Gresham, OR <span class="count">· Multnomah County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="gresham">
+  <h3><a href="/directory/oregon/multnomah-county/gresham/courtyard-fountains/">Courtyard Fountains</a></h3>
+  <p class="meta">Gresham, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Courtyard Fountains is a large independent and assisted living community in Gresham operated by Senior Lifestyle. Residents choose from s...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-happy-valley">
+      <h2 id="c-happy-valley">Happy Valley, OR <span class="count">· Clackamas County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="happy-valley">
+  <h3><a href="/directory/oregon/clackamas-county/happy-valley/the-springs-at-happy-valley/">The Springs at Happy Valley</a></h3>
+  <p class="meta">Happy Valley, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">The Springs at Happy Valley is a newer-built senior living campus offering independent living, assisted living, and memory care in fast-g...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-hillsboro">
+      <h2 id="c-hillsboro">Hillsboro, OR <span class="count">· Washington County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="hillsboro">
+  <h3><a href="/directory/oregon/washington-county/hillsboro/the-springs-at-tanasbourne/">The Springs at Tanasbourne</a></h3>
+  <p class="meta">Hillsboro, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">The Springs at Tanasbourne is a senior living community in Hillsboro's Tanasbourne district with a resident capacity of about 230, offeri...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-la-pine">
+      <h2 id="c-la-pine">La Pine, OR <span class="count">· Deschutes County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="la-pine">
+  <h3><a href="/directory/oregon/deschutes-county/la-pine/prairie-house-assisted-living-and-memory-care/">Prairie House Assisted Living and Memory Care</a></h3>
+  <p class="meta">La Pine, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Prairie House is the primary assisted living and memory care community serving La Pine and southern Deschutes County. The community offer...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-lake-oswego">
+      <h2 id="c-lake-oswego">Lake Oswego, OR <span class="count">· Clackamas County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="lake-oswego">
+  <h3><a href="/directory/oregon/clackamas-county/lake-oswego/marys-woods/">Mary's Woods</a></h3>
+  <p class="meta">Lake Oswego, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Mary's Woods is a single-site nonprofit Life Plan Community (CCRC) for adults 62 and older on a 40-acre campus at the former Marylhurst c...</p>
+</li>
+
+        <li class="card" data-city="lake-oswego">
+  <h3><a href="/directory/oregon/clackamas-county/lake-oswego/the-springs-at-carman-oaks/">The Springs at Carman Oaks</a></h3>
+  <p class="meta">Lake Oswego, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">The Springs at Carman Oaks is a resort-style senior living community in Lake Oswego offering independent living, assisted living, and mem...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-lebanon">
+      <h2 id="c-lebanon">Lebanon, OR <span class="count">· Linn County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="lebanon">
+  <h3><a href="/directory/oregon/linn-county/lebanon/edward-c-allworth-veterans-home/">Edward C. Allworth Veterans' Home</a></h3>
+  <p class="meta">Lebanon, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
+</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">The Edward C. Allworth Veterans' Home is a 154-bed state veterans home on 12 acres in Lebanon, opened in 2014 and owned by the Oregon Dep...</p>
+</li>
+
+        <li class="card" data-city="lebanon">
+  <h3><a href="/directory/oregon/linn-county/lebanon/the-oaks-at-lebanon/">The Oaks at Lebanon</a></h3>
+  <p class="meta">Lebanon, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">The Oaks at Lebanon is a retirement and assisted living community in Lebanon offering 104 private apartments in studio, one-bedroom, and ...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-mcminnville">
+      <h2 id="c-mcminnville">McMinnville, OR <span class="count">· Yamhill County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="mcminnville">
+  <h3><a href="/directory/oregon/yamhill-county/mcminnville/hillside-retirement-community/">Hillside Retirement Community</a></h3>
+  <p class="meta">McMinnville, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Hillside is a nonprofit Life Plan Community (CCRC) on 57 acres in McMinnville, in the heart of Willamette Valley wine country, operated b...</p>
 </li>
 
       </ul>
@@ -357,10 +778,29 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Medford, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Prestige Senior Living Arbor Place is a 72-apartment assisted living community in Medford with an attached 18-room memory care center. As...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-milwaukie">
+      <h2 id="c-milwaukie">Milwaukie, OR <span class="count">· Clackamas County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="milwaukie">
+  <h3><a href="/directory/oregon/clackamas-county/milwaukie/willamette-view/">Willamette View</a></h3>
+  <p class="meta">Milwaukie, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Founded in 1955, Willamette View was the first continuing care retirement community in the Portland metro area, a nonprofit 501(c)(3) on ...</p>
 </li>
 
       </ul>
@@ -373,7 +813,7 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Mount Angel, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Mt. Angel Health and Rehabilitation is a 93-bed Medicare- and Medicaid-certified skilled nursing facility in the small town of Mount Ange...</p>
 </li>
@@ -383,6 +823,20 @@ tbody tr:hover { background: var(--soft); }
     <section aria-labelledby="c-newberg">
       <h2 id="c-newberg">Newberg, OR <span class="count">· Yamhill County</span></h2>
       <ul class="grid">
+        <li class="card" data-city="newberg">
+  <h3><a href="/directory/oregon/yamhill-county/newberg/friendsview-retirement-community/">Friendsview Retirement Community</a></h3>
+  <p class="meta">Newberg, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Friendsview is a Quaker-heritage, faith-based continuing care retirement community serving Newberg since 1961, located on a 27-acre campu...</p>
+</li>
+
         <li class="card" data-city="newberg">
   <h3><a href="/directory/oregon/yamhill-county/newberg/willow-place/">Willow Place</a></h3>
   <p class="meta">Newberg, OR</p>
@@ -404,9 +858,19 @@ tbody tr:hover { background: var(--soft); }
 </p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Avamere Rehabilitation of Oregon City is a 111-bed Medicare- and Medicaid-certified skilled nursing facility providing short-term rehabil...</p>
+</li>
+
+        <li class="card" data-city="oregon-city">
+  <h3><a href="/directory/oregon/clackamas-county/oregon-city/the-ridge-at-oregon-city/">The Ridge at Oregon City</a></h3>
+  <p class="meta">Oregon City, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+</ul>
+<p class="desc">The Ridge at Oregon City is a newly renovated independent living community operated by Cascade Living Group, offering studio, one-bedroom...</p>
 </li>
 
       </ul>
@@ -419,9 +883,23 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Portland, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 <p class="desc">Brookdale Oswego Springs Portland is an assisted living community in southwest Portland operated by Brookdale Senior Living, the largest ...</p>
+</li>
+
+        <li class="card" data-city="portland">
+  <h3><a href="/directory/oregon/multnomah-county/portland/holladay-park-plaza/">Holladay Park Plaza</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Holladay Park Plaza is a nonprofit continuing care retirement community in Portland's Lloyd District, affiliated with Pacific Retirement ...</p>
 </li>
 
         <li class="card" data-city="portland">
@@ -429,12 +907,68 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Portland, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/types-of-senior-living-facilities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
 <p class="desc">Mirabella Portland is a high-rise continuing care retirement community in Portland's South Waterfront district, offering independent livi...</p>
+</li>
+
+        <li class="card" data-city="portland">
+  <h3><a href="/directory/oregon/multnomah-county/portland/russellville-park/">Russellville Park</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Russellville Park is a 187-unit senior living campus in east Portland offering independent living, assisted living, and memory care under...</p>
+</li>
+
+        <li class="card" data-city="portland">
+  <h3><a href="/directory/oregon/multnomah-county/portland/terwilliger-plaza/">Terwilliger Plaza</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Terwilliger Plaza is a stand-alone nonprofit continuing care retirement community founded in 1962, located just south of downtown Portlan...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-prineville">
+      <h2 id="c-prineville">Prineville, OR <span class="count">· Crook County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="prineville">
+  <h3><a href="/directory/oregon/crook-county/prineville/ochoco-village-assisted-living/">Ochoco Village Assisted Living</a></h3>
+  <p class="meta">Prineville, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Ochoco Village is an assisted living community in Prineville licensed for up to 57 residents, one of the main senior care options in Croo...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-redmond">
+      <h2 id="c-redmond">Redmond, OR <span class="count">· Deschutes County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="redmond">
+  <h3><a href="/directory/oregon/deschutes-county/redmond/regency-redmond-rehabilitation-and-nursing-center/">Regency Redmond Rehabilitation and Nursing Center</a></h3>
+  <p class="meta">Redmond, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Regency Redmond is a Medicare- and Medicaid-certified skilled nursing and rehabilitation center with 50 certified beds, operating since 1...</p>
 </li>
 
       </ul>
@@ -447,8 +981,8 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Salem, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Bonaventure of Salem is a senior living community in southeast Salem offering independent living, assisted living, and memory care on one...</p>
@@ -470,11 +1004,77 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Salem, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Prestige Senior Living Orchard Heights is a senior community in West Salem offering independent living, assisted living, and memory care....</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-sherwood">
+      <h2 id="c-sherwood">Sherwood, OR <span class="count">· Washington County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="sherwood">
+  <h3><a href="/directory/oregon/washington-county/sherwood/merrill-gardens-at-sherwood/">Merrill Gardens at Sherwood</a></h3>
+  <p class="meta">Sherwood, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Merrill Gardens at Sherwood, formerly known as The Ackerly at Sherwood, offers independent living, assisted living, and memory care south...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-tualatin">
+      <h2 id="c-tualatin">Tualatin, OR <span class="count">· Washington County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="tualatin">
+  <h3><a href="/directory/oregon/washington-county/tualatin/marquis-tualatin/">Marquis Tualatin</a></h3>
+  <p class="meta">Tualatin, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Marquis Tualatin Post Acute Rehab is a 54-bed Medicare- and Medicaid-certified skilled nursing facility providing post-hospital rehabilit...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-wilsonville">
+      <h2 id="c-wilsonville">Wilsonville, OR <span class="count">· Clackamas County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="wilsonville">
+  <h3><a href="/directory/oregon/clackamas-county/wilsonville/springridge-at-charbonneau/">SpringRidge at Charbonneau</a></h3>
+  <p class="meta">Wilsonville, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">SpringRidge at Charbonneau is an award-winning 264-unit senior living campus offering independent living, assisted living, and memory car...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-woodburn">
+      <h2 id="c-woodburn">Woodburn, OR <span class="count">· Marion County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="woodburn">
+  <h3><a href="/directory/oregon/marion-county/woodburn/country-meadows-village/">Country Meadows Village</a></h3>
+  <p class="meta">Woodburn, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Country Meadows Village is a senior living campus in Woodburn, about 35 minutes from downtown Portland, combining independent living apar...</p>
 </li>
 
       </ul>

@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Senior Living in Washington — Assisted Living, Memory Care &amp; Nursing Homes | Senior Living Community</title>
-<meta name="description" content="Find senior living in Washington: 13 communities across 8 cities, with care levels, sizes, and links to official state inspection records.">
+<meta name="description" content="Find senior living in Washington: 22 communities across 10 cities, with care levels, sizes, and links to official state inspection records.">
 <link rel="canonical" href="https://senior.living.community/directory/washington/">
 <meta property="og:site_name" content="Senior Living Community">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Senior Living in Washington — Assisted Living, Memory Care &amp; Nursing Homes">
-<meta property="og:description" content="Find senior living in Washington: 13 communities across 8 cities, with care levels, sizes, and links to official state inspection records.">
+<meta property="og:description" content="Find senior living in Washington: 22 communities across 10 cities, with care levels, sizes, and links to official state inspection records.">
 <meta property="og:url" content="https://senior.living.community/directory/washington/">
 <meta name="theme-color" content="#2f6f62">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%232f6f62'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
@@ -68,14 +68,27 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .prose li { margin: .3rem 0; }
 .lead { font-size: 1.12em; color: var(--muted); max-width: var(--prose); }
 
-/* Header / nav */
+/* Header / nav (hamburger on mobile — CSS-only checkbox toggle) */
 .site-header { background: var(--surface); border-bottom: 1px solid var(--line); }
-.site-header .wrap { display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
-.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; }
+.site-header .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
+.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; margin-right: auto; }
 .brand em { color: var(--accent); font-style: normal; }
-.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; margin-left: auto; }
+.nav-toggle-box { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.nav-toggle { display: none; cursor: pointer; font-size: 1.4rem; line-height: 1; color: var(--ink); padding: .2rem .4rem; border-radius: 6px; user-select: none; }
+.nav-toggle .nav-close { display: none; }
+.nav-toggle-box:focus-visible + .nav-toggle { outline: 2px solid var(--accent); outline-offset: 2px; }
+.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
 .site-nav a { text-decoration: none; color: var(--muted); font-weight: 500; padding: .2rem .1rem; }
 .site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--accent-strong); }
+@media (max-width: 46rem) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; }
+  .nav-toggle-box:checked ~ .site-nav { display: flex; flex-direction: column; flex-basis: 100%; gap: 0; padding: .4rem 0 .2rem; border-top: 1px solid var(--line); margin-top: .5rem; }
+  .nav-toggle-box:checked ~ .site-nav a { padding: .55rem .2rem; font-size: 1.05rem; border-bottom: 1px solid var(--line); }
+  .nav-toggle-box:checked ~ .site-nav a:last-child { border-bottom: 0; }
+  .nav-toggle-box:checked + .nav-toggle .nav-open { display: none; }
+  .nav-toggle-box:checked + .nav-toggle .nav-close { display: block; }
+}
 
 /* Breadcrumbs */
 .crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem 0 0; }
@@ -200,6 +213,8 @@ tbody tr:hover { background: var(--soft); }
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/">senior<em>.living.community</em></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-box">
+    <label for="nav-toggle" class="nav-toggle" aria-label="Menu"><span class="nav-open">&#9776;</span><span class="nav-close">&#10005;</span></label>
     <nav class="site-nav" aria-label="Main">
       <a href="/directory/" aria-current="page">Directory</a>
       <a href="/guides/">Guides</a>
@@ -225,7 +240,7 @@ tbody tr:hover { background: var(--soft); }
 
   <main id="main" class="wrap">
     <h1>Washington Senior Living Facilities &amp; Care Homes</h1>
-<p class="lead">13 senior living communities in Washington — pick a city on the map, or browse the list. Hover or tap a community to see where it is.</p>
+<p class="lead">22 senior living communities in Washington — pick a city on the map, or browse the list. Hover or tap a community to see where it is.</p>
 
 
 
@@ -236,6 +251,9 @@ tbody tr:hover { background: var(--soft); }
       <svg viewBox="0 0 340.0 230.9" role="img"
            aria-label="Map of Washington showing cities with senior living communities">
         <path d="M12.0,48.9 L78.9,61.6 L92.8,12.6 L328.0,12.0 L328.0,193.5 L248.0,193.5 L222.5,198.4 L169.2,214.7 L115.8,218.9 L92.8,216.5 L74.8,184.4 L44.0,178.4 L37.9,139.1 L23.5,84.6 L12.0,48.9 Z" class="map-shape"/>
+        <a href="#c-battle-ground" data-city="battle-ground" aria-label="Battle Ground — 1 communities">
+          <circle cx="102.3" cy="206.8" r="3.5" class="map-dot"><title>Battle Ground (1)</title></circle>
+        </a>
         <a href="#c-bellevue" data-city="bellevue" aria-label="Bellevue — 1 communities">
           <circle cx="115.8" cy="96.1" r="3.5" class="map-dot"><title>Bellevue (1)</title></circle>
         </a>
@@ -257,8 +275,11 @@ tbody tr:hover { background: var(--soft); }
         <a href="#c-tacoma" data-city="tacoma" aria-label="Tacoma — 1 communities">
           <circle cx="106.0" cy="117.9" r="3.5" class="map-dot"><title>Tacoma (1)</title></circle>
         </a>
-        <a href="#c-vancouver" data-city="vancouver" aria-label="Vancouver — 3 communities">
-          <circle cx="97.0" cy="215.3" r="4.9" class="map-dot"><title>Vancouver (3)</title></circle>
+        <a href="#c-vancouver" data-city="vancouver" aria-label="Vancouver — 10 communities">
+          <circle cx="97.0" cy="215.3" r="6" class="map-dot"><title>Vancouver (10)</title></circle>
+        </a>
+        <a href="#c-washougal" data-city="washougal" aria-label="Washougal — 1 communities">
+          <circle cx="109.7" cy="218.9" r="3.5" class="map-dot"><title>Washougal (1)</title></circle>
         </a>
       </svg>
       <figcaption>Simplified map — each dot is a city with communities (hover or tap for the name; dot size reflects how many). Helpful when your parents live in a state you don't know well.</figcaption>
@@ -267,12 +288,12 @@ tbody tr:hover { background: var(--soft); }
     <div class="state-resources">
       <h2>What's available in Washington</h2>
       <ul>
-        <li><a href="/guides/levels-of-care-explained/">Assisted Living</a> — 9 communities</li>
-        <li><a href="/guides/memory-care/">Memory Care</a> — 8 communities</li>
-        <li><a href="/guides/levels-of-care-explained/">Independent Living</a> — 8 communities</li>
-        <li><a href="/guides/levels-of-care-explained/">Skilled Nursing</a> — 5 communities</li>
+        <li><a href="/guides/assisted-living/">Assisted Living</a> — 16 communities</li>
+        <li><a href="/guides/memory-care/">Memory Care</a> — 13 communities</li>
+        <li><a href="/guides/independent-living/">Independent Living</a> — 13 communities</li>
+        <li><a href="/guides/skilled-nursing/">Skilled Nursing</a> — 6 communities</li>
         <li><a href="/guides/adult-family-homes/">Small Care Home</a> — 2 communities</li>
-        <li><a href="/guides/types-of-senior-living-facilities/">CCRC / Life Plan</a> — 1 community</li>
+        <li><a href="/guides/ccrc-life-plan-communities/">CCRC / Life Plan</a> — 1 community</li>
       </ul>
       <h2>How Washington regulates senior care</h2>
       <p>Assisted living facilities and Adult Family Homes are licensed by DSHS; Washington has one of the largest small-home (Adult Family Home) sectors in the country.</p><p><strong>Small homes:</strong> Adult Family Homes care for up to 8 residents in a residential home — <a href="/guides/adult-family-homes/">how to evaluate one</a>.</p>
@@ -293,6 +314,21 @@ tbody tr:hover { background: var(--soft); }
   </div>
 
   <div class="state-list" id="communities" aria-label="Communities in Washington by city">
+    <section aria-labelledby="c-battle-ground">
+      <h2 id="c-battle-ground">Battle Ground, WA <span class="count">· Clark County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="battle-ground">
+  <h3><a href="/directory/washington/clark-county/battle-ground/mallard-landing-by-cogir/">Mallard Landing by Cogir</a></h3>
+  <p class="meta">Battle Ground, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Mallard Landing by Cogir is an 85-bed licensed assisted living community in downtown Battle Ground offering assisted living apartments an...</p>
+</li>
+
+      </ul>
+    </section>
     <section aria-labelledby="c-bellevue">
       <h2 id="c-bellevue">Bellevue, WA <span class="count">· King County</span></h2>
       <ul class="grid">
@@ -317,7 +353,7 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Camas, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Lacamas Creek Post Acute is an 83-bed Medicare- and Medicaid-certified skilled nursing facility in Camas, Washington, owned by PACS Group...</p>
 </li>
@@ -332,8 +368,8 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">East Wenatchee, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Bonaventure of East Wenatchee is a senior living community in East Wenatchee, in central Washington, offering retirement (independent) li...</p>
@@ -349,7 +385,7 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Seattle, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Aegis Living Queen Anne Rodgers Park is an assisted living and memory care community on Queen Anne Hill in Seattle, across from Rodgers P...</p>
@@ -360,8 +396,8 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Seattle, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Merrill Gardens at Ballard is a senior living community in the heart of Seattle's Ballard neighborhood offering independent living, assis...</p>
@@ -372,8 +408,8 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Seattle, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 <p class="desc">University House Wallingford is an Era Living retirement community in Seattle's Wallingford neighborhood, opened in 1997, with 146 one- a...</p>
 </li>
@@ -388,7 +424,7 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Sequim, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Avamere Olympic Rehabilitation of Sequim is a Medicare- and Medicaid-certified skilled nursing and rehabilitation facility with 125 feder...</p>
 </li>
@@ -403,11 +439,11 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Spokane, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/types-of-senior-living-facilities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
 <p class="desc">Rockwood South Hill is a nonprofit continuing care retirement community (CCRC) on Spokane's South Hill, operated by Rockwood Retirement C...</p>
 </li>
@@ -417,10 +453,10 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Spokane, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Touchmark on South Hill is a full-service retirement community on a 19-acre campus on Spokane's South Hill, near Manito Park. It offers i...</p>
 </li>
@@ -435,10 +471,10 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Tacoma, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Franke Tobey Jones is a not-for-profit senior living campus in North Tacoma offering independent living, assisted living, memory care, an...</p>
 </li>
@@ -463,11 +499,57 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Vancouver, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Bonaventure of Vancouver is a senior living community in Vancouver, Washington offering retirement (independent) living, assisted living,...</p>
+</li>
+
+        <li class="card" data-city="vancouver">
+  <h3><a href="/directory/washington/clark-county/vancouver/cogir-at-the-quarry/">Cogir at The Quarry</a></h3>
+  <p class="meta">Vancouver, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Cogir at The Quarry is a large senior living campus at Columbia Tech Center in east Vancouver offering independent living, assisted livin...</p>
+</li>
+
+        <li class="card" data-city="vancouver">
+  <h3><a href="/directory/washington/clark-county/vancouver/cogir-of-glenwood-place/">Cogir of Glenwood Place</a></h3>
+  <p class="meta">Vancouver, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Cogir of Glenwood Place (formerly Glenwood Place Senior Living) is a craftsman-style senior living community in the Orchards area of Vanc...</p>
+</li>
+
+        <li class="card" data-city="vancouver">
+  <h3><a href="/directory/washington/clark-county/vancouver/highgate-at-vancouver/">Highgate at Vancouver</a></h3>
+  <p class="meta">Vancouver, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Highgate at Vancouver is a 71-bed licensed assisted living and memory care community in the Hazel Dell neighborhood, near Legacy Salmon C...</p>
+</li>
+
+        <li class="card" data-city="vancouver">
+  <h3><a href="/directory/washington/clark-county/vancouver/hudson-bay-health-and-rehabilitation/">Hudson Bay Health and Rehabilitation</a></h3>
+  <p class="meta">Vancouver, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Hudson Bay Health and Rehabilitation is a 92-bed Medicare- and Medicaid-certified skilled nursing facility in Vancouver operated by Casca...</p>
 </li>
 
         <li class="card" data-city="vancouver">
@@ -475,10 +557,59 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Vancouver, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 <p class="desc">Prestige Senior Living Bridgewood is an independent and assisted living community in a park-like setting in east Vancouver, Washington, n...</p>
+</li>
+
+        <li class="card" data-city="vancouver">
+  <h3><a href="/directory/washington/clark-county/vancouver/the-springs-at-the-waterfront/">The Springs at The Waterfront</a></h3>
+  <p class="meta">Vancouver, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">The Springs at The Waterfront is a 12-story, 360,000-square-foot senior living community on Vancouver's Columbia River waterfront, opened...</p>
+</li>
+
+        <li class="card" data-city="vancouver">
+  <h3><a href="/directory/washington/clark-county/vancouver/touchmark-at-fairway-village/">Touchmark at Fairway Village</a></h3>
+  <p class="meta">Vancouver, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Touchmark at Fairway Village is a full-service retirement community on an 18-acre campus in east Vancouver, offering independent living c...</p>
+</li>
+
+        <li class="card" data-city="vancouver">
+  <h3><a href="/directory/washington/clark-county/vancouver/truewood-by-merrill-vancouver/">Truewood by Merrill, Vancouver</a></h3>
+  <p class="meta">Vancouver, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+</ul>
+<p class="desc">Truewood by Merrill, Vancouver is a pet-friendly independent living community in the Cascade Park area of east Vancouver, offering studio...</p>
+</li>
+
+      </ul>
+    </section>
+    <section aria-labelledby="c-washougal">
+      <h2 id="c-washougal">Washougal, WA <span class="count">· Clark County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="washougal">
+  <h3><a href="/directory/washington/clark-county/washougal/columbia-ridge-senior-living/">Columbia Ridge Senior Living</a></h3>
+  <p class="meta">Washougal, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Columbia Ridge Senior Living is an assisted living community in Washougal with 70 apartment homes in studio and one-bedroom floor plans. ...</p>
 </li>
 
       </ul>

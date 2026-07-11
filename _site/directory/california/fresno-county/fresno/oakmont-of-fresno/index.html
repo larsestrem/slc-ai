@@ -68,14 +68,27 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .prose li { margin: .3rem 0; }
 .lead { font-size: 1.12em; color: var(--muted); max-width: var(--prose); }
 
-/* Header / nav */
+/* Header / nav (hamburger on mobile — CSS-only checkbox toggle) */
 .site-header { background: var(--surface); border-bottom: 1px solid var(--line); }
-.site-header .wrap { display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
-.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; }
+.site-header .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
+.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; margin-right: auto; }
 .brand em { color: var(--accent); font-style: normal; }
-.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; margin-left: auto; }
+.nav-toggle-box { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.nav-toggle { display: none; cursor: pointer; font-size: 1.4rem; line-height: 1; color: var(--ink); padding: .2rem .4rem; border-radius: 6px; user-select: none; }
+.nav-toggle .nav-close { display: none; }
+.nav-toggle-box:focus-visible + .nav-toggle { outline: 2px solid var(--accent); outline-offset: 2px; }
+.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
 .site-nav a { text-decoration: none; color: var(--muted); font-weight: 500; padding: .2rem .1rem; }
 .site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--accent-strong); }
+@media (max-width: 46rem) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; }
+  .nav-toggle-box:checked ~ .site-nav { display: flex; flex-direction: column; flex-basis: 100%; gap: 0; padding: .4rem 0 .2rem; border-top: 1px solid var(--line); margin-top: .5rem; }
+  .nav-toggle-box:checked ~ .site-nav a { padding: .55rem .2rem; font-size: 1.05rem; border-bottom: 1px solid var(--line); }
+  .nav-toggle-box:checked ~ .site-nav a:last-child { border-bottom: 0; }
+  .nav-toggle-box:checked + .nav-toggle .nav-open { display: none; }
+  .nav-toggle-box:checked + .nav-toggle .nav-close { display: block; }
+}
 
 /* Breadcrumbs */
 .crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem 0 0; }
@@ -200,6 +213,8 @@ tbody tr:hover { background: var(--soft); }
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/">senior<em>.living.community</em></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-box">
+    <label for="nav-toggle" class="nav-toggle" aria-label="Menu"><span class="nav-open">&#9776;</span><span class="nav-close">&#10005;</span></label>
     <nav class="site-nav" aria-label="Main">
       <a href="/directory/" aria-current="page">Directory</a>
       <a href="/guides/">Guides</a>
@@ -230,7 +245,7 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Part of <a href="/organizations/oakmont-senior-living/">Oakmont Senior Living</a> · Fresno, Fresno County, California</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 
@@ -253,7 +268,7 @@ tbody tr:hover { background: var(--soft); }
       <section class="prose" aria-labelledby="care-h">
         <h2 id="care-h">Care offered here</h2>
         <ul>
-          <li><strong>Assisted Living</strong> — <a href="/guides/levels-of-care-explained/">what assisted living includes and who it fits</a></li>
+          <li><strong>Assisted Living</strong> — <a href="/guides/assisted-living/">what assisted living includes and who it fits</a></li>
           <li><strong>Memory Care</strong> — <a href="/guides/memory-care/">what memory care includes and who it fits</a></li>
         </ul>
         <p>Care needs usually grow over time. Ask every community what happens when your parent
@@ -314,11 +329,11 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Fresno, CA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/types-of-senior-living-facilities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
 <p class="desc">The Terraces at San Joaquin Gardens is a continuing care retirement community on North Fresno Street in Fresno. It offers maintenance-fre...</p>
 </li>

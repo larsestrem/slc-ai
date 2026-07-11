@@ -3,13 +3,22 @@
     {
       "name": "Bonaventure of Salem",
       "slug": "bonaventure-of-salem",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "marion", "county_name": "Marion",
-      "city": "salem", "city_name": "Salem",
-      "address": "3411 Boone Rd SE", "zip": "97317",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "3411 Boone Rd SE",
+      "zip": "97317",
       "phone": "(503) 480-0004",
       "website": "https://bonaventuresenior.com/community/bonaventure-of-salem/",
-      "care_levels": ["independent-living", "assisted-living", "memory-care"],
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
       "organization": "bonaventure-senior-living",
       "organization_name": "Bonaventure Senior Living",
       "description": "Bonaventure of Salem is a senior living community in southeast Salem offering independent living, assisted living, and memory care on one campus. Residents in the secured memory care neighborhood receive 24-hour supervision and dementia-specific programming. The community allows residents to age in place and adjust their level of care as needed.",
@@ -24,13 +33,22 @@
     {
       "name": "Prestige Senior Living Orchard Heights",
       "slug": "prestige-senior-living-orchard-heights",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "polk", "county_name": "Polk",
-      "city": "salem", "city_name": "Salem",
-      "address": "695 Orchard Heights Rd NW", "zip": "97304",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "polk",
+      "county_name": "Polk",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "695 Orchard Heights Rd NW",
+      "zip": "97304",
       "phone": "(503) 566-9052",
       "website": "https://www.prestigecare.com/locations/prestige-senior-living-orchard-heights/",
-      "care_levels": ["independent-living", "assisted-living", "memory-care"],
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
       "organization": "prestige-care",
       "organization_name": "Prestige Care",
       "description": "Prestige Senior Living Orchard Heights is a senior community in West Salem offering independent living, assisted living, and memory care. Assisted living residents participate in the Celebrations wellness program, and the community's Expressions memory care program serves residents living with Alzheimer's disease and other dementias.",
@@ -45,12 +63,19 @@
     {
       "name": "Avamere Rehabilitation of Oregon City",
       "slug": "avamere-rehabilitation-of-oregon-city",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "clackamas", "county_name": "Clackamas",
-      "city": "oregon-city", "city_name": "Oregon City",
-      "address": "1400 Division Street", "zip": "97045",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "oregon-city",
+      "city_name": "Oregon City",
+      "address": "1400 Division Street",
+      "zip": "97045",
       "phone": "(503) 656-0367",
-      "care_levels": ["skilled-nursing"],
+      "care_levels": [
+        "skilled-nursing"
+      ],
       "facility_size": "large",
       "capacity": 111,
       "organization": "avamere",
@@ -68,13 +93,20 @@
     {
       "name": "Avamere Rehabilitation of Eugene",
       "slug": "avamere-rehabilitation-of-eugene",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "lane", "county_name": "Lane",
-      "city": "eugene", "city_name": "Eugene",
-      "address": "2360 Chambers Street", "zip": "97405",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "eugene",
+      "city_name": "Eugene",
+      "address": "2360 Chambers Street",
+      "zip": "97405",
       "phone": "(541) 687-1310",
       "website": "https://www.avamere.com/avamere-rehabilitation-of-eugene/",
-      "care_levels": ["skilled-nursing"],
+      "care_levels": [
+        "skilled-nursing"
+      ],
       "facility_size": "large",
       "capacity": 92,
       "organization": "avamere",
@@ -91,13 +123,23 @@
     {
       "name": "Cascade Manor",
       "slug": "cascade-manor",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "lane", "county_name": "Lane",
-      "city": "eugene", "city_name": "Eugene",
-      "address": "65 West 30th Avenue", "zip": "97405",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "eugene",
+      "city_name": "Eugene",
+      "address": "65 West 30th Avenue",
+      "zip": "97405",
       "phone": "(541) 342-5901",
       "website": "https://www.cascademanor.org/",
-      "care_levels": ["independent-living", "assisted-living", "skilled-nursing", "ccrc"],
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing",
+        "ccrc"
+      ],
       "organization": "pacific-retirement-services",
       "organization_name": "Pacific Retirement Services",
       "description": "Cascade Manor is Eugene's only accredited continuing care retirement community, offering independent living, assisted living, and skilled nursing on a single campus. It is affiliated with Pacific Retirement Services, a Medford-based nonprofit senior living organization, and lets residents move between levels of care as their needs change.",
@@ -111,13 +153,20 @@
     {
       "name": "Brookdale Oswego Springs Portland",
       "slug": "brookdale-oswego-springs-portland",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "multnomah", "county_name": "Multnomah",
-      "city": "portland", "city_name": "Portland",
-      "address": "11552 SW Lesser Rd", "zip": "97219",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "11552 SW Lesser Rd",
+      "zip": "97219",
       "phone": "(503) 542-4747",
       "website": "https://www.brookdale.com/en/communities/brookdale-oswego-springs-portland.html",
-      "care_levels": ["assisted-living"],
+      "care_levels": [
+        "assisted-living"
+      ],
       "organization": "brookdale-senior-living",
       "organization_name": "Brookdale Senior Living",
       "description": "Brookdale Oswego Springs Portland is an assisted living community in southwest Portland operated by Brookdale Senior Living, the largest senior living operator in the United States. The community provides personal care assistance, dining, and activity programming in a residential setting near the Lake Oswego border.",
@@ -131,12 +180,22 @@
     {
       "name": "Mirabella Portland",
       "slug": "mirabella-portland",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "multnomah", "county_name": "Multnomah",
-      "city": "portland", "city_name": "Portland",
-      "address": "3550 SW Bond Ave", "zip": "97239",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "3550 SW Bond Ave",
+      "zip": "97239",
       "phone": "(503) 688-6400",
-      "care_levels": ["independent-living", "assisted-living", "skilled-nursing", "ccrc"],
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing",
+        "ccrc"
+      ],
       "organization": "pacific-retirement-services",
       "organization_name": "Pacific Retirement Services",
       "description": "Mirabella Portland is a high-rise continuing care retirement community in Portland's South Waterfront district, offering independent living, assisted living, and skilled nursing in one building. It is affiliated with Pacific Retirement Services, a nonprofit senior living organization headquartered in Medford, Oregon.",
@@ -150,13 +209,22 @@
     {
       "name": "Touchmark at Mount Bachelor Village",
       "slug": "touchmark-at-mount-bachelor-village",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "deschutes", "county_name": "Deschutes",
-      "city": "bend", "city_name": "Bend",
-      "address": "19800 SW Touchmark Way", "zip": "97702",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "bend",
+      "city_name": "Bend",
+      "address": "19800 SW Touchmark Way",
+      "zip": "97702",
       "phone": "(541) 316-8445",
       "website": "https://www.touchmark.com/senior-living/or/bend/mount-bachelor-village/",
-      "care_levels": ["independent-living", "assisted-living", "memory-care"],
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
       "organization": "touchmark",
       "organization_name": "Touchmark",
       "description": "Touchmark at Mount Bachelor Village is a full-service retirement community along the Deschutes River in Bend, offering independent living plus licensed residential care (Oregon's term for assisted living) and memory care. The community is operated by Touchmark, a multi-state senior living company.",
@@ -170,13 +238,21 @@
     {
       "name": "Prestige Senior Living High Desert",
       "slug": "prestige-senior-living-high-desert",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "deschutes", "county_name": "Deschutes",
-      "city": "bend", "city_name": "Bend",
-      "address": "2660 NE Mary Rose Pl", "zip": "97701",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "bend",
+      "city_name": "Bend",
+      "address": "2660 NE Mary Rose Pl",
+      "zip": "97701",
       "phone": "(541) 312-2003",
       "website": "https://www.prestigecare.com/locations/prestige-senior-living-high-desert/",
-      "care_levels": ["assisted-living", "memory-care"],
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
       "facility_size": "large",
       "capacity": 75,
       "organization": "prestige-care",
@@ -193,13 +269,20 @@
     {
       "name": "Willow Place",
       "slug": "willow-place",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "yamhill", "county_name": "Yamhill",
-      "city": "newberg", "city_name": "Newberg",
-      "address": "1307 N. College Street", "zip": "97132",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "yamhill",
+      "county_name": "Yamhill",
+      "city": "newberg",
+      "city_name": "Newberg",
+      "address": "1307 N. College Street",
+      "zip": "97132",
       "phone": "(503) 537-9100",
       "website": "https://ccliving.com/our-communities/willow-place/",
-      "care_levels": ["memory-care"],
+      "care_levels": [
+        "memory-care"
+      ],
       "description": "Willow Place is a memory care community in Newberg serving seniors with Alzheimer's disease and other dementias, with 24-hour care overseen by licensed nurses. Originally opened as Huffman House in 1991, it is co-owned and managed by Concepts in Community Living and has also been operated in association with Prestige.",
       "sources": [
         "https://ccliving.com/our-communities/willow-place/",
@@ -212,13 +295,20 @@
     {
       "name": "Mt. Angel Health and Rehabilitation",
       "slug": "mt-angel-health-and-rehabilitation",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "marion", "county_name": "Marion",
-      "city": "mount-angel", "city_name": "Mount Angel",
-      "address": "540 South Main Street", "zip": "97362",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "mount-angel",
+      "city_name": "Mount Angel",
+      "address": "540 South Main Street",
+      "zip": "97362",
       "phone": "(503) 845-6841",
       "website": "https://mtangelcare.com/",
-      "care_levels": ["skilled-nursing"],
+      "care_levels": [
+        "skilled-nursing"
+      ],
       "facility_size": "large",
       "capacity": 93,
       "cms_ccn": "385018",
@@ -234,13 +324,21 @@
     {
       "name": "Prestige Senior Living Arbor Place",
       "slug": "prestige-senior-living-arbor-place",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "jackson", "county_name": "Jackson",
-      "city": "medford", "city_name": "Medford",
-      "address": "3150 Juanipero Way", "zip": "97504",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "jackson",
+      "county_name": "Jackson",
+      "city": "medford",
+      "city_name": "Medford",
+      "address": "3150 Juanipero Way",
+      "zip": "97504",
       "phone": "(541) 773-5380",
       "website": "https://www.prestigecare.com/locations/prestige-senior-living-arbor-place/",
-      "care_levels": ["assisted-living", "memory-care"],
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
       "facility_size": "large",
       "organization": "prestige-care",
       "organization_name": "Prestige Care",
@@ -256,18 +354,1078 @@
     {
       "name": "Felicity Haven Adult Foster Home",
       "slug": "felicity-haven-adult-foster-home",
-      "state": "oregon", "state_name": "Oregon", "state_abbrev": "OR",
-      "county": "marion", "county_name": "Marion",
-      "city": "salem", "city_name": "Salem",
-      "address": "2676 Tahoe Ave SE", "zip": "97306",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "2676 Tahoe Ave SE",
+      "zip": "97306",
       "phone": "(503) 581-8385",
-      "care_levels": ["adult-family-home", "memory-care"],
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
       "facility_size": "small",
       "description": "Felicity Haven Adult Foster Home is a licensed adult foster home in a residential neighborhood of South Salem, within five miles of shopping, clinics, hospitals, and a senior center. It provides 24-hour personal care in a small home setting and cares for seniors with disabilities, including those diagnosed with Alzheimer's disease and other forms of dementia.",
       "sources": [
         "https://www.aplaceformom.com/community/felicity-haven-adult-foster-home-1393946",
         "https://www.seniorhousingnet.com/seniorliving-detail/felicity-haven-adult-foster-home_2676-tahoe-ave-se_salem_or_97306-623974",
         "https://www.seniorhomes.com/oregon/salem/felicity-haven-adult-foster-home"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Fox Hollow Independent and Assisted Living",
+      "slug": "fox-hollow-independent-and-assisted-living",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "bend",
+      "city_name": "Bend",
+      "address": "2599 NE Studio Rd",
+      "zip": "97701",
+      "phone": "(541) 383-2030",
+      "website": "https://www.regency-pacific.com/senior-living/or/bend/fox-hollow-bend/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 76,
+      "organization": "regency-pacific-management",
+      "organization_name": "Regency Pacific Management",
+      "description": "Fox Hollow is an independent and assisted living community in northeast Bend operated by Regency Pacific Management. Residents choose from studio, one-bedroom, and two-bedroom apartments, and the community is licensed for roughly 76 residents. Respite stays and support for changing care needs are available so residents can age in place.",
+      "sources": [
+        "https://www.regency-pacific.com/senior-living/or/bend/fox-hollow-bend/",
+        "https://www.yelp.com/biz/fox-hollow-independent-and-assisted-living-bend",
+        "https://seniorcarehomes.com/assisted-living/oregon/bend-or/fox-hollow-independent-assisted-living-community/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Whispering Winds Retirement",
+      "slug": "whispering-winds-retirement",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "bend",
+      "city_name": "Bend",
+      "address": "2920 NE Conners Ave",
+      "zip": "97701",
+      "phone": "(541) 312-9690",
+      "website": "https://whisperingwinds.info/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "capacity": 112,
+      "description": "Whispering Winds is an independent living retirement community in Bend with 112 apartment homes, including studio, one-bedroom, two-bedroom, and cottage options. Monthly rent covers restaurant-style dining, weekly housekeeping, and a full activity calendar with fitness classes and outings. Reviewers consistently praise the dining program and long-tenured, responsive staff.",
+      "sources": [
+        "https://whisperingwinds.info/",
+        "https://www.yelp.com/biz/whispering-winds-retirement-bend",
+        "https://assistedlivingmagazine.com/independent-living/whispering-winds/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Brookdale Bend",
+      "slug": "brookdale-bend",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "bend",
+      "city_name": "Bend",
+      "address": "1099 NE Watt Way",
+      "zip": "97701",
+      "phone": "(541) 385-4717",
+      "website": "https://www.brookdale.com/en/communities/brookdale-bend.html",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 59,
+      "organization": "brookdale-senior-living",
+      "organization_name": "Brookdale Senior Living",
+      "description": "Brookdale Bend is a single-story community licensed for 59 residents that focuses on memory care for people living with Alzheimer's disease and other dementias. Staff are available around the clock, and the secured building includes walking trails and personalized care assessments. It is part of the national Brookdale Senior Living network.",
+      "sources": [
+        "https://www.brookdale.com/en/communities/brookdale-bend.html",
+        "https://assistedlivingmagazine.com/nursing-home/brookdale-bend/",
+        "https://www.aplaceformom.com/community/brookdale-bend-72412"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Cascades of Bend",
+      "slug": "cascades-of-bend",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "bend",
+      "city_name": "Bend",
+      "address": "1801 NE Lotus Dr",
+      "zip": "97701",
+      "phone": "(541) 389-0046",
+      "website": "https://www.cascadeliving.com/community/cascades-of-bend/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "organization": "cascade-living-group",
+      "organization_name": "Cascade Living Group",
+      "description": "Cascades of Bend describes itself as the longest-standing retirement community in Central Oregon, offering independent living, assisted living, memory care, and respite care on one campus. Care services include medication management, diabetic care, and incontinence care. The community is operated by Cascade Living Group.",
+      "sources": [
+        "https://www.cascadeliving.com/community/cascades-of-bend/",
+        "https://www.yelp.com/biz/cascades-of-bend-retirement-community-bend-2",
+        "https://www.aplaceformom.com/community/cascades-of-bend-101679"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Prairie House Assisted Living and Memory Care",
+      "slug": "prairie-house-assisted-living-and-memory-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "la-pine",
+      "city_name": "La Pine",
+      "address": "51485 Morson St",
+      "zip": "97739",
+      "phone": "(541) 536-8559",
+      "website": "https://www.prestigecare.com/locations/prairie-house/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "organization": "prestige-care",
+      "organization_name": "Prestige Care",
+      "description": "Prairie House is the primary assisted living and memory care community serving La Pine and southern Deschutes County. The community offers award-winning memory care programming alongside assisted living, with staff on site 24 hours a day. It is operated by Prestige Care of Vancouver, Washington.",
+      "sources": [
+        "https://www.prestigecare.com/locations/prairie-house/",
+        "https://www.yelp.com/biz/prairie-house-assisted-living-and-memory-care-la-pine",
+        "https://www.ohca.com/facility-finder/prairie-house-assisted-living-community/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Ochoco Village Assisted Living",
+      "slug": "ochoco-village-assisted-living",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "crook",
+      "county_name": "Crook",
+      "city": "prineville",
+      "city_name": "Prineville",
+      "address": "830 NE Elm St",
+      "zip": "97754",
+      "phone": "(541) 416-3600",
+      "website": "http://www.ochocovillage.com",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "capacity": 57,
+      "description": "Ochoco Village is an assisted living community in Prineville licensed for up to 57 residents, one of the main senior care options in Crook County. Residents receive help with daily activities such as medication management, meals, and personal care in an apartment-style setting close to Prineville's medical clinics.",
+      "sources": [
+        "https://seniorcarehomes.com/assisted-living-facilities/oregon/prineville/ochoco-village-assisted-living",
+        "http://www.prineville.org/hospital-medical-clinic/ochoco-village-assisted-living/",
+        "https://www.assistedliving.com/oregon/prineville/ochoco-village-assisted-living/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Regency Redmond Rehabilitation and Nursing Center",
+      "slug": "regency-redmond-rehabilitation-and-nursing-center",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "redmond",
+      "city_name": "Redmond",
+      "address": "3025 SW Reservoir Rd",
+      "zip": "97756",
+      "phone": "(541) 548-5066",
+      "website": "https://www.regency-pacific.com/senior-living/or/redmond/regency-redmond-rehabilitation-nursing-center/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 50,
+      "organization": "regency-pacific-management",
+      "organization_name": "Regency Pacific Management",
+      "cms_ccn": "385230",
+      "cms_rating_overall": 4,
+      "description": "Regency Redmond is a Medicare- and Medicaid-certified skilled nursing and rehabilitation center with 50 certified beds, operating since 1992. CMS rates it 4 of 5 stars overall, with a 5-star quality measures rating and above-average nurse staffing hours. It is operated by Regency Pacific Management.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/regency-redmond-rehabilitation-and-nursing-center-385230",
+        "https://www.nursinghomes.us/facility/regency-redmond-rehabilitation-and-nursing-center-385230",
+        "https://www.regency-pacific.com/senior-living/or/redmond/regency-redmond-rehabilitation-nursing-center/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Bend Transitional Care",
+      "slug": "bend-transitional-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "bend",
+      "city_name": "Bend",
+      "address": "900 NE 27th St",
+      "zip": "97701",
+      "phone": "(541) 382-0479",
+      "website": "https://www.avamere.com/bend-transitional-care/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 54,
+      "organization": "avamere",
+      "organization_name": "Avamere",
+      "cms_ccn": "385253",
+      "cms_rating_overall": 5,
+      "description": "Bend Transitional Care is a 54-bed skilled nursing and rehabilitation community in the Avamere family, certified by both Medicare and Medicaid. It focuses on short-term rehabilitation and transitional care after hospital stays, and also offers respite care. The facility has earned 5-star overall, staffing, and quality ratings from Medicare.gov.",
+      "sources": [
+        "https://www.avamere.com/bend-transitional-care/",
+        "https://www.medicare.gov/care-compare/details/nursing-home/385253/view-all/?state=OR",
+        "https://www.healthcare4ppl.com/nursing-home/oregon/bend/bend-transitional-care-385253.html"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Stoneybrook Lodge",
+      "slug": "stoneybrook-lodge",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "benton",
+      "county_name": "Benton",
+      "city": "corvallis",
+      "city_name": "Corvallis",
+      "address": "4700 SW Hollyhock Cir",
+      "zip": "97333",
+      "phone": "(541) 754-1961",
+      "website": "https://seniorlivinginstyle.com/stoneybrook-lodge/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "capacity": 115,
+      "organization": "hawthorn-senior-living",
+      "organization_name": "Hawthorn Senior Living",
+      "description": "Stoneybrook Lodge is an all-inclusive independent living community in south Corvallis that opened in 1999 with 115 apartments. Monthly rent bundles three chef-prepared meals daily, weekly housekeeping, transportation, and activities, and live-in managers are on site. It operates under Hawthorn Senior Living's Gracious Retirement Living brand.",
+      "sources": [
+        "https://seniorlivinginstyle.com/stoneybrook-lodge/",
+        "https://www.caring.com/senior-living/oregon/corvallis/stoneybrook-lodge-gracious-retirement-living",
+        "https://graciousretirementliving.com/corvallis"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Timberhill Place",
+      "slug": "timberhill-place",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "benton",
+      "county_name": "Benton",
+      "city": "corvallis",
+      "city_name": "Corvallis",
+      "address": "989 NW Spruce Ave",
+      "zip": "97330",
+      "phone": "(541) 753-1488",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "capacity": 60,
+      "description": "Timberhill Place is a privately owned assisted living community in north Corvallis with 60 apartments, within walking distance of grocery stores, clinics, restaurants, and the Osborn Aquatic Center. Reviews repeatedly highlight long-tenured staff, compassionate care, good dining, and an active program schedule.",
+      "sources": [
+        "https://www.yelp.com/biz/timberhill-place-barber-and-beauty-salon-corvallis",
+        "https://www.senioradvice.com/providers/view/timberhill-place-corvallis-or",
+        "https://www.aplaceformom.com/community/timberhill-place-60047"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Regent Court",
+      "slug": "regent-court",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "benton",
+      "county_name": "Benton",
+      "city": "corvallis",
+      "city_name": "Corvallis",
+      "address": "400 NW Elks Dr",
+      "zip": "97330",
+      "phone": "(541) 758-8000",
+      "care_levels": [
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 48,
+      "description": "Regent Court is a stand-alone, single-story memory care community in Corvallis with 48 studio homes divided into two neighborhoods of no more than 24 residents each, each with its own dining room and courtyards. It serves adults living with Alzheimer's disease and other dementias and was named to U.S. News & World Report's 2023-24 Best Memory Care list.",
+      "sources": [
+        "https://www.carechanges.com/living-communities/regent-court_corvallis_oregon/",
+        "https://encorecommunities.com/regent-court/",
+        "https://www.aplaceformom.com/community/regent-court-96870"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Mennonite Village",
+      "slug": "mennonite-village",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "linn",
+      "county_name": "Linn",
+      "city": "albany",
+      "city_name": "Albany",
+      "address": "5353 Columbus St SE",
+      "zip": "97322",
+      "phone": "(541) 928-7232",
+      "website": "https://mennonitevillage.org/",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "description": "Mennonite Village is a not-for-profit continuing care retirement community on a 275-acre campus in Albany, serving Oregon families for about 75 years with roughly 700 residents. The full continuum of care includes independent living homes and apartments, assisted living, memory care, rehabilitation, and Medicare-certified skilled nursing on one campus.",
+      "sources": [
+        "https://mennonitevillage.org/",
+        "https://findcontinuingcare.com/community/or/albany/mennonite-village-c00453",
+        "https://www.carechanges.com/living-communities/mennonite-village_albany_oregon/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Brookdale Grand Prairie",
+      "slug": "brookdale-grand-prairie",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "linn",
+      "county_name": "Linn",
+      "city": "albany",
+      "city_name": "Albany",
+      "address": "1929 Grand Prairie Rd SE",
+      "zip": "97322",
+      "phone": "(541) 928-9536",
+      "website": "https://www.brookdale.com/en/communities/brookdale-grand-prairie-or.html",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "organization": "brookdale-senior-living",
+      "organization_name": "Brookdale Senior Living",
+      "description": "Brookdale Grand Prairie is an independent living community with assisted living options in Albany, offering studio, one-bedroom, two-bedroom, and suite layouts plus spacious cottages with full kitchens and private patios. Reviewers describe a clean, well-kept campus with kind staff and good food. It is part of the national Brookdale Senior Living network.",
+      "sources": [
+        "https://www.brookdale.com/en/communities/brookdale-grand-prairie-or.html",
+        "https://www.aplaceformom.com/community/brookdale-grand-prairie-60028",
+        "https://www.caring.com/senior-living/oregon/albany/brookdale-grand-prairie-or"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Oaks at Lebanon",
+      "slug": "the-oaks-at-lebanon",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "linn",
+      "county_name": "Linn",
+      "city": "lebanon",
+      "city_name": "Lebanon",
+      "address": "621 W Oak St",
+      "zip": "97355",
+      "phone": "(541) 258-7777",
+      "website": "https://lebanonretirement.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "description": "The Oaks at Lebanon is a retirement and assisted living community in Lebanon offering 104 private apartments in studio, one-bedroom, and two-bedroom layouts, each with a private bathroom and kitchenette. Resident and family reviews consistently praise the long-tenured staff, dining room service, and activity programming.",
+      "sources": [
+        "https://lebanonretirement.com/",
+        "https://seniorhomes.net/communities/oaks-at-lebanon-lebanon-or-1879",
+        "https://www.aplaceformom.com/community/the-oaks-at-lebanon-95216"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Edward C. Allworth Veterans' Home",
+      "slug": "edward-c-allworth-veterans-home",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "linn",
+      "county_name": "Linn",
+      "city": "lebanon",
+      "city_name": "Lebanon",
+      "address": "600 N 5th St",
+      "zip": "97355",
+      "phone": "(541) 391-5752",
+      "website": "https://www.oregon.gov/odva/vets-homes/lebanon/pages/default.aspx",
+      "care_levels": [
+        "skilled-nursing",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 154,
+      "organization": "veterans-care-centers-of-oregon",
+      "organization_name": "Veterans Care Centers of Oregon",
+      "cms_ccn": "385280",
+      "cms_rating_overall": 3,
+      "description": "The Edward C. Allworth Veterans' Home is a 154-bed state veterans home on 12 acres in Lebanon, opened in 2014 and owned by the Oregon Department of Veterans' Affairs. The Medicare- and Medicaid-certified skilled nursing facility provides rehabilitation, long-term care, and dementia care for veterans, with a 5-star CMS staffing rating and national quality awards in 2016 and 2019.",
+      "sources": [
+        "https://www.oregon.gov/odva/vets-homes/lebanon/pages/default.aspx",
+        "https://www.healthcare4ppl.com/nursing-home/oregon/lebanon/lebanon-veterans-home-385280.html",
+        "https://nasvh.org/veterans-homes/edward-c-allworth-oregon-veterans-home/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Dallas Retirement Village",
+      "slug": "dallas-retirement-village",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "polk",
+      "county_name": "Polk",
+      "city": "dallas",
+      "city_name": "Dallas",
+      "address": "377 NW Jasper St",
+      "zip": "97338",
+      "phone": "(503) 623-9211",
+      "website": "https://www.dallasretirementvillage.com/",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "description": "Dallas Retirement Village is a nonprofit continuing care retirement community on a 30-acre campus in Dallas, Oregon, about 15 miles west of Salem, serving seniors for more than 75 years. It is Polk County's only nonprofit senior living community offering independent living, assisted living, memory care, and skilled nursing all on one campus.",
+      "sources": [
+        "https://www.dallasretirementvillage.com/",
+        "https://www.seniorlivingguide.com/communities/dallas-retirement-village-377-n-w-jasper-street-dallas-or-97338/",
+        "https://findcontinuingcare.com/community/or/dallas/dallas-retirement-village-c00455"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Hope Village",
+      "slug": "hope-village",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "canby",
+      "city_name": "Canby",
+      "address": "1535 S Ivy St",
+      "zip": "97013",
+      "phone": "(503) 266-4673",
+      "website": "https://hopevillage.org/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "google_rating": 4.0,
+      "google_review_count": 23,
+      "rating_as_of": "2026-07-11",
+      "description": "Hope Village is a faith-based, not-for-profit retirement community for adults 62 and older on a 56-acre campus in Canby, sponsored by Housing & Outreach Project for the Elderly (HOPE), Inc., a nonprofit founded by nine North Willamette Valley churches. Independent-living options include cottage homes, garden homes, and apartments, including income-qualified units at Cascade House. Assisted living, memory care, and skilled nursing are available on the same campus through Marquis-operated buildings, so residents can age in place within the village.",
+      "sources": [
+        "https://hopevillage.org/",
+        "https://hopevillage.org/our-story-mission/",
+        "https://www.yelp.com/biz/hope-village-canby",
+        "https://reviews.birdeye.com/hope-village-senior-living-community-168154464620059"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Marquis Hope Village",
+      "slug": "marquis-hope-village",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "canby",
+      "city_name": "Canby",
+      "address": "1577 S Ivy St",
+      "zip": "97013",
+      "phone": "(503) 266-5541",
+      "website": "https://www.marquiscompanies.com/facility/marquis-hope-village/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 50,
+      "organization": "marquis-companies",
+      "organization_name": "Marquis Companies",
+      "cms_ccn": "385260",
+      "description": "Marquis Hope Village is a 50-bed Medicare- and Medicaid-certified skilled nursing facility offering post-hospital rehabilitation and long-term care on the Hope Village retirement campus in Canby. U.S. News rates it High Performing for short-term rehabilitation, and recent CMS star ratings have ranged from four to five stars overall. Marquis also operates the adjacent Marquis at Hope Village assisted living and memory care building at 1589 S Ivy St, giving campus residents a full continuum of care.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/marquis-hope-village-385260",
+        "https://www.marquiscompanies.com/facility/marquis-hope-village/",
+        "https://www.yelp.com/biz/marquis-hope-village-post-acute-rehab-canby-2"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Terwilliger Plaza",
+      "slug": "terwilliger-plaza",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "2545 SW Terwilliger Blvd",
+      "zip": "97201",
+      "website": "https://www.terwilligerplaza.com/",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 305,
+      "description": "Terwilliger Plaza is a stand-alone nonprofit continuing care retirement community founded in 1962, located just south of downtown Portland. The community offers about 245 independent-living apartments plus 60 assisted-living beds, with 24/7 on-site licensed nurses and memory support services. Amenities include an aquatic center, wellness center, restaurant dining, and transportation.",
+      "sources": [
+        "https://www.terwilligerplaza.com/",
+        "https://www.caring.com/senior-living/oregon/portland/terwilliger-plaza-97201",
+        "https://www.familyassets.com/continuing-care-retirement-communities/oregon/portland/terwilliger-plaza"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Holladay Park Plaza",
+      "slug": "holladay-park-plaza",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "1300 NE 16th Ave",
+      "zip": "97232",
+      "website": "https://www.holladayparkplaza.org/",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "description": "Holladay Park Plaza is a nonprofit continuing care retirement community in Portland's Lloyd District, affiliated with Pacific Retirement Services. It offers independent living across more than 30 floor plans in three buildings, plus residential (assisted) living, memory care, and on-site skilled nursing. Residents are steps from the MAX light rail, Lloyd Center, and downtown Portland.",
+      "sources": [
+        "https://www.holladayparkplaza.org/",
+        "https://www.carechanges.com/living-communities/holladay-park-plazacontinuing-care-retirement-com_portland_oregon/",
+        "https://health.usnews.com/best-senior-living/holladay-park-plaza-29272"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Russellville Park",
+      "slug": "russellville-park",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "20 SE 103rd Ave",
+      "zip": "97216",
+      "website": "https://russellvillepark.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 187,
+      "organization": "leisure-care",
+      "organization_name": "Leisure Care",
+      "description": "Russellville Park is a 187-unit senior living campus in east Portland offering independent living, assisted living, and memory care under one roof. The community sits directly on the MAX light-rail line near Mall 205 shopping and medical services. U.S. News named it a Best Senior Living community for independent living and memory care, with an overall score of 4.4 from more than 500 resident and family ratings.",
+      "sources": [
+        "https://russellvillepark.com/",
+        "https://health.usnews.com/best-senior-living/russellville-park-1380",
+        "https://www.caring.com/senior-living/oregon/portland/russellville-park-97216"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Willamette View",
+      "slug": "willamette-view",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "milwaukie",
+      "city_name": "Milwaukie",
+      "address": "12705 SE River Rd",
+      "zip": "97222",
+      "website": "https://www.willametteview.org/",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "cms_ccn": "385200",
+      "cms_rating_overall": 5,
+      "description": "Founded in 1955, Willamette View was the first continuing care retirement community in the Portland metro area, a nonprofit 501(c)(3) on a 27-acre campus overlooking the Willamette River between Milwaukie and Portland. It offers roughly 140 floor plans from one-bedroom apartments to three-bedroom residences, plus assisted living and the on-campus Willamette View Health Center, a Medicare-certified skilled nursing facility with a 5-star CMS overall rating.",
+      "sources": [
+        "https://www.willametteview.org/about/",
+        "https://health.usnews.com/best-nursing-homes/area/or/willamette-view-health-center-385200",
+        "https://www.caring.com/senior-living/oregon/portland/willamette-view-97222"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Mary's Woods",
+      "slug": "marys-woods",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "lake-oswego",
+      "city_name": "Lake Oswego",
+      "address": "17400 Holy Names Dr",
+      "zip": "97034",
+      "website": "https://maryswoods.org/",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "description": "Mary's Woods is a single-site nonprofit Life Plan Community (CCRC) for adults 62 and older on a 40-acre campus at the former Marylhurst campus in Lake Oswego. Residents access a continuum of care including independent living, assisted living, residential care with 24/7 nursing staff, and memory care. The park-like grounds include walking trails, rose gardens, and views of the Willamette River valley.",
+      "sources": [
+        "https://maryswoods.org/living-here/",
+        "https://health.usnews.com/best-senior-living/marys-woods-at-marylhurst-11459",
+        "https://www.yelp.com/biz/marys-woods-lake-oswego-2"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Springs at Carman Oaks",
+      "slug": "the-springs-at-carman-oaks",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "lake-oswego",
+      "city_name": "Lake Oswego",
+      "address": "3800 Carman Dr",
+      "zip": "97035",
+      "website": "https://www.thespringsliving.com/senior-living/lake-oswego/oregon/carman-oaks",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "the-springs-living",
+      "organization_name": "The Springs Living",
+      "description": "The Springs at Carman Oaks is a resort-style senior living community in Lake Oswego offering independent living, assisted living, and memory care. Amenities include a swimming pool and spa, wellness and fitness center, theater, chef-driven flexible dining, and Fancho's Public House. Reviewers frequently compare the setting to a luxury hotel, though it is priced at the higher end of the local market.",
+      "sources": [
+        "https://www.thespringsliving.com/senior-living/lake-oswego/oregon/carman-oaks",
+        "https://www.caring.com/senior-living/oregon/lake-oswego/the-springs-at-carman-oaks-97035",
+        "https://www.aplaceformom.com/community/the-springs-at-carman-oaks-59721"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Springs at Happy Valley",
+      "slug": "the-springs-at-happy-valley",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "happy-valley",
+      "city_name": "Happy Valley",
+      "address": "13160 SE 172nd Ave",
+      "zip": "97086",
+      "website": "https://www.thespringsliving.com/senior-living/happy-valley/oregon/happy-valley",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "the-springs-living",
+      "organization_name": "The Springs Living",
+      "description": "The Springs at Happy Valley is a newer-built senior living campus offering independent living, assisted living, and memory care in fast-growing Happy Valley, southeast of Portland. The community features spacious apartments, many with decks and territorial views, plus a gym, pool and hot tub, salon, art studio, and movie theater. Reviews praise the resort-like atmosphere and staff, though some families note rising costs.",
+      "sources": [
+        "https://www.thespringsliving.com/senior-living/happy-valley/oregon/happy-valley",
+        "https://health.usnews.com/best-senior-living/the-springs-at-happy-valley-29485",
+        "https://www.seniorly.com/assisted-living/oregon/happy-valley/the-springs-at-happy-valley"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Courtyard Fountains",
+      "slug": "courtyard-fountains",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "gresham",
+      "city_name": "Gresham",
+      "address": "1545 SE 223rd Ave",
+      "zip": "97030",
+      "phone": "(503) 667-4500",
+      "website": "https://www.seniorlifestyle.com/property/oregon/courtyard-fountains/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "organization": "senior-lifestyle",
+      "organization_name": "Senior Lifestyle",
+      "description": "Courtyard Fountains is a large independent and assisted living community in Gresham operated by Senior Lifestyle. Residents choose from studio, one-bedroom, and two-bedroom apartments and enjoy a theater, bistro, happy-hour bar, greenhouse and planting terraces, and an outdoor patio with fountain. It carries a 9.4 out of 10 review score on A Place for Mom across 65 reviews, with dining and staff frequently praised.",
+      "sources": [
+        "https://www.seniorlifestyle.com/property/oregon/courtyard-fountains/",
+        "https://www.aplaceformom.com/community/courtyard-fountains-95280",
+        "https://www.yelp.com/biz/courtyard-fountains-gresham"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Springs at Murrayhill",
+      "slug": "the-springs-at-murrayhill",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "beaverton",
+      "city_name": "Beaverton",
+      "address": "10880 SW Davies Rd",
+      "zip": "97008",
+      "phone": "(503) 521-3000",
+      "website": "https://www.thespringsliving.com/senior-living/beaverton/oregon/hearthstone",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "the-springs-living",
+      "organization_name": "The Springs Living",
+      "description": "The Springs at Murrayhill, formerly Hearthstone at Murrayhill, is a senior living community in Beaverton's Murrayhill neighborhood serving more than 200 residents across independent living, assisted living, and memory care. The Springs Living acquired the long-running Hearthstone community and operates it alongside its other Portland-metro campuses. Reviews consistently praise the attentive staff, meals, and well-maintained grounds.",
+      "sources": [
+        "https://www.thespringsliving.com/senior-living/beaverton/oregon/hearthstone",
+        "https://www.thespringsliving.com/blog/the-springs-at-beaverton-press-release",
+        "https://www.caring.com/senior-living/oregon/beaverton/hearthstone-at-murrayhill-97008"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Springs at Tanasbourne",
+      "slug": "the-springs-at-tanasbourne",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "hillsboro",
+      "city_name": "Hillsboro",
+      "address": "1950 NE 102nd Ave",
+      "zip": "97006",
+      "website": "https://www.thespringsliving.com/senior-living/hillsboro/oregon/tanasbourne",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 230,
+      "organization": "the-springs-living",
+      "organization_name": "The Springs Living",
+      "description": "The Springs at Tanasbourne is a senior living community in Hillsboro's Tanasbourne district with a resident capacity of about 230, offering independent living, assisted living, and memory care. Opened in 2009, the community features restaurant-style dining with chef-prepared meals and a dedicated memory care program for residents with Alzheimer's and other dementias. It sits near the Streets of Tanasbourne shopping center and Kaiser Westside Medical Center.",
+      "sources": [
+        "https://www.thespringsliving.com/senior-living/hillsboro/oregon/tanasbourne",
+        "https://www.miradorliving.com/assisted-living/oregon/hillsboro/the-springs-at-tanasbourne",
+        "https://health.usnews.com/best-senior-living/springs-at-tanasbourne-18160"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Marquis Tualatin",
+      "slug": "marquis-tualatin",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "tualatin",
+      "city_name": "Tualatin",
+      "address": "19945 SW Boones Ferry Rd",
+      "zip": "97062",
+      "website": "https://www.marquiscompanies.com/facility/marquis-tualatin/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 54,
+      "organization": "marquis-companies",
+      "organization_name": "Marquis Companies",
+      "cms_ccn": "385279",
+      "cms_rating_overall": 5,
+      "description": "Marquis Tualatin Post Acute Rehab is a 54-bed Medicare- and Medicaid-certified skilled nursing facility providing post-hospital rehabilitation and long-term care in Tualatin. It holds a 5-star CMS overall rating with a 5-star health inspection rating, and U.S. News rates it High Performing for short-term rehabilitation. A Marquis assisted living community operates on the same Boones Ferry Road campus.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/marquis-tualatin-post-acute-rehabilitation-385279",
+        "https://www.medicare.gov/care-compare/details/nursing-home/385279/view-all/?state=OR",
+        "https://www.marquiscompanies.com/facility/marquis-tualatin/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "SpringRidge at Charbonneau",
+      "slug": "springridge-at-charbonneau",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "wilsonville",
+      "city_name": "Wilsonville",
+      "address": "32200 SW French Prairie Rd",
+      "zip": "97070",
+      "website": "https://www.srgseniorliving.com/portland-or-springridge-at-charbonneau/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 264,
+      "organization": "senior-resource-group",
+      "organization_name": "Senior Resource Group",
+      "description": "SpringRidge at Charbonneau is an award-winning 264-unit senior living campus offering independent living, assisted living, and memory care inside Wilsonville's 477-acre master-planned Charbonneau community, which surrounds a 27-hole golf course. The pet-friendly campus features walking paths, varied floor plans, and an active social calendar. It is operated by Senior Resource Group (SRG).",
+      "sources": [
+        "https://www.srgseniorliving.com/portland-or-springridge-at-charbonneau/",
+        "https://www.caring.com/senior-living/oregon/wilsonville/springridge-charbonneau-97070",
+        "https://www.aplaceformom.com/community/spring-ridge-at-charbonneau-96853"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Merrill Gardens at Sherwood",
+      "slug": "merrill-gardens-at-sherwood",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "sherwood",
+      "city_name": "Sherwood",
+      "address": "16872 SW Edy Rd",
+      "zip": "97140",
+      "website": "https://www.merrillgardens.com/senior-living/or/sherwood/sw-edy-rd/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "merrill-gardens",
+      "organization_name": "Merrill Gardens",
+      "description": "Merrill Gardens at Sherwood, formerly known as The Ackerly at Sherwood, offers independent living, assisted living, and memory care southwest of Portland near Highway 99W. The community came under the Merrill Gardens brand after ownership and management changed from Leisure Care. It has been among the highest-rated senior living communities in Sherwood, with reviewers highlighting the warm atmosphere and dedicated staff.",
+      "sources": [
+        "https://www.merrillgardens.com/senior-living/or/sherwood/sw-edy-rd/",
+        "https://www.sherwoodsun.org/merrill-gardens-senior-living-under-new-ownership/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/70A340"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Friendsview Retirement Community",
+      "slug": "friendsview-retirement-community",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "yamhill",
+      "county_name": "Yamhill",
+      "city": "newberg",
+      "city_name": "Newberg",
+      "address": "1301 Fulton St",
+      "zip": "97132",
+      "website": "https://www.friendsview.org/",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "description": "Friendsview is a Quaker-heritage, faith-based continuing care retirement community serving Newberg since 1961, located on a 27-acre campus near George Fox University. Housing ranges from studios and apartment homes to cottages and duplexes across several neighborhoods, including the newer 96-apartment Sutton Terrace building, with assisted living, memory care, and skilled nursing available as needs change. The community recently completed a $124 million campus expansion.",
+      "sources": [
+        "https://www.friendsview.org/",
+        "https://www.greystonecommunities.com/insights/friendsview-to-break-ground-on-124-million-campus-expansion-in-july",
+        "https://ltclicensing.oregon.gov/Facilities/Details/50R040"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Hillside Retirement Community",
+      "slug": "hillside-retirement-community",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "yamhill",
+      "county_name": "Yamhill",
+      "city": "mcminnville",
+      "city_name": "McMinnville",
+      "address": "300 NW Hillside Park Way",
+      "zip": "97128",
+      "phone": "(503) 472-9534",
+      "website": "https://www.humangood.org/hillside",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "organization": "humangood",
+      "organization_name": "HumanGood",
+      "description": "Hillside is a nonprofit Life Plan Community (CCRC) on 57 acres in McMinnville, in the heart of Willamette Valley wine country, operated by HumanGood. The campus offers independent living apartments and cottage homes plus assisted living, memory care, long-term skilled nursing, and short-term rehabilitation. U.S. News recognized Hillside as a Best Continuing Care Retirement Community in its 2026 Best Senior Living awards.",
+      "sources": [
+        "https://www.humangood.org/hillside",
+        "https://health.usnews.com/best-senior-living/hillside-retirement-communities-2478",
+        "https://www.caring.com/senior-living/oregon/mcminnville/hillside-mcminnville-or"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Jennings McCall Center",
+      "slug": "jennings-mccall-center",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "forest-grove",
+      "city_name": "Forest Grove",
+      "address": "2300 Masonic Way",
+      "zip": "97116",
+      "phone": "(503) 357-4133",
+      "website": "https://jenningsmccall.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "description": "Jennings McCall is an independent nonprofit retirement community on 15 acres in Forest Grove, started by the Masons of Oregon in 1922 and open to the public since 1989. The campus offers independent living, assisted living, progressive care, and memory care. Reviewers consistently praise the welcoming community, grounds, and attentive staff.",
+      "sources": [
+        "https://jenningsmccall.com/",
+        "https://www.caring.com/senior-living/oregon/forest-grove/jennings-mccall-97116",
+        "https://discoverforestgrove.org/locations/jennings-mccall-retirement-community/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Country Meadows Village",
+      "slug": "country-meadows-village",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "woodburn",
+      "city_name": "Woodburn",
+      "address": "155 S Evergreen Rd",
+      "zip": "97071",
+      "phone": "(503) 376-6996",
+      "website": "https://countrymeadowsvillage.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "description": "Country Meadows Village is a senior living campus in Woodburn, about 35 minutes from downtown Portland, combining independent living apartments, cottage homes with garages and covered porches, and a 50-unit licensed assisted living building. Residents highlight the restaurant-style dining with an on-site chef and a busy Life Enrichment activity program. The community is minutes from the Woodburn Premium Outlets between Portland and Salem.",
+      "sources": [
+        "https://countrymeadowsvillage.com/",
+        "https://www.caring.com/senior-living/oregon/woodburn/country-meadows-village-97071",
+        "https://www.aplaceformom.com/community/country-meadows-village-97485"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "The Ridge at Oregon City",
+      "slug": "the-ridge-at-oregon-city",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "oregon-city",
+      "city_name": "Oregon City",
+      "address": "13669 Gaffney Ln",
+      "zip": "97045",
+      "phone": "(503) 655-0888",
+      "website": "http://ridgeatoregoncity.com/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "medium",
+      "organization": "cascade-living-group",
+      "organization_name": "Cascade Living Group",
+      "description": "The Ridge at Oregon City is a newly renovated independent living community operated by Cascade Living Group, offering studio, one-bedroom, and two-bedroom apartments plus two-bedroom cottages. Residents receive chef-prepared, scratch-made meals, housekeeping, and complimentary transportation. Reviews describe a clean, well-maintained community where staff know each resident by name.",
+      "sources": [
+        "http://ridgeatoregoncity.com/",
+        "https://www.aplaceformom.com/community/the-ridge-at-oregon-city-59729",
+        "https://www.seniorly.com/independent-living/oregon/oregon-city/the-ridge-at-oregon-city"
       ],
       "verified_date": "2026-07-11"
     }
@@ -279,7 +1437,11 @@
       "headquarters": "Salem, Oregon",
       "website": "https://bonaventuresenior.com/",
       "facility_count_approx": 28,
-      "states": ["OR", "WA", "CO"],
+      "states": [
+        "OR",
+        "WA",
+        "CO"
+      ],
       "description": "Bonaventure Senior Living is a senior living operator headquartered in Salem, Oregon, with a portfolio of roughly 28 communities across Oregon, Washington, and Colorado. Its communities offer independent living, assisted living, and memory care. In Washington, the company entered a $7 million consent agreement with the state attorney general to improve services at 10 of its long-term care facilities.",
       "sources": [
         "https://bonaventuresenior.com/about-us/",
@@ -294,7 +1456,10 @@
       "headquarters": "Wilsonville, Oregon",
       "website": "https://www.avamere.com/",
       "facility_count_approx": 32,
-      "states": ["OR", "WA"],
+      "states": [
+        "OR",
+        "WA"
+      ],
       "description": "Avamere Family of Companies is a senior care organization headquartered in Wilsonville, Oregon, operating skilled nursing, post-acute rehabilitation, and senior living locations in the Pacific Northwest. After acquiring four Washington facilities, its footprint grew to roughly 32 facilities across Oregon and Washington.",
       "sources": [
         "https://www.avamere.com/locations/",
@@ -308,7 +1473,16 @@
       "headquarters": "Vancouver, Washington",
       "website": "https://www.prestigecare.com/",
       "facility_count_approx": 70,
-      "states": ["OR", "WA", "ID", "MT", "NV", "AK", "AZ", "CA"],
+      "states": [
+        "OR",
+        "WA",
+        "ID",
+        "MT",
+        "NV",
+        "AK",
+        "AZ",
+        "CA"
+      ],
       "description": "Prestige Care, Inc. is a family-owned senior care company headquartered in Vancouver, Washington, providing independent living, assisted living, memory care, and skilled nursing across eight Western states, historically with more than 70 locations. In 2024, PACS Group acquired the operations of 53 skilled nursing, assisted living, and independent living facilities from Prestige, so its current footprint is smaller than its historical peak.",
       "sources": [
         "https://www.prestigecare.com/contact-us/",
@@ -330,6 +1504,154 @@
         "https://www.brookdale.com/en/locations/oregon.html"
       ],
       "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Regency Pacific Management",
+      "slug": "regency-pacific-management",
+      "headquarters": "Bellevue, Washington",
+      "website": "https://www.regency-pacific.com/",
+      "facility_count_approx": 40,
+      "states": [
+        "WA",
+        "OR",
+        "ID",
+        "CA",
+        "HI"
+      ],
+      "description": "Regency Pacific Management operates more than 40 licensed senior living communities across Washington, Oregon, Idaho, California, and Hawaii, housing over 3,000 residents. Its communities span independent living, assisted living, memory care, rehabilitation, respite care, and skilled nursing. Oregon locations include Fox Hollow in Bend and Regency Redmond Rehabilitation and Nursing Center.",
+      "sources": [
+        "https://www.regency-pacific.com/about-us"
+      ]
+    },
+    {
+      "name": "Cascade Living Group",
+      "slug": "cascade-living-group",
+      "headquarters": "Bothell, Washington",
+      "website": "https://www.cascadeliving.com/",
+      "facility_count_approx": 30,
+      "states": [
+        "WA",
+        "OR",
+        "CA",
+        "NV",
+        "AZ"
+      ],
+      "description": "Cascade Living Group is a senior living operator headquartered in Bothell, Washington, with about 30 communities across Washington, Oregon, California, Nevada, and Arizona. Its portfolio ranges from active independent living to assisted living and integrated Alzheimer's and memory care communities, including Cascades of Bend in Central Oregon.",
+      "sources": [
+        "https://www.cascadeliving.com/",
+        "https://www.aplaceformom.com/providers/cascade-living-group-885"
+      ]
+    },
+    {
+      "name": "Hawthorn Senior Living",
+      "slug": "hawthorn-senior-living",
+      "website": "https://seniorlivinginstyle.com/",
+      "states": [
+        "OR",
+        "WA"
+      ],
+      "description": "Hawthorn Senior Living manages all-inclusive independent living retirement communities under the Gracious Retirement Living brand across the United States and Canada. Its communities feature live-in managers, three chef-prepared meals daily, and bundled services in a single monthly rent. Stoneybrook Lodge in Corvallis is one of its Oregon communities.",
+      "sources": [
+        "https://seniorlivinginstyle.com/stoneybrook-lodge/",
+        "https://graciousretirementliving.com/corvallis"
+      ]
+    },
+    {
+      "name": "Veterans Care Centers of Oregon",
+      "slug": "veterans-care-centers-of-oregon",
+      "headquarters": "Oregon",
+      "website": "https://veteranscarecenters.org/",
+      "facility_count_approx": 2,
+      "states": [
+        "OR"
+      ],
+      "description": "Veterans Care Centers of Oregon is a nonprofit organization that manages day-to-day operations of Oregon's state veterans homes on behalf of the Oregon Department of Veterans' Affairs, including the Edward C. Allworth Veterans' Home in Lebanon and the Oregon Veterans' Home in The Dalles. The homes provide skilled nursing, rehabilitation, and memory care for veterans and eligible family members.",
+      "sources": [
+        "https://veteranscarecenters.org/lebanon-tour/",
+        "https://www.oregon.gov/odva/vets-homes/lebanon/pages/default.aspx"
+      ]
+    },
+    {
+      "name": "Marquis Companies",
+      "slug": "marquis-companies",
+      "headquarters": "Milwaukie, Oregon",
+      "website": "https://www.marquiscompanies.com/",
+      "states": [
+        "OR",
+        "CA",
+        "NV"
+      ],
+      "description": "Marquis Companies is a family-owned senior care company headquartered in the Portland suburb of Milwaukie, Oregon, operating skilled nursing, post-acute rehabilitation, assisted living, and memory care facilities in Oregon, California, and Nevada. Several of its Oregon campuses, including Hope Village in Canby and its Tualatin post-acute center, hold high CMS ratings for short-term rehabilitation. The company also runs Consonus Healthcare, a pharmacy and rehab services affiliate.",
+      "sources": [
+        "https://www.marquiscompanies.com/"
+      ]
+    },
+    {
+      "name": "The Springs Living",
+      "slug": "the-springs-living",
+      "headquarters": "McMinnville, Oregon",
+      "website": "https://www.thespringsliving.com/",
+      "states": [
+        "OR",
+        "MT"
+      ],
+      "description": "The Springs Living is a privately held senior living company founded in 1996 by Fee Stubblefield and headquartered in McMinnville, Oregon. It operates independent living, assisted living, and memory care communities across Oregon and Montana, with a heavy concentration in the Portland metro area including Lake Oswego, Happy Valley, Hillsboro, Beaverton, Wilsonville, and Sherwood. The company acquired the Hearthstone communities in Beaverton, rebranding them under The Springs name.",
+      "sources": [
+        "https://www.thespringsliving.com/",
+        "https://www.thespringsliving.com/blog/the-springs-at-beaverton-press-release"
+      ]
+    },
+    {
+      "name": "Leisure Care",
+      "slug": "leisure-care",
+      "headquarters": "Seattle, Washington",
+      "website": "https://www.leisurecare.com/",
+      "description": "Founded in 1976 and headquartered in Seattle, Leisure Care is one of the nation's largest privately held retirement and assisted living companies. It manages independent living, assisted living, and memory care communities across the western United States and beyond, emphasizing a hospitality-driven 'Five-Star Fun' operating style.",
+      "sources": [
+        "https://www.leisurecare.com/"
+      ]
+    },
+    {
+      "name": "Senior Lifestyle",
+      "slug": "senior-lifestyle",
+      "headquarters": "Chicago, Illinois",
+      "website": "https://www.seniorlifestyle.com/",
+      "description": "Senior Lifestyle is a Chicago-based senior housing operator founded in 1985 that owns and manages more than 100 independent living, assisted living, and memory care communities across the United States. In the Portland metro area it operates Courtyard Fountains in Gresham.",
+      "sources": [
+        "https://www.seniorlifestyle.com/"
+      ]
+    },
+    {
+      "name": "Merrill Gardens",
+      "slug": "merrill-gardens",
+      "headquarters": "Seattle, Washington",
+      "website": "https://www.merrillgardens.com/",
+      "facility_count_approx": 65,
+      "description": "Merrill Gardens was founded in 1993 with a single community in Seattle and has grown to operate about 65 senior living communities across 17 states. Part of the R.D. Merrill family of companies, it offers independent living, assisted living, and memory care, and has absorbed several former Leisure Care-managed communities, including the former Ackerly at Sherwood in Oregon.",
+      "sources": [
+        "https://www.merrillgardens.com/",
+        "https://www.sherwoodsun.org/merrill-gardens-senior-living-under-new-ownership/"
+      ]
+    },
+    {
+      "name": "Senior Resource Group",
+      "slug": "senior-resource-group",
+      "headquarters": "Solana Beach, California",
+      "website": "https://www.srgseniorliving.com/",
+      "description": "Senior Resource Group (SRG) is a California-based developer and operator of senior living communities offering independent living, assisted living, and memory care in multiple states across the western and southern United States. Its Oregon portfolio includes SpringRidge at Charbonneau in Wilsonville.",
+      "sources": [
+        "https://www.srgseniorliving.com/"
+      ]
+    },
+    {
+      "name": "HumanGood",
+      "slug": "humangood",
+      "headquarters": "Duarte, California",
+      "website": "https://www.humangood.org/",
+      "description": "HumanGood is one of the nation's largest nonprofit senior living providers, formed in 2016 through the merger of American Baptist Homes of the West and be.group. It operates Life Plan Communities (CCRCs) and affordable senior housing communities in multiple states, including Hillside in McMinnville, Oregon.",
+      "sources": [
+        "https://www.humangood.org/"
+      ]
     }
   ]
 }

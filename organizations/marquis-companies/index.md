@@ -1,0 +1,12 @@
+---
+layout: "organization"
+title: "Marquis Companies"
+seo_title: "Marquis Companies — Senior Living Communities & Locations"
+description: "Marquis Companies is a family-owned senior care company headquartered in the Portland suburb of Milwaukie, Oregon, operating skilled nursing, post-acute rehab"
+org_description: "Marquis Companies is a family-owned senior care company headquartered in the Portland suburb of Milwaukie, Oregon, operating skilled nursing, post-acute rehabilitation, assisted living, and memory care facilities in Oregon, California, and Nevada. Several of its Oregon campuses, including Hope Village in Canby and its Tualatin post-acute center, hold high CMS ratings for short-term rehabilitation. The company also runs Consonus Healthcare, a pharmacy and rehab services affiliate."
+headquarters: "Milwaukie, Oregon"
+website: "https://www.marquiscompanies.com/"
+org_states: ["OR", "CA", "NV"]
+facilities: [{"name": "Marquis Hope Village", "url": "/directory/oregon/clackamas-county/canby/marquis-hope-village/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "facility_size": "medium", "description": "Marquis Hope Village is a 50-bed Medicare- and Medicaid-certified skilled nursing facility offering post-hospital rehabilitation and long-term care on the Hope Village retirement campus in Canby. U.S. News rates it High Performing for short-term rehabilitation, and recent CMS star ratings have ranged from four to five stars overall. Marquis also operates the adjacent Marquis at Hope Village assisted living and memory care building at 1589 S Ivy St, giving campus residents a full continuum of care."}, {"name": "Marquis Tualatin", "url": "/directory/oregon/washington-county/tualatin/marquis-tualatin/", "city_name": "Tualatin", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "facility_size": "medium", "cms_rating_overall": 5, "description": "Marquis Tualatin Post Acute Rehab is a 54-bed Medicare- and Medicaid-certified skilled nursing facility providing post-hospital rehabilitation and long-term care in Tualatin. It holds a 5-star CMS overall rating with a 5-star health inspection rating, and U.S. News rates it High Performing for short-term rehabilitation. A Marquis assisted living community operates on the same Boones Ferry Road campus."}]
+crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Marquis Companies", "url": "/organizations/marquis-companies/"}]
+---

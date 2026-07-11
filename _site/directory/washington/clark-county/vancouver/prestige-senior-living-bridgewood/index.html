@@ -68,14 +68,27 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .prose li { margin: .3rem 0; }
 .lead { font-size: 1.12em; color: var(--muted); max-width: var(--prose); }
 
-/* Header / nav */
+/* Header / nav (hamburger on mobile — CSS-only checkbox toggle) */
 .site-header { background: var(--surface); border-bottom: 1px solid var(--line); }
-.site-header .wrap { display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
-.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; }
+.site-header .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
+.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; margin-right: auto; }
 .brand em { color: var(--accent); font-style: normal; }
-.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; margin-left: auto; }
+.nav-toggle-box { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.nav-toggle { display: none; cursor: pointer; font-size: 1.4rem; line-height: 1; color: var(--ink); padding: .2rem .4rem; border-radius: 6px; user-select: none; }
+.nav-toggle .nav-close { display: none; }
+.nav-toggle-box:focus-visible + .nav-toggle { outline: 2px solid var(--accent); outline-offset: 2px; }
+.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
 .site-nav a { text-decoration: none; color: var(--muted); font-weight: 500; padding: .2rem .1rem; }
 .site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--accent-strong); }
+@media (max-width: 46rem) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; }
+  .nav-toggle-box:checked ~ .site-nav { display: flex; flex-direction: column; flex-basis: 100%; gap: 0; padding: .4rem 0 .2rem; border-top: 1px solid var(--line); margin-top: .5rem; }
+  .nav-toggle-box:checked ~ .site-nav a { padding: .55rem .2rem; font-size: 1.05rem; border-bottom: 1px solid var(--line); }
+  .nav-toggle-box:checked ~ .site-nav a:last-child { border-bottom: 0; }
+  .nav-toggle-box:checked + .nav-toggle .nav-open { display: none; }
+  .nav-toggle-box:checked + .nav-toggle .nav-close { display: block; }
+}
 
 /* Breadcrumbs */
 .crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem 0 0; }
@@ -200,6 +213,8 @@ tbody tr:hover { background: var(--soft); }
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/">senior<em>.living.community</em></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-box">
+    <label for="nav-toggle" class="nav-toggle" aria-label="Menu"><span class="nav-open">&#9776;</span><span class="nav-close">&#10005;</span></label>
     <nav class="site-nav" aria-label="Main">
       <a href="/directory/" aria-current="page">Directory</a>
       <a href="/guides/">Guides</a>
@@ -230,8 +245,8 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Part of <a href="/organizations/prestige-care/">Prestige Care</a> · Vancouver, Clark County, Washington</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 
 
@@ -253,8 +268,8 @@ tbody tr:hover { background: var(--soft); }
       <section class="prose" aria-labelledby="care-h">
         <h2 id="care-h">Care offered here</h2>
         <ul>
-          <li><strong>Independent Living</strong> — <a href="/guides/levels-of-care-explained/">what independent living includes and who it fits</a></li>
-          <li><strong>Assisted Living</strong> — <a href="/guides/levels-of-care-explained/">what assisted living includes and who it fits</a></li>
+          <li><strong>Independent Living</strong> — <a href="/guides/independent-living/">what independent living includes and who it fits</a></li>
+          <li><strong>Assisted Living</strong> — <a href="/guides/assisted-living/">what assisted living includes and who it fits</a></li>
         </ul>
         <p>Care needs usually grow over time. Ask every community what happens when your parent
         needs more care than their current level — moving twice is hard on everyone.
@@ -314,8 +329,8 @@ tbody tr:hover { background: var(--soft); }
   <p class="meta">Vancouver, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Bonaventure of Vancouver is a senior living community in Vancouver, Washington offering retirement (independent) living, assisted living,...</p>
@@ -329,6 +344,54 @@ tbody tr:hover { background: var(--soft); }
   <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
 </ul>
 <p class="desc">Best Care Adult Family Home is a Washington state-licensed, 6-bed adult family home in Vancouver offering residential senior care in a ho...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/washington/clark-county/vancouver/touchmark-at-fairway-village/">Touchmark at Fairway Village</a></h3>
+  <p class="meta">Vancouver, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Touchmark at Fairway Village is a full-service retirement community on an 18-acre campus in east Vancouver, offering independent living c...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/washington/clark-county/vancouver/cogir-at-the-quarry/">Cogir at The Quarry</a></h3>
+  <p class="meta">Vancouver, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Cogir at The Quarry is a large senior living campus at Columbia Tech Center in east Vancouver offering independent living, assisted livin...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/washington/clark-county/vancouver/the-springs-at-the-waterfront/">The Springs at The Waterfront</a></h3>
+  <p class="meta">Vancouver, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">The Springs at The Waterfront is a 12-story, 360,000-square-foot senior living community on Vancouver's Columbia River waterfront, opened...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/washington/clark-county/vancouver/cogir-of-glenwood-place/">Cogir of Glenwood Place</a></h3>
+  <p class="meta">Vancouver, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Cogir of Glenwood Place (formerly Glenwood Place Senior Living) is a craftsman-style senior living community in the Orchards area of Vanc...</p>
 </li>
 
     </ul>

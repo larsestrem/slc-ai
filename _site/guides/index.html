@@ -68,14 +68,27 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .prose li { margin: .3rem 0; }
 .lead { font-size: 1.12em; color: var(--muted); max-width: var(--prose); }
 
-/* Header / nav */
+/* Header / nav (hamburger on mobile — CSS-only checkbox toggle) */
 .site-header { background: var(--surface); border-bottom: 1px solid var(--line); }
-.site-header .wrap { display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
-.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; }
+.site-header .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
+.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; margin-right: auto; }
 .brand em { color: var(--accent); font-style: normal; }
-.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; margin-left: auto; }
+.nav-toggle-box { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.nav-toggle { display: none; cursor: pointer; font-size: 1.4rem; line-height: 1; color: var(--ink); padding: .2rem .4rem; border-radius: 6px; user-select: none; }
+.nav-toggle .nav-close { display: none; }
+.nav-toggle-box:focus-visible + .nav-toggle { outline: 2px solid var(--accent); outline-offset: 2px; }
+.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
 .site-nav a { text-decoration: none; color: var(--muted); font-weight: 500; padding: .2rem .1rem; }
 .site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--accent-strong); }
+@media (max-width: 46rem) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; }
+  .nav-toggle-box:checked ~ .site-nav { display: flex; flex-direction: column; flex-basis: 100%; gap: 0; padding: .4rem 0 .2rem; border-top: 1px solid var(--line); margin-top: .5rem; }
+  .nav-toggle-box:checked ~ .site-nav a { padding: .55rem .2rem; font-size: 1.05rem; border-bottom: 1px solid var(--line); }
+  .nav-toggle-box:checked ~ .site-nav a:last-child { border-bottom: 0; }
+  .nav-toggle-box:checked + .nav-toggle .nav-open { display: none; }
+  .nav-toggle-box:checked + .nav-toggle .nav-close { display: block; }
+}
 
 /* Breadcrumbs */
 .crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem 0 0; }
@@ -200,6 +213,8 @@ tbody tr:hover { background: var(--soft); }
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/">senior<em>.living.community</em></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-box">
+    <label for="nav-toggle" class="nav-toggle" aria-label="Menu"><span class="nav-open">&#9776;</span><span class="nav-close">&#10005;</span></label>
     <nav class="site-nav" aria-label="Main">
       <a href="/directory/">Directory</a>
       <a href="/guides/" aria-current="page">Guides</a>
@@ -276,8 +291,24 @@ industry insiders. One topic per page, straight answers, no sales pitch.</p>
       <p class="desc">Adult family homes offer care in a real house with 5-10 residents. Learn the benefits, trade-offs, and how to vet a small residential care home.</p>
     </li>
     <li class="card">
+      <h3><a href="/guides/assisted-living/">Assisted Living Explained: Care, Costs, and the Fine Print</a></h3>
+      <p class="desc">How assisted living really works: the care assessment, level-of-care charges above base rent, what staff can and can't do, and the discharge rules families miss.</p>
+    </li>
+    <li class="card">
+      <h3><a href="/guides/ccrc-life-plan-communities/">CCRCs and Life Plan Communities: Contracts, Fees, Risks</a></h3>
+      <p class="desc">How CCRCs (Life Plan communities) work: Type A, B, and C contracts in plain language, entrance fees and refunds, and how to judge financial strength.</p>
+    </li>
+    <li class="card">
+      <h3><a href="/guides/hospice-and-palliative-care/">Hospice vs. Palliative Care: What Families Need to Know</a></h3>
+      <p class="desc">The difference between hospice and palliative care, what Medicare covers, what families actually receive, and why most wish they'd started sooner.</p>
+    </li>
+    <li class="card">
+      <h3><a href="/guides/independent-living/">Independent Living for Seniors: What It Is and What It Costs</a></h3>
+      <p class="desc">What independent living includes, what it costs, and what it doesn't cover — a plain-spoken guide for families weighing this first step in senior living.</p>
+    </li>
+    <li class="card">
       <h3><a href="/guides/levels-of-care-explained/">Levels of Care Explained: Independent Living to Hospice</a></h3>
-      <p class="desc">Understand independent living, assisted living, memory care, and skilled nursing — what each level of care provides, costs, and how needs change.</p>
+      <p class="desc">Every senior care level in one overview — independent living, assisted living, memory care, skilled nursing, respite, CCRCs, and hospice — with links to deep guides.</p>
     </li>
     <li class="card">
       <h3><a href="/guides/medical-and-non-medical-services/">Medical vs. Non-Medical Services in Senior Living Explained</a></h3>
@@ -286,6 +317,14 @@ industry insiders. One topic per page, straight answers, no sales pitch.</p>
     <li class="card">
       <h3><a href="/guides/memory-care/">Memory Care Explained: Costs, Quality, and When to Move</a></h3>
       <p class="desc">What memory care provides for dementia and Alzheimer's, what it costs, when to move from assisted living, and how to spot truly good memory care.</p>
+    </li>
+    <li class="card">
+      <h3><a href="/guides/respite-care/">Respite Care: Short Stays, Costs, and the Trial-Run Secret</a></h3>
+      <p class="desc">What respite care is, what short-term senior living stays cost per day, and how to use a respite stay as a trial run before committing to a community.</p>
+    </li>
+    <li class="card">
+      <h3><a href="/guides/skilled-nursing/">Skilled Nursing Explained: Rehab vs Long-Term Care Costs</a></h3>
+      <p class="desc">Skilled nursing homes explained: short-term Medicare rehab vs long-term nursing care, real monthly costs, Five-Star ratings, and choosing a facility fast.</p>
     </li>
     <li class="card">
       <h3><a href="/guides/types-of-senior-living-facilities/">Types of Senior Living Facilities: Sizes, Models, Costs</a></h3>

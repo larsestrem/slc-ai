@@ -4,7 +4,7 @@ title: "Avamere Rehabilitation of Oregon City"
 seo_title: "Avamere Rehabilitation of Oregon City — Senior Living in Oregon City, OR"
 description: "Avamere Rehabilitation of Oregon City is a 111-bed Medicare- and Medicaid-certified skilled nursing facility providing short-term rehabilitation and long-term"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Avamere Rehabilitation of Oregon City", "url": "/directory/oregon/clackamas-county/oregon-city/avamere-rehabilitation-of-oregon-city/"}]
-nearby: []
+nearby: [{"name": "The Ridge at Oregon City", "url": "/directory/oregon/clackamas-county/oregon-city/the-ridge-at-oregon-city/", "city_name": "Oregon City", "state_abbrev": "OR", "care_levels": ["independent-living"], "facility_size": "medium", "description": "The Ridge at Oregon City is a newly renovated independent living community operated by Cascade Living Group, offering studio, one-bedroom, and two-bedroom apartments plus two-bedroom cottages. Residents receive chef-prepared, scratch-made meals, housekeeping, and complimentary transportation. Reviews describe a clean, well-maintained community where staff know each resident by name."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"

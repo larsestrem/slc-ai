@@ -1,21 +1,21 @@
 independent-living:
   label: Independent Living
-  guide: /guides/levels-of-care-explained/
+  guide: /guides/independent-living/
 assisted-living:
   label: Assisted Living
-  guide: /guides/levels-of-care-explained/
+  guide: /guides/assisted-living/
 memory-care:
   label: Memory Care
   guide: /guides/memory-care/
 skilled-nursing:
   label: Skilled Nursing
-  guide: /guides/levels-of-care-explained/
+  guide: /guides/skilled-nursing/
 adult-family-home:
   label: Small Care Home
   guide: /guides/adult-family-homes/
 respite-care:
   label: Respite Care
-  guide: /guides/levels-of-care-explained/
+  guide: /guides/respite-care/
 ccrc:
   label: CCRC / Life Plan
-  guide: /guides/types-of-senior-living-facilities/
+  guide: /guides/ccrc-life-plan-communities/

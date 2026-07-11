@@ -68,14 +68,27 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .prose li { margin: .3rem 0; }
 .lead { font-size: 1.12em; color: var(--muted); max-width: var(--prose); }
 
-/* Header / nav */
+/* Header / nav (hamburger on mobile — CSS-only checkbox toggle) */
 .site-header { background: var(--surface); border-bottom: 1px solid var(--line); }
-.site-header .wrap { display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
-.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; }
+.site-header .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
+.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; margin-right: auto; }
 .brand em { color: var(--accent); font-style: normal; }
-.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; margin-left: auto; }
+.nav-toggle-box { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.nav-toggle { display: none; cursor: pointer; font-size: 1.4rem; line-height: 1; color: var(--ink); padding: .2rem .4rem; border-radius: 6px; user-select: none; }
+.nav-toggle .nav-close { display: none; }
+.nav-toggle-box:focus-visible + .nav-toggle { outline: 2px solid var(--accent); outline-offset: 2px; }
+.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
 .site-nav a { text-decoration: none; color: var(--muted); font-weight: 500; padding: .2rem .1rem; }
 .site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--accent-strong); }
+@media (max-width: 46rem) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; }
+  .nav-toggle-box:checked ~ .site-nav { display: flex; flex-direction: column; flex-basis: 100%; gap: 0; padding: .4rem 0 .2rem; border-top: 1px solid var(--line); margin-top: .5rem; }
+  .nav-toggle-box:checked ~ .site-nav a { padding: .55rem .2rem; font-size: 1.05rem; border-bottom: 1px solid var(--line); }
+  .nav-toggle-box:checked ~ .site-nav a:last-child { border-bottom: 0; }
+  .nav-toggle-box:checked + .nav-toggle .nav-open { display: none; }
+  .nav-toggle-box:checked + .nav-toggle .nav-close { display: block; }
+}
 
 /* Breadcrumbs */
 .crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem 0 0; }
@@ -200,6 +213,8 @@ tbody tr:hover { background: var(--soft); }
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/">senior<em>.living.community</em></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-box">
+    <label for="nav-toggle" class="nav-toggle" aria-label="Menu"><span class="nav-open">&#9776;</span><span class="nav-close">&#10005;</span></label>
     <nav class="site-nav" aria-label="Main">
       <a href="/directory/">Directory</a>
       <a href="/guides/">Guides</a>
@@ -234,15 +249,19 @@ staffing, and care assessments — but quality still varies building to building
 <li class="card"><h3><a href="/organizations/atria-senior-living/">Atria Senior Living</a></h3>
 <p class="meta">Louisville, Kentucky · 2 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/avamere/">Avamere</a></h3>
-<p class="meta">Wilsonville, Oregon · 3 in our directory</p></li>
+<p class="meta">Wilsonville, Oregon · 4 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/belmont-village-senior-living/">Belmont Village Senior Living</a></h3>
 <p class="meta">1 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/bonaventure-senior-living/">Bonaventure Senior Living</a></h3>
 <p class="meta">Salem, Oregon · 3 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/brookdale-senior-living/">Brookdale Senior Living</a></h3>
-<p class="meta">Brentwood, Tennessee · 4 in our directory</p></li>
+<p class="meta">Brentwood, Tennessee · 6 in our directory</p></li>
+<li class="card"><h3><a href="/organizations/cascade-living-group/">Cascade Living Group</a></h3>
+<p class="meta">Bothell, Washington · 2 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/cascadia-healthcare/">Cascadia Healthcare</a></h3>
-<p class="meta">1 in our directory</p></li>
+<p class="meta">Eagle, Idaho · 2 in our directory</p></li>
+<li class="card"><h3><a href="/organizations/cogir-senior-living/">Cogir Senior Living</a></h3>
+<p class="meta">Scottsdale, Arizona · 3 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/edgewood-healthcare/">Edgewood Healthcare</a></h3>
 <p class="meta">Grand Forks, North Dakota · 2 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/era-living/">Era Living</a></h3>
@@ -255,14 +274,22 @@ staffing, and care assessments — but quality still varies building to building
 <p class="meta">1 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/grace-assisted-living/">Grace Assisted Living</a></h3>
 <p class="meta">1 in our directory</p></li>
+<li class="card"><h3><a href="/organizations/hawthorn-senior-living/">Hawthorn Senior Living</a></h3>
+<p class="meta">1 in our directory</p></li>
+<li class="card"><h3><a href="/organizations/highgate-senior-living/">Highgate Senior Living</a></h3>
+<p class="meta">Issaquah, Washington · 1 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/humangood/">HumanGood</a></h3>
-<p class="meta">2 in our directory</p></li>
+<p class="meta">Duarte, California · 3 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/koelsch-communities/">Koelsch Communities</a></h3>
 <p class="meta">Olympia, Washington · 1 in our directory</p></li>
+<li class="card"><h3><a href="/organizations/leisure-care/">Leisure Care</a></h3>
+<p class="meta">Seattle, Washington · 1 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/life-care-centers-of-america/">Life Care Centers of America</a></h3>
 <p class="meta">Cleveland, Tennessee · 3 in our directory</p></li>
+<li class="card"><h3><a href="/organizations/marquis-companies/">Marquis Companies</a></h3>
+<p class="meta">Milwaukie, Oregon · 2 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/merrill-gardens/">Merrill Gardens</a></h3>
-<p class="meta">1 in our directory</p></li>
+<p class="meta">Seattle, Washington · 3 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/morningstar-senior-living/">MorningStar Senior Living</a></h3>
 <p class="meta">Denver, Colorado · 1 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/oakmont-senior-living/">Oakmont Senior Living</a></h3>
@@ -270,15 +297,25 @@ staffing, and care assessments — but quality still varies building to building
 <li class="card"><h3><a href="/organizations/pacific-retirement-services/">Pacific Retirement Services</a></h3>
 <p class="meta">2 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/prestige-care/">Prestige Care</a></h3>
-<p class="meta">Vancouver, Washington · 4 in our directory</p></li>
+<p class="meta">Vancouver, Washington · 5 in our directory</p></li>
+<li class="card"><h3><a href="/organizations/regency-pacific-management/">Regency Pacific Management</a></h3>
+<p class="meta">Bellevue, Washington · 2 in our directory</p></li>
+<li class="card"><h3><a href="/organizations/senior-lifestyle/">Senior Lifestyle</a></h3>
+<p class="meta">Chicago, Illinois · 1 in our directory</p></li>
+<li class="card"><h3><a href="/organizations/senior-resource-group/">Senior Resource Group</a></h3>
+<p class="meta">Solana Beach, California · 1 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/silverado/">Silverado</a></h3>
 <p class="meta">1 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/sunrise-senior-living/">Sunrise Senior Living</a></h3>
 <p class="meta">McLean, Virginia · 2 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/the-ensign-group/">The Ensign Group</a></h3>
 <p class="meta">1 in our directory</p></li>
+<li class="card"><h3><a href="/organizations/the-springs-living/">The Springs Living</a></h3>
+<p class="meta">McMinnville, Oregon · 5 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/touchmark/">Touchmark</a></h3>
-<p class="meta">3 in our directory</p></li>
+<p class="meta">Beaverton, Oregon · 4 in our directory</p></li>
+<li class="card"><h3><a href="/organizations/veterans-care-centers-of-oregon/">Veterans Care Centers of Oregon</a></h3>
+<p class="meta">Oregon · 1 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/vi/">Vi</a></h3>
 <p class="meta">1 in our directory</p></li>
 <li class="card"><h3><a href="/organizations/westmont-living/">Westmont Living</a></h3>

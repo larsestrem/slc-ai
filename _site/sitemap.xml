@@ -10,7 +10,13 @@
     <loc>https://senior.living.community/placement-professionals/apply/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/guides/assisted-living/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/guides/caring-from-a-distance/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/guides/ccrc-life-plan-communities/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/guides/coping-with-the-decision/</loc><lastmod>2026-07-11</lastmod>
@@ -34,10 +40,16 @@
     <loc>https://senior.living.community/guides/home-care-or-facility/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/guides/hospice-and-palliative-care/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/guides/how-to-choose-a-senior-care-facility/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/guides/in-home-care-explained/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/guides/independent-living/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/news/</loc>
@@ -178,10 +190,43 @@
     <loc>https://senior.living.community/directory/oregon/lane-county/eugene/avamere-rehabilitation-of-eugene/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/oregon/deschutes-county/la-pine/prairie-house-assisted-living-and-memory-care/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/deschutes-county/bend/whispering-winds-retirement/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/deschutes-county/bend/brookdale-bend/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/deschutes-county/bend/cascades-of-bend/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/oregon/deschutes-county/bend/touchmark-at-mount-bachelor-village/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/oregon/deschutes-county/bend/bend-transitional-care/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/deschutes-county/bend/fox-hollow-independent-and-assisted-living/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/oregon/deschutes-county/bend/prestige-senior-living-high-desert/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/deschutes-county/redmond/regency-redmond-rehabilitation-and-nursing-center/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/benton-county/corvallis/regent-court/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/benton-county/corvallis/timberhill-place/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/benton-county/corvallis/stoneybrook-lodge/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/marion-county/woodburn/country-meadows-village/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/marion-county/mount-angel/mt-angel-health-and-rehabilitation/</loc><lastmod>2026-07-11</lastmod>
@@ -193,22 +238,97 @@
     <loc>https://senior.living.community/directory/oregon/marion-county/salem/felicity-haven-adult-foster-home/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/oregon/washington-county/hillsboro/the-springs-at-tanasbourne/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/washington-county/forest-grove/jennings-mccall-center/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/washington-county/tualatin/marquis-tualatin/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/washington-county/beaverton/the-springs-at-murrayhill/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/washington-county/sherwood/merrill-gardens-at-sherwood/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/yamhill-county/newberg/friendsview-retirement-community/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/oregon/yamhill-county/newberg/willow-place/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/yamhill-county/mcminnville/hillside-retirement-community/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/polk-county/dallas/dallas-retirement-village/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/polk-county/salem/prestige-senior-living-orchard-heights/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/oregon/linn-county/lebanon/edward-c-allworth-veterans-home/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/linn-county/lebanon/the-oaks-at-lebanon/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/linn-county/albany/mennonite-village/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/linn-county/albany/brookdale-grand-prairie/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/crook-county/prineville/ochoco-village-assisted-living/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/oregon/jackson-county/medford/prestige-senior-living-arbor-place/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/clackamas-county/milwaukie/willamette-view/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/clackamas-county/lake-oswego/marys-woods/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/clackamas-county/lake-oswego/the-springs-at-carman-oaks/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/clackamas-county/wilsonville/springridge-at-charbonneau/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/clackamas-county/oregon-city/avamere-rehabilitation-of-oregon-city/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/oregon/clackamas-county/oregon-city/the-ridge-at-oregon-city/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/clackamas-county/canby/marquis-hope-village/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/clackamas-county/canby/hope-village/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/clackamas-county/happy-valley/the-springs-at-happy-valley/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/multnomah-county/gresham/courtyard-fountains/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/mirabella-portland/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/terwilliger-plaza/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/brookdale-oswego-springs-portland/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/holladay-park-plaza/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/russellville-park/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/</loc>
@@ -226,16 +346,43 @@
     <loc>https://senior.living.community/directory/washington/pierce-county/tacoma/franke-tobey-jones/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/washington/clark-county/battle-ground/mallard-landing-by-cogir/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/washington/clark-county/camas/lacamas-creek-post-acute/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/washington/clark-county/vancouver/cogir-at-the-quarry/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/washington/clark-county/vancouver/best-care-adult-family-home/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/washington/clark-county/vancouver/highgate-at-vancouver/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/washington/clark-county/vancouver/the-springs-at-the-waterfront/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/washington/clark-county/vancouver/prestige-senior-living-bridgewood/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/washington/clark-county/vancouver/cogir-of-glenwood-place/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/washington/clark-county/vancouver/touchmark-at-fairway-village/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/washington/clark-county/vancouver/truewood-by-merrill-vancouver/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/washington/clark-county/vancouver/hudson-bay-health-and-rehabilitation/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/washington/clark-county/vancouver/bonaventure-of-vancouver/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/washington/clark-county/washougal/columbia-ridge-senior-living/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/washington/clallam-county/sequim/avamere-olympic-rehabilitation-of-sequim/</loc><lastmod>2026-07-11</lastmod>
@@ -256,10 +403,22 @@
     <loc>https://senior.living.community/directory/washington/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/hawthorn-senior-living/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/bonaventure-senior-living/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/morningstar-senior-living/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/marquis-companies/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/cascade-living-group/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/senior-lifestyle/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/era-living/</loc>
@@ -298,6 +457,12 @@
     <loc>https://senior.living.community/organizations/atria-senior-living/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/regency-pacific-management/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/cogir-senior-living/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/prestige-care/</loc>
   </url>
   <url>
@@ -316,6 +481,9 @@
     <loc>https://senior.living.community/organizations/oakmont-senior-living/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/highgate-senior-living/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/merrill-gardens/</loc>
   </url>
   <url>
@@ -325,7 +493,19 @@
     <loc>https://senior.living.community/organizations/aegis-living/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/leisure-care/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/life-care-centers-of-america/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/the-springs-living/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/veterans-care-centers-of-oregon/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/senior-resource-group/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/belmont-village-senior-living/</loc>
@@ -385,10 +565,16 @@
     <loc>https://senior.living.community/guides/reading-inspection-reports-and-ratings/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/guides/respite-care/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/guides/shared-vs-private-rooms/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/guides/signs-your-parent-needs-help/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/guides/skilled-nursing/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/guides/staffing-ratios/</loc><lastmod>2026-07-11</lastmod>

@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Cascadia Healthcare — Senior Living Communities &amp; Locations | Senior Living Community</title>
-<meta name="description" content="Cascadia Healthcare senior living communities: locations in our directory, company facts, and how to evaluate each community.">
+<meta name="description" content="Cascadia Healthcare is a post-acute care company headquartered in Eagle, Idaho. It operates skilled nursing and rehabilitation facilities across the Pacific N">
 <link rel="canonical" href="https://senior.living.community/organizations/cascadia-healthcare/">
 <meta property="og:site_name" content="Senior Living Community">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Cascadia Healthcare — Senior Living Communities &amp; Locations">
-<meta property="og:description" content="Cascadia Healthcare senior living communities: locations in our directory, company facts, and how to evaluate each community.">
+<meta property="og:description" content="Cascadia Healthcare is a post-acute care company headquartered in Eagle, Idaho. It operates skilled nursing and rehabilitation facilities across the Pacific N">
 <meta property="og:url" content="https://senior.living.community/organizations/cascadia-healthcare/">
 <meta name="theme-color" content="#2f6f62">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%232f6f62'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
@@ -68,14 +68,27 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .prose li { margin: .3rem 0; }
 .lead { font-size: 1.12em; color: var(--muted); max-width: var(--prose); }
 
-/* Header / nav */
+/* Header / nav (hamburger on mobile — CSS-only checkbox toggle) */
 .site-header { background: var(--surface); border-bottom: 1px solid var(--line); }
-.site-header .wrap { display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
-.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; }
+.site-header .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
+.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; margin-right: auto; }
 .brand em { color: var(--accent); font-style: normal; }
-.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; margin-left: auto; }
+.nav-toggle-box { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.nav-toggle { display: none; cursor: pointer; font-size: 1.4rem; line-height: 1; color: var(--ink); padding: .2rem .4rem; border-radius: 6px; user-select: none; }
+.nav-toggle .nav-close { display: none; }
+.nav-toggle-box:focus-visible + .nav-toggle { outline: 2px solid var(--accent); outline-offset: 2px; }
+.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
 .site-nav a { text-decoration: none; color: var(--muted); font-weight: 500; padding: .2rem .1rem; }
 .site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--accent-strong); }
+@media (max-width: 46rem) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; }
+  .nav-toggle-box:checked ~ .site-nav { display: flex; flex-direction: column; flex-basis: 100%; gap: 0; padding: .4rem 0 .2rem; border-top: 1px solid var(--line); margin-top: .5rem; }
+  .nav-toggle-box:checked ~ .site-nav a { padding: .55rem .2rem; font-size: 1.05rem; border-bottom: 1px solid var(--line); }
+  .nav-toggle-box:checked ~ .site-nav a:last-child { border-bottom: 0; }
+  .nav-toggle-box:checked + .nav-toggle .nav-open { display: none; }
+  .nav-toggle-box:checked + .nav-toggle .nav-close { display: block; }
+}
 
 /* Breadcrumbs */
 .crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem 0 0; }
@@ -200,6 +213,8 @@ tbody tr:hover { background: var(--soft); }
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/">senior<em>.living.community</em></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-box">
+    <label for="nav-toggle" class="nav-toggle" aria-label="Menu"><span class="nav-open">&#9776;</span><span class="nav-close">&#10005;</span></label>
     <nav class="site-nav" aria-label="Main">
       <a href="/directory/">Directory</a>
       <a href="/guides/">Guides</a>
@@ -226,9 +241,9 @@ tbody tr:hover { background: var(--soft); }
   <main id="main" class="wrap">
     <article>
   <h1>Cascadia Healthcare</h1>
-  <p class="lead"></p>
+  <p class="lead">Cascadia Healthcare is a post-acute care company headquartered in Eagle, Idaho. It operates skilled nursing and rehabilitation facilities across the Pacific Northwest and Mountain West, including Hudson Bay Health and Rehabilitation in Vancouver and Brookfield Health and Rehabilitation in Battle Ground, Washington.</p>
   <section class="panel">
-    <dl class="kv">
+    <dl class="kv"><dt>Headquarters</dt><dd>Eagle, Idaho</dd><dt>States</dt><dd>ID, WA</dd><dt>Website</dt><dd><a href="https://www.cascadiahc.com/" rel="noopener nofollow">cascadiahc.com</a></dd>
     </dl>
   </section>
 
@@ -237,11 +252,22 @@ tbody tr:hover { background: var(--soft); }
   <h2>Cascadia Healthcare communities in our directory</h2>
   <ul class="grid">
     <li class="card">
+  <h3><a href="/directory/washington/clark-county/vancouver/hudson-bay-health-and-rehabilitation/">Hudson Bay Health and Rehabilitation</a></h3>
+  <p class="meta">Vancouver, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Hudson Bay Health and Rehabilitation is a 92-bed Medicare- and Medicaid-certified skilled nursing facility in Vancouver operated by Casca...</p>
+</li>
+
+    <li class="card">
   <h3><a href="/directory/idaho/twin-falls-county/twin-falls/twin-falls-transitional-care-of-cascadia/">Twin Falls Transitional Care of Cascadia</a></h3>
   <p class="meta">Twin Falls, ID</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/levels-of-care-explained/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Twin Falls Transitional Care of Cascadia is a 116-bed Medicare- and Medicaid-certified skilled nursing facility providing rehabilitation ...</p>
 </li>

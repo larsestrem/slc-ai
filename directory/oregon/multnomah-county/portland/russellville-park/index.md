@@ -1,0 +1,27 @@
+---
+layout: "facility"
+title: "Russellville Park"
+seo_title: "Russellville Park — Senior Living in Portland, OR"
+description: "Russellville Park is a 187-unit senior living campus in east Portland offering independent living, assisted living, and memory care under one roof. The commun"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Russellville Park", "url": "/directory/oregon/multnomah-county/portland/russellville-park/"}]
+nearby: [{"name": "Brookdale Oswego Springs Portland", "url": "/directory/oregon/multnomah-county/portland/brookdale-oswego-springs-portland/", "city_name": "Portland", "state_abbrev": "OR", "care_levels": ["assisted-living"], "description": "Brookdale Oswego Springs Portland is an assisted living community in southwest Portland operated by Brookdale Senior Living, the largest senior living operator in the United States. The community provides personal care assistance, dining, and activity programming in a residential setting near the Lake Oswego border."}, {"name": "Mirabella Portland", "url": "/directory/oregon/multnomah-county/portland/mirabella-portland/", "city_name": "Portland", "state_abbrev": "OR", "care_levels": ["independent-living", "assisted-living", "skilled-nursing", "ccrc"], "description": "Mirabella Portland is a high-rise continuing care retirement community in Portland's South Waterfront district, offering independent living, assisted living, and skilled nursing in one building. It is affiliated with Pacific Retirement Services, a nonprofit senior living organization headquartered in Medford, Oregon."}, {"name": "Terwilliger Plaza", "url": "/directory/oregon/multnomah-county/portland/terwilliger-plaza/", "city_name": "Portland", "state_abbrev": "OR", "care_levels": ["ccrc", "independent-living", "assisted-living", "memory-care"], "facility_size": "large", "description": "Terwilliger Plaza is a stand-alone nonprofit continuing care retirement community founded in 1962, located just south of downtown Portland. The community offers about 245 independent-living apartments plus 60 assisted-living beds, with 24/7 on-site licensed nurses and memory support services. Amenities include an aquatic center, wellness center, restaurant dining, and transportation."}, {"name": "Holladay Park Plaza", "url": "/directory/oregon/multnomah-county/portland/holladay-park-plaza/", "city_name": "Portland", "state_abbrev": "OR", "care_levels": ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"], "facility_size": "large", "description": "Holladay Park Plaza is a nonprofit continuing care retirement community in Portland's Lloyd District, affiliated with Pacific Retirement Services. It offers independent living across more than 30 floor plans in three buildings, plus residential (assisted) living, memory care, and on-site skilled nursing. Residents are steps from the MAX light rail, Lloyd Center, and downtown Portland."}]
+state: "oregon"
+state_name: "Oregon"
+state_abbrev: "OR"
+county: "multnomah"
+county_name: "Multnomah"
+city: "portland"
+city_name: "Portland"
+address: "20 SE 103rd Ave"
+zip: "97216"
+website: "https://russellvillepark.com/"
+care_levels: ["independent-living", "assisted-living", "memory-care"]
+facility_size: "large"
+capacity: 187
+organization: "leisure-care"
+organization_name: "Leisure Care"
+sources: ["https://russellvillepark.com/", "https://health.usnews.com/best-senior-living/russellville-park-1380", "https://www.caring.com/senior-living/oregon/portland/russellville-park-97216"]
+verified_date: "2026-07-11"
+description_full: "Russellville Park is a 187-unit senior living campus in east Portland offering independent living, assisted living, and memory care under one roof. The community sits directly on the MAX light-rail line near Mall 205 shopping and medical services. U.S. News named it a Best Senior Living community for independent living and memory care, with an overall score of 4.4 from more than 500 resident and family ratings."
+licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+---

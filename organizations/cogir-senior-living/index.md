@@ -1,0 +1,13 @@
+---
+layout: "organization"
+title: "Cogir Senior Living"
+seo_title: "Cogir Senior Living — Senior Living Communities & Locations"
+description: "Cogir Senior Living is the U.S. senior housing arm of Montreal-based Cogir Real Estate, with its U.S. headquarters in Scottsdale, Arizona. After merging with "
+org_description: "Cogir Senior Living is the U.S. senior housing arm of Montreal-based Cogir Real Estate, with its U.S. headquarters in Scottsdale, Arizona. After merging with Cadence Living, the company grew from about a dozen U.S. communities in 2020 to nearly 100 communities totaling roughly 11,000 units, offering independent living, assisted living, and memory care."
+headquarters: "Scottsdale, Arizona"
+website: "https://cogirusa.com/"
+facility_count_approx: 100
+org_states: ["WA", "AZ"]
+facilities: [{"name": "Cogir at The Quarry", "url": "/directory/washington/clark-county/vancouver/cogir-at-the-quarry/", "city_name": "Vancouver", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "facility_size": "large", "description": "Cogir at The Quarry is a large senior living campus at Columbia Tech Center in east Vancouver offering independent living, assisted living, and memory care. The community features a saltwater pool, gym, salon, theater, cafe, and multiple dining venues, with on-site rehabilitation and physical therapy resources frequently praised by reviewers."}, {"name": "Cogir of Glenwood Place", "url": "/directory/washington/clark-county/vancouver/cogir-of-glenwood-place/", "city_name": "Vancouver", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "facility_size": "large", "description": "Cogir of Glenwood Place (formerly Glenwood Place Senior Living) is a craftsman-style senior living community in the Orchards area of Vancouver with 253 licensed beds. It offers independent living, assisted living, and memory care, and reviewers praise its amenities, social programming, and friendly direct-care staff."}, {"name": "Mallard Landing by Cogir", "url": "/directory/washington/clark-county/battle-ground/mallard-landing-by-cogir/", "city_name": "Battle Ground", "state_abbrev": "WA", "care_levels": ["assisted-living"], "facility_size": "large", "description": "Mallard Landing by Cogir is an 85-bed licensed assisted living community in downtown Battle Ground offering assisted living apartments and senior living services including medication management, diabetic care, and higher-acuity support. Reviewers praise the friendly staff, cheerful atmosphere, and well-maintained surroundings."}]
+crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Cogir Senior Living", "url": "/organizations/cogir-senior-living/"}]
+---

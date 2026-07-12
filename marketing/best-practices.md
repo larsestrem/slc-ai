@@ -64,3 +64,31 @@ A waitlist isn't vanity. An empty bed at **$6,000**/month bleeds roughly **$200 
 ## If you want a second pair of eyes
 
 That's the playbook, and you can run all of it yourself. If you'd rather rent senior-care-specific marketing expertise than hire for it — most communities can't justify a dedicated digital marketer, and generic agencies don't know a care assessment from a CCRC contract — email **marketing@senior.living.community**. Nonprofit? Start with the [Google Ad Grant program](/marketing/ad-grants/): up to **$10,000**/month of donated search advertising most eligible communities never claim.
+
+
+## Staffing: the marketing problem nobody calls marketing
+
+Every operator says hiring and retention is their hardest problem — and most treat it as
+pure HR. Half of it is. Retention comes from inside the building: fair schedules posted
+early, leadership that works the floor on hard days, recognizing the aides residents love,
+real growth paths from caregiver to med tech to lead. Happier staff make happier residents;
+happier residents make the job worth keeping. That loop is yours to build, not ours.
+
+But the other half is genuinely marketing: most communities' "careers" presence is a PDF
+and an Indeed post. The same targeted-search machinery that brings families brings
+applicants — campaigns aimed at caregivers within commuting distance, a careers page that
+loads fast and applies in two minutes, and job content that says what shifts actually pay.
+Communities that treat applicant flow like admissions flow stop hiring from desperation —
+which is exactly how they stop losing their best people to burnout from running short.
+
+## Resident life: programs are a magnet, not a cost
+
+Engagement isn't a nice-to-have — residents who stay mentally and physically active
+genuinely do better, and families choose (and review) communities based on what daily life
+looks like. You don't have to build it all in-house: local yoga and chair-fitness
+instructors, salons, music and dance programs, gardening clubs, and intergenerational
+visits can be brought in. If finding those providers is the bottleneck, that's a targeted
+outreach problem — the same discipline as finding residents, pointed at a different
+audience — and a real activity calendar becomes some of the best marketing content a
+community can publish: it photographs well, it answers the question every family silently
+asks on tour, and it's true.

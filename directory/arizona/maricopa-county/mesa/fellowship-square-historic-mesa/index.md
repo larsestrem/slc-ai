@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Fellowship Square Historic Mesa"
 seo_title: "Fellowship Square Historic Mesa — Senior Living in Mesa, AZ"

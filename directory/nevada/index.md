@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "state"
 care_level_counts: [{"slug": "assisted-living", "count": 18}, {"slug": "memory-care", "count": 17}, {"slug": "independent-living", "count": 7}, {"slug": "skilled-nursing", "count": 7}, {"slug": "respite-care", "count": 3}, {"slug": "ccrc", "count": 1}]
 title: "Nevada Senior Living"

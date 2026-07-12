@@ -56,6 +56,8 @@ def read_states_meta():
                 cur["licensing"][key.strip()] = val
             elif key.strip() in ("name", "abbrev"):
                 cur[key.strip()] = val
+            elif key.strip() == "hidden":
+                cur["hidden"] = val.strip().lower() == "true" 
     return states
 
 
@@ -416,6 +418,11 @@ def gen_state(state, states_meta, stats, geo, regions):
         gen_state_page_regions(state, facs, meta, geo, state_regions)
     else:
         gen_state_page(state, facs, meta, geo)
+    if meta.get("hidden"):
+        for page in (DIRECTORY / state).rglob("index.md"):
+            txt = page.read_text()
+            if "\nnoindex:" not in txt:
+                page.write_text(txt.replace("---\n", "---\nnoindex: true\n", 1))
     stats["states"][state] = {
         "facilities": len(facs),
         "cities": len({(f["county"], f["city"]) for f in facs}),

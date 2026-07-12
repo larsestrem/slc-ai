@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Legacy House of Centennial Hills"
 seo_title: "Legacy House of Centennial Hills — Senior Living in Las Vegas, NV"

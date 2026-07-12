@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Summit Ridge"
 seo_title: "Atria Summit Ridge — Senior Living in Reno, NV"

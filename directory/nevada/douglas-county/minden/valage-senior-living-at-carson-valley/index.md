@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Valage Senior Living at Carson Valley"
 seo_title: "Valage Senior Living at Carson Valley — Senior Living in Minden, NV"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "MorningStar Senior Living of Sparks"
 seo_title: "MorningStar Senior Living of Sparks — Senior Living in Sparks, NV"

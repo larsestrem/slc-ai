@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Kiley Ranch Senior Living"
 seo_title: "Kiley Ranch Senior Living — Senior Living in Sparks, NV"

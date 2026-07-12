@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Golden Villa Care Home"
 seo_title: "Golden Villa Care Home — Senior Living in Las Vegas, NV"

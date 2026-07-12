@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Legacy House of Logan"
 seo_title: "Legacy House of Logan — Senior Living in Logan, UT"

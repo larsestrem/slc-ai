@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Summerset Senior Living Reno"
 seo_title: "Summerset Senior Living Reno — Senior Living in Reno, NV"

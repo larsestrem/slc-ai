@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Brookdale Reno"
 seo_title: "Brookdale Reno — Senior Living in Reno, NV"

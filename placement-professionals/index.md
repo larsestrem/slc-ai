@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: page
 title: "Senior Living Placement Professionals — Vetted Local Advisors"
 description: "What placement advisors do, how they're paid, how to verify one yourself — and the 10 things we check before listing any advisor in our directory."

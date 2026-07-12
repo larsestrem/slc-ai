@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "state"
 care_level_counts: [{"slug": "assisted-living", "count": 11}, {"slug": "memory-care", "count": 11}, {"slug": "independent-living", "count": 6}, {"slug": "respite-care", "count": 2}, {"slug": "skilled-nursing", "count": 1}]
 title: "Utah Senior Living"

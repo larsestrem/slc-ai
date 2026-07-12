@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "state"
 care_level_counts: [{"slug": "assisted-living", "count": 12}, {"slug": "memory-care", "count": 12}, {"slug": "skilled-nursing", "count": 8}, {"slug": "independent-living", "count": 7}, {"slug": "respite-care", "count": 3}, {"slug": "ccrc", "count": 3}]
 title: "Colorado Senior Living"

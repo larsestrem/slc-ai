@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Legacy House of Ogden"
 seo_title: "Legacy House of Ogden — Senior Living in Ogden, UT"

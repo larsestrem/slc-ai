@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "region"
 title: "Southern Nevada (Las Vegas Area) Senior Living"
 seo_title: "Senior Living in Southern Nevada (Las Vegas Area), NV — 13 Communities"

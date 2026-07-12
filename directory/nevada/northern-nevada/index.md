@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "region"
 title: "Northern Nevada (Reno & Rural) Senior Living"
 seo_title: "Senior Living in Northern Nevada (Reno & Rural), NV — 12 Communities"

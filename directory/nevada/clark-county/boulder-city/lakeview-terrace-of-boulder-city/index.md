@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Lakeview Terrace of Boulder City"
 seo_title: "Lakeview Terrace of Boulder City — Senior Living in Boulder City, NV"

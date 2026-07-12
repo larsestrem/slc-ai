@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "MorningStar at Mountain Shadows"
 seo_title: "MorningStar at Mountain Shadows — Senior Living in Colorado Springs, CO"

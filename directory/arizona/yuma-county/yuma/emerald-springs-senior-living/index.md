@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Emerald Springs Senior Living"
 seo_title: "Emerald Springs Senior Living — Senior Living in Yuma, AZ"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Life Care Center of Las Vegas"
 seo_title: "Life Care Center of Las Vegas — Senior Living in Las Vegas, NV"

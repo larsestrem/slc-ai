@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Vista Pointe at Lake Havasu City"
 seo_title: "Vista Pointe at Lake Havasu City — Senior Living in Lake Havasu City, AZ"

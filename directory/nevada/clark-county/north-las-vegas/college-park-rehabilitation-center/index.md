@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "College Park Rehabilitation Center"
 seo_title: "College Park Rehabilitation Center — Senior Living in North Las Vegas, NV"

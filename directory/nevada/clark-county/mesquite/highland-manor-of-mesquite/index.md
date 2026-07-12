@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Highland Manor of Mesquite"
 seo_title: "Highland Manor of Mesquite — Senior Living in Mesquite, NV"

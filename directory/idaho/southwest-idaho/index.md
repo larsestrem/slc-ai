@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "region"
 title: "Treasure Valley & Southwest Senior Living"
 seo_title: "Senior Living in Treasure Valley & Southwest, ID — 13 Communities"

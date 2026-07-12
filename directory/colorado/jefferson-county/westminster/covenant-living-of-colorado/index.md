@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Covenant Living of Colorado"
 seo_title: "Covenant Living of Colorado — Senior Living in Westminster, CO"

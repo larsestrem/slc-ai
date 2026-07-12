@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Fountains at La Cholla"
 seo_title: "The Fountains at La Cholla — Senior Living in Tucson, AZ"

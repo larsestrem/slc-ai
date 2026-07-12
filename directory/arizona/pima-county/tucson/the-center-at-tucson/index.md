@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Center at Tucson"
 seo_title: "The Center at Tucson — Senior Living in Tucson, AZ"

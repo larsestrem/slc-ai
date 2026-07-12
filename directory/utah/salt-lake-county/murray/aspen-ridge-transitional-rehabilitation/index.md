@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Aspen Ridge Transitional Rehabilitation"
 seo_title: "Aspen Ridge Transitional Rehabilitation — Senior Living in Murray, UT"

@@ -4,7 +4,7 @@
       <h2>Directory</h2>
       <ul>
         {%- for st in site.data.states %}
-        {%- if site.data.stats.states[st.slug] %}
+        {%- if site.data.stats.states[st.slug] and st.hidden != true %}
         <li><a href="/directory/{{ st.slug }}/">{{ st.name }} senior living</a></li>
         {%- endif %}
         {%- endfor %}
@@ -28,7 +28,6 @@
         <li><a href="/tools/cost-calculator/">Cost calculator</a></li>
         <li><a href="/about/">About this site</a></li>
         <li><a href="/for-communities/">For senior living communities</a></li>
-        <li><a href="/placement-professionals/">Placement professionals</a></li>
         <li><a href="/news/">News</a></li>
       </ul>
     </div>

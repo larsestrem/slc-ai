@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Blue Lakes Assisted Living"
 seo_title: "Blue Lakes Assisted Living — Senior Living in Scottsdale, AZ"

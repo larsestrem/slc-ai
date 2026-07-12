@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Villa Pueblo Senior Living Community"
 seo_title: "Villa Pueblo Senior Living Community — Senior Living in Pueblo, CO"

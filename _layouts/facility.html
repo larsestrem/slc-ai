@@ -78,7 +78,8 @@ layout: default
         <h2 id="ratings-h">Official Ratings &amp; Inspections</h2>
         {%- if page.cms_ccn %}
         {%- if page.cms_rating_overall %}
-        <p>Medicare overall rating: {% include stars.html rating=page.cms_rating_overall %}</p>
+        <p>Medicare overall rating: {% include stars.html rating=page.cms_rating_overall %}
+        <a href="/guides/reading-inspection-reports-and-ratings/">(what these stars mean)</a></p>
         {%- endif %}
         <p>This community is Medicare-certified for skilled nursing. See its full federal report —
         health inspections, staffing levels, and quality measures — on
@@ -90,12 +91,12 @@ layout: default
         {%- endif %}
         {%- if page.google_rating %}
         <p>Families rate this community <strong>{{ page.google_rating }}/5</strong>{% if page.google_review_count %} across {{ page.google_review_count }} Google reviews{% endif %}{% if page.rating_as_of %} (as of {{ page.rating_as_of | date: "%B %Y" }}){% endif %}. Public
-        reviews are a useful signal — but read the recent ones yourself, and weigh them alongside
-        official inspections.</p>
+        reviews are a useful signal — <a href="/guides/interpreting-online-reviews/">here's how to
+        read them</a> — and weigh them alongside official inspections.</p>
         {%- elsif page.review_note %}
         <p>Family reviews: <strong>{{ page.review_note }}</strong>. Public reviews are a useful
-        signal — but read the recent ones yourself, and weigh them alongside official
-        inspections.</p>
+        signal — <a href="/guides/interpreting-online-reviews/">here's how to read them</a> —
+        and weigh them alongside official inspections.</p>
         {%- endif %}
         <p><a href="/guides/reading-inspection-reports-and-ratings/">How to read ratings and inspection reports</a> —
         and <a href="/guides/checking-complaints-and-state-records/">how to check complaint records fairly</a>

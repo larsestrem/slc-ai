@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Seville"
 seo_title: "Atria Seville — Senior Living in Las Vegas, NV"

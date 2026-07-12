@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sierra Place Senior Living"
 seo_title: "Sierra Place Senior Living — Senior Living in Carson City, NV"

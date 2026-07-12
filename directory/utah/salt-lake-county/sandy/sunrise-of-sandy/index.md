@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sunrise of Sandy"
 seo_title: "Sunrise of Sandy — Senior Living in Sandy, UT"

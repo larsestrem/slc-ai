@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "MorningStar at Golden Ridge"
 seo_title: "MorningStar at Golden Ridge — Senior Living in Peoria, AZ"

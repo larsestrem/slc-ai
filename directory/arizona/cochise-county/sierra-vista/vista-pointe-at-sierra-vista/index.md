@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Vista Pointe at Sierra Vista"
 seo_title: "Vista Pointe at Sierra Vista — Senior Living in Sierra Vista, AZ"

@@ -54,6 +54,18 @@ If you only read one page, read that one. And see
 **[the cost comparison](/marketing/cost-comparison/)** for what a targeted visitor costs
 next to TV, radio, mail, and per-placement referral fees.
 
+**Hiring & Program Marketing** — the two problems every operator names first are staffing
+and programming, and both are marketing problems more than communities realize. The same
+targeted campaigns that bring families can bring **caregiver job applications** — recruiting
+pages that actually rank, ads aimed at CNAs and med techs in your commute radius, and a
+career page that converts. And for resident life, we help you find and market the programs
+that keep minds and bodies engaged: connecting with local providers — salons, yoga and
+chair-fitness instructors, music and dance programs, visiting services — and standing up the
+landing pages and lead forms that bring them to you. Tell us what your community needs;
+we'll build the campaign that finds it. (Retention still starts inside the building — see
+the staffing section of [our free playbook](/marketing/best-practices/) — but a full
+applicant pipeline changes everything about how it feels to run one.)
+
 ## One community per market
 
 We take **one client community within a service radius** — we will not run campaigns for your

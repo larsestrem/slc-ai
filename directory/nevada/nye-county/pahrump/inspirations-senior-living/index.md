@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Inspirations Senior Living"
 seo_title: "Inspirations Senior Living — Senior Living in Pahrump, NV"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Truewood by Merrill, Boise"
 seo_title: "Truewood by Merrill, Boise — Senior Living in Boise, ID"

@@ -4,7 +4,7 @@ title: "Regency at Puakea"
 seo_title: "Regency at Puakea — Senior Living in Lihue, HI"
 description: "Regency at Puakea is Kauai's primary retirement and assisted living community, with 82 apartments on 5.65 landscaped acres in Lihue featuring a pool, spa, and"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Regency at Puakea", "url": "/directory/hawaii/kauai-county/lihue/regency-at-puakea/"}]
-nearby: []
+nearby: [{"name": "Garden Isle Healthcare and Rehabilitation Center", "url": "/directory/hawaii/kauai-county/lihue/garden-isle-healthcare-and-rehabilitation-center/", "city_name": "Lihue", "state_abbrev": "HI", "care_levels": ["skilled-nursing"], "facility_size": "large", "cms_rating_overall": 4, "description": "A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health. It offers short-term rehabilitation with physical, occupational, and speech therapy alongside long-term care, and carries a CMS overall rating of 4 stars (some sources list 5)."}]
 state: "hawaii"
 state_name: "Hawaii"
 state_abbrev: "HI"

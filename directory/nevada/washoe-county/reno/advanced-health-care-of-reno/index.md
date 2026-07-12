@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Advanced Health Care of Reno"
 seo_title: "Advanced Health Care of Reno — Senior Living in Reno, NV"

@@ -330,6 +330,254 @@
         "https://www.assistedlivingcenter.com/facilities/hi/lihue/regency-at-puakea-96766/"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Ivy at Hawaii Kai",
+      "slug": "the-ivy-at-hawaii-kai",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "honolulu",
+      "city_name": "Honolulu",
+      "address": "428 Kawaihae St",
+      "zip": "96825",
+      "phone": "(808) 374-5228",
+      "website": "https://ivyliving.com/theivyhawaiikai/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "oakmont-senior-living",
+      "organization_name": "Oakmont Senior Living",
+      "description": "A large independent living, assisted living, and memory care community in Honolulu's Hawaii Kai neighborhood, operated under the Ivy Living brand of Oakmont Senior Living. The community offers medication management, incontinence care, higher-acuity care, and individualized care plans, and is known for its well-maintained grounds and strong sense of community.",
+      "review_note": "4.3/5 across 94 reviews on A Place for Mom; 4.6/5 across 48 reviews on AssistedLivingCenter.com (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-ivy-hawaii-kai-73263",
+        "https://www.assistedlivingcenter.com/facilities/hi/honolulu/the-ivy-at-hawaii-kai-96825/",
+        "https://ivyliving.com/theivyhawaiikai/",
+        "https://www.assistedliving.org/hawaii/honolulu/the-ivy-at-hawaii-kai/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Holiday Kalama Heights",
+      "slug": "holiday-kalama-heights",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "maui",
+      "county_name": "Maui",
+      "city": "kihei",
+      "city_name": "Kihei",
+      "address": "101 Kanani Rd",
+      "zip": "96753",
+      "phone": "(808) 879-1500",
+      "website": "https://www.holidayseniorliving.com/retirement-communities/holiday-kalama-heights-kihei-hi",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "organization": "holiday-by-atria",
+      "organization_name": "Holiday by Atria",
+      "description": "A pet-friendly independent senior living community in Kihei on Maui's south shore, minutes from Kamaole Beach Park. Three homestyle meals a day, weekly housekeeping, utilities, and scheduled transportation are bundled into one monthly rate, and residents praise the staff, activities, and beach-close location.",
+      "review_note": "4.5/5 across 15 reviews on Caring.com (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://www.caring.com/senior-living/hawaii/kihei/holiday-kalama-heights",
+        "https://www.holidayseniorliving.com/retirement-communities/holiday-kalama-heights-kihei-hi",
+        "https://www.aplaceformom.com/community/holiday-kalama-heights-73307"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Hale Makua - Wailuku",
+      "slug": "hale-makua-wailuku",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "maui",
+      "county_name": "Maui",
+      "city": "wailuku",
+      "city_name": "Wailuku",
+      "address": "1540 Lower Main St",
+      "zip": "96793",
+      "phone": "(808) 243-1722",
+      "website": "https://www.ohanapacific.com/hale-makua",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 124,
+      "organization": "ohana-pacific-health",
+      "organization_name": "Ohana Pacific Health",
+      "cms_ccn": "125056",
+      "cms_rating_overall": 5,
+      "description": "A 124-bed skilled nursing facility in Wailuku offering long-term care, short-term rehabilitation, and dementia care, part of the Hale Makua Health Services organization founded on Maui in 1947 and now affiliated with Ohana Pacific Health. Medicare rates the facility 5 stars overall, and U.S. News rates it High Performing for both short-term rehab and long-term care.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/hi/hale-makua-health-services-125056",
+        "https://www.ohanapacific.com/hale-makua",
+        "https://everyplace.care/facility/hale-makua-wailuku-wailuku-hi-nf-125056"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Kula Hospital",
+      "slug": "kula-hospital",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "maui",
+      "county_name": "Maui",
+      "city": "kula",
+      "city_name": "Kula",
+      "address": "100 Keokea Pl",
+      "zip": "96790",
+      "phone": "(808) 878-1221",
+      "website": "https://www.mauihealth.org/kula-hospital/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 105,
+      "organization": "maui-health",
+      "organization_name": "Maui Health",
+      "cms_ccn": "125003",
+      "cms_rating_overall": 4,
+      "description": "A hospital-based skilled nursing and intermediate care facility in upcountry Kula on Maui, operated by Maui Health, with 105 long-term care beds. CMS rates it 4 stars overall with 5-star staffing and 5-star quality measures, and U.S. News has repeatedly named it among the nation's Best Nursing Homes with a High Performing rating.",
+      "sources": [
+        "https://www.mauihealth.org/kula-hospital/",
+        "https://assistedlivingmagazine.com/nursing-home/kula-hospital/",
+        "https://www.mauihealth.org/news/releases/kula-hospital-best-nursing-home-award-2024/",
+        "https://www.healthcare4ppl.com/nursing-home/hawaii/kula/kula-hospital-125003.html"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Garden Isle Healthcare and Rehabilitation Center",
+      "slug": "garden-isle-healthcare-and-rehabilitation-center",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "kauai",
+      "county_name": "Kauai",
+      "city": "lihue",
+      "city_name": "Lihue",
+      "address": "3-3420 Kuhio Hwy, Suite 300",
+      "zip": "96766",
+      "phone": "(808) 245-1802",
+      "website": "https://www.ohanapacific.com/gardenislerehabnursing",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 109,
+      "organization": "ohana-pacific-health",
+      "organization_name": "Ohana Pacific Health",
+      "cms_ccn": "125004",
+      "cms_rating_overall": 4,
+      "description": "A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health. It offers short-term rehabilitation with physical, occupational, and speech therapy alongside long-term care, and carries a CMS overall rating of 4 stars (some sources list 5).",
+      "sources": [
+        "https://www.ohanapacific.com/locations/kauai/lihue/garden-isle-rehabilitation-healthcare-center",
+        "https://health.usnews.com/best-nursing-homes/area/hi/garden-isle-healthcare-and-rehabilitation-center-125004",
+        "https://www.nursinghomesite.com/GARDEN_ISLE_HEALTHCARE_AND_REHABILITATION_CENTER_LIHUE_HI"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Ka Punawai Ola",
+      "slug": "ka-punawai-ola",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "kapolei",
+      "city_name": "Kapolei",
+      "address": "91-575 Farrington Hwy",
+      "zip": "96707",
+      "phone": "(808) 674-9262",
+      "website": "https://lcca.com/locations/hi/ka-punawai-ola/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 120,
+      "organization": "life-care-centers-of-america",
+      "organization_name": "Life Care Centers of America",
+      "cms_ccn": "125051",
+      "cms_rating_overall": 4,
+      "description": "A 120-bed skilled nursing and rehabilitation facility in Kapolei operated by Life Care Centers of America; the name is Hawaiian for 'well-spring of health and living waters.' It provides short-term rehabilitation, long-term care, and post-operative recovery, carries a CMS overall rating of 4 stars with 5-star quality measures, and was named a U.S. News 2026 Best Nursing Home with High Performing ratings for both short-term rehab and long-term care.",
+      "sources": [
+        "https://lcca.com/locations/hi/ka-punawai-ola/",
+        "https://health.usnews.com/best-nursing-homes/area/hi/ka-punawai-ola-125051",
+        "https://www.nursinghomedatabase.com/snf/125051"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Villas",
+      "slug": "the-villas-honolulu",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "honolulu",
+      "city_name": "Honolulu",
+      "address": "2230 Liliha St",
+      "zip": "96817",
+      "phone": "(808) 547-6000",
+      "website": "https://www.ohanapacific.com/the-villas",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 163,
+      "organization": "ohana-pacific-health",
+      "organization_name": "Ohana Pacific Health",
+      "cms_ccn": "125064",
+      "cms_rating_overall": 4,
+      "description": "A 163-bed post-acute care and rehabilitation facility on the St. Francis Kupuna Village campus in Honolulu's Liliha neighborhood, operated by Ohana Pacific Health (formerly the Clarence T.C. Ching Villas at St. Francis). It is an innovative short-stay, high-acuity skilled nursing facility serving patients who need clinical and rehabilitative care before returning home, with a CMS overall rating of 4 stars and a U.S. News High Performing rating for short-term rehab.",
+      "sources": [
+        "https://www.ohanapacific.com/the-villas",
+        "https://health.usnews.com/best-nursing-homes/area/hi/the-villas-honolulu-125064",
+        "https://www.nursinghomedatabase.com/snf/125064"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Maunalani Nursing and Rehabilitation Center",
+      "slug": "maunalani-nursing-and-rehabilitation-center",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "honolulu",
+      "city_name": "Honolulu",
+      "address": "5113 Maunalani Cir",
+      "zip": "96816",
+      "phone": "(808) 732-0771",
+      "website": "https://maunalaninursing.org/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 100,
+      "cms_ccn": "125013",
+      "cms_rating_overall": 5,
+      "description": "Honolulu's first not-for-profit skilled nursing facility, open since 1950, sitting atop Wilhelmina Rise in Kaimuki with panoramic views of Diamond Head. The 100-bed 501(c)(3) facility provides long-term care and rehabilitation, and CMS rates it 5 stars overall with 5-star staffing and quality measures.",
+      "sources": [
+        "https://maunalaninursing.org/about/",
+        "https://health.usnews.com/best-nursing-homes/area/hi/maunalani-nursing-and-rehabilitation-center-125013",
+        "https://www.nursinghomesite.com/MAUNALANI_NURSING_AND_REHABILITATION_CENTER_HONOLULU_HI"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [
@@ -389,6 +637,72 @@
       "description": "Regency Pacific manages senior living and care communities across the Pacific Northwest and Hawaii, offering independent living, assisted living, memory care, and skilled nursing. Its Hawaii communities include Regency at Puakea on Kauai and Regency at Hualalai on the Big Island.",
       "sources": [
         "https://www.regency-pacific.com/senior-living/hi/"
+      ]
+    },
+    {
+      "name": "Ohana Pacific Health",
+      "slug": "ohana-pacific-health",
+      "headquarters": "Honolulu, Hawaii",
+      "website": "https://www.ohanapacific.com/",
+      "facility_count_approx": 17,
+      "states": [
+        "HI"
+      ],
+      "description": "Founded on Oahu in 1998, Ohana Pacific Health is the largest post-acute care organization in Hawaii, with 17 health care entities and roughly 1,500 employees across Oahu, Maui, Kauai, and Hawaii Island. Services span long-term care, skilled nursing, rehabilitation, memory care, home health, and adult day health; Maui's Hale Makua Health Services affiliated with the organization in 2023.",
+      "sources": [
+        "https://www.ohanapacific.com/about-us"
+      ]
+    },
+    {
+      "name": "Life Care Centers of America",
+      "slug": "life-care-centers-of-america",
+      "headquarters": "Cleveland, Tennessee",
+      "website": "https://lcca.com/",
+      "facility_count_approx": 200,
+      "description": "Founded in 1976 and headquartered in Cleveland, Tennessee, Life Care Centers of America is one of the largest privately held nursing home operators in the United States, with more than 200 skilled nursing and rehabilitation centers across over 25 states. In Hawaii it operates Ka Punawai Ola in Kapolei and Life Care Center of Hilo.",
+      "sources": [
+        "https://lcca.com/locations/hi/ka-punawai-ola/"
+      ]
+    },
+    {
+      "name": "Holiday by Atria",
+      "slug": "holiday-by-atria",
+      "headquarters": "Louisville, Kentucky",
+      "website": "https://www.holidayseniorliving.com/",
+      "facility_count_approx": 240,
+      "description": "Holiday by Atria is one of the largest independent senior living operators in the United States, running roughly 240 communities nationwide since Holiday Retirement was acquired by Atria Senior Living in 2021. Its communities bundle meals, housekeeping, utilities, and activities into a single monthly rate; Kalama Heights in Kihei is its Maui community.",
+      "sources": [
+        "https://www.holidayseniorliving.com/retirement-communities/holiday-kalama-heights-kihei-hi"
+      ]
+    },
+    {
+      "name": "Oakmont Senior Living",
+      "slug": "oakmont-senior-living",
+      "headquarters": "Windsor, California",
+      "website": "https://ivyliving.com/",
+      "facility_count_approx": 118,
+      "states": [
+        "CA",
+        "NV",
+        "HI"
+      ],
+      "description": "Oakmont Senior Living, with nearly three decades of experience, holds a portfolio of over 100 senior living communities offering independent living, assisted living, and memory care, including the Ivy Living brand. The Ivy at Hawaii Kai in Honolulu is its Hawaii community.",
+      "sources": [
+        "https://www.assistedliving.org/hawaii/honolulu/the-ivy-at-hawaii-kai/"
+      ]
+    },
+    {
+      "name": "Maui Health",
+      "slug": "maui-health",
+      "headquarters": "Wailuku, Hawaii",
+      "website": "https://www.mauihealth.org/",
+      "facility_count_approx": 3,
+      "states": [
+        "HI"
+      ],
+      "description": "Maui Health, affiliated with Kaiser Permanente since 2017, operates Maui Memorial Medical Center, Kula Hospital and Clinic, and Lanai Community Hospital, serving the residents of Maui County. Its Kula Hospital campus includes one of the state's highest-rated hospital-based long-term care units.",
+      "sources": [
+        "https://www.mauihealth.org/kula-hospital/"
       ]
     }
   ]

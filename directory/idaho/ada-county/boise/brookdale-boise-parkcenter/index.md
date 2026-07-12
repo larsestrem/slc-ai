@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Brookdale Boise Parkcenter"
 seo_title: "Brookdale Boise Parkcenter — Senior Living in Boise, ID"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "AltaVita Memory Care Centre"
 seo_title: "AltaVita Memory Care Centre — Senior Living in Longmont, CO"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Lodge Assisted Living and Memory Care Community"
 seo_title: "The Lodge Assisted Living and Memory Care Community — Senior Living in Carson City, NV"

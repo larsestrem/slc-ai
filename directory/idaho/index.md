@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "state"
 care_level_counts: [{"slug": "assisted-living", "count": 22}, {"slug": "memory-care", "count": 15}, {"slug": "independent-living", "count": 14}, {"slug": "respite-care", "count": 5}, {"slug": "skilled-nursing", "count": 3}]
 title: "Idaho Senior Living"

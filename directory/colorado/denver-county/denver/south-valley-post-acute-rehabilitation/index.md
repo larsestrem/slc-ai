@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "South Valley Post Acute Rehabilitation"
 seo_title: "South Valley Post Acute Rehabilitation — Senior Living in Denver, CO"

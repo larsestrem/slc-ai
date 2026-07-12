@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Gables of North Logan"
 seo_title: "The Gables of North Logan — Senior Living in North Logan, UT"

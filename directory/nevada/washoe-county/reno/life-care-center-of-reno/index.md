@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Life Care Center of Reno"
 seo_title: "Life Care Center of Reno — Senior Living in Reno, NV"

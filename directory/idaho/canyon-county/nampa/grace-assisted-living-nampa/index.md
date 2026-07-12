@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Grace Assisted Living - Nampa"
 seo_title: "Grace Assisted Living - Nampa — Senior Living in Nampa, ID"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Touchmark at Meadow Lake Village"
 seo_title: "Touchmark at Meadow Lake Village — Senior Living in Meridian, ID"

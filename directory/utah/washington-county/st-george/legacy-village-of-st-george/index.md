@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Legacy Village of St. George"
 seo_title: "Legacy Village of St. George — Senior Living in St. George, UT"

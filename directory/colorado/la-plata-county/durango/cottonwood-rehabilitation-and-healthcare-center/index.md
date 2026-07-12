@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Cottonwood Rehabilitation and Healthcare Center"
 seo_title: "Cottonwood Rehabilitation and Healthcare Center — Senior Living in Durango, CO"

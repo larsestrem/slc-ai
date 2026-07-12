@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Frasier Retirement Community"
 seo_title: "Frasier Retirement Community — Senior Living in Boulder, CO"

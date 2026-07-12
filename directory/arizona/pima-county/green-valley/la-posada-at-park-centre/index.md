@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "La Posada at Park Centre"
 seo_title: "La Posada at Park Centre — Senior Living in Green Valley, AZ"

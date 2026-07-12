@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Fairfield Village of Layton"
 seo_title: "Fairfield Village of Layton — Senior Living in Layton, UT"

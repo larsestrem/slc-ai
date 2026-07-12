@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Grace Pointe Senior Care Community"
 seo_title: "Grace Pointe Senior Care Community — Senior Living in Greeley, CO"

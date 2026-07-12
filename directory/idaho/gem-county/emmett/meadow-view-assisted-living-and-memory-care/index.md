@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Meadow View Assisted Living and Memory Care"
 seo_title: "Meadow View Assisted Living and Memory Care — Senior Living in Emmett, ID"

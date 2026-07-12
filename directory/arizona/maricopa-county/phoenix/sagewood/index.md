@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sagewood"
 seo_title: "Sagewood — Senior Living in Phoenix, AZ"

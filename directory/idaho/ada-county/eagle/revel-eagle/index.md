@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Revel Eagle"
 seo_title: "Revel Eagle — Senior Living in Eagle, ID"

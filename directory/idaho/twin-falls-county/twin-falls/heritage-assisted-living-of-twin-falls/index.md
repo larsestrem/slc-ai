@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Heritage Assisted Living of Twin Falls"
 seo_title: "Heritage Assisted Living of Twin Falls — Senior Living in Twin Falls, ID"

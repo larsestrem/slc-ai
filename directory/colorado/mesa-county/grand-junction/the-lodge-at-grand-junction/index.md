@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Lodge at Grand Junction"
 seo_title: "The Lodge at Grand Junction — Senior Living in Grand Junction, CO"

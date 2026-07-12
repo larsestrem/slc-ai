@@ -4326,6 +4326,578 @@
         "https://health.usnews.com/best-nursing-homes/area/ca/bayshire-carlsbad-555745"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Belmont Village Encino",
+      "slug": "belmont-village-encino",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "sherman-oaks",
+      "city_name": "Sherman Oaks",
+      "address": "15451 Ventura Blvd",
+      "zip": "91403",
+      "website": "https://www.belmontvillage.com/locations/encino-california/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 150,
+      "organization": "belmont-village-senior-living",
+      "organization_name": "Belmont Village Senior Living",
+      "google_rating": 4.5,
+      "google_review_count": 39,
+      "rating_as_of": "2026-07-12",
+      "description": "Belmont Village Encino is a 150-bed assisted living and memory care community on Ventura Boulevard in Sherman Oaks, on the border of Encino. The community is known for its hotel-style dining, licensed nurses on site, and its Circle of Friends memory support program.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/sherman-oaks-ca/belmont-village-encino/5acd0191a71d8c15cf682646",
+        "https://www.belmontvillage.com/locations/encino-california/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Harbor Terrace Retirement Community",
+      "slug": "harbor-terrace-retirement-community",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "san-pedro",
+      "city_name": "San Pedro",
+      "address": "435 W 8th St",
+      "zip": "90731",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "review_note": "4.6/5 average across 46 reviews on A Place for Mom; review score 9.7/10 based on 15 reviews in the last 2 years (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Harbor Terrace Retirement Community offers independent and assisted living in downtown San Pedro near the Port of Los Angeles. Families consistently praise its warm, family-like staff and clean, welcoming building, and it ranks as the top-rated senior community in San Pedro on several review platforms.",
+      "sources": [
+        "https://www.aplaceformom.com/community/harbor-terrace-retirement-community-54408",
+        "https://www.yelp.com/biz/harbor-terrace-retirement-community-san-pedro"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Mt. San Antonio Gardens",
+      "slug": "mt-san-antonio-gardens",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "pomona",
+      "city_name": "Pomona",
+      "address": "900 E Harrison Ave",
+      "zip": "91767",
+      "phone": "(909) 624-5061",
+      "website": "https://msagardens.org/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "capacity": 520,
+      "review_note": "4.6/5 across 132 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Mt. San Antonio Gardens is a not-for-profit continuing care retirement community on the Pomona-Claremont border, offering independent living, assisted living, memory care, and skilled nursing on one campus of roughly 520 beds. It is among the highest-rated senior communities in the area, with a pool, gym, and extensive resident programming.",
+      "sources": [
+        "https://reviews.birdeye.com/mtsan-antonio-gardens-157270026951999",
+        "https://www.yelp.com/biz/mt-san-antonio-gardens-pomona-2"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Hillcrest - A Remarkable Retirement Community",
+      "slug": "hillcrest-a-remarkable-retirement-community",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "la-verne",
+      "city_name": "La Verne",
+      "address": "2705 Mountain View Dr",
+      "zip": "91750",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "review_note": "4.3/5 across 72 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Hillcrest (Brethren Hillcrest Homes) is a not-for-profit continuing care retirement community in La Verne with Craftsman-inspired architecture on a large foothill campus. Residents have access to a fitness center, aquatic center, and library, with independent living through skilled nursing all on site.",
+      "sources": [
+        "https://reviews.birdeye.com/hillcrest-a-remarkable-retirement-community-157255147753502",
+        "https://www.yelp.com/biz/hillcrest-la-verne-4"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Claremont Manor",
+      "slug": "claremont-manor",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "claremont",
+      "city_name": "Claremont",
+      "address": "650 Harrison Ave",
+      "zip": "91711",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "front-porch-communities-and-services",
+      "organization_name": "Front Porch Communities and Services",
+      "review_note": "4.4/5 across 112 reviews on Birdeye (June 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Claremont Manor is a continuing care retirement community operated by the not-for-profit Front Porch organization, blocks from the Claremont Colleges. Reviewers highlight its active social and intellectual life, pool and fitness programming, and recently remodeled, resort-like grounds.",
+      "sources": [
+        "https://birdeye.com/claremont-manor-retirement-community-171234797375055",
+        "https://www.yelp.com/biz/claremont-manor-retirement-community-claremont"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Kensington Sierra Madre",
+      "slug": "the-kensington-sierra-madre",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "sierra-madre",
+      "city_name": "Sierra Madre",
+      "address": "245 W Sierra Madre Blvd",
+      "zip": "91024",
+      "website": "https://thekensingtonsierramadre.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "kensington-senior-living",
+      "organization_name": "Kensington Senior Living",
+      "review_note": "Seniorly Community Score 9.9/10 based on 81 reviews, top 4% for resident satisfaction (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "The Kensington Sierra Madre is an assisted living and memory care community near Arcadia in the San Gabriel Valley foothills. It is the highest-rated senior community in Sierra Madre, with reviewers repeatedly praising well-trained caregivers, immaculate common areas, and two levels of dedicated memory care.",
+      "sources": [
+        "https://www.seniorly.com/assisted-living/california/sierra-madre/the-kensington-sierra-madre",
+        "https://thekensingtonsierramadre.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Merrill Gardens at West Covina",
+      "slug": "merrill-gardens-at-west-covina",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "west-covina",
+      "city_name": "West Covina",
+      "address": "1400 W West Covina Pkwy",
+      "zip": "91790",
+      "website": "https://www.merrillgardens.com/senior-living/ca/west-covina/merrill-gardens-at-west-covina/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "merrill-gardens",
+      "organization_name": "Merrill Gardens",
+      "review_note": "4.6/5 average across 25 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Merrill Gardens at West Covina offers independent living, assisted living, and memory care in a modern community next to West Covina's civic center. Families note the clean, attractive building, anytime dining, and a full activity calendar including movie nights and a piano bar.",
+      "sources": [
+        "https://www.aplaceformom.com/community/merrill-gardens-at-west-covina-1444988",
+        "https://www.yelp.com/biz/merrill-gardens-at-west-covina-west-covina"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Crescendo Senior Living",
+      "slug": "crescendo-senior-living",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "placentia",
+      "city_name": "Placentia",
+      "address": "351 E Palm Dr",
+      "zip": "92870",
+      "website": "http://www.crescendoseniorliving.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "review_note": "4.2/5 average across 32 family reviews on EveryPlace; A Place for Mom review score 9.2/10 on 13 recent reviews (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Crescendo Senior Living is an assisted living and memory care community in Placentia, in north Orange County. Reviewers highlight the clean building, a menu overseen by a professional nutritionist, and attentive, compassionate caregivers.",
+      "sources": [
+        "https://www.aplaceformom.com/community/crescendo-senior-living-assisted-living-and-memory-care-56307",
+        "http://www.crescendoseniorliving.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Rowntree Gardens",
+      "slug": "rowntree-gardens",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "stanton",
+      "city_name": "Stanton",
+      "address": "12151 Dale Ave",
+      "zip": "90680",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "cms_rating_overall": 5,
+      "review_note": "4.7/5 across 47 reviews on AssistedLivingCenter; 73 reviews on A Place for Mom; CMS 5-star rated skilled nursing (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Rowntree Gardens is a licensed not-for-profit continuing care retirement community in Stanton offering independent living, assisted living, memory care, skilled nursing, and rehabilitation. Its skilled nursing earned a 5-star overall Medicare rating, and families praise the long-tenured staff who know residents by name.",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/ca/stanton/rowntree-gardens-90680/",
+        "https://www.aplaceformom.com/community/rowntree-gardens-54380"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Ivy Park at Seal Beach",
+      "slug": "ivy-park-at-seal-beach",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "seal-beach",
+      "city_name": "Seal Beach",
+      "address": "3850 Lampson Ave",
+      "zip": "90740",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "google_rating": 4.3,
+      "google_review_count": 27,
+      "rating_as_of": "2026-07-12",
+      "description": "Ivy Park at Seal Beach (formerly Sunrise of Seal Beach) offers independent living, assisted living, and memory care near Old Ranch Country Club. Reviewers describe a clean, well-maintained campus with attentive staff, live entertainment, and support groups for families.",
+      "sources": [
+        "https://ultimateseniorresource.com/states/california/seal-beach/ivy-park-at-seal-beach",
+        "https://www.caring.com/senior-living/california/seal-beach/ivy-park-at-seal-beach"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sea Bluffs",
+      "slug": "sea-bluffs",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "dana-point",
+      "city_name": "Dana Point",
+      "address": "25411 Sea Bluffs Dr",
+      "zip": "92629",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "review_note": "4.5/5 average across 59 ratings (SeniorAdvisor/My Caring Plan aggregate, July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Sea Bluffs, formerly The Fountains at Sea Bluffs by Watermark, is a senior living community on a coastal bluff in Dana Point offering independent living, assisted living, and memory care. Families praise the beautifully maintained oceanside campus and dedicated memory care staff.",
+      "sources": [
+        "https://www.caring.com/senior-living/california/dana-point/sea-bluffs",
+        "https://www.aplaceformom.com/community/the-fountains-at-sea-bluffs-73636"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "San Clemente Villas by the Sea",
+      "slug": "san-clemente-villas-by-the-sea",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "san-clemente",
+      "city_name": "San Clemente",
+      "address": "660 Camino de los Mares",
+      "zip": "92673",
+      "phone": "(949) 489-3400",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "organization": "mbk-senior-living",
+      "organization_name": "MBK Senior Living",
+      "review_note": "4.3/5 average across 20 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "San Clemente Villas by the Sea is an MBK Senior Living community offering assisted living, memory care, and short-term respite stays near the coast in San Clemente. Reviewers rate its friendliness especially highly, and the community is one of the longest-established senior residences in the city.",
+      "sources": [
+        "https://www.aplaceformom.com/community/san-clemente-villas-73644",
+        "https://www.yelp.com/biz/san-clemente-villas-san-clemente"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Menifee Senior Living",
+      "slug": "menifee-senior-living",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "riverside",
+      "county_name": "Riverside",
+      "city": "menifee",
+      "city_name": "Menifee",
+      "address": "28333 Valley Blvd",
+      "zip": "92586",
+      "phone": "(951) 679-8811",
+      "website": "https://menifeeseniorliving.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "review_note": "4.6/5 average across 175 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Menifee Senior Living offers independent living, assisted living, memory care, and respite stays in the Sun City area of Menifee. With one of the largest review bases in southwest Riverside County, families describe resort-style amenities, chef-prepared dining, and 24-hour staff support.",
+      "sources": [
+        "https://www.aplaceformom.com/community/menifee-senior-living-55902",
+        "https://www.yelp.com/biz/menifee-senior-living-menifee"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Lakes at Banning",
+      "slug": "the-lakes-at-banning",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "riverside",
+      "county_name": "Riverside",
+      "city": "banning",
+      "city_name": "Banning",
+      "address": "5801 Sun Lakes Blvd",
+      "zip": "92220",
+      "website": "https://www.thelakesatbanning.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "review_note": "4.8/5 rating across 92 reviews on AssistedLivingCenter (2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "The Lakes at Banning is a senior living community next to the Sun Lakes Country Club offering independent living, assisted living, memory care, and respite care. Amenities include a library, swimming pool, computer room, and fitness center, and reviewers commend the clean surroundings and friendly staff.",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/ca/banning/lakes-banning-assisted-living-92220/",
+        "https://www.thelakesatbanning.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Wildwood Canyon Villa Assisted Living and Memory Care",
+      "slug": "wildwood-canyon-villa-assisted-living-and-memory-care",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-bernardino",
+      "county_name": "San Bernardino",
+      "city": "yucaipa",
+      "city_name": "Yucaipa",
+      "address": "33951 Colorado St",
+      "zip": "92399",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "google_rating": 4.4,
+      "google_review_count": 30,
+      "rating_as_of": "2026-07-12",
+      "description": "Wildwood Canyon Villa is an assisted living and memory care community in the heart of Yucaipa. Reviews consistently note low staff turnover, attentive and empathetic caregivers, and an engaging activity program.",
+      "sources": [
+        "https://ultimateseniorresource.com/states/california/yucaipa/wildwood-canyon-villa-assisted-living-and-memory-care",
+        "https://www.aplaceformom.com/community/wildwood-canyon-villa-99857"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sterling Inn",
+      "slug": "sterling-inn",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-bernardino",
+      "county_name": "San Bernardino",
+      "city": "victorville",
+      "city_name": "Victorville",
+      "address": "17738 Francesca Rd",
+      "zip": "92395",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "review_note": "4.7/5 across 174 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Sterling Inn is an independent and assisted living community in Victorville, serving the High Desert. Residents compare the clean, well-kept campus to a country club, with daily activities, outings, and strong nursing support noted across one of the largest review bases in the region.",
+      "sources": [
+        "https://birdeye.com/sterling-inn-assisted-living-community-173462361966732",
+        "https://www.aplaceformom.com/community/sterling-inn-55721"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Merrill Gardens at Rancho Cucamonga",
+      "slug": "merrill-gardens-at-rancho-cucamonga",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-bernardino",
+      "county_name": "San Bernardino",
+      "city": "rancho-cucamonga",
+      "city_name": "Rancho Cucamonga",
+      "address": "9942 Highland Ave",
+      "zip": "91737",
+      "website": "https://www.merrillgardens.com/senior-living/ca/rancho-cucamonga/merrill-gardens-at-rancho-cucamonga/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "merrill-gardens",
+      "organization_name": "Merrill Gardens",
+      "review_note": "4.9/5 average across 26 reviews on A Place for Mom; 4.8 stars on Google; state inspection grade A- (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Merrill Gardens at Rancho Cucamonga offers independent living, assisted living, and memory care below the San Gabriel foothills. It carries some of the strongest review scores in the Inland Empire, with families citing excellent care, a clean environment, and good dining.",
+      "sources": [
+        "https://www.aplaceformom.com/community/merrill-gardens-at-rancho-cucamonga-1414684",
+        "https://www.merrillgardens.com/senior-living/ca/rancho-cucamonga/merrill-gardens-at-rancho-cucamonga/reviews"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Casa de las Campanas",
+      "slug": "casa-de-las-campanas",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-diego",
+      "county_name": "San Diego",
+      "city": "san-diego",
+      "city_name": "San Diego",
+      "address": "18655 W Bernardo Dr",
+      "zip": "92127",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "cms_ccn": "555362",
+      "cms_rating_overall": 5,
+      "review_note": "4.61/5 across 73 ratings on Senior Care Authority; on-site health center holds a CMS 5-star overall rating (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Casa de las Campanas in Rancho Bernardo is the only not-for-profit Type A life plan community in San Diego County, offering independent living, assisted living, memory care, skilled nursing, and rehabilitation. Its health center holds a 5-star overall rating from Medicare, and residents cite the ability to age in place across care levels.",
+      "sources": [
+        "https://www.seniorcareauthority.com/assisted-living/casa-de-las-campanas-in-san-diego-california.html",
+        "https://health.usnews.com/best-nursing-homes/area/ca/casa-de-las-campanas-555362"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Paradise Village",
+      "slug": "paradise-village",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-diego",
+      "county_name": "San Diego",
+      "city": "national-city",
+      "city_name": "National City",
+      "address": "2700 E 4th St",
+      "zip": "91950",
+      "phone": "(619) 475-5040",
+      "website": "https://www.generationsllc.com/communities/paradise-village/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "generations-senior-living",
+      "organization_name": "Generations Senior Living",
+      "review_note": "4.5/5 average across 78 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Paradise Village is a resort-style senior community on 12 acres in National City, just south of San Diego, offering independent living, assisted living, and memory care. Amenities include a large indoor pool, a 212-seat theater, more than 200 monthly activities, and over 20 resident-run clubs.",
+      "sources": [
+        "https://www.aplaceformom.com/community/paradise-village-153205",
+        "https://www.generationsllc.com/communities/paradise-village/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Silvergate Fallbrook Retirement Residence",
+      "slug": "silvergate-fallbrook-retirement-residence",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-diego",
+      "county_name": "San Diego",
+      "city": "fallbrook",
+      "city_name": "Fallbrook",
+      "address": "420 Elbrook Dr",
+      "zip": "92028",
+      "phone": "(760) 728-8880",
+      "website": "https://silvergaterr.com/locations/fallbrook",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "silvergate-retirement-residences",
+      "organization_name": "Silvergate Retirement Residences",
+      "review_note": "4.7/5 average across 119 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Silvergate Fallbrook has served North County San Diego seniors for more than 30 years, offering independent living, assisted living, and memory care on a 5-acre walkable campus in the hills of Fallbrook. Reviews repeatedly cite 24-hour on-site nurses and med techs and a compassionate, long-serving staff.",
+      "sources": [
+        "https://www.aplaceformom.com/community/silvergate-retirement-residence-fallbrook-55288",
+        "https://silvergaterr.com/locations/fallbrook"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [
@@ -4688,6 +5260,62 @@
       "description": "Boutique luxury senior living brand operating resort-style assisted living and memory care communities in coastal Southern California, including Vivante on the Coast in Costa Mesa and Vivante Newport Center.",
       "sources": [
         "https://vivanteliving.com/senior-living/costa-mesa/"
+      ]
+    },
+    {
+      "name": "Merrill Gardens",
+      "slug": "merrill-gardens",
+      "headquarters": "Seattle, Washington",
+      "website": "https://www.merrillgardens.com/",
+      "states": [
+        "WA",
+        "CA",
+        "AZ",
+        "NV",
+        "TX",
+        "GA",
+        "SC",
+        "FL"
+      ],
+      "description": "Merrill Gardens is a family-owned senior living operator founded in Seattle by the R.D. Merrill family, running dozens of independent living, assisted living, and memory care communities across the country. Its communities are known for flexible anytime dining and month-to-month rental agreements.",
+      "sources": [
+        "https://www.merrillgardens.com/"
+      ]
+    },
+    {
+      "name": "Silvergate Retirement Residences",
+      "slug": "silvergate-retirement-residences",
+      "headquarters": "San Diego County, California",
+      "website": "https://silvergaterr.com/",
+      "facility_count_approx": 3,
+      "states": [
+        "CA"
+      ],
+      "description": "Silvergate Retirement Residences is a family-owned San Diego County operator with communities in Fallbrook, San Marcos, and Rancho Bernardo. Silvergate has served North County seniors for more than three decades with independent living, assisted living, and memory care.",
+      "sources": [
+        "https://silvergaterr.com/"
+      ]
+    },
+    {
+      "name": "Front Porch Communities and Services",
+      "slug": "front-porch-communities-and-services",
+      "headquarters": "Glendale, California",
+      "website": "https://frontporch.net/",
+      "states": [
+        "CA"
+      ],
+      "description": "Front Porch is a not-for-profit senior living organization formed from the 2021 merger of Front Porch and Covia, operating retirement and continuing care communities across California. Its portfolio includes Claremont Manor, Villa Gardens in Pasadena, and other life plan communities.",
+      "sources": [
+        "https://frontporch.net/"
+      ]
+    },
+    {
+      "name": "Generations Senior Living",
+      "slug": "generations-senior-living",
+      "website": "https://www.generationsllc.com/",
+      "description": "Generations is a family-owned senior living company that develops and operates communities in the western United States, including the resort-style Paradise Village campus near San Diego. Its communities span independent living, assisted living, and memory care.",
+      "sources": [
+        "https://www.generationsllc.com/"
       ]
     }
   ]

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Touchmark at The Ranch"
 seo_title: "Touchmark at The Ranch — Senior Living in Prescott, AZ"

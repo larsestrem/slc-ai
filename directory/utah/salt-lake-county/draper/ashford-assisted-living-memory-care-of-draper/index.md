@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Ashford Assisted Living & Memory Care of Draper"
 seo_title: "Ashford Assisted Living & Memory Care of Draper — Senior Living in Draper, UT"

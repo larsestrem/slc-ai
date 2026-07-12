@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Grace at Fairview Lakes"
 seo_title: "Grace at Fairview Lakes — Senior Living in Meridian, ID"

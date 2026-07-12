@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Vista Pointe at Mira Loma"
 seo_title: "Vista Pointe at Mira Loma — Senior Living in Henderson, NV"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Plaza Healthcare"
 seo_title: "Plaza Healthcare — Senior Living in Scottsdale, AZ"

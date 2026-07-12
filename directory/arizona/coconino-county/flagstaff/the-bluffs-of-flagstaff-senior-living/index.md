@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Bluffs of Flagstaff Senior Living"
 seo_title: "The Bluffs of Flagstaff Senior Living — Senior Living in Flagstaff, AZ"

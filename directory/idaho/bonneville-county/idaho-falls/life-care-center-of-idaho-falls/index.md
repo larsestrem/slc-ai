@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Life Care Center of Idaho Falls"
 seo_title: "Life Care Center of Idaho Falls — Senior Living in Idaho Falls, ID"

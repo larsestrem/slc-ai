@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Treeo Orem"
 seo_title: "Treeo Orem — Senior Living in Orem, UT"

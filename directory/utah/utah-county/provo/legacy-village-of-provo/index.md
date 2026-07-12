@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Legacy Village of Provo"
 seo_title: "Legacy Village of Provo — Senior Living in Provo, UT"

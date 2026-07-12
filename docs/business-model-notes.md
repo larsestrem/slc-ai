@@ -63,3 +63,12 @@ client's approval. Overflow-referral introductions between good local operators 
 it rewards quality and deepens relationships. Deep-coverage priority states: CA, OR, WA
 (+ HI); other states keep growing at research pace and expand fast later since the system
 is built.
+
+## Service line: hiring & program marketing (2026-07-12)
+
+Two new marketable offers alongside occupancy campaigns: (1) caregiver recruitment marketing
+(job-ad campaigns in commute radius + careers-page CRO) — same machinery, different audience,
+solves the industry's #1 pain; (2) program/vendor sourcing campaigns — targeted outreach to
+local providers (fitness, salon, music, dance, enrichment) plus landing pages/lead forms,
+"tell us what your community needs and we'll build the campaign that finds it." Both deepen
+the retainer relationship beyond bed-filling and reinforce the quality flywheel.

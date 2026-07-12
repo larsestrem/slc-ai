@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sunrise at Pinehurst"
 seo_title: "Sunrise at Pinehurst — Senior Living in Denver, CO"

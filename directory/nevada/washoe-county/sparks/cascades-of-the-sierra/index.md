@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Cascades of the Sierra"
 seo_title: "Cascades of the Sierra — Senior Living in Sparks, NV"

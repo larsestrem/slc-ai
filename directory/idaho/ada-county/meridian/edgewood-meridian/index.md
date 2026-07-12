@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Edgewood Meridian"
 seo_title: "Edgewood Meridian — Senior Living in Meridian, ID"

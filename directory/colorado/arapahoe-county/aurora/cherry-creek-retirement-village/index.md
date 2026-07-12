@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Cherry Creek Retirement Village"
 seo_title: "Cherry Creek Retirement Village — Senior Living in Aurora, CO"

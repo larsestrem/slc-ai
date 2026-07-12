@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sagewood at Daybreak"
 seo_title: "Sagewood at Daybreak — Senior Living in South Jordan, UT"

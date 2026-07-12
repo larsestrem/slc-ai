@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Seven Lakes Memory Care"
 seo_title: "Seven Lakes Memory Care — Senior Living in Loveland, CO"

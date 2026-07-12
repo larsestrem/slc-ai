@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "McDowell Village"
 seo_title: "McDowell Village — Senior Living in Scottsdale, AZ"

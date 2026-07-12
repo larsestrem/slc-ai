@@ -4,7 +4,7 @@ title: "'Ilima at Leihano"
 seo_title: "'Ilima at Leihano — Senior Living in Kapolei, HI"
 description: "'Ilima at Leihano is a Kisco Senior Living community set on four landscaped acres in the heart of Kapolei, offering independent living, assisted living, and m"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "'Ilima at Leihano", "url": "/directory/hawaii/honolulu-county/kapolei/ilima-at-leihano/"}]
-nearby: []
+nearby: [{"name": "Ka Punawai Ola", "url": "/directory/hawaii/honolulu-county/kapolei/ka-punawai-ola/", "city_name": "Kapolei", "state_abbrev": "HI", "care_levels": ["skilled-nursing"], "facility_size": "large", "cms_rating_overall": 4, "description": "A 120-bed skilled nursing and rehabilitation facility in Kapolei operated by Life Care Centers of America; the name is Hawaiian for 'well-spring of health and living waters.' It provides short-term rehabilitation, long-term care, and post-operative recovery, carries a CMS overall rating of 4 stars with 5-star quality measures, and was named a U.S. News 2026 Best Nursing Home with High Performing ratings for both short-term rehab and long-term care."}]
 state: "hawaii"
 state_name: "Hawaii"
 state_abbrev: "HI"

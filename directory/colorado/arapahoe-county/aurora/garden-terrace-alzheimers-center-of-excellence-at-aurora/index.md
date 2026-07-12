@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Garden Terrace Alzheimer's Center of Excellence at Aurora"
 seo_title: "Garden Terrace Alzheimer's Center of Excellence at Aurora — Senior Living in Aurora, CO"

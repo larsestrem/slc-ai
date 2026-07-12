@@ -9,6 +9,7 @@
     small_home: "Residential Care Facilities for the Elderly (RCFE) — small homes are licensed for up to 6 residents"
     note: "Assisted living and residential care homes are licensed as RCFEs by the Community Care Licensing Division; skilled nursing facilities are certified by CMS and licensed by the California Department of Public Health."
 - slug: idaho
+  hidden: true
   name: Idaho
   abbrev: ID
   licensing:
@@ -17,6 +18,7 @@
     small_home: "Certified Family Homes care for up to 4 residents in a caregiver's home"
     note: "Residential assisted living facilities are licensed by the Bureau of Facility Standards; very small settings operate as Certified Family Homes."
 - slug: nevada
+  hidden: true
   name: Nevada
   abbrev: NV
   licensing:
@@ -41,6 +43,7 @@
     small_home: "Adult Family Homes care for up to 8 residents in a residential home"
     note: "Assisted living facilities and Adult Family Homes are licensed by DSHS; Washington has one of the largest small-home (Adult Family Home) sectors in the country."
 - slug: arizona
+  hidden: true
   name: Arizona
   abbrev: AZ
   licensing:
@@ -49,6 +52,7 @@
     small_home: "Assisted living homes care for up to 10 residents in residential settings"
     note: "Assisted living centers and small assisted living homes are licensed by the Arizona Department of Health Services; skilled nursing facilities are CMS-certified."
 - slug: colorado
+  hidden: true
   name: Colorado
   abbrev: CO
   licensing:
@@ -65,6 +69,7 @@
     small_home: "Adult Residential Care Homes serve small groups of residents in family-style homes"
     note: "Assisted living facilities and Adult Residential Care Homes are licensed by the Hawaii Department of Health's Office of Health Care Assurance."
 - slug: utah
+  hidden: true
   name: Utah
   abbrev: UT
   licensing:

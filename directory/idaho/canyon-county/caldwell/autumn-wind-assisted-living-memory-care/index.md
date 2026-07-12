@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Autumn Wind Assisted Living & Memory Care"
 seo_title: "Autumn Wind Assisted Living & Memory Care — Senior Living in Caldwell, ID"

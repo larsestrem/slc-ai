@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Avista Twin Falls"
 seo_title: "Avista Twin Falls — Senior Living in Twin Falls, ID"

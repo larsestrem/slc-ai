@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "state"
 care_level_counts: [{"slug": "assisted-living", "count": 16}, {"slug": "memory-care", "count": 14}, {"slug": "independent-living", "count": 11}, {"slug": "skilled-nursing", "count": 4}, {"slug": "ccrc", "count": 2}]
 title: "Arizona Senior Living"

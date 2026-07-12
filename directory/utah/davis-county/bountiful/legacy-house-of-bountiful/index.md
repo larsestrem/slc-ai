@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Legacy House of Bountiful"
 seo_title: "Legacy House of Bountiful — Senior Living in Bountiful, UT"

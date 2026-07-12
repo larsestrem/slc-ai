@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "North Star Retirement Community"
 seo_title: "North Star Retirement Community — Senior Living in Coeur d'Alene, ID"

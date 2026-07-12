@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Legacy Village of Sugar House"
 seo_title: "Legacy Village of Sugar House — Senior Living in Salt Lake City, UT"

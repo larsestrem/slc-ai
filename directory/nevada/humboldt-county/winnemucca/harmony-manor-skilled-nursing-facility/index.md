@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Harmony Manor Skilled Nursing Facility"
 seo_title: "Harmony Manor Skilled Nursing Facility — Senior Living in Winnemucca, NV"

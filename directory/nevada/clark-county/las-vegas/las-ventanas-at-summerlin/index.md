@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Las Ventanas at Summerlin"
 seo_title: "Las Ventanas at Summerlin — Senior Living in Las Vegas, NV"

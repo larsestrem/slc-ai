@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "MorningStar of Arvada"
 seo_title: "MorningStar of Arvada — Senior Living in Arvada, CO"

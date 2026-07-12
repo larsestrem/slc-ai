@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sunrise of Henderson"
 seo_title: "Sunrise of Henderson — Senior Living in Henderson, NV"

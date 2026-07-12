@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Holly Creek Retirement Community"
 seo_title: "Holly Creek Retirement Community — Senior Living in Centennial, CO"

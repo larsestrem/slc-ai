@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Fellowship Square Surprise"
 seo_title: "Fellowship Square Surprise — Senior Living in Surprise, AZ"

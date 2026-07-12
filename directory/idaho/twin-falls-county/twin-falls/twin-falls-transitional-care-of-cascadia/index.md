@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Twin Falls Transitional Care of Cascadia"
 seo_title: "Twin Falls Transitional Care of Cascadia — Senior Living in Twin Falls, ID"

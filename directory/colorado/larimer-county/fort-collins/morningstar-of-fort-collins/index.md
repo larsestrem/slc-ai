@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "MorningStar of Fort Collins"
 seo_title: "MorningStar of Fort Collins — Senior Living in Fort Collins, CO"

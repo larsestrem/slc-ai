@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Las Vegas"
 seo_title: "Oakmont of Las Vegas — Senior Living in Las Vegas, NV"

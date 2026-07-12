@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Clarendale of Chandler"
 seo_title: "Clarendale of Chandler — Senior Living in Chandler, AZ"

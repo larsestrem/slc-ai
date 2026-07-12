@@ -3,12 +3,12 @@ layout: "city"
 noindex: true
 title: "Senior Living in Riverside, CA"
 seo_title: "Senior Living in Riverside, CA — Assisted Living, Memory Care & More"
-description: "Compare 1 senior living communities in Riverside, California: care levels, sizes, and official inspection records for each."
+description: "Compare 2 senior living communities in Riverside, California: care levels, sizes, and official inspection records for each."
 city_name: "Riverside"
 county_name: "Riverside"
 state_name: "California"
 state_abbrev: "CA"
-facility_count: 1
-facilities: [{"name": "Citrus Place", "url": "/directory/california/riverside-county/riverside/citrus-place/", "city_name": "Riverside", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Citrus Place is an MBK Senior Living community in Riverside offering independent living, assisted living and memory care. Reviewers praise the clean, well-maintained environment, variety of activities, on-site store and quality meals. U.S. News lists it among assisted living communities in the area."}]
+facility_count: 2
+facilities: [{"name": "Citrus Place", "url": "/directory/california/riverside-county/riverside/citrus-place/", "city_name": "Riverside", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Citrus Place is an MBK Senior Living community in Riverside offering independent living, assisted living and memory care. Reviewers praise the clean, well-maintained environment, variety of activities, on-site store and quality meals. U.S. News lists it among assisted living communities in the area."}, {"name": "Discovery Commons Raincross", "url": "/directory/california/riverside-county/riverside/discovery-commons-raincross/", "city_name": "Riverside", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care", "respite-care"], "facility_size": "large", "description": "Assisted living and memory care community in Riverside, formerly Raincross at Riverside under Watermark and now part of Discovery Senior Living. U.S. News has rated it a Best Senior Living community for assisted living based on resident and family surveys. Reviews praise the bright, clean environment and long-tenured, compassionate staff, with some noting staffing pressure in memory care."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Riverside County", "url": "/directory/california/riverside-county/"}, {"name": "Riverside", "url": "/directory/california/riverside-county/riverside/"}]
 ---

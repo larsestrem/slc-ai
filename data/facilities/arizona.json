@@ -1,0 +1,613 @@
+{
+  "facilities": [
+    {
+      "name": "Sagewood",
+      "slug": "sagewood",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "maricopa",
+      "county_name": "Maricopa",
+      "city": "phoenix",
+      "city_name": "Phoenix",
+      "address": "4555 E Mayo Blvd",
+      "zip": "85050",
+      "website": "https://www.sagewoodlcs.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "life-care-services",
+      "organization_name": "Life Care Services",
+      "review_note": "4.4/5 across 172 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Sagewood is a resort-style Life Plan Community (CCRC) in north Phoenix offering independent living, assisted living, memory care, and skilled nursing on one campus. The community ranked 45th in Newsweek's 2025 national CCRC rankings and was rated a Best Senior Living community for independent living and memory care by U.S. News based on resident and family surveys.",
+      "sources": [
+        "https://reviews.birdeye.com/sagewood-148295682025072",
+        "https://health.usnews.com/best-senior-living/sagewood-13568",
+        "https://www.seniorly.com/continuing-care-retirement-community/arizona/phoenix/sagewood-phoenix"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "McDowell Village",
+      "slug": "mcdowell-village",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "maricopa",
+      "county_name": "Maricopa",
+      "city": "scottsdale",
+      "city_name": "Scottsdale",
+      "address": "8300 E McDowell Rd",
+      "zip": "85257",
+      "website": "https://www.mbkseniorliving.com/senior-living/az/scottsdale/mcdowell-village/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "organization": "mbk-senior-living",
+      "organization_name": "MBK Senior Living",
+      "review_note": "4.8/5 across 96 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "McDowell Village is an upscale independent and assisted living community in south Scottsdale, recognized by U.S. News and World Report as a Best Independent Living and Best Assisted Living community. Amenities include a bar, movie theater, pool, gym, salon, and library, and reviewers consistently praise the staff and the smooth transition between independent and assisted living.",
+      "sources": [
+        "https://www.aplaceformom.com/community/mc-dowell-village-138933",
+        "https://health.usnews.com/best-senior-living/mcdowell-village-2074"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Blue Lakes Assisted Living",
+      "slug": "blue-lakes-assisted-living",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "maricopa",
+      "county_name": "Maricopa",
+      "city": "scottsdale",
+      "city_name": "Scottsdale",
+      "address": "9815 N 96th Pl",
+      "zip": "85258",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "small",
+      "capacity": 10,
+      "review_note": "5.0/5 across 11 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Blue Lakes Assisted Living is a 10-bed residential assisted living home in a Scottsdale neighborhood, licensed to provide supervisory, personal, and directed care. The home is BBB accredited with an A+ rating, and families praise the one-on-one attention, home-cooked food, and cleanliness typical of Arizona's small assisted living homes.",
+      "sources": [
+        "https://reviews.birdeye.com/blue-lakes-assisted-living-157255769796954",
+        "https://www.bbb.org/us/az/scottsdale/profile/adult-family-homes/blue-lakes-assisted-living-1126-1000046468"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Plaza Healthcare",
+      "slug": "plaza-healthcare",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "maricopa",
+      "county_name": "Maricopa",
+      "city": "scottsdale",
+      "city_name": "Scottsdale",
+      "address": "1475 N Granite Reef Rd",
+      "zip": "85257",
+      "phone": "(480) 990-1904",
+      "website": "https://www.plazahealthcare.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 179,
+      "cms_ccn": "035084",
+      "cms_rating_overall": 5,
+      "description": "Plaza Healthcare is a 179-bed Medicare- and Medicaid-certified skilled nursing facility that has operated in Scottsdale since 1983. It holds a CMS Five-Star overall rating and has received an AHCA/NCAL Bronze quality award, providing short-term rehabilitation and long-term skilled nursing care.",
+      "sources": [
+        "https://www.plazahealthcare.com/",
+        "https://www.nursinghomedatabase.com/snf/035084"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Fellowship Square Historic Mesa",
+      "slug": "fellowship-square-historic-mesa",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "maricopa",
+      "county_name": "Maricopa",
+      "city": "mesa",
+      "city_name": "Mesa",
+      "address": "35 W Brown Rd",
+      "zip": "85201",
+      "phone": "(480) 834-0600",
+      "website": "https://www.fellowshipsquareseniorliving.org/campus/az/historic-mesa/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "fellowship-square-senior-living",
+      "organization_name": "Fellowship Square Senior Living",
+      "review_note": "4.4/5 across 188 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Fellowship Square Historic Mesa is a nonprofit faith-based senior living campus in downtown Mesa offering independent living, assisted living, and memory care. Operated by Christian Care, the community is one of the largest and most-reviewed in Mesa, with families praising the grounds, activities, and long-tenured staff.",
+      "sources": [
+        "https://www.aplaceformom.com/community/fellowship-square-historic-mesa-100464",
+        "https://www.fellowshipsquareseniorliving.org/campus/az/historic-mesa/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Clarendale of Chandler",
+      "slug": "clarendale-of-chandler",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "maricopa",
+      "county_name": "Maricopa",
+      "city": "chandler",
+      "city_name": "Chandler",
+      "address": "5900 S Gilbert Rd",
+      "zip": "85249",
+      "website": "https://clarendaleofchandler.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "review_note": "4.7/5 across 61 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Clarendale of Chandler is a modern senior living community opened in 2019 offering independent living, assisted living, and memory care on one campus. U.S. News rated it a Best Senior Living community for assisted living based on resident and family surveys, and reviewers describe a clean, beautifully maintained community with a vibrant social atmosphere.",
+      "sources": [
+        "https://www.aplaceformom.com/community/clarendale-of-chandler-1413611",
+        "https://health.usnews.com/best-senior-living/clarendale-of-chandler-5575"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Savanna House",
+      "slug": "savanna-house",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "maricopa",
+      "county_name": "Maricopa",
+      "city": "gilbert",
+      "city_name": "Gilbert",
+      "address": "1415 N San Benito Dr",
+      "zip": "85234",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "review_note": "4.8/5 across 175 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Savanna House is an assisted living and memory care community in Gilbert built around an expansive central courtyard. Amenities include a movie theater, ice cream parlor, putting green, two salons, and on-site physical, occupational, and speech therapy, and it is one of the highest-rated communities in the East Valley.",
+      "sources": [
+        "https://reviews.birdeye.com/savanna-house-assisted-living-memory-care-157255417251611",
+        "https://www.aplaceformom.com/community/savanna-house-1393853"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Thunderbird Senior Living",
+      "slug": "thunderbird-senior-living",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "maricopa",
+      "county_name": "Maricopa",
+      "city": "glendale",
+      "city_name": "Glendale",
+      "address": "5401 W Dailey St",
+      "zip": "85306",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "review_note": "4.6/5 across 14 reviews on Caring.com (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Thunderbird Senior Living is a large retirement community in Glendale offering independent living, assisted living, and memory care. It is among the top-rated memory care providers in the Glendale area, and reviewers highlight the warm community atmosphere, engaging activities, and dedicated staff.",
+      "sources": [
+        "https://www.caring.com/senior-living/arizona/glendale/thunderbird-senior-living",
+        "https://www.aplaceformom.com/community/thunderbird-senior-living-53380"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "MorningStar at Golden Ridge",
+      "slug": "morningstar-at-golden-ridge",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "maricopa",
+      "county_name": "Maricopa",
+      "city": "peoria",
+      "city_name": "Peoria",
+      "address": "6735 W Golden Ln",
+      "zip": "85345",
+      "website": "https://www.morningstarseniorliving.com/communities/senior-living-peoria-golden-ridge/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "morningstar-senior-living",
+      "organization_name": "MorningStar Senior Living",
+      "review_note": "4.3/5 across 54 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "MorningStar at Golden Ridge is a newer senior living campus on 8.8 acres in Peoria, serving the Peoria and Glendale area with independent living, assisted living, and memory care. Independent living includes casita-style individual homes with garages, and reviewers consistently describe the staff as friendly, professional, and genuinely caring.",
+      "sources": [
+        "https://reviews.birdeye.com/morningstar-senior-living-at-golden-ridge-173507707537619",
+        "https://www.aplaceformom.com/community/morning-star-at-golden-ridge-1421351"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Fellowship Square Surprise",
+      "slug": "fellowship-square-surprise",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "maricopa",
+      "county_name": "Maricopa",
+      "city": "surprise",
+      "city_name": "Surprise",
+      "address": "16477 W Bell Rd",
+      "zip": "85374",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "fellowship-square-senior-living",
+      "organization_name": "Fellowship Square Senior Living",
+      "review_note": "4.5/5 across 38 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Fellowship Square Surprise is a nonprofit senior living community in the West Valley offering independent living, assisted living, and memory care, with costs starting lower than many area competitors. Residents appreciate the thoughtfully designed apartments and a wide array of social activities.",
+      "sources": [
+        "https://reviews.birdeye.com/fellowship-square-surprise-157269842198172",
+        "https://www.caring.com/senior-living/arizona/surprise/fellowship-square-surprise-85374"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Fountains at La Cholla",
+      "slug": "the-fountains-at-la-cholla",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "pima",
+      "county_name": "Pima",
+      "city": "tucson",
+      "city_name": "Tucson",
+      "address": "2001 W Rudasill Rd",
+      "zip": "85704",
+      "phone": "(520) 797-2001",
+      "website": "https://www.watermarkcommunities.com/our-communities/arizona/tucson/the-fountains-at-la-cholla/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "watermark-retirement-communities",
+      "organization_name": "Watermark Retirement Communities",
+      "review_note": "4.4/5 across 46 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "The Fountains at La Cholla is a large Watermark-managed senior living campus in northwest Tucson offering independent living, assisted living, and memory care. Reviewers single out the restaurant-style dining with Sunday brunches, the abundance of activities, and unusually long staff tenure.",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-fountains-at-la-cholla-95234",
+        "https://www.watermarkcommunities.com/our-communities/arizona/tucson/the-fountains-at-la-cholla/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Center at Tucson",
+      "slug": "the-center-at-tucson",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "pima",
+      "county_name": "Pima",
+      "city": "tucson",
+      "city_name": "Tucson",
+      "address": "5020 E Glenn St",
+      "zip": "85712",
+      "phone": "(520) 347-5555",
+      "website": "https://www.centerattucson.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 96,
+      "cms_ccn": "035295",
+      "cms_rating_overall": 5,
+      "description": "The Center at Tucson is a 96-bed Medicare-certified skilled nursing and short-term rehabilitation facility with a CMS Five-Star overall rating. Nursing staff time of about 4.4 hours per resident per day runs well above the national average, and U.S. News rates it High Performing for short-term rehabilitation.",
+      "sources": [
+        "https://www.nursinghomedatabase.com/snf/035295",
+        "https://health.usnews.com/best-nursing-homes/area/az/the-center-at-tucson-035295"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "La Posada at Park Centre",
+      "slug": "la-posada-at-park-centre",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "pima",
+      "county_name": "Pima",
+      "city": "green-valley",
+      "city_name": "Green Valley",
+      "address": "350 E Morningside Rd",
+      "zip": "85614",
+      "phone": "(520) 648-8131",
+      "website": "https://laposadagreenvalley.org/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "review_note": "4.8/5 across 11 reviews on Caring.com (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "La Posada at Park Centre is a nonprofit continuing care retirement community set in a pecan orchard in Green Valley, south of Tucson, with garden homes, apartments, assisted living, memory care, and skilled nursing on campus. Reviewers consistently praise the oasis-like grounds, indoor and outdoor pools, and service-oriented staff; it uses an entrance-fee model that families should review carefully.",
+      "sources": [
+        "https://www.caring.com/senior-living/arizona/green-valley/la-posada-at-park-center",
+        "https://laposadagreenvalley.org/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Touchmark at The Ranch",
+      "slug": "touchmark-at-the-ranch",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "yavapai",
+      "county_name": "Yavapai",
+      "city": "prescott",
+      "city_name": "Prescott",
+      "address": "3180 Touchmark Blvd",
+      "zip": "86301",
+      "phone": "(928) 632-7800",
+      "website": "https://www.touchmark.com/senior-living/az/prescott/the-ranch/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "touchmark",
+      "organization_name": "Touchmark",
+      "review_note": "4.4/5 across 55 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Touchmark at The Ranch is a full-service retirement community on 44 acres bordering the Prescott National Forest, offering independent living, assisted living, and memory care. The campus is BBB accredited with an A+ rating, and its Health and Fitness Club with pool and sauna draws frequent praise from residents.",
+      "sources": [
+        "https://reviews.birdeye.com/touchmark-at-the-ranch-157269633967274",
+        "https://www.bbb.org/us/az/prescott/profile/assisted-living-facilities/touchmark-at-the-ranch-1126-1000087729"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Bluffs of Flagstaff Senior Living",
+      "slug": "the-bluffs-of-flagstaff-senior-living",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "coconino",
+      "county_name": "Coconino",
+      "city": "flagstaff",
+      "city_name": "Flagstaff",
+      "address": "3112 E Butler Ave",
+      "zip": "86004",
+      "phone": "(928) 291-2710",
+      "website": "https://www.civitasseniorliving.com/the-bluffs-of-flagstaff/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "civitas-senior-living",
+      "organization_name": "Civitas Senior Living",
+      "review_note": "4.4/5 across 26 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "The Bluffs of Flagstaff is the highest-rated senior living community in Flagstaff, offering assisted living and memory care in Arizona's high country. Reviewers praise the caring, attentive staff and consistent cleanliness; a June 2025 state inspection did record one deficiency, which families may want to ask about on tour.",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-bluffs-of-flagstaff-senior-living-1446128",
+        "https://www.mycaringplan.com/senior-living/the-bluffs-of-flagstaff/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Emerald Springs Senior Living",
+      "slug": "emerald-springs-senior-living",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "yuma",
+      "county_name": "Yuma",
+      "city": "yuma",
+      "city_name": "Yuma",
+      "address": "1475 S 46th Ave",
+      "zip": "85364",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "review_note": "4.3/5 across 33 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Emerald Springs Senior Living is a full-campus community in Yuma offering independent living, assisted living, and memory care, with a pool, robust activity calendar, and BBB A+ accreditation. Families praise the grounds, spacious apartments, and friendly staff, though a few reviews note maintenance inconsistencies.",
+      "sources": [
+        "https://www.aplaceformom.com/community/emerald-springs-senior-living-53437",
+        "https://www.bbb.org/us/az/yuma/profile/retirement-communities/emerald-springs-retirement-assisted-living-community-1126-1000062819"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Vista Pointe at Lake Havasu City",
+      "slug": "vista-pointe-at-lake-havasu-city",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "mohave",
+      "county_name": "Mohave",
+      "city": "lake-havasu-city",
+      "city_name": "Lake Havasu City",
+      "address": "90 S Smoketree Ave",
+      "zip": "86403",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "google_rating": 4.6,
+      "google_review_count": 14,
+      "rating_as_of": "2026-07-12",
+      "review_note": "4.5/5 across 35 reviews on Birdeye; 4.6/5 across 14 Google reviews (July 2026)",
+      "description": "Vista Pointe at Lake Havasu City provides assisted living and memory care near downtown Lake Havasu City. Reviews emphasize compassionate, long-tenured staff and a dementia unit noted for favorable staffing ratios, with nutritious meals and regular live music among the community's strengths.",
+      "sources": [
+        "https://birdeye.com/vista-pointe-at-lake-havasu-city-173471346973917",
+        "https://www.aplaceformom.com/community/vista-pointe-at-lake-havasu-city-53836"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Vista Pointe at Sierra Vista",
+      "slug": "vista-pointe-at-sierra-vista",
+      "state": "arizona",
+      "state_name": "Arizona",
+      "state_abbrev": "AZ",
+      "county": "cochise",
+      "county_name": "Cochise",
+      "city": "sierra-vista",
+      "city_name": "Sierra Vista",
+      "address": "4400 Avenida Cochise",
+      "zip": "85635",
+      "website": "https://www.vistapointeatsierravista.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.3/5 across 77 reviews on Birdeye; 3.9/5 across 32 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Vista Pointe at Sierra Vista offers assisted living and memory care in Cochise County's largest city. Reviewers consistently praise the engaged staff, cleanliness, and culinary program, while some recent reviews raise concerns about communication and follow-through after an ownership change.",
+      "sources": [
+        "https://birdeye.com/vista-pointe-at-sierra-vista-173471338079109",
+        "https://www.aplaceformom.com/community/vista-pointe-at-sierra-vista-53553"
+      ],
+      "verified_date": "2026-07-12"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Life Care Services",
+      "slug": "life-care-services",
+      "headquarters": "Des Moines, Iowa",
+      "description": "Life Care Services, an LCS Company, is one of the nation's largest senior living management companies, managing well over 100 communities including Life Plan Communities (CCRCs) across the United States. LCS ranked highest in customer satisfaction with independent senior living providers in the J.D. Power U.S. Senior Living Satisfaction Study for four consecutive years through 2022.",
+      "sources": [
+        "https://www.friendshipvillageaz.com/blog/friendship-village-tempes-management-company-ranked-1/",
+        "https://www.sagewoodlcs.com/"
+      ]
+    },
+    {
+      "name": "MBK Senior Living",
+      "slug": "mbk-senior-living",
+      "headquarters": "Irvine, California",
+      "website": "https://www.mbkseniorliving.com/",
+      "facility_count_approx": 35,
+      "states": [
+        "CA",
+        "AZ",
+        "CO",
+        "OR",
+        "WA",
+        "UT"
+      ],
+      "description": "MBK Senior Living is an Irvine, California-based operator of about 35 independent living, assisted living, and memory care communities across the western United States, including McDowell Village in Scottsdale, Arizona.",
+      "sources": [
+        "https://www.aplaceformom.com/providers/mbk-senior-living-10067"
+      ]
+    },
+    {
+      "name": "Fellowship Square Senior Living",
+      "slug": "fellowship-square-senior-living",
+      "headquarters": "Mesa, Arizona",
+      "website": "https://www.fellowshipsquareseniorliving.org/",
+      "facility_count_approx": 4,
+      "states": [
+        "AZ"
+      ],
+      "description": "Fellowship Square Senior Living is the community brand of Christian Care, a faith-based Arizona nonprofit operating senior living campuses in Historic Mesa, east Mesa, Phoenix, Surprise, and Tucson. Its communities offer independent living, assisted living, and memory care at below-average price points for the Phoenix market.",
+      "sources": [
+        "https://www.fellowshipsquareseniorliving.org/campus/az/historic-mesa/"
+      ]
+    },
+    {
+      "name": "MorningStar Senior Living",
+      "slug": "morningstar-senior-living",
+      "headquarters": "Denver, Colorado",
+      "website": "https://www.morningstarseniorliving.com/",
+      "states": [
+        "CO",
+        "AZ"
+      ],
+      "description": "MorningStar Senior Living is a Denver-based operator of independent living, assisted living, and memory care communities across the western United States, including several Phoenix-metro campuses such as MorningStar at Golden Ridge in Peoria.",
+      "sources": [
+        "https://www.morningstarseniorliving.com/communities/senior-living-peoria-golden-ridge/"
+      ]
+    },
+    {
+      "name": "Watermark Retirement Communities",
+      "slug": "watermark-retirement-communities",
+      "headquarters": "Tucson, Arizona",
+      "website": "https://www.watermarkcommunities.com/",
+      "description": "Watermark Retirement Communities is a Tucson-headquartered senior living operator managing dozens of communities across the United States, spanning independent living, assisted living, and memory care. Its Arizona portfolio includes The Fountains at La Cholla and The Hacienda at the Canyon in Tucson.",
+      "sources": [
+        "https://www.watermarkcommunities.com/our-communities/arizona/tucson/the-fountains-at-la-cholla/"
+      ]
+    },
+    {
+      "name": "Touchmark",
+      "slug": "touchmark",
+      "headquarters": "Beaverton, Oregon",
+      "website": "https://www.touchmark.com/",
+      "description": "Touchmark is a family-owned senior living company founded in 1980, operating full-service retirement communities across the western and midwestern United States and Canada, typically combining independent living, assisted living, memory care, and large health-and-fitness clubs on one campus.",
+      "sources": [
+        "https://www.touchmark.com/senior-living/az/prescott/"
+      ]
+    },
+    {
+      "name": "Civitas Senior Living",
+      "slug": "civitas-senior-living",
+      "headquarters": "Fort Worth, Texas",
+      "website": "https://www.civitasseniorliving.com/",
+      "description": "Civitas Senior Living is a Fort Worth, Texas-based senior living operator with assisted living and memory care communities across Texas, Arizona, and other states, including The Bluffs of Flagstaff in northern Arizona.",
+      "sources": [
+        "https://www.civitasseniorliving.com/the-bluffs-of-flagstaff/community-reviews/"
+      ]
+    }
+  ]
+}

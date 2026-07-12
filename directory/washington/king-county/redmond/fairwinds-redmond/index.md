@@ -4,7 +4,7 @@ title: "Fairwinds - Redmond"
 seo_title: "Fairwinds - Redmond — Senior Living in Redmond, WA"
 description: "Independent and assisted living retirement community on Avondale Road in Redmond, managed by Seattle-based Leisure Care. Amenities include a pool, fitness fac"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Fairwinds - Redmond", "url": "/directory/washington/king-county/redmond/fairwinds-redmond/"}]
-nearby: []
+nearby: [{"name": "Emerald Heights", "url": "/directory/washington/king-county/redmond/emerald-heights/", "city_name": "Redmond", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "facility_size": "large", "description": "Emerald Heights is a nonprofit Life Care retirement community on a 38-acre wooded campus in Redmond, the first Life Care community in Western Washington (opened 1992). It offers independent living with a full on-campus continuum including assisted living, memory care, and the Corwin Center skilled nursing facility. Amenities include a pool, gym, two dining venues, library, wood shop, walking trails, and a movie theater."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

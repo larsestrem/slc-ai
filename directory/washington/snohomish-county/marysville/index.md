@@ -1,0 +1,14 @@
+---
+layout: "city"
+noindex: true
+title: "Senior Living in Marysville, WA"
+seo_title: "Senior Living in Marysville, WA — Assisted Living, Memory Care & More"
+description: "Compare 1 senior living communities in Marysville, Washington: care levels, sizes, and official inspection records for each."
+city_name: "Marysville"
+county_name: "Snohomish"
+state_name: "Washington"
+state_abbrev: "WA"
+facility_count: 1
+facilities: [{"name": "Village Concepts of Marysville - Grandview Village", "url": "/directory/washington/snohomish-county/marysville/village-concepts-of-marysville-grandview-village/", "city_name": "Marysville", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living"], "description": "Grandview Village is a Village Concepts retirement community in Marysville offering independent living with assisted living services. Residents and families praise the warm, compassionate staff and full activity calendar, while some reviews note the building shows its age."}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Snohomish County", "url": "/directory/washington/snohomish-county/"}, {"name": "Marysville", "url": "/directory/washington/snohomish-county/marysville/"}]
+---

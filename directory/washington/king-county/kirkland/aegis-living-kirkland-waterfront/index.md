@@ -1,0 +1,27 @@
+---
+layout: "facility"
+title: "Aegis Living Kirkland Waterfront"
+seo_title: "Aegis Living Kirkland Waterfront — Senior Living in Kirkland, WA"
+description: "Aegis Living Kirkland Waterfront is a premium assisted living and memory care community steps from downtown Kirkland with views of Lake Washington. The commun"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Aegis Living Kirkland Waterfront", "url": "/directory/washington/king-county/kirkland/aegis-living-kirkland-waterfront/"}]
+nearby: [{"name": "Madison House", "url": "/directory/washington/king-county/kirkland/madison-house/", "city_name": "Kirkland", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living"], "description": "Independent and assisted living community in Kirkland's Totem Lake area, operated by family-owned Koelsch Communities. Located directly across the street from the EvergreenHealth medical campus, with reviewers highlighting the food, weekly social hours with live music, and attentive care staff."}]
+state: "washington"
+state_name: "Washington"
+state_abbrev: "WA"
+county: "king"
+county_name: "King"
+city: "kirkland"
+city_name: "Kirkland"
+address: "1002 Lake St S"
+zip: "98033"
+phone: "(425) 659-3432"
+website: "https://www.aegisliving.com/locations/aegis-living-kirkland-waterfront-wa/"
+care_levels: ["assisted-living", "memory-care"]
+organization: "aegis-living"
+organization_name: "Aegis Living"
+sources: ["https://reviews.birdeye.com/aegis-living-kirkland-waterfront-168187639084168", "https://www.yelp.com/biz/aegis-living-kirkland-waterfront-kirkland", "https://www.aegisliving.com/locations/aegis-living-kirkland-waterfront-wa/"]
+verified_date: "2026-07-12"
+review_note: "5.0/5 across 13 reviews on Birdeye (July 2026)"
+description_full: "Aegis Living Kirkland Waterfront is a premium assisted living and memory care community steps from downtown Kirkland with views of Lake Washington. The community includes a theater, salon, pub, and gym, and reviewers consistently praise the staff and vibrant environment while noting its high cost."
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+---

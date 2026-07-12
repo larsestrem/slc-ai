@@ -4,7 +4,7 @@ title: "MorningStar of Pasadena"
 seo_title: "MorningStar of Pasadena — Senior Living in Pasadena, CA"
 description: "Assisted living and memory care community on South Fair Oaks Avenue in Pasadena, operated by MorningStar Senior Living. The community earned a deficiency-free"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "MorningStar of Pasadena", "url": "/directory/california/los-angeles-county/pasadena/morningstar-of-pasadena/"}]
-nearby: []
+nearby: [{"name": "Villa Gardens", "url": "/directory/california/los-angeles-county/pasadena/villa-gardens/", "city_name": "Pasadena", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "facility_size": "large", "cms_rating_overall": 5, "description": "Nonprofit continuing care retirement community in Pasadena operated by Front Porch, offering independent living, assisted living, memory care, and a CMS 5-star rated skilled nursing health center on one campus. Named Pasadena's best retirement community by local publications multiple years running. Residents cite waitstaff dining, a 24-hour bistro, and a strong fitness program; it is an entrance-fee community at the premium end."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

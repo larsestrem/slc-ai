@@ -1,0 +1,625 @@
+{
+  "facilities": [
+    {
+      "name": "Sunrise at Pinehurst",
+      "slug": "sunrise-at-pinehurst",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "denver",
+      "county_name": "Denver",
+      "city": "denver",
+      "city_name": "Denver",
+      "address": "5195 West Quincy Avenue",
+      "zip": "80236",
+      "phone": "(303) 984-1431",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "organization": "sunrise-senior-living",
+      "organization_name": "Sunrise Senior Living",
+      "review_note": "4.5/5 average across 78 family reviews on EveryPlace; 49 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Sunrise at Pinehurst offers assisted living, memory care, and short-term respite stays in southwest Denver near Pinehurst Country Club. Families praise the attentive staff and well-kept grounds, and the community is one of the longest-established Sunrise locations in Colorado.",
+      "sources": [
+        "https://www.aplaceformom.com/community/sunrise-of-pinehurst-93447",
+        "https://everyplace.care/facility/sunrise-at-pinehurst-denver-co-23049u",
+        "https://health.usnews.com/best-senior-living/sunrise-at-pinehurst-2589"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "South Valley Post Acute Rehabilitation",
+      "slug": "south-valley-post-acute-rehabilitation",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "denver",
+      "county_name": "Denver",
+      "city": "denver",
+      "city_name": "Denver",
+      "address": "4450 E Jewell Ave",
+      "zip": "80222",
+      "phone": "(303) 757-7438",
+      "website": "https://southvalleypostacute.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 106,
+      "cms_ccn": "065230",
+      "cms_rating_overall": 5,
+      "description": "South Valley Post Acute Rehabilitation is a 106-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Denver. It holds a 5-star overall rating from Medicare's Care Compare and provides short-term rehabilitation as well as long-term nursing care.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/065230/view-all/?city=Denver&state=CO&zipcode=80231",
+        "https://www.medicarelist.com/nursing-home/jewell-care-center-of-denver-denver-co/",
+        "https://southvalleypostacute.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Garden Terrace Alzheimer's Center of Excellence at Aurora",
+      "slug": "garden-terrace-alzheimers-center-of-excellence-at-aurora",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "arapahoe",
+      "county_name": "Arapahoe",
+      "city": "aurora",
+      "city_name": "Aurora",
+      "address": "1600 S. Potomac St.",
+      "zip": "80012",
+      "phone": "(303) 750-8418",
+      "website": "https://lcca.com/locations/co/gt-aurora/",
+      "care_levels": [
+        "skilled-nursing",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 120,
+      "organization": "life-care-centers-of-america",
+      "organization_name": "Life Care Centers of America",
+      "cms_ccn": "065266",
+      "cms_rating_overall": 5,
+      "description": "Garden Terrace is a 120-bed skilled nursing facility devoted entirely to the care of people with Alzheimer's disease and other dementias, located across the street from the Medical Center of Aurora. It carries a 5-star CMS rating and provides secure, dementia-specialized nursing care.",
+      "sources": [
+        "https://lcca.com/locations/co/gt-aurora/",
+        "https://health.usnews.com/best-nursing-homes/area/co/garden-terrace-alzheimers-center-of-excellence-aurora-065266",
+        "https://www.cohca.org/consumers/find-care/garden-terrace-alzheimers-center-of-excellence/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Cherry Creek Retirement Village",
+      "slug": "cherry-creek-retirement-village",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "arapahoe",
+      "county_name": "Arapahoe",
+      "city": "aurora",
+      "city_name": "Aurora",
+      "address": "14555 E Hampden Ave",
+      "zip": "80014",
+      "phone": "(303) 693-0200",
+      "website": "https://www.centurypa.com/senior-living/cherry-creek-retirement/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "capacity": 217,
+      "organization": "century-park-associates",
+      "organization_name": "Century Park Associates",
+      "review_note": "4.2/5 overall across 61 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Established in 1989, Cherry Creek Retirement Village offers 187 independent living and 30 assisted living apartments in one building across from Meadow Hills Golf Course in Aurora. Reviewers highlight the friendly staff, activity calendar, and clean, welcoming building.",
+      "sources": [
+        "https://www.aplaceformom.com/community/cherry-creek-retirement-village-93638",
+        "https://www.centurypa.com/senior-living/cherry-creek-retirement/",
+        "https://www.caring.com/senior-living/colorado/aurora/cherry-creek-retirement-village-80014"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "MorningStar of Arvada",
+      "slug": "morningstar-of-arvada",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "jefferson",
+      "county_name": "Jefferson",
+      "city": "arvada",
+      "city_name": "Arvada",
+      "address": "17351 West 64th Ave.",
+      "zip": "80007",
+      "phone": "(720) 924-9165",
+      "website": "https://www.morningstarseniorliving.com/communities/senior-living-arvada/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 141,
+      "organization": "morningstar-senior-living",
+      "organization_name": "MorningStar Senior Living",
+      "review_note": "4.4/5 average across 61 family reviews on EveryPlace; 19 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "MorningStar of Arvada offers 71 independent living, 41 assisted living, and 29 memory care suites in west Arvada near the foothills. Families frequently praise the warm, attentive staff, the life-enrichment programming, and the quality of the memory care neighborhood.",
+      "sources": [
+        "https://www.aplaceformom.com/community/morning-star-of-arvada-1420361",
+        "https://everyplace.care/facility/morningstar-of-arvada-arvada-co-23t231",
+        "https://www.morningstarseniorliving.com/communities/senior-living-arvada/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Covenant Living of Colorado",
+      "slug": "covenant-living-of-colorado",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "jefferson",
+      "county_name": "Jefferson",
+      "city": "westminster",
+      "city_name": "Westminster",
+      "address": "9153 Yarrow St",
+      "zip": "80021",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "organization": "covenant-living-communities-and-services",
+      "organization_name": "Covenant Living Communities and Services",
+      "review_note": "4.3/5 across 108 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Covenant Living of Colorado is a not-for-profit continuing care retirement community in Westminster offering independent living apartments and cottages, licensed assisted living, a secured memory-support neighborhood, and a skilled nursing center. The campus is CARF-CCAC accredited and rated High Performing by U.S. News for long-term care and short-term rehab.",
+      "sources": [
+        "https://birdeye.com/covenant-living-of-colorado-159803556880627",
+        "https://www.yelp.com/biz/covenant-living-of-colorado-westminster",
+        "https://www.caring.com/senior-living/colorado/westminster/covenant-living-of-colorado"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Holly Creek Retirement Community",
+      "slug": "holly-creek-retirement-community",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "arapahoe",
+      "county_name": "Arapahoe",
+      "city": "centennial",
+      "city_name": "Centennial",
+      "address": "5500 E Peakview Ave",
+      "zip": "80121",
+      "phone": "(303) 713-9004",
+      "website": "https://hollycreekcommunity.com/",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "organization": "christian-living-communities",
+      "organization_name": "Christian Living Communities",
+      "review_note": "4.5/5 across 78 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Holly Creek is a Life Plan (continuing care) retirement community in Centennial operated by the Denver-based nonprofit Christian Living Communities. The campus offers independent living, assisted living, memory care, and skilled nursing, with resort-style amenities including a pool and three dining venues. Independent living requires a substantial entrance fee.",
+      "sources": [
+        "https://reviews.birdeye.com/holly-creek-retirement-community-157269890756831",
+        "https://hollycreekcommunity.com/",
+        "https://www.caring.com/senior-living/colorado/centennial/holly-creek-80121"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Frasier Retirement Community",
+      "slug": "frasier-retirement-community",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "boulder",
+      "county_name": "Boulder",
+      "city": "boulder",
+      "city_name": "Boulder",
+      "address": "350 Ponca Place",
+      "zip": "80303",
+      "phone": "(303) 499-4888",
+      "website": "https://www.frasiermeadows.org/",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "cms_ccn": "065324",
+      "cms_rating_overall": 5,
+      "description": "Frasier (Frasier Meadows) has served Boulder seniors since 1960 on a 20-acre campus and is the city's only accredited continuing care retirement community. Its on-campus Frasier Meadows Health Care Center, a 54-bed nonprofit skilled nursing facility, holds a 5-star overall Medicare rating.",
+      "sources": [
+        "https://www.frasiermeadows.org/",
+        "https://health.usnews.com/best-nursing-homes/area/co/frasier-meadows-health-care-center-065324",
+        "https://www.nursinghomesite.com/FRASIER_MEADOWS_HEALTH_CARE_CENTER_BOULDER_CO"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "AltaVita Memory Care Centre",
+      "slug": "altavita-memory-care-centre",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "boulder",
+      "county_name": "Boulder",
+      "city": "longmont",
+      "city_name": "Longmont",
+      "address": "800 S Fordham Street",
+      "zip": "80503",
+      "phone": "(303) 300-3700",
+      "website": "https://www.altavitaliving.com/livingoptions/altavita-memory-care-centre/",
+      "care_levels": [
+        "memory-care",
+        "assisted-living",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 56,
+      "organization": "altavita-living",
+      "organization_name": "AltaVita Living",
+      "review_note": "4.3/5 overall across 12 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "AltaVita Memory Care Centre is a 56-bed licensed assisted living residence in Longmont designed specifically for people with Alzheimer's and other dementias, offering permanent residence, adult day programs, and respite stays. It is part of the locally owned AltaVita campus that also includes assisted living and independent senior residences.",
+      "sources": [
+        "https://www.aplaceformom.com/community/alta-vita-assisted-living-memory-care-centre-1350281",
+        "https://www.altavitaliving.com/livingoptions/altavita-memory-care-centre/",
+        "https://www.seniorlivingfacilities.net/facility/altavita-memory-care-centre-longmont-co.html"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Seven Lakes Memory Care",
+      "slug": "seven-lakes-memory-care",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "larimer",
+      "county_name": "Larimer",
+      "city": "loveland",
+      "city_name": "Loveland",
+      "address": "1990 Pikes Peak Dr",
+      "zip": "80538",
+      "phone": "(970) 461-5918",
+      "website": "https://www.mbkseniorliving.com/senior-living/co/loveland/seven-lakes-memory-care/",
+      "care_levels": [
+        "memory-care"
+      ],
+      "organization": "mbk-senior-living",
+      "organization_name": "MBK Senior Living",
+      "review_note": "4.7/5 across 24 reviews on SeniorAdvisor; 4.2/5 across 9 reviews on Caring.com (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Seven Lakes Memory Care is a dedicated memory care community on the shore of Horseshoe Lake in north Loveland, serving residents with Alzheimer's disease and other dementias. Reviewers consistently praise the compassionate staff, home-like environment, and engaging daily activities.",
+      "sources": [
+        "https://www.senioradvisor.com/local/memory-care-at-seven-lakes-loveland-co",
+        "https://www.caring.com/senior-living/colorado/loveland/seven-lakes-memory-care-80538",
+        "https://www.mbkseniorliving.com/senior-living/co/loveland/seven-lakes-memory-care/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Grace Pointe Senior Care Community",
+      "slug": "grace-pointe-senior-care-community",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "weld",
+      "county_name": "Weld",
+      "city": "greeley",
+      "city_name": "Greeley",
+      "address": "1919 68th Ave",
+      "zip": "80634",
+      "phone": "(970) 304-1919",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "review_note": "4.2/5 overall across 11 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Grace Pointe is a Greeley family-owned continuing care campus offering independent living, assisted living, memory care, skilled nursing, and rehabilitation in one location. Its skilled nursing operation earned 5 out of 5 stars in the most recent Medicare report cited by review platforms, and families praise the caring staff and campus amenities.",
+      "sources": [
+        "https://www.aplaceformom.com/community/grace-pointe-150813",
+        "https://assistedlivingmagazine.com/nursing-home/grace-pointe-senior-care-community/",
+        "https://www.seniorly.com/continuing-care-retirement-community/colorado/greeley/grace-pointe-senior-care-community"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "MorningStar at Mountain Shadows",
+      "slug": "morningstar-at-mountain-shadows",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "el-paso",
+      "county_name": "El Paso",
+      "city": "colorado-springs",
+      "city_name": "Colorado Springs",
+      "address": "5355 Centennial Blvd",
+      "zip": "80919",
+      "phone": "(719) 259-5440",
+      "website": "https://www.morningstarseniorliving.com/communities/assisted-living-colorado-springs-mountain-shadows/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 64,
+      "organization": "morningstar-senior-living",
+      "organization_name": "MorningStar Senior Living",
+      "review_note": "4.5/5 across 65 reviews on Birdeye; 31 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "MorningStar at Mountain Shadows offers 45 assisted living suites and a secure 19-suite Reflections memory care neighborhood on the northwest side of Colorado Springs near Garden of the Gods. Reviewers highlight the compassionate care, supportive staff, and mountain-view setting.",
+      "sources": [
+        "https://reviews.birdeye.com/morningstar-assisted-living-memory-care-at-mountain-shadows-173507707874893",
+        "https://www.aplaceformom.com/community/morning-star-at-mountain-shadows-1361214",
+        "https://www.morningstarseniorliving.com/communities/assisted-living-colorado-springs-mountain-shadows/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Villa Pueblo Senior Living Community",
+      "slug": "villa-pueblo-senior-living-community",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "pueblo",
+      "county_name": "Pueblo",
+      "city": "pueblo",
+      "city_name": "Pueblo",
+      "address": "1111 Bonforte Blvd",
+      "zip": "81001",
+      "phone": "(719) 545-5911",
+      "website": "https://villapueblo.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "review_note": "4.2/5 overall across 34 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Villa Pueblo is a complete campus of care in Pueblo offering independent living in its tower, private assisted living rooms in the Terrace and Pavilion, and skilled nursing and rehabilitation. Families note the involved staff, restaurant-style dining, and full activity program across all levels of care.",
+      "sources": [
+        "https://www.aplaceformom.com/community/villa-pueblo-senior-living-community-93607",
+        "https://villapueblo.com/",
+        "https://www.senioradvisor.com/local/villa-pueblo-pueblo-co"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Lodge at Grand Junction",
+      "slug": "the-lodge-at-grand-junction",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "mesa",
+      "county_name": "Mesa",
+      "city": "grand-junction",
+      "city_name": "Grand Junction",
+      "address": "2656 Patterson Rd",
+      "zip": "81506",
+      "phone": "(970) 822-4141",
+      "website": "https://thelodgeatgrandjunction.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "organization": "integral-senior-living",
+      "organization_name": "Integral Senior Living",
+      "review_note": "4.5/5 overall across 21 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "The Lodge at Grand Junction provides assisted living, memory care, and respite care in a newer building on Patterson Road, managed by Integral Senior Living. Families describe a spotless, well-appointed community with caring frontline staff, praised dining, a therapy and exercise room, chapel, and salon.",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-lodge-at-grand-junction-1437480",
+        "https://thelodgeatgrandjunction.com/our-community/reviews/",
+        "https://thebusinesstimes.com/integral-senior-living-takes-over-management-of-the-lodge-at-grand-junction/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Cottonwood Rehabilitation and Healthcare Center",
+      "slug": "cottonwood-rehabilitation-and-healthcare-center",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "la-plata",
+      "county_name": "La Plata",
+      "city": "durango",
+      "city_name": "Durango",
+      "address": "450 Prospector Ave",
+      "zip": "81301",
+      "phone": "(970) 828-1414",
+      "website": "https://www.cottonwoodrhc.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 40,
+      "cms_ccn": "065411",
+      "cms_rating_overall": 5,
+      "description": "Cottonwood Rehabilitation and Healthcare Center (formerly Cottonwood Inn) is a 40-bed skilled nursing facility in Durango certified for Medicare and Medicaid. It holds 5-star CMS ratings both overall and for quality measures, offers therapy seven days a week, and has been named a U.S. News Best Nursing Home for both short-term rehab and long-term care.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/co/cottonwood-inn-rehabilitation-and-extended-care-center-065411",
+        "https://www.cottonwoodrhc.com/news",
+        "https://www.nursinghomes.com/co/durango/cottonwood-inn-rehab-and-extended-care-center/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "MorningStar of Fort Collins",
+      "slug": "morningstar-of-fort-collins",
+      "state": "colorado",
+      "state_name": "Colorado",
+      "state_abbrev": "CO",
+      "county": "larimer",
+      "county_name": "Larimer",
+      "city": "fort-collins",
+      "city_name": "Fort Collins",
+      "address": "3509 Lochwood Drive",
+      "zip": "80525",
+      "phone": "(970) 432-8810",
+      "website": "https://www.morningstarseniorliving.com/communities/assisted-living-fort-collins/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 79,
+      "organization": "morningstar-senior-living",
+      "organization_name": "MorningStar Senior Living",
+      "review_note": "4.7 rating on U.S. News-aggregated reviews; 29 reviews on AssistedLivingCenter (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "MorningStar of Fort Collins offers 55 assisted living suites and 24 memory care suites in its Reflections Neighborhood, across from Warren Lake and Collindale Golf Course on the city's southeast side. Reviews highlight responsive management, caring staff, good food, and a clean, welcoming building.",
+      "sources": [
+        "https://health.usnews.com/best-senior-living/morningstar-assisted-living-memory-care-of-fort-collins-26319",
+        "https://www.assistedlivingcenter.com/facilities/co/fort-collins/morningstar-of-fort-collins-80525/",
+        "https://www.morningstarseniorliving.com/communities/assisted-living-fort-collins/"
+      ],
+      "verified_date": "2026-07-12"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "MorningStar Senior Living",
+      "slug": "morningstar-senior-living",
+      "headquarters": "Denver, Colorado",
+      "website": "https://www.morningstarseniorliving.com/",
+      "facility_count_approx": 40,
+      "states": [
+        "CO",
+        "AZ"
+      ],
+      "description": "MorningStar Senior Living is a Denver-based operator founded by Ken Jaeger in 2003. Its portfolio encompasses more than 40 independent living, assisted living, and memory care communities in operation or development across the western United States, representing over 5,000 units.",
+      "sources": [
+        "https://www.morningstarseniorliving.com/",
+        "https://www.aplaceformom.com/providers/morning-star-senior-living-1332468"
+      ]
+    },
+    {
+      "name": "Sunrise Senior Living",
+      "slug": "sunrise-senior-living",
+      "headquarters": "McLean, Virginia",
+      "website": "https://www.sunriseseniorliving.com/",
+      "facility_count_approx": 240,
+      "description": "Sunrise Senior Living, headquartered in McLean, Virginia, operates more than 240 independent living, assisted living, and memory care communities across the United States and Canada, making it one of the largest senior living providers in the country.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sunrise_Senior_Living",
+        "https://www.sunriseseniorliving.com/"
+      ]
+    },
+    {
+      "name": "Life Care Centers of America",
+      "slug": "life-care-centers-of-america",
+      "headquarters": "Cleveland, Tennessee",
+      "website": "https://lcca.com/",
+      "description": "Life Care Centers of America, headquartered in Cleveland, Tennessee, is one of the largest privately held skilled nursing and rehabilitation providers in the United States, operating more than 200 centers nationwide, including the specialized Garden Terrace Alzheimer's centers.",
+      "sources": [
+        "https://lcca.com/locations/co/gt-aurora/"
+      ]
+    },
+    {
+      "name": "Century Park Associates",
+      "slug": "century-park-associates",
+      "headquarters": "Cleveland, Tennessee",
+      "website": "https://www.centurypa.com/",
+      "facility_count_approx": 40,
+      "description": "Century Park Associates, headquartered in Cleveland, Tennessee, manages more than 40 independent living and assisted living communities across 20 states. The company traces its senior-care roots to 1970 and focuses on independent living, assisted living, and personal care services.",
+      "sources": [
+        "https://www.centurypa.com/",
+        "https://www.bbb.org/us/tn/cleveland/profile/retirement-homes/century-park-associates-llc-0483-40082424"
+      ]
+    },
+    {
+      "name": "Christian Living Communities",
+      "slug": "christian-living-communities",
+      "headquarters": "Denver, Colorado",
+      "states": [
+        "CO"
+      ],
+      "description": "Christian Living Communities is a Denver-based nonprofit senior care organization founded in 1972. It owns and operates senior living communities in the Denver metro area, including the Holly Creek Life Plan community in Centennial, offering the full continuum from independent living through skilled nursing.",
+      "sources": [
+        "https://seniorsbluebook.com/senior-housing/holly-creek-christian-living-communities-centennial-co-2",
+        "https://hollycreekcommunity.com/"
+      ]
+    },
+    {
+      "name": "Covenant Living Communities and Services",
+      "slug": "covenant-living-communities-and-services",
+      "headquarters": "Skokie, Illinois",
+      "facility_count_approx": 16,
+      "description": "Covenant Living Communities and Services, formerly Covenant Retirement Communities, is a faith-based nonprofit headquartered in Skokie, Illinois. It operates roughly 15 to 16 continuing care retirement communities in about ten states, including Covenant Living of Colorado in Westminster.",
+      "sources": [
+        "https://www.causeiq.com/organizations/covenant-retirement-communities,363478388/",
+        "https://seniorhousingnews.com/2018/09/18/covenant-retirement-communities-rebrands-covenant-living/"
+      ]
+    },
+    {
+      "name": "MBK Senior Living",
+      "slug": "mbk-senior-living",
+      "headquarters": "Irvine, California",
+      "website": "https://www.mbkseniorliving.com/",
+      "facility_count_approx": 38,
+      "states": [
+        "CA",
+        "CO",
+        "WA",
+        "UT",
+        "AZ",
+        "OR"
+      ],
+      "description": "MBK Senior Living, headquartered in Irvine, California, owns or manages 38 independent living, assisted living, and memory care communities across six western states, including Seven Lakes Memory Care in Loveland, Colorado.",
+      "sources": [
+        "https://www.mbkseniorliving.com/about-mbk-senior-living"
+      ]
+    },
+    {
+      "name": "Integral Senior Living",
+      "slug": "integral-senior-living",
+      "headquarters": "Carlsbad, California",
+      "website": "https://islllc.com/",
+      "facility_count_approx": 100,
+      "description": "Integral Senior Living (ISL) is a senior living management company headquartered in Carlsbad, California. It manages more than 100 independent living, assisted living, and memory care communities in 25 states, including The Lodge at Grand Junction in Colorado.",
+      "sources": [
+        "https://islllc.com/",
+        "https://thebusinesstimes.com/integral-senior-living-takes-over-management-of-the-lodge-at-grand-junction/"
+      ]
+    },
+    {
+      "name": "AltaVita Living",
+      "slug": "altavita-living",
+      "headquarters": "Longmont, Colorado",
+      "website": "https://www.altavitaliving.com/",
+      "facility_count_approx": 3,
+      "states": [
+        "CO"
+      ],
+      "description": "AltaVita Living is a locally owned Longmont, Colorado senior living operator whose campus includes the AltaVita Memory Care Centre, AltaVita Assisted Living, and AltaVita Senior Residences independent living, serving the Boulder County area.",
+      "sources": [
+        "https://www.altavitaliving.com/"
+      ]
+    }
+  ]
+}

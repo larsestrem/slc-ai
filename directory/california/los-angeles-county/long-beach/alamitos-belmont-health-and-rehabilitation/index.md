@@ -4,7 +4,7 @@ title: "Alamitos Belmont Health and Rehabilitation"
 seo_title: "Alamitos Belmont Health and Rehabilitation — Senior Living in Long Beach, CA"
 description: "94-bed Medicare- and Medicaid-certified skilled nursing facility in the Belmont Heights area of Long Beach offering short-term rehabilitation and long-term ca"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Alamitos Belmont Health and Rehabilitation", "url": "/directory/california/los-angeles-county/long-beach/alamitos-belmont-health-and-rehabilitation/"}]
-nearby: []
+nearby: [{"name": "Bay Towers at Bixby Knolls", "url": "/directory/california/los-angeles-county/long-beach/bay-towers-at-bixby-knolls/", "city_name": "Long Beach", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "respite-care"], "facility_size": "large", "description": "High-rise senior community in Long Beach's Bixby Knolls neighborhood offering independent living, assisted living, and respite stays. Monthly rates start lower than most coastal Los Angeles County communities, with chef-prepared meals, a fitness center, complimentary transportation, and organized outings. Reviewers consistently mention the food and the staff."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

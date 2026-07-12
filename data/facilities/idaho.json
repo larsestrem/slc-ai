@@ -649,6 +649,152 @@
         "https://health.usnews.com/best-senior-living/bridge-at-sandpoint-2329"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Fairwinds - Sand Creek",
+      "slug": "fairwinds-sand-creek",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bonneville",
+      "county_name": "Bonneville",
+      "city": "idaho-falls",
+      "city_name": "Idaho Falls",
+      "address": "3310 Valencia Dr",
+      "zip": "83404",
+      "phone": "(208) 542-6200",
+      "website": "https://www.leisurecare.com/our-communities/fairwinds-sand-creek/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "organization": "leisure-care",
+      "organization_name": "Leisure Care",
+      "review_note": "4.8/5 across 44 reviews on AssistedLivingCenter (July 2026); U.S. News Best Senior Living for independent living and assisted living",
+      "description": "Fairwinds - Sand Creek is a Leisure Care retirement community in Idaho Falls offering independent living and assisted living in apartment-style homes. U.S. News named it a Best Senior Living community for both independent and assisted living based on resident and family surveys, and reviewers consistently praise the food, grounds, and friendly caregivers.",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/id/idaho-falls/fairwinds-sand-creek-83404/",
+        "https://www.leisurecare.com/our-communities/fairwinds-sand-creek/",
+        "https://www.yelp.com/biz/fairwinds-sand-creek-idaho-falls-2"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Karcher Senior Living",
+      "slug": "karcher-senior-living",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "canyon",
+      "county_name": "Canyon",
+      "city": "nampa",
+      "city_name": "Nampa",
+      "address": "1127 Caldwell Blvd",
+      "zip": "83651",
+      "phone": "(208) 205-8665",
+      "website": "https://karchersl.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "review_note": "5.0/5 from 13 reviews on Caring.com (July 2026)",
+      "description": "Karcher Senior Living (formerly Prestige Senior Living at Karcher Estates) is a retirement and continuing care community in the heart of Nampa offering independent living and assisted living with access to rehabilitation services. Reviewers describe helpful, caring staff, a clean and well-decorated building, and good food.",
+      "sources": [
+        "https://www.caring.com/senior-living/idaho/nampa/karcher-senior-living",
+        "https://karchersl.com/contact-us/",
+        "https://www.yelp.com/biz/prestige-senior-living-at-karcher-estates-nampa"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Willow Park Senior Living",
+      "slug": "willow-park-senior-living",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "2600 N Milwaukee St",
+      "zip": "83704",
+      "phone": "(208) 373-1234",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 124,
+      "review_note": "4.3/5 across 67 reviews on Birdeye (July 2026)",
+      "description": "Willow Park Senior Living is a 124-unit community on North Milwaukee Street in Boise offering independent living, assisted living, and memory care with 24-hour awake staff. Reviews commend the warm, caring environment, the cooking, and the variety of activities.",
+      "sources": [
+        "https://reviews.birdeye.com/willow-park-senior-living-157255477150721",
+        "https://www.assistedliving.com/idaho/boise/willow-park/",
+        "https://www.yellowpages.com/boise-id/mip/willow-park-senior-living-10332398"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Grace at Fairview Lakes",
+      "slug": "grace-at-fairview-lakes",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "meridian",
+      "city_name": "Meridian",
+      "address": "1960 N Lakes Pl",
+      "zip": "83646",
+      "phone": "(208) 844-8080",
+      "website": "https://graceseniorcommunity.com/assisted-living-meridian-id/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "grace-assisted-living",
+      "organization_name": "Grace Assisted Living",
+      "review_note": "4.9/5 across 29 reviews on AssistedLivingCenter; 17 reviews on Caring.com (July 2026)",
+      "description": "Grace at Fairview Lakes is a Grace Assisted Living community in Meridian offering independent living, assisted living, and a dedicated memory care unit. Families praise the genuinely warm caregiving team, the personalized attention for residents with memory issues, and the clean, well-maintained campus.",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/id/meridian/grace-at-fairview-lakes-83646/",
+        "https://www.caring.com/senior-living/idaho/meridian/grace-assisted-living-fairview-lakes",
+        "https://graceseniorcommunity.com/assisted-living-meridian-id/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Legends Park Assisted Living",
+      "slug": "legends-park-assisted-living",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "kootenai",
+      "county_name": "Kootenai",
+      "city": "coeur-dalene",
+      "city_name": "Coeur d'Alene",
+      "address": "1820 N Legends Pkwy",
+      "zip": "83815",
+      "phone": "(208) 666-9900",
+      "website": "https://legendsparkal.com/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "capacity": 44,
+      "organization": "prestige-care",
+      "organization_name": "Prestige Care",
+      "review_note": "4.8 rating on AssistedLivingCenter; 9 reviews on Caring.com (July 2026); voted Best Assisted Living Community in Idaho",
+      "description": "Legends Park Assisted Living is a 44-apartment assisted living community in Coeur d'Alene operated by Prestige Care, located across from the Kroc Center with trails adjacent to the property. Apartments include kitchenettes, barrier-free showers, and 24-hour emergency call systems, and the community has been voted Best Assisted Living Community in Idaho.",
+      "sources": [
+        "https://www.caring.com/senior-living/idaho/coeur-d-alene/legends-park-assisted-living-83815",
+        "https://legendsparkal.com/",
+        "https://www.seniorlivingguide.com/communities/legends-park-assisted-living-community-1820-n-legends-parkway-coeur-dalene-id-83815/"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [
@@ -695,6 +841,76 @@
       "sources": [
         "https://koelschseniorcommunities.com/",
         "https://www.linkedin.com/company/koelsch-communities"
+      ]
+    },
+    {
+      "name": "Western States Lodging & Management",
+      "slug": "western-states-lodging",
+      "headquarters": "Taylorsville, Utah",
+      "website": "https://www.legacyretire.com/",
+      "facility_count_approx": 20,
+      "states": [
+        "UT",
+        "NV",
+        "ID"
+      ],
+      "description": "Western States Lodging & Management is a Utah-based hospitality and senior living operator, in business more than 25 years, that manages the Legacy House and Legacy Village brands of assisted living and memory care communities across Utah, Nevada, and Idaho.",
+      "sources": [
+        "https://www.legacyretire.com/communities/legacy-house-of-centennial-hills/amenities/"
+      ]
+    },
+    {
+      "name": "Leisure Care",
+      "slug": "leisure-care",
+      "headquarters": "Seattle, Washington",
+      "website": "https://www.leisurecare.com/",
+      "facility_count_approx": 50,
+      "states": [
+        "WA",
+        "OR",
+        "ID",
+        "CA",
+        "AZ",
+        "UT"
+      ],
+      "description": "Leisure Care is a Seattle-based senior living company that has developed and managed retirement communities for over 30 years, operating roughly 50 independent living, assisted living, and memory care communities, largely in the western United States, under brands including Fairwinds.",
+      "sources": [
+        "https://www.leisurecare.com/our-communities/fairwinds-sand-creek/"
+      ]
+    },
+    {
+      "name": "Grace Assisted Living",
+      "slug": "grace-assisted-living",
+      "headquarters": "Boise, Idaho",
+      "website": "https://graceseniorcommunity.com/",
+      "facility_count_approx": 6,
+      "states": [
+        "ID"
+      ],
+      "description": "Grace Assisted Living (Grace Senior Community) is an Idaho-based operator of independent living, assisted living, and memory care communities in the Treasure Valley, with locations including Meridian, Boise, Nampa, and Caldwell.",
+      "sources": [
+        "https://graceseniorcommunity.com/"
+      ]
+    },
+    {
+      "name": "Prestige Care",
+      "slug": "prestige-care",
+      "headquarters": "Vancouver, Washington",
+      "website": "https://www.prestigecare.com/",
+      "facility_count_approx": 80,
+      "states": [
+        "WA",
+        "OR",
+        "ID",
+        "NV",
+        "CA",
+        "AK",
+        "AZ",
+        "MT"
+      ],
+      "description": "Prestige Care is a family-owned senior care company based in Vancouver, Washington, operating skilled nursing centers and senior living communities across eight western states. Its portfolio includes assisted living communities such as Legends Park in Coeur d'Alene, Idaho.",
+      "sources": [
+        "https://www.findhelp.org/prestige-care,-inc.---legends-park-assisted-living-community--coeur-d'alene-id--assisted-living/5855819316068352?postal=83815"
       ]
     }
   ]

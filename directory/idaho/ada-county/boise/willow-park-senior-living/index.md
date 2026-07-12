@@ -1,0 +1,26 @@
+---
+layout: "facility"
+title: "Willow Park Senior Living"
+seo_title: "Willow Park Senior Living — Senior Living in Boise, ID"
+description: "Willow Park Senior Living is a 124-unit community on North Milwaukee Street in Boise offering independent living, assisted living, and memory care with 24-hou"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Willow Park Senior Living", "url": "/directory/idaho/ada-county/boise/willow-park-senior-living/"}]
+nearby: [{"name": "Brookdale Boise Parkcenter", "url": "/directory/idaho/ada-county/boise/brookdale-boise-parkcenter/", "city_name": "Boise", "state_abbrev": "ID", "care_levels": ["independent-living", "assisted-living"], "description": "Brookdale Boise Parkcenter offers both independent living and assisted living on one campus along the Boise River greenbelt corridor in southeast Boise. Assisted living residents receive help with daily tasks such as bathing, dressing, and mobility, with staff available around the clock. The community is part of Brookdale Senior Living, the largest senior living operator in the United States."}, {"name": "Fox Den Homes Bannock House", "url": "/directory/idaho/ada-county/boise/fox-den-homes-bannock-house/", "city_name": "Boise", "state_abbrev": "ID", "care_levels": ["assisted-living", "memory-care"], "facility_size": "small", "description": "Fox Den Homes Bannock House is a cozy 8-bed residential assisted living and memory care home just west of downtown Boise. As a small residential care home, it emphasizes a lower caregiver-to-resident ratio and a personal, home-like feel compared with larger facilities. It is one of several small Fox Den Homes residences in the Treasure Valley."}, {"name": "Truewood by Merrill, Boise", "url": "/directory/idaho/ada-county/boise/truewood-by-merrill-boise/", "city_name": "Boise", "state_abbrev": "ID", "care_levels": ["independent-living", "assisted-living", "memory-care"], "facility_size": "large", "description": "Truewood by Merrill, Boise offers independent living, assisted living, and memory care in 109 apartments in northwest Boise's residential neighborhoods. The community includes cottages, studios, and one- and two-bedroom units with chef-prepared meals, on-site RN/LPN wellness staff, landscaped gardens, and walking paths. It is operated by Merrill Gardens, a Seattle-based senior living company founded in 1993."}]
+state: "idaho"
+state_name: "Idaho"
+state_abbrev: "ID"
+county: "ada"
+county_name: "Ada"
+city: "boise"
+city_name: "Boise"
+address: "2600 N Milwaukee St"
+zip: "83704"
+phone: "(208) 373-1234"
+care_levels: ["independent-living", "assisted-living", "memory-care"]
+facility_size: "large"
+capacity: 124
+sources: ["https://reviews.birdeye.com/willow-park-senior-living-157255477150721", "https://www.assistedliving.com/idaho/boise/willow-park/", "https://www.yellowpages.com/boise-id/mip/willow-park-senior-living-10332398"]
+verified_date: "2026-07-12"
+review_note: "4.3/5 across 67 reviews on Birdeye (July 2026)"
+description_full: "Willow Park Senior Living is a 124-unit community on North Milwaukee Street in Boise offering independent living, assisted living, and memory care with 24-hour awake staff. Reviews commend the warm, caring environment, the cooking, and the variety of activities."
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+---

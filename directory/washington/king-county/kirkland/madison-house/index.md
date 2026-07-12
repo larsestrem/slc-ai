@@ -4,7 +4,7 @@ title: "Madison House"
 seo_title: "Madison House — Senior Living in Kirkland, WA"
 description: "Independent and assisted living community in Kirkland's Totem Lake area, operated by family-owned Koelsch Communities. Located directly across the street from"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Madison House", "url": "/directory/washington/king-county/kirkland/madison-house/"}]
-nearby: []
+nearby: [{"name": "Aegis Living Kirkland Waterfront", "url": "/directory/washington/king-county/kirkland/aegis-living-kirkland-waterfront/", "city_name": "Kirkland", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care"], "description": "Aegis Living Kirkland Waterfront is a premium assisted living and memory care community steps from downtown Kirkland with views of Lake Washington. The community includes a theater, salon, pub, and gym, and reviewers consistently praise the staff and vibrant environment while noting its high cost."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

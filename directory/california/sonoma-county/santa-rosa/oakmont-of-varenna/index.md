@@ -4,7 +4,7 @@ title: "Oakmont of Varenna"
 seo_title: "Oakmont of Varenna — Senior Living in Santa Rosa, CA"
 description: "Luxury continuing care retirement community in Santa Rosa's Fountaingrove area, set on 30 acres overlooking a lake with 162 apartment and casita homes. Also k"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Oakmont of Varenna", "url": "/directory/california/sonoma-county/santa-rosa/oakmont-of-varenna/"}]
-nearby: []
+nearby: [{"name": "Spring Lake Village", "url": "/directory/california/sonoma-county/santa-rosa/spring-lake-village/", "city_name": "Santa Rosa", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "skilled-nursing", "ccrc"], "facility_size": "large", "description": "A continuing care retirement community set beside Spring Lake and Annadel State Park in east Santa Rosa, operated by nonprofit Front Porch. Offers independent living, assisted living, and on-site skilled nursing rated High Performing for both short-term rehab and long-term care by U.S. News. Known for its landscaped campus, dining, and extensive resident programming."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

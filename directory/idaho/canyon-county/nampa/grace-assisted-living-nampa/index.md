@@ -4,7 +4,7 @@ title: "Grace Assisted Living - Nampa"
 seo_title: "Grace Assisted Living - Nampa — Senior Living in Nampa, ID"
 description: "Grace Assisted Living in Nampa offers independent retirement living and assisted living, plus Assist Plus memory care, respite day care, and hospice support, "
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Grace Assisted Living - Nampa", "url": "/directory/idaho/canyon-county/nampa/grace-assisted-living-nampa/"}]
-nearby: []
+nearby: [{"name": "Karcher Senior Living", "url": "/directory/idaho/canyon-county/nampa/karcher-senior-living/", "city_name": "Nampa", "state_abbrev": "ID", "care_levels": ["independent-living", "assisted-living"], "description": "Karcher Senior Living (formerly Prestige Senior Living at Karcher Estates) is a retirement and continuing care community in the heart of Nampa offering independent living and assisted living with access to rehabilitation services. Reviewers describe helpful, caring staff, a clean and well-decorated building, and good food."}]
 state: "idaho"
 state_name: "Idaho"
 state_abbrev: "ID"

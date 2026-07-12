@@ -595,6 +595,127 @@
         "https://www.seniorcare.com/nursing-homes/nv/reno/advanced-health-care-of-reno/295096/"
       ],
       "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Legacy House of Centennial Hills",
+      "slug": "legacy-house-of-centennial-hills",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "las-vegas",
+      "city_name": "Las Vegas",
+      "address": "6310 N Durango Dr",
+      "zip": "89149",
+      "phone": "(702) 978-5000",
+      "website": "https://www.legacyretire.com/communities/legacy-house-of-centennial-hills/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "western-states-lodging",
+      "organization_name": "Western States Lodging & Management",
+      "review_note": "4.5/5 across 66 reviews on A Place for Mom (July 2026)",
+      "description": "Legacy House of Centennial Hills is an assisted living and memory care community in northwest Las Vegas, managed by Western States Lodging & Management. Families consistently highlight the kind, knowledgeable staff and the quality dining program, with staff turnover and cost noted as the main concerns.",
+      "sources": [
+        "https://www.aplaceformom.com/community/legacy-house-of-centennial-hills-1396389",
+        "https://www.legacyretire.com/communities/legacy-house-of-centennial-hills/amenities/",
+        "https://www.yelp.com/biz/legacy-house-centennial-hills-las-vegas-3"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Highland Manor of Mesquite",
+      "slug": "highland-manor-of-mesquite",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "mesquite",
+      "city_name": "Mesquite",
+      "address": "272 Pioneer Blvd",
+      "zip": "89027",
+      "phone": "(702) 346-7666",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 112,
+      "cms_ccn": "295068",
+      "cms_rating_overall": 4,
+      "review_note": "CMS overall rating 4 stars in most recent Medicare data (some sources show 5 stars from earlier periods); health inspection 4 stars (July 2026)",
+      "description": "Highland Manor of Mesquite is a 112-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility serving the Mesquite area of Clark County. It holds a 4-star CMS overall rating driven by strong health inspection results, with lower marks in quality-measure and staffing categories.",
+      "sources": [
+        "https://www.nursinghomesite.com/HIGHLAND_MANOR_OF_MESQUITE_MESQUITE_NV",
+        "https://nvhca.org/find-care/highland-manor-of-mesquite/",
+        "https://health.usnews.com/best-nursing-homes/area/nv/highland-manor-of-mesquite-295068"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Atria Summit Ridge",
+      "slug": "atria-summit-ridge",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "washoe",
+      "county_name": "Washoe",
+      "city": "reno",
+      "city_name": "Reno",
+      "address": "4880 Summit Ridge Dr",
+      "zip": "89523",
+      "phone": "(775) 787-3000",
+      "website": "https://www.atriaseniorliving.com/retirement-communities/atria-summit-ridge-reno-nv/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "atria-senior-living",
+      "organization_name": "Atria Senior Living",
+      "review_note": "4.7/5 across 70 reviews on Birdeye (July 2026); U.S. News Best Senior Living for assisted living",
+      "description": "Atria Summit Ridge is a senior living community in northwest Reno offering independent living, assisted living, and memory care. Reviewers praise the attentive staff, restaurant-quality meals, and cleanliness, and U.S. News has rated it a Best Senior Living community based on resident and family surveys.",
+      "sources": [
+        "https://reviews.birdeye.com/atria-summit-ridge-157255800247550",
+        "https://www.yelp.com/biz/atria-summit-ridge-reno",
+        "https://www.atriaseniorliving.com/retirement-communities/atria-summit-ridge-reno-nv/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Cascades of the Sierra",
+      "slug": "cascades-of-the-sierra",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "washoe",
+      "county_name": "Washoe",
+      "city": "sparks",
+      "city_name": "Sparks",
+      "address": "275 Neighborhood Way",
+      "zip": "89441",
+      "phone": "(775) 424-5400",
+      "website": "https://www.cascadeliving.com/community/cascades-of-the-sierra/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "cascade-living-group",
+      "organization_name": "Cascade Living Group",
+      "review_note": "4.42/5 average across 86 reviews (AssistedLiving.org aggregate, July 2026)",
+      "description": "Cascades of the Sierra is a large senior living campus in the Spanish Springs area of Sparks, opened in 2009, offering independent living, assisted living, and memory care. Residents highlight the covered saltwater pool, extensive activity calendar, and fresh dining, while some reviews criticize management communication.",
+      "sources": [
+        "https://www.assistedliving.org/nevada/sparks/cascades-of-the-sierra/",
+        "https://www.yelp.com/biz/cascades-of-the-sierra-sparks",
+        "https://www.cascadeliving.com/community/cascades-of-the-sierra/independent-living/"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [
@@ -632,6 +753,82 @@
       "sources": [
         "https://www.morningstarseniorliving.com/find-a-community/",
         "https://www.linkedin.com/company/morningstar-senior-living"
+      ]
+    },
+    {
+      "name": "Sunrise Senior Living",
+      "slug": "sunrise-senior-living",
+      "headquarters": "McLean, Virginia",
+      "website": "https://www.sunriseseniorliving.com/",
+      "facility_count_approx": 270,
+      "states": [
+        "WA",
+        "OR",
+        "CA",
+        "VA",
+        "MD",
+        "NY",
+        "IL",
+        "CO"
+      ],
+      "description": "Sunrise Senior Living, founded in 1981, is one of the largest senior living providers in North America, operating hundreds of communities across the United States, Canada, and the United Kingdom. Its communities focus on assisted living and memory care in residential-style buildings.",
+      "sources": [
+        "https://www.sunriseseniorliving.com/"
+      ]
+    },
+    {
+      "name": "Cascade Living Group",
+      "slug": "cascade-living-group",
+      "headquarters": "Bothell, Washington",
+      "website": "https://www.cascadeliving.com/",
+      "facility_count_approx": 40,
+      "states": [
+        "WA",
+        "OR",
+        "CA",
+        "NV",
+        "AZ"
+      ],
+      "description": "Cascade Living Group is a Washington-based senior living operator managing roughly 40 independent living, assisted living, and memory care communities across the western United States, including Cascades of Bremerton in Washington and Cascades of the Sierra in Nevada.",
+      "sources": [
+        "https://www.cascadeliving.com/"
+      ]
+    },
+    {
+      "name": "Western States Lodging & Management",
+      "slug": "western-states-lodging",
+      "headquarters": "Taylorsville, Utah",
+      "website": "https://www.legacyretire.com/",
+      "facility_count_approx": 20,
+      "states": [
+        "UT",
+        "NV",
+        "ID"
+      ],
+      "description": "Western States Lodging & Management is a Utah-based hospitality and senior living operator, in business more than 25 years, that manages the Legacy House and Legacy Village brands of assisted living and memory care communities across Utah, Nevada, and Idaho.",
+      "sources": [
+        "https://www.legacyretire.com/communities/legacy-house-of-centennial-hills/amenities/"
+      ]
+    },
+    {
+      "name": "Prestige Care",
+      "slug": "prestige-care",
+      "headquarters": "Vancouver, Washington",
+      "website": "https://www.prestigecare.com/",
+      "facility_count_approx": 80,
+      "states": [
+        "WA",
+        "OR",
+        "ID",
+        "NV",
+        "CA",
+        "AK",
+        "AZ",
+        "MT"
+      ],
+      "description": "Prestige Care is a family-owned senior care company based in Vancouver, Washington, operating skilled nursing centers and senior living communities across eight western states. Its portfolio includes assisted living communities such as Legends Park in Coeur d'Alene, Idaho.",
+      "sources": [
+        "https://www.findhelp.org/prestige-care,-inc.---legends-park-assisted-living-community--coeur-d'alene-id--assisted-living/5855819316068352?postal=83815"
       ]
     }
   ]

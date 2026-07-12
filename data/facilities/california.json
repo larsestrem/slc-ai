@@ -3177,6 +3177,1155 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/056437/view-all/?state=CA"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Heritage Downtown",
+      "slug": "the-heritage-downtown",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "contra-costa",
+      "county_name": "Contra Costa",
+      "city": "walnut-creek",
+      "city_name": "Walnut Creek",
+      "address": "1785 Shuey Ave",
+      "zip": "94596",
+      "website": "https://theheritagedowntown.com",
+      "care_levels": [
+        "independent-living"
+      ],
+      "description": "An active-adult luxury independent living community in downtown Walnut Creek, within walking distance of shops and restaurants. Residents get restaurant-style dining at the on-site Newton's restaurant, a pool, gym, library, and movie theater. Winner of A Place for Mom's Best of Senior Living award four years running (2023-2026).",
+      "review_note": "4.9/5 average across 82 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-heritage-downtown-57903",
+        "https://theheritagedowntown.com/best-of-senior-living-award/",
+        "https://www.yelp.com/biz/the-heritage-downtown-walnut-creek"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Spring Lake Village",
+      "slug": "spring-lake-village",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "sonoma",
+      "county_name": "Sonoma",
+      "city": "santa-rosa",
+      "city_name": "Santa Rosa",
+      "address": "5555 Montgomery Dr",
+      "zip": "95409",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "front-porch",
+      "organization_name": "Front Porch",
+      "description": "A continuing care retirement community set beside Spring Lake and Annadel State Park in east Santa Rosa, operated by nonprofit Front Porch. Offers independent living, assisted living, and on-site skilled nursing rated High Performing for both short-term rehab and long-term care by U.S. News. Known for its landscaped campus, dining, and extensive resident programming.",
+      "review_note": "4.2/5 across 80 reviews on Birdeye (July 2026); U.S. News High Performing ratings for short-term rehab and long-term care",
+      "sources": [
+        "https://birdeye.com/spring-lake-village-171234798475354",
+        "https://health.usnews.com/best-nursing-homes/area/ca/spring-lake-village-555268",
+        "https://www.caring.com/senior-living/california/santa-rosa/spring-lake-village-95409-1"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Meadows of Napa Valley",
+      "slug": "the-meadows-of-napa-valley",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "napa",
+      "county_name": "Napa",
+      "city": "napa",
+      "city_name": "Napa",
+      "address": "1800 Atrium Pkwy",
+      "zip": "94559",
+      "phone": "(707) 257-7885",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "pacific-retirement-services",
+      "organization_name": "Pacific Retirement Services",
+      "description": "A nonprofit life plan community in the city of Napa managed by Pacific Retirement Services, offering independent living, assisted living, and skilled nursing on one campus. Families note cheerful common areas, well-kept grounds, and therapy staff who help residents regain mobility. Its short-term rehabilitation is rated High Performing by U.S. News.",
+      "review_note": "4.5/5 across 45 reviews on Birdeye (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/the-meadows-of-napa-valley-157269446745602",
+        "https://health.usnews.com/best-senior-living/the-meadows-of-napa-valley-18840",
+        "https://www.yelp.com/biz/the-meadows-of-napa-valley-napa"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Stoneridge Creek",
+      "slug": "stoneridge-creek",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "alameda",
+      "county_name": "Alameda",
+      "city": "pleasanton",
+      "city_name": "Pleasanton",
+      "address": "3300 Stoneridge Creek Way",
+      "zip": "94588",
+      "phone": "(925) 227-6800",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "continuing-life",
+      "organization_name": "Continuing Life",
+      "description": "The Bay Area's largest life plan community, a 50-acre campus in Pleasanton with resort-style amenities: restaurant-style dining venues, a fitness center and spa, swimming pools, and a performing arts center. Offers independent living plus on-campus assisted living and memory care. Part of the Continuing Life family of California communities.",
+      "google_rating": 4.7,
+      "google_review_count": 116,
+      "rating_as_of": "2026-07-12",
+      "review_note": "4.7/5 across 116 reviews on Birdeye, matching the 4.7 Google rating cited by Seniorly (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/stoneridge-creek-pleasanton-148043570833384",
+        "https://www.seniorly.com/continuing-care-retirement-community/california/pleasanton/stoneridge-creek",
+        "https://www.yelp.com/biz/stoneridge-creek-pleasanton-3"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Heritage Estates",
+      "slug": "heritage-estates",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "alameda",
+      "county_name": "Alameda",
+      "city": "livermore",
+      "city_name": "Livermore",
+      "address": "900 E Stanley Blvd",
+      "zip": "94550",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "description": "A large independent living and assisted living community in Livermore, named a U.S. News Best Senior Living community for both care levels based on resident and family surveys. Reviewers highlight cooked-to-order dining, a full activities calendar, and a shuttle for medical appointments and shopping. Staff are frequently praised for knowing residents by name.",
+      "review_note": "4.8/5 across 31 reviews on AssistedLivingCenter.com; 14 additional reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/ca/livermore/heritage-estates-94550/",
+        "https://health.usnews.com/best-senior-living/heritage-estates-2733",
+        "https://www.caring.com/senior-living/california/livermore/heritage-estates-94550"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Kensington Place Redwood City",
+      "slug": "kensington-place-redwood-city",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-mateo",
+      "county_name": "San Mateo",
+      "city": "redwood-city",
+      "city_name": "Redwood City",
+      "address": "2800 El Camino Real",
+      "zip": "94061",
+      "website": "https://kensingtonplaceredwoodcity.com",
+      "care_levels": [
+        "memory-care"
+      ],
+      "organization": "kensington-senior-living",
+      "organization_name": "Kensington Senior Living",
+      "description": "A dedicated memory care community on El Camino Real in Redwood City, part of the Kensington Senior Living family. Care is organized around two neighborhoods for different stages of dementia, with licensed nurses on site around the clock. Seniorly ranks it in the top tier for activities among Peninsula memory care communities.",
+      "review_note": "4.9/5 across 21 reviews on AssistedLivingCenter.com (July 2026)",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/ca/redwood-city/kensington-place-of-redwood-city-94061/",
+        "https://kensingtonplaceredwoodcity.com/",
+        "https://www.seniorly.com/memory-care/california/redwood-city/kensington-place-redwood-city"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Terraces of Los Gatos",
+      "slug": "the-terraces-of-los-gatos",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "santa-clara",
+      "county_name": "Santa Clara",
+      "city": "los-gatos",
+      "city_name": "Los Gatos",
+      "address": "800 Blossom Hill Rd",
+      "zip": "95032",
+      "phone": "(408) 357-1100",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "organization": "humangood",
+      "organization_name": "HumanGood",
+      "cms_ccn": "555547",
+      "cms_rating_overall": 5,
+      "description": "A HumanGood life plan community on Blossom Hill Road in Los Gatos offering independent living, assisted living, memory care, and a CMS 5-star skilled nursing center. Named a U.S. News Best Senior Living community for independent living, assisted living, and memory care. Residents like the walkable location near Los Gatos shopping and dining.",
+      "review_note": "4.8/5 across 27 reviews on AssistedLivingCenter.com; CMS 5-star overall skilled nursing rating (July 2026)",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/ca/los-gatos/terraces-of-los-gatos-95032/",
+        "https://www.nursinghomedatabase.com/snf/555547",
+        "https://health.usnews.com/best-senior-living/the-terraces-of-los-gatos-2769"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Paradise Valley Estates",
+      "slug": "paradise-valley-estates",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "solano",
+      "county_name": "Solano",
+      "city": "fairfield",
+      "city_name": "Fairfield",
+      "address": "2600 Estates Dr",
+      "zip": "94533",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "cms_rating_overall": 5,
+      "description": "A gated nonprofit life plan community in Fairfield, originally founded by retired military officers, offering independent living, assisted living, memory care, and skilled nursing. Its health center earned a 5-out-of-5 overall Medicare rating. Residents praise the spread-out campus, varied activities, and strong sense of community.",
+      "review_note": "4.6/5 across 47 reviews on Birdeye; Medicare overall rating 5/5 (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/paradise-valley-estates-157269446555211",
+        "https://assistedlivingmagazine.com/nursing-home/paradise-valley-estates/",
+        "https://www.caring.com/senior-living/california/fairfield/paradise-valley-estates-94533"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Prairie City Landing",
+      "slug": "prairie-city-landing",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "sacramento",
+      "county_name": "Sacramento",
+      "city": "folsom",
+      "city_name": "Folsom",
+      "address": "645 Willard Dr",
+      "zip": "95630",
+      "phone": "(916) 458-0303",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 200,
+      "description": "A 200-bed community in Folsom offering independent living, assisted living, and memory care. Families consistently describe warm, attentive staff, a busy calendar of fitness classes and social events, and a clean, modern building. A few reviewers wish for more menu variety and better building Wi-Fi.",
+      "review_note": "4.4/5 across 27 reviews on Birdeye; 4.6/5 across 11 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/prairie-city-landing-157269507317537",
+        "https://www.aplaceformom.com/community/prairie-city-landing-1394710",
+        "https://www.seniorly.com/assisted-living/california/folsom/prairie-city-landing"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Aegis Living Fremont",
+      "slug": "aegis-living-fremont",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "alameda",
+      "county_name": "Alameda",
+      "city": "fremont",
+      "city_name": "Fremont",
+      "address": "3850 Walnut Ave",
+      "zip": "94538",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "aegis-living",
+      "organization_name": "Aegis Living",
+      "description": "An assisted living and memory care community on Walnut Avenue in central Fremont, part of the Aegis Living family. Reviews emphasize compassionate, personalized care and a clean, peaceful setting with engaging activities and quality dining. Some families note that add-on care charges can raise the monthly cost meaningfully.",
+      "review_note": "4.7/5 across 32 reviews on Birdeye (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/aegis-living-fremont-790936640",
+        "https://www.yelp.com/biz/aegis-living-fremont-fremont",
+        "https://www.caring.com/senior-living/california/fremont/aegis-living-fremont-94538"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Channing House",
+      "slug": "channing-house",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "santa-clara",
+      "county_name": "Santa Clara",
+      "city": "palo-alto",
+      "city_name": "Palo Alto",
+      "address": "850 Webster St",
+      "zip": "94301",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "description": "A nonprofit continuing care retirement community in a high-rise in downtown Palo Alto, a short walk from University Avenue shops. Residents move through independent living, assisted living, and skilled nursing within the same building. Reviewers call out kind, attentive staff, strong value for the area, a pool, and an unusually engaged resident community.",
+      "review_note": "4.6/5 across 61 reviews on Birdeye; 51 family reviews averaging 4.5 stars on EveryPlace (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/channing-house-157270292809696",
+        "https://everyplace.care/facility/channing-house-palo-alto-ca-430700136",
+        "https://www.caring.com/senior-living/california/palo-alto/channing-house-94301"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sierra Regency",
+      "slug": "sierra-regency",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "placer",
+      "county_name": "Placer",
+      "city": "roseville",
+      "city_name": "Roseville",
+      "address": "1015 Madden Ln",
+      "zip": "95661",
+      "care_levels": [
+        "independent-living"
+      ],
+      "description": "A gated independent retirement community in Roseville, established in 1988, with full-kitchen one- and two-bedroom apartments. Amenities include an indoor heated pool and spa, putting green, chapel, library, Sunday champagne brunch, and 24-hour staffing. Meals, weekly housekeeping, and transportation are bundled into the monthly rate.",
+      "review_note": "4.3/5 across 30 reviews on A Place for Mom; 4.9/5 rating shown on AssistedLivingCenter.com with 21 reviews (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/sierra-regency-59191",
+        "https://www.assistedlivingcenter.com/facilities/ca/roseville/sierra-regency-95661/",
+        "https://www.caring.com/senior-living/california/roseville/sierra-regency-95661"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Pines by Cogir",
+      "slug": "the-pines-by-cogir",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "placer",
+      "county_name": "Placer",
+      "city": "rocklin",
+      "city_name": "Rocklin",
+      "address": "500 W Ranch View Dr",
+      "zip": "95765",
+      "phone": "(916) 672-5019",
+      "website": "https://cogirusa.com/communities/the-pines-by-cogir/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "description": "An independent living, assisted living, and memory care community in Rocklin, formerly operated as The Pines, A Merrill Gardens Community, and now part of Cogir Senior Living. Reviews consistently praise the warm atmosphere, attentive staff, and quality dining. The campus sits in the Whitney Ranch area of west Rocklin.",
+      "review_note": "4.6/5 across 39 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-pines-a-merrill-gardens-community-1375534",
+        "https://cogirusa.com/communities/the-pines-by-cogir/",
+        "https://www.caring.com/senior-living/california/rocklin/the-pines-a-merrill-gardens-community-95765"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Atria Covell Gardens",
+      "slug": "atria-covell-gardens",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "yolo",
+      "county_name": "Yolo",
+      "city": "davis",
+      "city_name": "Davis",
+      "address": "1111 Alvarado Ave",
+      "zip": "95616",
+      "phone": "(530) 756-0700",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "atria-senior-living",
+      "organization_name": "Atria Senior Living",
+      "description": "An assisted living and memory care community in north Davis operated by Atria Senior Living. Reviewers describe a restaurant-style dining room with linen-set tables and waiter service, well-kept grounds, and friendly, adequately staffed care teams. Cost runs toward the high end for the Davis area.",
+      "review_note": "4.2/5 across 18 resident and family reviews on SeniorSite; 35 reviews listed on A Place for Mom (July 2026)",
+      "sources": [
+        "https://seniorsite.org/property/show/atria-covell-gardens",
+        "https://www.aplaceformom.com/community/atria-covell-gardens-59108",
+        "https://www.caring.com/senior-living/california/davis/atria-covell-gardens-95616"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sunrise of Fair Oaks",
+      "slug": "sunrise-of-fair-oaks",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "sacramento",
+      "county_name": "Sacramento",
+      "city": "fair-oaks",
+      "city_name": "Fair Oaks",
+      "address": "4820 Hazel Ave",
+      "zip": "95628",
+      "website": "https://www.sunriseseniorliving.com/communities/ca/sunrise-of-fair-oaks",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "sunrise-senior-living",
+      "organization_name": "Sunrise Senior Living",
+      "description": "An assisted living and memory care community on Hazel Avenue in Fair Oaks, part of the national Sunrise Senior Living network. Reviews skew strongly positive, emphasizing compassionate, well-trained caregivers and a home-like atmosphere. Recognized by U.S. News for Best Assisted Living and Best Memory Care.",
+      "review_note": "4.6/5 average across 52 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/sunrise-of-fair-oaks-ca-95893",
+        "https://www.sunriseseniorliving.com/communities/ca/sunrise-of-fair-oaks",
+        "https://www.caring.com/senior-living/california/fair-oaks/sunrise-of-fair-oaks-ca-95628"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Cogir of Stock Ranch Senior Living",
+      "slug": "cogir-of-stock-ranch-senior-living",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "sacramento",
+      "county_name": "Sacramento",
+      "city": "citrus-heights",
+      "city_name": "Citrus Heights",
+      "address": "7418 Stock Ranch Rd",
+      "zip": "95621",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "description": "An assisted living community in Citrus Heights, formerly a Brookdale community and now operated by Cogir Senior Living. Families praise the kind, attentive caregivers, clean environment, and dining. Some reviews note staff turnover and want activities to be more inclusive for less independent residents.",
+      "review_note": "4.4/5 average across 104 reviews on A Place for Mom; 4.3/5 across 40 reviews on Birdeye (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/cogir-of-stock-ranch-senior-living-95659",
+        "https://reviews.birdeye.com/cogir-of-stock-ranch-175372187838655",
+        "https://health.usnews.com/best-senior-living/cogir-of-stock-ranch-16647"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Peninsula Regent",
+      "slug": "the-peninsula-regent",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-mateo",
+      "county_name": "San Mateo",
+      "city": "san-mateo",
+      "city_name": "San Mateo",
+      "address": "1 Baldwin Ave",
+      "zip": "94401",
+      "care_levels": [
+        "independent-living"
+      ],
+      "description": "An owner-occupied independent living community for seniors in downtown San Mateo, steps from shops and restaurants on Baldwin Avenue. Residents own their residences and share amenities including a pool, a gym with personal trainers, and daily dining. Reviewers consistently praise the location, cleanliness, and amenities.",
+      "review_note": "4.4/5 across 25 reviews on Birdeye; 4.5/5 across 54 ratings on Senior Care Authority (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/the-peninsula-regent-169282299158744",
+        "https://www.seniorcareauthority.com/assisted-living/peninsula-regent-the-in-san-mateo-california.html",
+        "https://www.yelp.com/biz/the-peninsula-regent-san-mateo"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "St. Paul's Towers",
+      "slug": "st-pauls-towers",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "alameda",
+      "county_name": "Alameda",
+      "city": "oakland",
+      "city_name": "Oakland",
+      "address": "100 Bay Place",
+      "zip": "94610",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "front-porch",
+      "organization_name": "Front Porch",
+      "cms_ccn": "055156",
+      "cms_rating_overall": 5,
+      "description": "A high-rise life plan community overlooking Lake Merritt in Oakland, operated by nonprofit Front Porch. Offers independent living, assisted living, and an on-site skilled nursing center rated 5 out of 5 overall by U.S. News with High Performing short-term rehab. Reviewers describe a clean, well-run building with caring staff and highly praised food; pricing runs high for the area.",
+      "review_note": "CMS/U.S. News overall nursing rating 5/5; consumer reviews average 4.4 on Oasis Senior Advisors with 18 additional reviews on Caring.com (July 2026)",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/ca/st-pauls-towers-055156",
+        "https://www.caring.com/senior-living/california/oakland/st-pauls-towers-94610-2",
+        "https://www.oasissenioradvisors.com/community-guide/california/oakland/st-pauls-towers/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Commons on Thornton",
+      "slug": "the-commons-on-thornton",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-joaquin",
+      "county_name": "San Joaquin",
+      "city": "stockton",
+      "city_name": "Stockton",
+      "address": "10711 Thornton Rd",
+      "zip": "95209",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 128,
+      "description": "A 128-bed licensed assisted living and memory care community in north Stockton, named Best Assisted Living and Best Memory Care by U.S. News & World Report. Family reviews are consistently glowing, averaging 4.9 stars across 60 reviews on EveryPlace. One of the highest consumer-rated senior communities in San Joaquin County.",
+      "google_rating": 4.8,
+      "google_review_count": 59,
+      "rating_as_of": "2026-07-12",
+      "review_note": "4.8/5 across 59 Google reviews; 60 family reviews averaging 4.9 on EveryPlace (July 2026)",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/stockton-ca/commons-on-thornton-the/5acd01c0a71d8c15cf6860fc",
+        "https://everyplace.care/facility/commons-on-thornton-the-stockton-ca-392700368",
+        "https://www.aplaceformom.com/community/the-commons-on-thornton-137847"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Oakmont of Santa Clarita",
+      "slug": "oakmont-of-santa-clarita",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "santa-clarita",
+      "city_name": "Santa Clarita",
+      "address": "28650 Newhall Ranch Rd",
+      "zip": "91355",
+      "phone": "(661) 466-2390",
+      "website": "https://oakmontseniorliving.com/santaclarita/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "oakmont-management-group",
+      "organization_name": "Oakmont Management Group",
+      "review_note": "4.7/5 across 16 reviews on Caring.com; 4.4/5 across 14 reviews on A Place for Mom (July 2026)",
+      "description": "Luxury assisted living and memory care community on Newhall Ranch Road in the Valencia area of Santa Clarita. Residents cite larger-than-average apartments, a movie theater, and diabetic and medication-management support. Part of the Oakmont Senior Living portfolio, with a B+ state inspection grade above the California average.",
+      "sources": [
+        "https://www.caring.com/senior-living/california/santa-clarita/oakmont-of-santa-clarita-91355",
+        "https://www.aplaceformom.com/community/oakmont-of-santa-clarita-1384020",
+        "https://www.yelp.com/biz/oakmont-of-santa-clarita-santa-clarita"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Oakmont of Whittier",
+      "slug": "oakmont-of-whittier",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "whittier",
+      "city_name": "Whittier",
+      "address": "13617 Whittier Blvd",
+      "zip": "90605",
+      "phone": "(562) 693-8222",
+      "website": "https://oakmontseniorliving.com/whittier/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 97,
+      "organization": "oakmont-management-group",
+      "organization_name": "Oakmont Management Group",
+      "review_note": "4.2/5 across 19 reviews on A Place for Mom (July 2026)",
+      "description": "Resort-style assisted living and memory care community on Whittier Boulevard, licensed for 97 residents (state license 198603479). Amenities include a movie theater, restaurant-style dining, and a full activity calendar including weekly happy hour. Families praise the environment and frontline caregivers while noting it is priced at the premium end for the area.",
+      "sources": [
+        "https://www.aplaceformom.com/community/oakmont-of-whittier-1375940",
+        "https://assistedlivingmapper.com/california/whittier/oakmont-of-whittier",
+        "https://www.yelp.com/biz/oakmont-of-whittier-whittier"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Oakmont of Torrance",
+      "slug": "oakmont-of-torrance",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "torrance",
+      "city_name": "Torrance",
+      "address": "3620 Lomita Blvd",
+      "zip": "90505",
+      "phone": "(424) 376-3300",
+      "website": "https://oakmontseniorliving.com/torrance/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 126,
+      "organization": "oakmont-management-group",
+      "organization_name": "Oakmont Management Group",
+      "google_rating": 4.1,
+      "google_review_count": 55,
+      "rating_as_of": "2026-07-12",
+      "review_note": "4.3/5 across 21 reviews on A Place for Mom (July 2026); Google 4.1 across 55 reviews",
+      "description": "Modern assisted living and memory care community on Lomita Boulevard near Torrance Memorial Medical Center, licensed for 126 residents. Reviewers describe a clean, upscale building with extensive amenities and kind, attentive caregivers, while some note leadership turnover. One of the newer luxury senior living options in the South Bay.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/torrance-ca/oakmont-of-torrance/67f33cd5a073024f4eb49854",
+        "https://www.aplaceformom.com/community/oakmont-of-torrance-1441304",
+        "https://www.yelp.com/biz/oakmont-of-torrance-torrance"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Bay Towers at Bixby Knolls",
+      "slug": "bay-towers-at-bixby-knolls",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "long-beach",
+      "city_name": "Long Beach",
+      "address": "3737 Atlantic Ave",
+      "zip": "90807",
+      "phone": "(562) 608-1381",
+      "website": "https://baytowersatbixbyknolls.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "review_note": "4.4/5 across 77 reviews on A Place for Mom; 4.6 stars across 117 reviews on Birdeye (July 2026)",
+      "description": "High-rise senior community in Long Beach's Bixby Knolls neighborhood offering independent living, assisted living, and respite stays. Monthly rates start lower than most coastal Los Angeles County communities, with chef-prepared meals, a fitness center, complimentary transportation, and organized outings. Reviewers consistently mention the food and the staff.",
+      "sources": [
+        "https://www.aplaceformom.com/community/bay-towers-at-bixby-knolls-54465",
+        "https://birdeye.com/bay-towers-at-bixby-knolls-169341834506799",
+        "https://baytowersatbixbyknolls.com/contact-us/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Scholl Canyon Estates",
+      "slug": "scholl-canyon-estates",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "glendale",
+      "city_name": "Glendale",
+      "address": "1551 E Chevy Chase Dr",
+      "zip": "91206",
+      "phone": "(818) 951-3830",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "review_note": "4.5/5 across 38 reviews on A Place for Mom (July 2026)",
+      "description": "Independent living retirement community in the hills of east Glendale, established in 2000 and operated under the Gracious Retirement Living brand. Monthly rent includes three chef-prepared meals daily, weekly housekeeping, transportation, and a busy events calendar with live music, dances, and exercise classes. Live-in managers are on site around the clock.",
+      "sources": [
+        "https://www.aplaceformom.com/community/scholl-canyon-estates-148228",
+        "https://www.caring.com/senior-living/california/glendale/scholl-canyon-estates-gracious-retirement-living",
+        "https://www.yelp.com/biz/scholl-canyon-estates-gracious-retirement-living-glendale"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Villa Gardens",
+      "slug": "villa-gardens",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "los-angeles",
+      "county_name": "Los Angeles",
+      "city": "pasadena",
+      "city_name": "Pasadena",
+      "address": "842 E Villa St",
+      "zip": "91101",
+      "phone": "(626) 463-5350",
+      "website": "https://frontporch.net/community/villa-gardens/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "front-porch",
+      "organization_name": "Front Porch",
+      "cms_ccn": "555429",
+      "cms_rating_overall": 5,
+      "review_note": "Editorial inclusion: CMS 5-star on-site skilled nursing (Villa Gardens Health Center); consumer reviews thinner — 4.1/5 across 6 reviews on A Place for Mom, and Summer House memory care 4.5 stars across 14 reviews on Birdeye (July 2026)",
+      "description": "Nonprofit continuing care retirement community in Pasadena operated by Front Porch, offering independent living, assisted living, memory care, and a CMS 5-star rated skilled nursing health center on one campus. Named Pasadena's best retirement community by local publications multiple years running. Residents cite waitstaff dining, a 24-hour bistro, and a strong fitness program; it is an entrance-fee community at the premium end.",
+      "sources": [
+        "https://villagardenshealthcenter.org/",
+        "https://www.medicare.gov/care-compare/details/nursing-home/555429/view-all/?state=CA",
+        "https://frontporch.net/community/villa-gardens/",
+        "https://www.aplaceformom.com/community/villa-gardens-94566"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Vivante on the Coast",
+      "slug": "vivante-on-the-coast",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "costa-mesa",
+      "city_name": "Costa Mesa",
+      "address": "1640 Monrovia Ave",
+      "zip": "92627",
+      "phone": "(949) 629-2100",
+      "website": "https://vivanteliving.com/senior-living/costa-mesa/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "vivante-living",
+      "organization_name": "Vivante Living",
+      "review_note": "4.5/5 across 26 reviews on A Place for Mom (July 2026)",
+      "description": "Resort-style luxury assisted living and memory care community near the Newport Beach border, voted Best Senior Living in Orange County by LA Times readers in 2020. Known for made-to-order dining with extended hours, daily activity programming, and modern, hotel-like common spaces. U.S. News has rated it a Best Senior Living community for assisted living.",
+      "sources": [
+        "https://www.aplaceformom.com/community/vivante-on-the-coast-1366717",
+        "https://vivanteliving.com/senior-living/costa-mesa/",
+        "https://health.usnews.com/best-assisted-living/vivante-on-the-coast-47350"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Emerald Court",
+      "slug": "emerald-court",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "anaheim",
+      "city_name": "Anaheim",
+      "address": "1731 W Medical Center Dr",
+      "zip": "92801",
+      "phone": "(714) 778-5100",
+      "website": "https://www.kiscoseniorliving.com/senior-living/ca/anaheim/emerald-court/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "kisco-senior-living",
+      "organization_name": "Kisco Senior Living",
+      "review_note": "4.6/5 across 48 reviews on A Place for Mom (July 2026)",
+      "description": "Kisco Senior Living community in west Anaheim offering independent living, assisted living, and memory care near Anaheim Medical Center. U.S. News has rated it a Best Senior Living community across all three care levels. Reviewers consistently describe a clean, well-maintained building, quick staff response times, and a lively activity and dining program.",
+      "sources": [
+        "https://www.aplaceformom.com/community/emerald-court-56137",
+        "https://www.kiscoseniorliving.com/senior-living/ca/anaheim/emerald-court/contact/",
+        "https://www.yelp.com/biz/emerald-court-anaheim"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Ivy Park at Huntington Beach",
+      "slug": "ivy-park-at-huntington-beach",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "huntington-beach",
+      "city_name": "Huntington Beach",
+      "address": "7401 Yorktown Ave",
+      "zip": "92648",
+      "phone": "(714) 536-3032",
+      "website": "https://ivyliving.com/huntingtonbeach/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "ivy-living",
+      "organization_name": "Ivy Living",
+      "review_note": "4.2/5 across 63 reviews on A Place for Mom (July 2026)",
+      "description": "Assisted living and memory care community on Yorktown Avenue, about two miles from the Huntington Beach shoreline; formerly Sunrise of Huntington Beach and now part of the Ivy Living portfolio. Reviewers highlight the executive director's leadership, attentive med-tech and caregiving staff, and an inviting, recently refreshed interior.",
+      "sources": [
+        "https://www.aplaceformom.com/community/ivy-park-at-huntington-beach-97674",
+        "https://ivyliving.com/huntingtonbeach/",
+        "https://www.yelp.com/biz/ivy-park-at-huntington-beach-huntington-beach"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Atria Newport Beach",
+      "slug": "atria-newport-beach",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "newport-beach",
+      "city_name": "Newport Beach",
+      "address": "393 Hospital Rd",
+      "zip": "92663",
+      "phone": "(949) 642-5861",
+      "website": "https://www.atriaseniorliving.com/retirement-communities/atria-newport-beach-newport-beach-ca",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "atria-senior-living",
+      "organization_name": "Atria Senior Living",
+      "review_note": "4.7/5 across 66 reviews on A Place for Mom (July 2026)",
+      "description": "Modern senior living community near Hoag Hospital offering independent living, assisted living, and memory care. Apartments include smart-home features, and the campus has a fitness center, yoga studio, and movie theater. Families frequently compare the service level to a premium hotel and note that staff know residents by name.",
+      "sources": [
+        "https://www.aplaceformom.com/community/atria-newport-beach-94853",
+        "https://www.atriaseniorliving.com/retirement-communities/atria-newport-beach-newport-beach-ca",
+        "https://www.yelp.com/biz/atria-newport-beach-2"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Regents Point",
+      "slug": "regents-point",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "irvine",
+      "city_name": "Irvine",
+      "address": "19191 Harvard Ave",
+      "zip": "92612",
+      "phone": "(949) 854-9500",
+      "website": "https://www.humangood.org/regents-point",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "humangood",
+      "organization_name": "HumanGood",
+      "review_note": "4.5/5 across 14 reviews on A Place for Mom (July 2026)",
+      "description": "Nonprofit continuing care retirement community operated by HumanGood, set between UC Irvine and 347-acre Mason Regional Park. Offers independent living, assisted living, memory care, and on-campus skilled nursing (Regents Point-Windcrest), which has provided post-acute rehab in Orange County for over 30 years. Named a Best CCRC in U.S. News' 2026 Best Senior Living awards.",
+      "sources": [
+        "https://www.humangood.org/regents-point",
+        "https://www.aplaceformom.com/community/regents-point-1356836",
+        "https://health.usnews.com/best-senior-living/regents-point-2006"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Oakmont of Orange",
+      "slug": "oakmont-of-orange",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "orange",
+      "city_name": "Orange",
+      "address": "630 The City Dr S",
+      "zip": "92868",
+      "phone": "(714) 364-0619",
+      "website": "https://oakmontseniorliving.com/orange/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "oakmont-management-group",
+      "organization_name": "Oakmont Management Group",
+      "review_note": "4.8/5 across 79 reviews on A Place for Mom (July 2026)",
+      "description": "Luxury assisted living and memory care community on The City Drive in Orange, close to UCI Medical Center and the Outlets at Orange. One of the highest consumer-rated large communities in central Orange County, with an A Place for Mom review score of 9.8/10 over the last two years. Offers restaurant-style dining and a full amenity package typical of the Oakmont portfolio.",
+      "sources": [
+        "https://www.aplaceformom.com/community/oakmont-of-orange-1407631",
+        "https://www.yelp.com/biz/oakmont-of-orange-orange",
+        "https://oakmontseniorliving.com/orange/contact/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Everest at The Groves of Tustin",
+      "slug": "everest-at-the-groves-of-tustin",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "orange",
+      "county_name": "Orange",
+      "city": "tustin",
+      "city_name": "Tustin",
+      "address": "1262 Bryan Ave",
+      "zip": "92780",
+      "phone": "(800) 805-3621",
+      "website": "https://everestatgrovesoftustin.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "review_note": "4.2/5 across 59 reviews on A Place for Mom (July 2026)",
+      "description": "Assisted living and memory care community on Bryan Avenue in Tustin, long known locally as The Groves of Tustin and now operated by Everest Senior Living. Offers studio and one-bedroom apartments plus a dedicated Generations memory care neighborhood with its own dining room, living room, and patio. Reviewers repeatedly mention the warmth of the caregiving staff and the courtyard grounds.",
+      "sources": [
+        "https://www.aplaceformom.com/community/everest-at-the-groves-of-tustin-147249",
+        "https://everestatgrovesoftustin.com/",
+        "https://www.seniorlivingguide.com/communities/everest-at-the-groves-of-tustin-1262-bryan-ave-tustin-ca-92780/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Discovery Commons Raincross",
+      "slug": "discovery-commons-raincross",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "riverside",
+      "county_name": "Riverside",
+      "city": "riverside",
+      "city_name": "Riverside",
+      "address": "5232 Central Ave",
+      "zip": "92504",
+      "phone": "(951) 785-1200",
+      "website": "https://discoverycommonsraincross.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "organization": "discovery-senior-living",
+      "organization_name": "Discovery Senior Living",
+      "review_note": "4.3/5 across 89 reviews on A Place for Mom (July 2026)",
+      "description": "Assisted living and memory care community in Riverside, formerly Raincross at Riverside under Watermark and now part of Discovery Senior Living. U.S. News has rated it a Best Senior Living community for assisted living based on resident and family surveys. Reviews praise the bright, clean environment and long-tenured, compassionate staff, with some noting staffing pressure in memory care.",
+      "sources": [
+        "https://www.aplaceformom.com/community/discovery-commons-raincross-143299",
+        "https://discoverycommonsraincross.com/",
+        "https://www.yelp.com/biz/raincross-at-riverside-riverside-6"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Stonewall Gardens Assisted Living",
+      "slug": "stonewall-gardens-assisted-living",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "riverside",
+      "county_name": "Riverside",
+      "city": "palm-springs",
+      "city_name": "Palm Springs",
+      "address": "2150 N Palm Canyon Dr",
+      "zip": "92262",
+      "phone": "(760) 548-0970",
+      "website": "http://www.stonewallgardens.com/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.9/5 across 28 reviews on A Place for Mom (July 2026)",
+      "description": "Boutique assisted living community of roughly two dozen studio and one-bedroom apartments on North Palm Canyon Drive, notable as Southern California's first assisted living community built for LGBT seniors and friends. Rated the top senior living community in Palm Springs on consumer review platforms, with reviewers citing personalized care and an inclusive, social atmosphere.",
+      "sources": [
+        "https://www.aplaceformom.com/community/stonewall-gardens-assisted-living-for-lgbt-seniors-and-friends-1376996",
+        "http://www.stonewallgardens.com/",
+        "https://www.yelp.com/biz/stonewall-gardens-assisted-living-palm-springs"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Atria Park of Vintage Hills",
+      "slug": "atria-park-of-vintage-hills",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "riverside",
+      "county_name": "Riverside",
+      "city": "temecula",
+      "city_name": "Temecula",
+      "address": "41780 Butterfield Stage Rd",
+      "zip": "92592",
+      "phone": "(951) 506-5555",
+      "website": "https://www.atriaseniorliving.com/retirement-communities/atria-vintage-hills-temecula-ca",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "atria-senior-living",
+      "organization_name": "Atria Senior Living",
+      "review_note": "4.4/5 across 126 reviews on A Place for Mom (July 2026)",
+      "description": "Retirement community in the Temecula wine country foothills offering independent living, assisted living, and memory care. Residents describe a resort-like, well-kept campus with attentive staff and reliable transportation service. One of the largest review bases of any senior community in southwest Riverside County, with some reviewers flagging rate increases and dining consistency.",
+      "sources": [
+        "https://www.aplaceformom.com/community/atria-park-of-vintage-hills-55910",
+        "https://www.atriaseniorliving.com/retirement-communities/atria-vintage-hills-temecula-ca",
+        "https://www.yelp.com/biz/atria-park-of-vintage-hills-temecula"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Brookdale Murrieta",
+      "slug": "brookdale-murrieta",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "riverside",
+      "county_name": "Riverside",
+      "city": "murrieta",
+      "city_name": "Murrieta",
+      "address": "24350 Jackson Ave",
+      "zip": "92562",
+      "phone": "(951) 696-5753",
+      "website": "https://www.brookdale.com/en/communities/brookdale-murrieta.html",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "organization": "brookdale-senior-living",
+      "organization_name": "Brookdale Senior Living",
+      "review_note": "4.3/5 across 65 reviews on A Place for Mom (July 2026)",
+      "description": "Assisted living community on Jackson Avenue in Murrieta, part of the national Brookdale Senior Living network. Carries an A Place for Mom review score of 9.3/10 over the last two years, with families citing responsive caregivers and a homey scale compared with the area's larger resort-style campuses.",
+      "sources": [
+        "https://www.aplaceformom.com/community/brookdale-murrieta-55884",
+        "https://www.brookdale.com/en/communities/brookdale-murrieta/assisted-living.html",
+        "https://www.yelp.com/biz/brookdale-murrieta-murrieta"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Westmont of Escondido",
+      "slug": "westmont-of-escondido",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-diego",
+      "county_name": "San Diego",
+      "city": "escondido",
+      "city_name": "Escondido",
+      "address": "500 E Valley Pkwy",
+      "zip": "92025",
+      "phone": "(760) 737-5110",
+      "website": "https://westmontliving.com/our-communities/california/escondido/westmont-of-escondido/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "westmont-living",
+      "organization_name": "Westmont Living",
+      "review_note": "4.4/5 across 69 reviews on A Place for Mom; A Place for Mom review score 9.6/10 on 26 reviews in the last 2 years (July 2026)",
+      "description": "Downtown Escondido senior community, long known as Westmont Town Court, offering independent living, assisted living, and memory care. Includes three daily meals, weekly housekeeping, scheduled transportation, and group fitness and music programming. Reviewers describe a clean, friendly, walkable-neighborhood feel and strong value for North County San Diego.",
+      "sources": [
+        "https://www.aplaceformom.com/community/westmont-of-escondido-55255",
+        "https://westmontliving.com/our-communities/california/escondido/westmont-of-escondido/",
+        "https://www.yelp.com/biz/westmont-of-escondido-escondido"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Pasea Senior Living",
+      "slug": "the-pasea-senior-living",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-diego",
+      "county_name": "San Diego",
+      "city": "chula-vista",
+      "city_name": "Chula Vista",
+      "address": "1420 E Palomar St",
+      "zip": "91913",
+      "phone": "(619) 591-0600",
+      "website": "https://thepaseaseniorliving.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "google_rating": 4.2,
+      "google_review_count": 34,
+      "rating_as_of": "2026-07-12",
+      "description": "Resort-style community in the Otay Ranch area of Chula Vista offering independent living, assisted living, and memory care; it operated for years as St. Paul's Plaza before rebranding as The Pasea. Amenities include restaurant-style dining, on-site wellness services, and outdoor courtyards. Reviewers compare the building to a hotel and praise the memory care staff.",
+      "sources": [
+        "https://thepaseaseniorliving.com/",
+        "https://www.aplaceformom.com/community/the-pasea-1381678",
+        "https://www.yelp.com/biz/the-pasea-chula-vista-2"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Bayshire Carlsbad",
+      "slug": "bayshire-carlsbad",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-diego",
+      "county_name": "San Diego",
+      "city": "carlsbad",
+      "city_name": "Carlsbad",
+      "address": "3140 El Camino Real",
+      "zip": "92008",
+      "phone": "(760) 720-9898",
+      "website": "https://bayshirecarlsbad.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "cms_ccn": "555745",
+      "cms_rating_overall": 5,
+      "description": "Continuing care retirement community on El Camino Real in Carlsbad combining assisted living, memory care, and a Medicare-certified skilled nursing center with 45 certified beds. The skilled nursing facility holds a CMS 5-star overall rating, with 4 stars for health inspections and 5 stars for quality measures. Offers short-term rehabilitation and long-term care on the same campus, first Medicare-certified in 1999.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/555745/view-all/?state=CA",
+        "https://bayshirecarlsbad.com/contact-us/",
+        "https://health.usnews.com/best-nursing-homes/area/ca/bayshire-carlsbad-555745"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [
@@ -3381,6 +4530,164 @@
       "description": "An operator of assisted living and memory care communities in California's Central Valley, including locations in Oakdale and the greater Modesto area.",
       "sources": [
         "https://astoriaseniorliving.com/astoria-in-oakdale/"
+      ]
+    },
+    {
+      "name": "Front Porch",
+      "slug": "front-porch",
+      "headquarters": "Glendale, California",
+      "facility_count_approx": 19,
+      "states": [
+        "CA"
+      ],
+      "description": "A nonprofit senior living provider formed by the 2021 merger of Front Porch and Covia, operating about 19 retirement and life plan communities, primarily in California, plus affordable housing programs. Its communities include Spring Lake Village in Santa Rosa and St. Paul's Towers in Oakland.",
+      "sources": [
+        "https://frontporch.net/"
+      ]
+    },
+    {
+      "name": "Pacific Retirement Services",
+      "slug": "pacific-retirement-services",
+      "headquarters": "Medford, Oregon",
+      "facility_count_approx": 15,
+      "states": [
+        "OR",
+        "CA",
+        "WA",
+        "TX",
+        "WI"
+      ],
+      "description": "A nonprofit organization that develops and manages continuing care retirement communities across the West and beyond, including The Meadows of Napa Valley. Known for large life plan campuses such as Mirabella Seattle and Rogue Valley Manor.",
+      "sources": [
+        "https://www.retirement.org/"
+      ]
+    },
+    {
+      "name": "Continuing Life",
+      "slug": "continuing-life",
+      "headquarters": "Carlsbad, California",
+      "facility_count_approx": 5,
+      "states": [
+        "CA"
+      ],
+      "description": "A California family of large luxury life plan communities operating under the Continuing Life brand, including Stoneridge Creek in Pleasanton, University Village Thousand Oaks, and La Costa Glen in Carlsbad. Communities emphasize resort-style campuses with a full continuum of care.",
+      "sources": [
+        "https://www.continuinglife.com/"
+      ]
+    },
+    {
+      "name": "Aegis Living",
+      "slug": "aegis-living",
+      "headquarters": "Bellevue, Washington",
+      "facility_count_approx": 38,
+      "states": [
+        "WA",
+        "CA",
+        "NV"
+      ],
+      "description": "A privately held assisted living and memory care operator founded in 1997, with more than 35 boutique-style communities in Washington, California, and Nevada. Known for design-forward buildings and a strong staff-culture reputation.",
+      "sources": [
+        "https://www.aegisliving.com/"
+      ]
+    },
+    {
+      "name": "Kensington Senior Living",
+      "slug": "kensington-senior-living",
+      "headquarters": "Reston, Virginia",
+      "facility_count_approx": 10,
+      "states": [
+        "VA",
+        "MD",
+        "CA",
+        "NY"
+      ],
+      "description": "An assisted living and memory care operator whose communities promise an extended aging-in-place license model, allowing residents to stay through higher care needs. Operates roughly ten communities on the East and West Coasts, including Kensington Place Redwood City.",
+      "sources": [
+        "https://www.kensingtonseniorliving.com/"
+      ]
+    },
+    {
+      "name": "Cogir Senior Living",
+      "slug": "cogir-senior-living",
+      "headquarters": "Scottsdale, Arizona",
+      "facility_count_approx": 90,
+      "states": [
+        "CA",
+        "WA",
+        "AZ",
+        "NV",
+        "OR",
+        "CO"
+      ],
+      "description": "The U.S. senior housing arm of Canada's Cogir Real Estate, operating about 90 independent living, assisted living, and memory care communities across the western U.S. Grew rapidly by acquiring former Brookdale and Merrill Gardens communities, including The Pines by Cogir in Rocklin.",
+      "sources": [
+        "https://cogirusa.com/"
+      ]
+    },
+    {
+      "name": "Oakmont Management Group",
+      "slug": "oakmont-management-group",
+      "headquarters": "Irvine, California",
+      "website": "https://oakmontseniorliving.com/",
+      "facility_count_approx": 80,
+      "states": [
+        "CA",
+        "NV",
+        "HI"
+      ],
+      "description": "Operator of the Oakmont Senior Living portfolio of luxury assisted living and memory care communities, concentrated in California. Communities emphasize resort-style amenities, chef-driven dining, and dedicated Traditions memory care neighborhoods.",
+      "sources": [
+        "https://www.aplaceformom.com/providers/oakmont-management-group-1369929"
+      ]
+    },
+    {
+      "name": "Ivy Living",
+      "slug": "ivy-living",
+      "headquarters": "Irvine, California",
+      "website": "https://ivyliving.com/",
+      "states": [
+        "CA"
+      ],
+      "description": "California senior living brand operating Ivy Park assisted living and memory care communities, many of them former Sunrise Senior Living locations. Affiliated with the Oakmont Management Group family of companies.",
+      "sources": [
+        "https://ivyliving.com/huntingtonbeach/"
+      ]
+    },
+    {
+      "name": "Kisco Senior Living",
+      "slug": "kisco-senior-living",
+      "headquarters": "Carlsbad, California",
+      "website": "https://www.kiscoseniorliving.com/",
+      "facility_count_approx": 20,
+      "description": "Privately held senior living operator founded in 1990, managing upscale independent living, assisted living, and memory care communities in California and several other states under its Kisco Signature and Lifestyle brands.",
+      "sources": [
+        "https://www.kiscoseniorliving.com/senior-living/ca/anaheim/emerald-court/"
+      ]
+    },
+    {
+      "name": "Westmont Living",
+      "slug": "westmont-living",
+      "headquarters": "San Diego, California",
+      "website": "https://westmontliving.com/",
+      "facility_count_approx": 18,
+      "states": [
+        "CA",
+        "OR",
+        "NV"
+      ],
+      "description": "Family-owned senior living company based in San Diego operating independent living, assisted living, and memory care communities, primarily in California and the Pacific Northwest.",
+      "sources": [
+        "https://www.aplaceformom.com/providers/westmont-living-10239"
+      ]
+    },
+    {
+      "name": "Vivante Living",
+      "slug": "vivante-living",
+      "headquarters": "Newport Beach, California",
+      "website": "https://vivanteliving.com/",
+      "description": "Boutique luxury senior living brand operating resort-style assisted living and memory care communities in coastal Southern California, including Vivante on the Coast in Costa Mesa and Vivante Newport Center.",
+      "sources": [
+        "https://vivanteliving.com/senior-living/costa-mesa/"
       ]
     }
   ]

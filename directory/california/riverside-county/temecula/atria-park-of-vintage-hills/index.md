@@ -1,0 +1,28 @@
+---
+layout: "facility"
+title: "Atria Park of Vintage Hills"
+seo_title: "Atria Park of Vintage Hills — Senior Living in Temecula, CA"
+description: "Retirement community in the Temecula wine country foothills offering independent living, assisted living, and memory care. Residents describe a resort-like, w"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Atria Park of Vintage Hills", "url": "/directory/california/riverside-county/temecula/atria-park-of-vintage-hills/"}]
+nearby: [{"name": "Vineyard Ranch at Temecula", "url": "/directory/california/riverside-county/temecula/vineyard-ranch-at-temecula/", "city_name": "Temecula", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "description": "Vineyard Ranch at Temecula is an assisted living and memory care community in the Temecula wine country area, owned by Northstar Senior Living. Families describe staff who treat residents like family, and the community has been recognized for consistently high ratings from residents and their families."}]
+state: "california"
+state_name: "California"
+state_abbrev: "CA"
+county: "riverside"
+county_name: "Riverside"
+city: "temecula"
+city_name: "Temecula"
+address: "41780 Butterfield Stage Rd"
+zip: "92592"
+phone: "(951) 506-5555"
+website: "https://www.atriaseniorliving.com/retirement-communities/atria-vintage-hills-temecula-ca"
+care_levels: ["independent-living", "assisted-living", "memory-care"]
+facility_size: "large"
+organization: "atria-senior-living"
+organization_name: "Atria Senior Living"
+sources: ["https://www.aplaceformom.com/community/atria-park-of-vintage-hills-55910", "https://www.atriaseniorliving.com/retirement-communities/atria-vintage-hills-temecula-ca", "https://www.yelp.com/biz/atria-park-of-vintage-hills-temecula"]
+verified_date: "2026-07-12"
+review_note: "4.4/5 across 126 reviews on A Place for Mom (July 2026)"
+description_full: "Retirement community in the Temecula wine country foothills offering independent living, assisted living, and memory care. Residents describe a resort-like, well-kept campus with attentive staff and reliable transportation service. One of the largest review bases of any senior community in southwest Riverside County, with some reviewers flagging rate increases and dining consistency."
+licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
+---

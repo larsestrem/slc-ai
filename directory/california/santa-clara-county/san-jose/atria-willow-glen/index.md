@@ -1,0 +1,28 @@
+---
+layout: "facility"
+title: "Atria Willow Glen"
+seo_title: "Atria Willow Glen — Senior Living in San Jose, CA"
+description: "Large independent living, assisted living, and memory care community about four miles from downtown San Jose in the Willow Glen area. Reviewers highlight the "
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Atria Willow Glen", "url": "/directory/california/santa-clara-county/san-jose/atria-willow-glen/"}]
+nearby: []
+state: "california"
+state_name: "California"
+state_abbrev: "CA"
+county: "santa-clara"
+county_name: "Santa Clara"
+city: "san-jose"
+city_name: "San Jose"
+address: "1660 Gaton Dr"
+zip: "95125"
+phone: "(408) 266-1660"
+website: "https://www.atriaseniorliving.com/retirement-communities/atria-willow-glen-san-jose-ca"
+care_levels: ["independent-living", "assisted-living", "memory-care"]
+facility_size: "large"
+organization: "atria-senior-living"
+organization_name: "Atria Senior Living"
+sources: ["https://reviews.birdeye.com/atria-willow-glen-157256561792200", "https://www.aplaceformom.com/community/atria-willow-glen-58456", "https://www.atriaseniorliving.com/retirement-communities/atria-willow-glen-san-jose-ca"]
+verified_date: "2026-07-12"
+review_note: "4.6 stars across 84 reviews on Birdeye; 4.4/5 overall experience across 128 reviews on A Place for Mom (July 2026)"
+description_full: "Large independent living, assisted living, and memory care community about four miles from downtown San Jose in the Willow Glen area. Reviewers highlight the variety of activities, beautiful grounds, and welcoming staff, and describe the campus as safe and secure. Operated by Atria Senior Living."
+licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
+---

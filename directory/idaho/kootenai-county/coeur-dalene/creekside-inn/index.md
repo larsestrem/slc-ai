@@ -4,7 +4,7 @@ title: "Creekside Inn"
 seo_title: "Creekside Inn — Senior Living in Coeur d'Alene, ID"
 description: "Creekside Inn is a dedicated memory care community in Coeur d'Alene designed exclusively for residents living with Alzheimer's disease, dementia, and other fo"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Creekside Inn", "url": "/directory/idaho/kootenai-county/coeur-dalene/creekside-inn/"}]
-nearby: []
+nearby: [{"name": "North Star Retirement Community", "url": "/directory/idaho/kootenai-county/coeur-dalene/north-star-retirement-community/", "city_name": "Coeur d'Alene", "state_abbrev": "ID", "care_levels": ["independent-living", "assisted-living", "respite-care"], "description": "North Star Retirement Community offers independent living, assisted living, and respite care in Coeur d'Alene, operated by Stellar Senior Living. Residents and families consistently note the excellent meals, meticulous cleanliness, scenic location, and dedicated, professional staff."}]
 state: "idaho"
 state_name: "Idaho"
 state_abbrev: "ID"

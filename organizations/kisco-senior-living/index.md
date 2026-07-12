@@ -1,0 +1,8 @@
+---
+layout: "organization"
+title: "Kisco Senior Living"
+seo_title: "Kisco Senior Living — Senior Living Communities & Locations"
+description: "Kisco Senior Living senior living communities: locations in our directory, company facts, and how to evaluate each community."
+facilities: [{"name": "Byron Park", "url": "/directory/california/contra-costa-county/walnut-creek/byron-park/", "city_name": "Walnut Creek", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living"], "facility_size": "large", "description": "Independent living and assisted living community in Walnut Creek's Tice Valley area, operating since 1991 as part of Kisco Senior Living. Residents compare the well-kept grounds, courtyard gardens, and pool to a boutique hotel, and the community runs a busy calendar of exercise classes, live music, and cultural outings with scheduled daily transportation."}, {"name": "Crestavilla", "url": "/directory/california/orange-county/laguna-niguel/crestavilla/", "city_name": "Laguna Niguel", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "facility_size": "large", "description": "Crestavilla is a luxury Kisco Signature senior living community in Laguna Niguel offering independent living, assisted living and memory care in a 250-bed campus near Crown Valley Parkway. U.S. News has rated it a Best Senior Living community for assisted living and memory care, and reviewers praise the staff, rooftop dining and resort-level amenities."}]
+crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Kisco Senior Living", "url": "/organizations/kisco-senior-living/"}]
+---

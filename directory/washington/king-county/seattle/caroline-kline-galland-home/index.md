@@ -1,0 +1,29 @@
+---
+layout: "facility"
+title: "Caroline Kline Galland Home"
+seo_title: "Caroline Kline Galland Home — Senior Living in Seattle, WA"
+description: "Nonprofit Jewish-heritage skilled nursing and rehabilitation campus on the shores of Lake Washington in Seward Park, serving Seattle since 1914. Offers short-"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Caroline Kline Galland Home", "url": "/directory/washington/king-county/seattle/caroline-kline-galland-home/"}]
+nearby: [{"name": "Aegis Living Queen Anne Rodgers Park", "url": "/directory/washington/king-county/seattle/aegis-living-queen-anne-rodgers-park/", "city_name": "Seattle", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "description": "Aegis Living Queen Anne Rodgers Park is an assisted living and memory care community on Queen Anne Hill in Seattle, across from Rodgers Park. The community offers 88 assisted living apartments and 41 Life's Neighborhood memory care apartments. It is operated by Aegis Living, a Bellevue-based senior living company."}, {"name": "University House Wallingford", "url": "/directory/washington/king-county/seattle/university-house-wallingford/", "city_name": "Seattle", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living"], "facility_size": "large", "description": "University House Wallingford is an Era Living retirement community in Seattle's Wallingford neighborhood, opened in 1997, with 146 one- and two-bedroom apartments. It offers independent living with assisted living services available, a full-service restaurant, and an on-site wellness center staffed by a registered nurse. The community sits within walking distance of Wallingford shops, restaurants, and the library."}, {"name": "Merrill Gardens at Ballard", "url": "/directory/washington/king-county/seattle/merrill-gardens-at-ballard/", "city_name": "Seattle", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Merrill Gardens at Ballard is a senior living community in the heart of Seattle's Ballard neighborhood offering independent living, assisted living, and memory care. It is operated by Merrill Gardens, a Seattle-based senior living company, and is located near Ballard's shopping, dining, and medical facilities."}, {"name": "Columbia Lutheran Home", "url": "/directory/washington/king-county/seattle/columbia-lutheran-home/", "city_name": "Seattle", "state_abbrev": "WA", "care_levels": ["skilled-nursing"], "facility_size": "large", "cms_rating_overall": 4, "description": "One of the Pacific Northwest's longest-operating standalone not-for-profit nursing homes, located in Seattle's Phinney Ridge neighborhood. Provides short-term transitional care and rehabilitation plus long-term care across 116 certified beds, with a CMS 4-star overall rating and High Performing marks from U.S. News for both short-term rehab and long-term care."}]
+state: "washington"
+state_name: "Washington"
+state_abbrev: "WA"
+county: "king"
+county_name: "King"
+city: "seattle"
+city_name: "Seattle"
+address: "7500 Seward Park Avenue South"
+zip: "98118"
+phone: "(206) 725-8800"
+website: "https://www.klinegalland.org/"
+care_levels: ["skilled-nursing"]
+facility_size: "large"
+organization: "kline-galland"
+organization_name: "Kline Galland"
+cms_ccn: "505442"
+cms_rating_overall: 5
+sources: ["https://www.klinegalland.org/", "https://www.nursinghomedatabase.com/snf/505442", "https://health.usnews.com/best-nursing-homes/area/wa/caroline-kline-galland-home-505442"]
+verified_date: "2026-07-12"
+review_note: "CMS 5-star overall rating; short-term rehab and long-term care both rated High Performing by U.S. News (July 2026)"
+description_full: "Nonprofit Jewish-heritage skilled nursing and rehabilitation campus on the shores of Lake Washington in Seward Park, serving Seattle since 1914. Offers short-term rehabilitation and long-term care and holds a CMS 5-star overall rating, with nursing staff time of 6.13 hours per resident daily versus a 3.89-hour national average."
+---

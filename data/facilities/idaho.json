@@ -14,7 +14,10 @@
       "zip": "83706",
       "phone": "(208) 338-5600",
       "website": "https://www.brookdale.com/en/communities/brookdale-boise-parkcenter-al.html",
-      "care_levels": ["independent-living", "assisted-living"],
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
       "organization": "brookdale-senior-living",
       "organization_name": "Brookdale Senior Living",
       "description": "Brookdale Boise Parkcenter offers both independent living and assisted living on one campus along the Boise River greenbelt corridor in southeast Boise. Assisted living residents receive help with daily tasks such as bathing, dressing, and mobility, with staff available around the clock. The community is part of Brookdale Senior Living, the largest senior living operator in the United States.",
@@ -39,7 +42,12 @@
       "zip": "83642",
       "phone": "(208) 884-6199",
       "website": "https://www.edgewoodhealthcare.com/community/meridian/",
-      "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"],
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
       "organization": "edgewood-healthcare",
       "organization_name": "Edgewood Healthcare",
       "description": "Edgewood Meridian (licensed as Edgewood Spring Creek Meridian) offers independent living, assisted living, secured memory care, and short-term stays near Ten Mile Creek in Meridian. The state-licensed assisted living facility maintains 24-hour staffing, medication management, and on-site coordination of physical, occupational, and speech therapy. Its memory care neighborhood serves residents with Alzheimer's disease and other dementias, with secured, alarmed doors and a fenced outdoor area.",
@@ -64,7 +72,12 @@
       "zip": "83642",
       "phone": "(208) 888-2277",
       "website": "https://www.touchmark.com/senior-living/id/meridian/meadow-lake-village/",
-      "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"],
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
       "organization": "touchmark",
       "organization_name": "Touchmark",
       "description": "Touchmark at Meadow Lake Village is a full-continuum retirement community in Meridian, near Boise, offering independent living cottages and lodge homes, assisted living, memory care, and respite care. The campus lets residents move between levels of care as needs change. It is operated by Touchmark, a multi-state senior living company.",
@@ -89,7 +102,12 @@
       "zip": "83686",
       "phone": "(208) 442-9595",
       "website": "https://graceseniorcommunity.com/nampa-assisted-living/",
-      "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"],
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
       "organization": "grace-assisted-living",
       "organization_name": "Grace Assisted Living",
       "description": "Grace Assisted Living in Nampa offers independent retirement living and assisted living, plus Assist Plus memory care, respite day care, and hospice support, on Sunny Ridge Road overlooking Liberty Park. Care staff are available 24 hours a day under the supervision of a facility RN. Amenities include a hair salon, library, outdoor garden, communal dining hall, and swimming pool.",
@@ -114,7 +132,10 @@
       "zip": "83702",
       "phone": "(208) 914-3678",
       "website": "https://www.foxdenidaho.com/",
-      "care_levels": ["assisted-living", "memory-care"],
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
       "facility_size": "small",
       "capacity": 8,
       "organization": "fox-den-homes",
@@ -141,7 +162,9 @@
       "zip": "83406",
       "phone": "(208) 529-4567",
       "website": "https://lcca.com/locations/id/idaho-falls/",
-      "care_levels": ["skilled-nursing"],
+      "care_levels": [
+        "skilled-nursing"
+      ],
       "facility_size": "large",
       "capacity": 109,
       "organization": "life-care-centers-of-america",
@@ -171,7 +194,9 @@
       "zip": "83301",
       "phone": "(208) 734-4264",
       "website": "https://www.twinfallstransitionalofcascadia.com/",
-      "care_levels": ["skilled-nursing"],
+      "care_levels": [
+        "skilled-nursing"
+      ],
       "facility_size": "large",
       "capacity": 116,
       "organization": "cascadia-healthcare",
@@ -200,7 +225,9 @@
       "zip": "83815",
       "phone": "(208) 665-2444",
       "website": "https://koelschseniorcommunities.com/senior-living/id/coeur-dalene/memory-care/creekside-inn/",
-      "care_levels": ["memory-care"],
+      "care_levels": [
+        "memory-care"
+      ],
       "organization": "koelsch-communities",
       "organization_name": "Koelsch Communities",
       "description": "Creekside Inn is a dedicated memory care community in Coeur d'Alene designed exclusively for residents living with Alzheimer's disease, dementia, and other forms of memory loss. Licensed nurses are on site 24 hours a day, and staff use Humanitude care techniques. The community is located near medical facilities and is operated by Koelsch Communities, a family-owned multi-state senior living company.",
@@ -224,7 +251,10 @@
       "address": "1255 Allen Avenue",
       "zip": "83619",
       "phone": "(208) 452-5163",
-      "care_levels": ["assisted-living", "memory-care"],
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
       "organization": "edgewood-healthcare",
       "organization_name": "Edgewood Healthcare",
       "description": "Edgewood Spring Creek Fruitland is an assisted living community in the small western Idaho town of Fruitland, licensed for traditional assisted living plus a secured memory care neighborhood for residents with Alzheimer's disease or other dementias. Services include 24-hour caregiver coverage, on-call nursing, medication administration, three daily meals, housekeeping, scheduled transportation, and coordination with visiting therapy and hospice teams.",
@@ -234,6 +264,391 @@
         "https://edgewoodreit.com/properties/edgewood-spring-creek-fruitland/"
       ],
       "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Truewood by Merrill, Boise",
+      "slug": "truewood-by-merrill-boise",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "2600 N Milwaukee St",
+      "zip": "83704",
+      "phone": "(208) 563-9021",
+      "website": "https://www.merrillgardens.com/senior-living/id/boise/n-milwaukee-street/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 109,
+      "organization": "merrill-gardens",
+      "organization_name": "Merrill Gardens",
+      "description": "Truewood by Merrill, Boise offers independent living, assisted living, and memory care in 109 apartments in northwest Boise's residential neighborhoods. The community includes cottages, studios, and one- and two-bedroom units with chef-prepared meals, on-site RN/LPN wellness staff, landscaped gardens, and walking paths. It is operated by Merrill Gardens, a Seattle-based senior living company founded in 1993.",
+      "review_note": "9.3/10 A Place for Mom review score based on 36 reviews in the last 2 years; 129 reviews all-time (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/truewood-by-merrill-boise-52848",
+        "https://www.seniorhousingnet.com/seniorliving-detail/truewood-by-merrill-boise_2600-north-milwaukee-street_boise_id_83704-655077",
+        "https://www.merrillgardens.com/senior-living/id/boise/n-milwaukee-street/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Revel Eagle",
+      "slug": "revel-eagle",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "eagle",
+      "city_name": "Eagle",
+      "address": "745 E Riverside Dr",
+      "zip": "83616",
+      "phone": "(208) 813-1172",
+      "website": "https://revelcommunities.com/communities/eagle/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "capacity": 146,
+      "organization": "revel-communities",
+      "organization_name": "Revel Communities",
+      "description": "Revel Eagle is a modern independent living community of 146 private residences on the Boise River and Greenbelt in Eagle, opened in late 2020. The four-story property offers studio, one- and two-bedroom apartments with restaurant-style all-day dining, a pub, theater, salon, and fitness center. It is a 2026 A Place for Mom Best of Senior Living award winner.",
+      "review_note": "4.9/5 average across 85 reviews on A Place for Mom; 9.7/10 review score based on 35 reviews in the last 2 years (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/revel-eagle-1414168",
+        "https://revelcommunities.com/communities/eagle/",
+        "https://www.caring.com/senior-living/idaho/eagle/revel-eagle"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Autumn Wind Assisted Living & Memory Care",
+      "slug": "autumn-wind-assisted-living-memory-care",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "canyon",
+      "county_name": "Canyon",
+      "city": "caldwell",
+      "city_name": "Caldwell",
+      "address": "200 West Beech St",
+      "zip": "83605",
+      "phone": "(208) 504-1161",
+      "website": "https://autumnwind-al.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 75,
+      "description": "Autumn Wind Assisted Living & Memory Care sits among local farms in a residential Caldwell neighborhood, with 53 assisted living apartments and 22 private and semi-private apartments in its secure Expressions memory care neighborhood specializing in Alzheimer's and dementia care. Families consistently praise the compassionate staff, cleanliness, and home-like atmosphere.",
+      "review_note": "9.4/10 A Place for Mom review score; 43 reviews on its A Place for Mom listing with 67% 5-star ratings (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/autumn-wind-assisted-living-memory-care-52749",
+        "https://autumnwind-al.com/",
+        "https://www.caring.com/senior-living/idaho/caldwell/autumn-wind-assisted-living-caldwell"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Meadow View Assisted Living and Memory Care",
+      "slug": "meadow-view-assisted-living-and-memory-care",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "gem",
+      "county_name": "Gem",
+      "city": "emmett",
+      "city_name": "Emmett",
+      "address": "1013 S Johns Ave",
+      "zip": "83617",
+      "phone": "(208) 365-1122",
+      "website": "https://www.meadowviewal.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "description": "Meadow View Assisted Living and Memory Care is a medium-sized senior living community in Emmett offering assisted living and memory care in a small-town Gem County setting. The community features landscaped gardens with outdoor sitting and walking areas, and reviewers describe caring staff and a clean, cozy facility.",
+      "review_note": "4.3/5 average across 11 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/meadow-view-assisted-living-and-memory-care-139508",
+        "https://www.meadowviewal.com/",
+        "https://www.caring.com/senior-living/idaho/emmett/meadow-view-assisted-living-and-memory-care"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Quinn Meadows Rehabilitation and Care Center",
+      "slug": "quinn-meadows-rehabilitation-and-care-center",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bannock",
+      "county_name": "Bannock",
+      "city": "pocatello",
+      "city_name": "Pocatello",
+      "address": "1033 West Quinn Road",
+      "zip": "83202",
+      "phone": "(208) 637-8888",
+      "website": "https://tanabell.com/quinn-meadows-rehabilitation-and-care/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 41,
+      "organization": "tanabell-health-services",
+      "organization_name": "Tanabell Health Services",
+      "cms_ccn": "135136",
+      "cms_rating_overall": 5,
+      "description": "Quinn Meadows Rehabilitation and Care Center is a 41-bed Medicare- and Medicaid-certified skilled nursing facility in Pocatello offering short-term rehabilitation and long-term care. It holds a CMS overall rating of 5 out of 5 stars and a High Performing short-term rehabilitation rating from U.S. News, and has participated in Medicare since 2009. It is operated by Idaho-based Tanabell Health Services.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/quinn-meadows-rehabilitation-and-care-center-135136",
+        "https://tanabell.com/quinn-meadows-rehabilitation-and-care/",
+        "https://www.healthcare6.com/nursing-home/pocatello-id/quinn-meadows-rehabilitation-care-center-2983.html"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Lincoln Court",
+      "slug": "lincoln-court",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bonneville",
+      "county_name": "Bonneville",
+      "city": "idaho-falls",
+      "city_name": "Idaho Falls",
+      "address": "850 Lincoln Dr",
+      "zip": "83401",
+      "phone": "(208) 529-3456",
+      "website": "https://stellarliving.com/communities/lincoln-court-assisted-senior-living-idaho-falls-id/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "organization": "stellar-senior-living",
+      "organization_name": "Stellar Senior Living",
+      "description": "Lincoln Court is a Stellar Senior Living community in a quiet Idaho Falls neighborhood offering independent living, assisted living, memory care, and respite stays. It is among the highest-reviewed senior living communities in eastern Idaho, with families uniformly praising the friendly, attentive staff and full activity calendar.",
+      "review_note": "9.8/10 A Place for Mom review score; 79 reviews all-time with 84% 5-star ratings (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/lincoln-court-52696",
+        "https://stellarliving.com/communities/lincoln-court-assisted-senior-living-idaho-falls-id/",
+        "https://www.yelp.com/biz/lincoln-court-retirement-community-idaho-falls-2"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "MorningStar of Idaho Falls",
+      "slug": "morningstar-of-idaho-falls",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bonneville",
+      "county_name": "Bonneville",
+      "city": "idaho-falls",
+      "city_name": "Idaho Falls",
+      "address": "4000 S 25th E",
+      "zip": "83404",
+      "phone": "(208) 522-1591",
+      "website": "https://www.morningstarseniorliving.com/communities/senior-living-idaho-falls/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "morningstar-senior-living",
+      "organization_name": "MorningStar Senior Living",
+      "description": "MorningStar of Idaho Falls is a large campus offering independent living cottages and suites, assisted living, and memory care in its dedicated Reflections Neighborhood for residents with Alzheimer's and dementia. Reviewers praise the attentive staff, clean environment, and warmth shown to residents.",
+      "review_note": "9.3/10 A Place for Mom review score; 45 reviews all-time (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/morning-star-of-idaho-falls-155639",
+        "https://www.morningstarseniorliving.com/communities/senior-living-idaho-falls/memory-care-idaho-falls/",
+        "https://www.yelp.com/biz/morningstar-senior-living-idaho-falls-idaho-falls-2"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Pomerelle Place",
+      "slug": "pomerelle-place",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "cassia",
+      "county_name": "Cassia",
+      "city": "burley",
+      "city_name": "Burley",
+      "address": "1301 Bennett Ave",
+      "zip": "83318",
+      "phone": "(208) 677-8212",
+      "website": "https://pomerelleplaceseniorliving.com/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "capacity": 45,
+      "description": "Pomerelle Place is an assisted living community in Burley with 45 studio and one-bedroom apartments, staffed with a full-time nurse and around-the-clock caregivers for medication support and help with daily living. Families describe it as feeling like a home rather than a facility, with praise for the staff, cleanliness, and food.",
+      "review_note": "9/10 A Place for Mom review score; 25 reviews all-time (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/pomerelle-place-52671",
+        "https://pomerelleplaceseniorliving.com/",
+        "https://www.seniorly.com/assisted-living/idaho/burley/pomerelle-place"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Heritage Assisted Living of Twin Falls",
+      "slug": "heritage-assisted-living-of-twin-falls",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "twin-falls",
+      "county_name": "Twin Falls",
+      "city": "twin-falls",
+      "city_name": "Twin Falls",
+      "address": "622 Filer Avenue West",
+      "zip": "83301",
+      "phone": "(208) 738-9136",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 78,
+      "description": "Heritage Assisted Living of Twin Falls is a 78-bed community with 62 assisted living beds and 16 dedicated memory care beds, and it accepts a limited number of Medicaid-covered residents. Reviewers highlight the kind, attentive staff, cleanliness, and affordability relative to other Twin Falls communities.",
+      "review_note": "4.5/5 average across 12 reviews on A Place for Mom; 9.2/10 review score based on 5 reviews in the last 2 years (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/heritage-assisted-living-of-twin-falls-52653",
+        "https://www.caring.com/senior-living/idaho/twin-falls/heritage-twin-falls-83301",
+        "https://www.seniorly.com/assisted-living/idaho/twin-falls/heritage-assisted-living-of-twin-falls"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Avista Twin Falls",
+      "slug": "avista-twin-falls",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "twin-falls",
+      "county_name": "Twin Falls",
+      "city": "twin-falls",
+      "city_name": "Twin Falls",
+      "address": "1880 Harrison St. N.",
+      "zip": "83301",
+      "phone": "(208) 733-7511",
+      "website": "https://avistaseniorliving.com/twin-falls/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "organization": "avista-senior-living",
+      "organization_name": "Avista Senior Living",
+      "description": "Avista Twin Falls is an assisted living community that earned a Gold Award in Idaho's Residential Assisted Living Facility Program with zero citations, placing it among the top tier of senior living communities nationwide. Families describe friendly, helpful staff, good food, and a clean, cheerful building.",
+      "review_note": "4.5/5 average across 67 reviews on A Place for Mom; 9.7/10 review score based on 27 reviews in the last 2 years (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/avista-twin-falls-52648",
+        "https://avistaseniorliving.com/twin-falls/",
+        "https://health.usnews.com/best-senior-living/avista-twin-falls-2367"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Guardian Angel Homes Post Falls",
+      "slug": "guardian-angel-homes-post-falls",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "kootenai",
+      "county_name": "Kootenai",
+      "city": "post-falls",
+      "city_name": "Post Falls",
+      "address": "1050 E Mullan Ave",
+      "zip": "83854",
+      "phone": "(208) 777-7797",
+      "website": "https://gahangel.com/locations/post-falls/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "guardian-angel-homes",
+      "organization_name": "Guardian Angel Homes",
+      "description": "Guardian Angel Homes Post Falls is a campus of smaller residential-style homes — including the Tudor House, Timber House, The Cottage, and The Craftsman for residents with advanced Alzheimer's and dementia — plus The Inn, which offers larger suites for a more independent lifestyle. The Pacific Northwest operator provides care ranging from minimal assistance to specialized memory support.",
+      "review_note": "4.3/5 average across 19 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/guardian-angel-homes-post-falls-102162",
+        "https://gahangel.com/locations/post-falls/",
+        "https://member.postfallschamber.org/members/member/guardian-angel-homes-118"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "North Star Retirement Community",
+      "slug": "north-star-retirement-community",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "kootenai",
+      "county_name": "Kootenai",
+      "city": "coeur-dalene",
+      "city_name": "Coeur d'Alene",
+      "address": "2340 W Seltice Way",
+      "zip": "83814",
+      "phone": "(208) 765-5505",
+      "website": "https://stellarliving.com/communities/north-star-assisted-senior-living-coeur-dalene-id/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "respite-care"
+      ],
+      "organization": "stellar-senior-living",
+      "organization_name": "Stellar Senior Living",
+      "description": "North Star Retirement Community offers independent living, assisted living, and respite care in Coeur d'Alene, operated by Stellar Senior Living. Residents and families consistently note the excellent meals, meticulous cleanliness, scenic location, and dedicated, professional staff.",
+      "review_note": "9.6/10 A Place for Mom review score based on 10 reviews in the last 2 years; 66 reviews all-time (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/north-star-72732",
+        "https://stellarliving.com/communities/north-star-assisted-senior-living-coeur-dalene-id/",
+        "https://www.seniorhousingnet.com/seniorliving-detail/north-star_2340-w-seltice-way_coeur-d-alene_id_83814-639098"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Bridge at Sandpoint",
+      "slug": "the-bridge-at-sandpoint",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bonner",
+      "county_name": "Bonner",
+      "city": "sandpoint",
+      "city_name": "Sandpoint",
+      "address": "1123 North Division Street",
+      "zip": "83864",
+      "phone": "(208) 263-1524",
+      "website": "https://www.centurypa.com/senior-living/bridge-sandpoint/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "organization": "century-park-associates",
+      "organization_name": "Century Park Associates",
+      "description": "The Bridge at Sandpoint is an assisted living community named a 2022-2023 U.S. News & World Report Best Assisted Living community, and it shares a campus relationship with the adjacent Life Care Center of Sandpoint for skilled nursing and rehabilitation. Families praise staff who treat residents like family in a safe, engaging environment. It is part of the Century Park Associates portfolio.",
+      "review_note": "4.6/5 average across 9 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/bridge-assisted-living-at-sandpoint-52928",
+        "https://www.centurypa.com/senior-living/bridge-sandpoint/",
+        "https://health.usnews.com/best-senior-living/bridge-at-sandpoint-2329"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [
@@ -243,7 +658,15 @@
       "headquarters": "Grand Forks, North Dakota",
       "website": "https://www.edgewoodhealthcare.com/",
       "facility_count_approx": 64,
-      "states": ["ND", "SD", "MN", "MT", "NE", "WY", "ID"],
+      "states": [
+        "ND",
+        "SD",
+        "MN",
+        "MT",
+        "NE",
+        "WY",
+        "ID"
+      ],
       "description": "Edgewood Healthcare, headquartered in Grand Forks, North Dakota, is the leading operator of senior living communities in the upper Midwest. The company owns and/or operates 64 independent living, assisted living, and memory care communities with over 4,100 beds across seven states, including several Spring Creek communities in Idaho's Treasure Valley and western Idaho.",
       "sources": [
         "https://www.edgewoodhealthcare.com/edgewood-expands-north-dakota-operations-3/",

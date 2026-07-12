@@ -1,0 +1,32 @@
+---
+layout: "facility"
+title: "Liberty Shores Senior Living"
+seo_title: "Liberty Shores Senior Living — Senior Living in Poulsbo, WA"
+description: "Liberty Shores Senior Living is a 112-bed assisted living community with specialized dementia care on Liberty Bay in Poulsbo, one of the area's few locally ow"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Liberty Shores Senior Living", "url": "/directory/washington/kitsap-county/poulsbo/liberty-shores-senior-living/"}]
+nearby: []
+state: "washington"
+state_name: "Washington"
+state_abbrev: "WA"
+county: "kitsap"
+county_name: "Kitsap"
+city: "poulsbo"
+city_name: "Poulsbo"
+address: "19360 Viking Ave NW"
+zip: "98370"
+phone: "(360) 779-5533"
+website: "https://northwestcare.com/liberty-shores-assisted-living-poulsbo/"
+care_levels: ["independent-living", "assisted-living", "memory-care"]
+facility_size: "large"
+capacity: 112
+organization: "northwest-care-senior-living"
+organization_name: "Northwest Care Senior Living"
+sources: ["https://www.caring.com/senior-living/washington/poulsbo/liberty-shores-senior-living", "https://reviews.birdeye.com/liberty-shores-assisted-living-148049609718663", "https://northwestcare.com/liberty-shores-assisted-living-poulsbo/", "https://www.yelp.com/biz/liberty-shores-assisted-living-poulsbo"]
+verified_date: "2026-07-12"
+google_rating: 4.2
+google_review_count: 26
+rating_as_of: "2026-07-12"
+review_note: "4.2/5 across 26 Google reviews; 4.3/5 across 28 reviews on Birdeye (July 2026)"
+description_full: "Liberty Shores Senior Living is a 112-bed assisted living community with specialized dementia care on Liberty Bay in Poulsbo, one of the area's few locally owned and managed communities. Reviews highlight helpful staff, scenic water views and a clean, well-kept environment."
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+---

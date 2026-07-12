@@ -1,0 +1,28 @@
+---
+layout: "facility"
+title: "Quail Park on Cypress"
+seo_title: "Quail Park on Cypress — Senior Living in Visalia, CA"
+description: "Quail Park on Cypress is a senior living campus across from Kaweah Health Medical Center's Cypress campus, offering independent living, assisted living, and m"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Quail Park on Cypress", "url": "/directory/california/tulare-county/visalia/quail-park-on-cypress/"}]
+nearby: []
+state: "california"
+state_name: "California"
+state_abbrev: "CA"
+county: "tulare"
+county_name: "Tulare"
+city: "visalia"
+city_name: "Visalia"
+address: "4250 W Cypress Ave"
+zip: "93277"
+phone: "(559) 697-0345"
+website: "https://www.livingcarelifestyles.com/quail-park-cypress-visalia/"
+care_levels: ["independent-living", "assisted-living", "memory-care"]
+organization: "living-care-lifestyles"
+organization_name: "Living Care Lifestyles"
+sources: ["https://www.aplaceformom.com/community/quail-park-on-cypress-96164", "https://birdeye.com/quail-park-on-cypress-171380378697619", "https://www.caring.com/senior-living/california/visalia/quail-park-on-cypress"]
+verified_date: "2026-07-12"
+rating_as_of: "2026-07-12"
+review_note: "4.6/5 across 22 all-time reviews on A Place for Mom; 4.1/5 across 62 aggregated reviews on Birdeye (July 2026)"
+description_full: "Quail Park on Cypress is a senior living campus across from Kaweah Health Medical Center's Cypress campus, offering independent living, assisted living, and memory care in studio to two-bedroom residences. Reviewers describe beautiful surroundings and professional, pleasant staff."
+licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
+---

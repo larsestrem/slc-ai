@@ -1,0 +1,13 @@
+---
+layout: "county"
+noindex: true
+title: "Kitsap County, WA Senior Living"
+seo_title: "Senior Living in Kitsap County, WA — 3 Communities"
+description: "Senior living in Kitsap County, Washington: 3 communities across 3 cities, with care levels and inspection links."
+county_name: "Kitsap"
+state_name: "Washington"
+state_abbrev: "WA"
+facility_count: 3
+cities: [{"slug": "bremerton", "name": "Bremerton", "url": "/directory/washington/kitsap-county/bremerton/", "facilities": [{"name": "Bay Pointe by Cogir", "url": "/directory/washington/kitsap-county/bremerton/bay-pointe-by-cogir/", "city_name": "Bremerton", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Bay Pointe by Cogir sits on Oyster Bay in Bremerton and has served seniors for more than 20 years, offering independent living, assisted living and the Marine Courte memory care neighborhood. Families describe exceptionally caring, attentive staff, a clean and welcoming building and a full activity calendar."}]}, {"slug": "poulsbo", "name": "Poulsbo", "url": "/directory/washington/kitsap-county/poulsbo/", "facilities": [{"name": "Liberty Shores Senior Living", "url": "/directory/washington/kitsap-county/poulsbo/liberty-shores-senior-living/", "city_name": "Poulsbo", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "facility_size": "large", "description": "Liberty Shores Senior Living is a 112-bed assisted living community with specialized dementia care on Liberty Bay in Poulsbo, one of the area's few locally owned and managed communities. Reviews highlight helpful staff, scenic water views and a clean, well-kept environment."}]}, {"slug": "silverdale", "name": "Silverdale", "url": "/directory/washington/kitsap-county/silverdale/", "facilities": [{"name": "Northwoods Lodge", "url": "/directory/washington/kitsap-county/silverdale/northwoods-lodge/", "city_name": "Silverdale", "state_abbrev": "WA", "care_levels": ["skilled-nursing"], "facility_size": "medium", "cms_rating_overall": 5, "description": "Northwoods Lodge is a 57-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Silverdale, established in 1993 and part of the Encore Communities campus. It specializes in post-hospital rehabilitation with physical, occupational and speech therapy, and its nursing staff hours per resident run well above the national average."}]}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Kitsap County", "url": "/directory/washington/kitsap-county/"}]
+---

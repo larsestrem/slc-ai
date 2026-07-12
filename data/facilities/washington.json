@@ -647,6 +647,1078 @@
         "https://projects.propublica.org/nursing-homes/homes/h-505260"
       ],
       "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Caroline Kline Galland Home",
+      "slug": "caroline-kline-galland-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "seattle",
+      "city_name": "Seattle",
+      "address": "7500 Seward Park Avenue South",
+      "zip": "98118",
+      "phone": "(206) 725-8800",
+      "website": "https://www.klinegalland.org/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "organization": "kline-galland",
+      "organization_name": "Kline Galland",
+      "cms_ccn": "505442",
+      "cms_rating_overall": 5,
+      "description": "Nonprofit Jewish-heritage skilled nursing and rehabilitation campus on the shores of Lake Washington in Seward Park, serving Seattle since 1914. Offers short-term rehabilitation and long-term care and holds a CMS 5-star overall rating, with nursing staff time of 6.13 hours per resident daily versus a 3.89-hour national average.",
+      "review_note": "CMS 5-star overall rating; short-term rehab and long-term care both rated High Performing by U.S. News (July 2026)",
+      "sources": [
+        "https://www.klinegalland.org/",
+        "https://www.nursinghomedatabase.com/snf/505442",
+        "https://health.usnews.com/best-nursing-homes/area/wa/caroline-kline-galland-home-505442"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Columbia Lutheran Home",
+      "slug": "columbia-lutheran-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "seattle",
+      "city_name": "Seattle",
+      "address": "4700 Phinney Avenue North",
+      "zip": "98103",
+      "website": "https://columbialutheranhome.org/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 116,
+      "cms_ccn": "505470",
+      "cms_rating_overall": 4,
+      "description": "One of the Pacific Northwest's longest-operating standalone not-for-profit nursing homes, located in Seattle's Phinney Ridge neighborhood. Provides short-term transitional care and rehabilitation plus long-term care across 116 certified beds, with a CMS 4-star overall rating and High Performing marks from U.S. News for both short-term rehab and long-term care.",
+      "review_note": "CMS overall rating 4 stars (quality measures 4, nursing staffing 4, health inspections 3) as of July 2026",
+      "sources": [
+        "https://columbialutheranhome.org/",
+        "https://www.senioradvice.com/providers/view/columbia-lutheran-home-seattle-wa",
+        "https://www.seniorcare.com/nursing-homes/wa/seattle/columbia-lutheran-home/505470/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sunrise of Bellevue",
+      "slug": "sunrise-of-bellevue",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "bellevue",
+      "city_name": "Bellevue",
+      "address": "15928 NE 8th St",
+      "zip": "98008",
+      "phone": "(425) 401-5152",
+      "website": "https://www.sunriseseniorliving.com/communities/wa/sunrise-of-bellevue",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "sunrise-senior-living",
+      "organization_name": "Sunrise Senior Living",
+      "description": "Assisted living and memory care community in east Bellevue, part of the national Sunrise Senior Living network. Families praise the exceptional staff, clean and attractive environment, abundant activities, and a location convenient for family visits, with many in-house activities plus day trips and outings.",
+      "review_note": "4.6/5 average across 34 all-time reviews on A Place for Mom; 9.5/10 APFM review score based on 6 reviews in the last 2 years (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/sunrise-of-bellevue-71242",
+        "https://www.caring.com/senior-living/washington/bellevue/sunrise-of-bellevue-98008",
+        "https://www.sunriseseniorliving.com/communities/wa/sunrise-of-bellevue"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Madison House",
+      "slug": "madison-house",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "kirkland",
+      "city_name": "Kirkland",
+      "address": "12215 NE 128th St",
+      "zip": "98034",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "organization": "koelsch-communities",
+      "organization_name": "Koelsch Communities",
+      "google_rating": 4.4,
+      "google_review_count": 29,
+      "rating_as_of": "2026-07-12",
+      "description": "Independent and assisted living community in Kirkland's Totem Lake area, operated by family-owned Koelsch Communities. Located directly across the street from the EvergreenHealth medical campus, with reviewers highlighting the food, weekly social hours with live music, and attentive care staff.",
+      "sources": [
+        "https://ultimateseniorresource.com/states/washington/kirkland/madison-house",
+        "https://www.aplaceformom.com/community/madison-house-71297",
+        "https://www.yelp.com/biz/madison-house-kirkland"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Fairwinds - Redmond",
+      "slug": "fairwinds-redmond",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "redmond",
+      "city_name": "Redmond",
+      "address": "9988 Avondale Rd NE",
+      "zip": "98052",
+      "phone": "(425) 558-4700",
+      "website": "https://www.leisurecare.com/our-communities/fairwinds-redmond/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "organization": "leisure-care",
+      "organization_name": "Leisure Care",
+      "description": "Independent and assisted living retirement community on Avondale Road in Redmond, managed by Seattle-based Leisure Care. Amenities include a pool, fitness facilities, and organized excursions, and reviewers describe a clean, well-maintained campus with a friendly, active community atmosphere.",
+      "review_note": "4.5/5 across 22 reviews on SeniorAdvisor; Google rating of 4.7 also visible in aggregator summaries (July 2026)",
+      "sources": [
+        "https://www.senioradvisor.com/local/fairwinds-redmond-redmond-wa",
+        "https://www.yelp.com/biz/fairwinds-redmond-redmond",
+        "https://www.leisurecare.com/our-communities/fairwinds-redmond/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Chateau Bothell Landing",
+      "slug": "chateau-bothell-landing",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "bothell",
+      "city_name": "Bothell",
+      "address": "17543 102nd Ave NE",
+      "zip": "98011",
+      "phone": "(425) 201-4345",
+      "website": "https://www.chateauretirement.com/communities/bothell-landing/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "organization": "chateau-retirement-communities",
+      "organization_name": "Chateau Retirement Communities",
+      "google_rating": 4.5,
+      "google_review_count": 13,
+      "rating_as_of": "2026-07-12",
+      "description": "Family-owned senior living community nestled along the Sammamish River Trail in downtown Bothell, offering independent living, assisted living, memory care, and respite care. Part of the locally operated Chateau Retirement Communities group serving the Seattle area.",
+      "sources": [
+        "https://ultimateseniorresource.com/states/washington/bothell/chateau-bothell-landing",
+        "https://www.chateauretirement.com/communities/bothell-landing/",
+        "https://www.aplaceformom.com/community/chateau-bothell-landing-95415"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Aegis Living Issaquah",
+      "slug": "aegis-living-issaquah",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "issaquah",
+      "city_name": "Issaquah",
+      "address": "780 NW Juniper St",
+      "zip": "98027",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "aegis-living",
+      "organization_name": "Aegis Living",
+      "description": "Assisted living and memory care community near downtown Issaquah, part of Bellevue-based Aegis Living. Known for its cottage-style campus of small single-story buildings connected by covered walkways, with well-kept landscaping, scenic views, and outdoor patios at the foot of the Issaquah Alps.",
+      "review_note": "4.5/5 average across 8 all-time reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/aegis-living-issaquah-101959",
+        "https://www.caring.com/senior-living/washington/issaquah/aegis-living-of-issaquah",
+        "https://www.yelp.com/biz/aegis-living-issaquah-issaquah"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Merrill Gardens at Renton Centre",
+      "slug": "merrill-gardens-at-renton-centre",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "renton",
+      "city_name": "Renton",
+      "address": "104 Burnett Ave S",
+      "zip": "98057",
+      "website": "https://www.merrillgardens.com/senior-living/wa/renton/merrill-gardens-at-renton-centre/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "merrill-gardens",
+      "organization_name": "Merrill Gardens",
+      "description": "Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care. Winner of the Best of Renton award for thirteen consecutive years, with reviewers praising the chef-led anytime dining, robust activity calendar, and hotel-like cleanliness.",
+      "review_note": "9.2/10 A Place for Mom review score with 36 all-time APFM reviews; also 23 reviews on Yelp (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/merrill-gardens-at-renton-centre-138586",
+        "https://www.merrillgardens.com/senior-living/wa/renton/merrill-gardens-at-renton-centre/",
+        "https://www.yelp.com/biz/merrill-gardens-at-renton-centre-renton-3"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Farrington Court",
+      "slug": "farrington-court",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "kent",
+      "city_name": "Kent",
+      "address": "516 Kenosia Avenue",
+      "zip": "98030",
+      "phone": "(253) 852-2737",
+      "website": "https://stellarliving.com/communities/farrington-court-assisted-senior-living-kent-wa/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "respite-care"
+      ],
+      "organization": "stellar-senior-living",
+      "organization_name": "Stellar Senior Living",
+      "description": "A 62+ independent and assisted living community that has been a cornerstone of Kent for over 50 years, now part of Stellar Senior Living. Reviewers consistently note that staff know every resident by name and describe a friendly, resort-style atmosphere with an active social calendar.",
+      "review_note": "4.8/5 average across 129 all-time reviews on A Place for Mom; 9.8/10 APFM review score based on 37 reviews in the last 2 years (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/farrington-court-71286",
+        "https://stellarliving.com/communities/farrington-court-assisted-senior-living-kent-wa/",
+        "https://www.caring.com/senior-living/washington/kent/farrington-court-kent-washington"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Aljoya Mercer Island",
+      "slug": "aljoya-mercer-island",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "mercer-island",
+      "city_name": "Mercer Island",
+      "address": "2430 76th Ave SE",
+      "zip": "98040",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living"
+      ],
+      "organization": "era-living",
+      "organization_name": "Era Living",
+      "description": "Continuing care retirement community (CCRC) in the town center of Mercer Island, operated by Seattle-based Era Living. Offers independent and assisted living with a large swimming pool, daily fitness programs, maintained gardens, and diverse menus; U.S. News has rated it a Best Senior Living community for independent living.",
+      "review_note": "4.8/5 average across 9 all-time reviews on A Place for Mom; 4.8 rating across 21 reviews on AssistedLivingCenter (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/aljoya-mercer-island-a-ccrc-139873",
+        "https://www.assistedlivingcenter.com/facilities/wa/mercer-island/aljoya-mercer-island-98040/",
+        "https://www.yelp.com/biz/aljoya-mercer-island-mercer-island-2"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Edmonds Landing by Cogir",
+      "slug": "edmonds-landing-by-cogir",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "edmonds",
+      "city_name": "Edmonds",
+      "address": "180 2nd Ave S",
+      "zip": "98020",
+      "phone": "(425) 744-1181",
+      "website": "https://cogirusa.com/communities/edmonds-landing/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "google_rating": 4.9,
+      "google_review_count": 36,
+      "rating_as_of": "2026-07-12",
+      "description": "Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurants. Reviewers describe a clean, bright building with chef-prepared meals, engaged staff, and frequent outings and activities.",
+      "sources": [
+        "https://ultimateseniorresource.com/states/washington/edmonds/edmonds-landing-by-cogir",
+        "https://cogirusa.com/communities/edmonds-landing/",
+        "https://www.aplaceformom.com/community/edmonds-landing-by-cogir-94862"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Washington Oakes",
+      "slug": "washington-oakes",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "everett",
+      "city_name": "Everett",
+      "address": "1717 Rockefeller Avenue",
+      "zip": "98201",
+      "phone": "(425) 339-3300",
+      "website": "https://www.leisurecare.com/our-communities/washington-oakes/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "organization": "leisure-care",
+      "organization_name": "Leisure Care",
+      "description": "Independent and assisted living community in downtown Everett managed by Leisure Care, voted Best Independent Living and Best Assisted Living by U.S. News resident and family surveys. Reviewers praise the respectful, friendly staff, varied high-quality dining, and a clean, welcoming environment.",
+      "review_note": "4.5/5 average across 37 all-time reviews on A Place for Mom; 4.5 stars on SeniorAdvisor (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/washington-oakes-71517",
+        "https://www.leisurecare.com/our-communities/washington-oakes/",
+        "https://www.senioradvisor.com/local/washington-oakes-retirement-community-everett-wa"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Compassionate Care Adult Family Home LLC",
+      "slug": "compassionate-care-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "everett",
+      "city_name": "Everett",
+      "address": "1504 50th Street SE",
+      "zip": "98203",
+      "phone": "(425) 374-3741",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "State-licensed six-bed adult family home in south Everett providing 24-hour residential care in a home setting. Focuses on high-quality, person-centered care for seniors and adults needing support with daily living, with families praising the compassionate hands-on owners.",
+      "review_note": "5.0/5 across 6 reviews on Birdeye (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/compassionate-care-adult-family-home-168183026085483",
+        "https://adultfamilyhomecouncil.org/home-finder/755099-compassionate-care-adult-family-home-llc",
+        "https://carelistings.com/assisted-living-homes/everett-wa/compassionate-care-adult-family-home-llc/67f3774da073024f4eb57356"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "America's Best Adult Family Home",
+      "slug": "americas-best-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "lynnwood",
+      "city_name": "Lynnwood",
+      "address": "14311 43rd Ave W",
+      "zip": "98087",
+      "website": "https://www.americasbestafh.com/",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "description": "Licensed adult family home in Lynnwood serving the Lynnwood and Edmonds area with personalized 24-hour senior care in a residential setting. A small-home alternative to larger assisted living communities, offering individualized attention in a family-style house.",
+      "review_note": "5.0/5 across 5 reviews on Birdeye (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/1-americas-best-adult-family-home-llc-168180757471192",
+        "https://www.americasbestafh.com/",
+        "https://www.myseniorcarefinder.com/lynnwood-wa/americas-best-adult-family-home"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Fairwinds - Spokane",
+      "slug": "fairwinds-spokane",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "spokane",
+      "county_name": "Spokane",
+      "city": "spokane",
+      "city_name": "Spokane",
+      "address": "520 E Holland Ave",
+      "zip": "99218",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "organization": "leisure-care",
+      "organization_name": "Leisure Care",
+      "review_note": "4.2/5 average across 37 reviews on A Place for Mom (July 2026)",
+      "description": "Fairwinds - Spokane is a large independent and assisted living community on the north side of Spokane, operated by Leisure Care. Residents have access to a library, hair salon, computer room, and a full calendar of outings, live music, and social programs. Reviewers consistently praise the clean, well-kept building and courteous staff.",
+      "sources": [
+        "https://www.aplaceformom.com/community/fairwinds-spokane-72733",
+        "https://www.caring.com/senior-living/washington/spokane/fairwinds-spokane-99218",
+        "https://www.seniorly.com/assisted-living/washington/spokane/fairwinds-spokane"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sullivan Park Assisted Living Community",
+      "slug": "sullivan-park-assisted-living-community",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "spokane",
+      "county_name": "Spokane",
+      "city": "spokane-valley",
+      "city_name": "Spokane Valley",
+      "address": "421 S Adams Rd",
+      "zip": "99216",
+      "care_levels": [
+        "assisted-living",
+        "independent-living"
+      ],
+      "review_note": "4.3/5 across 64 reviews on Birdeye (July 2026)",
+      "description": "Sullivan Park Assisted Living Community offers assisted living and independent living in Spokane Valley, with a skilled nursing and rehabilitation center (Sullivan Park Care Center) on the same campus. Families note the friendly staff, activity programming, and generously sized apartments.",
+      "sources": [
+        "https://reviews.birdeye.com/sullivan-park-assisted-living-148049285092856",
+        "https://www.caring.com/senior-living/washington/spokane-valley/sullivan-park-assisted-living-community-spokane-washington",
+        "https://www.aplaceformom.com/community/sullivan-park-senior-living-72247"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Broadway Court Estates",
+      "slug": "broadway-court-estates",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "spokane",
+      "county_name": "Spokane",
+      "city": "spokane-valley",
+      "city_name": "Spokane Valley",
+      "address": "13505 E Broadway Ave",
+      "zip": "99216",
+      "phone": "(509) 921-0249",
+      "website": "https://broadwaycourtestates.com/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "review_note": "9.9/10 A Place for Mom review score from 23 reviews in the last 2 years; 102 total reviews on the platform (July 2026)",
+      "description": "Broadway Court Estates is a family-run independent living community in Spokane Valley. Reviewers repeatedly highlight the cleanliness of the building, the welcoming residents and staff, the quality and variety of meals, and the full activity calendar.",
+      "sources": [
+        "https://www.aplaceformom.com/community/broadway-court-estates-72237",
+        "https://www.caring.com/senior-living/washington/spokane-valley/broadway-court-estates-99216",
+        "https://broadwaycourtestates.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Highgate Senior Living - Yakima",
+      "slug": "highgate-senior-living-yakima",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "yakima",
+      "county_name": "Yakima",
+      "city": "yakima",
+      "city_name": "Yakima",
+      "address": "5605 W Chestnut Ave",
+      "zip": "98908",
+      "phone": "(509) 972-4141",
+      "website": "https://www.highgateseniorliving.com/communities/yakima/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "highgate-senior-living",
+      "organization_name": "Highgate Senior Living",
+      "review_note": "4.7/5 across 123 reviews on Birdeye (July 2026)",
+      "description": "Highgate Senior Living - Yakima provides assisted living and a separate secure memory care neighborhood in a quiet residential area on Yakima's west side. Reviewers single out the dementia-trained caregivers, individualized 24/7 care, and a homelike atmosphere where staff know residents by name.",
+      "sources": [
+        "https://reviews.birdeye.com/highgate-senior-living-157269524698841",
+        "https://www.highgateseniorliving.com/communities/yakima/",
+        "https://www.caring.com/senior-living/washington/yakima/highgate-senior-living-98908"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Parkview Estates",
+      "slug": "parkview-estates",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "benton",
+      "county_name": "Benton",
+      "city": "kennewick",
+      "city_name": "Kennewick",
+      "address": "7820 W 6th Ave",
+      "zip": "99336",
+      "phone": "(509) 734-9773",
+      "website": "https://www.regency-pacific.com/senior-living/wa/kennewick/parkview-estates/assisted-living",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "capacity": 120,
+      "organization": "regency-pacific",
+      "organization_name": "Regency Pacific",
+      "google_rating": 4.3,
+      "google_review_count": 15,
+      "rating_as_of": "2026-07-12",
+      "description": "Parkview Estates is a 120-bed retirement and assisted living community in Kennewick operated by Regency Pacific. Families describe an inviting, homey building with responsive staff, pet-friendly policies, and activities ranging from piano concerts to exercise classes.",
+      "sources": [
+        "https://www.seniorly.com/assisted-living/washington/kennewick/parkview-estates",
+        "https://www.seniorhousingnet.com/seniorliving-detail/parkview-estates_7820-w-6th-ave_kennewick_wa_99336-625369",
+        "https://www.aplaceformom.com/community/parkview-estates-142918"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Regency Canyon Lakes Rehabilitation and Nursing Center",
+      "slug": "regency-canyon-lakes-rehabilitation-and-nursing-center",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "benton",
+      "county_name": "Benton",
+      "city": "kennewick",
+      "city_name": "Kennewick",
+      "address": "2702 S Ely St",
+      "zip": "99337",
+      "phone": "(509) 582-5900",
+      "website": "https://www.regency-pacific.com/senior-living/wa/kennewick/regency-canyon-lakes-rehabilitation-and-nursing-center/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 53,
+      "organization": "regency-pacific",
+      "organization_name": "Regency Pacific",
+      "cms_ccn": "505372",
+      "cms_rating_overall": 5,
+      "description": "Regency Canyon Lakes is a 53-bed Medicare- and Medicaid-certified skilled nursing facility in south Kennewick offering short-term rehabilitation, long-term care, and respite stays. It holds a 5-star overall rating from CMS and is rated High Performing for short-term rehabilitation by U.S. News.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/regency-canyon-lakes-rehabilitation-and-nursing-center-505372",
+        "https://www.regency-pacific.com/senior-living/wa/kennewick/regency-canyon-lakes-rehabilitation-and-nursing-center/",
+        "https://carelistings.com/skilled-nursing-facilities/kennewick-wa/regency-canyon-lakes-rehab-and-nursing-center/5ace891a93efd2372f99243e"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Wenatchee Senior Living by Cogir",
+      "slug": "wenatchee-senior-living-by-cogir",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "chelan",
+      "county_name": "Chelan",
+      "city": "wenatchee",
+      "city_name": "Wenatchee",
+      "address": "1550 Cherry St",
+      "zip": "98801",
+      "phone": "(509) 662-8646",
+      "website": "https://cogirusa.com/communities/wenatchee-senior-living/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "google_rating": 4.4,
+      "google_review_count": 41,
+      "rating_as_of": "2026-07-12",
+      "description": "Wenatchee Senior Living by Cogir (formerly Avamere at Wenatchee) has welcomed seniors since 1995 and offers independent and assisted living with close-up mountain views. Families praise the compassionate direct-care staff, long-tenured activities leadership, attractive grounds, and spacious apartments.",
+      "sources": [
+        "https://cogirusa.com/communities/wenatchee-senior-living/contact/",
+        "https://www.aplaceformom.com/community/wenatchee-senior-living-by-cogir-98849",
+        "https://www.whca.org/facility-finder/wenatchee-senior-living-at-cogir/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Summer Wood Alzheimer's Special Care Center",
+      "slug": "summer-wood-alzheimers-special-care-center",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "grant",
+      "county_name": "Grant",
+      "city": "moses-lake",
+      "city_name": "Moses Lake",
+      "address": "830 NW Sunburst Ct",
+      "zip": "98837",
+      "care_levels": [
+        "memory-care"
+      ],
+      "review_note": "4.8/5 average across 13 reviews on A Place for Mom (July 2026)",
+      "description": "Summer Wood Alzheimer's Special Care Center is a dedicated memory care community in Moses Lake serving residents with Alzheimer's disease and other dementias. Reviews describe well-trained, patient caregivers, strong teamwork, and residents who are happier and more engaged after moving in.",
+      "sources": [
+        "https://www.aplaceformom.com/community/summer-wood-alzheimers-special-care-center-97764",
+        "https://www.seniorly.com/memory-care/washington/moses-lake/summer-wood-alzheimers-special-care-center",
+        "https://health.usnews.com/best-senior-living/summer-wood-alzheimers-special-care-14462"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Ellensburg Senior Living",
+      "slug": "ellensburg-senior-living",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "kittitas",
+      "county_name": "Kittitas",
+      "city": "ellensburg",
+      "city_name": "Ellensburg",
+      "address": "818 E Mountain View Ave",
+      "zip": "98926",
+      "phone": "(509) 925-1220",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "review_note": "4.7/5 across 194 reviews on Birdeye (July 2026)",
+      "description": "Ellensburg Senior Living offers independent living, assisted living, and memory care in a college-town setting near Central Washington University. It is among the highest-rated communities in Kittitas County, with reviewers emphasizing cleanliness, engaging activities, and compassionate care.",
+      "sources": [
+        "https://birdeye.com/ellensburg-senior-living-169341831883902",
+        "https://www.aplaceformom.com/community/ellensburg-senior-living-101748",
+        "https://www.yelp.com/biz/ellensburg-senior-living-ellensburg-2"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Park Manor Rehabilitation Center",
+      "slug": "park-manor-rehabilitation-center",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "walla-walla",
+      "county_name": "Walla Walla",
+      "city": "walla-walla",
+      "city_name": "Walla Walla",
+      "address": "1710 Plaza Way",
+      "zip": "99362",
+      "phone": "(509) 529-4218",
+      "website": "https://parkmanorrehabilitation.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 99,
+      "cms_ccn": "505074",
+      "cms_rating_overall": 5,
+      "description": "Park Manor Rehabilitation Center is a 99-bed Medicare- and Medicaid-certified skilled nursing facility in Walla Walla providing short-term rehabilitation and long-term care. It holds a 5-star overall rating from CMS and its nursing staffing hours per resident run above the national average.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/park-manor-rehabilitation-center-505074",
+        "https://parkmanorrehabilitation.com/",
+        "https://www.nursinghomedatabase.com/snf/505074"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Weatherly Inn Tacoma",
+      "slug": "weatherly-inn-tacoma",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "pierce",
+      "county_name": "Pierce",
+      "city": "tacoma",
+      "city_name": "Tacoma",
+      "address": "6016 N Highlands Pkwy",
+      "zip": "98406",
+      "phone": "(253) 752-8550",
+      "website": "https://www.weatherlyinn.com/communities/wa/tacoma/weatherly-inn-tacoma/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "organization": "weatherly-inn",
+      "organization_name": "Weatherly Inn",
+      "description": "Weatherly Inn Tacoma is a family-operated senior living community in north Tacoma offering independent living, assisted living, memory care, adult day stay and respite care. Families consistently praise the caring staff, range of amenities and sense of community, and the campus sits in a residential neighborhood near Point Defiance.",
+      "review_note": "4.6/5 across 94 reviews on Birdeye; 4.5/5 average across 50 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://www.aplaceformom.com/community/weatherly-inn-tacoma-71800",
+        "https://birdeye.com/weatherly-inn-tacoma-173895761106360",
+        "https://www.yelp.com/biz/weatherly-inn-tacoma-4",
+        "https://www.weatherlyinn.com/senior-living/tacoma-assisted-living/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Merrill Gardens at Wright Park",
+      "slug": "merrill-gardens-at-wright-park",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "pierce",
+      "county_name": "Pierce",
+      "city": "tacoma",
+      "city_name": "Tacoma",
+      "address": "5 S G St",
+      "zip": "98405",
+      "phone": "(253) 244-3715",
+      "website": "https://www.merrillgardens.com/senior-living/wa/tacoma/south-g-street/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "merrill-gardens",
+      "organization_name": "Merrill Gardens",
+      "description": "Merrill Gardens at Wright Park offers independent living, assisted living and memory care in Tacoma's Stadium District, next door to Wright Park. Opened in 2022, the community is known for its rooftop Sky Deck with views of Puget Sound, hospitality-style dining and strong social programming.",
+      "review_note": "4.9/5 average across 31 reviews on A Place for Mom; 9.8/10 A Place for Mom review score based on 19 recent reviews (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://www.aplaceformom.com/community/merrill-gardens-at-wright-park-1453598",
+        "https://www.merrillgardens.com/senior-living/wa/tacoma/south-g-street/",
+        "https://www.yelp.com/biz/merrill-gardens-at-wright-park-tacoma"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Fieldstone Memory Care Puyallup",
+      "slug": "fieldstone-memory-care-puyallup",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "pierce",
+      "county_name": "Pierce",
+      "city": "puyallup",
+      "city_name": "Puyallup",
+      "address": "2121 S Meridian",
+      "zip": "98371",
+      "phone": "(253) 904-3535",
+      "website": "https://fieldstonecommunities.com/puyallupmemorycare/",
+      "care_levels": [
+        "memory-care"
+      ],
+      "organization": "fieldstone-communities",
+      "organization_name": "Fieldstone Communities",
+      "description": "Fieldstone Memory Care Puyallup is a dedicated memory care community on South Meridian in Puyallup, operated by Washington-based Fieldstone Communities. Reviewers highlight attentive, compassionate dementia care, engaging activities and a clean, homey building, and the community received a citation-free state survey in June 2025.",
+      "review_note": "4.6/5 across 94 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://insights.illuminage.com/fieldstone-memory-care-puyallup-174855049546340",
+        "https://www.aplaceformom.com/community/fieldstone-memory-care-puyallup-1376754",
+        "https://www.yelp.com/biz/fieldstone-puyallup",
+        "https://fieldstonecommunities.com/puyallupmemorycare/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Harbor Place at Cottesmore",
+      "slug": "harbor-place-at-cottesmore",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "pierce",
+      "county_name": "Pierce",
+      "city": "gig-harbor",
+      "city_name": "Gig Harbor",
+      "address": "1016 29th St NW",
+      "zip": "98335",
+      "phone": "(564) 237-2900",
+      "website": "https://www.centurypa.com/senior-living/harbor-place-cottesmore/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "capacity": 100,
+      "description": "Harbor Place at Cottesmore offers 40 independent retirement apartments and 60 assisted living apartments on a Gig Harbor campus shared with a skilled nursing and rehab center, giving residents a continuum of care in one place. Serving seniors since 2006, it was named a 2025 U.S. News Best Assisted and Independent Living community.",
+      "google_rating": 4.4,
+      "google_review_count": 14,
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://ultimateseniorresource.com/states/washington/gig-harbor/harbor-place-at-cottesmore",
+        "https://www.centurypa.com/senior-living/harbor-place-cottesmore/",
+        "https://www.gigharborchamber.net/list/member/harbor-place-at-cottesmore-219"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Lodge at Mallard's Landing",
+      "slug": "the-lodge-at-mallards-landing",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "pierce",
+      "county_name": "Pierce",
+      "city": "gig-harbor",
+      "city_name": "Gig Harbor",
+      "address": "7083 Wagner Way NW",
+      "zip": "98335",
+      "website": "https://thelodge-gigharbor.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "description": "The Lodge at Mallard's Landing is a retirement community in Gig Harbor offering independent living cottages plus assisted living, memory care and respite care in a lodge-style main building. Residents and families praise the outstanding food, lodge-like common spaces, regular activities and staff who know each resident by name.",
+      "review_note": "4.5/5 across 203 reviews on Birdeye; 4.5/5 across 55 reviews on SeniorAdvisor (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://birdeye.com/the-lodge-at-mallards-landing-174180642789142",
+        "https://www.senioradvisor.com/local/lodge-at-mallards-landing-gig-harbor-wa",
+        "https://www.aplaceformom.com/community/the-lodge-at-mallards-landing-159484",
+        "https://thelodge-gigharbor.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Fieldstone Cooper Point",
+      "slug": "fieldstone-cooper-point",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "thurston",
+      "county_name": "Thurston",
+      "city": "olympia",
+      "city_name": "Olympia",
+      "address": "3524 7th Ave SW",
+      "zip": "98502",
+      "phone": "(360) 472-4596",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "capacity": 120,
+      "organization": "fieldstone-communities",
+      "organization_name": "Fieldstone Communities",
+      "description": "Fieldstone Cooper Point is a 120-bed independent and assisted living community on Olympia's west side, part of Washington-based Fieldstone Communities. Reviewers praise the responsive, compassionate staff, restaurant-style meals and warm, family-friendly atmosphere, and it ranks among Olympia's highest-rated communities.",
+      "review_note": "4.4/5 across 37 reviews as shown in senior-living directory listings; 9.1/10 average on SeniorAdvice (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://www.seniorhousingnet.com/seniorliving-detail/fieldstone-cooper-point_3524-7th-avenue-sw_olympia_wa_98502-639046",
+        "https://www.yelp.com/biz/fieldstone-cooper-point-olympia",
+        "https://www.aplaceformom.com/community/fieldstone-cooper-point-olympia-1408776",
+        "https://www.caring.com/senior-living/washington/olympia/fieldstone-cooper-point"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Providence Mother Joseph Care Center",
+      "slug": "providence-mother-joseph-care-center",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "thurston",
+      "county_name": "Thurston",
+      "city": "olympia",
+      "city_name": "Olympia",
+      "address": "3333 Ensign Rd NE",
+      "zip": "98506",
+      "phone": "(360) 493-4900",
+      "website": "https://www.providence.org/locations/wa/mother-joseph-care-center",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 152,
+      "organization": "providence",
+      "organization_name": "Providence",
+      "cms_ccn": "505387",
+      "cms_rating_overall": 4,
+      "description": "Providence Mother Joseph Care Center is a 152-bed Medicare- and Medicaid-certified skilled nursing facility in Olympia, part of the Providence health system. It provides long-term skilled nursing, rehabilitation and transitional care, and holds a CMS overall rating of 4 stars, above the Washington and national averages.",
+      "sources": [
+        "https://www.seniorcare.com/nursing-homes/wa/olympia/providence-mother-joseph-care/505387/",
+        "https://www.nursinghomesite.com/PROVIDENCE_MOTHER_JOSEPH_CARE_OLYMPIA_WA",
+        "https://www.providence.org/locations/wa/mother-joseph-care-center"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Bay Pointe by Cogir",
+      "slug": "bay-pointe-by-cogir",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "kitsap",
+      "county_name": "Kitsap",
+      "city": "bremerton",
+      "city_name": "Bremerton",
+      "address": "966 Oyster Bay Ct",
+      "zip": "98312",
+      "website": "https://cogirusa.com/communities/bay-pointe/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "description": "Bay Pointe by Cogir sits on Oyster Bay in Bremerton and has served seniors for more than 20 years, offering independent living, assisted living and the Marine Courte memory care neighborhood. Families describe exceptionally caring, attentive staff, a clean and welcoming building and a full activity calendar.",
+      "review_note": "4.8/5 average across 46 family reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://www.aplaceformom.com/community/bay-pointe-by-cogir-71682",
+        "https://health.usnews.com/best-senior-living/bay-pointe-assisted-living-marine-courte-memory-care-1817",
+        "https://www.yelp.com/biz/bay-pointe-by-cogir-bremerton",
+        "https://cogirusa.com/communities/bay-pointe/contact/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Liberty Shores Senior Living",
+      "slug": "liberty-shores-senior-living",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "kitsap",
+      "county_name": "Kitsap",
+      "city": "poulsbo",
+      "city_name": "Poulsbo",
+      "address": "19360 Viking Ave NW",
+      "zip": "98370",
+      "phone": "(360) 779-5533",
+      "website": "https://northwestcare.com/liberty-shores-assisted-living-poulsbo/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 112,
+      "organization": "northwest-care-senior-living",
+      "organization_name": "Northwest Care Senior Living",
+      "description": "Liberty Shores Senior Living is a 112-bed assisted living community with specialized dementia care on Liberty Bay in Poulsbo, one of the area's few locally owned and managed communities. Reviews highlight helpful staff, scenic water views and a clean, well-kept environment.",
+      "google_rating": 4.2,
+      "google_review_count": 26,
+      "review_note": "4.2/5 across 26 Google reviews; 4.3/5 across 28 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://www.caring.com/senior-living/washington/poulsbo/liberty-shores-senior-living",
+        "https://reviews.birdeye.com/liberty-shores-assisted-living-148049609718663",
+        "https://northwestcare.com/liberty-shores-assisted-living-poulsbo/",
+        "https://www.yelp.com/biz/liberty-shores-assisted-living-poulsbo"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Northwoods Lodge",
+      "slug": "northwoods-lodge",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "kitsap",
+      "county_name": "Kitsap",
+      "city": "silverdale",
+      "city_name": "Silverdale",
+      "address": "2321 NW Schold Pl",
+      "zip": "98383",
+      "phone": "(360) 698-3930",
+      "website": "https://encorecommunities.com/northwoods-lodge/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 57,
+      "organization": "encore-communities",
+      "organization_name": "Encore Communities",
+      "cms_ccn": "505484",
+      "cms_rating_overall": 5,
+      "description": "Northwoods Lodge is a 57-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Silverdale, established in 1993 and part of the Encore Communities campus. It specializes in post-hospital rehabilitation with physical, occupational and speech therapy, and its nursing staff hours per resident run well above the national average.",
+      "sources": [
+        "https://www.nursinghomesite.com/NORTHWOODS_LODGE_SILVERDALE_WA",
+        "https://www.seniorcare.com/nursing-homes/wa/silverdale/northwoods-lodge/505484/",
+        "https://encorecommunities.com/northwoods-lodge/",
+        "https://www.yelp.com/biz/northwoods-lodge-silverdale"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Canterbury Inn",
+      "slug": "canterbury-inn",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "cowlitz",
+      "county_name": "Cowlitz",
+      "city": "longview",
+      "city_name": "Longview",
+      "address": "1324 3rd Ave",
+      "zip": "98632",
+      "phone": "(360) 425-7947",
+      "website": "https://koelschseniorcommunities.com/senior-living/wa/longview/independent-assisted-living-memory-care/canterbury-inn/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "koelsch-communities",
+      "organization_name": "Koelsch Communities",
+      "description": "Canterbury Inn is a Koelsch Communities property in Longview offering independent living, assisted living and memory care, with licensed nurses on site around the clock. Reviewers consistently describe accommodating, caring staff, a clean and welcoming building, extensive activities and excellent food.",
+      "google_rating": 4.9,
+      "google_review_count": 111,
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://assistedlivingmagazine.com/assisted-living/canterbury-inn-assisted-living-community/",
+        "https://www.aplaceformom.com/community/canterbury-inn-71948",
+        "https://koelschseniorcommunities.com/senior-living/wa/longview/independent-assisted-living-memory-care/canterbury-inn/",
+        "https://www.yelp.com/biz/canterbury-inn-longview"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Village Concepts of Chehalis - Woodland Village",
+      "slug": "village-concepts-of-chehalis-woodland-village",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "lewis",
+      "county_name": "Lewis",
+      "city": "chehalis",
+      "city_name": "Chehalis",
+      "address": "2100 SW Woodland Circle",
+      "zip": "98532",
+      "phone": "(360) 748-0095",
+      "website": "https://villageconcepts.com/communities/village-concepts-of-chehalis-woodland-village",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "village-concepts",
+      "organization_name": "Village Concepts",
+      "description": "Woodland Village is a Village Concepts retirement community in Chehalis offering independent living, assisted living, memory care support and independent senior cottages on an expansive campus. Reviews frequently highlight engaging activities, supportive administrative staff and a caring atmosphere, at prices well below regional averages.",
+      "review_note": "4.5/5 across 19 reviews as shown in senior-living directory listings (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://health.usnews.com/best-senior-living/assisted-living/washington/centralia",
+        "https://villageconcepts.com/communities/village-concepts-of-chehalis-woodland-village",
+        "https://www.yelp.com/biz/village-concepts-of-chehalis-woodland-village-chehalis"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [

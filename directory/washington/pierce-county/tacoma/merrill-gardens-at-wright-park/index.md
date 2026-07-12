@@ -1,0 +1,28 @@
+---
+layout: "facility"
+title: "Merrill Gardens at Wright Park"
+seo_title: "Merrill Gardens at Wright Park — Senior Living in Tacoma, WA"
+description: "Merrill Gardens at Wright Park offers independent living, assisted living and memory care in Tacoma's Stadium District, next door to Wright Park. Opened in 20"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Merrill Gardens at Wright Park", "url": "/directory/washington/pierce-county/tacoma/merrill-gardens-at-wright-park/"}]
+nearby: [{"name": "Franke Tobey Jones", "url": "/directory/washington/pierce-county/tacoma/franke-tobey-jones/", "city_name": "Tacoma", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing"], "facility_size": "large", "description": "Franke Tobey Jones is a not-for-profit senior living campus in North Tacoma offering independent living, assisted living, memory care, and skilled nursing at its FTJ Care Center. The community has served Tacoma seniors for more than a century and operates as a full-continuum campus near Point Defiance Park."}, {"name": "Weatherly Inn Tacoma", "url": "/directory/washington/pierce-county/tacoma/weatherly-inn-tacoma/", "city_name": "Tacoma", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "description": "Weatherly Inn Tacoma is a family-operated senior living community in north Tacoma offering independent living, assisted living, memory care, adult day stay and respite care. Families consistently praise the caring staff, range of amenities and sense of community, and the campus sits in a residential neighborhood near Point Defiance."}]
+state: "washington"
+state_name: "Washington"
+state_abbrev: "WA"
+county: "pierce"
+county_name: "Pierce"
+city: "tacoma"
+city_name: "Tacoma"
+address: "5 S G St"
+zip: "98405"
+phone: "(253) 244-3715"
+website: "https://www.merrillgardens.com/senior-living/wa/tacoma/south-g-street/"
+care_levels: ["independent-living", "assisted-living", "memory-care"]
+organization: "merrill-gardens"
+organization_name: "Merrill Gardens"
+sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-wright-park-1453598", "https://www.merrillgardens.com/senior-living/wa/tacoma/south-g-street/", "https://www.yelp.com/biz/merrill-gardens-at-wright-park-tacoma"]
+verified_date: "2026-07-12"
+rating_as_of: "2026-07-12"
+review_note: "4.9/5 average across 31 reviews on A Place for Mom; 9.8/10 A Place for Mom review score based on 19 recent reviews (July 2026)"
+description_full: "Merrill Gardens at Wright Park offers independent living, assisted living and memory care in Tacoma's Stadium District, next door to Wright Park. Opened in 2022, the community is known for its rooftop Sky Deck with views of Puget Sound, hospitality-style dining and strong social programming."
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+---

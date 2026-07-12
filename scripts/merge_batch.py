@@ -22,6 +22,8 @@ def main():
     if not args:
         sys.exit(__doc__)
     batch = json.loads(Path(args[0]).read_text())
+    if isinstance(batch, list):  # tolerate bare facility arrays
+        batch = {"facilities": batch, "organizations": []}
 
     by_state = {}
     for f in batch.get("facilities", []):

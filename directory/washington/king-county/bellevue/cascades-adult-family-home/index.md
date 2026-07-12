@@ -4,7 +4,7 @@ title: "Cascades Adult Family Home"
 seo_title: "Cascades Adult Family Home — Senior Living in Bellevue, WA"
 description: "Cascades Adult Family Home is a Washington state-licensed adult family home in Bellevue providing residential care and memory care in a home setting. The home"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Cascades Adult Family Home", "url": "/directory/washington/king-county/bellevue/cascades-adult-family-home/"}]
-nearby: []
+nearby: [{"name": "Sunrise of Bellevue", "url": "/directory/washington/king-county/bellevue/sunrise-of-bellevue/", "city_name": "Bellevue", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care"], "description": "Assisted living and memory care community in east Bellevue, part of the national Sunrise Senior Living network. Families praise the exceptional staff, clean and attractive environment, abundant activities, and a location convenient for family visits, with many in-house activities plus day trips and outings."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

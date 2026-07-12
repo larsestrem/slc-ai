@@ -1,0 +1,27 @@
+---
+layout: "facility"
+title: "Farrington Court"
+seo_title: "Farrington Court — Senior Living in Kent, WA"
+description: "A 62+ independent and assisted living community that has been a cornerstone of Kent for over 50 years, now part of Stellar Senior Living. Reviewers consistent"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Farrington Court", "url": "/directory/washington/king-county/kent/farrington-court/"}]
+nearby: []
+state: "washington"
+state_name: "Washington"
+state_abbrev: "WA"
+county: "king"
+county_name: "King"
+city: "kent"
+city_name: "Kent"
+address: "516 Kenosia Avenue"
+zip: "98030"
+phone: "(253) 852-2737"
+website: "https://stellarliving.com/communities/farrington-court-assisted-senior-living-kent-wa/"
+care_levels: ["independent-living", "assisted-living", "respite-care"]
+organization: "stellar-senior-living"
+organization_name: "Stellar Senior Living"
+sources: ["https://www.aplaceformom.com/community/farrington-court-71286", "https://stellarliving.com/communities/farrington-court-assisted-senior-living-kent-wa/", "https://www.caring.com/senior-living/washington/kent/farrington-court-kent-washington"]
+verified_date: "2026-07-12"
+review_note: "4.8/5 average across 129 all-time reviews on A Place for Mom; 9.8/10 APFM review score based on 37 reviews in the last 2 years (July 2026)"
+description_full: "A 62+ independent and assisted living community that has been a cornerstone of Kent for over 50 years, now part of Stellar Senior Living. Reviewers consistently note that staff know every resident by name and describe a friendly, resort-style atmosphere with an active social calendar."
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+---

@@ -1,0 +1,13 @@
+---
+layout: "county"
+noindex: true
+title: "Contra Costa County, CA Senior Living"
+seo_title: "Senior Living in Contra Costa County, CA — 2 Communities"
+description: "Senior living in Contra Costa County, California: 2 communities across 2 cities, with care levels and inspection links."
+county_name: "Contra Costa"
+state_name: "California"
+state_abbrev: "CA"
+facility_count: 2
+cities: [{"slug": "concord", "name": "Concord", "url": "/directory/california/contra-costa-county/concord/", "facilities": [{"name": "Oakmont of Montecito", "url": "/directory/california/contra-costa-county/concord/oakmont-of-montecito/", "city_name": "Concord", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "description": "Luxury assisted living and memory care community in east Concord operated by Oakmont Senior Living. Reviewers praise the spacious apartments, restaurant-style dining, full activity calendar, and attentive staff, while noting that the community is on the expensive side. The campus is large, with landscaped courtyards and resort-style common areas."}]}, {"slug": "walnut-creek", "name": "Walnut Creek", "url": "/directory/california/contra-costa-county/walnut-creek/", "facilities": [{"name": "Byron Park", "url": "/directory/california/contra-costa-county/walnut-creek/byron-park/", "city_name": "Walnut Creek", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living"], "facility_size": "large", "description": "Independent living and assisted living community in Walnut Creek's Tice Valley area, operating since 1991 as part of Kisco Senior Living. Residents compare the well-kept grounds, courtyard gardens, and pool to a boutique hotel, and the community runs a busy calendar of exercise classes, live music, and cultural outings with scheduled daily transportation."}]}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Contra Costa County", "url": "/directory/california/contra-costa-county/"}]
+---

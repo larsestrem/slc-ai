@@ -1,0 +1,31 @@
+---
+layout: "facility"
+title: "Poway Gardens Senior Living"
+seo_title: "Poway Gardens Senior Living — Senior Living in Poway, CA"
+description: "Poway Gardens Senior Living is a memory-care-focused campus of seven independently licensed buildings, including five six-bed ranch-style Garden Villas and tw"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Poway Gardens Senior Living", "url": "/directory/california/san-diego-county/poway/poway-gardens-senior-living/"}]
+nearby: []
+state: "california"
+state_name: "California"
+state_abbrev: "CA"
+county: "san-diego"
+county_name: "San Diego"
+city: "poway"
+city_name: "Poway"
+address: "12695 Monte Vista Rd"
+zip: "92064"
+phone: "(858) 674-1255"
+care_levels: ["assisted-living", "memory-care"]
+facility_size: "large"
+capacity: 86
+organization: "sinceri-senior-living"
+organization_name: "Sinceri Senior Living"
+sources: ["https://carelistings.com/assisted-living-homes/poway-ca/poway-gardens-senior-living/5acd01b9a71d8c15cf6857c5", "https://www.aplaceformom.com/community/poway-gardens-senior-living-94871", "https://www.yelp.com/biz/poway-gardens-senior-living-poway"]
+verified_date: "2026-07-12"
+google_rating: 4.4
+google_review_count: 8
+rating_as_of: "2026-07-12"
+review_note: "4.4/5 across 30 reviews on A Place for Mom (July 2026)"
+description_full: "Poway Gardens Senior Living is a memory-care-focused campus of seven independently licensed buildings, including five six-bed ranch-style Garden Villas and two larger residences, totaling 86 beds. Operated by Sinceri Senior Living, it is regularly praised for friendly staff and quality of care."
+licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
+---

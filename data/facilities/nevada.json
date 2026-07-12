@@ -14,7 +14,10 @@
       "zip": "89128",
       "phone": "(702) 804-6800",
       "website": "https://www.atriaseniorliving.com/retirement-communities/atria-seville-las-vegas-nv/",
-      "care_levels": ["independent-living", "assisted-living"],
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
       "organization": "atria-senior-living",
       "organization_name": "Atria Senior Living",
       "description": "Atria Seville is an independent and assisted living community in the Summerlin area of Las Vegas, operated by Atria Senior Living. The community offers both independent living apartments and assisted living services with staff available around the clock.",
@@ -39,7 +42,13 @@
       "zip": "89135",
       "phone": "(702) 207-4242",
       "website": "https://www.humangood.org/las-ventanas-at-summerlin",
-      "care_levels": ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"],
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
       "facility_size": "large",
       "organization": "humangood",
       "organization_name": "HumanGood",
@@ -65,7 +74,9 @@
       "zip": "89108",
       "phone": "(702) 648-4900",
       "website": "https://lcca.com/locations/nv/las-vegas/",
-      "care_levels": ["skilled-nursing"],
+      "care_levels": [
+        "skilled-nursing"
+      ],
       "facility_size": "large",
       "capacity": 178,
       "organization": "life-care-centers-of-america",
@@ -93,7 +104,10 @@
       "address": "1505 Duneville Street",
       "zip": "89146",
       "phone": "(702) 998-6185",
-      "care_levels": ["assisted-living", "memory-care"],
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
       "facility_size": "small",
       "capacity": 10,
       "description": "Golden Villa Care Home is a 10-bed residential care home in a single-story house on Las Vegas's west side. As a small group home, it offers personal care and memory care support in a home-like setting as an alternative to a large assisted living community.",
@@ -118,7 +132,11 @@
       "zip": "89012",
       "phone": "(702) 837-6582",
       "website": "https://www.sunriseseniorliving.com/communities/nv/sunrise-of-henderson",
-      "care_levels": ["assisted-living", "memory-care", "respite-care"],
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
       "organization": "sunrise-senior-living",
       "organization_name": "Sunrise Senior Living",
       "description": "Sunrise of Henderson offers assisted living, memory care, and short-term respite stays in the Horizon Ridge area of Henderson. The community was recognized as Best Assisted Living and Best Memory Care in U.S. News & World Report's 2026 Best Senior Living ratings.",
@@ -143,7 +161,9 @@
       "zip": "89509",
       "phone": "(775) 828-5000",
       "website": "https://www.brookdale.com/en/communities/brookdale-reno.html",
-      "care_levels": ["memory-care"],
+      "care_levels": [
+        "memory-care"
+      ],
       "facility_size": "medium",
       "capacity": 56,
       "organization": "brookdale-senior-living",
@@ -170,7 +190,9 @@
       "zip": "89511",
       "phone": "(775) 851-0123",
       "website": "https://lcca.com/locations/nv/reno/",
-      "care_levels": ["skilled-nursing"],
+      "care_levels": [
+        "skilled-nursing"
+      ],
       "facility_size": "large",
       "capacity": 198,
       "organization": "life-care-centers-of-america",
@@ -198,7 +220,10 @@
       "zip": "89436",
       "phone": "(775) 626-5665",
       "website": "https://www.morningstarseniorliving.com/",
-      "care_levels": ["assisted-living", "memory-care"],
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
       "organization": "morningstar-senior-living",
       "organization_name": "MorningStar Senior Living",
       "description": "MorningStar Senior Living of Sparks is an assisted living and memory care community in the Wingfield Hills area of Sparks, north of Reno. It is operated by Denver-based MorningStar Senior Living, which runs communities across the western United States.",
@@ -222,11 +247,352 @@
       "address": "2200 E Long St",
       "zip": "89706",
       "phone": "(775) 283-9888",
-      "care_levels": ["assisted-living", "memory-care"],
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
       "description": "The Lodge Assisted Living and Memory Care Community serves seniors in Carson City, Nevada's capital, which is an independent city that functions as its own county-equivalent. The community provides assisted living and dedicated memory care.",
       "sources": [
         "https://www.yelp.com/biz/the-lodge-assisted-living-and-memory-care-carson-city",
         "https://nvhca.org/find-care/the-lodge-assisted-living-memory-care-community/"
+      ],
+      "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Oakmont of Las Vegas",
+      "slug": "oakmont-of-las-vegas",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "las-vegas",
+      "city_name": "Las Vegas",
+      "address": "3185 E Flamingo Rd",
+      "zip": "89121",
+      "phone": "(702) 829-7413",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "oakmont-management-group",
+      "organization_name": "Oakmont Management Group",
+      "description": "Luxury assisted living and memory care community on East Flamingo Road in Las Vegas. Amenities include restaurant-style dining, a wellness center with a full-time nurse, landscaped grounds, and a 24-hour call system. Families consistently praise the professional staff, dining, and activity programming.",
+      "review_note": "4.5/5 overall experience across 154 reviews on A Place for Mom; review score 9.5/10 based on 27 reviews in the last 2 years (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/oakmont-of-las-vegas-1421326",
+        "https://www.caring.com/senior-living/nevada/las-vegas/oakmont-of-las-vegas",
+        "https://www.yelp.com/biz/oakmont-of-las-vegas-las-vegas"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Oakmont of the Lakes",
+      "slug": "oakmont-of-the-lakes",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "las-vegas",
+      "city_name": "Las Vegas",
+      "address": "3250 S Fort Apache Rd",
+      "zip": "89117",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "oakmont-management-group",
+      "organization_name": "Oakmont Management Group",
+      "description": "Assisted living and memory care community in The Lakes area of west Las Vegas, close to Summerlin. Part of the Oakmont Management Group family of communities, it is repeatedly cited among the top-value assisted living options in the Las Vegas market. Reviewers highlight caring staff and a warm, welcoming environment.",
+      "review_note": "4.4/5 overall experience across 87 reviews on A Place for Mom; review score 8.6/10 based on 12 reviews in the last 2 years (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/oakmont-of-the-lakes-72470",
+        "https://www.caring.com/senior-living/nevada/las-vegas/oakmont-of-the-lakes",
+        "https://www.yelp.com/biz/oakmont-of-the-lakes-las-vegas"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Vista Pointe at Mira Loma",
+      "slug": "vista-pointe-at-mira-loma",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "henderson",
+      "city_name": "Henderson",
+      "address": "2520 Wigwam Pkwy",
+      "zip": "89074",
+      "phone": "(702) 260-8400",
+      "website": "https://www.vistapointeatmiraloma.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 138,
+      "organization": "prestige-care",
+      "organization_name": "Prestige Care",
+      "description": "138-bed assisted living and memory care community in Henderson, formerly known as Prestige Senior Living at Mira Loma and operated by Prestige Care. Offers apartment-style assisted living plus the Expressions memory care neighborhood, restaurant-style dining, a fitness center, and Vibrant Living activity programming. Reviews emphasize warm, attentive direct-care staff and a family-like atmosphere.",
+      "review_note": "4.4/5 across 169 reviews on Birdeye; 4.3/5 from 48 reviewers on a second platform (July 2026)",
+      "sources": [
+        "https://birdeye.com/vista-pointe-at-mira-loma-173471362474404",
+        "https://www.aplaceformom.com/community/vista-pointe-at-mira-loma-71029",
+        "https://www.vistapointeatmiraloma.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "College Park Rehabilitation Center",
+      "slug": "college-park-rehabilitation-center",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "north-las-vegas",
+      "city_name": "North Las Vegas",
+      "address": "2856 E Cheyenne Ave",
+      "zip": "89030",
+      "phone": "(702) 644-1888",
+      "website": "https://collegeparkrehabc.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 188,
+      "cms_ccn": "295055",
+      "cms_rating_overall": 4,
+      "description": "Medicare- and Medicaid-certified skilled nursing facility in North Las Vegas with 188 beds, offering short-term rehabilitation, long-term care, and hospice care. Holds a 4-star overall rating from the Centers for Medicare and Medicaid Services, well above the Nevada state average for nursing homes.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/295055/view-all/",
+        "https://health.usnews.com/best-nursing-homes/area/nv/college-park-rehabilitation-center-295055",
+        "https://collegeparkrehabc.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Lakeview Terrace of Boulder City",
+      "slug": "lakeview-terrace-of-boulder-city",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "boulder-city",
+      "city_name": "Boulder City",
+      "address": "180 Ville Dr",
+      "zip": "89005",
+      "phone": "(702) 726-8100",
+      "website": "https://www.lvterrace.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "google_rating": 4.4,
+      "google_review_count": 42,
+      "rating_as_of": "2026-07-12",
+      "description": "Assisted living and memory care community on a hilltop in Boulder City, one of the few licensed senior living options in town. Families describe a comfortable, unpretentious setting with a kind staff, an attractive dining room, and dedicated respite care. Reviews consistently credit the staff's compassion and residents' well-being.",
+      "sources": [
+        "https://www.aplaceformom.com/community/lakeview-terrace-of-boulder-city-156304",
+        "https://www.caring.com/senior-living/nevada/boulder-city/lakeview-terrace-of-boulder-city",
+        "https://www.lvterrace.com/senior-living/nv/boulder-city/reviews"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Inspirations Senior Living",
+      "slug": "inspirations-senior-living",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "nye",
+      "county_name": "Nye",
+      "city": "pahrump",
+      "city_name": "Pahrump",
+      "address": "931 E Honeysuckle St",
+      "zip": "89048",
+      "phone": "(775) 751-2300",
+      "website": "https://www.inspirationsseniorliving.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "description": "Spanish-style senior living community in Pahrump with views of the Nopah Mountain Range, offering independent living, assisted living, memory care, and short-term respite stays. Known for all-inclusive restaurant-style dining, an active social calendar, and attentive staff. It is the top-rated senior living community in the Pahrump area.",
+      "review_note": "4.7/5 average across 39 reviews on SeniorAdvisor/A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.senioradvisor.com/local/inspirations-senior-living-pahrump-nv-pahrump-nv",
+        "https://www.aplaceformom.com/community/inspirations-senior-living-1357554",
+        "https://www.inspirationsseniorliving.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Summerset Senior Living Reno",
+      "slug": "summerset-senior-living-reno",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "washoe",
+      "county_name": "Washoe",
+      "city": "reno",
+      "city_name": "Reno",
+      "address": "6215 Sharlands Ave",
+      "zip": "89523",
+      "phone": "(775) 440-3200",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "summerset-senior-living",
+      "organization_name": "Summerset Senior Living",
+      "description": "Independent and assisted living community in northwest Reno, with a companion memory care and adaptive care building next door at 6205 Sharlands Avenue. One of the highest Google-rated senior communities in Reno, praised for warm, attentive staff, dining, and activities. Convenient to shopping, parks, and medical offices.",
+      "review_note": "4.5/5 across 25 reviews on Birdeye; 4.6/5 across 15 reviews on a second rating site (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/summerset-senior-living-168034736591325",
+        "https://www.yelp.com/biz/summerset-senior-living-reno-3",
+        "https://www.seniorliving.org/assisted-living/nevada/reno/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Kiley Ranch Senior Living",
+      "slug": "kiley-ranch-senior-living",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "washoe",
+      "county_name": "Washoe",
+      "city": "sparks",
+      "city_name": "Sparks",
+      "address": "6300 David Allen Pkwy",
+      "zip": "89436",
+      "phone": "(775) 387-3700",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "description": "Assisted living and memory care community in the Kiley Ranch area of Sparks, built in 2022. The single-story campus features a gym, mini golf, and outdoor courtyards, and is recognized for providing quality care at competitive prices for the Reno-Sparks market. Reviewers praise the modern, clean environment and attentive staff.",
+      "review_note": "4.5/5 overall experience across 24 reviews on A Place for Mom; review score 9/10 based on 12 reviews in the last 2 years (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/kiley-ranch-1451350",
+        "https://www.caring.com/senior-living/nevada/sparks/kiley-ranch-senior-living",
+        "https://www.yelp.com/biz/kiley-ranch-senior-living-sparks-3"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sierra Place Senior Living",
+      "slug": "sierra-place-senior-living",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "carson-city",
+      "county_name": "Carson City",
+      "city": "carson-city",
+      "city_name": "Carson City",
+      "address": "1111 W College Pkwy",
+      "zip": "89703",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "description": "Independent and assisted living community in Carson City, recently renovated with spacious rooms and a pleasant outdoor area. Residents and families describe a warm, well-kept community with cheerful staff and an active calendar including exercise classes, poker nights, happy hours, and outings.",
+      "review_note": "4.3/5 across 9 reviews on Caring.com; Seniorly score 9.3/10 based on 18 reviews across the web (July 2026)",
+      "sources": [
+        "https://www.caring.com/senior-living/nevada/carson-city/sierra-place-senior-living",
+        "https://www.seniorly.com/assisted-living/nevada/carson-city/sierra-place-senior-living",
+        "https://www.aplaceformom.com/community/sierra-place-retirement-community-94431"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Valage Senior Living at Carson Valley",
+      "slug": "valage-senior-living-at-carson-valley",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "douglas",
+      "county_name": "Douglas",
+      "city": "minden",
+      "city_name": "Minden",
+      "address": "973 Ironwood Dr",
+      "zip": "89423",
+      "phone": "(775) 234-5220",
+      "website": "https://valageatcarsonvalley.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "description": "Newer assisted living and memory care community in Minden serving the Carson Valley. The all-inclusive monthly fee covers three meals a day plus snacks, weekly housekeeping and laundry, scheduled transportation, an emergency call system, and wellness programming. The top-rated assisted living option in the Minden-Gardnerville area.",
+      "review_note": "4.6/5 across 14 reviews on Birdeye; A Place for Mom score 8.6/10 (July 2026)",
+      "sources": [
+        "https://birdeye.com/valage-senior-living-at-carson-valley-175296254855405",
+        "https://www.aplaceformom.com/community/valage-senior-living-at-carson-valley-1483659",
+        "https://valageatcarsonvalley.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Harmony Manor Skilled Nursing Facility",
+      "slug": "harmony-manor-skilled-nursing-facility",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "humboldt",
+      "county_name": "Humboldt",
+      "city": "winnemucca",
+      "city_name": "Winnemucca",
+      "address": "118 East Haskell St",
+      "zip": "89445",
+      "phone": "(775) 623-5222",
+      "website": "https://www.hghospital.org/locations/harmony-manor-skilled-nursing-and-residential-care-community/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 42,
+      "cms_ccn": "295024",
+      "cms_rating_overall": 5,
+      "description": "42-bed skilled nursing and residential care community in Winnemucca, operated by the Humboldt General Hospital district. Offers short-term rehabilitation and long-term care and holds a 5-star overall rating from the Centers for Medicare and Medicaid Services, placing it in the top tier of facilities nationwide. It is the primary skilled nursing option for Humboldt County.",
+      "sources": [
+        "https://www.nursinghomesite.com/HARMONY_MANOR_SKILLED_NURSING_FACILITY_WINNEMUCCA_NV",
+        "https://health.usnews.com/best-nursing-homes/area/nv/harmony-manor-skilled-nursing-facility-295024",
+        "https://www.hghospital.org/locations/harmony-manor-skilled-nursing-and-residential-care-community/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Advanced Health Care of Reno",
+      "slug": "advanced-health-care-of-reno",
+      "state": "nevada",
+      "state_name": "Nevada",
+      "state_abbrev": "NV",
+      "county": "washoe",
+      "county_name": "Washoe",
+      "city": "reno",
+      "city_name": "Reno",
+      "address": "961 Kuenzli Street",
+      "zip": "89502",
+      "phone": "(775) 470-7200",
+      "website": "https://www.ahcfacilities.com/reno/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 42,
+      "cms_ccn": "295096",
+      "cms_rating_overall": 5,
+      "description": "Advanced Health Care of Reno is a 42-bed Medicare 5-star skilled nursing facility specializing in short-term rehabilitation, with private suites, 24-hour nursing, and inpatient rehab services.",
+      "sources": [
+        "https://www.ahcfacilities.com/reno/",
+        "https://www.seniorcare.com/nursing-homes/nv/reno/advanced-health-care-of-reno/295096/"
       ],
       "verified_date": "2026-07-11"
     }

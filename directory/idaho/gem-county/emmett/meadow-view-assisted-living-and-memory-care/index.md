@@ -1,0 +1,26 @@
+---
+layout: "facility"
+title: "Meadow View Assisted Living and Memory Care"
+seo_title: "Meadow View Assisted Living and Memory Care — Senior Living in Emmett, ID"
+description: "Meadow View Assisted Living and Memory Care is a medium-sized senior living community in Emmett offering assisted living and memory care in a small-town Gem C"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Meadow View Assisted Living and Memory Care", "url": "/directory/idaho/gem-county/emmett/meadow-view-assisted-living-and-memory-care/"}]
+nearby: []
+state: "idaho"
+state_name: "Idaho"
+state_abbrev: "ID"
+county: "gem"
+county_name: "Gem"
+city: "emmett"
+city_name: "Emmett"
+address: "1013 S Johns Ave"
+zip: "83617"
+phone: "(208) 365-1122"
+website: "https://www.meadowviewal.com/"
+care_levels: ["assisted-living", "memory-care"]
+facility_size: "medium"
+sources: ["https://www.aplaceformom.com/community/meadow-view-assisted-living-and-memory-care-139508", "https://www.meadowviewal.com/", "https://www.caring.com/senior-living/idaho/emmett/meadow-view-assisted-living-and-memory-care"]
+verified_date: "2026-07-12"
+review_note: "4.3/5 average across 11 reviews on A Place for Mom (July 2026)"
+description_full: "Meadow View Assisted Living and Memory Care is a medium-sized senior living community in Emmett offering assisted living and memory care in a small-town Gem County setting. The community features landscaped gardens with outdoor sitting and walking areas, and reviewers describe caring staff and a clean, cozy facility."
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+---

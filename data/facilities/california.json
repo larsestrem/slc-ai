@@ -2740,6 +2740,443 @@
         "https://www.seniorly.com/assisted-living/california/napa/nazareth-rose-garden-of-napa"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Carmel Village at Clovis",
+      "slug": "carmel-village-at-clovis",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "fresno",
+      "county_name": "Fresno",
+      "city": "clovis",
+      "city_name": "Clovis",
+      "address": "1650 Shaw Ave",
+      "zip": "93611",
+      "phone": "(559) 297-4900",
+      "website": "https://www.generationsllc.com/communities/carmel-village/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "generations-llc",
+      "organization_name": "Generations LLC",
+      "description": "A resort-style senior living community in the heart of Clovis offering independent living, assisted living, and memory care. Managed by Generations LLC, it is consistently praised for its clean environment, dining, and compassionate memory care team.",
+      "review_note": "4.5/5 across 63 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/carmel-village-at-clovis-senior-living-1368455",
+        "https://www.generationsllc.com/communities/carmel-village/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Marbella Visalia",
+      "slug": "marbella-visalia",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "tulare",
+      "county_name": "Tulare",
+      "city": "visalia",
+      "city_name": "Visalia",
+      "address": "3120 W Caldwell Ave",
+      "zip": "93277",
+      "phone": "(559) 735-0828",
+      "website": "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "description": "An assisted living and memory care community in Visalia (formerly Prestige Assisted Living at Visalia). Reviewers describe attentive, respectful staff, a variety of activities, and a well-regarded memory care wing.",
+      "review_note": "4.43/5 across 43 reviews on Caring.com (2026)",
+      "sources": [
+        "https://www.caring.com/senior-living/california/visalia/prestige-assisted-living-at-visalia-93278",
+        "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Atria Las Posas",
+      "slug": "atria-las-posas",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "ventura",
+      "county_name": "Ventura",
+      "city": "camarillo",
+      "city_name": "Camarillo",
+      "address": "24 Las Posas Rd",
+      "zip": "93010",
+      "phone": "(805) 987-9872",
+      "website": "https://www.atriaseniorliving.com/retirement-communities/atria-las-posas-camarillo-ca",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "atria-senior-living",
+      "organization_name": "Atria Senior Living",
+      "description": "An Atria assisted living and memory care community in Ventura County. Reviewers praise the caring, attentive staff, a clean and attractive environment, and smooth move-in transitions.",
+      "review_note": "4.4/5 across 67 reviews on A Place for Mom (2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/atria-las-posas-56350",
+        "https://www.atriaseniorliving.com/retirement-communities/atria-las-posas-camarillo-ca"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "AlmaVia of Camarillo",
+      "slug": "almavia-of-camarillo",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "ventura",
+      "county_name": "Ventura",
+      "city": "camarillo",
+      "city_name": "Camarillo",
+      "address": "2500 N Ponderosa Dr",
+      "zip": "93010",
+      "phone": "(805) 388-5277",
+      "website": "https://www.senioradvisor.com/local/almavia-of-camarillo-camarillo-ca",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 100,
+      "organization": "elder-care-alliance",
+      "organization_name": "Elder Care Alliance",
+      "description": "A nonprofit, faith-based assisted living and memory care community in Camarillo, part of the Elder Care Alliance network. Reviewers highlight compassionate, professional staff, clean facilities, and engaging activities.",
+      "review_note": "4.8/5 across 16 reviews on A Place for Mom (2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/alma-via-of-camarillo-95421",
+        "https://www.caring.com/senior-living/california/camarillo/almavia-of-camarillo-93010"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Eskaton Village Grass Valley",
+      "slug": "eskaton-village-grass-valley",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "nevada",
+      "county_name": "Nevada",
+      "city": "grass-valley",
+      "city_name": "Grass Valley",
+      "zip": "95945",
+      "website": "https://www.aplaceformom.com/community/eskaton-village-grass-valley-98679",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "eskaton",
+      "organization_name": "Eskaton",
+      "description": "An Eskaton assisted living and memory care community in Grass Valley with well-kept grounds and a home-like, secure setting. Reviewers note friendly staff and improved, flavorful dining.",
+      "review_note": "4.4/5 across 10 reviews on A Place for Mom (2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/eskaton-village-grass-valley-98679"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Atria Grass Valley",
+      "slug": "atria-grass-valley",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "nevada",
+      "county_name": "Nevada",
+      "city": "grass-valley",
+      "city_name": "Grass Valley",
+      "zip": "95945",
+      "website": "https://www.aplaceformom.com/community/atria-grass-valley-59472",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "atria-senior-living",
+      "organization_name": "Atria Senior Living",
+      "google_rating": 4.9,
+      "google_review_count": 58,
+      "rating_as_of": "2026-07-12",
+      "description": "An Atria assisted living and memory care community in Grass Valley. Visitors and residents praise friendly, professional staff, fine-dining-style meals, a diverse activity schedule, and attentiveness to residents' needs.",
+      "review_note": "Also 32 reviews on Caring.com and 20 on A Place for Mom (2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/atria-grass-valley-59472",
+        "https://www.caring.com/senior-living/california/grass-valley/atria-grass-valley-95945"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Valle Verde",
+      "slug": "valle-verde",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "santa-barbara",
+      "county_name": "Santa Barbara",
+      "city": "santa-barbara",
+      "city_name": "Santa Barbara",
+      "address": "900 Calle De Los Amigos",
+      "zip": "93105",
+      "website": "https://www.humangood.org/valle-verde",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "humangood",
+      "organization_name": "HumanGood",
+      "cms_ccn": "055733",
+      "cms_rating_overall": 4,
+      "description": "A HumanGood nonprofit continuing care retirement community in Santa Barbara offering independent living, assisted living, and skilled nursing on beautiful grounds. Named a U.S. News Best Senior Living community for assisted and independent living.",
+      "review_note": "4.6/5 across 21 reviews on Caring.com (2026); on-site health center holds a 4-star CMS overall rating",
+      "sources": [
+        "https://www.caring.com/senior-living/california/santa-barbara/valle-verde-93105",
+        "https://health.usnews.com/best-senior-living/valle-verde-1900"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Cypress Place",
+      "slug": "cypress-place",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "ventura",
+      "county_name": "Ventura",
+      "city": "ventura",
+      "city_name": "Ventura",
+      "address": "1200 Cypress Point Ln",
+      "zip": "93003",
+      "phone": "(805) 650-8000",
+      "website": "https://www.meridiansenior.com/senior-living/ca/ventura/cypress-place/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "meridian-senior-living",
+      "organization_name": "Meridian Senior Living",
+      "description": "A Meridian Senior Living community in Ventura offering independent living, assisted living, and memory care. Reviewers highlight a welcoming atmosphere, kind and professional staff, and enjoyable dining.",
+      "review_note": "4.66/5 aggregated across web reviews (AssistedLiving.org); 40 reviews on A Place for Mom (2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/cypress-place-100577",
+        "https://www.assistedliving.org/california/ventura/cypress-place-assisted-living/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Astoria Senior Living – Oakdale",
+      "slug": "astoria-senior-living-oakdale",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "stanislaus",
+      "county_name": "Stanislaus",
+      "city": "oakdale",
+      "city_name": "Oakdale",
+      "address": "700 Laurel Ave",
+      "zip": "95361",
+      "phone": "(209) 322-2292",
+      "website": "https://astoriaseniorliving.com/astoria-in-oakdale/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "organization": "astoria-senior-living",
+      "organization_name": "Astoria Senior Living",
+      "description": "A single-story assisted living and memory care community in Oakdale with cozy lounges, an enclosed courtyard, and a resident chef. Recognized in U.S. News & World Report's 2026 Best Assisted Living.",
+      "review_note": "5/5 across 12 reviews on Caring.com; 30 reviews on A Place for Mom (2026)",
+      "sources": [
+        "https://www.caring.com/senior-living/california/oakdale/astoria-senior-living-oakdale",
+        "https://www.aplaceformom.com/community/astoria-senior-living-oakdale-141515"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Ventura Townehouse",
+      "slug": "ventura-townehouse",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "ventura",
+      "county_name": "Ventura",
+      "city": "ventura",
+      "city_name": "Ventura",
+      "zip": "93003",
+      "website": "https://www.aplaceformom.com/community/ventura-townehouse-73413",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "description": "A large assisted living and memory care community in Ventura, frequently described by reviewers as a blend of a luxury hotel and cruise ship with extensive activities and well-maintained grounds.",
+      "review_note": "4.2/5 across 82 reviews on A Place for Mom (2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/ventura-townehouse-73413"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Reserve at Thousand Oaks",
+      "slug": "the-reserve-at-thousand-oaks",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "ventura",
+      "county_name": "Ventura",
+      "city": "thousand-oaks",
+      "city_name": "Thousand Oaks",
+      "address": "3575 N Moorpark Rd",
+      "zip": "91360",
+      "phone": "(805) 492-2471",
+      "website": "https://www.mbkseniorliving.com/senior-living/ca/thousand-oaks/reserve-at-thousand-oaks/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "organization": "mbk-senior-living",
+      "organization_name": "MBK Senior Living",
+      "google_rating": 4.8,
+      "google_review_count": 48,
+      "rating_as_of": "2026-07-12",
+      "description": "An MBK Senior Living community in Thousand Oaks offering independent living, assisted living, memory care, and respite care. Amenities include on-site therapy, a fitness center, restaurant-style dining, and landscaped walking paths.",
+      "sources": [
+        "https://www.mbkseniorliving.com/senior-living/ca/thousand-oaks/reserve-at-thousand-oaks/",
+        "https://www.aplaceformom.com/community/the-reserve-at-thousand-oaks-54776"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "University Village Thousand Oaks",
+      "slug": "university-village-thousand-oaks",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "ventura",
+      "county_name": "Ventura",
+      "city": "thousand-oaks",
+      "city_name": "Thousand Oaks",
+      "address": "3415 Campus Dr",
+      "zip": "91360",
+      "website": "https://health.usnews.com/best-senior-living/university-village-thousand-oaks-15541",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "google_rating": 4.7,
+      "google_review_count": 43,
+      "rating_as_of": "2026-07-12",
+      "description": "A continuing care retirement community in Thousand Oaks offering independent living, assisted living, and memory care with 24-hour care, dining, and medication management on a large campus.",
+      "sources": [
+        "https://health.usnews.com/best-senior-living/university-village-thousand-oaks-15541",
+        "https://www.yelp.com/biz/university-village-thousand-oaks-thousand-oaks-3"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Oakwood Gardens Care Center",
+      "slug": "oakwood-gardens-care-center",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "fresno",
+      "county_name": "Fresno",
+      "city": "fresno",
+      "city_name": "Fresno",
+      "address": "3510 E Shields Ave",
+      "zip": "93726",
+      "phone": "(559) 222-4807",
+      "website": "https://oakwoodgardenscarecenter.com/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 104,
+      "cms_ccn": "055204",
+      "cms_rating_overall": 5,
+      "description": "A 104-bed Medicare- and Medicaid-certified skilled nursing facility in Fresno offering short-term rehabilitation, 24-hour skilled nursing, long-term care, complex wound care, and hospice. Recognized by CMS with a 5-star overall rating.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/ca/oakwood-gardens-care-center-055204",
+        "https://oakwoodgardenscarecenter.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Vistas Assisted Living and Memory Care",
+      "slug": "the-vistas-assisted-living-and-memory-care",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "shasta",
+      "county_name": "Shasta",
+      "city": "redding",
+      "city_name": "Redding",
+      "address": "3030 Heritagetown Dr",
+      "zip": "96002",
+      "website": "https://www.caring.com/senior-living/california/redding/the-vistas-assisted-living-and-memory-care",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "google_rating": 4.3,
+      "google_review_count": 21,
+      "rating_as_of": "2026-07-12",
+      "description": "An assisted living and memory care community in Redding described by reviewers as welcoming, clean, and well-kept with a nice dining program and helpful staff.",
+      "review_note": "4.64/5 across 21 reviews on aggregator platforms; Google 4.3 (2026)",
+      "sources": [
+        "https://www.caring.com/senior-living/california/redding/the-vistas-assisted-living-and-memory-care",
+        "https://health.usnews.com/best-senior-living/the-vistas-assisted-living-memory-care-15817"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Cypress Ridge Care Center",
+      "slug": "cypress-ridge-care-center",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "monterey",
+      "county_name": "Monterey",
+      "city": "monterey",
+      "city_name": "Monterey",
+      "address": "1501 Skyline Dr",
+      "zip": "93940",
+      "phone": "(831) 373-3716",
+      "website": "https://cypressridgecarecenter.com/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 99,
+      "cms_ccn": "056437",
+      "cms_rating_overall": 4,
+      "description": "A 99-bed Medicare- and Medicaid-certified skilled nursing facility in Monterey with a restful, scenic setting and 24-hour licensed nursing. Holds a 4-star CMS overall rating with 5-star quality measures.",
+      "sources": [
+        "https://cypressridgecarecenter.com/",
+        "https://www.medicare.gov/care-compare/details/nursing-home/056437/view-all/?state=CA"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [
@@ -2866,6 +3303,84 @@
       "sources": [
         "https://discoveryseniorliving.com/",
         "https://craft.co/discovery-senior-living/locations"
+      ]
+    },
+    {
+      "name": "Generations LLC",
+      "slug": "generations-llc",
+      "headquarters": "Clovis, California",
+      "website": "https://www.generationsllc.com/",
+      "states": [
+        "CA"
+      ],
+      "description": "A family-owned senior living operator based in Clovis, California, developing and managing resort-style independent living, assisted living, and memory care communities.",
+      "sources": [
+        "https://www.generationsllc.com/communities/carmel-village/"
+      ]
+    },
+    {
+      "name": "Elder Care Alliance",
+      "slug": "elder-care-alliance",
+      "headquarters": "Alameda, California",
+      "website": "https://eldercarealliance.org/",
+      "states": [
+        "CA"
+      ],
+      "description": "A California nonprofit, faith-based provider of assisted living and memory care operating the AlmaVia communities with a mission focused on holistic, values-driven senior care.",
+      "sources": [
+        "https://www.aplaceformom.com/community/alma-via-of-camarillo-95421"
+      ]
+    },
+    {
+      "name": "HumanGood",
+      "slug": "humangood",
+      "headquarters": "Pleasanton, California",
+      "website": "https://www.humangood.org/",
+      "states": [
+        "CA"
+      ],
+      "description": "One of the largest nonprofit senior living providers in the U.S., operating life plan communities and affordable housing with independent living, assisted living, memory care, and skilled nursing.",
+      "sources": [
+        "https://health.usnews.com/best-senior-living/valle-verde-1900"
+      ]
+    },
+    {
+      "name": "Meridian Senior Living",
+      "slug": "meridian-senior-living",
+      "headquarters": "Bethesda, Maryland",
+      "website": "https://www.meridiansenior.com/",
+      "states": [
+        "CA"
+      ],
+      "description": "A national operator of independent living, assisted living, and memory care communities, including Cypress Place in Ventura, California.",
+      "sources": [
+        "https://www.meridiansenior.com/senior-living/ca/ventura/cypress-place/"
+      ]
+    },
+    {
+      "name": "MBK Senior Living",
+      "slug": "mbk-senior-living",
+      "headquarters": "Irvine, California",
+      "website": "https://www.mbkseniorliving.com/",
+      "states": [
+        "CA"
+      ],
+      "description": "A California-based operator of independent living, assisted living, and memory care communities across the western U.S., known for its Yum! dining and wellness programming.",
+      "sources": [
+        "https://www.mbkseniorliving.com/senior-living/ca/thousand-oaks/reserve-at-thousand-oaks/"
+      ]
+    },
+    {
+      "name": "Astoria Senior Living",
+      "slug": "astoria-senior-living",
+      "headquarters": "California",
+      "website": "https://astoriaseniorliving.com/",
+      "states": [
+        "CA"
+      ],
+      "description": "An operator of assisted living and memory care communities in California's Central Valley, including locations in Oakdale and the greater Modesto area.",
+      "sources": [
+        "https://astoriaseniorliving.com/astoria-in-oakdale/"
       ]
     }
   ]

@@ -175,6 +175,9 @@
     <loc>https://senior.living.community/directory/idaho/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/shasta-county/redding/the-vistas-assisted-living-and-memory-care/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/shasta-county/redding/oakmont-of-redding/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
@@ -292,7 +295,13 @@
     <loc>https://senior.living.community/directory/california/san-diego-area/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/fresno-county/clovis/carmel-village-at-clovis/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/fresno-county/fresno/the-terraces-at-san-joaquin-gardens/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/fresno-county/fresno/oakwood-gardens-care-center/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/fresno-county/fresno/oakmont-of-fresno/</loc><lastmod>2026-07-11</lastmod>
@@ -385,6 +394,9 @@
     <loc>https://senior.living.community/directory/california/santa-clara-county/san-jose/atria-willow-glen/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/tulare-county/visalia/marbella-visalia/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/tulare-county/visalia/quail-park-on-cypress/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
@@ -400,6 +412,9 @@
     <loc>https://senior.living.community/directory/california/monterey-county/monterey/the-park-lane-monterey/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/monterey-county/monterey/cypress-ridge-care-center/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/monterey-county/carmel/the-cottages-of-carmel/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
@@ -407,6 +422,15 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/central-coast/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/nevada-county/grass-valley/eskaton-village-grass-valley/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/nevada-county/grass-valley/atria-grass-valley/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/stanislaus-county/oakdale/astoria-senior-living-oakdale/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/stanislaus-county/modesto/dale-commons/</loc><lastmod>2026-07-12</lastmod>
@@ -418,7 +442,25 @@
     <loc>https://senior.living.community/directory/california/ventura-county/ventura/the-palms-at-bonaventure/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/ventura-county/ventura/ventura-townehouse/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/ventura-county/ventura/cypress-place/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/ventura-county/camarillo/brookdale-camarillo/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/ventura-county/camarillo/atria-las-posas/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/ventura-county/camarillo/almavia-of-camarillo/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/ventura-county/thousand-oaks/the-reserve-at-thousand-oaks/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/ventura-county/thousand-oaks/university-village-thousand-oaks/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/ventura-county/thousand-oaks/belmont-village-thousand-oaks/</loc><lastmod>2026-07-12</lastmod>
@@ -461,6 +503,9 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/santa-barbara-county/santa-barbara/maravilla-santa-barbara/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/santa-barbara-county/santa-barbara/valle-verde/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/san-joaquin-county/stockton/oakmont-of-brookside/</loc><lastmod>2026-07-12</lastmod>
@@ -1102,6 +1147,9 @@
     <loc>https://senior.living.community/organizations/morningstar-senior-living/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/elder-care-alliance/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/wellquest-living/</loc>
   </url>
   <url>
@@ -1243,6 +1291,9 @@
     <loc>https://senior.living.community/organizations/living-care-lifestyles/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/meridian-senior-living/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/village-concepts/</loc>
   </url>
   <url>
@@ -1267,6 +1318,9 @@
     <loc>https://senior.living.community/organizations/regency-pacific/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/generations-llc/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/pacifica-senior-living/</loc>
   </url>
   <url>
@@ -1280,6 +1334,9 @@
   </url>
   <url>
     <loc>https://senior.living.community/organizations/bayshire-senior-communities/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/astoria-senior-living/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/life-care-centers-of-america/</loc>

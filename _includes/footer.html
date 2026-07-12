@@ -4,7 +4,9 @@
       <h2>Directory</h2>
       <ul>
         {%- for st in site.data.states %}
+        {%- if site.data.stats.states[st.slug] %}
         <li><a href="/directory/{{ st.slug }}/">{{ st.name }} senior living</a></li>
+        {%- endif %}
         {%- endfor %}
       </ul>
     </div>

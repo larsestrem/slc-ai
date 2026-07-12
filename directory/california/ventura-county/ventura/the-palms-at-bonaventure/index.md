@@ -4,7 +4,7 @@ title: "The Palms at Bonaventure"
 seo_title: "The Palms at Bonaventure — Senior Living in Ventura, CA"
 description: "Assisted living and memory care community on North Wells Road in east Ventura. Reviews consistently praise the caring, compassionate staff, restaurant-style d"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Palms at Bonaventure", "url": "/directory/california/ventura-county/ventura/the-palms-at-bonaventure/"}]
-nearby: []
+nearby: [{"name": "Cypress Place", "url": "/directory/california/ventura-county/ventura/cypress-place/", "city_name": "Ventura", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "facility_size": "large", "description": "A Meridian Senior Living community in Ventura offering independent living, assisted living, and memory care. Reviewers highlight a welcoming atmosphere, kind and professional staff, and enjoyable dining."}, {"name": "Ventura Townehouse", "url": "/directory/california/ventura-county/ventura/ventura-townehouse/", "city_name": "Ventura", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "description": "A large assisted living and memory care community in Ventura, frequently described by reviewers as a blend of a luxury hotel and cruise ship with extensive activities and well-maintained grounds."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

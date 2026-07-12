@@ -1,0 +1,26 @@
+---
+layout: "facility"
+title: "Marbella Visalia"
+seo_title: "Marbella Visalia — Senior Living in Visalia, CA"
+description: "An assisted living and memory care community in Visalia (formerly Prestige Assisted Living at Visalia). Reviewers describe attentive, respectful staff, a vari"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Marbella Visalia", "url": "/directory/california/tulare-county/visalia/marbella-visalia/"}]
+nearby: [{"name": "Quail Park on Cypress", "url": "/directory/california/tulare-county/visalia/quail-park-on-cypress/", "city_name": "Visalia", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Quail Park on Cypress is a senior living campus across from Kaweah Health Medical Center's Cypress campus, offering independent living, assisted living, and memory care in studio to two-bedroom residences. Reviewers describe beautiful surroundings and professional, pleasant staff."}]
+state: "california"
+state_name: "California"
+state_abbrev: "CA"
+county: "tulare"
+county_name: "Tulare"
+city: "visalia"
+city_name: "Visalia"
+address: "3120 W Caldwell Ave"
+zip: "93277"
+phone: "(559) 735-0828"
+website: "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497"
+care_levels: ["assisted-living", "memory-care"]
+facility_size: "medium"
+sources: ["https://www.caring.com/senior-living/california/visalia/prestige-assisted-living-at-visalia-93278", "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497"]
+verified_date: "2026-07-12"
+review_note: "4.43/5 across 43 reviews on Caring.com (2026)"
+description_full: "An assisted living and memory care community in Visalia (formerly Prestige Assisted Living at Visalia). Reviewers describe attentive, respectful staff, a variety of activities, and a well-regarded memory care wing."
+licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
+---

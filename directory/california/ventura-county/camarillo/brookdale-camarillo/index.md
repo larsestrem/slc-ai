@@ -4,7 +4,7 @@ title: "Brookdale Camarillo"
 seo_title: "Brookdale Camarillo — Senior Living in Camarillo, CA"
 description: "Brookdale Camarillo is an assisted living and memory care community on Santa Rosa Road in Camarillo, in Ventura County. It is operated by Brookdale Senior Liv"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Brookdale Camarillo", "url": "/directory/california/ventura-county/camarillo/brookdale-camarillo/"}]
-nearby: []
+nearby: [{"name": "Atria Las Posas", "url": "/directory/california/ventura-county/camarillo/atria-las-posas/", "city_name": "Camarillo", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "description": "An Atria assisted living and memory care community in Ventura County. Reviewers praise the caring, attentive staff, a clean and attractive environment, and smooth move-in transitions."}, {"name": "AlmaVia of Camarillo", "url": "/directory/california/ventura-county/camarillo/almavia-of-camarillo/", "city_name": "Camarillo", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "description": "A nonprofit, faith-based assisted living and memory care community in Camarillo, part of the Elder Care Alliance network. Reviewers highlight compassionate, professional staff, clean facilities, and engaging activities."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

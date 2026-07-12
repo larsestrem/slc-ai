@@ -4,7 +4,7 @@ title: "Oakmont of Redding"
 seo_title: "Oakmont of Redding — Senior Living in Redding, CA"
 description: "Oakmont of Redding is a luxury assisted living and memory care community on Bechelli Lane with views of the nearby river and mountains. Amenities include a sa"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Oakmont of Redding", "url": "/directory/california/shasta-county/redding/oakmont-of-redding/"}]
-nearby: []
+nearby: [{"name": "The Vistas Assisted Living and Memory Care", "url": "/directory/california/shasta-county/redding/the-vistas-assisted-living-and-memory-care/", "city_name": "Redding", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "medium", "description": "An assisted living and memory care community in Redding described by reviewers as welcoming, clean, and well-kept with a nice dining program and helpful staff."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

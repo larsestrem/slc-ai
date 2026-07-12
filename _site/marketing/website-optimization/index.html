@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><title>Senior Living Website Optimization: Turn Visitors Into Tours | Senior Living Community</title>
+<meta name="description" content="Your ads bring families to the site — the site decides whether they book a tour. What we audit and fix: speed, pricing clarity, trust signals, AEO.">
+<link rel="canonical" href="https://senior.living.community/marketing/website-optimization/">
+<meta property="og:site_name" content="Senior Living Community">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Senior Living Website Optimization: Turn Visitors Into Tours">
+<meta property="og:description" content="Your ads bring families to the site — the site decides whether they book a tour. What we audit and fix: speed, pricing clarity, trust signals, AEO.">
+<meta property="og:url" content="https://senior.living.community/marketing/website-optimization/">
+<meta name="theme-color" content="#0a58ca">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%230a58ca'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
+<style>/* senior.living.community — single local stylesheet, inlined in <head>.
+   No webfonts, no frameworks, no external requests. */
+:root {
+  /* Clean white, dark text, blue links — high contrast for older readers. */
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --ink: #1f262c;
+  --muted: #49535d;
+  --accent: #0a58ca;
+  --accent-strong: #084298;
+  --on-accent: #ffffff;
+  --line: #dde3e8;
+  --soft: #f4f6f8;
+  --gold: #a8760f;
+  --danger: #9c3a2e;
+  --radius: 10px;
+  --maxw: 70rem;
+  --prose: 46rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14171a;
+    --surface: #1c2126;
+    --ink: #e8ecef;
+    --muted: #a5aeb8;
+    --accent: #7db8ff;
+    --accent-strong: #a9cdff;
+    --on-accent: #0a2540;
+    --line: #333a41;
+    --soft: #232930;
+    --gold: #d9a94a;
+    --danger: #e08575;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: clamp(1rem, 0.95rem + 0.25vw, 1.0625rem);
+  line-height: 1.65;
+}
+img { max-width: 100%; height: auto; }
+a { color: var(--accent); }
+a:hover { color: var(--accent-strong); }
+h1, h2, h3 { line-height: 1.25; text-wrap: balance; }
+h1 { font-size: clamp(1.6rem, 1.2rem + 1.6vw, 2.4rem); margin: 0 0 .5rem; }
+h2 { font-size: clamp(1.25rem, 1.1rem + .7vw, 1.6rem); margin: 2.2rem 0 .6rem; }
+h3 { font-size: 1.125rem; margin: 1.6rem 0 .4rem; }
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 1.1rem; }
+main { display: block; padding: 1.6rem 0 3rem; }
+.prose { max-width: var(--prose); }
+.prose li { margin: .3rem 0; }
+.lead { font-size: 1.12em; color: var(--muted); max-width: var(--prose); }
+
+/* Header / nav (hamburger on mobile — CSS-only checkbox toggle) */
+.site-header { background: var(--surface); border-bottom: 1px solid var(--line); }
+.site-header .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
+.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; margin-right: auto; }
+.brand em { color: var(--accent); font-style: normal; }
+.nav-toggle-box { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.nav-toggle { display: none; cursor: pointer; font-size: 1.4rem; line-height: 1; color: var(--ink); padding: .2rem .4rem; border-radius: 6px; user-select: none; }
+.nav-toggle .nav-close { display: none; }
+.nav-toggle-box:focus-visible + .nav-toggle { outline: 2px solid var(--accent); outline-offset: 2px; }
+.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
+.site-nav a { text-decoration: none; color: var(--muted); font-weight: 500; padding: .2rem .1rem; }
+.site-nav a:hover, .site-nav a[aria-current="page"] { color: var(--accent-strong); }
+@media (max-width: 46rem) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; }
+  .nav-toggle-box:checked ~ .site-nav { display: flex; flex-direction: column; flex-basis: 100%; gap: 0; padding: .4rem 0 .2rem; border-top: 1px solid var(--line); margin-top: .5rem; }
+  .nav-toggle-box:checked ~ .site-nav a { padding: .55rem .2rem; font-size: 1.05rem; border-bottom: 1px solid var(--line); }
+  .nav-toggle-box:checked ~ .site-nav a:last-child { border-bottom: 0; }
+  .nav-toggle-box:checked + .nav-toggle .nav-open { display: none; }
+  .nav-toggle-box:checked + .nav-toggle .nav-close { display: block; }
+}
+
+/* Breadcrumbs */
+.crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem 0 0; }
+.crumbs ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem; }
+.crumbs li + li::before { content: "›"; margin-right: .25rem; color: var(--line); }
+.crumbs a { color: var(--muted); text-decoration: none; }
+.crumbs a:hover { color: var(--accent); text-decoration: underline; }
+
+/* Hero */
+.hero { background: linear-gradient(180deg, var(--soft), var(--bg)); border-bottom: 1px solid var(--line); }
+.hero .wrap { padding: 2.6rem 1.1rem 2.2rem; }
+.hero p { max-width: 44rem; }
+
+/* Cards & grids */
+.grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); margin: 1.2rem 0; padding: 0; list-style: none; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 1rem 1.1rem; }
+.card h3 { margin: 0 0 .3rem; font-size: 1.05rem; }
+.card h3 a { text-decoration: none; }
+.card .meta { color: var(--muted); font-size: .88rem; margin: 0; }
+.card .desc { font-size: .92rem; margin: .5rem 0 0; }
+
+/* Badges / chips */
+.badges { display: flex; flex-wrap: wrap; gap: .35rem; margin: .5rem 0; padding: 0; list-style: none; }
+.badge { display: inline-block; background: var(--soft); border: 1px solid var(--line); color: var(--ink); border-radius: 99px; padding: .05rem .6rem; font-size: .78rem; white-space: nowrap; text-decoration: none; }
+.badge:hover { border-color: var(--accent); }
+.badge.small-home { border-color: var(--gold); }
+
+/* Stars */
+.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
+.stars .off { color: var(--line); }
+
+/* Callouts */
+.ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
+blockquote p { margin: .2rem 0; }
+.notice { background: var(--soft); border: 1px solid var(--line); border-radius: var(--radius); padding: .7rem 1rem; font-size: .88rem; color: var(--muted); margin: 1.2rem 0; }
+.notice a { color: var(--accent); }
+
+/* Definition panels (facility page) */
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.1rem 1.25rem; margin: 1.1rem 0; }
+.panel h2 { margin-top: 0; font-size: 1.15rem; }
+.kv { display: grid; grid-template-columns: max-content 1fr; gap: .35rem 1.2rem; margin: 0; }
+.kv dt { color: var(--muted); font-weight: 500; }
+.kv dd { margin: 0; overflow-wrap: anywhere; }
+@media (max-width: 34rem) { .kv { grid-template-columns: 1fr; } .kv dd { margin: -0.3rem 0 .4rem; } }
+
+.two-col { display: grid; gap: 1.1rem; grid-template-columns: 1fr; }
+@media (min-width: 52rem) { .two-col { grid-template-columns: 3fr 2fr; align-items: start; } }
+
+/* Tables */
+table { border-collapse: collapse; width: 100%; margin: 1.2rem 0; font-size: .95rem; }
+.table-scroll { overflow-x: auto; }
+th, td { text-align: left; padding: .5rem .7rem; border-bottom: 1px solid var(--line); }
+th { color: var(--muted); font-weight: 600; font-size: .85rem; }
+tbody tr:hover { background: var(--soft); }
+
+/* Buttons */
+.btn { display: inline-block; background: var(--accent); color: var(--on-accent); border-radius: 8px; padding: .55rem 1.1rem; text-decoration: none; font-weight: 600; }
+.btn:hover { background: var(--accent-strong); color: var(--on-accent); }
+.btn.ghost { background: transparent; color: var(--accent); border: 1.5px solid var(--accent); }
+
+/* Directory lists */
+.dir-list { columns: 2; column-gap: 2.5rem; padding-left: 1.2rem; margin: 1rem 0; }
+@media (min-width: 52rem) { .dir-list { columns: 3; } }
+.dir-list li { break-inside: avoid; margin: .25rem 0; }
+.count { color: var(--muted); font-size: .85em; }
+
+/* State page: map + resources left, scrolling facility list right */
+.state-layout { display: grid; gap: 1.6rem; grid-template-columns: 1fr; margin-top: 1.2rem; }
+@media (min-width: 56rem) {
+  .state-layout { grid-template-columns: minmax(20rem, 5fr) 7fr; align-items: start; }
+  .state-side { position: sticky; top: 1rem; }
+  .state-list { max-height: calc(100vh - 2rem); overflow-y: auto; padding-right: .5rem; scroll-behavior: smooth; }
+  .state-list section:first-child h2 { margin-top: .2rem; }
+}
+.state-map { margin: 0 0 1.2rem; }
+.state-map svg { max-width: 24rem; width: 100%; height: auto; display: block; }
+.map-shape { fill: var(--soft); stroke: var(--line); stroke-width: 1.5; }
+.map-dot { fill: var(--accent); opacity: .9; transition: r .15s; }
+.state-map a:hover .map-dot, .state-map a:focus .map-dot,
+.state-map a.hl .map-dot { fill: var(--gold); opacity: 1; r: 7px; }
+.state-map figcaption { color: var(--muted); font-size: .82rem; }
+.state-list .card.hl { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+.state-resources { font-size: .92rem; }
+.state-resources h2 { font-size: 1.05rem; margin-top: 1.4rem; }
+.state-resources ul { padding-left: 1.2rem; margin: .5rem 0; }
+
+/* Posts */
+.post-list { list-style: none; padding: 0; }
+.post-list li { padding: 1rem 0; border-bottom: 1px solid var(--line); }
+.post-list .date { color: var(--muted); font-size: .85rem; }
+.post-meta { color: var(--muted); font-size: .9rem; margin: 0 0 1.4rem; }
+
+/* Photos */
+.photo-grid figure { margin: 0; }
+.photo-grid img { width: 100%; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
+.photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
+.claim { border-left: 4px solid var(--accent); }
+
+/* Ads (lazy) */
+.ad-slot { min-height: 100px; margin: 1.6rem 0; display: flex; align-items: center; justify-content: center; background: var(--soft); border: 1px dashed var(--line); border-radius: var(--radius); color: var(--muted); font-size: .75rem; }
+
+/* Footer */
+.site-footer { border-top: 1px solid var(--line); background: var(--surface); margin-top: 2rem; }
+.site-footer .wrap { padding: 1.8rem 1.1rem; display: grid; gap: 1.2rem; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); font-size: .9rem; }
+.site-footer h2 { font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 .5rem; }
+.site-footer ul { list-style: none; margin: 0; padding: 0; }
+.site-footer li { margin: .25rem 0; }
+.site-footer a { color: var(--ink); text-decoration: none; }
+.site-footer a:hover { color: var(--accent); }
+.site-footer .fine { grid-column: 1 / -1; color: var(--muted); font-size: .8rem; border-top: 1px solid var(--line); padding-top: 1rem; }
+
+/* Utility */
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.skip { position: absolute; left: -999px; top: 0; background: var(--surface); padding: .5rem 1rem; z-index: 10; }
+.skip:focus { left: .5rem; top: .5rem; }
+</style>
+
+  
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/">senior<em>.living.community</em></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-box">
+    <label for="nav-toggle" class="nav-toggle" aria-label="Menu"><span class="nav-open">&#9776;</span><span class="nav-close">&#10005;</span></label>
+    <nav class="site-nav" aria-label="Main">
+      <a href="/directory/">Directory</a>
+      <a href="/guides/">Guides</a>
+      <a href="/organizations/">Organizations</a>
+      <a href="/news/">News</a>
+      <a href="/placement-professionals/">Placement Help</a>
+    </nav>
+  </div>
+</header>
+
+  
+<nav class="crumbs wrap" aria-label="Breadcrumb">
+  <ol>
+    <li><a href="/">Home</a></li>
+    <li><a href="/marketing/">Marketing</a></li>
+    <li><span aria-current="page">Website Optimization</span></li>
+  </ol>
+</nav>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+  {"@type":"ListItem","position":1,"name":"Home","item":"https://senior.living.community/"},{"@type":"ListItem","position":2,"name":"Marketing","item":"https://senior.living.community/marketing/"},{"@type":"ListItem","position":3,"name":"Website Optimization","item":"https://senior.living.community/marketing/website-optimization/"}]}
+</script>
+
+  <main id="main" class="wrap">
+    <article class="prose">
+  <h1>Senior Living Website Optimization: Turn Visitors Into Tours</h1>
+  <p>Advertising gets people to your website. Your website decides what happens next. Whether the traffic comes from a <a href="/marketing/ad-grants/">Google Ad Grant</a>, paid search, or organic results, every visitor lands on the same pages — and those pages either turn a worried adult daughter into a scheduled tour, or they quietly send her to the community down the road.</p>
+
+<p>We run senior.living.community, a family-facing directory, which means we spend all day watching how families actually research senior care. This page describes what we look for when we audit a community’s website, what we fix, and how the engagement works.</p>
+
+<h2 id="why-the-website-is-the-multiplier">Why the website is the multiplier</h2>
+
+<p>Suppose your campaigns deliver <strong>2,000</strong> targeted visits a month. If your site converts <strong>1%</strong> of visitors into tour requests, that’s <strong>20</strong> tours. If it converts <strong>2%</strong>, that’s <strong>40</strong> — from the exact same traffic and the exact same ad spend.</p>
+
+<p>Doubling your conversion rate has the same effect on tours as doubling your advertising budget, and it costs far less. It also compounds: every future visitor, from every future channel, lands on the improved site. That’s why we treat the website as the first thing to inspect, not an afterthought to the campaigns.</p>
+
+<h2 id="who-is-actually-visiting">Who is actually visiting</h2>
+
+<p>The typical visitor is not the future resident. It’s an adult son or daughter, often in their 50s or 60s, researching on a phone between work and family obligations, frequently after a fall, a diagnosis, or a hospital discharge started the clock. She is stressed, short on time, and comparing three or four communities in the same session.</p>
+
+<p>Every audit item below follows from that reality.</p>
+
+<h2 id="what-we-audit-and-fix">What we audit and fix</h2>
+
+<h3 id="page-speed-on-real-phones">Page speed on real phones</h3>
+
+<p>Most community websites are tested — if at all — on an office desktop with fast Wi-Fi. Your actual visitor is on a mid-range phone, sometimes on a cellular connection in a hospital hallway. Pages that take five or more seconds to load lose a meaningful share of visitors before a single word is read, and both Google’s organic ranking and its ad quality scoring reward fast pages. We measure speed the way Google does, on the devices your visitors use, and fix the usual culprits: oversized images, bloated themes, and plugins nobody remembers installing.</p>
+
+<h3 id="clear-care-level-explanations">Clear care-level explanations</h3>
+
+<p>Families arrive confused. Most don’t yet know the difference between assisted living, memory care, and skilled nursing — they know “Mom can’t be alone anymore.” A site that assumes industry vocabulary loses them; a site that plainly explains what each level of care includes, who it’s for, and how a care assessment works becomes the site they trust. We rewrite care-level pages in family language, without dumbing down the substance.</p>
+
+<h3 id="pricing-transparency-vs-the-call-us-wall">Pricing transparency vs. the “call us” wall</h3>
+
+<p>The most common conversion killer in this industry is hiding all pricing behind “contact us for pricing.” Families read that as “more than we can afford” and leave — often for a competitor who publishes a starting rate. You don’t need to publish a full rate card; a starting price, a typical range, or an honest explanation of how pricing is built (base rate plus care level) keeps the visitor in the conversation. Communities that publish even a starting rate consistently see more inquiries, not fewer — and the inquiries that come in are better qualified.</p>
+
+<h3 id="tour-request-friction">Tour-request friction</h3>
+
+<p>We walk the exact path a visitor takes to request a tour and count every obstacle: forms with <strong>10+</strong> required fields, no visible phone number, no indication of what happens after you submit, contact pages buried three clicks deep. The fix is usually simple — a short form, a prominent phone number, a one-line promise (“we’ll call you within one business day”) — but someone has to actually do it.</p>
+
+<h3 id="photos-that-answer-real-questions">Photos that answer real questions</h3>
+
+<p>Families zoom in on photos looking for specific answers: How big are the rooms? Is it clean? Do the residents look engaged? Is there space for Dad’s recliner? Stock photography and empty-lobby shots answer none of that. We identify the photo gaps and give you a specific shot list — real rooms, real common areas, real activities (with appropriate permissions).</p>
+
+<h3 id="trust-signals">Trust signals</h3>
+
+<p>State inspection records are public; families increasingly check them. A community that links to its own inspection history, names its leadership, mentions staff tenure (“our director of nursing has been here <strong>11</strong> years”), and shows genuine reviews signals it has nothing to hide — which is exactly the signal a nervous family is scanning for. We audit what trust evidence exists, what’s missing, and how to present it honestly.</p>
+
+<h3 id="local-seo-and-aeo">Local SEO and AEO</h3>
+
+<p>Local SEO is the established discipline: an accurate and active Google Business Profile, consistent name-address-phone data, location pages that actually describe your location. AEO — answer-engine optimization — is where discovery is moving. Families now ask ChatGPT and Google’s AI results questions like “what does assisted living cost near me” and “how do I choose a memory care facility.” AI assistants and featured snippets cite pages that are structured to be citable: clear headings that match real questions, direct answers near the top, structured data markup that machines can parse. We optimize for both, because the family that finds you through an AI answer never saw a search results page at all.</p>
+
+<h2 id="what-each-problem-costs-you">What each problem costs you</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>What we find</th>
+      <th>What the family experiences</th>
+      <th>The fix</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Slow mobile pages</td>
+      <td>Leaves before the page loads</td>
+      <td>Image, theme, and hosting cleanup</td>
+    </tr>
+    <tr>
+      <td>Jargon-heavy care pages</td>
+      <td>“I don’t know if this is the right place for Mom”</td>
+      <td>Plain-language care-level content</td>
+    </tr>
+    <tr>
+      <td>No pricing information</td>
+      <td>“Probably too expensive” — leaves</td>
+      <td>Starting rates or honest ranges</td>
+    </tr>
+    <tr>
+      <td>Long, buried contact forms</td>
+      <td>Gives up mid-form</td>
+      <td>Short form, visible phone, clear next step</td>
+    </tr>
+    <tr>
+      <td>Stock photos</td>
+      <td>Can’t picture their parent living there</td>
+      <td>Shot list of real spaces and life</td>
+    </tr>
+    <tr>
+      <td>No trust evidence</td>
+      <td>Keeps researching competitors</td>
+      <td>Inspection links, tenure, real reviews</td>
+    </tr>
+    <tr>
+      <td>No structured content</td>
+      <td>Never surfaces in AI answers</td>
+      <td>AEO restructuring and markup</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="what-you-get">What you get</h2>
+
+<p>The deliverable is an audit: a written report that scores your site across everything above, with fixes ranked by expected impact so you know what matters first and what can wait. It’s specific — not “improve your content” but “this page, this change, this reason.”</p>
+
+<p>For implementation, you choose: hand the prioritized list to your existing web person and we’ll answer their questions, or have us implement the fixes directly. Either way works; the audit is written so a competent developer can act on it without us in the room.</p>
+
+<h2 id="what-it-costs">What it costs</h2>
+
+<p>The audit itself is <strong>free</strong> — we’d rather show you exactly what we’d fix than ask you to take it on faith. Implementation is <strong>custom-quoted after the free audit</strong>, because the honest answer to “what will it cost” depends entirely on what we find: some sites need a week of fixes, some need three, and some are better candidates for a <a href="/marketing/website-rebuild/">ground-up rebuild</a>.</p>
+
+<h2 id="when-optimization-isnt-the-answer">When optimization isn’t the answer</h2>
+
+<p>Sometimes the audit comes back and the right recommendation is: don’t patch this. If the site is built on a decade-old theme, structured around the org chart instead of the family’s questions, and slow at the platform level, optimization hits a ceiling — you can spend real money polishing something that will never score well. In that case we’ll say so plainly and point you at the <a href="/marketing/website-rebuild/">website rebuild</a> option instead. And if your site is genuinely in good shape, we’ll tell you that too, and suggest you put the budget into <a href="/marketing/">traffic</a> instead.</p>
+
+<h2 id="next-step">Next step</h2>
+
+<p>Email <strong>marketing@senior.living.community</strong> with your website address. We’ll run the free audit and send you the prioritized report — no call required, no obligation attached. What you do with it is up to you.</p>
+
+</article>
+
+  </main>
+  <footer class="site-footer">
+  <div class="wrap">
+    <div>
+      <h2>Directory</h2>
+      <ul>
+        <li><a href="/directory/california/">California senior living</a></li>
+        <li><a href="/directory/idaho/">Idaho senior living</a></li>
+        <li><a href="/directory/nevada/">Nevada senior living</a></li>
+        <li><a href="/directory/oregon/">Oregon senior living</a></li>
+        <li><a href="/directory/washington/">Washington senior living</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>Start here</h2>
+      <ul>
+        <li><a href="/guides/signs-your-parent-needs-help/">Does your parent need help?</a></li>
+        <li><a href="/guides/how-to-choose-a-senior-care-facility/">How to choose a facility</a></li>
+        <li><a href="/guides/finding-help-choosing-a-facility/">Finding help with the search</a></li>
+        <li><a href="/guides/in-home-care-explained/">In-home care explained</a></li>
+        <li><a href="/guides/levels-of-care-explained/">Levels of care explained</a></li>
+        <li><a href="/guides/cost-of-senior-living/">What senior living costs</a></li>
+        <li><a href="/guides/paying-for-senior-care/">How to pay for care</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>Site</h2>
+      <ul>
+        <li><a href="/about/">About this site</a></li>
+        <li><a href="/for-communities/">For senior living communities</a></li>
+        <li><a href="/placement-professionals/">Placement professionals</a></li>
+        <li><a href="/news/">News</a></li>
+      </ul>
+    </div>
+    <p class="fine">
+      Senior Living Community is an independent information resource for families. We are not a referral
+      service and do not provide medical, legal, or financial advice — for decisions about care,
+      consult the professionals involved. Facility details change; always confirm directly with a
+      community. Last data review: 2026-07-11.
+    </p>
+  </div>
+</footer>
+
+
+</body>
+</html>

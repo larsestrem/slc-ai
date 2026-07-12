@@ -4898,6 +4898,538 @@
         "https://silvergaterr.com/locations/fallbrook"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sunrise of Danville",
+      "slug": "sunrise-of-danville",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "contra-costa",
+      "county_name": "Contra Costa",
+      "city": "danville",
+      "city_name": "Danville",
+      "address": "1027 Diablo Road",
+      "zip": "94526",
+      "phone": "(925) 831-1740",
+      "website": "https://www.sunriseseniorliving.com/communities/ca/sunrise-of-danville",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "organization": "sunrise-senior-living",
+      "organization_name": "Sunrise Senior Living",
+      "review_note": "4.6/5 across 94 reviews on A Place for Mom; APFM review score 9.8/10 on 29 recent reviews (July 2026)",
+      "description": "Assisted living and memory care community on Diablo Road in Danville, offering short-term respite stays alongside long-term care. Families consistently praise the caring staff, renovated dining rooms and patios, and it ranks among the top-rated assisted living communities in the Danville area.",
+      "sources": [
+        "https://www.aplaceformom.com/community/sunrise-of-danville-57480",
+        "https://www.yelp.com/biz/sunrise-of-danville-danville"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "San Leandro Senior Living",
+      "slug": "san-leandro-senior-living",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "alameda",
+      "county_name": "Alameda",
+      "city": "san-leandro",
+      "city_name": "San Leandro",
+      "address": "348 W Juana Ave",
+      "zip": "94577",
+      "phone": "(510) 343-7833",
+      "website": "https://sanleandroseniorliving.com/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.8/5 across 268 reviews on A Place for Mom (July 2026)",
+      "description": "Assisted living community near downtown San Leandro offering customized service plans and around-the-clock staffing. It carries one of the largest review volumes in the East Bay with a 4.8 out of 5 average across 268 family reviews on A Place for Mom.",
+      "sources": [
+        "https://www.aplaceformom.com/community/san-leandro-senior-living-57776",
+        "https://www.yelp.com/biz/san-leandro-senior-living-san-leandro"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Carefield Castro Valley Assisted Living and Memory Care",
+      "slug": "carefield-castro-valley-assisted-living-and-memory-care",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "alameda",
+      "county_name": "Alameda",
+      "city": "castro-valley",
+      "city_name": "Castro Valley",
+      "address": "19960 Santa Maria Ave",
+      "zip": "94546",
+      "phone": "(510) 582-2765",
+      "website": "https://carefieldliving.com/communities/castro-valley/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "organization": "carefield-living",
+      "organization_name": "Carefield Living",
+      "review_note": "4.2/5 across 36 reviews on A Place for Mom (July 2026)",
+      "description": "Assisted living and memory care community in Castro Valley with a dedicated mild-cognitive-focus program bridging assisted living and memory care. Amenities include an in-house salon, fitness room, library nook, gardens, weekly housekeeping and transportation to medical appointments.",
+      "sources": [
+        "https://www.aplaceformom.com/community/carefield-castro-valley-assisted-living-and-memory-care-102495",
+        "https://www.yelp.com/biz/carefield-castro-valley-assisted-living-and-memory-care-castro-valley-4"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Courte at Citrus Heights",
+      "slug": "the-courte-at-citrus-heights",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "sacramento",
+      "county_name": "Sacramento",
+      "city": "citrus-heights",
+      "city_name": "Citrus Heights",
+      "address": "6825 Sunrise Blvd",
+      "zip": "95610",
+      "phone": "(916) 721-0644",
+      "website": "https://frontiermgmt.com/communities/courte-at-citrus-heights/",
+      "care_levels": [
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "organization": "frontier-senior-living",
+      "organization_name": "Frontier Senior Living",
+      "review_note": "4.4/5 across 30 reviews on A Place for Mom; 4.1/5 across 38 reviews on Birdeye (July 2026)",
+      "description": "Dedicated memory care community on Sunrise Boulevard in Citrus Heights serving residents with Alzheimer's and other dementias. Care is built around Frontier's Montessori-inspired SPARK lifestyle program, and U.S. News has named it a Best Senior Living community for memory care based on resident and family surveys.",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-courte-at-citrus-heights-1398128",
+        "https://www.yelp.com/biz/the-courte-at-citrus-heights-citrus-heights"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Vacaville Memory Care",
+      "slug": "vacaville-memory-care",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "solano",
+      "county_name": "Solano",
+      "city": "vacaville",
+      "city_name": "Vacaville",
+      "address": "431 Nut Tree Rd",
+      "zip": "95687",
+      "phone": "(707) 449-1350",
+      "website": "https://vacavillememorycare.com/",
+      "care_levels": [
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.7/5 across 286 reviews on Birdeye (July 2026)",
+      "description": "Stand-alone memory care community on Nut Tree Road in Vacaville dedicated to residents living with Alzheimer's disease and other dementias. It holds a 4.7-star average across 286 aggregated reviews, an unusually strong record for a dedicated dementia-care setting.",
+      "sources": [
+        "https://birdeye.com/vacaville-memory-care-169341830339637",
+        "https://www.yelp.com/biz/vacaville-memory-care-vacaville"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Cogir of Turlock",
+      "slug": "cogir-of-turlock",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "stanislaus",
+      "county_name": "Stanislaus",
+      "city": "turlock",
+      "city_name": "Turlock",
+      "address": "3791 Crowell Rd",
+      "zip": "95382",
+      "phone": "(209) 331-5639",
+      "website": "https://cogirusa.com/communities/cogir-of-turlock/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "review_note": "4.3/5 across 10 reviews on A Place for Mom (July 2026)",
+      "description": "Senior living community in Turlock offering independent living, assisted living and memory care on one campus. Residents with Alzheimer's and dementia are served through Cogir's Generations Memory Care program.",
+      "sources": [
+        "https://www.aplaceformom.com/community/cogir-of-turlock-147230",
+        "https://www.yelp.com/biz/cogir-of-turlock-turlock"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sunshine Villa, A Merrill Gardens Community",
+      "slug": "sunshine-villa-a-merrill-gardens-community",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "santa-cruz",
+      "county_name": "Santa Cruz",
+      "city": "santa-cruz",
+      "city_name": "Santa Cruz",
+      "address": "80 Front St",
+      "zip": "95060",
+      "phone": "(831) 459-8400",
+      "website": "https://www.merrillgardens.com/senior-living/ca/santa-cruz/sunshine-villa-a-merrill-gardens-community/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "organization": "merrill-gardens",
+      "organization_name": "Merrill Gardens",
+      "review_note": "4.2/5 across 44 reviews on A Place for Mom; APFM review score 9.1/10 on 14 recent reviews (July 2026)",
+      "description": "Assisted living and memory care community in a landmark Victorian-style building within walking distance of the Santa Cruz Wharf, beach and boardwalk. Reviewers consistently praise the staff, cleanliness and activity programming.",
+      "sources": [
+        "https://www.aplaceformom.com/community/sunshine-villa-a-merrill-gardens-community-99920",
+        "https://www.yelp.com/biz/sunshine-villa-a-merrill-gardens-community-santa-cruz"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Watermark at Almaden",
+      "slug": "the-watermark-at-almaden",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "santa-clara",
+      "county_name": "Santa Clara",
+      "city": "san-jose",
+      "city_name": "San Jose",
+      "address": "4610 Almaden Expressway",
+      "zip": "95118",
+      "phone": "(669) 258-4567",
+      "website": "https://www.watermarkcommunities.com/our-communities/california/san-jose/the-watermark-at-almaden/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "organization": "watermark-retirement-communities",
+      "organization_name": "Watermark Retirement Communities",
+      "review_note": "4.8/5 across 40 reviews on A Place for Mom (July 2026)",
+      "description": "Assisted living, memory care and short-term-stay community in the Almaden Valley area of south San Jose. The campus includes an outdoor pool and an extensive activities program, and reviewers rate it between 4.8 and 5.0 across major review platforms.",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-watermark-at-almaden-1445139",
+        "https://www.watermarkcommunities.com/our-communities/california/san-jose/the-watermark-at-almaden/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Mountain View Assisted Living & Memory Care",
+      "slug": "mountain-view-assisted-living-memory-care",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "mendocino",
+      "county_name": "Mendocino",
+      "city": "ukiah",
+      "city_name": "Ukiah",
+      "address": "1343 S Dora St",
+      "zip": "95482",
+      "phone": "(707) 462-6212",
+      "website": "https://mountain.hmpss.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.5/5 across 31 reviews on A Place for Mom (July 2026)",
+      "description": "Assisted living and memory care community on South Dora Street in Ukiah, one of the few licensed communities serving inland Mendocino County. Offers private and semi-private rooms with dedicated dementia-care programming for residents with cognitive impairment.",
+      "sources": [
+        "https://www.aplaceformom.com/community/mountain-view-58987",
+        "https://www.yelp.com/biz/mountain-view-assisted-living-and-memory-care-ukiah-2"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "WellQuest of Granite Bay",
+      "slug": "wellquest-of-granite-bay",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "placer",
+      "county_name": "Placer",
+      "city": "granite-bay",
+      "city_name": "Granite Bay",
+      "address": "9747 Sierra College Blvd",
+      "zip": "95746",
+      "phone": "(916) 864-9800",
+      "website": "https://wellquestgb.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "organization": "wellquest-living",
+      "organization_name": "WellQuest Living",
+      "review_note": "4.8/5 across 33 reviews on Birdeye (July 2026)",
+      "description": "Newer assisted living and memory care community on Sierra College Boulevard in Granite Bay. Reviewers highlight the cleanliness, exceptional staff and quality dining, with a wide range of activities keeping residents engaged.",
+      "sources": [
+        "https://birdeye.com/wellquest-of-granite-bay-175296294625579",
+        "https://www.yelp.com/biz/wellquest-of-granite-bay-granite-bay"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Belmont Village San Jose",
+      "slug": "belmont-village-san-jose",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "santa-clara",
+      "county_name": "Santa Clara",
+      "city": "san-jose",
+      "city_name": "San Jose",
+      "address": "500 S Winchester Blvd",
+      "zip": "95128",
+      "phone": "(408) 984-4767",
+      "website": "https://www.belmontvillage.com/locations/san-jose-california/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "belmont-village",
+      "organization_name": "Belmont Village Senior Living",
+      "review_note": "4.5/5 across 73 reviews on A Place for Mom (July 2026)",
+      "description": "Large assisted living and memory care community on South Winchester Boulevard near Santana Row and the Winchester Mystery House. Families frequently praise the staff, cleanliness, activity calendar and convenient West San Jose location.",
+      "sources": [
+        "https://www.aplaceformom.com/community/belmont-village-san-jose-96571",
+        "https://www.yelp.com/biz/belmont-village-senior-living-san-jose-2"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Blossom Vale Senior Living",
+      "slug": "blossom-vale-senior-living",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "sacramento",
+      "county_name": "Sacramento",
+      "city": "orangevale",
+      "city_name": "Orangevale",
+      "address": "6125 Hazel Ave",
+      "zip": "95662",
+      "phone": "(916) 988-7901",
+      "website": "https://blossomvaleseniorliving.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.2/5 across 56 reviews on A Place for Mom (July 2026)",
+      "description": "Assisted living and memory care community on Hazel Avenue in Orangevale, about 25 miles northeast of downtown Sacramento. The community pairs personalized support with its Elevate Dining and Vibrant Life engagement programs, and reviews highlight the friendly staff and spacious, updated apartments.",
+      "sources": [
+        "https://www.aplaceformom.com/community/blossom-vale-senior-living-59201",
+        "https://blossomvaleseniorliving.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Ridge at Healdsburg",
+      "slug": "the-ridge-at-healdsburg",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "sonoma",
+      "county_name": "Sonoma",
+      "city": "healdsburg",
+      "city_name": "Healdsburg",
+      "address": "725 Grove St",
+      "zip": "95448",
+      "phone": "(707) 752-4517",
+      "website": "https://theridgeseniorlife.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.8/5 across 81 reviews on A Place for Mom (July 2026)",
+      "description": "Assisted living and memory care community set on nine landscaped acres in the Healdsburg wine country, formerly known as Healdsburg Senior Living. The campus is known for its gardens and resident farm animals, with music therapy and intergenerational programs; it is currently managed by Brightwater Senior Living after earlier ownership changes.",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-ridge-at-healdsburg-101863",
+        "https://theridgeseniorlife.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Casa de Modesto Retirement Center",
+      "slug": "casa-de-modesto-retirement-center",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "stanislaus",
+      "county_name": "Stanislaus",
+      "city": "modesto",
+      "city_name": "Modesto",
+      "address": "1745 Eldena Way",
+      "zip": "95350",
+      "phone": "(209) 409-4999",
+      "website": "https://casademodesto.org/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.2/5 across 28 reviews on A Place for Mom (July 2026)",
+      "description": "Community-based nonprofit retirement center founded in 1965, offering multiple levels of care including independent living apartments, assisted living and memory care. Independent living residents choose from unfurnished studio, one- and two-bedroom apartments with transportation and support services.",
+      "sources": [
+        "https://www.aplaceformom.com/community/casa-de-modesto-58712",
+        "https://casademodesto.org/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Park at Modesto",
+      "slug": "the-park-at-modesto",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "stanislaus",
+      "county_name": "Stanislaus",
+      "city": "modesto",
+      "city_name": "Modesto",
+      "address": "2832 Health Care Way",
+      "zip": "95356",
+      "phone": "(209) 545-1378",
+      "website": "https://koelschseniorcommunities.com/senior-living/ca/modesto/independent-living/the-park-at-modesto/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "medium",
+      "organization": "koelsch-communities",
+      "organization_name": "Koelsch Communities",
+      "review_note": "4.8/5 across 13 reviews on A Place for Mom (July 2026)",
+      "description": "Independent living community in north Modesto operated by family-owned Koelsch Communities. Designed for active seniors, with restaurant-style dining, housekeeping and a full activities calendar.",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-park-at-modesto-1395437",
+        "https://koelschseniorcommunities.com/senior-living/ca/modesto/independent-living/the-park-at-modesto/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Truewood by Merrill, Modesto",
+      "slug": "truewood-by-merrill-modesto",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "stanislaus",
+      "county_name": "Stanislaus",
+      "city": "modesto",
+      "city_name": "Modesto",
+      "address": "3420 Shawnee Dr",
+      "zip": "95350",
+      "phone": "(209) 458-6644",
+      "website": "https://www.merrillgardens.com/senior-living/ca/modesto/shawnee-drive/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "medium",
+      "organization": "merrill-gardens",
+      "organization_name": "Merrill Gardens",
+      "review_note": "4.2/5 across 75 reviews on A Place for Mom; APFM review score 9.7/10 on 22 recent reviews (July 2026)",
+      "description": "Independent living community established in 1993 and operated under Merrill Gardens' Truewood brand. Offers pet-friendly studio, one- and two-bedroom homes with community dining and activities.",
+      "sources": [
+        "https://www.aplaceformom.com/community/truewood-by-merrill-modesto-58724",
+        "https://www.merrillgardens.com/senior-living/ca/modesto/shawnee-drive/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Prestige Assisted Living at Manteca",
+      "slug": "prestige-assisted-living-at-manteca",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-joaquin",
+      "county_name": "San Joaquin",
+      "city": "manteca",
+      "city_name": "Manteca",
+      "address": "1130 Empire Ave",
+      "zip": "95336",
+      "phone": "(209) 239-4531",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "organization": "prestige-care",
+      "organization_name": "Prestige Care",
+      "review_note": "4.6/5 (4.57) across 14 ratings on Senior Care Authority (July 2026)",
+      "description": "Assisted living community with a dedicated memory care unit on Empire Avenue in Manteca, operated by Pacific Northwest-based Prestige Care. Residents and families praise the amenities, memory care programming and activity offerings.",
+      "sources": [
+        "https://www.seniorcareauthority.com/assisted-living/prestige-assisted-living-at-manteca-in-manteca-california.html",
+        "https://www.senior-living-directory.com/california/manteca/assisted-living-facility/prestige-assisted-living-at-manteca"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Dominican Oaks",
+      "slug": "dominican-oaks",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "santa-cruz",
+      "county_name": "Santa Cruz",
+      "city": "santa-cruz",
+      "city_name": "Santa Cruz",
+      "address": "3400 Paul Sweet Rd",
+      "zip": "95065",
+      "phone": "(831) 462-6257",
+      "website": "https://www.dominicanoaks.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "review_note": "4.5/5 (4.48) across 41 ratings on Senior Care Authority; Olera community sentiment 4.7/5 (July 2026)",
+      "description": "Retirement community on Paul Sweet Road adjacent to Dominican Hospital in Santa Cruz, offering independent and assisted living. Long-standing local reputation with reviews praising the beautiful setting, personable staff and active community atmosphere.",
+      "sources": [
+        "https://www.seniorcareauthority.com/assisted-living/dominican-oaks-in-santa-cruz-california.html",
+        "https://www.dominicanoaks.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Magnolia of Millbrae",
+      "slug": "the-magnolia-of-millbrae",
+      "state": "california",
+      "state_name": "California",
+      "state_abbrev": "CA",
+      "county": "san-mateo",
+      "county_name": "San Mateo",
+      "city": "millbrae",
+      "city_name": "Millbrae",
+      "address": "201 Chadbourne Ave",
+      "zip": "94030",
+      "phone": "(650) 697-7000",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.6/5 across 19 resident and family reviews on SeniorSite (July 2026)",
+      "description": "Full-service retirement and assisted living community on Chadbourne Avenue in Millbrae, on the Peninsula between San Francisco and San Mateo. Residents enjoy gourmet dining, a pool, gym, transportation services and a steady calendar of speakers and outings.",
+      "sources": [
+        "https://seniorsite.org/property/show/magnolia-of-millbrae",
+        "https://www.yelp.com/biz/the-magnolia-of-millbrae-millbrae"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [
@@ -5316,6 +5848,109 @@
       "description": "Generations is a family-owned senior living company that develops and operates communities in the western United States, including the resort-style Paradise Village campus near San Diego. Its communities span independent living, assisted living, and memory care.",
       "sources": [
         "https://www.generationsllc.com/"
+      ]
+    },
+    {
+      "name": "Watermark Retirement Communities",
+      "slug": "watermark-retirement-communities",
+      "headquarters": "Tucson, Arizona",
+      "website": "https://www.watermarkcommunities.com/",
+      "facility_count_approx": 40,
+      "states": [
+        "AZ",
+        "CA",
+        "NY",
+        "FL",
+        "TX",
+        "PA",
+        "CT"
+      ],
+      "description": "Tucson-based senior living operator managing roughly 40 communities nationwide, spanning independent living, assisted living and memory care. Known for its Watermark University resident-enrichment programming and upscale community designs.",
+      "sources": [
+        "https://www.aplaceformom.com/providers/watermark-retirement-communities-7990"
+      ]
+    },
+    {
+      "name": "Belmont Village Senior Living",
+      "slug": "belmont-village",
+      "headquarters": "Houston, Texas",
+      "website": "https://www.belmontvillage.com/",
+      "facility_count_approx": 33,
+      "states": [
+        "TX",
+        "CA",
+        "IL",
+        "FL",
+        "TN",
+        "AZ",
+        "KY",
+        "WI"
+      ],
+      "description": "Houston-based developer and operator of upscale senior living communities founded in 1997, with 33 communities concentrated in California, Texas and other major metros. Communities emphasize licensed-nurse staffing, research-based memory care programs and hotel-style hospitality.",
+      "sources": [
+        "https://www.aplaceformom.com/providers/belmont-village-167"
+      ]
+    },
+    {
+      "name": "Frontier Senior Living",
+      "slug": "frontier-senior-living",
+      "headquarters": "Durham, Oregon",
+      "website": "https://frontiermgmt.com/",
+      "facility_count_approx": 100,
+      "states": [
+        "OR",
+        "WA",
+        "CA",
+        "TX",
+        "FL",
+        "GA",
+        "AZ"
+      ],
+      "description": "Oregon-based operator (formerly Frontier Management) of over 100 senior living communities nationwide, with a heavy emphasis on stand-alone memory care. Its Montessori-inspired SPARK program is the core of its dementia-care approach.",
+      "sources": [
+        "https://frontiermgmt.com/communities/courte-at-citrus-heights/"
+      ]
+    },
+    {
+      "name": "Koelsch Communities",
+      "slug": "koelsch-communities",
+      "headquarters": "Olympia, Washington",
+      "website": "https://koelschseniorcommunities.com/",
+      "facility_count_approx": 40,
+      "states": [
+        "WA",
+        "CA",
+        "AZ",
+        "CO",
+        "ID",
+        "IL",
+        "MT",
+        "TX"
+      ],
+      "description": "Family-owned senior living company founded in 1958 and now in its third generation of family leadership. Operates roughly 40 independent living, assisted living and memory care communities across eight states.",
+      "sources": [
+        "https://koelschseniorcommunities.com/senior-living/ca/modesto/independent-living/the-park-at-modesto/"
+      ]
+    },
+    {
+      "name": "Prestige Care",
+      "slug": "prestige-care",
+      "headquarters": "Vancouver, Washington",
+      "website": "https://www.prestigecare.com/",
+      "facility_count_approx": 80,
+      "states": [
+        "WA",
+        "OR",
+        "CA",
+        "AK",
+        "AZ",
+        "ID",
+        "MT",
+        "NV"
+      ],
+      "description": "Family-owned senior care company based in Vancouver, Washington, operating skilled nursing centers and senior living communities across the western U.S. Its assisted living communities include dedicated Expressions memory care programs.",
+      "sources": [
+        "https://www.prestigecare.com/"
       ]
     }
   ]

@@ -81,6 +81,20 @@ But when the flags stack up — a scripted tour *and* vague pricing *and* the sa
 
 Walking away is allowed. We say this because families under pressure forget it: you are permitted to leave a tour early, to say no after a deposit conversation, to keep looking when you're bone-tired and this place would end the search. A hard search followed by a good placement beats a fast placement you spend two years regretting. And if part of the resistance is your parent's fear — or your own guilt — that's its own topic, and a normal one: see our guide on [overcoming the fear of senior living](/guides/overcoming-fear-of-senior-living/). You're not being paranoid. You're being their advocate.
 
+## A fair word before you judge
+
+One qualifier belongs next to every red flag on this page, especially the staffing ones:
+this is one of the hardest industries in America to staff. Hiring caregivers is difficult,
+keeping them is harder, and the work is demanding in ways most jobs never approach — and
+sometimes several residents need help at the exact same moment, beyond what any reasonable
+schedule anticipated. Every facility has hard days, and hospitals and schools collect
+complaints too. The red flags above aren't about catching a community on a bad afternoon —
+they're about *patterns* and *indifference*: the same problem appearing again and again, or
+leadership that deflects instead of fixing. A community that's honest about its hard days
+and visibly working to make them rarer is exactly what a good one looks like. See
+[how to read complaint records fairly](/guides/checking-complaints-and-state-records/) —
+a fixed problem is no longer a problem.
+
 ## Common questions
 
 **The facility hits one red flag but my gut says it's good. Should I trust my gut?**

@@ -1,0 +1,14 @@
+---
+layout: "city"
+noindex: true
+title: "Senior Living in Ukiah, CA"
+seo_title: "Senior Living in Ukiah, CA — Assisted Living, Memory Care & More"
+description: "Compare 1 senior living communities in Ukiah, California: care levels, sizes, and official inspection records for each."
+city_name: "Ukiah"
+county_name: "Mendocino"
+state_name: "California"
+state_abbrev: "CA"
+facility_count: 1
+facilities: [{"name": "Mountain View Assisted Living & Memory Care", "url": "/directory/california/mendocino-county/ukiah/mountain-view-assisted-living-memory-care/", "city_name": "Ukiah", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "medium", "description": "Assisted living and memory care community on South Dora Street in Ukiah, one of the few licensed communities serving inland Mendocino County. Offers private and semi-private rooms with dedicated dementia-care programming for residents with cognitive impairment."}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Mendocino County", "url": "/directory/california/mendocino-county/"}, {"name": "Ukiah", "url": "/directory/california/mendocino-county/ukiah/"}]
+---

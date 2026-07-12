@@ -1,0 +1,107 @@
+---
+layout: default
+title: "Senior Care Cost Calculator — Compare Monthly & 3-Year Costs"
+description: "Estimate what senior care really costs: compare in-home care hours, assisted living, memory care, and nursing care — monthly, yearly, and over 3 years."
+permalink: /tools/cost-calculator/
+crumbs:
+  - name: Cost Calculator
+    url: /tools/cost-calculator/
+---
+<article>
+  <h1>Senior Care Cost Calculator</h1>
+  <p class="lead">Compare what each care option costs — this month, this year, and over three
+  years with typical rate increases. National 2025–2026 ranges; adjust for your market.</p>
+
+  <div class="two-col">
+    <div class="panel">
+      <h2>Your situation</h2>
+      <p>
+        <label for="cc-region"><strong>Your market</strong></label><br>
+        <select id="cc-region">
+          <option value="0.8">Lower-cost market (−20%)</option>
+          <option value="1" selected>Around the national median</option>
+          <option value="1.25">Higher-cost metro (+25%)</option>
+          <option value="1.5">Premium coastal metro (+50%)</option>
+        </select>
+      </p>
+      <p>
+        <label for="cc-hours"><strong>If staying home: in-home care hours per week</strong></label><br>
+        <input type="range" id="cc-hours" min="4" max="168" step="4" value="20" style="width:100%">
+        <span id="cc-hours-label">20 hours/week</span>
+      </p>
+      <p>
+        <label for="cc-increase"><strong>Assumed annual increase</strong></label><br>
+        <select id="cc-increase">
+          <option value="0.03">3% per year</option>
+          <option value="0.05" selected>5% per year</option>
+          <option value="0.08">8% per year</option>
+        </select>
+      </p>
+      <p class="notice" style="margin-bottom:0">Estimates use national 2025–2026 medians
+      (in-home care ≈ $33/hour; see <a href="/guides/cost-of-senior-living/">real cost
+      ranges</a>). Actual quotes vary — always get itemized, written quotes.</p>
+    </div>
+
+    <div>
+      <div class="table-scroll">
+        <table id="cc-table">
+          <thead><tr><th>Care option</th><th>Monthly</th><th>Year 1</th><th>3 years*</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <p class="count">* Three-year totals compound the annual increase. In-home care assumes
+      the same hours throughout — needs usually grow, so treat it as a floor.</p>
+    </div>
+  </div>
+
+  <section class="prose">
+    <h2>How to read these numbers</h2>
+    <p>The cheapest line isn't automatically the right one. A few hours of
+    <a href="/guides/in-home-care-explained/">in-home care</a> suits lower needs and a safe
+    home; around-the-clock home care usually costs more than
+    <a href="/guides/assisted-living/">assisted living</a> — and isolation at home carries its
+    own cost. <a href="/guides/adult-family-homes/">Small care homes</a> are often the value
+    surprise. When you're comparing real communities, remember the advertised rate isn't the
+    real rate: read <a href="/guides/whats-not-included-hidden-fees/">what's not included</a>
+    and <a href="/guides/home-care-or-facility/">home care or a facility?</a> — then browse
+    <a href="/directory/">communities near your family</a>.</p>
+  </section>
+</article>
+
+<script>
+(function () {
+  var BASE = [
+    { name: "In-home care", perHour: 33, home: true, url: "/guides/cost-of-in-home-care/" },
+    { name: "Independent living", monthly: 3500, url: "/guides/independent-living/" },
+    { name: "Adult family / small care home", monthly: 5500, url: "/guides/adult-family-homes/" },
+    { name: "Assisted living (base + typical care)", monthly: 6500, url: "/guides/assisted-living/" },
+    { name: "Memory care", monthly: 7750, url: "/guides/memory-care/" },
+    { name: "Nursing home (semi-private)", monthly: 9500, url: "/guides/skilled-nursing/" },
+    { name: "Nursing home (private room)", monthly: 11000, url: "/guides/skilled-nursing/" }
+  ];
+  var fmt = function (n) { return "$" + Math.round(n).toLocaleString("en-US"); };
+  function render() {
+    var mult = parseFloat(document.getElementById("cc-region").value);
+    var hours = parseInt(document.getElementById("cc-hours").value, 10);
+    var inc = parseFloat(document.getElementById("cc-increase").value);
+    document.getElementById("cc-hours-label").textContent =
+      hours >= 168 ? "24/7 (168 hours/week)" : hours + " hours/week";
+    var tbody = document.querySelector("#cc-table tbody");
+    tbody.innerHTML = "";
+    BASE.forEach(function (row) {
+      var monthly = (row.home ? row.perHour * hours * 4.33 : row.monthly) * mult;
+      var three = 0, m = monthly;
+      for (var y = 0; y < 3; y++) { three += m * 12; m *= (1 + inc); }
+      var tr = document.createElement("tr");
+      var name = row.home ? row.name + " (" + (hours >= 168 ? "24/7" : hours + " hrs/wk") + ")" : row.name;
+      tr.innerHTML = '<td><a href="' + row.url + '">' + name + "</a></td><td>" + fmt(monthly) +
+        "</td><td>" + fmt(monthly * 12) + "</td><td>" + fmt(three) + "</td>";
+      tbody.appendChild(tr);
+    });
+  }
+  ["cc-region", "cc-hours", "cc-increase"].forEach(function (id) {
+    document.getElementById(id).addEventListener("input", render);
+  });
+  render();
+})();
+</script>

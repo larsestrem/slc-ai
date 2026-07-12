@@ -1,0 +1,456 @@
+{
+  "facilities": [
+    {
+      "name": "Legacy Village of Sugar House",
+      "slug": "legacy-village-of-sugar-house",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "salt-lake",
+      "county_name": "Salt Lake",
+      "city": "salt-lake-city",
+      "city_name": "Salt Lake City",
+      "address": "1212 E Wilmington Ave",
+      "zip": "84106",
+      "phone": "(385) 217-1710",
+      "website": "https://www.legacyretire.com/communities/legacy-village-of-sugar-house/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "legacy-retirement-communities",
+      "organization_name": "Legacy Retirement Communities",
+      "description": "Legacy Village of Sugar House offers independent living, assisted living, and memory care in Salt Lake City's Sugar House neighborhood, with views of the city and the Wasatch Mountains. The community is part of Utah-based Legacy Retirement Communities and is among the top-rated memory care providers in the Salt Lake area.",
+      "review_note": "9.6/10 A Place for Mom review score based on 10 reviews in the last 2 years; 54 reviews all-time (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/legacy-village-of-sugar-house-1396388",
+        "https://www.legacyretire.com/communities/legacy-village-of-sugar-house/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sunrise of Sandy",
+      "slug": "sunrise-of-sandy",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "salt-lake",
+      "county_name": "Salt Lake",
+      "city": "sandy",
+      "city_name": "Sandy",
+      "address": "2130 East 9400 South",
+      "zip": "84093",
+      "phone": "(801) 453-9600",
+      "website": "https://www.sunriseseniorliving.com/communities/ut/sunrise-of-sandy",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "organization": "sunrise-senior-living",
+      "organization_name": "Sunrise Senior Living",
+      "description": "Sunrise of Sandy provides assisted living, memory care, and short-term respite stays near Alta View Hospital in Sandy. Memory care residents live in the secured Reminiscence neighborhood, and the community was named a U.S. News Best Senior Living community for both assisted living and memory care in 2026.",
+      "review_note": "4.6/5 average across 104 reviews on A Place for Mom; 9.7/10 APFM review score from 28 reviews in the last 2 years (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/sunrise-of-sandy-142617",
+        "https://www.sunriseseniorliving.com/communities/ut/sunrise-of-sandy"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sagewood at Daybreak",
+      "slug": "sagewood-at-daybreak",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "salt-lake",
+      "county_name": "Salt Lake",
+      "city": "south-jordan",
+      "city_name": "South Jordan",
+      "address": "11289 South Oakmond Rd",
+      "zip": "84009",
+      "phone": "(385) 217-4348",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "description": "Sagewood at Daybreak is a resort-style senior living campus in South Jordan's Daybreak community offering independent living, assisted living, and memory care. Amenities include an indoor pool and full gym, and memory care residents live in the secured Connections neighborhood with its own courtyard. U.S. News rated it a Best Senior Living community across all three care levels.",
+      "review_note": "5.0 rating across 44 reviews on AssistedLivingCenter.com; 56 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/sagewood-at-daybreak-1381079",
+        "https://www.assistedlivingcenter.com/facilities/ut/south-jordan/sagewood-at-daybreak-84009/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Ashford Assisted Living & Memory Care of Draper",
+      "slug": "ashford-assisted-living-memory-care-of-draper",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "salt-lake",
+      "county_name": "Salt Lake",
+      "city": "draper",
+      "city_name": "Draper",
+      "address": "14178 S Bangerter Pkwy",
+      "zip": "84020",
+      "phone": "(385) 321-5714",
+      "website": "https://ashfordofdraper.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "ashford-senior-communities",
+      "organization_name": "Ashford Senior Communities",
+      "description": "The Ashford of Draper offers independent living, assisted living, and memory care on Bangerter Parkway in Draper, at the south end of the Salt Lake valley. Families praise the spacious building and consistent, compassionate attention from staff.",
+      "review_note": "4.5/5 across 59 reviews on Birdeye (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/ashford-assisted-living-memory-care-of-draper-168162533541685",
+        "https://ashfordofdraper.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Aspen Ridge Transitional Rehabilitation",
+      "slug": "aspen-ridge-transitional-rehabilitation",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "salt-lake",
+      "county_name": "Salt Lake",
+      "city": "murray",
+      "city_name": "Murray",
+      "address": "963 East 6600 South",
+      "zip": "84121",
+      "phone": "(801) 713-3100",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 38,
+      "cms_ccn": "465159",
+      "cms_rating_overall": 5,
+      "description": "Aspen Ridge Transitional Rehabilitation is a 38-bed Medicare-certified skilled nursing facility in Murray focused on short-term rehabilitation after hospital stays. It holds a 5-star overall CMS rating and is rated High Performing for short-term rehab by U.S. News, with staffing hours per resident well above the national average.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/ut/aspen-ridge-transitional-rehabilitation-465159",
+        "https://www.nursinghomedatabase.com/snf/465159"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Legacy House of Bountiful",
+      "slug": "legacy-house-of-bountiful",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "davis",
+      "county_name": "Davis",
+      "city": "bountiful",
+      "city_name": "Bountiful",
+      "address": "79 E Center St",
+      "zip": "84010",
+      "phone": "(801) 294-2925",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "legacy-retirement-communities",
+      "organization_name": "Legacy Retirement Communities",
+      "description": "Legacy House of Bountiful provides assisted living and memory care in downtown Bountiful. Reviewers highlight the community feel, activity program, and staff who learn residents' names and offer individualized support.",
+      "review_note": "9/10 average rating on FamilyAssets; 26 reviews on A Place for Mom and 38 reviews on AssistedLivingCenter.com (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/legacy-house-of-bountiful-70830",
+        "https://www.familyassets.com/assisted-living/utah/bountiful/legacy-house-of-bountiful"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Fairfield Village of Layton",
+      "slug": "fairfield-village-of-layton",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "davis",
+      "county_name": "Davis",
+      "city": "layton",
+      "city_name": "Layton",
+      "address": "1205 N Fairfield Road",
+      "zip": "84041",
+      "phone": "(801) 876-1611",
+      "website": "https://www.generationsllc.com/communities/fairfield-village/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "generations",
+      "organization_name": "Generations",
+      "description": "Fairfield Village is a resort-style senior living campus set against the Wasatch Mountains in Layton, offering independent living, assisted living, and memory care. It is owned and operated by Generations, a family-run senior care company, with 24-hour on-site nursing and therapy services available.",
+      "review_note": "4.4/5 across 85 reviews on Birdeye; 8.5/10 A Place for Mom review score (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/fairfield-village-of-layton-assisted-living-157255453027130",
+        "https://www.generationsllc.com/communities/fairfield-village/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Legacy House of Ogden",
+      "slug": "legacy-house-of-ogden",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "weber",
+      "county_name": "Weber",
+      "city": "ogden",
+      "city_name": "Ogden",
+      "address": "5526 South Adams Avenue",
+      "zip": "84405",
+      "phone": "(801) 476-7111",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "legacy-retirement-communities",
+      "organization_name": "Legacy Retirement Communities",
+      "description": "Legacy House of Ogden offers assisted living and memory care across the street from Ogden Regional Medical Center in south Ogden. Reviews consistently praise the dedicated staff, clean building, and amenities, and families describe staff as accommodating and upfront.",
+      "review_note": "4.9 rating across 80 reviews on AssistedLivingCenter.com; 29 reviews on Caring.com (July 2026)",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/ut/ogden/legacy-house-of-ogden-84405/",
+        "https://www.caring.com/senior-living/utah/ogden/legacy-house-of-ogden-84405"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Treeo Orem",
+      "slug": "treeo-orem",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "utah",
+      "county_name": "Utah",
+      "city": "orem",
+      "city_name": "Orem",
+      "address": "250 East Center Street",
+      "zip": "84057",
+      "phone": "(801) 434-8000",
+      "website": "https://www.leisurecare.com/our-communities/treeo-orem/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "large",
+      "organization": "leisure-care",
+      "organization_name": "Leisure Care",
+      "description": "Treeo Orem is an independent living community in central Orem managed by Seattle-based Leisure Care. Residents highlight the chef-prepared dining, full activity calendar, and modern, well-maintained apartments; it was voted Best Independent Living by U.S. News & World Report.",
+      "review_note": "4.8 rating across 60 reviews on AssistedLivingCenter.com; 36 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/ut/orem/treeo-orem-84057/",
+        "https://www.leisurecare.com/our-communities/treeo-orem/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Legacy Village of Provo",
+      "slug": "legacy-village-of-provo",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "utah",
+      "county_name": "Utah",
+      "city": "provo",
+      "city_name": "Provo",
+      "address": "4146 N University Avenue",
+      "zip": "84604",
+      "phone": "(801) 374-3384",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 150,
+      "organization": "legacy-retirement-communities",
+      "organization_name": "Legacy Retirement Communities",
+      "description": "Legacy Village of Provo is a 150-bed assisted living and memory care community on University Avenue in north Provo. Reviewers describe attentive, compassionate staff, a clean and beautiful environment, and a wide range of resident activities.",
+      "review_note": "4.5/5 across 18 reviews on SeniorAdvisor and 9.3/10 average rating on FamilyAssets; 42 reviews on AssistedLivingCenter.com (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/legacy-village-of-provo-1389670",
+        "https://www.assistedlivingcenter.com/facilities/ut/provo/legacy-village-of-provo-84604/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Legacy Village of St. George",
+      "slug": "legacy-village-of-st-george",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "st-george",
+      "city_name": "St. George",
+      "address": "1379 W Sky Rocket Rd",
+      "zip": "84770",
+      "phone": "(435) 572-7866",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "legacy-retirement-communities",
+      "organization_name": "Legacy Retirement Communities",
+      "description": "Legacy Village of St. George is a resort-style community offering independent living, assisted living, and memory care in southwest St. George. Amenities include a heated saltwater pool, pickleball court, on-site movie theater, and bistro, and the community caps monthly fees so pricing does not rise as care levels increase.",
+      "review_note": "9/10 average rating on FamilyAssets (5th highest rated of 11 communities in the city); 13 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/legacy-village-of-st-george-1454104",
+        "https://www.familyassets.com/assisted-living/utah/saint-george/legacy-village-of-st-george"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Gables of North Logan",
+      "slug": "the-gables-of-north-logan",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "cache",
+      "county_name": "Cache",
+      "city": "north-logan",
+      "city_name": "North Logan",
+      "address": "455 East 2500 North",
+      "zip": "84341",
+      "phone": "(435) 258-8828",
+      "website": "https://thegablesfamily.com/locations/logan-assisted-living-and-memory-care/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "organization": "the-gables-assisted-living",
+      "organization_name": "The Gables Assisted Living and Memory Care",
+      "description": "The Gables of North Logan provides assisted living, memory care, and respite care in a small, home-like setting in Cache Valley. Reviewers frequently mention the building's intimate feel and say the small resident count allows for one-on-one attention.",
+      "review_note": "4.9/5 across 29 reviews on AssistedLivingCenter.com (July 2026)",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/ut/north-logan/the-gables-of-north-logan-memory-care-84341/",
+        "https://thegablesfamily.com/locations/logan-assisted-living-and-memory-care/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Legacy House of Logan",
+      "slug": "legacy-house-of-logan",
+      "state": "utah",
+      "state_name": "Utah",
+      "state_abbrev": "UT",
+      "county": "cache",
+      "county_name": "Cache",
+      "city": "logan",
+      "city_name": "Logan",
+      "address": "330 East 1400 North",
+      "zip": "84341",
+      "phone": "(435) 755-2877",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "legacy-retirement-communities",
+      "organization_name": "Legacy Retirement Communities",
+      "description": "Legacy House of Logan offers assisted living and memory care in the heart of Cache Valley, near Logan Regional Hospital. Families praise the caring, responsive staff and the secure, engaging environment, along with a smooth admissions process.",
+      "review_note": "4.9 rating with 72 reviews on AssistedLivingCenter.com; 21 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/ut/logan/legacy-house-of-logan-84341/",
+        "https://www.aplaceformom.com/community/legacy-house-of-logan-97535"
+      ],
+      "verified_date": "2026-07-12"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Legacy Retirement Communities",
+      "slug": "legacy-retirement-communities",
+      "headquarters": "South Jordan, Utah",
+      "website": "https://www.legacyretire.com/",
+      "facility_count_approx": 19,
+      "states": [
+        "UT",
+        "NV",
+        "AZ",
+        "CO",
+        "OK"
+      ],
+      "description": "Legacy Retirement Communities operates 19 senior living communities with more than 2,700 units across Utah, Nevada, Arizona, Colorado, and Oklahoma under the Legacy House and Legacy Village brands. Based in South Jordan, Utah, and managed by Western States Lodging and Management, the company provides independent living, assisted living, memory care, and rehabilitation services and has won Utah's Best of State award for senior living multiple consecutive years.",
+      "sources": [
+        "https://www.legacyretire.com/",
+        "https://www.utahbusiness.com/press-releases/2024/05/16/legacy-retirement-communities-best-in-state/"
+      ]
+    },
+    {
+      "name": "Sunrise Senior Living",
+      "slug": "sunrise-senior-living",
+      "headquarters": "McLean, Virginia",
+      "website": "https://www.sunriseseniorliving.com/",
+      "facility_count_approx": 235,
+      "description": "Sunrise Senior Living is one of the largest senior living providers in North America, operating roughly 235 communities across the United States, Canada, and the United Kingdom. Founded in 1981, Sunrise focuses on assisted living and its Reminiscence memory care neighborhoods, and its communities have earned more than 280 National Quality Awards.",
+      "sources": [
+        "https://www.sunriseseniorliving.com/communities/ut/sunrise-of-sandy",
+        "https://www.aplaceformom.com/providers/sunrise-senior-living-88"
+      ]
+    },
+    {
+      "name": "Leisure Care",
+      "slug": "leisure-care",
+      "headquarters": "Seattle, Washington",
+      "website": "https://www.leisurecare.com/",
+      "facility_count_approx": 40,
+      "description": "Leisure Care is a Seattle-based senior living company founded in 1976 that manages roughly 40 to 50 communities across the United States, emphasizing hospitality-driven independent living and assisted living. Its Treeo brand focuses on active independent living communities, including Treeo Orem in Utah.",
+      "sources": [
+        "https://www.leisurecare.com/about-us/",
+        "https://www.leisurecare.com/our-communities/treeo-orem/"
+      ]
+    },
+    {
+      "name": "The Gables Assisted Living and Memory Care",
+      "slug": "the-gables-assisted-living",
+      "headquarters": "Idaho Falls, Idaho",
+      "website": "https://thegablesfamily.com/",
+      "states": [
+        "ID",
+        "UT"
+      ],
+      "description": "The Gables Assisted Living and Memory Care is a family-oriented provider of assisted living, memory care, and in-home care operating small, home-style communities across eastern and western Idaho and northern Utah. Locations include Idaho Falls, Pocatello, Blackfoot, and Shelley in Idaho, and North Logan and Brigham City in Utah.",
+      "sources": [
+        "https://thegablesfamily.com/locations/",
+        "https://www.linkedin.com/company/the-gables-assisted-living-and-memory-care"
+      ]
+    },
+    {
+      "name": "Ashford Senior Communities",
+      "slug": "ashford-senior-communities",
+      "website": "https://ashfordutah.com/",
+      "facility_count_approx": 2,
+      "states": [
+        "UT"
+      ],
+      "description": "Ashford Senior Communities is a Utah senior living operator with communities in Draper and Springville offering independent living, assisted living, and memory care. Its Draper community, The Ashford of Draper, sits on Bangerter Parkway at the south end of the Salt Lake valley.",
+      "sources": [
+        "https://ashfordutah.com/",
+        "https://ashfordofdraper.com/"
+      ]
+    },
+    {
+      "name": "Generations",
+      "slug": "generations",
+      "website": "https://www.generationsllc.com/",
+      "description": "Generations is a family-owned senior living company that has provided senior care for about 70 years, operating communities in several western states. Its portfolio includes Fairfield Village of Layton in Utah, a resort-style campus offering independent living, assisted living, memory care, and post-acute care.",
+      "sources": [
+        "https://www.generationsllc.com/communities/fairfield-village/"
+      ]
+    }
+  ]
+}

@@ -42,6 +42,19 @@ layout: default
       <p>{{ page.licensing.note }} {% if page.licensing.lookup_url %}Lookup:
       <a href="{{ page.licensing.lookup_url }}" rel="noopener">{{ page.licensing.agency }}</a>.{% endif %}</p>
       {%- endif %}
+      {%- assign sslug = page.crumbs[1].url | remove: '/directory/' | remove: '/' %}
+      {%- assign costurl = '/guides/cost-of-senior-living-in-' | append: sslug | append: '/' %}
+      {%- assign costp = site.pages | where: 'url', costurl | first %}
+      {%- assign medurl = '/guides/medicaid-senior-care-' | append: sslug | append: '/' %}
+      {%- assign medp = site.pages | where: 'url', medurl | first %}
+      {%- if costp or medp %}
+      <h2>{{ page.state_name }} money questions</h2>
+      <ul>
+        {%- if costp %}<li><a href="{{ costurl }}">What senior living costs in {{ page.state_name }}</a></li>{% endif %}
+        {%- if medp %}<li><a href="{{ medurl }}">Does {{ page.state_name }} Medicaid pay for senior care?</a></li>{% endif %}
+        <li><a href="/tools/cost-calculator/">Cost calculator</a></li>
+      </ul>
+      {%- endif %}
       <h2>New to this?</h2>
       <p>Start with <a href="/guides/how-to-choose-a-senior-care-facility/">how to choose a facility</a>
       and <a href="/guides/cost-of-senior-living/">what it really costs</a>.</p>
@@ -121,6 +134,19 @@ layout: default
         <li>Long-Term Care Ombudsman — resident advocates who know each facility's complaint history</li>
       </ul>
 
+      {%- assign sslug = page.crumbs[1].url | remove: '/directory/' | remove: '/' %}
+      {%- assign costurl = '/guides/cost-of-senior-living-in-' | append: sslug | append: '/' %}
+      {%- assign costp = site.pages | where: 'url', costurl | first %}
+      {%- assign medurl = '/guides/medicaid-senior-care-' | append: sslug | append: '/' %}
+      {%- assign medp = site.pages | where: 'url', medurl | first %}
+      {%- if costp or medp %}
+      <h2>{{ page.state_name }} money questions</h2>
+      <ul>
+        {%- if costp %}<li><a href="{{ costurl }}">What senior living costs in {{ page.state_name }}</a></li>{% endif %}
+        {%- if medp %}<li><a href="{{ medurl }}">Does {{ page.state_name }} Medicaid pay for senior care?</a></li>{% endif %}
+        <li><a href="/tools/cost-calculator/">Cost calculator</a></li>
+      </ul>
+      {%- endif %}
       <h2>New to this?</h2>
       <p>Start with <a href="/guides/how-to-choose-a-senior-care-facility/">how to choose a facility</a>,
       <a href="/guides/levels-of-care-explained/">levels of care</a>, and

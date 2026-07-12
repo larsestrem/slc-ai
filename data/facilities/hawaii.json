@@ -1,0 +1,395 @@
+{
+  "facilities": [
+    {
+      "name": "Kahala Nui",
+      "slug": "kahala-nui",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "honolulu",
+      "city_name": "Honolulu",
+      "address": "4389 Malia St",
+      "zip": "96821",
+      "phone": "(808) 218-7200",
+      "website": "https://kahalanui.com",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "cms_ccn": "125055",
+      "cms_rating_overall": 5,
+      "description": "Kahala Nui is a nonprofit continuing care retirement community in Honolulu's Kahala neighborhood, offering independent living, the Hi'olani Assisted Living Center (67 licensed beds), memory care, and the 20-bed Hi'olani Care Center skilled nursing unit. The Hi'olani Care Center holds a CMS 5-star overall rating with no fines, complaints, or inspection problems reported in the last three years, and nursing staff time per resident exceeds state and national averages.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/hi/hi%CA%BBolani-care-center-at-k%C4%81hala-nui-125055",
+        "https://www.nursinghomedatabase.com/home/HI/HONOLULU/96821/hi-olani-care-center-at-kahala-nui",
+        "https://www.yelp.com/biz/kahala-nui-honolulu-2",
+        "https://carelistings.com/assisted-living-homes/kahala-hi/hiolani-assisted-living-center-at-kahala-nui/5acd01fba71d8c15cf68ab0b"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Arcadia Retirement Residence",
+      "slug": "arcadia-retirement-residence",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "honolulu",
+      "city_name": "Honolulu",
+      "address": "1434 Punahou St",
+      "zip": "96822",
+      "phone": "(808) 941-0941",
+      "website": "https://arcadia.org",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "arcadia-family-of-companies",
+      "organization_name": "Arcadia Family of Companies",
+      "cms_ccn": "125014",
+      "cms_rating_overall": 5,
+      "description": "Arcadia Retirement Residence, established in 1967, is a nonprofit continuing care retirement community affiliated with the United Church of Christ, set on three acres in Honolulu's Makiki neighborhood. It offers independent living apartments, assisted living, memory care, and an on-site skilled nursing unit that holds a CMS 5-star overall rating, with U.S. News marking both short-term rehab and long-term care as High Performing.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/hi/arcadia-retirement-residence-125014",
+        "https://www.yelp.com/biz/arcadia-honolulu-3",
+        "https://arcadia.org/residences/",
+        "https://www.seniorhousingnet.com/seniorliving-detail/arcadia-retirement-residence_1434-punahou-st_honolulu_hi_96822-543255"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "15 Craigside",
+      "slug": "15-craigside",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "honolulu",
+      "city_name": "Honolulu",
+      "address": "15 Craigside Pl",
+      "zip": "96817",
+      "website": "https://arcadia.org/skilled-nursing/15-craigside-arcadia/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "arcadia-family-of-companies",
+      "organization_name": "Arcadia Family of Companies",
+      "cms_ccn": "125063",
+      "cms_rating_overall": 5,
+      "description": "15 Craigside is a 13-story nonprofit continuing care retirement community in Honolulu's Nuuanu area, operated by the Arcadia Family of Companies. The tower provides 170 independent living units (140 one-bedroom apartments and 30 studios), assisted living services throughout the building, and a 45-bed skilled nursing unit that holds a CMS 5-star overall rating with a High Performing long-term care designation.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/hi/15-craigside-125063",
+        "https://www.seniorcare.com/nursing-homes/hi/honolulu/15-craigside/125063/",
+        "https://arcadia.org/skilled-nursing/15-craigside-arcadia/",
+        "https://www.yelp.com/biz/15-craigside-honolulu-5"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Maluhia",
+      "slug": "maluhia",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "honolulu",
+      "city_name": "Honolulu",
+      "address": "1027 Hala Dr",
+      "zip": "96817",
+      "phone": "(808) 832-5874",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 158,
+      "cms_ccn": "125009",
+      "cms_rating_overall": 5,
+      "description": "Maluhia is a government-operated skilled nursing and intermediate care facility in Honolulu's Kalihi neighborhood, serving Medicare and Medicaid residents since 1967. The 158-bed facility holds a CMS 5-star overall rating, well above the national average, and U.S. News rates its long-term care as High Performing.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/hi/maluhia-125009",
+        "https://www.healthcare4ppl.com/nursing-home/hawaii/honolulu/maluhia-125009.html",
+        "https://www.hcoahawaii.org/AGISModules/ProviderSearch/ProviderDetails.aspx?OrgID=549947&mid=411&pageid=371&letter=M&state=HI",
+        "https://www.yelp.com/biz/maluhia-honolulu"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Plaza at Pearl City",
+      "slug": "the-plaza-at-pearl-city",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "pearl-city",
+      "city_name": "Pearl City",
+      "address": "1048 Kuala St",
+      "zip": "96782",
+      "phone": "(808) 455-8808",
+      "website": "https://www.theplazaassistedliving.com/location/pearl-city/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 158,
+      "organization": "the-plaza-assisted-living",
+      "organization_name": "The Plaza Assisted Living",
+      "google_rating": 4.2,
+      "google_review_count": 12,
+      "rating_as_of": "2026-07-12",
+      "description": "The Plaza at Pearl City is a 158-bed community operated by Hawaii-based The Plaza Assisted Living, offering independent living, assisted living, the Hali'a memory care program, and short-term respite stays. Services include personal care, medication management, meals, and 24-hour staffing, and reviewers consistently describe the community as clean with friendly, professional staff.",
+      "sources": [
+        "https://seniorcitizen.homes/hawaii/pearl-city/the-plaza-at-pearl-city/",
+        "https://carelistings.com/assisted-living-homes/pearl-city-hi/the-plaza-at-pearl-city/5acd01fda71d8c15cf68adc6",
+        "https://www.theplazaassistedliving.com/location/pearl-city/",
+        "https://www.caring.com/senior-living/hawaii/pearl-city/the-plaza-at-pearl-city"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Plaza at Punchbowl",
+      "slug": "the-plaza-at-punchbowl",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "honolulu",
+      "city_name": "Honolulu",
+      "address": "918 Lunalilo St",
+      "zip": "96822",
+      "website": "https://www.theplazaassistedliving.com",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "organization": "the-plaza-assisted-living",
+      "organization_name": "The Plaza Assisted Living",
+      "review_note": "4.3/5 across 29 ratings on Senior Care Authority; 4.7/5 across 10 reviews on AssistedLivingCenter (July 2026)",
+      "description": "The Plaza at Punchbowl is a multistory senior living community near downtown Honolulu operated by Hawaii-based The Plaza Assisted Living, offering independent living and assisted living. Reviews are strongly positive, averaging 4.3 out of 5 across 29 ratings on Senior Care Authority and 4.7 out of 5 on AssistedLivingCenter, with residents praising the staff and day-to-day services.",
+      "sources": [
+        "https://www.seniorcareauthority.com/assisted-living/the-plaza-at-punchbowl-in-honolulu-the-plaza-at-punchbowl.html",
+        "https://www.assistedlivingcenter.com/facilities/hi/honolulu/the-plaza-at-punchbowl-96822/",
+        "https://www.yelp.com/biz/the-plaza-at-punchbowl-honolulu-2",
+        "https://www.caring.com/senior-living/hawaii/honolulu/the-plaza-at-punchbowl"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Good Samaritan Society - Pohai Nani",
+      "slug": "good-samaritan-society-pohai-nani",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "kaneohe",
+      "city_name": "Kaneohe",
+      "address": "45-090 Namoku St",
+      "zip": "96744",
+      "phone": "(808) 247-6211",
+      "website": "https://www.good-sam.com/locations/pohai-nani",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "good-samaritan-society",
+      "organization_name": "Good Samaritan Society",
+      "google_rating": 4.7,
+      "google_review_count": 42,
+      "rating_as_of": "2026-07-12",
+      "description": "Pohai Nani is a continuing care retirement community operated by the nonprofit Good Samaritan Society on a 16-acre campus in Kaneohe, with views of the Ko'olau Mountains and Kaneohe Bay. The community offers independent living, assisted living, and skilled nursing, and holds a 4.7 Google rating across 42 reviews, with reviewers praising the grounds, activity programming, and staff.",
+      "sources": [
+        "https://www.good-sam.com/locations/pohai-nani",
+        "https://olera.care/provider/good-samaritan-society-pohai-nani",
+        "https://www.yelp.com/biz/good-samaritan-society-kaneohe",
+        "https://www.seniorly.com/continuing-care-retirement-community/hawaii/kaneohe/good-samaritan-society-pohai-nani"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "'Ilima at Leihano",
+      "slug": "ilima-at-leihano",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "kapolei",
+      "city_name": "Kapolei",
+      "address": "739 Leihano St",
+      "zip": "96707",
+      "phone": "(808) 400-0795",
+      "website": "https://www.kiscoseniorliving.com/lifestyle/ilima/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "kisco-senior-living",
+      "organization_name": "Kisco Senior Living",
+      "google_rating": 4.9,
+      "google_review_count": 75,
+      "rating_as_of": "2026-07-12",
+      "description": "'Ilima at Leihano is a Kisco Senior Living community set on four landscaped acres in the heart of Kapolei, offering independent living, assisted living, and memory care in studio, one-bedroom, and two-bedroom apartments. The community is known for chef-driven, all-day dining and Hawaiian cultural programming such as ukulele lessons and lei-making, and holds a 4.9 Google rating across 75 reviews.",
+      "sources": [
+        "https://www.kiscoseniorliving.com/lifestyle/ilima/",
+        "https://ultimateseniorresource.com/states/hawaii/kapolei/ilima-at-leihano",
+        "https://www.yelp.com/biz/ilima-at-leihano-kapolei",
+        "https://www.aplaceformom.com/community/ilima-at-leihano-143199"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Roselani Place",
+      "slug": "roselani-place",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "maui",
+      "county_name": "Maui",
+      "city": "kahului",
+      "city_name": "Kahului",
+      "address": "88 S Papa Ave",
+      "zip": "96732",
+      "phone": "(808) 871-7720",
+      "website": "https://roselaniplace.com",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 144,
+      "review_note": "4.6/5 across 19 reviews on Birdeye (July 2026)",
+      "description": "Roselani Place in Kahului is Maui's only private-pay independent living, assisted living, and memory care community, licensed for 144 residents and operated by Alii Community Care. Reviewers describe hotel-like accommodations and dining, and the community was named Best of Maui 2025 for Retirement Community and Assisted Living; it holds a 4.6 rating across 19 reviews on Birdeye.",
+      "sources": [
+        "https://reviews.birdeye.com/roselani-place-assisted-living-669026496",
+        "https://roselaniplace.com/",
+        "https://www.yelp.com/biz/roselani-place-kahului",
+        "https://www.seniorcareauthority.com/assisted-living/alii-community-care-dba-roselani-place-in-kahului-hawaii.html"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Regency at Puakea",
+      "slug": "regency-at-puakea",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "kauai",
+      "county_name": "Kauai",
+      "city": "lihue",
+      "city_name": "Lihue",
+      "address": "2130 Kaneka St",
+      "zip": "96766",
+      "phone": "(808) 246-4449",
+      "website": "https://www.regency-pacific.com/senior-living/hi/lihue/regency-at-puakea-retirement-assisted-living/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 82,
+      "organization": "regency-pacific",
+      "organization_name": "Regency Pacific",
+      "review_note": "4.5/5 across 68 aggregated ratings on Senior Care Authority (July 2026)",
+      "description": "Regency at Puakea is Kauai's primary retirement and assisted living community, with 82 apartments on 5.65 landscaped acres in Lihue featuring a pool, spa, and mountain views. Operated by Regency Pacific, it offers independent living, assisted living, memory care, and respite stays, and averages 4.5 out of 5 across 68 aggregated ratings on Senior Care Authority, with reviewers praising the care, cleanliness, and grounds.",
+      "sources": [
+        "https://www.regency-pacific.com/senior-living/hi/lihue/regency-at-puakea-retirement-assisted-living/",
+        "https://www.seniorcareauthority.com/assisted-living/regency-at-puakea-l-l-c-in-lihue-regency-at-puakea-l-l-c.html?relListPnum=11",
+        "https://www.yelp.com/biz/regency-at-puakea-retirement-and-assisted-living-lihue-2",
+        "https://www.assistedlivingcenter.com/facilities/hi/lihue/regency-at-puakea-96766/"
+      ],
+      "verified_date": "2026-07-12"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Arcadia Family of Companies",
+      "slug": "arcadia-family-of-companies",
+      "headquarters": "Honolulu, Hawaii",
+      "website": "https://arcadia.org",
+      "facility_count_approx": 2,
+      "states": [
+        "HI"
+      ],
+      "description": "The Arcadia Family of Companies is a Honolulu-based nonprofit senior services organization affiliated with the United Church of Christ, tracing its roots to the 1967 opening of Arcadia Retirement Residence. It operates two continuing care retirement communities in Honolulu — Arcadia Retirement Residence and 15 Craigside — both with CMS 5-star skilled nursing units, along with home care and adult day programs.",
+      "sources": [
+        "https://arcadia.org/residences/",
+        "https://arcadia.org/skilled-nursing/15-craigside-arcadia/"
+      ]
+    },
+    {
+      "name": "The Plaza Assisted Living",
+      "slug": "the-plaza-assisted-living",
+      "headquarters": "Honolulu, Hawaii",
+      "website": "https://www.theplazaassistedliving.com",
+      "facility_count_approx": 6,
+      "states": [
+        "HI"
+      ],
+      "description": "The Plaza Assisted Living is a Hawaii-based senior living operator with multiple purpose-built communities across Oahu, including locations in Punchbowl, Moanalua, Mililani, Pearl City, Waikiki, and Kaneohe. Its communities offer independent living, assisted living, the Hali'a memory care program, and short-term respite stays.",
+      "sources": [
+        "https://www.theplazaassistedliving.com/location/pearl-city/"
+      ]
+    },
+    {
+      "name": "Good Samaritan Society",
+      "slug": "good-samaritan-society",
+      "headquarters": "Sioux Falls, South Dakota",
+      "website": "https://www.good-sam.com",
+      "description": "The Evangelical Lutheran Good Samaritan Society is one of the largest nonprofit providers of senior care and services in the United States and has been an affiliate of Sanford Health since 2019. Pohai Nani in Kaneohe is its Hawaii continuing care retirement community.",
+      "sources": [
+        "https://www.good-sam.com/locations/pohai-nani"
+      ]
+    },
+    {
+      "name": "Kisco Senior Living",
+      "slug": "kisco-senior-living",
+      "headquarters": "Carlsbad, California",
+      "website": "https://www.kiscoseniorliving.com",
+      "description": "Kisco Senior Living, founded in 1990 and headquartered in Carlsbad, California, develops and operates upscale senior living communities in several states offering independent living, assisted living, and memory care. 'Ilima at Leihano in Kapolei is its Hawaii community.",
+      "sources": [
+        "https://www.kiscoseniorliving.com/lifestyle/ilima/about-us/"
+      ]
+    },
+    {
+      "name": "Regency Pacific",
+      "slug": "regency-pacific",
+      "website": "https://www.regency-pacific.com",
+      "description": "Regency Pacific manages senior living and care communities across the Pacific Northwest and Hawaii, offering independent living, assisted living, memory care, and skilled nursing. Its Hawaii communities include Regency at Puakea on Kauai and Regency at Hualalai on the Big Island.",
+      "sources": [
+        "https://www.regency-pacific.com/senior-living/hi/"
+      ]
+    }
+  ]
+}

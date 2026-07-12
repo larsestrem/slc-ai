@@ -1,0 +1,28 @@
+---
+layout: "facility"
+title: "Arcadia Retirement Residence"
+seo_title: "Arcadia Retirement Residence — Senior Living in Honolulu, HI"
+description: "Arcadia Retirement Residence, established in 1967, is a nonprofit continuing care retirement community affiliated with the United Church of Christ, set on thr"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Arcadia Retirement Residence", "url": "/directory/hawaii/honolulu-county/honolulu/arcadia-retirement-residence/"}]
+nearby: [{"name": "Kahala Nui", "url": "/directory/hawaii/honolulu-county/honolulu/kahala-nui/", "city_name": "Honolulu", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "facility_size": "large", "cms_rating_overall": 5, "description": "Kahala Nui is a nonprofit continuing care retirement community in Honolulu's Kahala neighborhood, offering independent living, the Hi'olani Assisted Living Center (67 licensed beds), memory care, and the 20-bed Hi'olani Care Center skilled nursing unit. The Hi'olani Care Center holds a CMS 5-star overall rating with no fines, complaints, or inspection problems reported in the last three years, and nursing staff time per resident exceeds state and national averages."}, {"name": "15 Craigside", "url": "/directory/hawaii/honolulu-county/honolulu/15-craigside/", "city_name": "Honolulu", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "facility_size": "large", "cms_rating_overall": 5, "description": "15 Craigside is a 13-story nonprofit continuing care retirement community in Honolulu's Nuuanu area, operated by the Arcadia Family of Companies. The tower provides 170 independent living units (140 one-bedroom apartments and 30 studios), assisted living services throughout the building, and a 45-bed skilled nursing unit that holds a CMS 5-star overall rating with a High Performing long-term care designation."}, {"name": "Maluhia", "url": "/directory/hawaii/honolulu-county/honolulu/maluhia/", "city_name": "Honolulu", "state_abbrev": "HI", "care_levels": ["skilled-nursing"], "facility_size": "large", "cms_rating_overall": 5, "description": "Maluhia is a government-operated skilled nursing and intermediate care facility in Honolulu's Kalihi neighborhood, serving Medicare and Medicaid residents since 1967. The 158-bed facility holds a CMS 5-star overall rating, well above the national average, and U.S. News rates its long-term care as High Performing."}, {"name": "The Plaza at Punchbowl", "url": "/directory/hawaii/honolulu-county/honolulu/the-plaza-at-punchbowl/", "city_name": "Honolulu", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living"], "facility_size": "large", "description": "The Plaza at Punchbowl is a multistory senior living community near downtown Honolulu operated by Hawaii-based The Plaza Assisted Living, offering independent living and assisted living. Reviews are strongly positive, averaging 4.3 out of 5 across 29 ratings on Senior Care Authority and 4.7 out of 5 on AssistedLivingCenter, with residents praising the staff and day-to-day services."}]
+state: "hawaii"
+state_name: "Hawaii"
+state_abbrev: "HI"
+county: "honolulu"
+county_name: "Honolulu"
+city: "honolulu"
+city_name: "Honolulu"
+address: "1434 Punahou St"
+zip: "96822"
+phone: "(808) 941-0941"
+website: "https://arcadia.org"
+care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"]
+facility_size: "large"
+organization: "arcadia-family-of-companies"
+organization_name: "Arcadia Family of Companies"
+cms_ccn: "125014"
+cms_rating_overall: 5
+sources: ["https://health.usnews.com/best-nursing-homes/area/hi/arcadia-retirement-residence-125014", "https://www.yelp.com/biz/arcadia-honolulu-3", "https://arcadia.org/residences/", "https://www.seniorhousingnet.com/seniorliving-detail/arcadia-retirement-residence_1434-punahou-st_honolulu_hi_96822-543255"]
+verified_date: "2026-07-12"
+description_full: "Arcadia Retirement Residence, established in 1967, is a nonprofit continuing care retirement community affiliated with the United Church of Christ, set on three acres in Honolulu's Makiki neighborhood. It offers independent living apartments, assisted living, memory care, and an on-site skilled nursing unit that holds a CMS 5-star overall rating, with U.S. News marking both short-term rehab and long-term care as High Performing."
+---

@@ -21,3 +21,12 @@ layout: default
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Article","headline":{{ page.title | jsonify }},"description":{{ page.description | jsonify }},"dateModified":"{{ page.updated }}","author":{"@type":"Organization","name":"{{ site.title }}"},"mainEntityOfPage":"{{ page.url | absolute_url }}"}
 </script>
+{%- if page.faqs %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{%- for f in page.faqs -%}
+{"@type":"Question","name":{{ f.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ f.a | jsonify }}}}{% unless forloop.last %},{% endunless %}
+{%- endfor -%}
+]}
+</script>
+{%- endif %}

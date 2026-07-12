@@ -4,7 +4,7 @@ title: "Aegis Living Issaquah"
 seo_title: "Aegis Living Issaquah — Senior Living in Issaquah, WA"
 description: "Assisted living and memory care community near downtown Issaquah, part of Bellevue-based Aegis Living. Known for its cottage-style campus of small single-stor"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Aegis Living Issaquah", "url": "/directory/washington/king-county/issaquah/aegis-living-issaquah/"}]
-nearby: []
+nearby: [{"name": "Sunrise of Issaquah", "url": "/directory/washington/king-county/issaquah/sunrise-of-issaquah/", "city_name": "Issaquah", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "description": "Sunrise of Issaquah is a 107-bed assisted living and memory care community on the Issaquah-Fall City Road, recognized by U.S. News as Best Assisted Living and Best Memory Care for 2026. Families describe attentive, kind staff and a smooth transition process for new residents."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

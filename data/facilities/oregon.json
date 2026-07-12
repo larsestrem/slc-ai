@@ -3088,6 +3088,424 @@
         "https://www.caring.com/senior-living/oregon/bend/stone-lodge"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sellwood Senior Living",
+      "slug": "sellwood-senior-living",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "8517 SE 17th Ave",
+      "zip": "97202",
+      "website": "https://sellwoodseniorliving.com",
+      "care_levels": [
+        "assisted-living",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.7/5 across 59 reviews on Birdeye review aggregate (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "An assisted living community in Portland's Sellwood-Moreland neighborhood offering studio, one-bedroom, and two-bedroom apartments with 24/7 licensed nursing and medication support. Reviewers consistently praise the friendly staff, cleanliness, and bright, modern building; assisted living studios start around $3,485-3,900 per month.",
+      "sources": [
+        "https://www.aplaceformom.com/community/sellwood-senior-living-100279",
+        "https://birdeye.com/sellwood-senior-living-169341826349454",
+        "https://ltclicensing.oregon.gov/Facilities/Details/70A295"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Hirity Adult Home",
+      "slug": "hirity-adult-home",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "1214 SE 144th Ave",
+      "zip": "97233",
+      "phone": "(503) 208-2423",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "review_note": "4.6/5 across 21 reviews (Google numbers shown on Mirador Living directory listing, July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "A residential care home in outer southeast Portland providing personal care in a small group-home setting, including memory care for residents with Alzheimer's or other dementias. Shared-room rates run roughly $5,500-5,900 per month.",
+      "sources": [
+        "https://www.aplaceformom.com/community/hirity-adult-home-99823",
+        "https://www.miradorliving.com/memory-care/oregon/gresham",
+        "https://www.seniorhousingnet.com/seniorliving-detail/hirity-adult-home_1214-se-144th-ave_portland_or_97233-571385"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Courtyard at Mt. Tabor",
+      "slug": "courtyard-at-mt-tabor",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "6125 SE Division St",
+      "zip": "97206",
+      "phone": "(503) 788-0896",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "review_note": "4.4/5 across 154 reviews on Birdeye review aggregate (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "A resort-style senior living campus near Mt. Tabor Park in southeast Portland offering independent living, assisted living, and memory care, with the Garden House memory care building at 6323 SE Division St. Reviewers highlight engaging activities, a pet-friendly policy, and caring staff, though some note staff turnover under changing management.",
+      "sources": [
+        "https://www.aplaceformom.com/community/courtyard-at-mt-tabor-95907",
+        "https://reviews.birdeye.com/courtyard-at-mt-tabor-park-157256125645130",
+        "https://www.ohca.com/facility-finder/courtyard-at-mt-tabor/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Rose Villa Senior Living Community",
+      "slug": "rose-villa-senior-living-community",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "milwaukie",
+      "city_name": "Milwaukie",
+      "address": "13505 SE River Rd",
+      "zip": "97222",
+      "phone": "(503) 654-3171",
+      "care_levels": [
+        "ccrc",
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "review_note": "4.2/5 across 42 reviews (rating shown on senior-care directory listings, July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "A nonprofit, single-site continuing care retirement community on 22 acres on a bluff above the Willamette River, offering cottage homes and a full continuum from independent living through 24-hour nursing care. Amenities include a pool, spa, gym, library, and rentable artist studios.",
+      "sources": [
+        "https://www.caring.com/senior-living/oregon/portland/rose-villa-97222",
+        "https://health.usnews.com/best-senior-living/rose-villa-13456",
+        "https://www.familyassets.com/continuing-care-retirement-communities/oregon/portland/rose-villa-senior-living-community"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Homewoods on the Willamette",
+      "slug": "homewoods-on-the-willamette",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "milwaukie",
+      "city_name": "Milwaukie",
+      "address": "17971 SE River Rd",
+      "zip": "97267",
+      "phone": "(503) 659-3600",
+      "website": "https://homewoods.org",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.6/5 across 38 reviews (rating shown on SeniorHomes.com listing, retrieved July 2026); 4.5/5 on SeniorAdvisor",
+      "rating_as_of": "2026-07-12",
+      "description": "An independent nonprofit senior living community offering one- and two-bedroom apartments on a wooded riverfront campus beside the Willamette River in Milwaukie. Reviews highlight professional staff, clean facilities, river views, and a family-like atmosphere.",
+      "sources": [
+        "https://homewoods.org/",
+        "https://www.seniorhomes.com/oregon/milwaukie/homewoods-on-the-willamette",
+        "https://www.aplaceformom.com/community/homewoods-on-the-willamette-59982"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Rackleff Place",
+      "slug": "rackleff-place",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "canby",
+      "city_name": "Canby",
+      "address": "655 SW 13th Ave",
+      "zip": "97013",
+      "phone": "(503) 266-9555",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "capacity": 25,
+      "google_rating": 4.4,
+      "google_review_count": 16,
+      "rating_as_of": "2026-07-12",
+      "description": "A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette. Families note a warm, welcoming environment and a dedicated long-term staff.",
+      "sources": [
+        "https://www.prestigecare.com/locations/rackleff-place/",
+        "https://ultimateseniorresource.com/states/oregon/canby/rackleff-place",
+        "https://ltclicensing.oregon.gov/Facilities/Details/70M075"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Cornell Estates Retirement and Assisted Living",
+      "slug": "cornell-estates-retirement-and-assisted-living",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "hillsboro",
+      "city_name": "Hillsboro",
+      "address": "1005 NE 17th Ave",
+      "zip": "97124",
+      "phone": "(503) 640-2884",
+      "website": "https://cornell-estates.com",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "capacity": 75,
+      "review_note": "4.2/5 across 17 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "A retirement and assisted living residence in central Hillsboro with 75 licensed assisted living beds that also accepts Medicaid. Reviewers describe a homey, cozy atmosphere with friendly, attentive staff, 12-16 hour nursing coverage, and 24-hour supervision.",
+      "sources": [
+        "https://www.aplaceformom.com/community/cornell-estates-59801",
+        "https://cornell-estates.com/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/70M015"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Vineyard Heights Assisted Living and Retirement Cottages",
+      "slug": "vineyard-heights-assisted-living-and-retirement-cottages",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "yamhill",
+      "county_name": "Yamhill",
+      "city": "mcminnville",
+      "city_name": "McMinnville",
+      "address": "345 SW Hill Rd",
+      "zip": "97128",
+      "phone": "(503) 435-1000",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "capacity": 97,
+      "google_rating": 4.2,
+      "google_review_count": 24,
+      "rating_as_of": "2026-07-12",
+      "description": "An assisted living and independent living community in McMinnville wine country with 81 assisted living apartments and 16 retirement cottages, two miles from historic downtown. Families praise the compassionate staff, though some reviews mention staffing and management turnover.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/mcminnville-or/vineyard-heights-assisted-living-and-retirement-cottages/5acd0268a71d8c15cf6931a8",
+        "https://www.compass-living.com/community/vineyard-heights-assisted-living/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/70A267"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Bonaventure at Keizer Station",
+      "slug": "bonaventure-at-keizer-station",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "keizer",
+      "city_name": "Keizer",
+      "address": "5525 McLeod Ln NE",
+      "zip": "97303",
+      "phone": "(503) 689-8084",
+      "organization": "bonaventure-senior-living",
+      "organization_name": "Bonaventure Senior Living",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "review_note": "9.3/10 A Place for Mom review score based on 15 reviews in the last 2 years; 36 reviews all-time (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "A Bonaventure community near the Keizer Station shopping district offering independent living, assisted living, and memory care. Residents highlight friendly staff and a busy activity calendar, though several reviews criticize meal quality.",
+      "sources": [
+        "https://www.aplaceformom.com/community/bonaventure-at-keizer-station-1404550",
+        "https://www.assistedlivingcenter.com/facilities/or/keizer/bonaventure-at-keizer-station-97303/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/70A328"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Springs at Sunnyview",
+      "slug": "the-springs-at-sunnyview",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "1950 45th Ave NE",
+      "zip": "97305",
+      "phone": "(503) 589-1200",
+      "website": "https://www.thespringsliving.com/senior-living/or/salem/45th-ave-ne/independent-living",
+      "organization": "the-springs-living",
+      "organization_name": "The Springs Living",
+      "care_levels": [
+        "independent-living"
+      ],
+      "facility_size": "medium",
+      "review_note": "4.7/5 across 11 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "An independent living community in northeast Salem operated by The Springs Living, with spacious apartments featuring full kitchens and washer/dryer hookups plus a large backyard patio. Reviews describe a friendly community with good food and plenty of activities.",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-springs-at-sunnyview-73358",
+        "https://www.thespringsliving.com/senior-living/or/salem/45th-ave-ne/independent-living",
+        "https://www.caring.com/senior-living/oregon/salem/the-springs-at-sunnyview-97305"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Battle Creek Memory Care",
+      "slug": "battle-creek-memory-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "1805 Waln Dr SE",
+      "zip": "97306",
+      "phone": "(503) 364-9378",
+      "website": "https://www.onelifeseniorliving.com/communities/battle-creek-memory-care",
+      "organization": "onelife-senior-living",
+      "organization_name": "Onelife Senior Living",
+      "care_levels": [
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 52,
+      "review_note": "4.6/5 across 13 reviews on A Place for Mom; 4.4-star Google rating per operator, review count not visible (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "A 52-bed memory care community in south Salem organized into four small neighborhoods, each with its own dining, living, and activity areas. Winner of a 2024 Pinnacle Customer Experience Award and a BusinessRate Best of 2026 award, with families praising compassionate staff and engaging life-enrichment programs.",
+      "sources": [
+        "https://www.aplaceformom.com/community/battle-creek-memory-care-1437661",
+        "https://www.onelifeseniorliving.com/blog/battle-creek-memory-care-businessrate-best-of-2026",
+        "https://ltclicensing.oregon.gov/Facilities/Details/50R480"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Waterford Grand",
+      "slug": "waterford-grand",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "eugene",
+      "city_name": "Eugene",
+      "address": "600 Waterford Way",
+      "zip": "97401",
+      "phone": "(541) 636-3329",
+      "website": "https://www.cascadeliving.com/community/waterford-grand/",
+      "organization": "cascade-living-group",
+      "organization_name": "Cascade Living Group",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "review_note": "4.2/5 across 69 reviews on A Place for Mom; 9/10 APFM review score on 19 reviews in last 2 years (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "An assisted living and memory care community beside the Willamette River in Eugene with a gym, pool, and salon. Reviewers praise attentive staff and river views, though some report inconsistent food quality.",
+      "sources": [
+        "https://www.aplaceformom.com/community/waterford-grand-1376064",
+        "https://www.cascadeliving.com/community/waterford-grand/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/50R411"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Awbrey Place Assisted Living and Memory Care",
+      "slug": "awbrey-place-assisted-living-and-memory-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "bend",
+      "city_name": "Bend",
+      "address": "2825 NE Neff Rd",
+      "zip": "97701",
+      "phone": "(541) 317-8464",
+      "website": "https://caringplaces.com/communities/awbrey-place/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 43,
+      "review_note": "4.2/5 across 34 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "A 43-apartment community in Bend across the street from St. Charles Medical Center, with 22 assisted living and 21 memory care apartments, each with a private bathroom and roll-in shower. Managed by Caring Places Management; reviewers describe kind, compassionate staff and weekly entertainment and outings.",
+      "sources": [
+        "https://www.aplaceformom.com/community/awbrey-place-60294",
+        "https://caringplaces.com/communities/awbrey-place/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/70M008"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Trustwell Living at Rogue River Place",
+      "slug": "trustwell-living-at-rogue-river-place",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "klamath",
+      "county_name": "Klamath",
+      "city": "klamath-falls",
+      "city_name": "Klamath Falls",
+      "address": "2437 Kane St",
+      "zip": "97603",
+      "phone": "(541) 882-0440",
+      "website": "https://www.trustwellliving.com/communities/rogue-river-place/",
+      "organization": "trustwell-living",
+      "organization_name": "Trustwell Living",
+      "care_levels": [
+        "assisted-living",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "review_note": "9.2/10 A Place for Mom review score; 56 reviews all-time (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "A pet-friendly assisted living community in Klamath Falls offering daily personal support and respite care. Reviews repeatedly praise the caring staff and a full slate of activities including art programs, trips, and live entertainment.",
+      "sources": [
+        "https://www.aplaceformom.com/community/trustwell-living-at-rogue-river-place-60285",
+        "https://www.trustwellliving.com/communities/rogue-river-place/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/70M054"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [
@@ -3490,6 +3908,18 @@
       "sources": [
         "https://cedarsinaipark.org",
         "https://www.jewishportland.org/community-directory/cedar-sinai-park"
+      ]
+    },
+    {
+      "name": "Onelife Senior Living",
+      "slug": "onelife-senior-living",
+      "website": "https://www.onelifeseniorliving.com",
+      "states": [
+        "OR"
+      ],
+      "description": "Onelife Senior Living develops and operates senior living communities in the Pacific Northwest, with a focus on memory care. Its Oregon communities include Battle Creek Memory Care in Salem, a sister community in Stayton, and Middlefield Oaks in Cottage Grove.",
+      "sources": [
+        "https://www.onelifeseniorliving.com/communities/battle-creek-memory-care"
       ]
     }
   ]

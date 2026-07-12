@@ -1,0 +1,28 @@
+---
+layout: "facility"
+title: "Bonaventure at Keizer Station"
+seo_title: "Bonaventure at Keizer Station — Senior Living in Keizer, OR"
+description: "A Bonaventure community near the Keizer Station shopping district offering independent living, assisted living, and memory care. Residents highlight friendly "
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Bonaventure at Keizer Station", "url": "/directory/oregon/marion-county/keizer/bonaventure-at-keizer-station/"}]
+nearby: []
+state: "oregon"
+state_name: "Oregon"
+state_abbrev: "OR"
+county: "marion"
+county_name: "Marion"
+city: "keizer"
+city_name: "Keizer"
+address: "5525 McLeod Ln NE"
+zip: "97303"
+phone: "(503) 689-8084"
+care_levels: ["independent-living", "assisted-living", "memory-care"]
+facility_size: "large"
+organization: "bonaventure-senior-living"
+organization_name: "Bonaventure Senior Living"
+sources: ["https://www.aplaceformom.com/community/bonaventure-at-keizer-station-1404550", "https://www.assistedlivingcenter.com/facilities/or/keizer/bonaventure-at-keizer-station-97303/", "https://ltclicensing.oregon.gov/Facilities/Details/70A328"]
+verified_date: "2026-07-12"
+rating_as_of: "2026-07-12"
+review_note: "9.3/10 A Place for Mom review score based on 15 reviews in the last 2 years; 36 reviews all-time (July 2026)"
+description_full: "A Bonaventure community near the Keizer Station shopping district offering independent living, assisted living, and memory care. Residents highlight friendly staff and a busy activity calendar, though several reviews criticize meal quality."
+licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+---

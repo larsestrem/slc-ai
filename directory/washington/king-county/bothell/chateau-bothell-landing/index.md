@@ -4,7 +4,7 @@ title: "Chateau Bothell Landing"
 seo_title: "Chateau Bothell Landing — Senior Living in Bothell, WA"
 description: "Family-owned senior living community nestled along the Sammamish River Trail in downtown Bothell, offering independent living, assisted living, memory care, a"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Chateau Bothell Landing", "url": "/directory/washington/king-county/bothell/chateau-bothell-landing/"}]
-nearby: []
+nearby: [{"name": "NobleCare Adult Family Home", "url": "/directory/washington/king-county/bothell/noblecare-adult-family-home/", "city_name": "Bothell", "state_abbrev": "WA", "care_levels": ["adult-family-home"], "facility_size": "small", "description": "NobleCare Adult Family Home is a six-bed, RN-supported adult family home in Bothell where each private bedroom has its own bathroom and opens onto a shared great room. The home is owned by a caregiver with over 20 years of experience, with a registered nurse overseeing clinical care, and families consistently describe the care as exceptional and attentive."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

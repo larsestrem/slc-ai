@@ -1957,6 +1957,493 @@
         "https://www.yelp.com/biz/ciel-of-tri-cities-kennewick"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Quail Park of West Seattle",
+      "slug": "quail-park-of-west-seattle",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "seattle",
+      "city_name": "Seattle",
+      "address": "4515 41st Ave SW",
+      "zip": "98116",
+      "phone": "(206) 633-2273",
+      "website": "https://www.livingcarelifestyles.com/quail-park-west-seattle/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "living-care-lifestyles",
+      "organization_name": "Living Care Lifestyles",
+      "description": "Quail Park of West Seattle opened in 2019 in the West Seattle Junction area and offers enhanced assisted living alongside its Tribute memory care program. The multi-story community holds around 180 apartments and is operated by Seattle-based Living Care Lifestyles.",
+      "review_note": "5.0/5 across 25 reviews on Birdeye (July 2026)",
+      "sources": [
+        "https://birdeye.com/quail-park-of-west-seattle-171380379107484",
+        "https://www.livingcarelifestyles.com/quail-park-west-seattle/",
+        "https://www.yelp.com/biz/quail-park-of-west-seattle-seattle-2"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Bridgeport Place",
+      "slug": "bridgeport-place",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "pierce",
+      "county_name": "Pierce",
+      "city": "university-place",
+      "city_name": "University Place",
+      "address": "5250 Bridgeport Way W",
+      "zip": "98467",
+      "phone": "(253) 565-1960",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "google_rating": 4.6,
+      "google_review_count": 35,
+      "rating_as_of": "2026-07-12",
+      "description": "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma. Families consistently praise the compassionate staff and the smooth, supportive move-in process.",
+      "sources": [
+        "https://reviews.birdeye.com/bridgeport-place-assisted-living-157269831319314",
+        "https://www.aplaceformom.com/community/bridgeport-place-95381",
+        "https://www.yelp.com/biz/bridgeport-place-university-place"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Judson Park",
+      "slug": "judson-park",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "des-moines",
+      "city_name": "Des Moines",
+      "address": "23600 Marine View Dr S",
+      "zip": "98198",
+      "phone": "(206) 824-4000",
+      "website": "https://www.humangood.org/judson-park",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "organization": "humangood",
+      "organization_name": "HumanGood",
+      "cms_ccn": "505455",
+      "cms_rating_overall": 4,
+      "description": "Judson Park is a nonprofit continuing care retirement community overlooking Puget Sound in Des Moines, operated by HumanGood. The campus offers independent living, assisted living, memory care, and a 96-bed Medicare-certified health center, and holds a three-year CARF accreditation. U.S. News named it a Best Independent Living and Best Assisted Living community for 2026, and nursing staffing hours run well above the national average.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/judson-park-health-center-505455",
+        "https://www.seniorcare.com/nursing-homes/wa/des-moines/judson-park-health-center/505455/",
+        "https://www.humangood.org/judson-park"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Josephine Caring Community",
+      "slug": "josephine-caring-community",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "stanwood",
+      "city_name": "Stanwood",
+      "address": "9901 272nd Place NW",
+      "zip": "98292",
+      "phone": "(360) 629-2126",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 160,
+      "cms_ccn": "505465",
+      "cms_rating_overall": 5,
+      "description": "Josephine Caring Community is a nonprofit senior care campus in Stanwood offering skilled nursing, short-term rehabilitation, memory care, and assisted living. The 160-bed facility carries a 5-star CMS overall rating, with nursing staff hours well above the national average, and has served the Stillaguamish Valley for over a century.",
+      "sources": [
+        "https://www.nursinghomedatabase.com/snf/505465",
+        "https://www.seniorcare.com/nursing-homes/wa/stanwood/josephine-caring-community/505465/",
+        "https://health.usnews.com/best-nursing-homes/area/wa/josephine-caring-community-505465"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Fairwinds - Brittany Park",
+      "slug": "fairwinds-brittany-park",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "woodinville",
+      "city_name": "Woodinville",
+      "address": "17143 133rd Ave NE",
+      "zip": "98072",
+      "phone": "(425) 402-7100",
+      "website": "https://www.leisurecare.com/our-communities/fairwinds-brittany-park/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "organization": "leisure-care",
+      "organization_name": "Leisure Care",
+      "description": "Fairwinds - Brittany Park is a Leisure Care retirement community in the heart of Woodinville offering independent living and assisted living. U.S. News named it a Best Senior Living community for both assisted living and independent living based on resident and family surveys, and reviewers highlight the activity program and attentive staff.",
+      "review_note": "4.7/5 overall experience across 32 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/fairwinds-brittany-park-71353",
+        "https://www.leisurecare.com/our-communities/fairwinds-brittany-park/",
+        "https://health.usnews.com/best-senior-living/fairwinds-brittany-park-1462"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Olympic Place by Bonaventure",
+      "slug": "olympic-place-by-bonaventure",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "arlington",
+      "city_name": "Arlington",
+      "address": "20909 Olympic Place",
+      "zip": "98223",
+      "phone": "(360) 435-8440",
+      "website": "https://bonaventuresenior.com/community/olympic-place-by-bonaventure/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "bonaventure-senior-living",
+      "organization_name": "Bonaventure Senior Living",
+      "description": "Olympic Place by Bonaventure has served Snohomish County seniors since 2004, offering independent living, assisted living, and memory care in a quiet Arlington neighborhood within walking distance of shopping. Residents mention the movie room, exercise room, salon, and a full activities calendar.",
+      "review_note": "4.2/5 across 47 reviews on Birdeye (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/olympic-place-by-bonaventure-retirement-and-assisted-living-community-157269437706421",
+        "https://bonaventuresenior.com/community/olympic-place-by-bonaventure/",
+        "https://www.yelp.com/biz/olympic-place-by-bonaventure-arlington"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Warm Beach Senior Community",
+      "slug": "warm-beach-senior-community",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "stanwood",
+      "city_name": "Stanwood",
+      "address": "20420 Marine Dr",
+      "zip": "98292",
+      "phone": "(360) 652-7585",
+      "website": "https://www.warmbeach.org/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "description": "Warm Beach Senior Community is a faith-based, not-for-profit continuing care community established in 1967 on a 90-acre campus near Stanwood, affiliated with the Free Methodist Church. It combines independent cottages and apartments with assisted living, memory care, and skilled nursing, and residents cite more than two dozen resident clubs and comparatively affordable rates.",
+      "review_note": "4.6/5 across 29 reviews on AssistedLivingCenter.com (July 2026)",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/wa/stanwood/warm-beach-senior-community-98292/",
+        "https://www.warmbeach.org/",
+        "https://seniors.fyi/assisted-living/washington/stanwood/warm-beach-senior-community-76383"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Panorama",
+      "slug": "panorama",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "thurston",
+      "county_name": "Thurston",
+      "city": "lacey",
+      "city_name": "Lacey",
+      "address": "1751 Circle Ln SE",
+      "zip": "98503",
+      "phone": "(360) 456-0111",
+      "website": "https://www.panorama.org/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "description": "Panorama is a nonprofit continuing care retirement community spanning more than 140 acres in Lacey, with over 850 homes plus assisted living and skilled nursing on campus. Amenities include an aquatic and fitness center, auditorium, resident-run TV station, and an unusually deep roster of clubs and activities.",
+      "google_rating": 4.6,
+      "google_review_count": 193,
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://reviews.birdeye.com/panorama-157269934672291",
+        "https://www.panorama.org/",
+        "https://www.yelp.com/biz/panorama-lacey-8"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Merrill Gardens at Auburn",
+      "slug": "merrill-gardens-at-auburn",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "auburn",
+      "city_name": "Auburn",
+      "address": "18 1st St SE",
+      "zip": "98002",
+      "phone": "(253) 336-4858",
+      "website": "https://www.merrillgardens.com/senior-living/wa/auburn/merrill-gardens-at-auburn/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "merrill-gardens",
+      "organization_name": "Merrill Gardens",
+      "description": "Merrill Gardens at Auburn sits in downtown Auburn steps from shops and transit, offering independent living, assisted living, and memory care. Reviewers highlight the professional staff, clean building, and the walkable downtown location.",
+      "google_rating": 4.5,
+      "google_review_count": 43,
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://www.merrillgardens.com/senior-living/wa/auburn/merrill-gardens-at-auburn/",
+        "https://www.aplaceformom.com/community/merrill-gardens-at-auburn-1398129",
+        "https://www.yelp.com/biz/merrill-gardens-at-auburn-auburn"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Sunrise of Issaquah",
+      "slug": "sunrise-of-issaquah",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "issaquah",
+      "city_name": "Issaquah",
+      "address": "23599 SE Issaquah-Fall City Rd",
+      "zip": "98029",
+      "phone": "(425) 945-0006",
+      "website": "https://www.sunriseseniorliving.com/communities/wa/sunrise-of-issaquah",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 107,
+      "organization": "sunrise-senior-living",
+      "organization_name": "Sunrise Senior Living",
+      "description": "Sunrise of Issaquah is a 107-bed assisted living and memory care community on the Issaquah-Fall City Road, recognized by U.S. News as Best Assisted Living and Best Memory Care for 2026. Families describe attentive, kind staff and a smooth transition process for new residents.",
+      "review_note": "4.8/5 across 50 reviews on Birdeye; 4.7 Google rating (July 2026)",
+      "sources": [
+        "https://reviews.birdeye.com/sunrise-of-issaquah-168163949706865",
+        "https://www.whca.org/facility-finder/sunrise-of-issaquah/",
+        "https://www.sunriseseniorliving.com/communities/wa/sunrise-of-issaquah"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Bonaventure of the Tri-Cities",
+      "slug": "bonaventure-of-the-tri-cities",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "benton",
+      "county_name": "Benton",
+      "city": "richland",
+      "city_name": "Richland",
+      "address": "1800 Bellerive Dr",
+      "zip": "99352",
+      "phone": "(509) 542-0905",
+      "website": "https://bonaventuresenior.com/community/bonaventure-of-the-tri-cities/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 123,
+      "organization": "bonaventure-senior-living",
+      "organization_name": "Bonaventure Senior Living",
+      "description": "Bonaventure of the Tri-Cities is a 123-bed independent living, assisted living, and memory care community in Richland's Bellerive area. The campus features a swimming pool, walking paths, landscaped grounds, and a salon, and families frequently single out the caregiving staff.",
+      "review_note": "4.3/5 overall experience across 34 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/bonaventure-tri-cities-153656",
+        "https://bonaventuresenior.com/community/bonaventure-of-the-tri-cities/",
+        "https://carelistings.com/assisted-living-homes/richland-wa/bonaventure-of-the-tri-cities/5acd0285a71d8c15cf695586"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Wheatland Village",
+      "slug": "wheatland-village",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "walla-walla",
+      "county_name": "Walla Walla",
+      "city": "walla-walla",
+      "city_name": "Walla Walla",
+      "address": "1500 Catherine St",
+      "zip": "99362",
+      "phone": "(509) 527-9600",
+      "website": "https://www.generationsllc.com/communities/wheatland-village/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "generations",
+      "organization_name": "Generations",
+      "description": "Wheatland Village is a Generations family-operated retirement campus in Walla Walla offering independent living, assisted living, and memory care. The community includes a swimming pool, hot tub, gym, chapel, movie theater, library, and ice cream parlor, and locals frequently call it the best retirement facility in town.",
+      "google_rating": 4.2,
+      "google_review_count": 25,
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://www.generationsllc.com/communities/wheatland-village/",
+        "https://www.yelp.com/biz/wheatland-village-walla-walla-3",
+        "https://www.aplaceformom.com/community/wheatland-village-98004"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Hampton at Salmon Creek",
+      "slug": "the-hampton-at-salmon-creek",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "vancouver",
+      "city_name": "Vancouver",
+      "address": "2305 NE 129th St",
+      "zip": "98686",
+      "phone": "(360) 949-7647",
+      "website": "https://koelschseniorcommunities.com/senior-living/wa/vancouver/memory-care/the-hampton-at-salmon-creek/",
+      "care_levels": [
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 68,
+      "organization": "koelsch-communities",
+      "organization_name": "Koelsch Communities",
+      "description": "The Hampton at Salmon Creek is a 68-bed secured memory care community in Vancouver's Salmon Creek neighborhood, purpose-built for residents living with Alzheimer's and other dementias. Operated by family-owned Koelsch Communities, it offers 24-hour staffing, music therapy, and dementia-specific programming.",
+      "review_note": "4.7/5 across 31 reviews on AssistedLivingCenter.com (July 2026)",
+      "sources": [
+        "https://www.assistedlivingcenter.com/facilities/wa/vancouver/the-hampton-at-salmon-creek-memory-care-98686/",
+        "https://koelschseniorcommunities.com/senior-living/wa/vancouver/memory-care/the-hampton-at-salmon-creek/",
+        "https://www.aplaceformom.com/community/the-hampton-at-salmon-creek-memory-care-1353029"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Kenmore Senior Living",
+      "slug": "kenmore-senior-living",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "kenmore",
+      "city_name": "Kenmore",
+      "address": "7221 NE 182nd St",
+      "zip": "98028",
+      "phone": "(425) 908-0090",
+      "website": "https://kenmoreseniorliving.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "description": "Kenmore Senior Living, formerly Spring Estates, offers independent living, assisted living, and memory care near the north end of Lake Washington. Residents cite chef-prepared meals three times a day, life-enrichment programming, and a friendly resident community.",
+      "review_note": "4.4/5 across 77 reviews on A Place for Mom; 4.5/5 across 125 reviews on Birdeye (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/kenmore-senior-living-141165",
+        "https://birdeye.com/kenmore-senior-living-169341835539351",
+        "https://kenmoreseniorliving.com/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Stafford Suites Sumner",
+      "slug": "stafford-suites-sumner",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "pierce",
+      "county_name": "Pierce",
+      "city": "sumner",
+      "city_name": "Sumner",
+      "address": "15519 62nd Street Ct E",
+      "zip": "98390",
+      "phone": "(253) 862-1818",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "description": "Stafford Suites Sumner is an assisted living community in Sumner where staff assist with daily-living needs from medication management to bathing and dressing. The building includes an on-site diner, game and activity rooms, and a computer room, and families describe it as safe and homey.",
+      "review_note": "4.5/5 across 16 reviews on SeniorAdvisor (July 2026)",
+      "sources": [
+        "https://www.senioradvisor.com/local/stafford-suites-sumner-wa",
+        "https://www.aplaceformom.com/community/stafford-suites-sumner-71774",
+        "https://www.yelp.com/biz/stafford-suites-sumner"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "NobleCare Adult Family Home",
+      "slug": "noblecare-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "bothell",
+      "city_name": "Bothell",
+      "address": "10725 East Riverside Drive",
+      "zip": "98011",
+      "phone": "(206) 931-7205",
+      "website": "https://noblecareafh.com/",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "NobleCare Adult Family Home is a six-bed, RN-supported adult family home in Bothell where each private bedroom has its own bathroom and opens onto a shared great room. The home is owned by a caregiver with over 20 years of experience, with a registered nurse overseeing clinical care, and families consistently describe the care as exceptional and attentive.",
+      "google_rating": 5.0,
+      "google_review_count": 11,
+      "rating_as_of": "2026-07-12",
+      "sources": [
+        "https://reviews.birdeye.com/noble-care-170040776562571",
+        "https://noblecareafh.com/",
+        "https://adultfamilyhomecouncil.org/home-finder/755067-noblecare-afh-llc"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [
@@ -2251,6 +2738,51 @@
       "description": "Prestige Care is a family-owned senior care company based in Vancouver, Washington, operating skilled nursing centers and senior living communities across eight western states. Its portfolio includes assisted living communities such as Legends Park in Coeur d'Alene, Idaho.",
       "sources": [
         "https://www.findhelp.org/prestige-care,-inc.---legends-park-assisted-living-community--coeur-d'alene-id--assisted-living/5855819316068352?postal=83815"
+      ]
+    },
+    {
+      "name": "HumanGood",
+      "slug": "humangood",
+      "headquarters": "Duarte, California",
+      "website": "https://www.humangood.org/",
+      "states": [
+        "CA",
+        "WA"
+      ],
+      "description": "HumanGood is one of the largest nonprofit senior living providers in the country, formed in 2016 through the merger of American Baptist Homes of the West and be.group. It operates life plan communities and affordable housing across multiple states, including Judson Park in Des Moines, Washington.",
+      "sources": [
+        "https://www.humangood.org/judson-park"
+      ]
+    },
+    {
+      "name": "Koelsch Communities",
+      "slug": "koelsch-communities",
+      "headquarters": "Olympia, Washington",
+      "website": "https://koelschseniorcommunities.com/",
+      "facility_count_approx": 39,
+      "description": "Koelsch Communities is a family-owned senior living company founded in 1958 and headquartered in Olympia, Washington. It operates 39 communities across eight states with a strong specialty in dedicated memory care, including its Hampton-branded memory care communities.",
+      "sources": [
+        "https://koelschseniorcommunities.com/senior-living/wa/vancouver/memory-care/the-hampton-at-salmon-creek/"
+      ]
+    },
+    {
+      "name": "Living Care Lifestyles",
+      "slug": "living-care-lifestyles",
+      "headquarters": "Seattle, Washington",
+      "website": "https://www.livingcarelifestyles.com/",
+      "description": "Living Care Lifestyles is a Seattle-area senior living operator best known for its Quail Park communities, which offer assisted living and Tribute-branded memory care. The company runs Quail Park campuses in Washington and other western states.",
+      "sources": [
+        "https://www.livingcarelifestyles.com/quail-park-west-seattle/"
+      ]
+    },
+    {
+      "name": "Generations",
+      "slug": "generations",
+      "headquarters": "Portland, Oregon",
+      "website": "https://www.generationsllc.com/",
+      "description": "Generations is a family-owned and family-operated senior living company based in Portland, Oregon, running communities in several western states. Its campuses, including Wheatland Village in Walla Walla, typically combine independent living, assisted living, and memory care with resort-style amenities.",
+      "sources": [
+        "https://www.generationsllc.com/communities/wheatland-village/"
       ]
     }
   ]

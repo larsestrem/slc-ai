@@ -1,0 +1,73 @@
+---
+layout: default
+---
+<h1>{{ page.region_name }} Senior Living Facilities &amp; Care Homes</h1>
+<p class="lead">{{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in the {{ page.region_name }} region of {{ page.state_name }}, organized by city.</p>
+
+{{ content }}
+
+<div class="state-layout">
+  <div class="state-side">
+    {%- if page.map %}
+    <figure class="state-map">
+      <svg viewBox="0 0 {{ page.map.width }} {{ page.map.height }}" role="img"
+           aria-label="Map of {{ page.state_name }} showing {{ page.region_name }} cities with communities">
+        <path d="{{ page.map.outline }}" class="map-shape"/>
+        {%- for d in page.map.dots %}
+        <a href="#c-{{ d.slug }}" data-city="{{ d.slug }}" aria-label="{{ d.label | replace: '(', '— ' | replace: ')', ' communities' }}">
+          <circle cx="{{ d.x }}" cy="{{ d.y }}" r="{{ d.r }}" class="map-dot"><title>{{ d.label }}</title></circle>
+        </a>
+        {%- endfor %}
+      </svg>
+      <figcaption>Cities in this region with listed communities — hover or tap a dot for the name.</figcaption>
+    </figure>
+    {%- endif %}
+    <div class="state-resources">
+      {%- if page.licensing %}
+      <h2>How {{ page.state_name }} regulates senior care</h2>
+      <p>{{ page.licensing.note }} {% if page.licensing.lookup_url %}License &amp; inspection lookup:
+      <a href="{{ page.licensing.lookup_url }}" rel="noopener">{{ page.licensing.agency }}</a>.{% endif %}</p>
+      {%- endif %}
+      <h2>New to this?</h2>
+      <p>Start with <a href="/guides/how-to-choose-a-senior-care-facility/">how to choose a facility</a>,
+      <a href="/guides/levels-of-care-explained/">levels of care</a>, and the
+      <a href="/guides/touring-checklist/">touring checklist</a>.</p>
+      <p><a href="/directory/{{ page.state }}/">&larr; All {{ page.state_name }} regions</a></p>
+    </div>
+  </div>
+
+  <div class="state-list" aria-label="Communities in {{ page.region_name }} by city">
+    {%- for city in page.cities %}
+    <section aria-labelledby="c-{{ city.slug }}">
+      <h2 id="c-{{ city.slug }}">{{ city.name }}, {{ page.state_abbrev }} <span class="count">· {{ city.county_label }}</span></h2>
+      <ul class="grid">
+        {%- for f in city.facilities %}
+        {% include facility-card.html facility=f city=city.slug %}
+        {%- endfor %}
+      </ul>
+    </section>
+    {%- endfor %}
+    <p class="notice">Know a community that's missing? <a href="/for-communities/">Add or update a listing</a>.</p>
+  </div>
+</div>
+
+{% include ad-slot.html %}
+
+<script>
+(function () {
+  var find = function (sel) { return Array.prototype.slice.call(document.querySelectorAll(sel)); };
+  var link = function (els, targetSel) {
+    els.forEach(function (el) {
+      var key = el.getAttribute('data-city');
+      if (!key) return;
+      var on = function () { find(targetSel + '[data-city="' + key + '"]').forEach(function (t) { t.classList.add('hl'); }); };
+      var off = function () { find('.hl').forEach(function (t) { t.classList.remove('hl'); }); };
+      el.addEventListener('mouseenter', on); el.addEventListener('mouseleave', off);
+      el.addEventListener('focusin', on); el.addEventListener('focusout', off);
+      el.addEventListener('touchstart', function () { off(); on(); }, { passive: true });
+    });
+  };
+  link(find('.state-list .card[data-city]'), '.state-map a');
+  link(find('.state-map a[data-city]'), '.state-list .card');
+})();
+</script>

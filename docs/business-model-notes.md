@@ -41,3 +41,17 @@ richness" — without ever publicly promising future pricing.
   better position against a competitor on merit pages, and inspection-record links never
   come down. That line is what differentiates us from A Place for Mom-style models and it
   must survive monetization.
+
+
+## Monetization decisions (2026-07-12)
+
+- **No AdSense.** The ad slots stay off permanently for now — the site's speed is a product
+  feature, and the site markets the owner's own services instead (marketing programs,
+  freemium listings). Revenue per page beats revenue per click.
+- **Amazon affiliate links:** allowed, sparingly and contextually (e.g. caregiving products
+  inside relevant guides). Never in directory listings. Disclose per FTC when added.
+- **Photo & virtual-tour packages are PAID-ONLY.** Extensive visual showcases require skin
+  in the game — basic claimed listings get the two free images (exterior + logo); rooms,
+  layouts, virtual tours come with the paid tier or a photo-package purchase.
+- **Expansion roadmap:** Hawaii + Western states (AZ, UT, CO seeded 2026-07; next: NM, MT,
+  WY, AK) — staying in Pacific/Mountain time zones is a deliberate service-hours choice.

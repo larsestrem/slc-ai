@@ -171,6 +171,14 @@ tbody tr:hover { background: var(--soft); }
 .state-map a:hover .map-dot, .state-map a:focus .map-dot,
 .state-map a.hl .map-dot { fill: var(--gold); opacity: 1; r: 7px; }
 .state-map figcaption { color: var(--muted); font-size: .82rem; }
+/* Region colors (map dots + card accents) */
+.rc0 { fill: #0a58ca; } .rc1 { fill: #7c3aed; } .rc2 { fill: #0e7c62; } .rc3 { fill: #b45309; }
+.rc4 { fill: #be123c; } .rc5 { fill: #0369a1; } .rc6 { fill: #5b21b6; } .rc7 { fill: #92400e; }
+.map-dot.hl { fill: var(--gold) !important; }
+.rc-border0 { border-left: 5px solid #0a58ca; } .rc-border1 { border-left: 5px solid #7c3aed; }
+.rc-border2 { border-left: 5px solid #0e7c62; } .rc-border3 { border-left: 5px solid #b45309; }
+.rc-border4 { border-left: 5px solid #be123c; } .rc-border5 { border-left: 5px solid #0369a1; }
+.rc-border6 { border-left: 5px solid #5b21b6; } .rc-border7 { border-left: 5px solid #92400e; }
 .state-list .card.hl { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
 .state-resources { font-size: .92rem; }
 .state-resources h2 { font-size: 1.05rem; margin-top: 1.4rem; }
@@ -205,6 +213,16 @@ tbody tr:hover { background: var(--soft); }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .skip { position: absolute; left: -999px; top: 0; background: var(--surface); padding: .5rem 1rem; z-index: 10; }
 .skip:focus { left: .5rem; top: .5rem; }
+
+/* Print: families print guides to bring on tours */
+@media print {
+  .site-header, .site-footer, .crumbs, .ad-slot, .nav-toggle, .skip, .state-map svg { display: none !important; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  a { color: #000; }
+  .prose a[href^="/"]::after { content: " (senior.living.community" attr(href) ")"; font-size: 8.5pt; color: #555; }
+  .panel, .card, blockquote { border: 1px solid #bbb; break-inside: avoid; }
+  .two-col, .state-layout { display: block; }
+}
 </style>
 
   
@@ -284,6 +302,10 @@ tbody tr:hover { background: var(--soft); }
         <li><a href="/directory/nevada/">Nevada senior living</a></li>
         <li><a href="/directory/oregon/">Oregon senior living</a></li>
         <li><a href="/directory/washington/">Washington senior living</a></li>
+        <li><a href="/directory/arizona/">Arizona senior living</a></li>
+        <li><a href="/directory/colorado/">Colorado senior living</a></li>
+        <li><a href="/directory/hawaii/">Hawaii senior living</a></li>
+        <li><a href="/directory/utah/">Utah senior living</a></li>
       </ul>
     </div>
     <div>

@@ -11,6 +11,7 @@ related:
   - /guides/reading-inspection-reports-and-ratings/
   - /guides/food-and-dining/
   - /guides/whats-not-included-hidden-fees/
+faqs: [{"q": "How many facilities should we tour?", "a": "Three is the sweet spot — enough to compare, not so many that they blur. Tour your top choice twice, once scheduled and once unannounced, before deciding."}, {"q": "Should my parent come on the first tour?", "a": "Usually not. Do a first-pass tour yourself to screen out bad fits, then bring your parent to see the finalists. Dragging them through five buildings is exhausting and can harden resistance to the whole idea."}, {"q": "Is it really okay to just show up unannounced?", "a": "Yes, within reasonable visiting hours. You may not get a guided tour, but you can visit common areas as a prospective family. How the facility reacts to an unannounced visitor is itself useful information."}, {"q": "The tour was great and the price is right. Why wait?", "a": "Because the tour is the facility's best foot forward and contracts are hard to unwind. Sleep on it, make the unannounced visit, call the references, and read the agreement — including what's not included — before you sign anything."}]
 ---
 
 A facility tour is a sales presentation — a well-rehearsed one, led by someone whose job is move-ins. That doesn't mean tours are useless; it means you need to know what to look at while the marketing director points at the chandelier. This checklist covers what to observe, what to ask, and the red flags that matter more than anything in the brochure.

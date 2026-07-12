@@ -10,6 +10,7 @@ related:
   - /guides/types-of-senior-living-facilities/
   - /guides/cost-of-senior-living/
   - /guides/home-care-or-facility/
+faqs: [{"q": "Can my parents live together if they need different levels of care?", "a": "Often yes — many communities house couples in one apartment with different care packages, and CCRCs are built for exactly this. It's one of the most important questions to ask on a tour; see pets, partners, and age requirements."}, {"q": "Is \"nursing home\" the same as assisted living?", "a": "No — this is the single most common confusion. Assisted living provides help with daily activities in a residential setting; a nursing home (skilled nursing facility) provides round-the-clock medical care. They're licensed differently, cost differently, and are paid for differently — Medicaid routinely covers nursing homes but covers assisted living only through limited state waiver programs."}, {"q": "Who decides what level my parent needs?", "a": "Start with a frank assessment: the community will do its own, but an independent view from a physician, a geriatric care manager, or your local Area Agency on Aging keeps the community's financial incentive out of the answer."}, {"q": "What if we choose the wrong level?", "a": "It's recoverable. Communities reassess regularly, and a respite stay is a low-commitment way to test a level before signing anything."}]
 ---
 
 If you're trying to figure out what kind of care your parent actually needs, you've probably run

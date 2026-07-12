@@ -101,7 +101,24 @@ def load_geo():
     return json.loads(path.read_text()) if path.exists() else {"outlines": {}, "cities": {}}
 
 
-def build_map(state, facs, geo):
+REGION_PAGE_THRESHOLD = 25  # states with this many facilities get region navigation
+
+
+def load_regions():
+    path = ROOT / "data" / "regions.json"
+    data = json.loads(path.read_text()) if path.exists() else {}
+    data.pop("_comment", None)
+    return data
+
+
+def assign_region(f, state_regions):
+    for slug, r in state_regions.items():
+        if f["county"] in r["counties"]:
+            return slug
+    return "other-areas"
+
+
+def build_map(state, facs, geo, city_region=None, region_colors=None):
     """Inline-SVG state map: simplified outline + one clickable dot per city.
 
     Equirectangular projection with cos(mid-latitude) x-scaling — fine at state scale.
@@ -135,9 +152,14 @@ def build_map(state, facs, geo):
             continue
         lat, lon = city_coords[slug]
         x, y = pt(lon, lat)
-        dots.append({"slug": slug, "x": x, "y": y,
-                     "r": min(6, 3.5 + 0.7 * (info["count"] - 1)),
-                     "label": f"{info['name']} ({info['count']})"})
+        dot = {"slug": slug, "x": x, "y": y,
+               "r": min(6, 3.5 + 0.7 * (info["count"] - 1)),
+               "label": f"{info['name']} ({info['count']})"}
+        if city_region and slug in city_region:
+            dot["region"] = city_region[slug]
+            if region_colors:
+                dot["color"] = region_colors.get(city_region[slug], 0)
+        dots.append(dot)
     if missing:
         print(f"  !! no map coordinates for: {', '.join(missing)} (add to data/geo.json)")
     return {"width": width, "height": height, "outline": path, "dots": dots}
@@ -239,6 +261,89 @@ def gen_county_page(state, cslug, county_facs):
     write(DIRECTORY / state / cslug / "index.md", fm(front))
 
 
+def city_blocks_for(facs):
+    cities = {}
+    for f in facs:
+        c = cities.setdefault(f["city"], {"slug": f["city"], "name": f["city_name"],
+                                          "counties": set(), "facilities": []})
+        c["counties"].add(f["county_name"] + " County")
+        c["facilities"].append(f)
+    return [
+        {"slug": c["slug"], "name": c["name"],
+         "county_label": " / ".join(sorted(c["counties"])),
+         "facilities": [card(f) for f in sorted(c["facilities"], key=lambda x: x["name"])]}
+        for c in sorted(cities.values(), key=lambda c: c["name"])
+    ]
+
+
+def gen_region_page(state, rslug, rname, facs, meta, geo):
+    front = {
+        "layout": "region",
+        "title": f"{rname} Senior Living",
+        "seo_title": f"Senior Living in {rname}, {meta['abbrev']} — {len(facs)} Communities",
+        "description": f"Compare {len(facs)} senior living communities in {rname}, {meta['name']} — care levels, review evidence, and official inspection links for each.",
+        "region_name": rname, "state": state,
+        "state_name": meta["name"], "state_abbrev": meta["abbrev"],
+        "facility_count": len(facs),
+        "cities": city_blocks_for(facs),
+        "map": build_map(state, facs, geo),
+        "licensing": meta.get("licensing"),
+        "crumbs": [
+            {"name": "Directory", "url": "/directory/"},
+            {"name": meta["name"], "url": f"/directory/{state}/"},
+            {"name": rname, "url": f"/directory/{state}/{rslug}/"},
+        ],
+    }
+    write(DIRECTORY / state / rslug / "index.md", fm(front))
+
+
+def gen_state_page_regions(state, facs, meta, geo, state_regions):
+    region_names = {s: r["name"] for s, r in state_regions.items()}
+    region_names["other-areas"] = "Other Areas"
+    order = list(state_regions.keys()) + ["other-areas"]
+    colors = {s: i % 8 for i, s in enumerate(order)}
+    by_region, city_region = {}, {}
+    for f in facs:
+        r = f["_region"]
+        by_region.setdefault(r, []).append(f)
+        city_region[f["city"]] = r
+    region_cards = []
+    for rslug in order:
+        rl = by_region.get(rslug)
+        if not rl:
+            continue
+        cities = sorted({f["city_name"] for f in rl})
+        region_cards.append({
+            "slug": rslug, "name": region_names[rslug],
+            "url": f"/directory/{state}/{rslug}/",
+            "facility_count": len(rl), "color": colors[rslug],
+            "city_names": cities[:8] + (["…"] if len(cities) > 8 else []),
+        })
+        gen_region_page(state, rslug, region_names[rslug], rl, meta, geo)
+    level_counts = {}
+    for f in facs:
+        for lv in f.get("care_levels", []):
+            level_counts[lv] = level_counts.get(lv, 0) + 1
+    front = {
+        "layout": "state",
+        "care_level_counts": [{"slug": k, "count": v}
+                              for k, v in sorted(level_counts.items(), key=lambda kv: -kv[1])],
+        "title": f"{meta['name']} Senior Living",
+        "seo_title": f"Senior Living in {meta['name']} — Assisted Living, Memory Care & Nursing Homes",
+        "description": f"Find senior living in {meta['name']}: {len(facs)} communities across {len({f['city'] for f in facs})} cities, organized by region with care levels and inspection links.",
+        "state_name": meta["name"], "state_abbrev": meta["abbrev"],
+        "facility_count": len(facs),
+        "regions": region_cards,
+        "map": build_map(state, facs, geo, city_region, colors),
+        "licensing": meta.get("licensing"),
+        "crumbs": [
+            {"name": "Directory", "url": "/directory/"},
+            {"name": meta["name"], "url": f"/directory/{state}/"},
+        ],
+    }
+    write(DIRECTORY / state / "index.md", fm(front))
+
+
 def gen_state_page(state, facs, meta, geo):
     # Group directly by city (merged across county lines — Salem spans two counties)
     # so the state page links straight to facilities, no county/city hop.
@@ -278,7 +383,7 @@ def gen_state_page(state, facs, meta, geo):
     write(DIRECTORY / state / "index.md", fm(front))
 
 
-def gen_state(state, states_meta, stats, geo):
+def gen_state(state, states_meta, stats, geo, regions):
     loaded = load_state(state)
     if loaded is None:
         print(f"  !! no data file for {state} (data/facilities/{state}.json) — skipped")
@@ -304,7 +409,13 @@ def gen_state(state, states_meta, stats, geo):
             for f in city_facs:
                 gen_facility_page(f, city_facs, licensing)
 
-    gen_state_page(state, facs, meta, geo)
+    state_regions = regions.get(state, {})
+    if state_regions and len(facs) >= REGION_PAGE_THRESHOLD:
+        for f in facs:
+            f["_region"] = assign_region(f, state_regions)
+        gen_state_page_regions(state, facs, meta, geo, state_regions)
+    else:
+        gen_state_page(state, facs, meta, geo)
     stats["states"][state] = {
         "facilities": len(facs),
         "cities": len({(f["county"], f["city"]) for f in facs}),
@@ -379,6 +490,7 @@ def main():
 
     states_meta = read_states_meta()
     geo = load_geo()
+    regions = load_regions()
     if args.all:
         targets = sorted(p.stem for p in DATA.glob("*.json"))
     else:
@@ -401,7 +513,7 @@ def main():
     all_orgs, facilities_by_org, org_names = [], {}, {}
     for state in sorted(set(p.stem for p in DATA.glob("*.json"))):
         if state in targets:
-            orgs = gen_state(state, states_meta, stats, geo)
+            orgs = gen_state(state, states_meta, stats, geo, regions)
             if orgs is None:
                 continue
         else:

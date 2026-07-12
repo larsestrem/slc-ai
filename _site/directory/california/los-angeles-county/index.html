@@ -3,13 +3,12 @@
 <head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Senior Living in Los Angeles County, CA — 14 Communities | Senior Living Community</title>
-<meta name="description" content="Senior living in Los Angeles County, California: 14 communities across 12 cities, with care levels and inspection links.">
+<meta name="description" content="Compare 14 senior living communities in Los Angeles County, California — care levels, review evidence, and official inspection links for each.">
 <link rel="canonical" href="https://senior.living.community/directory/california/los-angeles-county/">
-<meta name="robots" content="noindex,follow">
 <meta property="og:site_name" content="Senior Living Community">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Senior Living in Los Angeles County, CA — 14 Communities">
-<meta property="og:description" content="Senior living in Los Angeles County, California: 14 communities across 12 cities, with care levels and inspection links.">
+<meta property="og:description" content="Compare 14 senior living communities in Los Angeles County, California — care levels, review evidence, and official inspection links for each.">
 <meta property="og:url" content="https://senior.living.community/directory/california/los-angeles-county/">
 <meta name="theme-color" content="#0a58ca">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%230a58ca'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
@@ -172,6 +171,14 @@ tbody tr:hover { background: var(--soft); }
 .state-map a:hover .map-dot, .state-map a:focus .map-dot,
 .state-map a.hl .map-dot { fill: var(--gold); opacity: 1; r: 7px; }
 .state-map figcaption { color: var(--muted); font-size: .82rem; }
+/* Region colors (map dots + card accents) */
+.rc0 { fill: #0a58ca; } .rc1 { fill: #7c3aed; } .rc2 { fill: #0e7c62; } .rc3 { fill: #b45309; }
+.rc4 { fill: #be123c; } .rc5 { fill: #0369a1; } .rc6 { fill: #5b21b6; } .rc7 { fill: #92400e; }
+.map-dot.hl { fill: var(--gold) !important; }
+.rc-border0 { border-left: 5px solid #0a58ca; } .rc-border1 { border-left: 5px solid #7c3aed; }
+.rc-border2 { border-left: 5px solid #0e7c62; } .rc-border3 { border-left: 5px solid #b45309; }
+.rc-border4 { border-left: 5px solid #be123c; } .rc-border5 { border-left: 5px solid #0369a1; }
+.rc-border6 { border-left: 5px solid #5b21b6; } .rc-border7 { border-left: 5px solid #92400e; }
 .state-list .card.hl { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
 .state-resources { font-size: .92rem; }
 .state-resources h2 { font-size: 1.05rem; margin-top: 1.4rem; }
@@ -206,6 +213,16 @@ tbody tr:hover { background: var(--soft); }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .skip { position: absolute; left: -999px; top: 0; background: var(--surface); padding: .5rem 1rem; z-index: 10; }
 .skip:focus { left: .5rem; top: .5rem; }
+
+/* Print: families print guides to bring on tours */
+@media print {
+  .site-header, .site-footer, .crumbs, .ad-slot, .nav-toggle, .skip, .state-map svg { display: none !important; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  a { color: #000; }
+  .prose a[href^="/"]::after { content: " (senior.living.community" attr(href) ")"; font-size: 8.5pt; color: #555; }
+  .panel, .card, blockquote { border: 1px solid #bbb; break-inside: avoid; }
+  .two-col, .state-layout { display: block; }
+}
 </style>
 
   
@@ -242,15 +259,74 @@ tbody tr:hover { background: var(--soft); }
 </script>
 
   <main id="main" class="wrap">
-    <h1>Los Angeles County, CA Senior Living Facilities</h1>
-<p class="lead">14 senior living communities in Los Angeles County, California, organized by city.</p>
+    <h1>Los Angeles County Senior Living Facilities &amp; Care Homes</h1>
+<p class="lead">14 senior living communities in the Los Angeles County region of California, organized by city.</p>
 
 
 
-<section aria-labelledby="c-beverly-hills">
-  <h2 id="c-beverly-hills"><a href="/directory/california/los-angeles-county/beverly-hills/">Beverly Hills, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+
+<div class="state-layout">
+  <div class="state-side">
+    <figure class="state-map">
+      <svg viewBox="0 0 340.0 390.1" role="img"
+           aria-label="Map of California showing Los Angeles County cities with communities">
+        <path d="M17.8,12.0 L147.4,12.0 L147.4,128.0 L312.6,282.6 L319.7,303.9 L328.0,311.2 L316.6,340.6 L309.8,370.8 L236.0,378.1 L230.5,358.0 L196.6,331.4 L193.5,320.1 L159.7,305.1 L128.3,300.0 L127.4,276.8 L88.9,220.8 L70.5,174.4 L55.1,155.1 L30.5,100.9 L12.0,72.3 L19.7,46.8 L17.8,12.0 Z" class="map-shape"/>
+        <a href="#c-beverly-hills" data-city="beverly-hills" aria-label="Beverly Hills — 1 communities">
+          <circle cx="196.6" cy="318.6" r="3.5" class="map-dot"><title>Beverly Hills (1)</title></circle>
+        </a>
+        <a href="#c-burbank" data-city="burbank" aria-label="Burbank — 1 communities">
+          <circle cx="199.4" cy="314.3" r="3.5" class="map-dot"><title>Burbank (1)</title></circle>
+        </a>
+        <a href="#c-glendale" data-city="glendale" aria-label="Glendale — 1 communities">
+          <circle cx="201.2" cy="315.9" r="3.5" class="map-dot"><title>Glendale (1)</title></circle>
+        </a>
+        <a href="#c-lancaster" data-city="lancaster" aria-label="Lancaster — 1 communities">
+          <circle cx="204.3" cy="294.6" r="3.5" class="map-dot"><title>Lancaster (1)</title></circle>
+        </a>
+        <a href="#c-long-beach" data-city="long-beach" aria-label="Long Beach — 1 communities">
+          <circle cx="203.1" cy="330.2" r="3.5" class="map-dot"><title>Long Beach (1)</title></circle>
+        </a>
+        <a href="#c-los-angeles" data-city="los-angeles" aria-label="Los Angeles — 3 communities">
+          <circle cx="201.5" cy="319.4" r="4.9" class="map-dot"><title>Los Angeles (3)</title></circle>
+        </a>
+        <a href="#c-northridge" data-city="northridge" aria-label="Northridge — 1 communities">
+          <circle cx="192.3" cy="312.4" r="3.5" class="map-dot"><title>Northridge (1)</title></circle>
+        </a>
+        <a href="#c-pasadena" data-city="pasadena" aria-label="Pasadena — 1 communities">
+          <circle cx="204.6" cy="315.5" r="3.5" class="map-dot"><title>Pasadena (1)</title></circle>
+        </a>
+        <a href="#c-santa-monica" data-city="santa-monica" aria-label="Santa Monica — 1 communities">
+          <circle cx="193.8" cy="320.5" r="3.5" class="map-dot"><title>Santa Monica (1)</title></circle>
+        </a>
+        <a href="#c-torrance" data-city="torrance" aria-label="Torrance — 1 communities">
+          <circle cx="198.5" cy="327.5" r="3.5" class="map-dot"><title>Torrance (1)</title></circle>
+        </a>
+        <a href="#c-whittier" data-city="whittier" aria-label="Whittier — 1 communities">
+          <circle cx="208.0" cy="322.1" r="3.5" class="map-dot"><title>Whittier (1)</title></circle>
+        </a>
+        <a href="#c-woodland-hills" data-city="woodland-hills" aria-label="Woodland Hills — 1 communities">
+          <circle cx="190.2" cy="314.7" r="3.5" class="map-dot"><title>Woodland Hills (1)</title></circle>
+        </a>
+      </svg>
+      <figcaption>Cities in this region with listed communities — hover or tap a dot for the name.</figcaption>
+    </figure>
+    <div class="state-resources">
+      <h2>How California regulates senior care</h2>
+      <p>Assisted living and residential care homes are licensed as RCFEs by the Community Care Licensing Division; skilled nursing facilities are certified by CMS and licensed by the California Department of Public Health. License &amp; inspection lookup:
+      <a href="https://www.ccld.dss.ca.gov/carefacilitysearch/" rel="noopener">California Department of Social Services, Community Care Licensing Division</a>.</p>
+      <h2>New to this?</h2>
+      <p>Start with <a href="/guides/how-to-choose-a-senior-care-facility/">how to choose a facility</a>,
+      <a href="/guides/levels-of-care-explained/">levels of care</a>, and the
+      <a href="/guides/touring-checklist/">touring checklist</a>.</p>
+      <p><a href="/directory/california/">&larr; All California regions</a></p>
+    </div>
+  </div>
+
+  <div class="state-list" aria-label="Communities in Los Angeles County by city">
+    <section aria-labelledby="c-beverly-hills">
+      <h2 id="c-beverly-hills">Beverly Hills, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="beverly-hills">
   <h3><a href="/directory/california/los-angeles-county/beverly-hills/sunrise-of-beverly-hills/">Sunrise of Beverly Hills</a></h3>
   <p class="meta">Beverly Hills, CA</p>
   
@@ -262,12 +338,12 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Sunrise of Beverly Hills is an assisted living and memory care community on North Crescent Drive in Beverly Hills, operated by Sunrise Se...</p>
 </li>
 
-  </ul>
-</section>
-<section aria-labelledby="c-burbank">
-  <h2 id="c-burbank"><a href="/directory/california/los-angeles-county/burbank/">Burbank, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+      </ul>
+    </section>
+    <section aria-labelledby="c-burbank">
+      <h2 id="c-burbank">Burbank, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="burbank">
   <h3><a href="/directory/california/los-angeles-county/burbank/belmont-village-senior-living-burbank/">Belmont Village Senior Living Burbank</a></h3>
   <p class="meta">Burbank, CA</p>
   
@@ -278,12 +354,12 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Assisted living and memory care community in downtown Burbank operated by Belmont Village Senior Living. U.S. News has named it a Best Se...</p>
 </li>
 
-  </ul>
-</section>
-<section aria-labelledby="c-glendale">
-  <h2 id="c-glendale"><a href="/directory/california/los-angeles-county/glendale/">Glendale, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+      </ul>
+    </section>
+    <section aria-labelledby="c-glendale">
+      <h2 id="c-glendale">Glendale, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="glendale">
   <h3><a href="/directory/california/los-angeles-county/glendale/sparr-heights-estates-senior-living/">Sparr Heights Estates Senior Living</a></h3>
   <p class="meta">Glendale, CA</p>
   
@@ -294,12 +370,12 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Assisted living and memory care community on Honolulu Avenue in the Montrose/Sparr Heights neighborhood of Glendale, operated by Sinceri ...</p>
 </li>
 
-  </ul>
-</section>
-<section aria-labelledby="c-lancaster">
-  <h2 id="c-lancaster"><a href="/directory/california/los-angeles-county/lancaster/">Lancaster, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+      </ul>
+    </section>
+    <section aria-labelledby="c-lancaster">
+      <h2 id="c-lancaster">Lancaster, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="lancaster">
   <h3><a href="/directory/california/los-angeles-county/lancaster/bellamar-lancaster/">Bellamar Lancaster</a></h3>
   <p class="meta">Lancaster, CA</p>
   
@@ -310,12 +386,12 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Assisted living and memory care community on 30th Street West in Lancaster, in the Antelope Valley, formerly known as Prestige Assisted L...</p>
 </li>
 
-  </ul>
-</section>
-<section aria-labelledby="c-long-beach">
-  <h2 id="c-long-beach"><a href="/directory/california/los-angeles-county/long-beach/">Long Beach, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+      </ul>
+    </section>
+    <section aria-labelledby="c-long-beach">
+      <h2 id="c-long-beach">Long Beach, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="long-beach">
   <h3><a href="/directory/california/los-angeles-county/long-beach/alamitos-belmont-health-and-rehabilitation/">Alamitos Belmont Health and Rehabilitation</a></h3>
   <p class="meta">Long Beach, CA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
 </p>
@@ -326,12 +402,12 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">94-bed Medicare- and Medicaid-certified skilled nursing facility in the Belmont Heights area of Long Beach offering short-term rehabilita...</p>
 </li>
 
-  </ul>
-</section>
-<section aria-labelledby="c-los-angeles">
-  <h2 id="c-los-angeles"><a href="/directory/california/los-angeles-county/los-angeles/">Los Angeles, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+      </ul>
+    </section>
+    <section aria-labelledby="c-los-angeles">
+      <h2 id="c-los-angeles">Los Angeles, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="los-angeles">
   <h3><a href="/directory/california/los-angeles-county/los-angeles/hollenbeck-palms/">Hollenbeck Palms</a></h3>
   <p class="meta">Los Angeles, CA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
 </p>
@@ -345,7 +421,7 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Independent nonprofit continuing care retirement community established in 1890, set on eight and a half acres of gardens in the Boyle Hei...</p>
 </li>
 
-    <li class="card">
+        <li class="card" data-city="los-angeles">
   <h3><a href="/directory/california/los-angeles-county/los-angeles/silverado-beverly-place-memory-care-community/">Silverado Beverly Place Memory Care Community</a></h3>
   <p class="meta">Los Angeles, CA</p>
   
@@ -355,7 +431,7 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Silverado Beverly Place is a specialized memory care community in Los Angeles dedicated to residents living with Alzheimer's disease and ...</p>
 </li>
 
-    <li class="card">
+        <li class="card" data-city="los-angeles">
   <h3><a href="/directory/california/los-angeles-county/los-angeles/solheim-senior-community/">Solheim Senior Community</a></h3>
   <p class="meta">Los Angeles, CA</p>
   
@@ -369,12 +445,12 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Nonprofit senior community in the Eagle Rock neighborhood of Los Angeles, serving seniors since 1923 as a registered 501(c)(3) organizati...</p>
 </li>
 
-  </ul>
-</section>
-<section aria-labelledby="c-northridge">
-  <h2 id="c-northridge"><a href="/directory/california/los-angeles-county/northridge/">Northridge, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+      </ul>
+    </section>
+    <section aria-labelledby="c-northridge">
+      <h2 id="c-northridge">Northridge, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="northridge">
   <h3><a href="/directory/california/los-angeles-county/northridge/northridge-valley-senior-living/">Northridge Valley Senior Living</a></h3>
   <p class="meta">Northridge, CA</p>
   
@@ -385,12 +461,12 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Assisted living and memory care community on Lindley Avenue in the Northridge neighborhood of the San Fernando Valley, formerly known as ...</p>
 </li>
 
-  </ul>
-</section>
-<section aria-labelledby="c-pasadena">
-  <h2 id="c-pasadena"><a href="/directory/california/los-angeles-county/pasadena/">Pasadena, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+      </ul>
+    </section>
+    <section aria-labelledby="c-pasadena">
+      <h2 id="c-pasadena">Pasadena, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="pasadena">
   <h3><a href="/directory/california/los-angeles-county/pasadena/morningstar-of-pasadena/">MorningStar of Pasadena</a></h3>
   <p class="meta">Pasadena, CA</p>
   
@@ -401,12 +477,12 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Assisted living and memory care community on South Fair Oaks Avenue in Pasadena, operated by MorningStar Senior Living. The community ear...</p>
 </li>
 
-  </ul>
-</section>
-<section aria-labelledby="c-santa-monica">
-  <h2 id="c-santa-monica"><a href="/directory/california/los-angeles-county/santa-monica/">Santa Monica, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+      </ul>
+    </section>
+    <section aria-labelledby="c-santa-monica">
+      <h2 id="c-santa-monica">Santa Monica, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="santa-monica">
   <h3><a href="/directory/california/los-angeles-county/santa-monica/savant-of-santa-monica/">Savant of Santa Monica</a></h3>
   <p class="meta">Santa Monica, CA</p>
   
@@ -419,12 +495,12 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Senior living community on 17th Street in Santa Monica offering independent living, assisted living, memory care, and respite stays. The ...</p>
 </li>
 
-  </ul>
-</section>
-<section aria-labelledby="c-torrance">
-  <h2 id="c-torrance"><a href="/directory/california/los-angeles-county/torrance/">Torrance, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+      </ul>
+    </section>
+    <section aria-labelledby="c-torrance">
+      <h2 id="c-torrance">Torrance, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="torrance">
   <h3><a href="/directory/california/los-angeles-county/torrance/brookdale-south-bay/">Brookdale South Bay</a></h3>
   <p class="meta">Torrance, CA</p>
   
@@ -434,12 +510,12 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Independent living retirement community on Torrance Boulevard in Torrance, part of the national Brookdale Senior Living network. Amenitie...</p>
 </li>
 
-  </ul>
-</section>
-<section aria-labelledby="c-whittier">
-  <h2 id="c-whittier"><a href="/directory/california/los-angeles-county/whittier/">Whittier, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+      </ul>
+    </section>
+    <section aria-labelledby="c-whittier">
+      <h2 id="c-whittier">Whittier, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="whittier">
   <h3><a href="/directory/california/los-angeles-county/whittier/discovery-commons-whittier/">Discovery Commons Whittier</a></h3>
   <p class="meta">Whittier, CA</p>
   
@@ -450,12 +526,12 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Assisted living and memory care community on Burgess Avenue in Whittier, formerly known as Whittier Place Senior Living and now operated ...</p>
 </li>
 
-  </ul>
-</section>
-<section aria-labelledby="c-woodland-hills">
-  <h2 id="c-woodland-hills"><a href="/directory/california/los-angeles-county/woodland-hills/">Woodland Hills, CA</a></h2>
-  <ul class="grid">
-    <li class="card">
+      </ul>
+    </section>
+    <section aria-labelledby="c-woodland-hills">
+      <h2 id="c-woodland-hills">Woodland Hills, CA <span class="count">· Los Angeles County</span></h2>
+      <ul class="grid">
+        <li class="card" data-city="woodland-hills">
   <h3><a href="/directory/california/los-angeles-county/woodland-hills/motion-picture-television-hospital-skilled-nursing-facility/">Motion Picture & Television Hospital Skilled Nursing Facility</a></h3>
   <p class="meta">Woodland Hills, CA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
 </p>
@@ -466,14 +542,33 @@ tbody tr:hover { background: var(--soft); }
 <p class="desc">Nonprofit skilled nursing facility on the Motion Picture & Television Fund's Wasserman Campus in Woodland Hills, historically serving ent...</p>
 </li>
 
-  </ul>
-</section>
+      </ul>
+    </section>
+    <p class="notice">Know a community that's missing? <a href="/for-communities/">Add or update a listing</a>.</p>
+  </div>
+</div>
 
 
 
 
-<p class="notice">Don't see a community you know of? Coverage grows state by state —
-<a href="/for-communities/">communities can add or update a listing here</a>.</p>
+<script>
+(function () {
+  var find = function (sel) { return Array.prototype.slice.call(document.querySelectorAll(sel)); };
+  var link = function (els, targetSel) {
+    els.forEach(function (el) {
+      var key = el.getAttribute('data-city');
+      if (!key) return;
+      var on = function () { find(targetSel + '[data-city="' + key + '"]').forEach(function (t) { t.classList.add('hl'); }); };
+      var off = function () { find('.hl').forEach(function (t) { t.classList.remove('hl'); }); };
+      el.addEventListener('mouseenter', on); el.addEventListener('mouseleave', off);
+      el.addEventListener('focusin', on); el.addEventListener('focusout', off);
+      el.addEventListener('touchstart', function () { off(); on(); }, { passive: true });
+    });
+  };
+  link(find('.state-list .card[data-city]'), '.state-map a');
+  link(find('.state-map a[data-city]'), '.state-list .card');
+})();
+</script>
 
   </main>
   <footer class="site-footer">
@@ -486,6 +581,10 @@ tbody tr:hover { background: var(--soft); }
         <li><a href="/directory/nevada/">Nevada senior living</a></li>
         <li><a href="/directory/oregon/">Oregon senior living</a></li>
         <li><a href="/directory/washington/">Washington senior living</a></li>
+        <li><a href="/directory/arizona/">Arizona senior living</a></li>
+        <li><a href="/directory/colorado/">Colorado senior living</a></li>
+        <li><a href="/directory/hawaii/">Hawaii senior living</a></li>
+        <li><a href="/directory/utah/">Utah senior living</a></li>
       </ul>
     </div>
     <div>

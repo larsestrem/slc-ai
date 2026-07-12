@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Senior Living in Washington — Assisted Living, Memory Care &amp; Nursing Homes | Senior Living Community</title>
-<meta name="description" content="Find senior living in Washington: 58 communities across 35 cities, with care levels, sizes, and links to official state inspection records.">
+<meta name="description" content="Find senior living in Washington: 58 communities across 35 cities, organized by region with care levels and inspection links.">
 <link rel="canonical" href="https://senior.living.community/directory/washington/">
 <meta property="og:site_name" content="Senior Living Community">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Senior Living in Washington — Assisted Living, Memory Care &amp; Nursing Homes">
-<meta property="og:description" content="Find senior living in Washington: 58 communities across 35 cities, with care levels, sizes, and links to official state inspection records.">
+<meta property="og:description" content="Find senior living in Washington: 58 communities across 35 cities, organized by region with care levels and inspection links.">
 <meta property="og:url" content="https://senior.living.community/directory/washington/">
 <meta name="theme-color" content="#0a58ca">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%230a58ca'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
@@ -171,6 +171,14 @@ tbody tr:hover { background: var(--soft); }
 .state-map a:hover .map-dot, .state-map a:focus .map-dot,
 .state-map a.hl .map-dot { fill: var(--gold); opacity: 1; r: 7px; }
 .state-map figcaption { color: var(--muted); font-size: .82rem; }
+/* Region colors (map dots + card accents) */
+.rc0 { fill: #0a58ca; } .rc1 { fill: #7c3aed; } .rc2 { fill: #0e7c62; } .rc3 { fill: #b45309; }
+.rc4 { fill: #be123c; } .rc5 { fill: #0369a1; } .rc6 { fill: #5b21b6; } .rc7 { fill: #92400e; }
+.map-dot.hl { fill: var(--gold) !important; }
+.rc-border0 { border-left: 5px solid #0a58ca; } .rc-border1 { border-left: 5px solid #7c3aed; }
+.rc-border2 { border-left: 5px solid #0e7c62; } .rc-border3 { border-left: 5px solid #b45309; }
+.rc-border4 { border-left: 5px solid #be123c; } .rc-border5 { border-left: 5px solid #0369a1; }
+.rc-border6 { border-left: 5px solid #5b21b6; } .rc-border7 { border-left: 5px solid #92400e; }
 .state-list .card.hl { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
 .state-resources { font-size: .92rem; }
 .state-resources h2 { font-size: 1.05rem; margin-top: 1.4rem; }
@@ -205,6 +213,16 @@ tbody tr:hover { background: var(--soft); }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .skip { position: absolute; left: -999px; top: 0; background: var(--surface); padding: .5rem 1rem; z-index: 10; }
 .skip:focus { left: .5rem; top: .5rem; }
+
+/* Print: families print guides to bring on tours */
+@media print {
+  .site-header, .site-footer, .crumbs, .ad-slot, .nav-toggle, .skip, .state-map svg { display: none !important; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  a { color: #000; }
+  .prose a[href^="/"]::after { content: " (senior.living.community" attr(href) ")"; font-size: 8.5pt; color: #555; }
+  .panel, .card, blockquote { border: 1px solid #bbb; break-inside: avoid; }
+  .two-col, .state-layout { display: block; }
+}
 </style>
 
   
@@ -241,8 +259,7 @@ tbody tr:hover { background: var(--soft); }
 
   <main id="main" class="wrap">
     <h1>Washington Senior Living Facilities &amp; Care Homes</h1>
-<p class="lead">58 senior living communities in Washington — pick a city on the map, or browse the list. Hover or tap a community to see where it is.</p>
-
+<p class="lead">58 senior living communities in Washington. Pick your region — each color on the map is one region — and browse its communities city by city.</p>
 
 
 
@@ -250,981 +267,159 @@ tbody tr:hover { background: var(--soft); }
   <div class="state-side">
     <figure class="state-map">
       <svg viewBox="0 0 340.0 230.9" role="img"
-           aria-label="Map of Washington showing cities with senior living communities">
+           aria-label="Map of Washington with communities colored by region">
         <path d="M12.0,48.9 L78.9,61.6 L92.8,12.6 L328.0,12.0 L328.0,193.5 L248.0,193.5 L222.5,198.4 L169.2,214.7 L115.8,218.9 L92.8,216.5 L74.8,184.4 L44.0,178.4 L37.9,139.1 L23.5,84.6 L12.0,48.9 Z" class="map-shape"/>
-        <a href="#c-battle-ground" data-city="battle-ground" aria-label="Battle Ground — 1 communities">
-          <circle cx="102.3" cy="206.8" r="3.5" class="map-dot"><title>Battle Ground (1)</title></circle>
+        <a href="/directory/washington/southwest-washington/" data-region="southwest-washington" aria-label="Battle Ground — 1 communities">
+          <circle cx="102.3" cy="206.8" r="3.5" class="map-dot rc2"><title>Battle Ground (1)</title></circle>
         </a>
-        <a href="#c-bellevue" data-city="bellevue" aria-label="Bellevue — 2 communities">
-          <circle cx="115.8" cy="96.1" r="4.2" class="map-dot"><title>Bellevue (2)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Bellevue — 2 communities">
+          <circle cx="115.8" cy="96.1" r="4.2" class="map-dot rc0"><title>Bellevue (2)</title></circle>
         </a>
-        <a href="#c-bothell" data-city="bothell" aria-label="Bothell — 1 communities">
-          <circle cx="115.4" cy="87.0" r="3.5" class="map-dot"><title>Bothell (1)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Bothell — 1 communities">
+          <circle cx="115.4" cy="87.0" r="3.5" class="map-dot rc0"><title>Bothell (1)</title></circle>
         </a>
-        <a href="#c-bremerton" data-city="bremerton" aria-label="Bremerton — 1 communities">
-          <circle cx="98.2" cy="98.5" r="3.5" class="map-dot"><title>Bremerton (1)</title></circle>
+        <a href="/directory/washington/south-sound-peninsula/" data-region="south-sound-peninsula" aria-label="Bremerton — 1 communities">
+          <circle cx="98.2" cy="98.5" r="3.5" class="map-dot rc1"><title>Bremerton (1)</title></circle>
         </a>
-        <a href="#c-camas" data-city="camas" aria-label="Camas — 1 communities">
-          <circle cx="107.6" cy="218.3" r="3.5" class="map-dot"><title>Camas (1)</title></circle>
+        <a href="/directory/washington/southwest-washington/" data-region="southwest-washington" aria-label="Camas — 1 communities">
+          <circle cx="107.6" cy="218.3" r="3.5" class="map-dot rc2"><title>Camas (1)</title></circle>
         </a>
-        <a href="#c-chehalis" data-city="chehalis" aria-label="Chehalis — 1 communities">
-          <circle cx="84.6" cy="153.6" r="3.5" class="map-dot"><title>Chehalis (1)</title></circle>
+        <a href="/directory/washington/south-sound-peninsula/" data-region="south-sound-peninsula" aria-label="Chehalis — 1 communities">
+          <circle cx="84.6" cy="153.6" r="3.5" class="map-dot rc1"><title>Chehalis (1)</title></circle>
         </a>
-        <a href="#c-east-wenatchee" data-city="east-wenatchee" aria-label="East Wenatchee — 1 communities">
-          <circle cx="194.2" cy="107.6" r="3.5" class="map-dot"><title>East Wenatchee (1)</title></circle>
+        <a href="/directory/washington/eastern-central-washington/" data-region="eastern-central-washington" aria-label="East Wenatchee — 1 communities">
+          <circle cx="194.2" cy="107.6" r="3.5" class="map-dot rc3"><title>East Wenatchee (1)</title></circle>
         </a>
-        <a href="#c-edmonds" data-city="edmonds" aria-label="Edmonds — 1 communities">
-          <circle cx="108.4" cy="84.0" r="3.5" class="map-dot"><title>Edmonds (1)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Edmonds — 1 communities">
+          <circle cx="108.4" cy="84.0" r="3.5" class="map-dot rc0"><title>Edmonds (1)</title></circle>
         </a>
-        <a href="#c-ellensburg" data-city="ellensburg" aria-label="Ellensburg — 1 communities">
-          <circle cx="183.5" cy="133.6" r="3.5" class="map-dot"><title>Ellensburg (1)</title></circle>
+        <a href="/directory/washington/eastern-central-washington/" data-region="eastern-central-washington" aria-label="Ellensburg — 1 communities">
+          <circle cx="183.5" cy="133.6" r="3.5" class="map-dot rc3"><title>Ellensburg (1)</title></circle>
         </a>
-        <a href="#c-everett" data-city="everett" aria-label="Everett — 2 communities">
-          <circle cx="115.8" cy="73.7" r="4.2" class="map-dot"><title>Everett (2)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Everett — 2 communities">
+          <circle cx="115.8" cy="73.7" r="4.2" class="map-dot rc0"><title>Everett (2)</title></circle>
         </a>
-        <a href="#c-gig-harbor" data-city="gig-harbor" aria-label="Gig Harbor — 2 communities">
-          <circle cx="100.2" cy="113.0" r="4.2" class="map-dot"><title>Gig Harbor (2)</title></circle>
+        <a href="/directory/washington/south-sound-peninsula/" data-region="south-sound-peninsula" aria-label="Gig Harbor — 2 communities">
+          <circle cx="100.2" cy="113.0" r="4.2" class="map-dot rc1"><title>Gig Harbor (2)</title></circle>
         </a>
-        <a href="#c-issaquah" data-city="issaquah" aria-label="Issaquah — 1 communities">
-          <circle cx="122.8" cy="100.9" r="3.5" class="map-dot"><title>Issaquah (1)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Issaquah — 1 communities">
+          <circle cx="122.8" cy="100.9" r="3.5" class="map-dot rc0"><title>Issaquah (1)</title></circle>
         </a>
-        <a href="#c-kennewick" data-city="kennewick" aria-label="Kennewick — 2 communities">
-          <circle cx="241.4" cy="180.8" r="4.2" class="map-dot"><title>Kennewick (2)</title></circle>
+        <a href="/directory/washington/eastern-central-washington/" data-region="eastern-central-washington" aria-label="Kennewick — 2 communities">
+          <circle cx="241.4" cy="180.8" r="4.2" class="map-dot rc3"><title>Kennewick (2)</title></circle>
         </a>
-        <a href="#c-kent" data-city="kent" aria-label="Kent — 1 communities">
-          <circle cx="114.6" cy="110.0" r="3.5" class="map-dot"><title>Kent (1)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Kent — 1 communities">
+          <circle cx="114.6" cy="110.0" r="3.5" class="map-dot rc0"><title>Kent (1)</title></circle>
         </a>
-        <a href="#c-kirkland" data-city="kirkland" aria-label="Kirkland — 1 communities">
-          <circle cx="115.4" cy="91.9" r="3.5" class="map-dot"><title>Kirkland (1)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Kirkland — 1 communities">
+          <circle cx="115.4" cy="91.9" r="3.5" class="map-dot rc0"><title>Kirkland (1)</title></circle>
         </a>
-        <a href="#c-longview" data-city="longview" aria-label="Longview — 1 communities">
-          <circle cx="85.5" cy="185.0" r="3.5" class="map-dot"><title>Longview (1)</title></circle>
+        <a href="/directory/washington/southwest-washington/" data-region="southwest-washington" aria-label="Longview — 1 communities">
+          <circle cx="85.5" cy="185.0" r="3.5" class="map-dot rc2"><title>Longview (1)</title></circle>
         </a>
-        <a href="#c-lynnwood" data-city="lynnwood" aria-label="Lynnwood — 1 communities">
-          <circle cx="110.9" cy="83.4" r="3.5" class="map-dot"><title>Lynnwood (1)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Lynnwood — 1 communities">
+          <circle cx="110.9" cy="83.4" r="3.5" class="map-dot rc0"><title>Lynnwood (1)</title></circle>
         </a>
-        <a href="#c-mercer-island" data-city="mercer-island" aria-label="Mercer Island — 1 communities">
-          <circle cx="114.6" cy="98.5" r="3.5" class="map-dot"><title>Mercer Island (1)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Mercer Island — 1 communities">
+          <circle cx="114.6" cy="98.5" r="3.5" class="map-dot rc0"><title>Mercer Island (1)</title></circle>
         </a>
-        <a href="#c-moses-lake" data-city="moses-lake" aria-label="Moses Lake — 1 communities">
-          <circle cx="235.7" cy="125.1" r="3.5" class="map-dot"><title>Moses Lake (1)</title></circle>
+        <a href="/directory/washington/eastern-central-washington/" data-region="eastern-central-washington" aria-label="Moses Lake — 1 communities">
+          <circle cx="235.7" cy="125.1" r="3.5" class="map-dot rc3"><title>Moses Lake (1)</title></circle>
         </a>
-        <a href="#c-olympia" data-city="olympia" aria-label="Olympia — 2 communities">
-          <circle cx="87.1" cy="130.6" r="4.2" class="map-dot"><title>Olympia (2)</title></circle>
+        <a href="/directory/washington/south-sound-peninsula/" data-region="south-sound-peninsula" aria-label="Olympia — 2 communities">
+          <circle cx="87.1" cy="130.6" r="4.2" class="map-dot rc1"><title>Olympia (2)</title></circle>
         </a>
-        <a href="#c-poulsbo" data-city="poulsbo" aria-label="Poulsbo — 1 communities">
-          <circle cx="97.4" cy="88.2" r="3.5" class="map-dot"><title>Poulsbo (1)</title></circle>
+        <a href="/directory/washington/south-sound-peninsula/" data-region="south-sound-peninsula" aria-label="Poulsbo — 1 communities">
+          <circle cx="97.4" cy="88.2" r="3.5" class="map-dot rc1"><title>Poulsbo (1)</title></circle>
         </a>
-        <a href="#c-puyallup" data-city="puyallup" aria-label="Puyallup — 1 communities">
-          <circle cx="112.1" cy="121.5" r="3.5" class="map-dot"><title>Puyallup (1)</title></circle>
+        <a href="/directory/washington/south-sound-peninsula/" data-region="south-sound-peninsula" aria-label="Puyallup — 1 communities">
+          <circle cx="112.1" cy="121.5" r="3.5" class="map-dot rc1"><title>Puyallup (1)</title></circle>
         </a>
-        <a href="#c-redmond" data-city="redmond" aria-label="Redmond — 1 communities">
-          <circle cx="119.1" cy="92.5" r="3.5" class="map-dot"><title>Redmond (1)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Redmond — 1 communities">
+          <circle cx="119.1" cy="92.5" r="3.5" class="map-dot rc0"><title>Redmond (1)</title></circle>
         </a>
-        <a href="#c-renton" data-city="renton" aria-label="Renton — 1 communities">
-          <circle cx="115.8" cy="104.0" r="3.5" class="map-dot"><title>Renton (1)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Renton — 1 communities">
+          <circle cx="115.8" cy="104.0" r="3.5" class="map-dot rc0"><title>Renton (1)</title></circle>
         </a>
-        <a href="#c-seattle" data-city="seattle" aria-label="Seattle — 5 communities">
-          <circle cx="110.5" cy="96.1" r="6" class="map-dot"><title>Seattle (5)</title></circle>
+        <a href="/directory/washington/seattle-puget-sound/" data-region="seattle-puget-sound" aria-label="Seattle — 5 communities">
+          <circle cx="110.5" cy="96.1" r="6" class="map-dot rc0"><title>Seattle (5)</title></circle>
         </a>
-        <a href="#c-sequim" data-city="sequim" aria-label="Sequim — 1 communities">
-          <circle cx="78.9" cy="67.7" r="3.5" class="map-dot"><title>Sequim (1)</title></circle>
+        <a href="/directory/washington/south-sound-peninsula/" data-region="south-sound-peninsula" aria-label="Sequim — 1 communities">
+          <circle cx="78.9" cy="67.7" r="3.5" class="map-dot rc1"><title>Sequim (1)</title></circle>
         </a>
-        <a href="#c-silverdale" data-city="silverdale" aria-label="Silverdale — 1 communities">
-          <circle cx="95.7" cy="94.3" r="3.5" class="map-dot"><title>Silverdale (1)</title></circle>
+        <a href="/directory/washington/south-sound-peninsula/" data-region="south-sound-peninsula" aria-label="Silverdale — 1 communities">
+          <circle cx="95.7" cy="94.3" r="3.5" class="map-dot rc1"><title>Silverdale (1)</title></circle>
         </a>
-        <a href="#c-spokane" data-city="spokane" aria-label="Spokane — 3 communities">
-          <circle cx="311.6" cy="93.1" r="4.9" class="map-dot"><title>Spokane (3)</title></circle>
+        <a href="/directory/washington/eastern-central-washington/" data-region="eastern-central-washington" aria-label="Spokane — 3 communities">
+          <circle cx="311.6" cy="93.1" r="4.9" class="map-dot rc3"><title>Spokane (3)</title></circle>
         </a>
-        <a href="#c-spokane-valley" data-city="spokane-valley" aria-label="Spokane Valley — 2 communities">
-          <circle cx="319.4" cy="93.1" r="4.2" class="map-dot"><title>Spokane Valley (2)</title></circle>
+        <a href="/directory/washington/eastern-central-washington/" data-region="eastern-central-washington" aria-label="Spokane Valley — 2 communities">
+          <circle cx="319.4" cy="93.1" r="4.2" class="map-dot rc3"><title>Spokane Valley (2)</title></circle>
         </a>
-        <a href="#c-tacoma" data-city="tacoma" aria-label="Tacoma — 3 communities">
-          <circle cx="106.0" cy="117.9" r="4.9" class="map-dot"><title>Tacoma (3)</title></circle>
+        <a href="/directory/washington/south-sound-peninsula/" data-region="south-sound-peninsula" aria-label="Tacoma — 3 communities">
+          <circle cx="106.0" cy="117.9" r="4.9" class="map-dot rc1"><title>Tacoma (3)</title></circle>
         </a>
-        <a href="#c-vancouver" data-city="vancouver" aria-label="Vancouver — 10 communities">
-          <circle cx="97.0" cy="215.3" r="6" class="map-dot"><title>Vancouver (10)</title></circle>
+        <a href="/directory/washington/southwest-washington/" data-region="southwest-washington" aria-label="Vancouver — 10 communities">
+          <circle cx="97.0" cy="215.3" r="6" class="map-dot rc2"><title>Vancouver (10)</title></circle>
         </a>
-        <a href="#c-walla-walla" data-city="walla-walla" aria-label="Walla Walla — 1 communities">
-          <circle cx="274.2" cy="189.9" r="3.5" class="map-dot"><title>Walla Walla (1)</title></circle>
+        <a href="/directory/washington/eastern-central-washington/" data-region="eastern-central-washington" aria-label="Walla Walla — 1 communities">
+          <circle cx="274.2" cy="189.9" r="3.5" class="map-dot rc3"><title>Walla Walla (1)</title></circle>
         </a>
-        <a href="#c-washougal" data-city="washougal" aria-label="Washougal — 1 communities">
-          <circle cx="109.7" cy="218.9" r="3.5" class="map-dot"><title>Washougal (1)</title></circle>
+        <a href="/directory/washington/southwest-washington/" data-region="southwest-washington" aria-label="Washougal — 1 communities">
+          <circle cx="109.7" cy="218.9" r="3.5" class="map-dot rc2"><title>Washougal (1)</title></circle>
         </a>
-        <a href="#c-wenatchee" data-city="wenatchee" aria-label="Wenatchee — 1 communities">
-          <circle cx="193.4" cy="107.6" r="3.5" class="map-dot"><title>Wenatchee (1)</title></circle>
+        <a href="/directory/washington/eastern-central-washington/" data-region="eastern-central-washington" aria-label="Wenatchee — 1 communities">
+          <circle cx="193.4" cy="107.6" r="3.5" class="map-dot rc3"><title>Wenatchee (1)</title></circle>
         </a>
-        <a href="#c-yakima" data-city="yakima" aria-label="Yakima — 1 communities">
-          <circle cx="185.2" cy="157.2" r="3.5" class="map-dot"><title>Yakima (1)</title></circle>
+        <a href="/directory/washington/eastern-central-washington/" data-region="eastern-central-washington" aria-label="Yakima — 1 communities">
+          <circle cx="185.2" cy="157.2" r="3.5" class="map-dot rc3"><title>Yakima (1)</title></circle>
         </a>
       </svg>
-      <figcaption>Simplified map — each dot is a city with communities (hover or tap for the name; dot size reflects how many). Helpful when your parents live in a state you don't know well.</figcaption>
+      <figcaption>Each color is a region — pick a region below to browse its communities.</figcaption>
     </figure>
-
     <div class="state-resources">
       <h2>What's available in Washington</h2>
       <ul>
-        <li><a href="/guides/assisted-living/">Assisted Living</a> — 41 communities</li>
-        <li><a href="/guides/independent-living/">Independent Living</a> — 36 communities</li>
-        <li><a href="/guides/memory-care/">Memory Care</a> — 28 communities</li>
-        <li><a href="/guides/skilled-nursing/">Skilled Nursing</a> — 12 communities</li>
-        <li><a href="/guides/respite-care/">Respite Care</a> — 5 communities</li>
-        <li><a href="/guides/adult-family-homes/">Small Care Home</a> — 4 communities</li>
-        <li><a href="/guides/ccrc-life-plan-communities/">CCRC / Life Plan</a> — 2 communities</li>
+        <li><a href="/guides/assisted-living/">Assisted Living</a> — 41</li>
+        <li><a href="/guides/independent-living/">Independent Living</a> — 36</li>
+        <li><a href="/guides/memory-care/">Memory Care</a> — 28</li>
+        <li><a href="/guides/skilled-nursing/">Skilled Nursing</a> — 12</li>
+        <li><a href="/guides/respite-care/">Respite Care</a> — 5</li>
+        <li><a href="/guides/adult-family-homes/">Small Care Home</a> — 4</li>
+        <li><a href="/guides/ccrc-life-plan-communities/">CCRC / Life Plan</a> — 2</li>
       </ul>
       <h2>How Washington regulates senior care</h2>
-      <p>Assisted living facilities and Adult Family Homes are licensed by DSHS; Washington has one of the largest small-home (Adult Family Home) sectors in the country.</p><p><strong>Small homes:</strong> Adult Family Homes care for up to 8 residents in a residential home — <a href="/guides/adult-family-homes/">how to evaluate one</a>.</p>
-
-      <h2>Washington resources for families</h2>
-      <ul>
-        <li><a href="https://fortress.wa.gov/dshs/adsaapps/lookup/" rel="noopener">Washington DSHS Aging and Long-Term Support Administration</a> — license &amp; inspection lookup (<a href="/guides/reading-inspection-reports-and-ratings/">how to read reports</a>)</li>
-        <li>Eldercare Locator — 1-800-677-1116 — free federal referral line to local aging services</li>
-        <li>Your local Area Agency on Aging — options counseling and <a href="/guides/government-assistance-programs/">help paying for care</a></li>
-        <li>Long-Term Care Ombudsman — resident advocates who know each facility's complaint history</li>
-      </ul>
-
+      <p>Assisted living facilities and Adult Family Homes are licensed by DSHS; Washington has one of the largest small-home (Adult Family Home) sectors in the country. Lookup:
+      <a href="https://fortress.wa.gov/dshs/adsaapps/lookup/" rel="noopener">Washington DSHS Aging and Long-Term Support Administration</a>.</p>
       <h2>New to this?</h2>
-      <p>Start with <a href="/guides/how-to-choose-a-senior-care-facility/">how to choose a facility</a>,
-      <a href="/guides/levels-of-care-explained/">levels of care</a>, and
-      <a href="/guides/cost-of-senior-living/">what it really costs</a>.</p>
+      <p>Start with <a href="/guides/how-to-choose-a-senior-care-facility/">how to choose a facility</a>
+      and <a href="/guides/cost-of-senior-living/">what it really costs</a>.</p>
     </div>
   </div>
-
-  <div class="state-list" id="communities" aria-label="Communities in Washington by city">
-    <section aria-labelledby="c-battle-ground">
-      <h2 id="c-battle-ground">Battle Ground, WA <span class="count">· Clark County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="battle-ground">
-  <h3><a href="/directory/washington/clark-county/battle-ground/mallard-landing-by-cogir/">Mallard Landing by Cogir</a></h3>
-  <p class="meta">Battle Ground, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Mallard Landing by Cogir is an 85-bed licensed assisted living community in downtown Battle Ground offering assisted living apartments an...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-bellevue">
-      <h2 id="c-bellevue">Bellevue, WA <span class="count">· King County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="bellevue">
-  <h3><a href="/directory/washington/king-county/bellevue/cascades-adult-family-home/">Cascades Adult Family Home</a></h3>
-  <p class="meta">Bellevue, WA · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Cascades Adult Family Home is a Washington state-licensed adult family home in Bellevue providing residential care and memory care in a h...</p>
-</li>
-
-        <li class="card" data-city="bellevue">
-  <h3><a href="/directory/washington/king-county/bellevue/sunrise-of-bellevue/">Sunrise of Bellevue</a></h3>
-  <p class="meta">Bellevue, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Assisted living and memory care community in east Bellevue, part of the national Sunrise Senior Living network. Families praise the excep...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-bothell">
-      <h2 id="c-bothell">Bothell, WA <span class="count">· King County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="bothell">
-  <h3><a href="/directory/washington/king-county/bothell/chateau-bothell-landing/">Chateau Bothell Landing</a></h3>
-  <p class="meta">Bothell, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">Family-owned senior living community nestled along the Sammamish River Trail in downtown Bothell, offering independent living, assisted l...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-bremerton">
-      <h2 id="c-bremerton">Bremerton, WA <span class="count">· Kitsap County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="bremerton">
-  <h3><a href="/directory/washington/kitsap-county/bremerton/bay-pointe-by-cogir/">Bay Pointe by Cogir</a></h3>
-  <p class="meta">Bremerton, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Bay Pointe by Cogir sits on Oyster Bay in Bremerton and has served seniors for more than 20 years, offering independent living, assisted ...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-camas">
-      <h2 id="c-camas">Camas, WA <span class="count">· Clark County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="camas">
-  <h3><a href="/directory/washington/clark-county/camas/lacamas-creek-post-acute/">Lacamas Creek Post Acute</a></h3>
-  <p class="meta">Camas, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Lacamas Creek Post Acute is an 83-bed Medicare- and Medicaid-certified skilled nursing facility in Camas, Washington, owned by PACS Group...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-chehalis">
-      <h2 id="c-chehalis">Chehalis, WA <span class="count">· Lewis County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="chehalis">
-  <h3><a href="/directory/washington/lewis-county/chehalis/village-concepts-of-chehalis-woodland-village/">Village Concepts of Chehalis - Woodland Village</a></h3>
-  <p class="meta">Chehalis, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Woodland Village is a Village Concepts retirement community in Chehalis offering independent living, assisted living, memory care support...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-east-wenatchee">
-      <h2 id="c-east-wenatchee">East Wenatchee, WA <span class="count">· Douglas County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="east-wenatchee">
-  <h3><a href="/directory/washington/douglas-county/east-wenatchee/bonaventure-of-east-wenatchee/">Bonaventure of East Wenatchee</a></h3>
-  <p class="meta">East Wenatchee, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Bonaventure of East Wenatchee is a senior living community in East Wenatchee, in central Washington, offering retirement (independent) li...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-edmonds">
-      <h2 id="c-edmonds">Edmonds, WA <span class="count">· Snohomish County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="edmonds">
-  <h3><a href="/directory/washington/snohomish-county/edmonds/edmonds-landing-by-cogir/">Edmonds Landing by Cogir</a></h3>
-  <p class="meta">Edmonds, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurant...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-ellensburg">
-      <h2 id="c-ellensburg">Ellensburg, WA <span class="count">· Kittitas County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="ellensburg">
-  <h3><a href="/directory/washington/kittitas-county/ellensburg/ellensburg-senior-living/">Ellensburg Senior Living</a></h3>
-  <p class="meta">Ellensburg, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Ellensburg Senior Living offers independent living, assisted living, and memory care in a college-town setting near Central Washington Un...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-everett">
-      <h2 id="c-everett">Everett, WA <span class="count">· Snohomish County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="everett">
-  <h3><a href="/directory/washington/snohomish-county/everett/compassionate-care-adult-family-home/">Compassionate Care Adult Family Home LLC</a></h3>
-  <p class="meta">Everett, WA · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-</ul>
-<p class="desc">State-licensed six-bed adult family home in south Everett providing 24-hour residential care in a home setting. Focuses on high-quality, ...</p>
-</li>
-
-        <li class="card" data-city="everett">
-  <h3><a href="/directory/washington/snohomish-county/everett/washington-oakes/">Washington Oakes</a></h3>
-  <p class="meta">Everett, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Independent and assisted living community in downtown Everett managed by Leisure Care, voted Best Independent Living and Best Assisted Li...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-gig-harbor">
-      <h2 id="c-gig-harbor">Gig Harbor, WA <span class="count">· Pierce County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="gig-harbor">
-  <h3><a href="/directory/washington/pierce-county/gig-harbor/harbor-place-at-cottesmore/">Harbor Place at Cottesmore</a></h3>
-  <p class="meta">Gig Harbor, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Harbor Place at Cottesmore offers 40 independent retirement apartments and 60 assisted living apartments on a Gig Harbor campus shared wi...</p>
-</li>
-
-        <li class="card" data-city="gig-harbor">
-  <h3><a href="/directory/washington/pierce-county/gig-harbor/the-lodge-at-mallards-landing/">The Lodge at Mallard's Landing</a></h3>
-  <p class="meta">Gig Harbor, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">The Lodge at Mallard's Landing is a retirement community in Gig Harbor offering independent living cottages plus assisted living, memory ...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-issaquah">
-      <h2 id="c-issaquah">Issaquah, WA <span class="count">· King County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="issaquah">
-  <h3><a href="/directory/washington/king-county/issaquah/aegis-living-issaquah/">Aegis Living Issaquah</a></h3>
-  <p class="meta">Issaquah, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Assisted living and memory care community near downtown Issaquah, part of Bellevue-based Aegis Living. Known for its cottage-style campus...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-kennewick">
-      <h2 id="c-kennewick">Kennewick, WA <span class="count">· Benton County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="kennewick">
-  <h3><a href="/directory/washington/benton-county/kennewick/parkview-estates/">Parkview Estates</a></h3>
-  <p class="meta">Kennewick, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Parkview Estates is a 120-bed retirement and assisted living community in Kennewick operated by Regency Pacific. Families describe an inv...</p>
-</li>
-
-        <li class="card" data-city="kennewick">
-  <h3><a href="/directory/washington/benton-county/kennewick/regency-canyon-lakes-rehabilitation-and-nursing-center/">Regency Canyon Lakes Rehabilitation and Nursing Center</a></h3>
-  <p class="meta">Kennewick, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">Regency Canyon Lakes is a 53-bed Medicare- and Medicaid-certified skilled nursing facility in south Kennewick offering short-term rehabil...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-kent">
-      <h2 id="c-kent">Kent, WA <span class="count">· King County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="kent">
-  <h3><a href="/directory/washington/king-county/kent/farrington-court/">Farrington Court</a></h3>
-  <p class="meta">Kent, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">A 62+ independent and assisted living community that has been a cornerstone of Kent for over 50 years, now part of Stellar Senior Living....</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-kirkland">
-      <h2 id="c-kirkland">Kirkland, WA <span class="count">· King County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="kirkland">
-  <h3><a href="/directory/washington/king-county/kirkland/madison-house/">Madison House</a></h3>
-  <p class="meta">Kirkland, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Independent and assisted living community in Kirkland's Totem Lake area, operated by family-owned Koelsch Communities. Located directly a...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-longview">
-      <h2 id="c-longview">Longview, WA <span class="count">· Cowlitz County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="longview">
-  <h3><a href="/directory/washington/cowlitz-county/longview/canterbury-inn/">Canterbury Inn</a></h3>
-  <p class="meta">Longview, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Canterbury Inn is a Koelsch Communities property in Longview offering independent living, assisted living and memory care, with licensed ...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-lynnwood">
-      <h2 id="c-lynnwood">Lynnwood, WA <span class="count">· Snohomish County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="lynnwood">
-  <h3><a href="/directory/washington/snohomish-county/lynnwood/americas-best-adult-family-home/">America's Best Adult Family Home</a></h3>
-  <p class="meta">Lynnwood, WA · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-</ul>
-<p class="desc">Licensed adult family home in Lynnwood serving the Lynnwood and Edmonds area with personalized 24-hour senior care in a residential setti...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-mercer-island">
-      <h2 id="c-mercer-island">Mercer Island, WA <span class="count">· King County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="mercer-island">
-  <h3><a href="/directory/washington/king-county/mercer-island/aljoya-mercer-island/">Aljoya Mercer Island</a></h3>
-  <p class="meta">Mercer Island, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Continuing care retirement community (CCRC) in the town center of Mercer Island, operated by Seattle-based Era Living. Offers independent...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-moses-lake">
-      <h2 id="c-moses-lake">Moses Lake, WA <span class="count">· Grant County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="moses-lake">
-  <h3><a href="/directory/washington/grant-county/moses-lake/summer-wood-alzheimers-special-care-center/">Summer Wood Alzheimer's Special Care Center</a></h3>
-  <p class="meta">Moses Lake, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Summer Wood Alzheimer's Special Care Center is a dedicated memory care community in Moses Lake serving residents with Alzheimer's disease...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-olympia">
-      <h2 id="c-olympia">Olympia, WA <span class="count">· Thurston County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="olympia">
-  <h3><a href="/directory/washington/thurston-county/olympia/fieldstone-cooper-point/">Fieldstone Cooper Point</a></h3>
-  <p class="meta">Olympia, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Fieldstone Cooper Point is a 120-bed independent and assisted living community on Olympia's west side, part of Washington-based Fieldston...</p>
-</li>
-
-        <li class="card" data-city="olympia">
-  <h3><a href="/directory/washington/thurston-county/olympia/providence-mother-joseph-care-center/">Providence Mother Joseph Care Center</a></h3>
-  <p class="meta">Olympia, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
-</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Providence Mother Joseph Care Center is a 152-bed Medicare- and Medicaid-certified skilled nursing facility in Olympia, part of the Provi...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-poulsbo">
-      <h2 id="c-poulsbo">Poulsbo, WA <span class="count">· Kitsap County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="poulsbo">
-  <h3><a href="/directory/washington/kitsap-county/poulsbo/liberty-shores-senior-living/">Liberty Shores Senior Living</a></h3>
-  <p class="meta">Poulsbo, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Liberty Shores Senior Living is a 112-bed assisted living community with specialized dementia care on Liberty Bay in Poulsbo, one of the ...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-puyallup">
-      <h2 id="c-puyallup">Puyallup, WA <span class="count">· Pierce County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="puyallup">
-  <h3><a href="/directory/washington/pierce-county/puyallup/fieldstone-memory-care-puyallup/">Fieldstone Memory Care Puyallup</a></h3>
-  <p class="meta">Puyallup, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Fieldstone Memory Care Puyallup is a dedicated memory care community on South Meridian in Puyallup, operated by Washington-based Fieldsto...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-redmond">
-      <h2 id="c-redmond">Redmond, WA <span class="count">· King County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="redmond">
-  <h3><a href="/directory/washington/king-county/redmond/fairwinds-redmond/">Fairwinds - Redmond</a></h3>
-  <p class="meta">Redmond, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Independent and assisted living retirement community on Avondale Road in Redmond, managed by Seattle-based Leisure Care. Amenities includ...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-renton">
-      <h2 id="c-renton">Renton, WA <span class="count">· King County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="renton">
-  <h3><a href="/directory/washington/king-county/renton/merrill-gardens-at-renton-centre/">Merrill Gardens at Renton Centre</a></h3>
-  <p class="meta">Renton, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care. Winner of the...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-seattle">
-      <h2 id="c-seattle">Seattle, WA <span class="count">· King County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="seattle">
-  <h3><a href="/directory/washington/king-county/seattle/aegis-living-queen-anne-rodgers-park/">Aegis Living Queen Anne Rodgers Park</a></h3>
-  <p class="meta">Seattle, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Aegis Living Queen Anne Rodgers Park is an assisted living and memory care community on Queen Anne Hill in Seattle, across from Rodgers P...</p>
-</li>
-
-        <li class="card" data-city="seattle">
-  <h3><a href="/directory/washington/king-county/seattle/caroline-kline-galland-home/">Caroline Kline Galland Home</a></h3>
-  <p class="meta">Seattle, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Nonprofit Jewish-heritage skilled nursing and rehabilitation campus on the shores of Lake Washington in Seward Park, serving Seattle sinc...</p>
-</li>
-
-        <li class="card" data-city="seattle">
-  <h3><a href="/directory/washington/king-county/seattle/columbia-lutheran-home/">Columbia Lutheran Home</a></h3>
-  <p class="meta">Seattle, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
-</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">One of the Pacific Northwest's longest-operating standalone not-for-profit nursing homes, located in Seattle's Phinney Ridge neighborhood...</p>
-</li>
-
-        <li class="card" data-city="seattle">
-  <h3><a href="/directory/washington/king-county/seattle/merrill-gardens-at-ballard/">Merrill Gardens at Ballard</a></h3>
-  <p class="meta">Seattle, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Merrill Gardens at Ballard is a senior living community in the heart of Seattle's Ballard neighborhood offering independent living, assis...</p>
-</li>
-
-        <li class="card" data-city="seattle">
-  <h3><a href="/directory/washington/king-county/seattle/university-house-wallingford/">University House Wallingford</a></h3>
-  <p class="meta">Seattle, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">University House Wallingford is an Era Living retirement community in Seattle's Wallingford neighborhood, opened in 1997, with 146 one- a...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-sequim">
-      <h2 id="c-sequim">Sequim, WA <span class="count">· Clallam County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="sequim">
-  <h3><a href="/directory/washington/clallam-county/sequim/avamere-olympic-rehabilitation-of-sequim/">Avamere Olympic Rehabilitation of Sequim</a></h3>
-  <p class="meta">Sequim, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Avamere Olympic Rehabilitation of Sequim is a Medicare- and Medicaid-certified skilled nursing and rehabilitation facility with 125 feder...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-silverdale">
-      <h2 id="c-silverdale">Silverdale, WA <span class="count">· Kitsap County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="silverdale">
-  <h3><a href="/directory/washington/kitsap-county/silverdale/northwoods-lodge/">Northwoods Lodge</a></h3>
-  <p class="meta">Silverdale, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Northwoods Lodge is a 57-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Silverdale, established in 1...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-spokane">
-      <h2 id="c-spokane">Spokane, WA <span class="count">· Spokane County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="spokane">
-  <h3><a href="/directory/washington/spokane-county/spokane/fairwinds-spokane/">Fairwinds - Spokane</a></h3>
-  <p class="meta">Spokane, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Fairwinds - Spokane is a large independent and assisted living community on the north side of Spokane, operated by Leisure Care. Resident...</p>
-</li>
-
-        <li class="card" data-city="spokane">
-  <h3><a href="/directory/washington/spokane-county/spokane/rockwood-south-hill/">Rockwood South Hill</a></h3>
-  <p class="meta">Spokane, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-</ul>
-<p class="desc">Rockwood South Hill is a nonprofit continuing care retirement community (CCRC) on Spokane's South Hill, operated by Rockwood Retirement C...</p>
-</li>
-
-        <li class="card" data-city="spokane">
-  <h3><a href="/directory/washington/spokane-county/spokane/touchmark-on-south-hill/">Touchmark on South Hill</a></h3>
-  <p class="meta">Spokane, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Touchmark on South Hill is a full-service retirement community on a 19-acre campus on Spokane's South Hill, near Manito Park. It offers i...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-spokane-valley">
-      <h2 id="c-spokane-valley">Spokane Valley, WA <span class="count">· Spokane County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="spokane-valley">
-  <h3><a href="/directory/washington/spokane-county/spokane-valley/broadway-court-estates/">Broadway Court Estates</a></h3>
-  <p class="meta">Spokane Valley, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-</ul>
-<p class="desc">Broadway Court Estates is a family-run independent living community in Spokane Valley. Reviewers repeatedly highlight the cleanliness of ...</p>
-</li>
-
-        <li class="card" data-city="spokane-valley">
-  <h3><a href="/directory/washington/spokane-county/spokane-valley/sullivan-park-assisted-living-community/">Sullivan Park Assisted Living Community</a></h3>
-  <p class="meta">Spokane Valley, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-</ul>
-<p class="desc">Sullivan Park Assisted Living Community offers assisted living and independent living in Spokane Valley, with a skilled nursing and rehab...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-tacoma">
-      <h2 id="c-tacoma">Tacoma, WA <span class="count">· Pierce County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="tacoma">
-  <h3><a href="/directory/washington/pierce-county/tacoma/franke-tobey-jones/">Franke Tobey Jones</a></h3>
-  <p class="meta">Tacoma, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Franke Tobey Jones is a not-for-profit senior living campus in North Tacoma offering independent living, assisted living, memory care, an...</p>
-</li>
-
-        <li class="card" data-city="tacoma">
-  <h3><a href="/directory/washington/pierce-county/tacoma/merrill-gardens-at-wright-park/">Merrill Gardens at Wright Park</a></h3>
-  <p class="meta">Tacoma, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Merrill Gardens at Wright Park offers independent living, assisted living and memory care in Tacoma's Stadium District, next door to Wrig...</p>
-</li>
-
-        <li class="card" data-city="tacoma">
-  <h3><a href="/directory/washington/pierce-county/tacoma/weatherly-inn-tacoma/">Weatherly Inn Tacoma</a></h3>
-  <p class="meta">Tacoma, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">Weatherly Inn Tacoma is a family-operated senior living community in north Tacoma offering independent living, assisted living, memory ca...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-vancouver">
-      <h2 id="c-vancouver">Vancouver, WA <span class="count">· Clark County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="vancouver">
-  <h3><a href="/directory/washington/clark-county/vancouver/best-care-adult-family-home/">Best Care Adult Family Home</a></h3>
-  <p class="meta">Vancouver, WA · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-</ul>
-<p class="desc">Best Care Adult Family Home is a Washington state-licensed, 6-bed adult family home in Vancouver offering residential senior care in a ho...</p>
-</li>
-
-        <li class="card" data-city="vancouver">
-  <h3><a href="/directory/washington/clark-county/vancouver/bonaventure-of-vancouver/">Bonaventure of Vancouver</a></h3>
-  <p class="meta">Vancouver, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Bonaventure of Vancouver is a senior living community in Vancouver, Washington offering retirement (independent) living, assisted living,...</p>
-</li>
-
-        <li class="card" data-city="vancouver">
-  <h3><a href="/directory/washington/clark-county/vancouver/cogir-at-the-quarry/">Cogir at The Quarry</a></h3>
-  <p class="meta">Vancouver, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Cogir at The Quarry is a large senior living campus at Columbia Tech Center in east Vancouver offering independent living, assisted livin...</p>
-</li>
-
-        <li class="card" data-city="vancouver">
-  <h3><a href="/directory/washington/clark-county/vancouver/cogir-of-glenwood-place/">Cogir of Glenwood Place</a></h3>
-  <p class="meta">Vancouver, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Cogir of Glenwood Place (formerly Glenwood Place Senior Living) is a craftsman-style senior living community in the Orchards area of Vanc...</p>
-</li>
-
-        <li class="card" data-city="vancouver">
-  <h3><a href="/directory/washington/clark-county/vancouver/highgate-at-vancouver/">Highgate at Vancouver</a></h3>
-  <p class="meta">Vancouver, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Highgate at Vancouver is a 71-bed licensed assisted living and memory care community in the Hazel Dell neighborhood, near Legacy Salmon C...</p>
-</li>
-
-        <li class="card" data-city="vancouver">
-  <h3><a href="/directory/washington/clark-county/vancouver/hudson-bay-health-and-rehabilitation/">Hudson Bay Health and Rehabilitation</a></h3>
-  <p class="meta">Vancouver, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Hudson Bay Health and Rehabilitation is a 92-bed Medicare- and Medicaid-certified skilled nursing facility in Vancouver operated by Casca...</p>
-</li>
-
-        <li class="card" data-city="vancouver">
-  <h3><a href="/directory/washington/clark-county/vancouver/prestige-senior-living-bridgewood/">Prestige Senior Living Bridgewood</a></h3>
-  <p class="meta">Vancouver, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Prestige Senior Living Bridgewood is an independent and assisted living community in a park-like setting in east Vancouver, Washington, n...</p>
-</li>
-
-        <li class="card" data-city="vancouver">
-  <h3><a href="/directory/washington/clark-county/vancouver/the-springs-at-the-waterfront/">The Springs at The Waterfront</a></h3>
-  <p class="meta">Vancouver, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">The Springs at The Waterfront is a 12-story, 360,000-square-foot senior living community on Vancouver's Columbia River waterfront, opened...</p>
-</li>
-
-        <li class="card" data-city="vancouver">
-  <h3><a href="/directory/washington/clark-county/vancouver/touchmark-at-fairway-village/">Touchmark at Fairway Village</a></h3>
-  <p class="meta">Vancouver, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Touchmark at Fairway Village is a full-service retirement community on an 18-acre campus in east Vancouver, offering independent living c...</p>
-</li>
-
-        <li class="card" data-city="vancouver">
-  <h3><a href="/directory/washington/clark-county/vancouver/truewood-by-merrill-vancouver/">Truewood by Merrill, Vancouver</a></h3>
-  <p class="meta">Vancouver, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-</ul>
-<p class="desc">Truewood by Merrill, Vancouver is a pet-friendly independent living community in the Cascade Park area of east Vancouver, offering studio...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-walla-walla">
-      <h2 id="c-walla-walla">Walla Walla, WA <span class="count">· Walla Walla County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="walla-walla">
-  <h3><a href="/directory/washington/walla-walla-county/walla-walla/park-manor-rehabilitation-center/">Park Manor Rehabilitation Center</a></h3>
-  <p class="meta">Walla Walla, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Park Manor Rehabilitation Center is a 99-bed Medicare- and Medicaid-certified skilled nursing facility in Walla Walla providing short-ter...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-washougal">
-      <h2 id="c-washougal">Washougal, WA <span class="count">· Clark County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="washougal">
-  <h3><a href="/directory/washington/clark-county/washougal/columbia-ridge-senior-living/">Columbia Ridge Senior Living</a></h3>
-  <p class="meta">Washougal, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Columbia Ridge Senior Living is an assisted living community in Washougal with 70 apartment homes in studio and one-bedroom floor plans. ...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-wenatchee">
-      <h2 id="c-wenatchee">Wenatchee, WA <span class="count">· Chelan County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="wenatchee">
-  <h3><a href="/directory/washington/chelan-county/wenatchee/wenatchee-senior-living-by-cogir/">Wenatchee Senior Living by Cogir</a></h3>
-  <p class="meta">Wenatchee, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Wenatchee Senior Living by Cogir (formerly Avamere at Wenatchee) has welcomed seniors since 1995 and offers independent and assisted livi...</p>
-</li>
-
-      </ul>
-    </section>
-    <section aria-labelledby="c-yakima">
-      <h2 id="c-yakima">Yakima, WA <span class="count">· Yakima County</span></h2>
-      <ul class="grid">
-        <li class="card" data-city="yakima">
-  <h3><a href="/directory/washington/yakima-county/yakima/highgate-senior-living-yakima/">Highgate Senior Living - Yakima</a></h3>
-  <p class="meta">Yakima, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Highgate Senior Living - Yakima provides assisted living and a separate secure memory care neighborhood in a quiet residential area on Ya...</p>
-</li>
-
-      </ul>
-    </section>
-    <p class="notice">Know a community that's missing? Coverage grows state by state —
-    <a href="/for-communities/">add or update a listing</a>.</p>
+  <div>
+    <h2 style="margin-top:0">Browse Washington by region</h2>
+    <ul class="grid region-cards">
+      <li class="card rc-border0" data-region="seattle-puget-sound">
+        <h3><a href="/directory/washington/seattle-puget-sound/">Seattle & Puget Sound</a></h3>
+        <p class="meta">18 communities</p>
+        <p class="desc">Bellevue, Bothell, Edmonds, Everett, Issaquah, Kent, Kirkland, Lynnwood, …</p>
+      </li>
+      <li class="card rc-border1" data-region="south-sound-peninsula">
+        <h3><a href="/directory/washington/south-sound-peninsula/">South Sound & Peninsula</a></h3>
+        <p class="meta">13 communities</p>
+        <p class="desc">Bremerton, Chehalis, Gig Harbor, Olympia, Poulsbo, Puyallup, Sequim, Silverdale, …</p>
+      </li>
+      <li class="card rc-border2" data-region="southwest-washington">
+        <h3><a href="/directory/washington/southwest-washington/">Southwest Washington</a></h3>
+        <p class="meta">14 communities</p>
+        <p class="desc">Battle Ground, Camas, Longview, Vancouver, Washougal</p>
+      </li>
+      <li class="card rc-border3" data-region="eastern-central-washington">
+        <h3><a href="/directory/washington/eastern-central-washington/">Eastern & Central Washington</a></h3>
+        <p class="meta">13 communities</p>
+        <p class="desc">East Wenatchee, Ellensburg, Kennewick, Moses Lake, Spokane, Spokane Valley, Walla Walla, Wenatchee, …</p>
+      </li>
+    </ul>
   </div>
 </div>
 
@@ -1232,24 +427,15 @@ tbody tr:hover { background: var(--soft); }
 
 
 <script>
-// Hovering/tapping a community card highlights its city on the map (and back).
 (function () {
   var find = function (sel) { return Array.prototype.slice.call(document.querySelectorAll(sel)); };
-  var link = function (els, getKey, targetSel) {
-    els.forEach(function (el) {
-      var key = getKey(el);
-      if (!key) return;
-      var on = function () { find(targetSel + '[data-city="' + key + '"]').forEach(function (t) { t.classList.add('hl'); }); };
-      var off = function () { find('.hl').forEach(function (t) { t.classList.remove('hl'); }); };
-      el.addEventListener('mouseenter', on);
-      el.addEventListener('mouseleave', off);
-      el.addEventListener('focusin', on);
-      el.addEventListener('focusout', off);
-      el.addEventListener('touchstart', function () { off(); on(); }, { passive: true });
-    });
-  };
-  link(find('.state-list .card[data-city]'), function (el) { return el.getAttribute('data-city'); }, '.state-map a');
-  link(find('.state-map a[data-city]'), function (el) { return el.getAttribute('data-city'); }, '.state-list .card');
+  find('.region-cards .card[data-region]').forEach(function (el) {
+    var key = el.getAttribute('data-region');
+    var on = function () { find('.state-map a[data-region="' + key + '"] .map-dot').forEach(function (t) { t.classList.add('hl'); }); };
+    var off = function () { find('.map-dot.hl').forEach(function (t) { t.classList.remove('hl'); }); };
+    el.addEventListener('mouseenter', on); el.addEventListener('mouseleave', off);
+    el.addEventListener('focusin', on); el.addEventListener('focusout', off);
+  });
 })();
 </script>
 
@@ -1264,6 +450,10 @@ tbody tr:hover { background: var(--soft); }
         <li><a href="/directory/nevada/">Nevada senior living</a></li>
         <li><a href="/directory/oregon/">Oregon senior living</a></li>
         <li><a href="/directory/washington/">Washington senior living</a></li>
+        <li><a href="/directory/arizona/">Arizona senior living</a></li>
+        <li><a href="/directory/colorado/">Colorado senior living</a></li>
+        <li><a href="/directory/hawaii/">Hawaii senior living</a></li>
+        <li><a href="/directory/utah/">Utah senior living</a></li>
       </ul>
     </div>
     <div>

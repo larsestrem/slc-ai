@@ -10,6 +10,7 @@ related:
   - /guides/touring-checklist/
   - /guides/placement-professionals/
   - /guides/coping-with-the-decision/
+faqs: [{"q": "Is a placement service really free to me?", "a": "Yes — you almost never pay the specialist directly; the community pays them after move-in. \"Free to you\" isn't the same as \"free of incentives,\" though, which is why the conflict-of-interest question above matters."}, {"q": "Will using a placement specialist raise the price of the community?", "a": "Communities treat placement fees as a marketing cost, like a realtor's commission on a home sale. Rates are generally the same either way — and you should still negotiate move-in incentives yourself regardless of how you found the community."}, {"q": "Do I still need to tour if I use a specialist?", "a": "Absolutely. A good specialist narrows the field and joins your tours — they don't replace your own eyes. Never choose a community you haven't visited."}, {"q": "What if my parent will need Medicaid soon?", "a": "Tell the specialist up front. Because placement fees come from communities, some services quietly deprioritize families heading toward Medicaid — a good one will say plainly whether they can help and point you to your Area Agency on Aging if they can't."}]
 ---
 
 Choosing a senior care community usually lands on one family member's shoulders, on short

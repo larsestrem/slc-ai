@@ -40,3 +40,35 @@
     lookup_url: "https://fortress.wa.gov/dshs/adsaapps/lookup/"
     small_home: "Adult Family Homes care for up to 8 residents in a residential home"
     note: "Assisted living facilities and Adult Family Homes are licensed by DSHS; Washington has one of the largest small-home (Adult Family Home) sectors in the country."
+- slug: arizona
+  name: Arizona
+  abbrev: AZ
+  licensing:
+    agency: "Arizona Department of Health Services, Bureau of Residential Facilities Licensing"
+    lookup_url: "https://azdhs.gov/licensing/"
+    small_home: "Assisted living homes care for up to 10 residents in residential settings"
+    note: "Assisted living centers and small assisted living homes are licensed by the Arizona Department of Health Services; skilled nursing facilities are CMS-certified."
+- slug: colorado
+  name: Colorado
+  abbrev: CO
+  licensing:
+    agency: "Colorado Department of Public Health & Environment, Health Facilities Division"
+    lookup_url: "https://cdphe.colorado.gov/health-facilities"
+    small_home: "Smaller assisted living residences operate under the same state license as larger ones"
+    note: "Assisted living residences are licensed by CDPHE's Health Facilities and EMS Division; skilled nursing facilities are CMS-certified."
+- slug: hawaii
+  name: Hawaii
+  abbrev: HI
+  licensing:
+    agency: "Hawaii Department of Health, Office of Health Care Assurance"
+    lookup_url: "https://health.hawaii.gov/ohca/"
+    small_home: "Adult Residential Care Homes serve small groups of residents in family-style homes"
+    note: "Assisted living facilities and Adult Residential Care Homes are licensed by the Hawaii Department of Health's Office of Health Care Assurance."
+- slug: utah
+  name: Utah
+  abbrev: UT
+  licensing:
+    agency: "Utah Department of Health & Human Services, Licensing & Background Checks"
+    lookup_url: "https://dhhs.utah.gov/licensing/"
+    small_home: "Type I and Type II assisted living licenses cover both small homes and large communities"
+    note: "Assisted living facilities are licensed by Utah DHHS (Type I for more independent residents, Type II for higher care needs); skilled nursing facilities are CMS-certified."

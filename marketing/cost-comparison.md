@@ -69,3 +69,22 @@ Demand is what buys you the room to do admissions well. That flywheel — care q
 - Broadcast, mail, and billboards make you visible to thousands of people who will never need you, and can't tell you what they produced.
 
 Questions about your specific situation and budget? Email **marketing@senior.living.community** — we'll give you a straight read, including "keep doing what you're doing" if that's the honest answer.
+
+## Direct mail vs. targeted search: the structural difference
+
+With direct mail, you pay three times before anyone responds: you **buy the mailing list**,
+you **pay to print**, and you **pay postage** — all spent before you know whether a single
+household is actually thinking about senior care this year. Response rates under 1% aren't a
+failure of your mailer; they're the math of broadcasting to people who mostly aren't in the
+market.
+
+Targeted digital advertising inverts that structure. The ad is shown only to people who meet
+your criteria — searching your service, in your area, right now — and you pay only when one
+of them clicks. Targeting is never perfect, but well-optimized campaigns paired with a landing
+page that matches the search intent position you exactly where the family already wants to
+go. The result isn't just cheaper traffic: it's **better-fit inquiries and a higher
+conversion rate**, because the person arrived mid-decision instead of mid-dinner.
+
+And that's the whole formula: as long as your tour team can convert families and your care
+quality holds up, getting the right people in the door is the piece marketing solves —
+everything else falls into place from there.

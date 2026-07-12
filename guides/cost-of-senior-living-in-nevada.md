@@ -9,6 +9,7 @@ related:
   - /guides/cost-of-senior-living/
   - /guides/paying-for-senior-care/
   - /guides/medicaid-vs-medicare/
+faqs: [{"q": "Is assisted living cheaper in Las Vegas than the state median suggests?", "a": "Often, yes — supply is deep and competition is real, especially in older buildings. But new luxury communities in Summerlin or Henderson can run $8,000+. The metro spans the widest price range in the state."}, {"q": "Why are Nevada nursing homes so expensive when assisted living is near the national median?", "a": "Limited skilled nursing supply and high labor costs push daily rates up. That gap is why Nevada's Medicaid program works hard to keep people in home and community settings."}, {"q": "Does Medicare cover assisted living in Nevada?", "a": "No — Medicare never covers assisted living or long-term custodial care in any state, only short rehab stays and limited home health. See Medicaid vs. Medicare."}, {"q": "How solid is the memory care estimate?", "a": "It's an estimate — the survey publishes no memory care median. The 20-30% premium over assisted living is the typical national pattern; always price the actual secured unit."}]
 ---
 
 Nevada sits in an odd middle zone: cheaper than its West Coast neighbors, but now above the national median for most senior care. If you're comparing Las Vegas to Reno — or to a parent's home state — the numbers below give you a fair baseline.
@@ -17,9 +18,9 @@ Nevada sits in an odd middle zone: cheaper than its West Coast neighbors, but no
 
 Statewide medians from the 2024 CareScout (Genworth) Cost of Care Survey. Half of providers charge more, half less, and northern and southern Nevada price very differently:
 
-- **In-home care (44 hours/week):** homemaker services about $6,864/month ($82,368/year); a home health aide about $7,245/month ($86,944/year)
-- **Assisted living:** about $6,110/month ($73,320/year), versus a national median near $5,900
-- **Memory care:** no official state median exists; using the typical assisted-living-plus-20-30% premium, plan on roughly **$7,300-$7,900/month** (our estimate, not a survey figure)
+- **[In-home care](/guides/in-home-care-explained/) (44 hours/week):** homemaker services about $6,864/month ($82,368/year); a home health aide about $7,245/month ($86,944/year)
+- **[Assisted living](/guides/assisted-living/):** about $6,110/month ($73,320/year), versus a national median near $5,900
+- **[Memory care](/guides/memory-care/):** no official state median exists; using the typical assisted-living-plus-20-30% premium, plan on roughly **$7,300-$7,900/month** (our estimate, not a survey figure)
 - **Nursing home, semi-private room:** about $11,209/month ($134,503/year)
 - **Nursing home, private room:** about $12,790/month ($153,483/year)
 
@@ -54,7 +55,7 @@ Honest caveats: the waiver covers care services only, never room and board; enro
 Often, yes — supply is deep and competition is real, especially in older buildings. But new luxury communities in Summerlin or Henderson can run $8,000+. The metro spans the widest price range in the state.
 
 **Why are Nevada nursing homes so expensive when assisted living is near the national median?**
-Limited skilled nursing supply and high labor costs push daily rates up. That gap is why Nevada's Medicaid program works hard to keep people in home and community settings.
+Limited [skilled nursing](/guides/skilled-nursing/) supply and high labor costs push daily rates up. That gap is why Nevada's Medicaid program works hard to keep people in home and community settings.
 
 **Does Medicare cover assisted living in Nevada?**
 No — Medicare never covers assisted living or long-term custodial care in any state, only short rehab stays and limited home health. See [Medicaid vs. Medicare](/guides/medicaid-vs-medicare/).

@@ -9,9 +9,10 @@ related:
   - /guides/medicaid-vs-medicare/
   - /guides/government-assistance-programs/
   - /guides/medicaid-estate-recovery/
+faqs: [{"q": "Does Idaho Medicaid pay for assisted living?", "a": "Yes — the Aged & Disabled Waiver pays for care services in participating residential assisted living facilities statewide for people who meet care and financial rules. Room and board still comes from your parent's income, and not all facilities participate."}, {"q": "What's a certified family home?", "a": "A small, state-certified home where a caregiver provides room, board, and care for a few adults in a residential setting. Medicaid's A&D Waiver covers care in these homes, and they're often the most affordable and personal option in Idaho's smaller towns."}, {"q": "Can my mom qualify if her income is over the limit?", "a": "Possibly. Idaho uses income rules that may allow options such as a qualified income trust (Miller trust) arrangement for applicants over the cap — confirm with IDHW or an elder law attorney, because this must be set up correctly."}, {"q": "How long does approval take?", "a": "Plan on 45 days or more for a complete application, plus scheduling the care assessment. Starting before a crisis — ideally months before the money runs out — makes everything less painful."}]
 ---
 
-If you're caring for a parent in Idaho and wondering what happens when the savings run out, here's the reassuring part: Idaho Medicaid pays for nursing home care, and it also pays for care in assisted living facilities and small certified family homes through a statewide waiver. This page walks through what's covered, who qualifies, and how to apply.
+If you're caring for a parent in Idaho and wondering what happens when the savings run out, here's the reassuring part: Idaho Medicaid pays for nursing [home care](/guides/in-home-care-explained/), and it also pays for care in [assisted living](/guides/assisted-living/) facilities and small certified family homes through a statewide waiver. This page walks through what's covered, who qualifies, and how to apply.
 
 ## What Idaho's Medicaid program is called
 
@@ -31,7 +32,7 @@ Idaho's main program for care outside nursing homes is the **Aged & Disabled (A&
 - **Certified family homes** — small state-certified homes, typically caring for a few residents in a family setting (Idaho's version of adult foster care)
 - **Residential assisted living facilities** — what most people just call assisted living
 
-Covered services include personal care help with bathing, dressing, and mobility, homemaker services, adult day health, respite, home modifications, emergency response systems, and skilled nursing visits.
+Covered services include personal care help with bathing, dressing, and mobility, homemaker services, adult day health, respite, home modifications, emergency response systems, and [skilled nursing](/guides/skilled-nursing/) visits.
 
 The standard caveat applies: the waiver pays for **care services, not room and board**. In assisted living or a certified family home, housing and meals are paid from your parent's own income — typically most of their Social Security — at rates far below private-pay pricing. And not every facility participates in Medicaid or holds a bed at the Medicaid rate, so ask each facility directly.
 

@@ -9,6 +9,7 @@ related:
   - /guides/cost-of-senior-living/
   - /guides/paying-for-senior-care/
   - /guides/medicaid-vs-medicare/
+faqs: [{"q": "Why are Oregon nursing homes so expensive?", "a": "High wage requirements, strict staffing standards, and a state policy that deliberately steers people toward home and community care have shrunk nursing home supply. Fewer beds plus higher labor costs equals some of the highest daily rates in the nation."}, {"q": "Is memory care really 20-30% more than assisted living?", "a": "That's the typical national premium, and it's a reasonable planning estimate for Oregon. Secured units, higher staffing ratios, and dementia training drive the difference. Always get the community's actual memory care rate — some charge far more."}, {"q": "Does Medicare pay for assisted living in Oregon?", "a": "No. Medicare never pays for assisted living room, board, or custodial care in any state. It covers short rehab stays and limited home health after a hospitalization. See Medicaid vs. Medicare for the full picture."}, {"q": "Are these numbers guaranteed prices?", "a": "No — they're 2024 survey medians, and most communities have raised rates since. Use them to spot a quote that's way out of line, not as a price list."}]
 ---
 
 If you're pricing senior care in Oregon, brace yourself: this is one of the more expensive states in the country for long-term care, and nursing home costs here are among the highest anywhere. This page lays out the real median numbers, where they come from, and the honest ways Oregon families keep costs down.
@@ -17,13 +18,13 @@ If you're pricing senior care in Oregon, brace yourself: this is one of the more
 
 These are statewide medians from the 2024 CareScout (Genworth) Cost of Care Survey, the most widely used industry survey. Half of providers charge more, half charge less — and your town may sit well above or below these numbers.
 
-- **In-home care (homemaker services, 44 hours/week):** about $7,627/month ($91,520/year)
-- **Assisted living:** about $7,313/month ($87,750/year) — well above the national median of roughly $5,900
-- **Memory care:** no official state median exists, so estimate assisted living plus 20-30% — roughly **$8,800-$9,500/month** in Oregon (our estimate, not a survey figure)
+- **[In-home care](/guides/in-home-care-explained/) (homemaker services, 44 hours/week):** about $7,627/month ($91,520/year)
+- **[Assisted living](/guides/assisted-living/):** about $7,313/month ($87,750/year) — well above the national median of roughly $5,900
+- **[Memory care](/guides/memory-care/):** no official state median exists, so estimate assisted living plus 20-30% — roughly **$8,800-$9,500/month** in Oregon (our estimate, not a survey figure)
 - **Nursing home, semi-private room:** about $15,817/month ($189,800/year)
 - **Nursing home, private room:** about $17,094/month ($205,130/year)
 
-That nursing home number is not a typo. Oregon's skilled nursing costs run far above the national medians (about $9,300 semi-private and $10,600 private in 2024). Nationally, costs kept climbing in 2025 — assisted living rose another 5% to a $6,200/month median — so treat these as a floor, not a ceiling.
+That nursing home number is not a typo. Oregon's [skilled nursing](/guides/skilled-nursing/) costs run far above the national medians (about $9,300 semi-private and $10,600 private in 2024). Nationally, costs kept climbing in 2025 — assisted living rose another 5% to a $6,200/month median — so treat these as a floor, not a ceiling.
 
 ## Portland vs. the rest of the state
 
@@ -35,7 +36,7 @@ The insider truth: in Oregon the gap between metro and rural pricing is smaller 
 
 ## Will Oregon Medicaid help?
 
-Oregon is actually one of the better states for Medicaid coverage outside nursing homes. The state's Medicaid program is the **Oregon Health Plan (OHP)**, and its long-term care arm (Aging and People with Disabilities) pays for care services in assisted living, residential care, memory care communities, and adult foster homes — not just nursing facilities. Medicaid covers the care portion; you still pay room and board, usually capped near the Social Security benefit level.
+Oregon is actually one of the better states for Medicaid coverage outside nursing homes. The state's Medicaid program is the **Oregon Health Plan (OHP)**, and its long-term care arm (Aging and People with Disabilities) pays for care services in assisted living, residential care, memory care communities, and [adult foster homes](/guides/adult-family-homes/) — not just nursing facilities. Medicaid covers the care portion; you still pay room and board, usually capped near the Social Security benefit level.
 
 Two honest caveats. First, not every community accepts Medicaid, and some accept it only after two or more years of private pay — ask before you move in, and get the policy in writing. Second, eligibility rules (income, assets, look-back periods) are technical and change. Verify current rules with the state or an elder law attorney before making any financial moves.
 

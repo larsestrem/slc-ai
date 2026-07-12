@@ -89,7 +89,7 @@ No facility is perfect, and trade-offs are normal — a plain building with tenu
 Prioritize one unannounced visit at an off-peak time, the shift-level staffing question, and a look at state inspection reports online — those three can be done in a day. You can also place a parent somewhere adequate now and keep looking; moves are hard, but they are allowed.
 
 **Do these qualities apply to small homes as well as big communities?**
-Yes, though the form changes. In an adult family home, "leadership on the floor" means the owner personally provides care, and staffing depth means asking who covers when the owner sleeps or takes a day off. The underlying question — stable, sufficient, honest people — is identical.
+Yes, though the form changes. In an [adult family home](/guides/adult-family-homes/), "leadership on the floor" means the owner personally provides care, and staffing depth means asking who covers when the owner sleeps or takes a day off. The underlying question — stable, sufficient, honest people — is identical.
 
 **The facility scores well on everything but is expensive. Is it worth it?**
 Often, yes — but verify that the price buys care, not chandeliers. A mid-priced building with tenured staff routinely outperforms a luxury one that skimps on aides. Price correlates with quality far less than families assume, which is exactly why this list exists.

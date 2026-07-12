@@ -10,6 +10,7 @@ related:
   - /guides/checking-complaints-and-state-records/
   - /guides/warning-signs-when-choosing-a-facility/
   - /guides/touring-checklist/
+faqs: [{"q": "A facility asked my relative to leave a review. Is that shady?", "a": "No — ethically asking satisfied families for reviews is standard and fair, since angry people review unprompted. What's shady is gating (only steering happy families to public sites), paying for reviews, or pressuring residents."}, {"q": "Two sites show very different ratings for the same community. Which is right?", "a": "Neither is \"right\" — they're different populations of reviewers on platforms with different incentives. Note both, read the text on each, and let the official inspection record be the tiebreaker."}, {"q": "Should I trust a community with no reviews at all?", "a": "Small homes and new communities often have few or none — that's not a red flag by itself, but it shifts all the weight onto the state record, references, and your own visits."}, {"q": "Why do you show review scores on your listings at all?", "a": "Because families use them anyway — so we'd rather show the number with its source, count, and date, alongside the official records, than pretend the stars don't exist. Every community in our directory cleared a review-evidence or CMS-rating standard, and the evidence is printed on the page."}]
 ---
 
 Type any senior community's name into a search engine and you'll get a wall of stars — a 4.6

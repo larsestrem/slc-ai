@@ -10,6 +10,7 @@ related:
   - /guides/warning-signs-when-choosing-a-facility/
   - /guides/top-10-qualities-of-a-great-facility/
   - /guides/touring-checklist/
+faqs: [{"q": "The facility has a substantiated complaint. Should I walk away?", "a": "Not on that alone. Read what happened, how long ago, and what the correction was — then ask the administrator about it. Walk away when you see repetition, a cluster around the same issue, or defensiveness."}, {"q": "What's the difference between a complaint and a citation?", "a": "A complaint is an allegation someone filed; the state investigates and marks it substantiated or unsubstantiated. A citation (or deficiency) is the state's own finding that a rule wasn't met, usually from an inspection — it comes with a required plan of correction."}, {"q": "Are online reviews or state records more reliable?", "a": "They answer different questions. State records are investigated facts about care and safety; reviews are impressions of daily life — food, friendliness, communication. Use both, and weigh reviews with their context."}, {"q": "The state website is confusing. Is there a shortcut?", "a": "Call your Long-Term Care Ombudsman (find yours via the Eldercare Locator, 1-800-677-1116). They can tell you a facility's complaint history — and its reputation among residents — in one conversation."}]
 ---
 
 Every licensed senior care facility has a public paper trail: inspections, complaints, and —
@@ -24,7 +25,7 @@ difference between a facility with a problem and a facility that solves problems
 |---|---|---|
 | Oregon | [Oregon LTC Licensing search](https://ltclicensing.oregon.gov/) | Licenses, inspection history, substantiated complaints and abuse findings — one of the most transparent systems in the country |
 | California | [CDSS Care Facility Search](https://www.ccld.dss.ca.gov/carefacilitysearch/) (assisted living/RCFE) and [Cal Health Find](https://www.cdph.ca.gov/Programs/CHCQ/LCP/CalHealthFind/) (nursing homes) | Inspection reports, complaint counts and outcomes, citations |
-| Washington | [DSHS facility lookup](https://fortress.wa.gov/dshs/adsaapps/lookup/) | Licenses, inspection and enforcement history for assisted living and adult family homes |
+| Washington | [DSHS facility lookup](https://fortress.wa.gov/dshs/adsaapps/lookup/) | Licenses, inspection and enforcement history for [assisted living](/guides/assisted-living/) and [adult family homes](/guides/adult-family-homes/) |
 | Arizona | [AZ Care Check](https://azcarecheck.azdhs.gov/) | Inspections and enforcement actions for licensed care facilities |
 | Nevada | [Bureau of Health Care Quality & Compliance](https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/) | Licensing and survey information |
 | Idaho | [Bureau of Facility Standards](https://healthandwelfare.idaho.gov/) | Survey and complaint investigation letters (request if not posted) |

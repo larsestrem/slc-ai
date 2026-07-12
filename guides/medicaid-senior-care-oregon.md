@@ -9,19 +9,20 @@ related:
   - /guides/medicaid-vs-medicare/
   - /guides/government-assistance-programs/
   - /guides/medicaid-estate-recovery/
+faqs: [{"q": "Does Oregon Medicaid pay for assisted living?", "a": "Yes — Oregon Medicaid pays for care services in licensed assisted living and residential care facilities for eligible residents, through APD's programs. Your parent's income still goes toward room and board, and not all facilities participate."}, {"q": "What's an adult foster home, and does Medicaid cover it?", "a": "Adult foster homes are small licensed care homes (five or fewer residents) common across Oregon, and yes, Medicaid pays for care in them for eligible residents. For many families they're a more affordable, homier alternative to a large facility."}, {"q": "Can my dad get Medicaid if he owns a house?", "a": "Often yes — a home is generally not counted while a spouse lives there, and may be exempt in other situations, but estate recovery can apply later. This is exactly the situation to review with an elder law attorney before applying."}, {"q": "How long does approval take?", "a": "Plan on 45 days or more once a complete application is in, plus time for the care assessment. Incomplete paperwork is the most common cause of delay."}]
 ---
 
 If your parent's savings won't stretch to cover care in Oregon, you're not out of options — and you're not alone. Oregon Medicaid does pay for long-term care, and Oregon is actually one of the better states in the country for getting that help outside a nursing home. This page explains what's covered, who qualifies, and how to start.
 
 ## What Oregon's Medicaid program is called
 
-Oregon's Medicaid program is the **Oregon Health Plan (OHP)**. Long-term care services for seniors are managed by a division of the Oregon Department of Human Services called **Aging and People with Disabilities (APD)**. When you apply for help paying for a nursing home, assisted living, or an adult foster home, you'll be working with APD — not the regular OHP application most people use for health insurance.
+Oregon's Medicaid program is the **Oregon Health Plan (OHP)**. Long-term care services for seniors are managed by a division of the Oregon Department of Human Services called **Aging and People with Disabilities (APD)**. When you apply for help paying for a nursing home, [assisted living](/guides/assisted-living/), or an [adult foster home](/guides/adult-family-homes/), you'll be working with APD — not the regular OHP application most people use for health insurance.
 
 That distinction matters. Qualifying for regular OHP coverage does not automatically qualify someone for long-term care help. Long-term care Medicaid has its own financial rules and requires a separate care-needs assessment.
 
 ## Yes, it pays for nursing homes
 
-Like every state, Oregon Medicaid pays for nursing home (skilled nursing facility) care for people who qualify financially and medically. If your parent is in a Medicaid-certified nursing home and meets the rules, Medicaid covers the cost of care, room, and board. Most of their monthly income then goes toward the cost of care, with a small personal needs allowance kept back.
+Like every state, Oregon Medicaid pays for nursing home ([skilled nursing](/guides/skilled-nursing/) facility) care for people who qualify financially and medically. If your parent is in a Medicaid-certified nursing home and meets the rules, Medicaid covers the cost of care, room, and board. Most of their monthly income then goes toward the cost of care, with a small personal needs allowance kept back.
 
 Don't confuse this with Medicare, which only pays for short rehab stays after a hospitalization — our [Medicaid vs. Medicare guide](/guides/medicaid-vs-medicare/) walks through the difference.
 
@@ -31,7 +32,7 @@ Here's something many families don't know: Oregon has spent decades building alt
 
 - **Adult foster homes** — small licensed homes with five or fewer residents, a signature Oregon option
 - **Assisted living facilities** and **residential care facilities**
-- **Memory care communities**
+- **[Memory care](/guides/memory-care/) communities**
 - Your parent's own home or a family member's home
 - Adult day services
 

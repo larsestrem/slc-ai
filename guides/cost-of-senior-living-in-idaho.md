@@ -9,21 +9,22 @@ related:
   - /guides/cost-of-senior-living/
   - /guides/paying-for-senior-care/
   - /guides/medicaid-vs-medicare/
+faqs: [{"q": "Why is Idaho assisted living so much cheaper than Oregon's or Washington's?", "a": "Lower caregiver wages, lower real estate costs, and lighter regulatory overhead. The care model is the same; the labor market isn't."}, {"q": "Is cheap assisted living lower quality?", "a": "Not automatically — price mostly tracks local wages and building costs. Judge each community on staffing, inspection history, and reviews, not its rate."}, {"q": "How firm is the memory care estimate?", "a": "It's an estimate: no official Idaho memory care median exists, so we applied the typical 20-30% premium over assisted living. Boise-area memory care commonly quotes $5,500-$7,000/month; always price the actual unit."}, {"q": "Does Medicare pay for assisted living in Idaho?", "a": "No — Medicare never covers assisted living or ongoing custodial care, in Idaho or anywhere. See Medicaid vs. Medicare."}]
 ---
 
-Here's some rare good news in senior care: Idaho is one of the most affordable states in the West, with assisted living running thousands of dollars a month below Oregon and Washington. If your family is spread across the Northwest, Idaho's prices are worth a serious look before you sign anywhere.
+Here's some rare good news in senior care: Idaho is one of the most affordable states in the West, with [assisted living](/guides/assisted-living/) running thousands of dollars a month below Oregon and Washington. If your family is spread across the Northwest, Idaho's prices are worth a serious look before you sign anywhere.
 
 ## What senior care costs in Idaho
 
 Statewide medians from the 2024 CareScout (Genworth) Cost of Care Survey — half of providers charge more, half less, and Boise prices differently than small-town Idaho:
 
 - **Assisted living:** about $4,600/month ($55,200/year) — far below the national median of roughly $5,900, and $2,400-$2,700/month below Oregon and Washington
-- **In-home care:** Idaho hourly rates have recently surveyed around $32/hour for homemaker services and $34/hour for a home health aide; at the survey's standard 44 hours/week that works out to roughly **$6,100-$6,500/month** (our calculation from hourly figures — treat as an estimate)
-- **Memory care:** no official state median; using the typical assisted-living-plus-20-30% premium, plan on roughly **$5,500-$6,000/month** (our estimate, not a survey figure)
+- **[In-home care](/guides/in-home-care-explained/):** Idaho hourly rates have recently surveyed around $32/hour for homemaker services and $34/hour for a home health aide; at the survey's standard 44 hours/week that works out to roughly **$6,100-$6,500/month** (our calculation from hourly figures — treat as an estimate)
+- **[Memory care](/guides/memory-care/):** no official state median; using the typical assisted-living-plus-20-30% premium, plan on roughly **$5,500-$6,000/month** (our estimate, not a survey figure)
 - **Nursing home, semi-private room:** about $10,068/month ($120,815/year)
 - **Nursing home, private room:** about $10,707/month ($128,480/year)
 
-Notice the pattern: Idaho's assisted living is a genuine bargain, but its nursing homes cost close to the national rate ($9,300-$10,600/month in 2024). The savings live in residential care, not skilled nursing. Costs nationally kept rising in 2025 (assisted living up 5% to $6,200/month), so expect quotes somewhat above these medians.
+Notice the pattern: Idaho's assisted living is a genuine bargain, but its nursing homes cost close to the national rate ($9,300-$10,600/month in 2024). The savings live in residential care, not [skilled nursing](/guides/skilled-nursing/). Costs nationally kept rising in 2025 (assisted living up 5% to $6,200/month), so expect quotes somewhat above these medians.
 
 ## Boise vs. the rest of Idaho
 

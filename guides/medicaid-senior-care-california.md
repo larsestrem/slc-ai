@@ -9,17 +9,18 @@ related:
   - /guides/medicaid-vs-medicare/
   - /guides/government-assistance-programs/
   - /guides/medicaid-estate-recovery/
+faqs: [{"q": "Does Medi-Cal pay for assisted living everywhere in California?", "a": "No. The Assisted Living Waiver operates only in certain counties, has capped enrollment with a long waitlist, and only some facilities participate. Nursing home coverage, by contrast, is available statewide to those who qualify."}, {"q": "My mom was told Medi-Cal has no asset limit. Is that still true?", "a": "No — that was true only in 2024 and 2025. As of January 1, 2026, an asset limit (around $130,000 for an individual) is back for long-term care and related programs. Confirm current figures with the county before applying."}, {"q": "Does Medi-Cal pay family members to provide care at home?", "a": "Often yes, through In-Home Supportive Services (IHSS), which can pay family caregivers for eligible recipients. It's a county-run program worth asking about while you wait on other options."}, {"q": "Can we just move my dad to a county where the waiver operates?", "a": "People do, but think it through: he'd still face the waitlist, facility participation is limited, and moving someone with dementia is disruptive. Talk to a Care Coordination Agency in the target county first."}]
 ---
 
-If you're staring at California care prices and your parent's savings, wondering how this math can possibly work, this page is for you. California's Medicaid program does pay for long-term care — reliably for nursing homes, and in a much more limited way for assisted living. Here's the honest picture.
+If you're staring at California care prices and your parent's savings, wondering how this math can possibly work, this page is for you. California's Medicaid program does pay for long-term care — reliably for nursing homes, and in a much more limited way for [assisted living](/guides/assisted-living/). Here's the honest picture.
 
 ## What California's Medicaid program is called
 
-California's Medicaid program is **Medi-Cal**, run by the Department of Health Care Services (DHCS) and administered day-to-day through county social services offices. If a hospital discharge planner or facility mentions "Medi-Cal long-term care," they mean the part of Medi-Cal that pays for nursing home care and related services — which has its own rules beyond regular Medi-Cal health coverage.
+California's Medicaid program is **Medi-Cal**, run by the Department of Health Care Services (DHCS) and administered day-to-day through county social services offices. If a hospital discharge planner or facility mentions "Medi-Cal long-term care," they mean the part of Medi-Cal that pays for nursing [home care](/guides/in-home-care-explained/) and related services — which has its own rules beyond regular Medi-Cal health coverage.
 
 ## Yes, Medi-Cal pays for nursing homes
 
-For Californians who qualify financially and medically, Medi-Cal pays for care in Medicaid-certified skilled nursing facilities — including room and board. Most of your parent's monthly income then goes to the facility as their "share of cost," with a small personal needs allowance kept back. This is the workhorse of Medi-Cal long-term care, and unlike the assisted living program below, it is an entitlement: if your parent qualifies, it pays.
+For Californians who qualify financially and medically, Medi-Cal pays for care in Medicaid-certified [skilled nursing](/guides/skilled-nursing/) facilities — including room and board. Most of your parent's monthly income then goes to the facility as their "share of cost," with a small personal needs allowance kept back. This is the workhorse of Medi-Cal long-term care, and unlike the assisted living program below, it is an entitlement: if your parent qualifies, it pays.
 
 Medicare, by contrast, only covers short rehab stays. Our [Medicaid vs. Medicare guide](/guides/medicaid-vs-medicare/) explains the difference families most often get burned by.
 

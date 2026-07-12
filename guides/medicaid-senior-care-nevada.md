@@ -9,9 +9,10 @@ related:
   - /guides/medicaid-vs-medicare/
   - /guides/government-assistance-programs/
   - /guides/medicaid-estate-recovery/
+faqs: [{"q": "Does Nevada Medicaid pay for assisted living?", "a": "It can, through the FE Waiver, for people 65+ who meet care and financial rules — but slots are capped, a waitlist may apply, and only enrolled provider facilities participate. Room and board still comes from your parent's income."}, {"q": "My dad is under 65 — is there anything for him?", "a": "The FE Waiver is 65+, but Nevada has other programs for younger adults with physical disabilities, including personal care services at home. Ask ADSD what fits his situation."}, {"q": "Is there a waitlist for nursing home coverage too?", "a": "No. Nursing home Medicaid is an entitlement — if your parent qualifies financially and medically, it pays. The waitlist risk applies only to the waiver programs."}, {"q": "Can my mom keep the house and get Medicaid?", "a": "Often yes while she or a spouse lives in it — the home is generally exempt in that situation, subject to equity limits — but estate recovery can apply after death. This is a question for an elder law attorney before you apply, not after."}]
 ---
 
-If your parent is in Nevada and the money for care is running out, you need straight answers fast. Here they are: Nevada Medicaid reliably pays for nursing home care for people who qualify. It can also pay for care in assisted living and group residential homes — but through a capped waiver program with limited slots, so timing and realistic expectations matter.
+If your parent is in Nevada and the money for care is running out, you need straight answers fast. Here they are: Nevada Medicaid reliably pays for nursing [home care](/guides/in-home-care-explained/) for people who qualify. It can also pay for care in [assisted living](/guides/assisted-living/) and group residential homes — but through a capped waiver program with limited slots, so timing and realistic expectations matter.
 
 ## What Nevada's Medicaid program is called
 
@@ -21,7 +22,7 @@ That's three acronyms, but the practical takeaway is simple: financial applicati
 
 ## Yes, it pays for nursing homes
 
-For eligible Nevadans, Medicaid pays for care in Medicaid-certified nursing homes, including room and board. This is an entitlement — no waitlist — for those who meet the financial rules and need nursing-facility-level care. Most of your parent's monthly income then goes toward the cost of care, with a small personal needs allowance kept back.
+For eligible Nevadans, Medicaid pays for care in Medicaid-certified [nursing homes](/guides/skilled-nursing/), including room and board. This is an entitlement — no waitlist — for those who meet the financial rules and need nursing-facility-level care. Most of your parent's monthly income then goes toward the cost of care, with a small personal needs allowance kept back.
 
 Medicare is different: it covers only short rehab stays, not ongoing care. Our [Medicaid vs. Medicare guide](/guides/medicaid-vs-medicare/) explains where families most often get caught out.
 

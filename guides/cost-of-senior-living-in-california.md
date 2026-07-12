@@ -9,6 +9,7 @@ related:
   - /guides/cost-of-senior-living/
   - /guides/paying-for-senior-care/
   - /guides/medicaid-vs-medicare/
+faqs: [{"q": "Why is the private nursing home rate so much higher than semi-private in California?", "a": "The 2024 gap ($11,695 vs. $15,178/month) is wider than in most states because private rooms are scarce in California's older building stock. If cost matters most, semi-private rooms deliver the same nursing care."}, {"q": "Is memory care always 20-30% above assisted living?", "a": "That's the typical premium and a fair planning number, but coastal California memory care frequently exceeds it. Always price the actual secured unit, not the brochure rate."}, {"q": "Does Medicare cover any of this?", "a": "Only short skilled rehab stays and limited home health — never ongoing assisted living or custodial care. See Medicaid vs. Medicare."}, {"q": "Are the Bay Area and Central Valley numbers official?", "a": "No — the statewide figures are 2024 survey medians; the metro comparisons come from 2025-2026 listing data and are estimates. Use them for direction, then get local quotes."}]
 ---
 
 California senior care prices swing more within the state than almost anywhere else in the country — a Bay Area community can cost $2,000 more per month than an equivalent one in Fresno. Here are the real median numbers, and how families use California's geography to their advantage.
@@ -17,11 +18,11 @@ California senior care prices swing more within the state than almost anywhere e
 
 Statewide medians from the 2024 CareScout (Genworth) Cost of Care Survey — half of providers charge more, half less, and your metro area matters enormously:
 
-- **In-home care:** homemaker services about $7,245/month ($86,944/year); a home health aide about $7,436/month ($89,232/year), both at 44 hours/week
+- **[In-home care](/guides/in-home-care-explained/):** homemaker services about $7,245/month ($86,944/year); a home health aide about $7,436/month ($89,232/year), both at 44 hours/week
 - **Adult day health care:** about $1,950/month ($23,400/year) — the cheapest supervised option
-- **Assisted living:** about $7,350/month ($88,200/year), roughly 25% above the national median of $5,900
-- **Memory care:** no official state median exists; the typical premium is assisted living plus 20-30%, so plan on roughly **$8,800-$9,600/month** statewide (our estimate, not a survey figure)
-- **Nursing home, semi-private room:** about $11,695/month ($140,343/year)
+- **[Assisted living](/guides/assisted-living/):** about $7,350/month ($88,200/year), roughly 25% above the national median of $5,900
+- **[Memory care](/guides/memory-care/):** no official state median exists; the typical premium is assisted living plus 20-30%, so plan on roughly **$8,800-$9,600/month** statewide (our estimate, not a survey figure)
+- **[Nursing home](/guides/skilled-nursing/), semi-private room:** about $11,695/month ($140,343/year)
 - **Nursing home, private room:** about $15,178/month ($182,135/year)
 
 Costs kept rising after that survey — nationally, assisted living climbed another 5% in 2025 to a $6,200/month median — so treat 2024 figures as a starting floor when you request quotes.
@@ -42,7 +43,7 @@ Note that even when the ALW pays for care, you still owe room and board. Eligibi
 
 ## How to stretch your budget in California
 
-- **Look at small board-and-care homes (RCFEs with six beds).** California licenses thousands of six-bed residential care homes, often in ordinary houses. Prices commonly run $1,500-$3,000/month below big-brand communities in the same ZIP code, with better staff-to-resident ratios. Compare them in our [California directory](/directory/california/).
+- **Look at small board-and-care homes (RCFEs with six beds).** California licenses thousands of six-bed [residential care homes](/guides/adult-family-homes/), often in ordinary houses. Prices commonly run $1,500-$3,000/month below big-brand communities in the same ZIP code, with better staff-to-resident ratios. Compare them in our [California directory](/directory/california/).
 - **Use the inland arbitrage deliberately.** If family visits monthly rather than daily, Fresno, Modesto, or Riverside instead of the coast can save $20,000+ a year at similar quality.
 - **Start with adult day health care.** At roughly $1,950/month it can delay a residential move by a year or more when a parent lives with family.
 - **Get three quotes and negotiate move-in month.** California occupancy varies; communities with empty rooms quietly waive community fees or freeze first-year rates. Our [paying for senior care](/guides/paying-for-senior-care/) guide covers the tactics.

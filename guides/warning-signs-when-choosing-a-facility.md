@@ -113,4 +113,4 @@ Document specifics with dates, raise them in writing with the administrator, and
 
 - **Long-term care ombudsman:** every state has one — a free, independent advocate who investigates complaints in licensed facilities and knows local buildings' reputations. Find yours through the Eldercare Locator.
 - **Eldercare Locator:** 1-800-677-1116 — a federal service that connects you to your Area Agency on Aging and local aging-and-disability resource centers.
-- **State licensing agency:** publishes inspection reports for assisted living and other licensed settings, and accepts complaints; for nursing homes, Medicare's Care Compare site shows ratings, staffing, and citations.
+- **State licensing agency:** publishes inspection reports for [assisted living](/guides/assisted-living/) and other licensed settings, and accepts complaints; for [nursing homes](/guides/skilled-nursing/), [Medicare](/guides/medicaid-vs-medicare/)'s Care Compare site shows ratings, staffing, and citations.

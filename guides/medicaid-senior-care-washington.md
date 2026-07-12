@@ -9,9 +9,10 @@ related:
   - /guides/medicaid-vs-medicare/
   - /guides/government-assistance-programs/
   - /guides/medicaid-estate-recovery/
+faqs: [{"q": "Does Washington Medicaid pay for assisted living?", "a": "Yes — through COPES, for people who meet care and financial rules, in facilities that accept Medicaid. Your parent's income still covers room and board at a state-set rate, and participating facilities can be limited."}, {"q": "What's an adult family home, and is it covered?", "a": "A licensed home caring for a small number of residents in a residential house — Washington has thousands of them. COPES pays for care in adult family homes, and for many families they're the most realistic Medicaid-funded option outside a nursing home."}, {"q": "Can my mom keep her house and still qualify?", "a": "Often yes while she or her spouse lives there — the home is generally not a countable asset in that situation — but estate recovery may apply later. Get elder law advice before selling, transferring, or borrowing against it."}, {"q": "How long does this take?", "a": "Expect several weeks to a few months from application to services, depending on paperwork completeness and assessment scheduling. Incomplete financial documentation is the most common delay."}]
 ---
 
-If you're trying to figure out how your parent can afford care in Washington once savings run low, here's the short answer: Washington's Medicaid program pays for nursing home care, and — more than in many states — it also pays for care in assisted living and adult family homes. This page explains how, and how to get started.
+If you're trying to figure out how your parent can afford care in Washington once savings run low, here's the short answer: Washington's Medicaid program pays for nursing [home care](/guides/in-home-care-explained/), and — more than in many states — it also pays for care in [assisted living](/guides/assisted-living/) and [adult family homes](/guides/adult-family-homes/). This page explains how, and how to get started.
 
 ## What Washington's Medicaid program is called
 
@@ -21,7 +22,7 @@ Having regular Apple Health coverage does not automatically qualify someone for 
 
 ## Yes, it pays for nursing homes
 
-For eligible residents, Apple Health pays for care in Medicaid-certified nursing homes, including room and board. Most of your parent's monthly income then goes toward the cost of care ("participation"), with a small personal needs allowance retained. This coverage is an entitlement — if your parent qualifies, it pays, with no waitlist.
+For eligible residents, Apple Health pays for care in Medicaid-certified [nursing homes](/guides/skilled-nursing/), including room and board. Most of your parent's monthly income then goes toward the cost of care ("participation"), with a small personal needs allowance retained. This coverage is an entitlement — if your parent qualifies, it pays, with no waitlist.
 
 Remember that Medicare only covers short rehab stays after a hospitalization; it is not long-term care coverage. Our [Medicaid vs. Medicare guide](/guides/medicaid-vs-medicare/) explains the difference.
 

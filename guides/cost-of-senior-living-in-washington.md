@@ -9,18 +9,19 @@ related:
   - /guides/cost-of-senior-living/
   - /guides/paying-for-senior-care/
   - /guides/medicaid-vs-medicare/
+faqs: [{"q": "Why is in-home care so expensive in Washington?", "a": "Washington has among the nation's highest minimum wages and mandatory caregiver training/certification, which raises agency rates. It buys a more professional workforce — but it means home care crosses over assisted living costs earlier here than in most states."}, {"q": "Is the memory care estimate reliable?", "a": "It's a planning estimate: the survey publishes no memory care median, and 20-30% above assisted living is the typical premium. Seattle-area memory care often runs $9,000-$12,000/month, so always price the actual unit."}, {"q": "Does Medicare pay for assisted living or adult family homes?", "a": "No — in Washington or anywhere else. Medicare covers short rehab stays and limited home health only. See Medicaid vs. Medicare."}, {"q": "How current are these numbers?", "a": "They're medians from the 2024 survey (collected July-December 2024). Most providers have raised rates since; use these to sanity-check quotes, not as a price list."}]
 ---
 
-Washington runs above the national average in every care setting, and in-home care here is among the priciest in the nation because caregiver wages are high. The good news: Washington also has one of the country's strongest small-home markets and one of the more generous Medicaid programs for residential care.
+Washington runs above the national average in every care setting, and [in-home care](/guides/in-home-care-explained/) here is among the priciest in the nation because caregiver wages are high. The good news: Washington also has one of the country's strongest small-home markets and one of the more generous Medicaid programs for residential care.
 
 ## What senior care costs in Washington
 
 Statewide medians from the 2024 CareScout (Genworth) Cost of Care Survey — half of providers charge more, half less, and Puget Sound prices differ sharply from eastern Washington:
 
 - **In-home care (home health aide or homemaker, 44 hours/week):** about $8,008/month ($96,096/year) — that's roughly $42/hour
-- **Assisted living:** about $6,975/month ($83,700/year), versus a national median near $5,900
-- **Memory care:** no official state median; using the typical assisted-living-plus-20-30% premium, plan on roughly **$8,400-$9,100/month** (our estimate, not a survey figure)
-- **Nursing home, semi-private room:** about $12,714/month ($152,570/year)
+- **[Assisted living](/guides/assisted-living/):** about $6,975/month ($83,700/year), versus a national median near $5,900
+- **[Memory care](/guides/memory-care/):** no official state median; using the typical assisted-living-plus-20-30% premium, plan on roughly **$8,400-$9,100/month** (our estimate, not a survey figure)
+- **[Nursing home](/guides/skilled-nursing/), semi-private room:** about $12,714/month ($152,570/year)
 - **Nursing home, private room:** about $13,840/month ($166,075/year)
 
 For context, national medians in 2024 were about $9,300/month semi-private and $10,600 private — and costs rose again in 2025 nationally (assisted living up 5% to $6,200/month), so expect quotes above these figures.
@@ -35,7 +36,7 @@ The insider truth: within the Seattle metro itself, moving one ring out — Ever
 
 ## Will Washington Medicaid help?
 
-Washington's Medicaid program is **Apple Health**, and its long-term care system is unusually flexible. The **COPES waiver** (and related home-and-community programs) pays for care services not just at home but in **assisted living facilities and adult family homes** for people who meet nursing-home level of care and financial limits. Medicaid pays the care portion; residents still owe room and board at a capped rate.
+Washington's Medicaid program is **Apple Health**, and its long-term care system is unusually flexible. The **COPES waiver** (and related home-and-community programs) pays for care services not just at home but in **assisted living facilities and [adult family homes](/guides/adult-family-homes/)** for people who meet nursing-home level of care and financial limits. Medicaid pays the care portion; residents still owe room and board at a capped rate.
 
 Honest caveats: not every community takes Medicaid, some require years of private pay first, and Medicaid daily rates are lower than private rates — which is why Medicaid beds can be scarce in premium buildings. Get any private-pay-first policy in writing, and verify current eligibility rules with the state or an elder law attorney; the rules change.
 

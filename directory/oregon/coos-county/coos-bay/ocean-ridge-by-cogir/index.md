@@ -4,7 +4,7 @@ title: "Ocean Ridge by Cogir"
 seo_title: "Ocean Ridge by Cogir — Senior Living in Coos Bay, OR"
 description: "A senior living community in a quiet Coos Bay neighborhood offering independent living, assisted living, and memory care. The majority of reviews are strongly"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Ocean Ridge by Cogir", "url": "/directory/oregon/coos-county/coos-bay/ocean-ridge-by-cogir/"}]
-nearby: []
+nearby: [{"name": "Bayside Terrace by Cogir", "url": "/directory/oregon/coos-county/coos-bay/bayside-terrace-by-cogir/", "city_name": "Coos Bay", "state_abbrev": "OR", "care_levels": ["assisted-living", "memory-care"], "description": "Bayside Terrace by Cogir is an assisted living and memory care community in Coos Bay offering studio, one-bedroom, and two-bedroom apartments. Reviewers highlight attentive care staff, a clean and well-maintained building, a garden path, and weekly outings."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"

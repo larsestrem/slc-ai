@@ -4,7 +4,7 @@ title: "Hillside Retirement Community"
 seo_title: "Hillside Retirement Community — Senior Living in McMinnville, OR"
 description: "Hillside is a nonprofit Life Plan Community (CCRC) on 57 acres in McMinnville, in the heart of Willamette Valley wine country, operated by HumanGood. The camp"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Hillside Retirement Community", "url": "/directory/oregon/yamhill-county/mcminnville/hillside-retirement-community/"}]
-nearby: []
+nearby: [{"name": "Brookdale McMinnville City Center", "url": "/directory/oregon/yamhill-county/mcminnville/brookdale-mcminnville-city-center/", "city_name": "McMinnville", "state_abbrev": "OR", "care_levels": ["assisted-living", "memory-care"], "description": "Brookdale McMinnville City Center is an assisted living and memory care community near downtown McMinnville, part of the national Brookdale Senior Living network. Residents and visitors praise the community's cleanliness, compassionate caregivers, and homey atmosphere, with studio through one-bedroom floor plans from roughly 375 to 783 square feet."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"

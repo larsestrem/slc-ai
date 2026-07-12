@@ -115,6 +115,9 @@
     <loc>https://senior.living.community/directory/idaho/kootenai-county/coeur-dalene/north-star-retirement-community/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/idaho/kootenai-county/coeur-dalene/legends-park-assisted-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/idaho/kootenai-county/coeur-dalene/creekside-inn/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
@@ -127,7 +130,13 @@
     <loc>https://senior.living.community/directory/idaho/ada-county/meridian/touchmark-at-meadow-lake-village/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/idaho/ada-county/meridian/grace-at-fairview-lakes/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/idaho/ada-county/meridian/edgewood-meridian/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/idaho/ada-county/boise/willow-park-senior-living/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/idaho/ada-county/boise/brookdale-boise-parkcenter/</loc><lastmod>2026-07-11</lastmod>
@@ -145,13 +154,22 @@
     <loc>https://senior.living.community/directory/idaho/bonner-county/sandpoint/the-bridge-at-sandpoint/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/idaho/eastern-magic-valley/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/idaho/bonneville-county/idaho-falls/lincoln-court/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/idaho/bonneville-county/idaho-falls/fairwinds-sand-creek/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/idaho/bonneville-county/idaho-falls/life-care-center-of-idaho-falls/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/idaho/bonneville-county/idaho-falls/morningstar-of-idaho-falls/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/idaho/north-idaho/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/directory/idaho/twin-falls-county/twin-falls/avista-twin-falls/</loc><lastmod>2026-07-12</lastmod>
@@ -164,6 +182,12 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/idaho/payette-county/fruitland/edgewood-spring-creek-fruitland/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/idaho/southwest-idaho/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/idaho/canyon-county/nampa/karcher-senior-living/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/idaho/canyon-county/nampa/grace-assisted-living-nampa/</loc><lastmod>2026-07-11</lastmod>
@@ -184,6 +208,12 @@
     <loc>https://senior.living.community/directory/california/sacramento-northern-valley/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/sacramento-county/citrus-heights/cogir-of-stock-ranch-senior-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/sacramento-county/fair-oaks/sunrise-of-fair-oaks/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/sacramento-county/sacramento/eskaton-land-park/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
@@ -194,6 +224,9 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/sacramento-county/carmichael/atria-carmichael-oaks/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/sacramento-county/folsom/prairie-city-landing/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/sacramento-county/folsom/oakmont-of-folsom/</loc><lastmod>2026-07-12</lastmod>
@@ -217,6 +250,9 @@
     <loc>https://senior.living.community/directory/california/san-diego-county/el-cajon/la-vida-real/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/san-diego-county/chula-vista/the-pasea-senior-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/san-diego-county/chula-vista/westmont-at-san-miguel-ranch/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
@@ -235,22 +271,40 @@
     <loc>https://senior.living.community/directory/california/san-diego-county/escondido/silverado-escondido-memory-care-community/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/san-diego-county/escondido/westmont-of-escondido/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/san-diego-county/poway/poway-gardens-senior-living/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/san-diego-county/carlsbad/glenbrook-health-center/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/san-diego-county/carlsbad/bayshire-carlsbad/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/san-diego-county/oceanside/fairwinds-ivey-ranch/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/napa-county/napa/the-meadows-of-napa-valley/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/napa-county/napa/nazareth-rose-garden-of-napa/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/san-mateo-county/san-mateo/the-peninsula-regent/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/san-mateo-county/redwood-city/kensington-place-redwood-city/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/san-mateo-county/portola-valley/the-sequoias-portola-valley/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/san-mateo-county/burlingame/burlingame-senior-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/contra-costa-county/walnut-creek/the-heritage-downtown/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/contra-costa-county/walnut-creek/byron-park/</loc><lastmod>2026-07-12</lastmod>
@@ -271,22 +325,46 @@
     <loc>https://senior.living.community/directory/california/yolo-county/davis/university-retirement-community/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/yolo-county/davis/atria-covell-gardens/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/orange-county/fullerton/st-catherine-healthcare/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/orange-county/fullerton/morningside-of-fullerton/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/orange-county/tustin/everest-at-the-groves-of-tustin/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/orange-county/anaheim/emerald-court/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/orange-county/anaheim/walnut-village/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/orange-county/costa-mesa/vivante-on-the-coast/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/orange-county/mission-viejo/atria-del-sol/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/orange-county/huntington-beach/ivy-park-at-huntington-beach/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/orange-county/huntington-beach/huntington-terrace/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/orange-county/orange/oakmont-of-orange/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/orange-county/irvine/regents-point/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/orange-county/irvine/atria-golden-creek/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/orange-county/newport-beach/atria-newport-beach/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/orange-county/laguna-niguel/crestavilla/</loc><lastmod>2026-07-12</lastmod>
@@ -310,7 +388,16 @@
     <loc>https://senior.living.community/directory/california/riverside-county/rancho-mirage/atria-rancho-mirage/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/riverside-county/palm-springs/stonewall-gardens-assisted-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/riverside-county/riverside/citrus-place/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/riverside-county/riverside/discovery-commons-raincross/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/riverside-county/murrieta/brookdale-murrieta/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/riverside-county/murrieta/wellquest-of-murrieta/</loc><lastmod>2026-07-12</lastmod>
@@ -322,10 +409,19 @@
     <loc>https://senior.living.community/directory/california/riverside-county/temecula/vineyard-ranch-at-temecula/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/riverside-county/temecula/atria-park-of-vintage-hills/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/san-bernardino-county/rancho-cucamonga/ivy-park-at-alta-loma/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/san-bernardino-county/redlands/mission-commons/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/solano-county/fairfield/paradise-valley-estates/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/los-angeles-county/long-beach/bay-towers-at-bixby-knolls/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/los-angeles-county/long-beach/alamitos-belmont-health-and-rehabilitation/</loc><lastmod>2026-07-12</lastmod>
@@ -346,13 +442,22 @@
     <loc>https://senior.living.community/directory/california/los-angeles-county/whittier/discovery-commons-whittier/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/los-angeles-county/whittier/oakmont-of-whittier/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/los-angeles-county/glendale/sparr-heights-estates-senior-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/los-angeles-county/glendale/scholl-canyon-estates/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/los-angeles-county/woodland-hills/motion-picture-television-hospital-skilled-nursing-facility/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/los-angeles-county/burbank/belmont-village-senior-living-burbank/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/los-angeles-county/torrance/oakmont-of-torrance/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/los-angeles-county/torrance/brookdale-south-bay/</loc><lastmod>2026-07-12</lastmod>
@@ -367,13 +472,28 @@
     <loc>https://senior.living.community/directory/california/los-angeles-county/lancaster/bellamar-lancaster/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/los-angeles-county/pasadena/villa-gardens/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/los-angeles-county/pasadena/morningstar-of-pasadena/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/los-angeles-county/santa-clarita/oakmont-of-santa-clarita/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/los-angeles-county/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/alameda-county/livermore/heritage-estates/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/alameda-county/albany/belmont-village-albany/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/alameda-county/fremont/aegis-living-fremont/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/alameda-county/oakland/st-pauls-towers/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/alameda-county/oakland/merrill-gardens-at-rockridge/</loc><lastmod>2026-07-12</lastmod>
@@ -382,7 +502,16 @@
     <loc>https://senior.living.community/directory/california/alameda-county/alameda/oakmont-of-mariner-point/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/alameda-county/pleasanton/stoneridge-creek/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/santa-clara-county/palo-alto/channing-house/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/santa-clara-county/palo-alto/vi-at-palo-alto/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/santa-clara-county/los-gatos/the-terraces-of-los-gatos/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/santa-clara-county/cupertino/sunny-view-retirement-community/</loc><lastmod>2026-07-12</lastmod>
@@ -439,6 +568,9 @@
     <loc>https://senior.living.community/directory/california/sonoma-county/santa-rosa/oakmont-of-varenna/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/sonoma-county/santa-rosa/spring-lake-village/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/ventura-county/ventura/the-palms-at-bonaventure/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
@@ -481,7 +613,13 @@
     <loc>https://senior.living.community/directory/california/placer-county/roseville/oakmont-of-roseville/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/placer-county/roseville/sierra-regency/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/placer-county/rocklin/atria-rocklin/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/california/placer-county/rocklin/the-pines-by-cogir/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/bay-area/</loc>
@@ -508,6 +646,9 @@
     <loc>https://senior.living.community/directory/california/santa-barbara-county/santa-barbara/valle-verde/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/california/san-joaquin-county/stockton/the-commons-on-thornton/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/california/san-joaquin-county/stockton/oakmont-of-brookside/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
@@ -518,6 +659,63 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/california/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/yavapai-county/prescott/touchmark-at-the-ranch/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/yuma-county/yuma/emerald-springs-senior-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/maricopa-county/chandler/clarendale-of-chandler/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/maricopa-county/phoenix/sagewood/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/maricopa-county/glendale/thunderbird-senior-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/maricopa-county/gilbert/savanna-house/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/maricopa-county/scottsdale/mcdowell-village/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/maricopa-county/scottsdale/blue-lakes-assisted-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/maricopa-county/scottsdale/plaza-healthcare/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/maricopa-county/surprise/fellowship-square-surprise/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/maricopa-county/mesa/fellowship-square-historic-mesa/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/maricopa-county/peoria/morningstar-at-golden-ridge/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/coconino-county/flagstaff/the-bluffs-of-flagstaff-senior-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/mohave-county/lake-havasu-city/vista-pointe-at-lake-havasu-city/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/pima-county/tucson/the-center-at-tucson/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/pima-county/tucson/the-fountains-at-la-cholla/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/pima-county/green-valley/la-posada-at-park-centre/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/cochise-county/sierra-vista/vista-pointe-at-sierra-vista/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/arizona/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/directory/hawaii/honolulu-county/honolulu/maluhia/</loc><lastmod>2026-07-12</lastmod>
@@ -556,7 +754,13 @@
     <loc>https://senior.living.community/directory/nevada/douglas-county/minden/valage-senior-living-at-carson-valley/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/nevada/northern-nevada/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/nevada/humboldt-county/winnemucca/harmony-manor-skilled-nursing-facility/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/nevada/clark-county/las-vegas/legacy-house-of-centennial-hills/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/nevada/clark-county/las-vegas/oakmont-of-las-vegas/</loc><lastmod>2026-07-12</lastmod>
@@ -577,6 +781,9 @@
     <loc>https://senior.living.community/directory/nevada/clark-county/las-vegas/golden-villa-care-home/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/nevada/clark-county/mesquite/highland-manor-of-mesquite/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/nevada/clark-county/north-las-vegas/college-park-rehabilitation-center/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
@@ -592,10 +799,16 @@
     <loc>https://senior.living.community/directory/nevada/nye-county/pahrump/inspirations-senior-living/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/nevada/southern-nevada/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/nevada/washoe-county/sparks/morningstar-senior-living-of-sparks/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/nevada/washoe-county/sparks/kiley-ranch-senior-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/nevada/washoe-county/sparks/cascades-of-the-sierra/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/nevada/washoe-county/reno/advanced-health-care-of-reno/</loc><lastmod>2026-07-11</lastmod>
@@ -610,6 +823,9 @@
     <loc>https://senior.living.community/directory/nevada/washoe-county/reno/brookdale-reno/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/nevada/washoe-county/reno/atria-summit-ridge/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/nevada/carson-city-county/carson-city/sierra-place-senior-living/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
@@ -617,6 +833,57 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/nevada/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/mesa-county/grand-junction/the-lodge-at-grand-junction/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/pueblo-county/pueblo/villa-pueblo-senior-living-community/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/boulder-county/boulder/frasier-retirement-community/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/boulder-county/longmont/altavita-memory-care-centre/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/larimer-county/fort-collins/morningstar-of-fort-collins/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/larimer-county/loveland/seven-lakes-memory-care/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/weld-county/greeley/grace-pointe-senior-care-community/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/jefferson-county/arvada/morningstar-of-arvada/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/jefferson-county/westminster/covenant-living-of-colorado/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/el-paso-county/colorado-springs/morningstar-at-mountain-shadows/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/la-plata-county/durango/cottonwood-rehabilitation-and-healthcare-center/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/denver-county/denver/sunrise-at-pinehurst/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/denver-county/denver/south-valley-post-acute-rehabilitation/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/arapahoe-county/centennial/holly-creek-retirement-community/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/arapahoe-county/aurora/garden-terrace-alzheimers-center-of-excellence-at-aurora/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/arapahoe-county/aurora/cherry-creek-retirement-village/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/colorado/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/oregon-coast/</loc>
@@ -629,6 +896,9 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/lane-county/springfield/sweetbriar-villa/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/lane-county/eugene/quail-crest-memory-care/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/lane-county/eugene/willamette-oaks/</loc><lastmod>2026-07-11</lastmod>
@@ -652,10 +922,16 @@
     <loc>https://senior.living.community/directory/oregon/lane-county/eugene/avamere-rehabilitation-of-eugene/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/oregon/lane-county/eugene/holiday-sheldon-oaks/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/oregon/lane-county/florence/shorewood-senior-living/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/douglas-county/roseburg/solista-roseburg-by-cogir/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/douglas-county/roseburg/callahan-court-memory-care/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/deschutes-county/la-pine/prairie-house-assisted-living-and-memory-care/</loc><lastmod>2026-07-11</lastmod>
@@ -680,6 +956,9 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/deschutes-county/bend/fox-hollow-independent-and-assisted-living/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/deschutes-county/bend/stone-lodge/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/deschutes-county/bend/prestige-senior-living-high-desert/</loc><lastmod>2026-07-11</lastmod>
@@ -718,6 +997,9 @@
     <loc>https://senior.living.community/directory/oregon/marion-county/salem/redwood-heights-by-cogir/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/oregon/marion-county/salem/salem-transitional-care/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/oregon/marion-county/salem/golden-nest-adult-foster-home/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
@@ -730,13 +1012,22 @@
     <loc>https://senior.living.community/directory/oregon/marion-county/salem/the-ridge-at-madrona-hills/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/oregon/washington-county/hillsboro/rosewood-memory-care/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/oregon/washington-county/hillsboro/the-springs-at-tanasbourne/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/washington-county/forest-grove/marquis-forest-grove-post-acute-rehab/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/washington-county/forest-grove/jennings-mccall-center/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/washington-county/tualatin/marquis-tualatin/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/washington-county/tigard/summerfield-estates-retirement-community/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/washington-county/beaverton/eden-adult-foster-home/</loc><lastmod>2026-07-11</lastmod>
@@ -758,6 +1049,9 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/yamhill-county/mcminnville/hillside-retirement-community/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/yamhill-county/mcminnville/brookdale-mcminnville-city-center/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/polk-county/dallas/dallas-retirement-village/</loc><lastmod>2026-07-11</lastmod>
@@ -799,6 +1093,9 @@
     <loc>https://senior.living.community/directory/oregon/klamath-county/klamath-falls/klamath-falls-senior-living/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/oregon/klamath-county/klamath-falls/marquis-plum-ridge-post-acute-rehab/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/oregon/klamath-county/klamath-falls/crystal-terrace-of-klamath-falls/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
@@ -806,6 +1103,9 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/coos-county/north-bend/baycrest-village/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/coos-county/coos-bay/bayside-terrace-by-cogir/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/coos-county/coos-bay/ocean-ridge-by-cogir/</loc><lastmod>2026-07-11</lastmod>
@@ -833,6 +1133,9 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/jackson-county/medford/farmington-square-medford/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/jackson-county/medford/avamere-at-three-fountains/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/jackson-county/ashland/ashland-post-acute/</loc><lastmod>2026-07-11</lastmod>
@@ -886,10 +1189,19 @@
     <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/elder-garden-care-home/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/cherrywood-village/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/terwilliger-plaza/</loc><lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/brookdale-oswego-springs-portland/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/west-hills-health-and-rehabilitation/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/robison-jewish-health-center/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/multnomah-county/portland/holladay-park-plaza/</loc><lastmod>2026-07-11</lastmod>
@@ -902,6 +1214,9 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/hood-river-county/hood-river/providence-down-manor/</loc><lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/oregon/hood-river-county/hood-river/hawks-ridge-assisted-living/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/oregon/</loc>
@@ -931,6 +1246,9 @@
     <loc>https://senior.living.community/directory/washington/spokane-county/spokane-valley/sullivan-park-assisted-living-community/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/washington/benton-county/kennewick/ciel-senior-living-of-tri-cities/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/washington/benton-county/kennewick/parkview-estates/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
@@ -949,13 +1267,28 @@
     <loc>https://senior.living.community/directory/washington/kitsap-county/bremerton/bay-pointe-by-cogir/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/washington/kitsap-county/bremerton/cascades-of-bremerton/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/washington/snohomish-county/edmonds/edmonds-landing-by-cogir/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/washington/snohomish-county/edmonds/sunrise-of-edmonds/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/washington/snohomish-county/mukilteo/harbour-pointe-senior-living/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/washington/snohomish-county/marysville/village-concepts-of-marysville-grandview-village/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/washington/snohomish-county/lynnwood/americas-best-adult-family-home/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/washington/snohomish-county/everett/compassionate-care-adult-family-home/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/washington/snohomish-county/everett/solista-everett-by-cogir/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/washington/snohomish-county/everett/washington-oakes/</loc><lastmod>2026-07-12</lastmod>
@@ -1054,6 +1387,9 @@
     <loc>https://senior.living.community/directory/washington/king-county/kent/farrington-court/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
+    <loc>https://senior.living.community/directory/washington/king-county/kirkland/aegis-living-kirkland-waterfront/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
     <loc>https://senior.living.community/directory/washington/king-county/kirkland/madison-house/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
@@ -1073,6 +1409,9 @@
   </url>
   <url>
     <loc>https://senior.living.community/directory/washington/king-county/redmond/fairwinds-redmond/</loc><lastmod>2026-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://senior.living.community/directory/washington/king-county/redmond/emerald-heights/</loc><lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://senior.living.community/directory/washington/king-county/seattle/columbia-lutheran-home/</loc><lastmod>2026-07-12</lastmod>
@@ -1144,7 +1483,13 @@
     <loc>https://senior.living.community/organizations/bonaventure-senior-living/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/integral-senior-living/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/morningstar-senior-living/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/emerald-communities/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/elder-care-alliance/</loc>
@@ -1154,6 +1499,9 @@
   </url>
   <url>
     <loc>https://senior.living.community/organizations/providence/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/watermark-retirement-communities/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/marquis-companies/</loc>
@@ -1171,6 +1519,9 @@
     <loc>https://senior.living.community/organizations/cascade-living-group/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/christian-living-communities/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/senior-lifestyle/</loc>
   </url>
   <url>
@@ -1180,7 +1531,13 @@
     <loc>https://senior.living.community/organizations/era-living/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/western-states-lodging/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/legacy-retirement-communities/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/vivante-living/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/oakmont-management-group/</loc>
@@ -1207,10 +1564,16 @@
     <loc>https://senior.living.community/organizations/summerset-senior-living/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/holiday-by-atria/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/weatherly-inn/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/front-porch/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/cedar-sinai-park/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/carefield-living/</loc>
@@ -1291,7 +1654,13 @@
     <loc>https://senior.living.community/organizations/living-care-lifestyles/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/civitas-senior-living/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/meridian-senior-living/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/ivy-living/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/village-concepts/</loc>
@@ -1318,6 +1687,9 @@
     <loc>https://senior.living.community/organizations/regency-pacific/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/ciel-senior-living/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/generations-llc/</loc>
   </url>
   <url>
@@ -1333,7 +1705,13 @@
     <loc>https://senior.living.community/organizations/northstar-senior-living/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/altavita-living/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/bayshire-senior-communities/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/covenant-living-communities-and-services/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/astoria-senior-living/</loc>
@@ -1342,7 +1720,13 @@
     <loc>https://senior.living.community/organizations/life-care-centers-of-america/</loc>
   </url>
   <url>
+    <loc>https://senior.living.community/organizations/fellowship-square-senior-living/</loc>
+  </url>
+  <url>
     <loc>https://senior.living.community/organizations/northwest-care-senior-living/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/life-care-services/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/the-springs-living/</loc>
@@ -1355,6 +1739,12 @@
   </url>
   <url>
     <loc>https://senior.living.community/organizations/sinceri-senior-living/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/continuing-life/</loc>
+  </url>
+  <url>
+    <loc>https://senior.living.community/organizations/kensington-senior-living/</loc>
   </url>
   <url>
     <loc>https://senior.living.community/organizations/srg-senior-living/</loc>

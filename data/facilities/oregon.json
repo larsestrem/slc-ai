@@ -2609,6 +2609,485 @@
         "https://www.caring.com/senior-living/oregon/medford/rogue-valley-manor-97504"
       ],
       "verified_date": "2026-07-11"
+    },
+    {
+      "name": "Robison Jewish Health Center",
+      "slug": "robison-jewish-health-center",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "6125 SW Boundary St",
+      "zip": "97221",
+      "phone": "(503) 535-4300",
+      "website": "https://cedarsinaipark.org",
+      "care_levels": [
+        "skilled-nursing",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 88,
+      "organization": "cedar-sinai-park",
+      "organization_name": "Cedar Sinai Park",
+      "cms_ccn": "385145",
+      "cms_rating_overall": 4,
+      "description": "Robison Jewish Health Center is a skilled nursing facility on the Cedar Sinai Park campus in southwest Portland, offering short-term rehabilitation, long-term care, and memory care rooted in Jewish cultural values. CMS rates the facility 4 stars overall, with 5-star staffing and 5-star quality measure ratings. The 88-bed home is rated High Performing for both short-term rehabilitation and long-term care by U.S. News.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/robison-jewish-health-center-385145",
+        "https://www.ohca.com/facility-finder/robison-jewish-health-center/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385145"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "West Hills Health & Rehabilitation",
+      "slug": "west-hills-health-and-rehabilitation",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "5701 SW Multnomah Blvd",
+      "zip": "97219",
+      "phone": "(503) 244-1107",
+      "website": "https://westhillshealthandrehab.com",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 180,
+      "cms_ccn": "385112",
+      "cms_rating_overall": 5,
+      "description": "West Hills Health & Rehabilitation is a 180-bed skilled nursing facility in southwest Portland that has served the area since 1970, providing short-term rehabilitation and long-term care. U.S. News reports a 5-out-of-5 overall CMS rating and a High Performing short-term rehabilitation rating.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/west-hills-health-rehabilitation-center-portland-385112",
+        "https://www.ohca.com/facility-finder/west-hills-health-rehabilitation/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385112"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Avamere at Three Fountains",
+      "slug": "avamere-at-three-fountains",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "jackson",
+      "county_name": "Jackson",
+      "city": "medford",
+      "city_name": "Medford",
+      "address": "835 Crater Lake Ave",
+      "zip": "97504",
+      "phone": "(541) 773-7717",
+      "website": "https://www.avamere.com/avamere-at-three-fountains/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 117,
+      "organization": "avamere-family-of-companies",
+      "organization_name": "Avamere Family of Companies",
+      "cms_ccn": "385126",
+      "cms_rating_overall": 5,
+      "description": "Avamere at Three Fountains is a 117-bed skilled nursing and rehabilitation facility in Medford operated by the Oregon-based Avamere Family of Companies. It carries a 5-star overall CMS rating and is rated High Performing for both short-term rehabilitation and long-term care by U.S. News.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/avamere-at-three-fountains-385126",
+        "https://www.avamere.com/avamere-at-three-fountains/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385126"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Salem Transitional Care",
+      "slug": "salem-transitional-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "3445 Boone Rd SE",
+      "zip": "97317",
+      "phone": "(503) 576-3000",
+      "website": "https://www.avamere.com/salem-transitional-care/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 80,
+      "organization": "avamere-family-of-companies",
+      "organization_name": "Avamere Family of Companies",
+      "cms_ccn": "385234",
+      "cms_rating_overall": 4,
+      "description": "Salem Transitional Care is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Salem focused on post-acute rehabilitation. It holds a 4-star overall CMS rating, including a 5-star quality measure rating, and is part of the Avamere family of post-acute care providers.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/salem-transitional-care-385234",
+        "https://www.avamere.com/salem-transitional-care/rehabilitation",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385234"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Marquis Plum Ridge Post Acute Rehab",
+      "slug": "marquis-plum-ridge-post-acute-rehab",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "klamath",
+      "county_name": "Klamath",
+      "city": "klamath-falls",
+      "city_name": "Klamath Falls",
+      "address": "1401 Bryant Williams Dr",
+      "zip": "97601",
+      "phone": "(541) 882-6691",
+      "website": "https://www.marquiscompanies.com",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "organization": "marquis-companies",
+      "organization_name": "Marquis Companies",
+      "cms_ccn": "385137",
+      "cms_rating_overall": 4,
+      "description": "Marquis Plum Ridge Post Acute Rehab is a skilled nursing facility in Klamath Falls providing post-acute rehabilitation and long-term care. The facility holds a 4-star overall rating from the Centers for Medicare & Medicaid Services, above the Oregon state average. It is operated by Marquis Companies, a Milwaukie, Oregon-based post-acute care operator.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/marquis-plum-ridge-385137",
+        "https://www.marquiscompanies.com/cna-class/marquis-plum-ridge-in-klamath-falls/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385137"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Marquis Forest Grove Post Acute Rehab",
+      "slug": "marquis-forest-grove-post-acute-rehab",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "forest-grove",
+      "city_name": "Forest Grove",
+      "address": "3300 19th Ave",
+      "zip": "97116",
+      "phone": "(503) 357-7119",
+      "website": "https://www.marquiscompanies.com/facility/marquis-forest-grove/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 63,
+      "organization": "marquis-companies",
+      "organization_name": "Marquis Companies",
+      "cms_ccn": "385204",
+      "cms_rating_overall": 5,
+      "description": "Marquis Forest Grove Post Acute Rehab is a 63-bed skilled nursing facility in Forest Grove offering short-term rehabilitation and long-term care. It received a 5-out-of-5 overall Medicare star rating and is rated High Performing for short-term rehabilitation by U.S. News.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/marquis-forest-grove-post-acute-rehabilitation-385204",
+        "https://www.marquiscompanies.com/facility/marquis-forest-grove/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385204"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Quail Crest Memory Care",
+      "slug": "quail-crest-memory-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "eugene",
+      "city_name": "Eugene",
+      "address": "2630 Lone Oak Way",
+      "zip": "97404",
+      "phone": "(541) 607-5025",
+      "website": "https://www.quailcresteugene.com",
+      "care_levels": [
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 80,
+      "review_note": "4.8/5 across 36 reviews on Birdeye (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Quail Crest Memory Care is a cottage-style memory care community in the Santa Clara area of Eugene, with five secure cottages housing sixteen residents each around fenced gardens and walking paths. Reviews consistently praise the compassionate, personalized dementia care and homelike environment.",
+      "sources": [
+        "https://reviews.birdeye.com/quail-crest-memory-care-168153439602686",
+        "https://www.quailcresteugene.com/",
+        "https://www.caring.com/senior-living/oregon/eugene/quail-crest-memory-care"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Hawks Ridge Assisted Living",
+      "slug": "hawks-ridge-assisted-living",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "hood-river",
+      "county_name": "Hood River",
+      "city": "hood-river",
+      "city_name": "Hood River",
+      "address": "1795 8th St",
+      "zip": "97031",
+      "phone": "(541) 387-4087",
+      "website": "https://compass-living.com/community/hawks-ridge-assisted-living/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "capacity": 85,
+      "organization": "compass-senior-living",
+      "organization_name": "Compass Senior Living",
+      "google_rating": 4.5,
+      "google_review_count": 46,
+      "rating_as_of": "2026-07-12",
+      "description": "Hawks Ridge Assisted Living is an 85-bed licensed assisted living community in Hood River, set against the backdrop of the Cascade Mountains and the Columbia River Gorge. The community offers personal care, medication management, meals, and 24-hour staffing, with a full weekly activity calendar. It is managed by Eugene-based Compass Senior Living.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/hood-river-or/hawks-ridge-senior-assisted-living-community/5acd0268a71d8c15cf6931ac",
+        "https://compass-living.com/community/hawks-ridge-assisted-living/",
+        "https://www.caring.com/senior-living/oregon/hood-river/hawks-ridge-assisted-living-hood-river"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Bayside Terrace by Cogir",
+      "slug": "bayside-terrace-by-cogir",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "coos",
+      "county_name": "Coos",
+      "city": "coos-bay",
+      "city_name": "Coos Bay",
+      "address": "192 Norman Ave",
+      "zip": "97420",
+      "phone": "(541) 888-2255",
+      "website": "https://cogirusa.com/communities/bayside-terrace/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "google_rating": 4.8,
+      "google_review_count": 25,
+      "rating_as_of": "2026-07-12",
+      "description": "Bayside Terrace by Cogir is an assisted living and memory care community in Coos Bay offering studio, one-bedroom, and two-bedroom apartments. Reviewers highlight attentive care staff, a clean and well-maintained building, a garden path, and weekly outings.",
+      "sources": [
+        "https://cogirusa.com/communities/bayside-terrace/",
+        "https://ultimateseniorresource.com/states/oregon/coos-bay/bayside-terrace-by-cogir",
+        "https://www.aplaceformom.com/community/bayside-terrace-by-cogir-60158"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Callahan Court Memory Care",
+      "slug": "callahan-court-memory-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "douglas",
+      "county_name": "Douglas",
+      "city": "roseburg",
+      "city_name": "Roseburg",
+      "address": "1770 NW Valley View Dr",
+      "phone": "(541) 673-3900",
+      "website": "https://www.compass-living.com/community/callahan-court-memory-care/",
+      "care_levels": [
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 48,
+      "organization": "compass-senior-living",
+      "organization_name": "Compass Senior Living",
+      "google_rating": 4.4,
+      "google_review_count": 22,
+      "rating_as_of": "2026-07-12",
+      "description": "Callahan Court Memory Care is a 48-bed licensed residential memory care community in Roseburg specializing in care for people with Alzheimer's disease and other dementias. Services include personal care, medication supervision, meals, and 24-hour supervision, and the community is managed by Eugene-based Compass Senior Living.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/roseburg-or/callahan-court-memory-care/5acd0268a71d8c15cf6930ef",
+        "https://www.compass-living.com/community/callahan-court-memory-care/",
+        "https://www.ohca.com/facility-finder/callahan-court-memory-care-community/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Summerfield Estates Retirement Community",
+      "slug": "summerfield-estates-retirement-community",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "tigard",
+      "city_name": "Tigard",
+      "address": "11205 SW Summerfield Dr",
+      "zip": "97224",
+      "phone": "(503) 620-8160",
+      "care_levels": [
+        "independent-living"
+      ],
+      "review_note": "4.4/5 across 51 reviews on Birdeye; 4.1/5 across 59 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Summerfield Estates Retirement Community is an independent living community in Tigard's Summerfield neighborhood. Residents and families describe the community as feeling like a big family, praising the friendly staff, well-kept facilities, and a wide range of activities and services.",
+      "sources": [
+        "https://reviews.birdeye.com/summerfield-estates-retirement-community-157270378470540",
+        "https://www.aplaceformom.com/community/summerfield-estates-retirement-community-59931",
+        "https://business.tigardchamber.org/list/member/summerfield-estates-retirement-community-2737"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Rosewood Memory Care",
+      "slug": "rosewood-memory-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "hillsboro",
+      "city_name": "Hillsboro",
+      "address": "2550 SE Century Blvd",
+      "zip": "97123",
+      "phone": "(503) 259-8999",
+      "care_levels": [
+        "memory-care",
+        "respite-care"
+      ],
+      "review_note": "4.5/5 average across 12 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Rosewood Memory Care is a dedicated memory care community in Hillsboro serving residents with Alzheimer's disease and other forms of dementia, with respite stays also available. Reviewers repeatedly praise the dedicated, compassionate staff, the range of resident activities, and the well-kept building.",
+      "sources": [
+        "https://www.aplaceformom.com/community/rosewood-memory-care-95940",
+        "https://www.caring.com/senior-living/oregon/hillsboro/rosewood-memory-care-hillsboro",
+        "https://www.yelp.com/biz/rosewood-memory-care-hillsboro"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Brookdale McMinnville City Center",
+      "slug": "brookdale-mcminnville-city-center",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "yamhill",
+      "county_name": "Yamhill",
+      "city": "mcminnville",
+      "city_name": "McMinnville",
+      "address": "721 NE 27th St",
+      "zip": "97128",
+      "phone": "(503) 435-0100",
+      "website": "https://www.brookdale.com",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "brookdale-senior-living",
+      "organization_name": "Brookdale Senior Living",
+      "review_note": "4.5/5 on SeniorAdvisor; 4.7/5 across 11 reviews on AssistedLivingCenter.com (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Brookdale McMinnville City Center is an assisted living and memory care community near downtown McMinnville, part of the national Brookdale Senior Living network. Residents and visitors praise the community's cleanliness, compassionate caregivers, and homey atmosphere, with studio through one-bedroom floor plans from roughly 375 to 783 square feet.",
+      "sources": [
+        "https://www.senioradvisor.com/local/brookdale-mcminnville-city-center-mcminnville-or",
+        "https://www.assistedlivingcenter.com/facilities/or/mcminnville/brookdale-mcminnville-city-center-97128/",
+        "https://www.ohca.com/facility-finder/brookdale-mcminnville-city-center/"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Holiday Sheldon Oaks",
+      "slug": "holiday-sheldon-oaks",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "eugene",
+      "city_name": "Eugene",
+      "address": "2525 Cal Young Rd",
+      "zip": "97401",
+      "phone": "(541) 341-3700",
+      "website": "https://www.holidayseniorliving.com/retirement-communities/holiday-sheldon-oaks-eugene-or",
+      "care_levels": [
+        "independent-living"
+      ],
+      "organization": "holiday-by-atria",
+      "organization_name": "Holiday by Atria",
+      "review_note": "4.4/5 across 30 resident and family reviews on SeniorSite; 49 reviews on Caring.com (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Holiday Sheldon Oaks is an independent living community in Eugene's Sheldon neighborhood, part of the national Holiday by Atria network. Monthly rent includes three homestyle meals daily, weekly housekeeping, and complimentary transportation, and reviewers highlight the welcoming atmosphere, cleanliness, and variety of activities.",
+      "sources": [
+        "https://seniorsite.org/property/show/sheldon-oaks",
+        "https://www.holidayseniorliving.com/retirement-communities/holiday-sheldon-oaks-eugene-or",
+        "https://www.caring.com/senior-living/oregon/eugene/holiday-sheldon-oaks"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "CherryWood Village",
+      "slug": "cherrywood-village",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "1417 SE 107th Ave",
+      "zip": "97216",
+      "phone": "(503) 408-0404",
+      "website": "https://www.generationsllc.com/communities/cherrywood-village/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "generations-llc",
+      "organization_name": "Generations LLC",
+      "review_note": "4.2/5 average across 42 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "CherryWood Village is a resort-style senior living campus on 12 acres in east Portland next to Adventist Health Portland, offering independent living, assisted living, and memory care. Campus amenities include a theater, chapel, library, pool, and putting course, and the community is operated by family-owned Generations LLC.",
+      "sources": [
+        "https://www.aplaceformom.com/community/cherry-wood-village-95433",
+        "https://www.generationsllc.com/communities/cherrywood-village/",
+        "https://www.caring.com/senior-living/oregon/portland/cherrywood-village"
+      ],
+      "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Stone Lodge Gracious Retirement Living",
+      "slug": "stone-lodge",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "bend",
+      "city_name": "Bend",
+      "address": "1460 NE 27th St",
+      "zip": "97701",
+      "phone": "(541) 318-0450",
+      "website": "https://seniorlivinginstyle.com/stone-lodge/",
+      "care_levels": [
+        "independent-living"
+      ],
+      "review_note": "4.3/5 average across 80 reviews on A Place for Mom (July 2026)",
+      "rating_as_of": "2026-07-12",
+      "description": "Stone Lodge is an independent living retirement community in Bend where monthly rent includes three chef-prepared meals daily, weekly housekeeping, scheduled transportation, and utilities. The pet-friendly community draws consistently positive reviews for its friendly staff, active social calendar, and attentive housekeeping.",
+      "sources": [
+        "https://www.aplaceformom.com/community/stone-lodge-60301",
+        "https://seniorlivinginstyle.com/stone-lodge/",
+        "https://www.caring.com/senior-living/oregon/bend/stone-lodge"
+      ],
+      "verified_date": "2026-07-12"
     }
   ],
   "organizations": [
@@ -2965,6 +3444,52 @@
       "description": "Providence is one of the largest not-for-profit Catholic health systems in the United States, serving communities across seven Western states. Alongside hospitals and clinics, it operates senior services including the Providence Senior Village campus in Hood River, Oregon, home to Providence Down Manor independent living and Providence Brookside Manor assisted living and memory care.",
       "sources": [
         "https://www.providence.org/locations/or/down-manor"
+      ]
+    },
+    {
+      "name": "Generations LLC",
+      "slug": "generations-llc",
+      "headquarters": "Portland, Oregon",
+      "website": "https://www.generationsllc.com",
+      "states": [
+        "OR",
+        "WA",
+        "CA"
+      ],
+      "description": "Generations LLC is a family-owned senior living company that has served seniors since 1943, developing and operating multi-level retirement campuses in the western United States. Its Oregon communities include CherryWood Village in Portland.",
+      "sources": [
+        "https://www.generationsllc.com/communities/cherrywood-village/"
+      ]
+    },
+    {
+      "name": "Holiday by Atria",
+      "slug": "holiday-by-atria",
+      "headquarters": "Louisville, Kentucky",
+      "website": "https://www.holidayseniorliving.com",
+      "states": [
+        "OR",
+        "WA",
+        "CA",
+        "TX",
+        "FL"
+      ],
+      "description": "Holiday by Atria is one of the nation's largest independent living operators, managing roughly 240 retirement communities across the United States. Founded in 1971 as Holiday Retirement, the brand became part of Atria Senior Living in 2021; its Oregon communities include Sheldon Oaks in Eugene and Edgewood Downs in Beaverton.",
+      "sources": [
+        "https://www.holidayseniorliving.com/retirement-communities/holiday-sheldon-oaks-eugene-or"
+      ]
+    },
+    {
+      "name": "Cedar Sinai Park",
+      "slug": "cedar-sinai-park",
+      "headquarters": "Portland, Oregon",
+      "website": "https://cedarsinaipark.org",
+      "states": [
+        "OR"
+      ],
+      "description": "Cedar Sinai Park is a Portland, Oregon nonprofit senior care organization rooted in Jewish values, operating a campus in southwest Portland that includes the Robison Jewish Health Center skilled nursing facility and the Rose Schnitzer Manor assisted living community.",
+      "sources": [
+        "https://cedarsinaipark.org",
+        "https://www.jewishportland.org/community-directory/cedar-sinai-park"
       ]
     }
   ]

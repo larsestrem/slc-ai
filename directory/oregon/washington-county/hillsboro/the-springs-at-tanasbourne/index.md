@@ -4,7 +4,7 @@ title: "The Springs at Tanasbourne"
 seo_title: "The Springs at Tanasbourne — Senior Living in Hillsboro, OR"
 description: "The Springs at Tanasbourne is a senior living community in Hillsboro's Tanasbourne district with a resident capacity of about 230, offering independent living"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "The Springs at Tanasbourne", "url": "/directory/oregon/washington-county/hillsboro/the-springs-at-tanasbourne/"}]
-nearby: []
+nearby: [{"name": "Rosewood Memory Care", "url": "/directory/oregon/washington-county/hillsboro/rosewood-memory-care/", "city_name": "Hillsboro", "state_abbrev": "OR", "care_levels": ["memory-care", "respite-care"], "description": "Rosewood Memory Care is a dedicated memory care community in Hillsboro serving residents with Alzheimer's disease and other forms of dementia, with respite stays also available. Reviewers repeatedly praise the dedicated, compassionate staff, the range of resident activities, and the well-kept building."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"

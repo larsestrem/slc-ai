@@ -54,6 +54,15 @@ If you only read one page, read that one. And see
 **[the cost comparison](/marketing/cost-comparison/)** for what a targeted visitor costs
 next to TV, radio, mail, and per-placement referral fees.
 
+## One community per market
+
+We take **one client community within a service radius** — we will not run campaigns for your
+direct competitor down the street without your approval. Your marketing shouldn't cannibalize
+itself, and neither should ours. If your community reaches the demand it can serve and you'd
+rather see overflow go to another local community that does good work, that introduction is
+yours to make — communities that do right by residents deserve the business, and the ones that
+don't will feel it.
+
 ## Why us
 
 - **We know this industry from the family's side.** We built the directory and the guides

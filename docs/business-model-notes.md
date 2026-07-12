@@ -55,3 +55,11 @@ richness" — without ever publicly promising future pricing.
   layouts, virtual tours come with the paid tier or a photo-package purchase.
 - **Expansion roadmap:** Hawaii + Western states (AZ, UT, CO seeded 2026-07; next: NM, MT,
   WY, AK) — staying in Pacific/Mountain time zones is a deliberate service-hours choice.
+
+## Marketing territory policy (2026-07-12)
+
+One client community per service radius; competing engagements only with the existing
+client's approval. Overflow-referral introductions between good local operators encouraged —
+it rewards quality and deepens relationships. Deep-coverage priority states: CA, OR, WA
+(+ HI); other states keep growing at research pace and expand fast later since the system
+is built.

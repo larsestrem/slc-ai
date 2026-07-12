@@ -106,3 +106,5 @@ Often, yes — a substantial share of assisted living or nursing costs can quali
 - **State Health Insurance Assistance Program (SHIP)** — free, unbiased Medicare/Medicaid counseling.
 - **National Academy of Elder Law Attorneys (naela.org)** — find an elder law attorney.
 - **Accredited Veterans Service Officers / county Veterans Service Offices** — free help with VA claims.
+
+**Do the math on your own numbers:** the [budget worksheet](/tools/budget-worksheet/) turns income, cost, and savings into a years-of-runway figure — privately, on your own device.

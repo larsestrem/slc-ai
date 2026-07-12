@@ -109,3 +109,5 @@ Because the tour is the facility's best foot forward and contracts are hard to u
 - **Long-term care ombudsman** offices know local facilities' complaint histories and will talk to you before you choose. Find yours through your state's ombudsman program.
 - **Eldercare Locator** (1-800-677-1116) can point you to your local ombudsman and Area Agency on Aging.
 - **Area Agencies on Aging** often offer free options counseling to help you compare facilities.
+
+**Bring the worksheet:** our [community comparison worksheet](/tools/comparison-worksheet/) asks every community the same questions side by side — fill it in as you tour, or print it blank.

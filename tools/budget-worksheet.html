@@ -1,0 +1,101 @@
+---
+layout: default
+title: "Senior Care Budget Worksheet — How Long Will the Money Last?"
+description: "A private, on-device worksheet: monthly income vs. the real cost of care, the monthly gap, and how many years savings will cover — with rising costs included."
+permalink: /tools/budget-worksheet/
+crumbs:
+  - name: Budget Worksheet
+    url: /tools/budget-worksheet/
+---
+<article>
+  <h1>Senior Care Budget Worksheet</h1>
+  <p class="lead">The question behind every senior care decision: <em>how long will the money
+  last?</em> Enter monthly income, the care cost you're considering, and savings — this page
+  does the runway math, including annual cost increases. Nothing you type leaves your device.</p>
+
+  <div class="two-col">
+    <div class="panel">
+      <h2>Monthly income (theirs)</h2>
+      <p><label>Social Security<br><input type="number" class="bw" id="ss" placeholder="0"></label></p>
+      <p><label>Pension(s)<br><input type="number" class="bw" id="pension" placeholder="0"></label></p>
+      <p><label>Investment / rental / annuity income<br><input type="number" class="bw" id="invest" placeholder="0"></label></p>
+      <p><label>Long-term care insurance daily/monthly benefit (if claiming)<br><input type="number" class="bw" id="ltc" placeholder="0"></label></p>
+      <p><label>VA benefit (e.g., Aid &amp; Attendance)<br><input type="number" class="bw" id="va" placeholder="0"></label></p>
+      <p><label>Family contribution (realistic, sustainable)<br><input type="number" class="bw" id="family" placeholder="0"></label></p>
+      <h2>The care option</h2>
+      <p><label>Monthly cost of the care you're considering<br><input type="number" class="bw" id="cost" placeholder="6500"></label>
+      <span class="count">Use a written quote at the assessed care level, or estimates from our <a href="/tools/cost-calculator/">cost calculator</a>.</span></p>
+      <p><label>Assumed annual cost increase<br>
+        <select id="inc" class="bw"><option value="0.03">3%</option><option value="0.05" selected>5%</option><option value="0.08">8%</option></select></label></p>
+      <h2>Savings &amp; assets available for care</h2>
+      <p><label>Liquid savings &amp; investments<br><input type="number" class="bw" id="savings" placeholder="0"></label></p>
+      <p><label>Expected net proceeds if selling the home (0 if keeping)<br><input type="number" class="bw" id="home" placeholder="0"></label></p>
+    </div>
+
+    <div>
+      <div class="panel" id="results" aria-live="polite">
+        <h2>The math</h2>
+        <dl class="kv">
+          <dt>Total monthly income</dt><dd id="r-income">—</dd>
+          <dt>Monthly care cost</dt><dd id="r-cost">—</dd>
+          <dt>Monthly gap</dt><dd id="r-gap">—</dd>
+          <dt>Assets available</dt><dd id="r-assets">—</dd>
+          <dt><strong>Runway</strong></dt><dd id="r-runway"><strong>—</strong></dd>
+        </dl>
+        <p class="count" id="r-note"></p>
+      </div>
+      <section class="prose">
+        <h2>Reading your number</h2>
+        <p><strong>Runway under 3 years:</strong> talk to an elder law attorney <em>now</em> about
+        <a href="/guides/medicaid-vs-medicare/">Medicaid</a> planning — the 5-year look-back rewards early
+        action — and ask every community whether they accept Medicaid after private pay.
+        <strong>3–7 years:</strong> you have options; compare communities on their Medicaid policy
+        anyway, and read <a href="/guides/paying-for-senior-care/">the full funding toolkit</a>.
+        <strong>Over 7 years:</strong> choose on fit, not fear — and still get the
+        <a href="/guides/whats-not-included-hidden-fees/">fee schedule in writing</a>.</p>
+        <p class="notice">This is arithmetic, not financial advice. Costs rise with care needs,
+        not just inflation — treat the runway as optimistic, and pressure-test big decisions
+        with a fee-only financial planner or elder law attorney.</p>
+      </section>
+    </div>
+  </div>
+</article>
+
+<style>
+.bw { width: 100%; max-width: 16rem; border: 1px solid var(--line); border-radius: 6px; padding: .4rem .5rem; font: inherit; background: var(--bg); color: var(--ink); }
+#results dd { font-variant-numeric: tabular-nums; }
+</style>
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var fmt = function (n) { return "$" + Math.round(n).toLocaleString("en-US"); };
+  function calc() {
+    var income = ["ss","pension","invest","ltc","va","family"].reduce(function (s, id) { return s + (parseFloat($(id).value) || 0); }, 0);
+    var cost = parseFloat($("cost").value) || 0;
+    var inc = parseFloat($("inc").value);
+    var assets = (parseFloat($("savings").value) || 0) + (parseFloat($("home").value) || 0);
+    $("r-income").textContent = fmt(income) + "/mo";
+    $("r-cost").textContent = cost ? fmt(cost) + "/mo" : "—";
+    var gap = cost - income;
+    $("r-gap").textContent = cost ? (gap > 0 ? fmt(gap) + "/mo shortfall" : "covered by income (+" + fmt(-gap) + "/mo)") : "—";
+    $("r-assets").textContent = fmt(assets);
+    var out = "—", note = "";
+    if (cost > 0) {
+      if (gap <= 0) { out = "Income covers the cost"; note = "Even so, plan for rising care levels — see the guides below."; }
+      else {
+        var bal = assets, months = 0, g = gap, c = cost;
+        while (bal > 0 && months < 600) {
+          bal -= g; months++;
+          if (months % 12 === 0) { c *= (1 + inc); g = c - income; if (g < 0) g = 0; }
+        }
+        out = months >= 600 ? "50+ years" : (months / 12).toFixed(1) + " years (" + months + " months)";
+        note = "Assumes the gap grows " + Math.round(inc * 100) + "%/yr with cost increases. Care-level increases would shorten this.";
+      }
+    }
+    $("r-runway").innerHTML = "<strong>" + out + "</strong>";
+    $("r-note").textContent = note;
+  }
+  document.querySelectorAll(".bw").forEach(function (el) { el.addEventListener("input", calc); });
+  calc();
+})();
+</script>

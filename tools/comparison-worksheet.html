@@ -1,0 +1,97 @@
+---
+layout: default
+title: "Community Comparison Worksheet — Ask Every Facility the Same Questions"
+description: "A printable side-by-side worksheet for comparing up to three senior living communities fairly: costs at the assessed level, staffing, fees, food, and gut feel."
+permalink: /tools/comparison-worksheet/
+crumbs:
+  - name: Comparison Worksheet
+    url: /tools/comparison-worksheet/
+---
+<article>
+  <h1>Community Comparison Worksheet</h1>
+  <p class="lead">The trap in comparing communities is that each one quotes differently. This
+  worksheet fixes that: the same questions, asked everywhere, side by side. Fill it in on
+  screen as you call and tour, or <button class="btn ghost" onclick="window.print()" style="font-size:.9em;padding:.3rem .8rem">print it blank</button> and bring it with you.</p>
+
+  <p class="notice">Your answers stay on your device only — nothing you type here is sent or
+  saved anywhere. Print or screenshot when you're done.</p>
+
+  <div class="table-scroll">
+    <table class="worksheet">
+      <thead>
+        <tr>
+          <th style="min-width:14rem">Question</th>
+          <th><input placeholder="Community 1" aria-label="Community 1 name"></th>
+          <th><input placeholder="Community 2" aria-label="Community 2 name"></th>
+          <th><input placeholder="Community 3" aria-label="Community 3 name"></th>
+        </tr>
+      </thead>
+      <tbody id="ws-body"></tbody>
+    </table>
+  </div>
+
+  <section class="prose">
+    <h2>How to use it well</h2>
+    <p>Get the cost row from a <em>written</em> quote at your parent's assessed care level —
+    never the advertised starting rate (<a href="/guides/whats-not-included-hidden-fees/">here's
+    why</a>). Check every finalist's
+    <a href="/guides/checking-complaints-and-state-records/">official record</a>, use the
+    <a href="/guides/touring-checklist/">touring checklist</a> on each visit, and trust the
+    last row — after everything measurable, how a place <em>felt</em> is real data too.</p>
+  </section>
+</article>
+
+<style>
+.worksheet input, .worksheet textarea { width: 100%; border: 1px solid var(--line); border-radius: 6px; padding: .35rem .5rem; font: inherit; font-size: .9rem; background: var(--bg); color: var(--ink); }
+.worksheet td:first-child { font-size: .9rem; font-weight: 500; }
+.worksheet .sec td { background: var(--soft); font-weight: 700; font-size: .85rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+@media print {
+  .worksheet input, .worksheet textarea { border: none; border-bottom: 1px solid #999; border-radius: 0; min-height: 1.6em; }
+  .btn, .notice { display: none !important; }
+}
+</style>
+<script>
+(function () {
+  var rows = [
+    ["sec", "Cost — in writing"],
+    ["Total monthly cost at OUR assessed care level (not base rate)"],
+    ["One-time community/move-in fee"],
+    ["Rate increases: last 3 years' actual %"],
+    ["What's billed extra (meds mgmt, supplies, transport, 2nd person)"],
+    ["Accepts Medicaid? Directly or after private pay?"],
+    ["sec", "Care & staffing"],
+    ["Care levels offered / what forces a move-out"],
+    ["Caregivers on duty: day vs overnight"],
+    ["Nurse coverage (24/7, daytime, on call)"],
+    ["Staff turnover / longest-tenured caregiver"],
+    ["sec", "Daily life"],
+    ["Food: ate a meal? rating & notes"],
+    ["Activity calendar: real and current?"],
+    ["Room: type, size, private bath?"],
+    ["Pets / couples / age policies"],
+    ["Transportation (shuttle, medical rides, fees)"],
+    ["sec", "Trust checks"],
+    ["State inspection record & their answer about it"],
+    ["Reviews: recent patterns (not the average)"],
+    ["Unannounced second visit: what you saw"],
+    ["References: talked to a current family?"],
+    ["sec", "The gut row"],
+    ["How residents looked & how staff spoke to them"],
+    ["Would Mom/Dad feel at home here? Why?"]
+  ];
+  var tb = document.getElementById("ws-body");
+  rows.forEach(function (r) {
+    var tr = document.createElement("tr");
+    if (r[0] === "sec") {
+      tr.className = "sec";
+      tr.innerHTML = '<td colspan="4">' + r[1] + "</td>";
+    } else {
+      tr.innerHTML = "<td>" + r[0] + "</td>" +
+        '<td><textarea rows="2" aria-label="' + r[0] + ' — community 1"></textarea></td>' +
+        '<td><textarea rows="2" aria-label="' + r[0] + ' — community 2"></textarea></td>' +
+        '<td><textarea rows="2" aria-label="' + r[0] + ' — community 3"></textarea></td>';
+    }
+    tb.appendChild(tr);
+  });
+})();
+</script>

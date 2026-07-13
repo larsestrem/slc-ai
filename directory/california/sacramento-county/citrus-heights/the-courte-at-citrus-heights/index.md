@@ -5,7 +5,7 @@ title: "The Courte at Citrus Heights"
 seo_title: "The Courte at Citrus Heights — Senior Living in Citrus Heights, CA"
 description: "Dedicated memory care community on Sunrise Boulevard in Citrus Heights serving residents with Alzheimer's and other dementias. Care is built around Frontier's"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Courte at Citrus Heights", "url": "/directory/california/sacramento-county/citrus-heights/the-courte-at-citrus-heights/"}]
-nearby: [{"name": "Cogir of Stock Ranch Senior Living", "url": "/directory/california/sacramento-county/citrus-heights/cogir-of-stock-ranch-senior-living/", "city_name": "Citrus Heights", "state_abbrev": "CA", "care_levels": ["assisted-living"], "quality_tier": "unrated", "description": "An assisted living community in Citrus Heights, formerly a Brookdale community and now operated by Cogir Senior Living. Families praise the kind, attentive caregivers, clean environment, and dining. Some reviews note staff turnover and want activities to be more inclusive for less independent residents."}]
+nearby: [{"name": "Cogir of Stock Ranch Senior Living", "url": "/directory/california/sacramento-county/citrus-heights/cogir-of-stock-ranch-senior-living/", "city_name": "Citrus Heights", "state_abbrev": "CA", "care_levels": ["assisted-living"], "quality_tier": "unrated", "description": "An assisted living community in Citrus Heights, formerly a Brookdale community and now operated by Cogir Senior Living. Families praise the kind, attentive caregivers, clean environment, and dining."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

@@ -4,7 +4,7 @@ title: "Wildflower Lodge"
 seo_title: "Wildflower Lodge — Senior Living in La Grande, OR"
 description: "Wildflower Lodge is an assisted living and memory care community in La Grande with 43 assisted living apartments and 30 memory care apartments, operated by Co"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Wildflower Lodge", "url": "/directory/oregon/union-county/la-grande/wildflower-lodge/"}]
-nearby: [{"name": "Angeline Senior Living", "url": "/directory/oregon/union-county/la-grande/angeline-senior-living/", "city_name": "La Grande", "state_abbrev": "OR", "care_levels": ["assisted-living"], "quality_tier": "unrated", "facility_size": "medium", "description": "A 15-bed licensed residential care facility in downtown La Grande providing assisted living in a small, home-like setting. Reviewers repeatedly describe loving, caring staff and personalized attention, at a monthly cost below the La Grande average. One of the few multi-review-rated senior care options in Union County."}]
+nearby: [{"name": "Angeline Senior Living", "url": "/directory/oregon/union-county/la-grande/angeline-senior-living/", "city_name": "La Grande", "state_abbrev": "OR", "care_levels": ["assisted-living"], "quality_tier": "unrated", "facility_size": "medium", "description": "A 15-bed licensed residential care facility in downtown La Grande providing assisted living in a small, home-like setting. Reviewers repeatedly describe loving, caring staff and personalized attention, at a monthly cost below the La Grande average."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"

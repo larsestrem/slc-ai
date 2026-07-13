@@ -22,7 +22,7 @@ sources: ["https://www.checkbook.org/wa/renton/assisted-living-facilities/brookd
 verified_date: "2026-07-13"
 review_note: "Reported Google-type rating of approximately 2.7/5. Separately, 16 reviews on A Place for Mom (as \"Renton Assisted Living\") average 2.8/5 for overall experience (July 2026 aggregator data). Reviews are described as highly polarized but skewing negative, with recurring reports of understaffing, inconsistent medication administration, unprofessional staff conduct, and facility maintenance issues, alongside a minority of positive reviews citing friendly staff and a clean environment."
 quality_tier: "unrated"
-description_full: "Greenlake Senior Living Renton (also marketed as Renton Assisted Living) is an assisted living and memory care community at 71 SW Victoria St in Renton, located near the south end of Lake Washington and managed by Brookdale-affiliated ownership. It offers private and companion apartments. Published consumer review data for this community is below the market average and includes a substantial volume of negative reports alongside some positive ones."
+description_full: "Greenlake Senior Living Renton (also marketed as Renton Assisted Living) is an assisted living and memory care community at 71 SW Victoria St in Renton, located near the south end of Lake Washington and managed by Brookdale-affiliated ownership. It offers private and companion apartments."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/renton-assisted-living-71339"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -21,7 +21,7 @@ facility_size: "large"
 sources: ["https://lebanonretirement.com/", "https://seniorhomes.net/communities/oaks-at-lebanon-lebanon-or-1879", "https://www.aplaceformom.com/community/the-oaks-at-lebanon-95216"]
 verified_date: "2026-07-11"
 quality_tier: "unrated"
-description_full: "The Oaks at Lebanon is a retirement and assisted living community in Lebanon offering 104 private apartments in studio, one-bedroom, and two-bedroom layouts, each with a private bathroom and kitchenette. Resident and family reviews consistently praise the long-tenured staff, dining room service, and activity programming."
+description_full: "The Oaks at Lebanon is a retirement and assisted living community in Lebanon offering 104 private apartments in studio, one-bedroom, and two-bedroom layouts, each with a private bathroom and kitchenette."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-oaks-at-lebanon-95216"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

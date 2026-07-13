@@ -23,7 +23,7 @@ verified_date: "2026-07-13"
 review_note: "4.9/5 across 20 reviews on Assisted Living Center (July 2026)"
 quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: 4.9/5 across 20 reviews on Assisted Living Center (July 2026)."
 quality_tier: "meets_standard"
-description_full: "Shalom Adult Foster Care Home is a five-resident adult foster home in an east Medford neighborhood. Registered nurses are available day and night for medication administration, blood-glucose monitoring, transfers, and memory care for Alzheimer's and dementia. Reviews emphasize individualized care in a clean, comfortable, family-style home."
+description_full: "Shalom Adult Foster Care Home is a five-resident adult foster home in an east Medford neighborhood. Registered nurses are available day and night for medication administration, blood-glucose monitoring, transfers, and memory care for Alzheimer's and dementia."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/medford/shalom-adult-foster-care-home-97504/"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/shalom-adult-foster-care-home-1361440"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

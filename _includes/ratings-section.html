@@ -54,12 +54,14 @@ how the rating is determined.
     </div>
     <div class="rating-body">
       <h3>Family &amp; resident reviews</h3>
-      <p><strong>Who writes it:</strong> families and residents, on public review sites{% if page.google_rating and page.google_review_count %} — {{ page.google_rating }} of 5 across {{ page.google_review_count }} reviews{% if page.rating_as_of %} as of {{ page.rating_as_of | date: "%B %Y" }}{% endif %}{% elsif page.review_note %} ({{ page.review_note }}){% endif %}.
+      <p><strong>Who writes it:</strong> families and residents, on public review sites{% if page.google_rating and page.google_review_count %} — {{ page.google_rating }} of 5 across {{ page.google_review_count }} reviews{% if page.rating_as_of %} as of {{ page.rating_as_of | date: "%B %Y" }}{% endif %}{% endif %}.
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
       inspections. Read the recent ones and the middle-star ones, not just the average.{% if page.facility_size == 'small' %} A home this small serves only a handful of families at a time, so even a great one collects far fewer reviews than a 100-bed building — <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">judge it by the record and your visit, not the review count</a>.{% endif %}</p>
-      {%- if page.review_links and page.review_links.size > 0 %}
-      <p><strong>Read the reviews:</strong> {% for rl in page.review_links %}<a href="{{ rl.url }}" rel="nofollow noopener">{{ rl.name }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %} — see the ratings and what families wrote, then judge for yourself.</p>
-      {%- endif %}
+      <p>{%- if page.review_links and page.review_links.size > 0 %}<strong>Read the reviews
+      yourself:</strong> {% for rl in page.review_links %}<a href="{{ rl.url }}" rel="nofollow noopener">{{ rl.name }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %} — that's where the
+      actual reviews live; we only show the aggregate rating here.
+      {%- else %}Search the community's name on Google or a senior-living review site to read the
+      actual reviews — we only show the aggregate rating here.{% endif %}</p>
       {% include review-caveats.html %}
     </div>
   </div>
@@ -70,13 +72,15 @@ how the rating is determined.
   {%- endif %}
 
   {%- if page.quality_tier == "serious_concerns" %}
-  <p class="notice tier-notice-danger"><strong>Serious concerns on the record.</strong>
-  {% if page.serious_concern_note %}{{ page.serious_concern_note }}{% else %}This community carries
-  a documented serious flag — read the sources above closely.{% endif %} We still list it: a family
-  searching for this community by name deserves the real record, not a blank page. Read every
-  source above before considering it further, and talk to the
-  <a href="/guides/checking-complaints-and-state-records/">long-term care ombudsman</a> about what
-  you find.</p>
+  <p class="notice tier-notice-danger"><strong>Serious concerns on the official record.</strong>
+  This community carries a documented, sourced flag from a government regulator or a public
+  review platform — a Special Focus Facility designation, a substantiated finding, or similar. We
+  don't describe the incident ourselves; that's the regulator's and the reviewers' information, not
+  ours to retell. Read it directly at the primary source linked above ({% if page.cms_ccn %}the
+  federal Care Compare report{% else %}the state license lookup{% endif %}{% if page.review_links and page.review_links.size > 0 %} and the review platforms linked above{% endif %}).
+  We still list this community: a family searching for it by name deserves the real record, not a
+  blank page. Talk to the <a href="/guides/checking-complaints-and-state-records/">long-term care
+  ombudsman</a> about what you find before considering it further.</p>
   {%- elsif page.quality_tier == "below_standard" %}
   <p class="count"><strong>Below our recommended bar — here's why it's still here.</strong> A lower
   rating doesn't automatically mean no family should choose it, especially if it's the closest or

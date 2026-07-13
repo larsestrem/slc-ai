@@ -24,7 +24,7 @@ google_rating: 4.2
 google_review_count: 24
 rating_as_of: "2026-07-12"
 quality_tier: "meets_standard"
-description_full: "An assisted living and independent living community in McMinnville wine country with 81 assisted living apartments and 16 retirement cottages, two miles from historic downtown. Families praise the compassionate staff, though some reviews mention staffing and management turnover."
+description_full: "An assisted living and independent living community in McMinnville wine country with 81 assisted living apartments and 16 retirement cottages, two miles from historic downtown."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/mcminnville-or/vineyard-heights-assisted-living-and-retirement-cottages/5acd0268a71d8c15cf6931a8"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

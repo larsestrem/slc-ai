@@ -552,7 +552,7 @@
       "facility_size": "large",
       "organization": "merrill-gardens",
       "organization_name": "Merrill Gardens",
-      "description": "Truewood by Merrill, Vancouver is a pet-friendly independent living community in the Cascade Park area of east Vancouver, offering studio, one-, and two-bedroom apartments. Amenities include a swimming pool, fitness area, theater, billiard lounge, salon, and library. Reviews highlight cleanliness, dining options, and friendly staff.",
+      "description": "Truewood by Merrill, Vancouver is a pet-friendly independent living community in the Cascade Park area of east Vancouver, offering studio, one-, and two-bedroom apartments. Amenities include a swimming pool, fitness area, theater, billiard lounge, salon, and library.",
       "sources": [
         "https://www.merrillgardens.com/senior-living/wa/vancouver/mcgillivray-blvd/",
         "https://www.aplaceformom.com/community/truewood-by-merrill-vancouver-72680",
@@ -1188,7 +1188,7 @@
       "google_rating": 4.3,
       "google_review_count": 15,
       "rating_as_of": "2026-07-12",
-      "description": "Parkview Estates is a 120-bed retirement and assisted living community in Kennewick operated by Regency Pacific. Families describe an inviting, homey building with responsive staff, pet-friendly policies, and activities ranging from piano concerts to exercise classes.",
+      "description": "Parkview Estates is a 120-bed retirement and assisted living community in Kennewick operated by Regency Pacific.",
       "sources": [
         "https://www.seniorly.com/assisted-living/washington/kennewick/parkview-estates",
         "https://www.seniorhousingnet.com/seniorliving-detail/parkview-estates_7820-w-6th-ave_kennewick_wa_99336-625369",
@@ -1275,7 +1275,7 @@
         "memory-care"
       ],
       "review_note": "4.8/5 average across 13 reviews on A Place for Mom (July 2026)",
-      "description": "Summer Wood Alzheimer's Special Care Center is a dedicated memory care community in Moses Lake serving residents with Alzheimer's disease and other dementias. Reviews describe well-trained, patient caregivers, strong teamwork, and residents who are happier and more engaged after moving in.",
+      "description": "Summer Wood Alzheimer's Special Care Center is a dedicated memory care community in Moses Lake serving residents with Alzheimer's disease and other dementias.",
       "sources": [
         "https://www.aplaceformom.com/community/summer-wood-alzheimers-special-care-center-97764",
         "https://www.seniorly.com/memory-care/washington/moses-lake/summer-wood-alzheimers-special-care-center",
@@ -1577,7 +1577,7 @@
       ],
       "organization": "cogir-senior-living",
       "organization_name": "Cogir Senior Living",
-      "description": "Bay Pointe by Cogir sits on Oyster Bay in Bremerton and has served seniors for more than 20 years, offering independent living, assisted living and the Marine Courte memory care neighborhood. Families describe exceptionally caring, attentive staff, a clean and welcoming building and a full activity calendar.",
+      "description": "Bay Pointe by Cogir sits on Oyster Bay in Bremerton and has served seniors for more than 20 years, offering independent living, assisted living and the Marine Courte memory care neighborhood.",
       "review_note": "4.8/5 average across 46 family reviews on A Place for Mom (July 2026)",
       "rating_as_of": "2026-07-12",
       "sources": [
@@ -1611,7 +1611,7 @@
       "capacity": 112,
       "organization": "northwest-care-senior-living",
       "organization_name": "Northwest Care Senior Living",
-      "description": "Liberty Shores Senior Living is a 112-bed assisted living community with specialized dementia care on Liberty Bay in Poulsbo, one of the area's few locally owned and managed communities. Reviews highlight helpful staff, scenic water views and a clean, well-kept environment.",
+      "description": "Liberty Shores Senior Living is a 112-bed assisted living community with specialized dementia care on Liberty Bay in Poulsbo, one of the area's few locally owned and managed communities.",
       "google_rating": 4.2,
       "google_review_count": 26,
       "review_note": "4.2/5 across 26 Google reviews; 4.3/5 across 28 reviews on Birdeye (July 2026)",
@@ -1710,7 +1710,7 @@
       ],
       "organization": "village-concepts",
       "organization_name": "Village Concepts",
-      "description": "Woodland Village is a Village Concepts retirement community in Chehalis offering independent living, assisted living, memory care support and independent senior cottages on an expansive campus. Reviews frequently highlight engaging activities, supportive administrative staff and a caring atmosphere, at prices well below regional averages.",
+      "description": "Woodland Village is a Village Concepts retirement community in Chehalis offering independent living, assisted living, memory care support and independent senior cottages on an expansive campus.",
       "review_note": "4.5/5 across 19 reviews as shown in senior-living directory listings (July 2026)",
       "rating_as_of": "2026-07-12",
       "sources": [
@@ -1890,7 +1890,7 @@
       "organization": "cascade-living-group",
       "organization_name": "Cascade Living Group",
       "review_note": "4.5/5 with 78 reviews on SeniorAdvisor; 4.4/5 with 14 reviews on Caring.com (July 2026)",
-      "description": "Cascades of Bremerton is a campus-style community offering independent living (The Willows), assisted living, and memory care in East Bremerton. Families praise the restaurant-style dining, active social programming, and landscaped grounds, though some reviews note staffing turnover.",
+      "description": "Cascades of Bremerton is a campus-style community offering independent living (The Willows), assisted living, and memory care in East Bremerton.",
       "sources": [
         "https://www.senioradvisor.com/local/cascades-of-bremerton-bremerton-wa",
         "https://www.caring.com/senior-living/washington/bremerton/cascades-of-bremerton",
@@ -1919,7 +1919,7 @@
       "organization": "village-concepts",
       "organization_name": "Village Concepts",
       "review_note": "4.3/5 across 8 reviews on Birdeye; 25 reviews on Caring.com (July 2026)",
-      "description": "Grandview Village is a Village Concepts retirement community in Marysville offering independent living with assisted living services. Residents and families praise the warm, compassionate staff and full activity calendar, while some reviews note the building shows its age.",
+      "description": "Grandview Village is a Village Concepts retirement community in Marysville offering independent living with assisted living services.",
       "sources": [
         "https://reviews.birdeye.com/village-concepts-of-marysville-grandview-village-157269438321721",
         "https://www.caring.com/senior-living/washington/marysville/grandview-village-inc-98270",
@@ -1950,7 +1950,7 @@
       "organization": "ciel-senior-living",
       "organization_name": "Ciel Senior Living",
       "review_note": "4.4/5 across 18 reviews on AssistedLivingCenter; 49 reviews on A Place for Mom (July 2026)",
-      "description": "Ciel Senior Living of Tri-Cities is a multi-building campus in Kennewick offering independent living, assisted living, and a dedicated memory care building on North Young Street. Families describe a well-kept campus with compassionate caregivers and robust social programming, though reviews of the memory care building are more mixed.",
+      "description": "Ciel Senior Living of Tri-Cities is a multi-building campus in Kennewick offering independent living, assisted living, and a dedicated memory care building on North Young Street.",
       "sources": [
         "https://www.aplaceformom.com/community/ciel-senior-living-of-tri-cities-1383454",
         "https://www.assistedlivingcenter.com/facilities/wa/kennewick/ciel-of-tri-cities-99336/",
@@ -2258,7 +2258,7 @@
       "capacity": 107,
       "organization": "sunrise-senior-living",
       "organization_name": "Sunrise Senior Living",
-      "description": "Sunrise of Issaquah is a 107-bed assisted living and memory care community on the Issaquah-Fall City Road, recognized by U.S. News as Best Assisted Living and Best Memory Care for 2026. Families describe attentive, kind staff and a smooth transition process for new residents.",
+      "description": "Sunrise of Issaquah is a 107-bed assisted living and memory care community on the Issaquah-Fall City Road, recognized by U.S. News as Best Assisted Living and Best Memory Care for 2026.",
       "review_note": "4.8/5 across 50 reviews on Birdeye; 4.7 Google rating (July 2026)",
       "sources": [
         "https://reviews.birdeye.com/sunrise-of-issaquah-168163949706865",
@@ -2406,7 +2406,7 @@
       "care_levels": [
         "assisted-living"
       ],
-      "description": "Stafford Suites Sumner is an assisted living community in Sumner where staff assist with daily-living needs from medication management to bathing and dressing. The building includes an on-site diner, game and activity rooms, and a computer room, and families describe it as safe and homey.",
+      "description": "Stafford Suites Sumner is an assisted living community in Sumner where staff assist with daily-living needs from medication management to bathing and dressing.",
       "review_note": "4.5/5 across 16 reviews on SeniorAdvisor (July 2026)",
       "sources": [
         "https://www.senioradvisor.com/local/stafford-suites-sumner-wa",
@@ -3223,7 +3223,7 @@
       ],
       "facility_size": "small",
       "capacity": 3,
-      "description": "Always With Love Care is a licensed three-bed adult family home in Kent offering personal care, medication management, meals and 24-hour supervision in an intimate home setting. Families describe the home as spotless with excellent food and warm, attentive caregivers.",
+      "description": "Always With Love Care is a licensed three-bed adult family home in Kent offering personal care, medication management, meals and 24-hour supervision in an intimate home setting.",
       "google_rating": 5.0,
       "google_review_count": 4,
       "rating_as_of": "2026-07-13",
@@ -3884,7 +3884,7 @@
       "facility_size": "large",
       "capacity": 77,
       "review_note": "3.4/5 across 7 reviews, per a Bellingham-market senior-living aggregator summary (July 2026); this is below the ~4.0/5 average reported for Bellingham assisted living overall.",
-      "description": "Highgate Senior Living - Bellingham is a 77-apartment senior living community at 155 E Kellogg Rd in Bellingham offering independent living, assisted living, and memory care. It is licensed with the State of Washington. Available consumer review data for this community shows a rating below the local market average.",
+      "description": "Highgate Senior Living - Bellingham is a 77-apartment senior living community at 155 E Kellogg Rd in Bellingham offering independent living, assisted living, and memory care. It is licensed with the State of Washington.",
       "sources": [
         "https://www.highgateseniorliving.com/communities/bellingham/",
         "https://www.seniorliving.org/assisted-living/washington/bellingham/"
@@ -3911,7 +3911,7 @@
       ],
       "facility_size": "medium",
       "review_note": "Reported Google-type rating of approximately 2.7/5. Separately, 16 reviews on A Place for Mom (as \"Renton Assisted Living\") average 2.8/5 for overall experience (July 2026 aggregator data). Reviews are described as highly polarized but skewing negative, with recurring reports of understaffing, inconsistent medication administration, unprofessional staff conduct, and facility maintenance issues, alongside a minority of positive reviews citing friendly staff and a clean environment.",
-      "description": "Greenlake Senior Living Renton (also marketed as Renton Assisted Living) is an assisted living and memory care community at 71 SW Victoria St in Renton, located near the south end of Lake Washington and managed by Brookdale-affiliated ownership. It offers private and companion apartments. Published consumer review data for this community is below the market average and includes a substantial volume of negative reports alongside some positive ones.",
+      "description": "Greenlake Senior Living Renton (also marketed as Renton Assisted Living) is an assisted living and memory care community at 71 SW Victoria St in Renton, located near the south end of Lake Washington and managed by Brookdale-affiliated ownership. It offers private and companion apartments.",
       "sources": [
         "https://www.checkbook.org/wa/renton/assisted-living-facilities/brookdale-renton/cq888",
         "https://www.aplaceformom.com/community/renton-assisted-living-71339",
@@ -3938,7 +3938,7 @@
       "facility_size": "large",
       "capacity": 64,
       "review_note": "Only 2 reviews are recorded on Caring.com as of July 2026. Family reviews on record include serious allegations of mistreatment and an unresponsive management team, while other aggregator sites (SeniorAdvisor.com, AssistedLivingCenter.com) separately show higher composite ratings of roughly 4.0-4.5/5 — the evidence is thin in volume and mixed in tone.",
-      "description": "Fairview Assisted Living Inc is a 64-resident assisted living facility at 1617 N Calispel St in Spokane, licensed by the State of Washington. It offers personal care, meals, and daily activities including a barber/beauty shop and library. Available review evidence for this facility is limited in volume and includes both favorable accounts and serious negative allegations.",
+      "description": "Fairview Assisted Living Inc is a 64-resident assisted living facility at 1617 N Calispel St in Spokane, licensed by the State of Washington. It offers personal care, meals, and daily activities including a barber/beauty shop and library.",
       "sources": [
         "https://www.caring.com/senior-living/washington/spokane/fairview-assisted-living-inc-99205",
         "https://www.seniorcareauthority.com/assisted-living/fairview-assisted-living-inc-in-spokane-washington.html"
@@ -3966,7 +3966,7 @@
       "facility_size": "medium",
       "capacity": 21,
       "review_note": "A Place for Mom score: 8 reviews averaging 3.9/5 for overall experience (July 2026). Reviews are mixed, with families citing a family-like environment and quality care alongside separate reports of cleanliness concerns, slow response times, and pricing complaints.",
-      "description": "Aspen Quality Care is a 21-bed Enhanced Assisted Living Facility at 9626 N Colfax Rd in Spokane, specializing in Alzheimer's/dementia care, mental health care, and diabetic care management. It is licensed by the State of Washington. Consumer review evidence shows an average rating below the 4.2 threshold typically associated with a strong local reputation.",
+      "description": "Aspen Quality Care is a 21-bed Enhanced Assisted Living Facility at 9626 N Colfax Rd in Spokane, specializing in Alzheimer's/dementia care, mental health care, and diabetic care management. It is licensed by the State of Washington.",
       "sources": [
         "https://www.aplaceformom.com/community/aspen-quality-care-1364942",
         "https://www.whca.org/facility-finder/aspen-quality-care/"
@@ -3993,7 +3993,7 @@
       "facility_size": "large",
       "capacity": 75,
       "review_note": "Seniorly's proprietary community score is 6.0/10 (July 2026). Opinions in family reviews vary sharply: a subset describe the facility as neglectful of residents and critical of management (including one review characterizing conditions as \"horrible\"), while other reviewers praise the staff and overall experience.",
-      "description": "Maple Creek of Lakewood (Maple Creek Senior Living) is a 75-bed assisted living facility at 10420 Gravelly Lake Dr SW in Lakewood, licensed by the State of Washington with 24-hour staff. Consumer reviews for the community are sharply divided between strongly positive and strongly negative accounts.",
+      "description": "Maple Creek of Lakewood (Maple Creek Senior Living) is a 75-bed assisted living facility at 10420 Gravelly Lake Dr SW in Lakewood, licensed by the State of Washington with 24-hour staff.",
       "sources": [
         "https://www.miradorliving.com/assisted-living/washington/lakewood/maple-creek-senior-living",
         "https://www.aplaceformom.com/community/maple-creek-of-lakewood-99832"
@@ -4021,7 +4021,7 @@
       "facility_size": "large",
       "capacity": 94,
       "review_note": "4.0/5 across 4 reviews on Caring.com; separately 2 reviews on A Place for Mom (July 2026). Caring for seniors at this location since 1973; owned by Noble Healthcare.",
-      "description": "Parkside Retirement Community is a 94-bed senior living campus at 2902 I St NE in Auburn offering independent living, assisted living, memory care, and hospice/respite support. It has operated since 1973 and is owned by Noble Healthcare. Recorded consumer review evidence for the community is limited in volume and sits at 4.0 out of 5.",
+      "description": "Parkside Retirement Community is a 94-bed senior living campus at 2902 I St NE in Auburn offering independent living, assisted living, memory care, and hospice/respite support. It has operated since 1973 and is owned by Noble Healthcare.",
       "sources": [
         "https://www.caring.com/senior-living/washington/auburn/parkside-retirement-center-98002",
         "https://www.aplaceformom.com/community/parkside-retirement-community-71212"
@@ -4046,7 +4046,7 @@
       ],
       "facility_size": "medium",
       "review_note": "A Place for Mom: 5 reviews averaging 2.1/5 for overall experience. SeniorAdvisor.com separately shows a 2.0/5 rating from 5 reviews (both accessed July 2026). Reviews mention concerns about cleanliness, responsiveness to resident needs, and facility conditions, alongside some praise for care and amenities.",
-      "description": "Fort Vancouver Assisted Living is an assisted living community at 8422 NE 8th Way in Vancouver. It is licensed by the State of Washington. Consumer review evidence across two independent platforms consistently shows a rating below 2.5 out of 5.",
+      "description": "Fort Vancouver Assisted Living is an assisted living community at 8422 NE 8th Way in Vancouver. It is licensed by the State of Washington.",
       "sources": [
         "https://www.aplaceformom.com/community/fort-vancouver-assisted-living-71980",
         "https://www.senioradvisor.com/local/park-lido-inc-vancouver-wa",
@@ -4075,7 +4075,7 @@
       ],
       "facility_size": "large",
       "review_note": "A Place for Mom: 40 reviews averaging 4.0/5 for overall experience (July 2026), just under the site's 4.2 quality threshold. Recent reviews describe consistent understaffing since CarePartners took over management in November 2023, alongside longstanding positive reviews dating to when the community was known simply as Vineyard Park (serving the area since 1984).",
-      "description": "Vineyard Park at Bremerton Senior Living is a senior living campus at 2707 Clare Ave in Bremerton offering independent living, assisted living, and memory care, serving the Bremerton, Silverdale, Poulsbo, and Port Orchard area since 1984. It is currently managed by CarePartners Senior Living. Recent consumer reviews note staffing concerns since a November 2023 management change, alongside an overall review average just below the site's quality-tier threshold.",
+      "description": "Vineyard Park at Bremerton Senior Living is a senior living campus at 2707 Clare Ave in Bremerton offering independent living, assisted living, and memory care, serving the Bremerton, Silverdale, Poulsbo, and Port Orchard area since 1984. It is currently managed by CarePartners Senior Living.",
       "sources": [
         "https://www.aplaceformom.com/community/vineyard-park-at-bremerton-senior-living-71675",
         "https://carepartnersliving.com/vineyard-park-of-bremerton/"
@@ -4104,7 +4104,7 @@
       "google_review_count": 15,
       "rating_as_of": "2026-07-13",
       "review_note": "Other platforms show different figures for the same community: Birdeye lists 3.1/5 from 30 reviews and Caring.com lists 5 reviews; family reviews report chronic understaffing, missed bathing, and food-quality complaints alongside some positive accounts.",
-      "description": "Everett Plaza is an independent and assisted living community at 2204 12th St in Everett offering 24-hour caregiver support. Consumer review evidence across multiple aggregator platforms is mixed but generally low, with a Google rating of 2.9 out of 5 from 15 reviews.",
+      "description": "Everett Plaza is an independent and assisted living community at 2204 12th St in Everett offering 24-hour caregiver support.",
       "sources": [
         "https://www.yelp.com/biz/everett-plaza-assisted-living-community-everett",
         "https://www.caring.com/senior-living/washington/everett/everett-plaza-everett",
@@ -4131,7 +4131,7 @@
       ],
       "facility_size": "medium",
       "review_note": "Ratings differ sharply by platform: AssistedLivingCenter.com shows 4.7/5, while Seniorly's proprietary score is only 4.5/10 (July 2026). Reviews describe outstanding service and thoughtful amenities alongside separate complaints of uncleaned shared bathrooms and worn furniture. Operated by Ridgeline Management Company.",
-      "description": "Kadie Glen Assisted Living is an assisted living community at 451 N Baker Ave in East Wenatchee operated by Ridgeline Management Company. It is open 24 hours and licensed by the State of Washington. Published consumer ratings for the community diverge significantly between platforms, with family reviews reporting both strong service and maintenance shortfalls.",
+      "description": "Kadie Glen Assisted Living is an assisted living community at 451 N Baker Ave in East Wenatchee operated by Ridgeline Management Company. It is open 24 hours and licensed by the State of Washington.",
       "sources": [
         "https://www.caring.com/senior-living/washington/east-wenatchee/kadie-glen-assisted-living-98801",
         "https://www.seniorly.com/assisted-living/washington/east-wenatchee/kadie-glen-assisted-living"

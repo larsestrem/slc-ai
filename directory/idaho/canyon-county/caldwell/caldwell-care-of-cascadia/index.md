@@ -29,5 +29,5 @@ review_note: "CMS overall star rating: 1 out of 5 (much below average) as of Jul
 serious_concern: true
 serious_concern_note: "CMS records show a federal fine of roughly $114,000 tied to documented quality-of-care deficiencies."
 quality_tier: "serious_concerns"
-description_full: "Caldwell Care of Cascadia is a 71-bed Medicare- and Medicaid-certified skilled nursing facility offering short-term rehabilitation and long-term nursing care. It carries a 1-star overall CMS rating and has a documented federal fine tied to a complaint investigation over basic life support and abuse/neglect protections. We list it with its rating and enforcement history shown transparently."
+description_full: "Caldwell Care of Cascadia is a 71-bed Medicare- and Medicaid-certified skilled nursing facility offering short-term rehabilitation and long-term nursing care."
 ---

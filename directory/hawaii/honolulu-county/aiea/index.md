@@ -9,6 +9,6 @@ county_name: "Honolulu"
 state_name: "Hawaii"
 state_abbrev: "HI"
 facility_count: 1
-facilities: [{"name": "Prime Health Services Care Home", "url": "/directory/hawaii/honolulu-county/aiea/prime-health-services-care-home/", "city_name": "Aiea", "state_abbrev": "HI", "care_levels": ["adult-family-home", "memory-care"], "quality_tier": "meets_standard", "facility_size": "small", "description": "Prime Health Services Care Home is a small residential care home in Aiea offering memory care with 24-hour staffing and personalized care plans. Families describe responsive, attentive caregivers."}]
+facilities: [{"name": "Prime Health Services Care Home", "url": "/directory/hawaii/honolulu-county/aiea/prime-health-services-care-home/", "city_name": "Aiea", "state_abbrev": "HI", "care_levels": ["adult-family-home", "memory-care"], "quality_tier": "meets_standard", "facility_size": "small", "description": "Prime Health Services Care Home is a small residential care home in Aiea offering memory care with 24-hour staffing and personalized care plans."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Honolulu County", "url": "/directory/hawaii/honolulu-county/"}, {"name": "Aiea", "url": "/directory/hawaii/honolulu-county/aiea/"}]
 ---

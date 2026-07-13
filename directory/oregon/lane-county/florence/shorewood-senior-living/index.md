@@ -2,7 +2,7 @@
 layout: "facility"
 title: "Shorewood Senior Living"
 seo_title: "Shorewood Senior Living — Senior Living in Florence, OR"
-description: "A 74-apartment independent living community in Florence, a short drive from the Oregon dunes and beaches. Reviews consistently emphasize friendly staff and re"
+description: "A 74-apartment independent living community in Florence, a short drive from the Oregon dunes and beaches. Operated by Compass Senior Living of Eugene."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Shorewood Senior Living", "url": "/directory/oregon/lane-county/florence/shorewood-senior-living/"}]
 nearby: []
 state: "oregon"
@@ -25,7 +25,7 @@ sources: ["https://www.aplaceformom.com/community/shorewood-senior-living-60174"
 verified_date: "2026-07-11"
 review_note: "12 reviews on A Place for Mom with My Caring Plan aggregate 9.7/10 (highest rated in Florence); 4.9/5 on AssistedLivingCenter.com; 100% recommend from 8 Facebook reviews (July 2026)"
 quality_tier: "unrated"
-description_full: "A 74-apartment independent living community in Florence, a short drive from the Oregon dunes and beaches. Reviews consistently emphasize friendly staff and residents, renovated common areas, dog-friendly patios, and walking trails on the grounds. Operated by Compass Senior Living of Eugene."
+description_full: "A 74-apartment independent living community in Florence, a short drive from the Oregon dunes and beaches. Operated by Compass Senior Living of Eugene."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/shorewood-senior-living-60174"}, {"name": "My Caring Plan", "url": "https://www.mycaringplan.com/senior-living/shorewood-senior-living/"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

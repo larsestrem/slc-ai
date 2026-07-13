@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "The Lodge at Grand Junction"
 seo_title: "The Lodge at Grand Junction — Senior Living in Grand Junction, CO"
-description: "The Lodge at Grand Junction provides assisted living, memory care, and respite care in a newer building on Patterson Road, managed by Integral Senior Living. "
+description: "The Lodge at Grand Junction provides assisted living, memory care, and respite care in a newer building on Patterson Road, managed by Integral Senior Living."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "The Lodge at Grand Junction", "url": "/directory/colorado/mesa-county/grand-junction/the-lodge-at-grand-junction/"}]
 nearby: []
 state: "colorado"
@@ -25,7 +25,7 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.5/5 overall across 21 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "The Lodge at Grand Junction provides assisted living, memory care, and respite care in a newer building on Patterson Road, managed by Integral Senior Living. Families describe a spotless, well-appointed community with caring frontline staff, praised dining, a therapy and exercise room, chapel, and salon."
+description_full: "The Lodge at Grand Junction provides assisted living, memory care, and respite care in a newer building on Patterson Road, managed by Integral Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-lodge-at-grand-junction-1437480"}]
 licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
 ---

@@ -9,6 +9,6 @@ county_name: "Lane"
 state_name: "Oregon"
 state_abbrev: "OR"
 facility_count: 1
-facilities: [{"name": "Shorewood Senior Living", "url": "/directory/oregon/lane-county/florence/shorewood-senior-living/", "city_name": "Florence", "state_abbrev": "OR", "care_levels": ["independent-living"], "quality_tier": "unrated", "facility_size": "large", "description": "A 74-apartment independent living community in Florence, a short drive from the Oregon dunes and beaches. Reviews consistently emphasize friendly staff and residents, renovated common areas, dog-friendly patios, and walking trails on the grounds. Operated by Compass Senior Living of Eugene."}]
+facilities: [{"name": "Shorewood Senior Living", "url": "/directory/oregon/lane-county/florence/shorewood-senior-living/", "city_name": "Florence", "state_abbrev": "OR", "care_levels": ["independent-living"], "quality_tier": "unrated", "facility_size": "large", "description": "A 74-apartment independent living community in Florence, a short drive from the Oregon dunes and beaches. Operated by Compass Senior Living of Eugene."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Lane County", "url": "/directory/oregon/lane-county/"}, {"name": "Florence", "url": "/directory/oregon/lane-county/florence/"}]
 ---

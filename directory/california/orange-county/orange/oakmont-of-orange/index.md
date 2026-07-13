@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "Oakmont of Orange"
 seo_title: "Oakmont of Orange — Senior Living in Orange, CA"
-description: "Luxury assisted living and memory care community on The City Drive in Orange, close to UCI Medical Center and the Outlets at Orange. One of the highest consum"
+description: "Luxury assisted living and memory care community on The City Drive in Orange, close to UCI Medical Center and the Outlets at Orange. Offers restaurant-style d"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Oakmont of Orange", "url": "/directory/california/orange-county/orange/oakmont-of-orange/"}]
 nearby: []
 state: "california"
@@ -25,7 +25,7 @@ sources: ["https://www.aplaceformom.com/community/oakmont-of-orange-1407631", "h
 verified_date: "2026-07-12"
 review_note: "4.8/5 across 79 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Luxury assisted living and memory care community on The City Drive in Orange, close to UCI Medical Center and the Outlets at Orange. One of the highest consumer-rated large communities in central Orange County, with an A Place for Mom review score of 9.8/10 over the last two years. Offers restaurant-style dining and a full amenity package typical of the Oakmont portfolio."
+description_full: "Luxury assisted living and memory care community on The City Drive in Orange, close to UCI Medical Center and the Outlets at Orange. Offers restaurant-style dining and a full amenity package typical of the Oakmont portfolio."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-orange-1407631"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-orange-orange"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

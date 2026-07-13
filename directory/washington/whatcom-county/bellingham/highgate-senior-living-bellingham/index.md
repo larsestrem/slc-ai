@@ -23,6 +23,6 @@ sources: ["https://www.highgateseniorliving.com/communities/bellingham/", "https
 verified_date: "2026-07-13"
 review_note: "3.4/5 across 7 reviews, per a Bellingham-market senior-living aggregator summary (July 2026); this is below the ~4.0/5 average reported for Bellingham assisted living overall."
 quality_tier: "unrated"
-description_full: "Highgate Senior Living - Bellingham is a 77-apartment senior living community at 155 E Kellogg Rd in Bellingham offering independent living, assisted living, and memory care. It is licensed with the State of Washington. Available consumer review data for this community shows a rating below the local market average."
+description_full: "Highgate Senior Living - Bellingham is a 77-apartment senior living community at 155 E Kellogg Rd in Bellingham offering independent living, assisted living, and memory care. It is licensed with the State of Washington."
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

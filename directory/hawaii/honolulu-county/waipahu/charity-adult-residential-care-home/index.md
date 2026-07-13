@@ -20,7 +20,7 @@ sources: ["https://www.seniorly.com/assisted-living/hawaii/waipahu/charity-adult
 verified_date: "2026-07-13"
 review_note: "No Google or major-platform consumer rating was found for this facility as of July 2026. It (registered as CEJ Charity ARCH-EC, L.L.C.) appears in the Hawaii Department of Health Office of Health Care Assurance's Combined ARCH/Expanded ARCH Vacancy Report, confirming active state licensure as an Expanded Care adult residential care home."
 quality_tier: "meets_standard"
-description_full: "Charity Adult Residential Care Home is a small, state-licensed adult residential care home in Waipahu, Oahu, offering 24-hour supervision and assistance with daily living activities, including medication management. No independent consumer review evidence was found for this home as of this listing."
+description_full: "Charity Adult Residential Care Home is a small, state-licensed adult residential care home in Waipahu, Oahu, offering 24-hour supervision and assistance with daily living activities, including medication management."
 review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/waipahu/charity-adult-residential-care-home"}]
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
 ---

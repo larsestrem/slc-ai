@@ -24,7 +24,7 @@ sources: ["https://www.aplaceformom.com/community/markham-house-assisted-living-
 verified_date: "2026-07-13"
 review_note: "4.3/5 across 29 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "A Koelsch Communities assisted living community on SW Capitol Highway in southwest Portland's Multnomah Village area. It provides personalized assisted living with dining, activities, and 24-hour care staff in a homelike setting. It holds a strong review reputation."
+description_full: "A Koelsch Communities assisted living community on SW Capitol Highway in southwest Portland's Multnomah Village area. It provides personalized assisted living with dining, activities, and 24-hour care staff in a homelike setting."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/markham-house-assisted-living-59897"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

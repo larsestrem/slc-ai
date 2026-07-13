@@ -9,6 +9,6 @@ county_name: "Los Angeles"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "Northridge Valley Senior Living", "url": "/directory/california/los-angeles-county/northridge/northridge-valley-senior-living/", "city_name": "Northridge", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Assisted living and memory care community on Lindley Avenue in the Northridge neighborhood of the San Fernando Valley, formerly known as Pacifica Senior Living Northridge. The recently renovated community offers 24-hour care with individualized service plans, and it carries one of the strongest review profiles in the Valley."}]
+facilities: [{"name": "Northridge Valley Senior Living", "url": "/directory/california/los-angeles-county/northridge/northridge-valley-senior-living/", "city_name": "Northridge", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Assisted living and memory care community on Lindley Avenue in the Northridge neighborhood of the San Fernando Valley, formerly known as Pacifica Senior Living Northridge."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Angeles County", "url": "/directory/california/los-angeles-county/"}, {"name": "Northridge", "url": "/directory/california/los-angeles-county/northridge/"}]
 ---

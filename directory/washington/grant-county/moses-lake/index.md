@@ -9,6 +9,6 @@ county_name: "Grant"
 state_name: "Washington"
 state_abbrev: "WA"
 facility_count: 1
-facilities: [{"name": "Summer Wood Alzheimer's Special Care Center", "url": "/directory/washington/grant-county/moses-lake/summer-wood-alzheimers-special-care-center/", "city_name": "Moses Lake", "state_abbrev": "WA", "care_levels": ["memory-care"], "quality_tier": "unrated", "description": "Summer Wood Alzheimer's Special Care Center is a dedicated memory care community in Moses Lake serving residents with Alzheimer's disease and other dementias. Reviews describe well-trained, patient caregivers, strong teamwork, and residents who are happier and more engaged after moving in."}]
+facilities: [{"name": "Summer Wood Alzheimer's Special Care Center", "url": "/directory/washington/grant-county/moses-lake/summer-wood-alzheimers-special-care-center/", "city_name": "Moses Lake", "state_abbrev": "WA", "care_levels": ["memory-care"], "quality_tier": "unrated", "description": "Summer Wood Alzheimer's Special Care Center is a dedicated memory care community in Moses Lake serving residents with Alzheimer's disease and other dementias."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Grant County", "url": "/directory/washington/grant-county/"}, {"name": "Moses Lake", "url": "/directory/washington/grant-county/moses-lake/"}]
 ---

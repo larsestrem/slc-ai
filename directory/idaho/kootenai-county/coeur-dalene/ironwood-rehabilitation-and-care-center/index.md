@@ -27,6 +27,6 @@ review_note: "CMS overall star rating: 1 out of 5 (much below average) as of Jul
 serious_concern: true
 serious_concern_note: "State and federal inspection records document substantiated abuse and neglect citations."
 quality_tier: "serious_concerns"
-description_full: "Ironwood Rehabilitation and Care Center is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in Coeur d'Alene offering rehabilitation therapy and long-term nursing care. It carries a 1-star overall CMS quality rating and has documented federal inspection citations related to abuse and neglect protections. We list it, with its rating and the citation history shown honestly, so families can make an informed decision rather than being unaware it exists."
+description_full: "Ironwood Rehabilitation and Care Center is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in Coeur d'Alene offering rehabilitation therapy and long-term nursing care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/ironwood-rehabilitation-and-care-center-135053"}]
 ---

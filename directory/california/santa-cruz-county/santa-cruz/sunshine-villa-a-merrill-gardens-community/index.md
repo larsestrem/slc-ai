@@ -5,7 +5,7 @@ title: "Sunshine Villa, A Merrill Gardens Community"
 seo_title: "Sunshine Villa, A Merrill Gardens Community — Senior Living in Santa Cruz, CA"
 description: "Assisted living and memory care community in a landmark Victorian-style building within walking distance of the Santa Cruz Wharf, beach and boardwalk. Reviewe"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sunshine Villa, A Merrill Gardens Community", "url": "/directory/california/santa-cruz-county/santa-cruz/sunshine-villa-a-merrill-gardens-community/"}]
-nearby: [{"name": "Dominican Oaks", "url": "/directory/california/santa-cruz-county/santa-cruz/dominican-oaks/", "city_name": "Santa Cruz", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living"], "quality_tier": "unrated", "facility_size": "large", "description": "Retirement community on Paul Sweet Road adjacent to Dominican Hospital in Santa Cruz, offering independent and assisted living. Long-standing local reputation with reviews praising the beautiful setting, personable staff and active community atmosphere."}]
+nearby: [{"name": "Dominican Oaks", "url": "/directory/california/santa-cruz-county/santa-cruz/dominican-oaks/", "city_name": "Santa Cruz", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living"], "quality_tier": "unrated", "facility_size": "large", "description": "Retirement community on Paul Sweet Road adjacent to Dominican Hospital in Santa Cruz, offering independent and assisted living."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

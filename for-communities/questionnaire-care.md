@@ -41,4 +41,13 @@ are welcome.
 15. Pet policy: allowed? size/type limits, deposits or fees, and what support exists if a resident can no longer care for the pet
 16. Do you accept [Medicaid](/guides/medicaid-vs-medicare/) (directly or after a private-pay period)? Long-term care insurance?
 
+## Quality & accountability
+
+Answer these about your general **process**, not any specific incident, resident, or family —
+we publish policies, not case histories, and we won't print details tied to an individual.
+
+17. What is your process when a family or resident raises a concern or complaint — who receives it, and what's the typical response time?
+18. How do you investigate and resolve a complaint, and how do you follow up with the family once it's addressed?
+19. How do complaints feed back into how you operate — do you track patterns, retrain staff, or change procedures as a result?
+
 When you're ready: **[Daily life →](/for-communities/questionnaire-daily-life/)**

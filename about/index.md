@@ -36,6 +36,18 @@ We don't provide medical, legal, or financial advice — our guides tell you whe
 belongs with a doctor, an elder law attorney, or a benefits counselor, and
 [where to find free help](/guides/government-assistance-programs/).
 
+## About the ratings and reviews we show
+
+We do not write reviews, and we do not investigate or verify what any review, inspection report,
+or news source says. We aggregate publicly available ratings — Medicare's government star
+ratings and review scores from public platforms — and show you the number, its source, and its
+date, with a link to where you can read it directly at the source. We do not restate, quote, or
+summarize the contents of individual reviews or incident reports on our own pages; that
+information belongs to the organization that published it. Do your own research: read the full
+record at the source, and always verify directly with the community. See
+[how to interpret online reviews](/guides/interpreting-online-reviews/) and
+[how government ratings work](/guides/reading-inspection-reports-and-ratings/).
+
 ## Advertising
 
 This site may show clearly-labeled advertising. Advertisers never influence which communities

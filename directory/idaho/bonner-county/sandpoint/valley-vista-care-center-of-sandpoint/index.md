@@ -27,6 +27,6 @@ sources: ["https://www.valleyvista.org/facilities/sandpoint/valley-vista-care-ce
 verified_date: "2026-07-13"
 review_note: "CMS overall star rating: 1 out of 5 (much below average). Sub-scores: health inspection 1 star, staffing 4 stars, quality measures 2 stars, as of July 2026 Medicare Care Compare data."
 quality_tier: "below_standard"
-description_full: "Valley Vista Care Center of Sandpoint is a 73-bed Medicare- and Medicaid-certified skilled nursing facility in Sandpoint offering short-term rehabilitation and long-term nursing care. It carries a 1-star overall CMS rating, driven by a 1-star health-inspection sub-score, despite a stronger 4-star staffing sub-score. Families should review the specific health-inspection findings before choosing this facility."
+description_full: "Valley Vista Care Center of Sandpoint is a 73-bed Medicare- and Medicaid-certified skilled nursing facility in Sandpoint offering short-term rehabilitation and long-term nursing care. It carries a 1-star overall CMS rating, driven by a 1-star health-inspection sub-score, despite a stronger 4-star staffing sub-score."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/valley-vista-care-center-of-sandpoint-135055"}]
 ---

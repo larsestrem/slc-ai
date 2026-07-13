@@ -497,7 +497,7 @@
       ],
       "facility_size": "medium",
       "capacity": 45,
-      "description": "Pomerelle Place is an assisted living community in Burley with 45 studio and one-bedroom apartments, staffed with a full-time nurse and around-the-clock caregivers for medication support and help with daily living. Families describe it as feeling like a home rather than a facility, with praise for the staff, cleanliness, and food.",
+      "description": "Pomerelle Place is an assisted living community in Burley with 45 studio and one-bedroom apartments, staffed with a full-time nurse and around-the-clock caregivers for medication support and help with daily living.",
       "review_note": "9/10 A Place for Mom review score; 25 reviews all-time (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/pomerelle-place-52671",
@@ -553,7 +553,7 @@
       ],
       "organization": "avista-senior-living",
       "organization_name": "Avista Senior Living",
-      "description": "Avista Twin Falls is an assisted living community that earned a Gold Award in Idaho's Residential Assisted Living Facility Program with zero citations, placing it among the top tier of senior living communities nationwide. Families describe friendly, helpful staff, good food, and a clean, cheerful building.",
+      "description": "Avista Twin Falls is an assisted living community that earned a Gold Award in Idaho's Residential Assisted Living Facility Program with zero citations, placing it among the top tier of senior living communities nationwide.",
       "review_note": "4.5/5 average across 67 reviews on A Place for Mom; 9.7/10 review score based on 27 reviews in the last 2 years (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/avista-twin-falls-52648",
@@ -728,7 +728,7 @@
       "facility_size": "large",
       "capacity": 124,
       "review_note": "4.3/5 across 67 reviews on Birdeye (July 2026)",
-      "description": "Willow Park Senior Living is a 124-unit community on North Milwaukee Street in Boise offering independent living, assisted living, and memory care with 24-hour awake staff. Reviews commend the warm, caring environment, the cooking, and the variety of activities.",
+      "description": "Willow Park Senior Living is a 124-unit community on North Milwaukee Street in Boise offering independent living, assisted living, and memory care with 24-hour awake staff.",
       "sources": [
         "https://reviews.birdeye.com/willow-park-senior-living-157255477150721",
         "https://www.assistedliving.com/idaho/boise/willow-park/",
@@ -1431,7 +1431,7 @@
       "cms_ccn": "135098",
       "cms_rating_overall": 1,
       "review_note": "CMS overall star rating: 1 out of 5 (much below average), per Medicare Care Compare data cited by NursingHomeDatabase.com and ProPublica Nursing Home Inspect (as of July 2026). Recently acquired by The Ensign Group.",
-      "description": "Timber Springs Transitional Care is a Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Boise with 120 certified beds. It offers short-term rehabilitation therapy and long-term skilled nursing care. The facility carries a 1-star overall CMS quality rating, the lowest tier on the federal five-star scale, so families should review the underlying health-inspection, staffing, and quality-measure sub-scores before choosing it.",
+      "description": "Timber Springs Transitional Care is a Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Boise with 120 certified beds. It offers short-term rehabilitation therapy and long-term skilled nursing care.",
       "sources": [
         "https://www.nursinghomedatabase.com/snf/135098",
         "https://timberspringscare.com/",
@@ -1461,7 +1461,7 @@
       "cms_ccn": "135053",
       "cms_rating_overall": 1,
       "review_note": "CMS overall star rating: 1 out of 5 (much below average) as of July 2026. CMS inspection records cite citations for failing to protect residents from abuse/neglect and failing to timely report and investigate suspected abuse, per multiple nursing-home-data aggregators summarizing federal inspection reports. Families should review the full CMS inspection report before considering this facility.",
-      "description": "Ironwood Rehabilitation and Care Center is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in Coeur d'Alene offering rehabilitation therapy and long-term nursing care. It carries a 1-star overall CMS quality rating and has documented federal inspection citations related to abuse and neglect protections. We list it, with its rating and the citation history shown honestly, so families can make an informed decision rather than being unaware it exists.",
+      "description": "Ironwood Rehabilitation and Care Center is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in Coeur d'Alene offering rehabilitation therapy and long-term nursing care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/ironwood-rehabilitation-and-care-center-135053",
         "https://ironwoodrehab.com/",
@@ -1557,7 +1557,7 @@
       "cms_ccn": "135055",
       "cms_rating_overall": 1,
       "review_note": "CMS overall star rating: 1 out of 5 (much below average). Sub-scores: health inspection 1 star, staffing 4 stars, quality measures 2 stars, as of July 2026 Medicare Care Compare data.",
-      "description": "Valley Vista Care Center of Sandpoint is a 73-bed Medicare- and Medicaid-certified skilled nursing facility in Sandpoint offering short-term rehabilitation and long-term nursing care. It carries a 1-star overall CMS rating, driven by a 1-star health-inspection sub-score, despite a stronger 4-star staffing sub-score. Families should review the specific health-inspection findings before choosing this facility.",
+      "description": "Valley Vista Care Center of Sandpoint is a 73-bed Medicare- and Medicaid-certified skilled nursing facility in Sandpoint offering short-term rehabilitation and long-term nursing care. It carries a 1-star overall CMS rating, driven by a 1-star health-inspection sub-score, despite a stronger 4-star staffing sub-score.",
       "sources": [
         "https://www.valleyvista.org/facilities/sandpoint/valley-vista-care-center-of-sandpoint/",
         "https://health.usnews.com/best-nursing-homes/area/id/valley-vista-care-center-of-sandpoint-135055",
@@ -1589,7 +1589,7 @@
       "cms_ccn": "135014",
       "cms_rating_overall": 1,
       "review_note": "CMS overall star rating: 1 out of 5 (much below average) as of July 2026 Medicare Care Compare data. A federal complaint investigation resulted in a $114,455 fine for failure to provide basic life support and failure to protect residents from abuse/neglect/exploitation, per nursinghomelawcenter.org's summary of CMS enforcement records (July 2026). The facility separately received a 2024 AHCA/NCAL Bronze quality-improvement award.",
-      "description": "Caldwell Care of Cascadia is a 71-bed Medicare- and Medicaid-certified skilled nursing facility offering short-term rehabilitation and long-term nursing care. It carries a 1-star overall CMS rating and has a documented federal fine tied to a complaint investigation over basic life support and abuse/neglect protections. We list it with its rating and enforcement history shown transparently.",
+      "description": "Caldwell Care of Cascadia is a 71-bed Medicare- and Medicaid-certified skilled nursing facility offering short-term rehabilitation and long-term nursing care.",
       "sources": [
         "https://www.healthcare4ppl.com/nursing-home/idaho/caldwell/caldwell-care-of-cascadia-135014.html",
         "https://www.caldwellcareofcascadia.com/",
@@ -1624,7 +1624,7 @@
       "cms_ccn": "135058",
       "cms_rating_overall": 1,
       "review_note": "CMS overall star rating: 1 out of 5 (much below average) as of July 2026 Medicare Care Compare data. Cited by nursinghomelawcenter.org as having repeat abuse-and-neglect findings in complaint and inspection reports.",
-      "description": "Silverton Health and Rehabilitation of Cascadia is a 50-bed Medicare- and Medicaid-certified skilled nursing facility in Silverton, in the Silver Valley area of Shoshone County. It offers short-term rehabilitation and long-term nursing care and carries a 1-star overall CMS rating, with documented repeat abuse-and-neglect citations noted in federal inspection summaries.",
+      "description": "Silverton Health and Rehabilitation of Cascadia is a 50-bed Medicare- and Medicaid-certified skilled nursing facility in Silverton, in the Silver Valley area of Shoshone County, offering short-term rehabilitation and long-term nursing care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/silverton-health-and-rehabilitation-of-cascadia-135058",
         "https://www.silvertonofcascadia.com/",
@@ -1659,7 +1659,7 @@
       "cms_ccn": "135080",
       "cms_rating_overall": 4,
       "review_note": "CMS overall star rating: 4 out of 5 (above average), sub-scores health inspection 4 stars, staffing 3 stars, quality measures 2 stars, per Medicare Care Compare data (July 2026). IMPORTANT: nursinghomelawcenter.org's review of CMS federal inspection records cites a documented finding that residents were placed in immediate danger from physical, sexual, or mental abuse due to staff failing to protect residents and respond to allegations -- one of the most severe categories of CMS citation. We flag this explicitly: the numeric star rating alone does not reflect this history, and families should review the full inspection report.",
-      "description": "Grangeville Health and Rehabilitation of Cascadia is a 60-bed Medicare- and Medicaid-certified skilled nursing facility in Grangeville, serving Idaho County. It currently carries a 4-star overall CMS quality rating, but federal inspection records reviewed by legal advocacy sources document a severe past citation involving failure to protect residents from abuse. We list this facility with both the current rating and the citation history shown, rather than letting a favorable star average obscure it.",
+      "description": "Grangeville Health and Rehabilitation of Cascadia is a 60-bed Medicare- and Medicaid-certified skilled nursing facility in Grangeville, serving Idaho County, offering short-term rehabilitation and long-term nursing care.",
       "sources": [
         "https://grangevillehealthandrehab.com/",
         "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-idaho/",
@@ -1692,13 +1692,15 @@
       "organization": "cascadia-healthcare",
       "organization_name": "Cascadia Healthcare",
       "review_note": "No single current CMS overall star number could be confirmed from available sources (U.S. News shows a short-term rehabilitation rating of 'Average' and long-term care rating of 'Below Average'). nursinghomelawcenter.org, summarizing CMS enforcement records, reports the facility has paid 15 fines totaling over $77,000 since 2023 for deficiencies related to quality of life, freedom from abuse or neglect, and infection prevention (as of July 2026). Families should look up the current CMS star rating directly on Medicare Care Compare (CCN 135067).",
-      "description": "Paradise Creek Health and Rehab of Cascadia is a 64-bed Medicare- and Medicaid-certified skilled nursing facility in Moscow. It offers short-term rehabilitation and long-term nursing care. We could not confirm a current overall CMS star number from available sources, but federal enforcement records summarized by a legal advocacy site show a pattern of fines since 2023 tied to quality-of-life and abuse/neglect-prevention deficiencies, so we list it with that history shown honestly rather than omitting it.",
+      "description": "Paradise Creek Health and Rehab of Cascadia is a 64-bed Medicare- and Medicaid-certified skilled nursing facility in Moscow, offering short-term rehabilitation and long-term nursing care.",
       "sources": [
         "https://www.paradisecreekofcascadia.com/",
         "https://health.usnews.com/best-nursing-homes/area/id/paradise-creek-health-and-rehab-of-cascadia-135067",
         "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-idaho/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-13",
+      "serious_concern": true,
+      "serious_concern_note": "Federal enforcement records document a pattern of fines since 2023 tied to quality-of-life and abuse/neglect-prevention deficiencies."
     },
     {
       "name": "Applewood Assisted Living",
@@ -1719,7 +1721,7 @@
       "facility_size": "small",
       "capacity": 9,
       "review_note": "3.1/5 average 'overall experience' across 7 reviews (all-time) on A Place for Mom (July 2026).",
-      "description": "Applewood Assisted Living is a small, 9-bed residential assisted living home in Boise, owned and operated by a registered nurse. Reviews on A Place for Mom average 3.1 out of 5 across 7 reviews, a mixed-to-below-average showing for a small home of this size. Families considering it should ask for references and tour in person given the modest review record.",
+      "description": "Applewood Assisted Living is a small, 9-bed residential assisted living home in Boise, owned and operated by a registered nurse.",
       "sources": [
         "https://www.aplaceformom.com/community/applewood-assisted-living-147953",
         "https://www.senior-living-directory.com/idaho/boise/assisted-living-facility/applewood-assisted-living"
@@ -1746,7 +1748,7 @@
       "organization": "ashley-manor",
       "organization_name": "Ashley Manor",
       "review_note": "2.3/5 average 'overall experience' across 3 reviews (all-time) on A Place for Mom; A Place for Mom's proprietary score is 1/10 based on 1 review in the last 2 years (July 2026). A staffing-ratio concern was raised in at least one review (one caregiver reported covering full care for 9 residents with dementia plus meals and housekeeping), alongside other reviews praising the dining program and small-scale atmosphere.",
-      "description": "Ashley Manor - Cory Lane is a small residential assisted living home in Boise, part of the multi-location Ashley Manor group. Review evidence is mixed and thin: A Place for Mom shows a 2.3-out-of-5 average across 3 reviews, with at least one detailed review raising a staffing-ratio concern in the memory care setting, alongside other reviews praising the dining program and intimate setting. Families should tour and ask directly about current staffing ratios.",
+      "description": "Ashley Manor - Cory Lane is a small residential assisted living home in Boise, part of the multi-location Ashley Manor group. Families should tour and ask directly about current staffing ratios.",
       "sources": [
         "https://www.aplaceformom.com/community/ashley-manor-cory-lane-96067",
         "https://ashleymanorseniorliving.com/cory-lane/"
@@ -1773,7 +1775,7 @@
       "facility_size": "small",
       "capacity": 15,
       "review_note": "Mixed reviews with a low review count: 3 reviews on Caring.com (July 2026). Several reviewers praise the small, one-on-one setting and home-cooked food, but one detailed negative review reports no heat on part of the building for nine months, food mostly limited to sandwiches, an unaddressed odor issue, and advertised activities that were not actually held.",
-      "description": "Caring Hearts Assisted Living is a small, 15-resident assisted living home in Pocatello offering one-on-one personal care. Online review evidence is thin and mixed: alongside praise for the small-scale, home-cooked-meal setting, one detailed family review describes a prolonged heating outage, poor food quality, and unaddressed cleanliness and activity-programming complaints. We list it with this evidence shown honestly rather than omitted.",
+      "description": "Caring Hearts Assisted Living is a small, 15-resident assisted living home in Pocatello offering one-on-one personal care.",
       "sources": [
         "https://www.caring.com/senior-living/idaho/pocatello/caring-hearts-assisted-living-83201",
         "https://caringheartsonthehill.com/"
@@ -1801,7 +1803,7 @@
       "facility_size": "medium",
       "capacity": 24,
       "review_note": "3.8/5 across 13 reviews on Birdeye (July 2026); separately 5.0/5 across 2 reviews on SeniorAdvisor and a 5.0-out-of-5 all-time 'overall experience' average across 2 reviews on A Place for Mom. Review volume is thin on the higher-scoring platforms, so the Birdeye figure (more reviews, and below the 4.2 quality-tier threshold) is the more representative signal.",
-      "description": "Lily and Syringa Assisted Living is a 24-unit assisted living and memory care community in Idaho Falls offering furnished and unfurnished private and shared rooms with home-cooked meals. Review evidence is mixed across platforms: 3.8 out of 5 across 13 reviews on Birdeye, versus small samples of 5-star reviews on other sites. Reviewers frequently praise staff patience with residents who have dementia-related behaviors and communication with families.",
+      "description": "Lily and Syringa Assisted Living is a 24-unit assisted living and memory care community in Idaho Falls offering furnished and unfurnished private and shared rooms with home-cooked meals. Reviewers frequently praise staff patience with residents who have dementia-related behaviors and communication with families.",
       "sources": [
         "https://reviews.birdeye.com/lily-and-syringa-assisted-living-157256237448885",
         "https://www.lilyandsyringa.com/",
@@ -1830,7 +1832,7 @@
       "organization": "senior-lifestyle",
       "organization_name": "Senior Lifestyle",
       "review_note": "3.7/5 average 'overall experience' across 37 reviews (all-time) on A Place for Mom (July 2026), below the site's 4.2 quality-tier threshold despite a substantial review count. Reviewers frequently praise attentive memory-care staff but also raise recurring concerns about management communication, staffing shortages, food variety, and transportation reliability.",
-      "description": "Copper Springs Senior Living is an assisted living and memory care community in Meridian operated by Senior Lifestyle, with a dedicated memory-care neighborhood for residents with Alzheimer's disease and other dementias. A Place for Mom shows a 3.7-out-of-5 average across 37 reviews, a below-threshold but well-sampled rating. Reviewers commonly praise the memory-care staff's attentiveness while also citing recurring concerns about management communication and staffing levels.",
+      "description": "Copper Springs Senior Living is an assisted living and memory care community in Meridian operated by Senior Lifestyle, with a dedicated memory-care neighborhood for residents with Alzheimer's disease and other dementias. Reviewers commonly praise the memory-care staff's attentiveness while also citing recurring concerns about management communication and staffing levels.",
       "sources": [
         "https://www.aplaceformom.com/community/copper-springs-senior-living-52774",
         "https://www.seniorlifestyle.com/property/idaho/copper-springs/"
@@ -1858,7 +1860,7 @@
       "organization": "the-gables-assisted-living",
       "organization_name": "The Gables Assisted Living",
       "review_note": "3.3/5 average 'overall experience' across 6 reviews (all-time) on A Place for Mom (July 2026). Review count is low, so this figure should be treated as a thin sample.",
-      "description": "The Gables of Idaho Falls Assisted Living & Memory Care is a community in Idaho Falls offering both assisted living and dedicated memory care. A Place for Mom shows a 3.3-out-of-5 average across a small sample of 6 reviews. Given the limited review volume, families should weigh this alongside an in-person tour and direct reference checks.",
+      "description": "The Gables of Idaho Falls Assisted Living & Memory Care is a community in Idaho Falls offering both assisted living and dedicated memory care.",
       "sources": [
         "https://www.aplaceformom.com/community/the-gables-of-idaho-falls-assisted-living-52699",
         "https://thegablesfamily.com/locations/idaho-falls-assisted-living/"

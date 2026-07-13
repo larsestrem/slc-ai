@@ -30,7 +30,7 @@ any order, one at a time, by replying to our email or sending answers whenever y
 moment. Every section you complete makes your listing more useful to families:
 
 - **[The basics](/for-communities/questionnaire-basics/)** — beds, rooms, staff, building, ownership
-- **[Care & services](/for-communities/questionnaire-care/)** — care levels, medical and non-medical services, pets, couples, age requirements
+- **[Care & services](/for-communities/questionnaire-care/)** — care levels, medical and non-medical services, pets, couples, age requirements, and how you handle complaints
 - **[Daily life](/for-communities/questionnaire-daily-life/)** — dining, activities, fitness, entertainment, outings, transportation
 
 ## Share photos

@@ -188,7 +188,7 @@
       "organization": "the-plaza-assisted-living",
       "organization_name": "The Plaza Assisted Living",
       "review_note": "4.3/5 across 29 ratings on Senior Care Authority; 4.7/5 across 10 reviews on AssistedLivingCenter (July 2026)",
-      "description": "The Plaza at Punchbowl is a multistory senior living community near downtown Honolulu operated by Hawaii-based The Plaza Assisted Living, offering independent living and assisted living. Reviews are strongly positive, averaging 4.3 out of 5 across 29 ratings on Senior Care Authority and 4.7 out of 5 on AssistedLivingCenter, with residents praising the staff and day-to-day services.",
+      "description": "The Plaza at Punchbowl is a multistory senior living community near downtown Honolulu operated by Hawaii-based The Plaza Assisted Living, offering independent living and assisted living.",
       "sources": [
         "https://www.seniorcareauthority.com/assisted-living/the-plaza-at-punchbowl-in-honolulu-the-plaza-at-punchbowl.html",
         "https://www.assistedlivingcenter.com/facilities/hi/honolulu/the-plaza-at-punchbowl-96822/",
@@ -223,7 +223,7 @@
       "google_rating": 4.7,
       "google_review_count": 42,
       "rating_as_of": "2026-07-12",
-      "description": "Pohai Nani is a continuing care retirement community operated by the nonprofit Good Samaritan Society on a 16-acre campus in Kaneohe, with views of the Ko'olau Mountains and Kaneohe Bay. The community offers independent living, assisted living, and skilled nursing, and holds a 4.7 Google rating across 42 reviews, with reviewers praising the grounds, activity programming, and staff.",
+      "description": "Pohai Nani is a continuing care retirement community operated by the nonprofit Good Samaritan Society on a 16-acre campus in Kaneohe, with views of the Ko'olau Mountains and Kaneohe Bay.",
       "sources": [
         "https://www.good-sam.com/locations/pohai-nani",
         "https://olera.care/provider/good-samaritan-society-pohai-nani",
@@ -257,7 +257,7 @@
       "google_rating": 4.9,
       "google_review_count": 75,
       "rating_as_of": "2026-07-12",
-      "description": "'Ilima at Leihano is a Kisco Senior Living community set on four landscaped acres in the heart of Kapolei, offering independent living, assisted living, and memory care in studio, one-bedroom, and two-bedroom apartments. The community is known for chef-driven, all-day dining and Hawaiian cultural programming such as ukulele lessons and lei-making, and holds a 4.9 Google rating across 75 reviews.",
+      "description": "'Ilima at Leihano is a Kisco Senior Living community set on four landscaped acres in the heart of Kapolei, offering independent living, assisted living, and memory care in studio, one-bedroom, and two-bedroom apartments.",
       "sources": [
         "https://www.kiscoseniorliving.com/lifestyle/ilima/",
         "https://ultimateseniorresource.com/states/hawaii/kapolei/ilima-at-leihano",
@@ -288,7 +288,7 @@
       "facility_size": "large",
       "capacity": 144,
       "review_note": "4.6/5 across 19 reviews on Birdeye (July 2026)",
-      "description": "Roselani Place in Kahului is Maui's only private-pay independent living, assisted living, and memory care community, licensed for 144 residents and operated by Alii Community Care. Reviewers describe hotel-like accommodations and dining, and the community was named Best of Maui 2025 for Retirement Community and Assisted Living; it holds a 4.6 rating across 19 reviews on Birdeye.",
+      "description": "Roselani Place in Kahului is Maui's only private-pay independent living, assisted living, and memory care community, licensed for 144 residents and operated by Alii Community Care.",
       "sources": [
         "https://reviews.birdeye.com/roselani-place-assisted-living-669026496",
         "https://roselaniplace.com/",
@@ -908,7 +908,7 @@
         "memory-care"
       ],
       "facility_size": "small",
-      "description": "Prime Health Services Care Home is a small residential care home in Aiea offering memory care with 24-hour staffing and personalized care plans. Families describe responsive, attentive caregivers.",
+      "description": "Prime Health Services Care Home is a small residential care home in Aiea offering memory care with 24-hour staffing and personalized care plans.",
       "review_note": "4.5/5 across 2 reviews on A Place for Mom (July 2026)",
       "quality_basis": "Small Aiea residential care home offering memory care, with documented positive reviews: 4.5/5 across 2 reviews on A Place for Mom as of July 2026.",
       "sources": [
@@ -937,7 +937,7 @@
       "cms_ccn": "125024",
       "cms_rating_overall": 1,
       "review_note": "CMS overall star rating reported as 1 star by multiple aggregator sources citing federal Care Compare data (NursingHomeSite, elderguide, July 2026 snapshots); at least one other snapshot instead cites 2 stars, reflecting CMS's month-to-month rating updates. CMS flagged this facility as having a documented pattern of poor care for at least one month between August 2024 and July 2025 (closely-monitored status). ProPublica Nursing Home Inspect records show 77 total cited deficiencies and $95,300 in fines over the most recent survey cycles, including failures to implement infection-control programs and to timely report suspected abuse/neglect.",
-      "description": "Nuuanu Hale is a Medicare- and Medicaid-certified skilled nursing facility on Pali Highway in Honolulu, offering short-term rehabilitation and long-term nursing care. The 75-bed facility is operated as a for-profit corporation. Its federal CMS overall star rating has been reported as low (1-2 stars) in recent survey cycles, and inspection history documents repeated infection-control and abuse-reporting deficiencies.",
+      "description": "Nuuanu Hale is a Medicare- and Medicaid-certified skilled nursing facility on Pali Highway in Honolulu, offering short-term rehabilitation and long-term nursing care. The 75-bed facility is operated as a for-profit corporation.",
       "sources": [
         "https://www.medicare.gov/care-compare/details/nursing-home/125024/view-all/?state=HI",
         "https://projects.propublica.org/nursing-homes/homes/h-125024/",
@@ -995,7 +995,7 @@
       "cms_ccn": "125041",
       "cms_rating_overall": 2,
       "review_note": "CMS overall rating reported as 2 stars by multiple sources (nursinghomedatabase.com, nursinghomesite.com, July 2026); one other source cites 5 stars, an outlier compared to the rest of the evidence gathered. Facility has a documented history of violations and fines in the last three years totaling roughly $161,000, including a Medicare payment suspension, with citations for failing to prevent infection spread and failing to designate an infection-prevention lead (source: nursinghomelawcenter.org, aggregating CMS inspection data).",
-      "description": "Liliha Healthcare Center is a 92-bed Medicare- and Medicaid-certified skilled nursing facility in the Liliha neighborhood of Honolulu, offering short-term rehabilitation and long-term nursing care. Recent federal inspection and rating data show a below-average overall CMS star rating and a documented history of fines and a Medicare payment suspension.",
+      "description": "Liliha Healthcare Center is a 92-bed Medicare- and Medicaid-certified skilled nursing facility in the Liliha neighborhood of Honolulu, offering short-term rehabilitation and long-term nursing care.",
       "sources": [
         "https://www.medicare.gov/care-compare/details/nursing-home/125041/view-all/?state=HI",
         "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-hawaii/",
@@ -1116,7 +1116,7 @@
       "cms_ccn": "125019",
       "cms_rating_overall": 3,
       "review_note": "CMS rating snapshots gathered in July 2026 are split between 2 stars (nursinghomesite.com, seniorcare.com) and 3 stars (thecareratings.com, nursinghomedatabase.com); one source cites an aggregate of 2.71 across recent periods. We report 3 as the current best-supported figure but flag the discrepancy. Separately and more consequentially: the facility paid 3 fines in the last three years totaling $35,018, and CMS flagged it with a documented pattern of poor care for at least one month between August 2024 and July 2025 (closely-monitored status). Cited deficiencies include improper drug storage/labeling, staff competency gaps, and record-keeping and pressure-ulcer-care failures (source: ProPublica Nursing Home Inspect).",
-      "description": "The Care Center of Honolulu is a large, for-profit, Medicare- and Medicaid-certified skilled nursing facility on Bachelot Street in Honolulu. It operates the largest respiratory/ventilator care unit in the state alongside general skilled nursing, short-term rehabilitation, and long-term care. Recent federal rating and inspection data show a below-average and fluctuating CMS overall star rating along with a documented recent history of fines and close CMS monitoring.",
+      "description": "The Care Center of Honolulu is a large, for-profit, Medicare- and Medicaid-certified skilled nursing facility on Bachelot Street in Honolulu. It operates the largest respiratory/ventilator care unit in the state alongside general skilled nursing, short-term rehabilitation, and long-term care.",
       "sources": [
         "https://projects.propublica.org/nursing-homes/homes/h-125019",
         "https://www.nursinghomedatabase.com/snf/125019",
@@ -1148,7 +1148,7 @@
       "cms_ccn": "125052",
       "cms_rating_overall": 3,
       "review_note": "CMS overall rating of 3 stars (nursinghomesite.com, July 2026), but the facility also carries documented negative consumer-review evidence: Caring.com reviews (accessed July 2026) include praise for cleanliness and ocean views alongside a review describing it as 'the worst facility ever' with residents 'left alone for hours even after you buzz for assistance.' We show both the official CMS rating and this documented negative-review evidence per site policy.",
-      "description": "Life Care Center of Kona is a 94-bed Medicare- and Medicaid-certified skilled nursing facility in Kailua-Kona on the Big Island, offering short-term rehabilitation and long-term nursing care in a single-story building. It is part of the Life Care Centers of America network. Its CMS overall rating sits at the state's meets-standard threshold, but recent consumer reviews are notably mixed, including specific complaints about response times to call-for-assistance requests.",
+      "description": "Life Care Center of Kona is a 94-bed Medicare- and Medicaid-certified skilled nursing facility in Kailua-Kona on the Big Island, offering short-term rehabilitation and long-term nursing care in a single-story building. It is part of the Life Care Centers of America network.",
       "sources": [
         "https://www.nursinghomesite.com/LIFE_CARE_CENTER_OF_KONA_KAILUA_KONA_HI",
         "https://www.caring.com/senior-living/hawaii/kailua-kona/life-care-center-of-kona-96740",
@@ -1176,7 +1176,7 @@
       "capacity": 5,
       "license_id": "1309-C",
       "review_note": "No Google or major-platform consumer rating was found for this facility as of July 2026. It appears as an active-licensed Type I Expanded Adult Residential Care Home (license #1309-C, licensee Myrna Domingo, license expiration 8/31/2026) in the Hawaii Department of Health Office of Health Care Assurance's Combined ARCH/Expanded ARCH Vacancy Report.",
-      "description": "Domingo's Care Home is a state-licensed Type I Expanded Adult Residential Care Home (ARCH) in Kailua-Kona, licensed for 5 residents requiring ambulatory-level, 24-hour assistance, including special-diet accommodations. It appears with an active license in Hawaii's official ARCH vacancy listings. No independent consumer review evidence was found for this home.",
+      "description": "Domingo's Care Home is a state-licensed Type I Expanded Adult Residential Care Home (ARCH) in Kailua-Kona, licensed for 5 residents requiring ambulatory-level, 24-hour assistance, including special-diet accommodations. It appears with an active license in Hawaii's official ARCH vacancy listings.",
       "sources": [
         "https://health.hawaii.gov/ohca/files/2026/01/Combined-ARCH-Expanded-ARCH-Vacancy-Report-By-Alpha-1-2026.pdf",
         "https://carelistings.com/assisted-living-homes/kailua-kona-hi/domingos-care-home/5acd01fca71d8c15cf68ac2c",
@@ -1203,7 +1203,7 @@
       "facility_size": "small",
       "capacity": 5,
       "review_note": "No Google or major-platform consumer rating was found for this facility as of July 2026; CareListings notes there are no reviews on file for it. It is described by multiple senior-living directories as a licensed Adult Residential Care Home - Level 1.",
-      "description": "Myles Care Home is a small, state-licensed Adult Residential Care Home (ARCH Level 1) in a residential neighborhood of Kahului, Maui, licensed for 5 residents. It offers individualized assistance with daily living activities. No consumer review evidence was found for this home as of this listing.",
+      "description": "Myles Care Home is a small, state-licensed Adult Residential Care Home (ARCH Level 1) in a residential neighborhood of Kahului, Maui, licensed for 5 residents. It offers individualized assistance with daily living activities.",
       "sources": [
         "https://www.seniorly.com/assisted-living/hawaii/kahului/myles-care-home",
         "https://carelistings.com/assisted-living-homes/kahului-hi/myles-care-home/5acd01fba71d8c15cf68ab35"
@@ -1227,7 +1227,7 @@
       ],
       "facility_size": "small",
       "review_note": "No Google or major-platform consumer rating was found for this facility as of July 2026. It (registered as CEJ Charity ARCH-EC, L.L.C.) appears in the Hawaii Department of Health Office of Health Care Assurance's Combined ARCH/Expanded ARCH Vacancy Report, confirming active state licensure as an Expanded Care adult residential care home.",
-      "description": "Charity Adult Residential Care Home is a small, state-licensed adult residential care home in Waipahu, Oahu, offering 24-hour supervision and assistance with daily living activities, including medication management. No independent consumer review evidence was found for this home as of this listing.",
+      "description": "Charity Adult Residential Care Home is a small, state-licensed adult residential care home in Waipahu, Oahu, offering 24-hour supervision and assistance with daily living activities, including medication management.",
       "sources": [
         "https://www.seniorly.com/assisted-living/hawaii/waipahu/charity-adult-residential-care-home",
         "https://assistedlivingmagazine.com/nursing-home/charity-adult-residential-care/",
@@ -1255,7 +1255,7 @@
       "facility_size": "small",
       "capacity": 5,
       "review_note": "No Google or major-platform consumer rating was found for this facility as of July 2026. Its active state licensure is confirmed by a Hawaii Department of Health Office of Health Care Assurance Statement of Deficiencies/Plan of Correction document on file for this facility (dated 10/10/2024); the specific deficiencies cited in that document were not reviewed in detail and are not characterized here.",
-      "description": "Honesty is a small, state-licensed 5-bed care home for the elderly in Wailuku, Maui, offering assisted living and memory care services in a residential setting. It has an official Hawaii DOH Office of Health Care Assurance survey record on file. No independent consumer review evidence was found for this home as of this listing.",
+      "description": "Honesty is a small, state-licensed 5-bed care home for the elderly in Wailuku, Maui, offering assisted living and memory care services in a residential setting. It has an official Hawaii DOH Office of Health Care Assurance survey record on file.",
       "sources": [
         "https://health.hawaii.gov/ohca/files/2024/10/Honesty-SODPOC-10.10.2024.pdf",
         "https://www.seniorly.com/assisted-living/hawaii/wailuku/honesty"
@@ -1307,7 +1307,7 @@
       "facility_size": "medium",
       "capacity": 19,
       "review_note": "4.1/5 average 'overall experience' rating across 8 reviews on A Place for Mom (retrieved July 2026); A Place for Mom's own proprietary review score is listed as 0 out of 10 because no reviews were submitted in the most recent 2-year window, indicating the positive rating is based on older reviews rather than recent resident/family experience.",
-      "description": "Wilson Senior Living Kailua is a newer adult residential care home in the Aikahi area of Kailua, Oahu, with 19 private, ADA-compliant rooms. It offers assisted living-level care and services. Its consumer review rating is moderate and based mostly on reviews more than two years old, with no recent reviews on file at major platforms.",
+      "description": "Wilson Senior Living Kailua is a newer adult residential care home in the Aikahi area of Kailua, Oahu, with 19 private, ADA-compliant rooms. It offers assisted living-level care and services.",
       "sources": [
         "https://www.aplaceformom.com/community/wilson-senior-living-kailua-1364767",
         "https://www.caring.com/senior-living/hawaii/kailua/wilson-senior-living-kailua-hawaii",
@@ -1333,7 +1333,7 @@
       ],
       "facility_size": "small",
       "review_note": "No Google or major-platform consumer rating was found for this facility as of July 2026.",
-      "description": "Ruth's House is a small assisted living community in Kailua-Kona on the Big Island, offering personal care assistance including bathing, grooming, dressing, and meal preparation. It also operates an adult day program. No independent consumer review evidence was found for this home as of this listing.",
+      "description": "Ruth's House is a small assisted living community in Kailua-Kona on the Big Island, offering personal care assistance including bathing, grooming, dressing, and meal preparation. It also operates an adult day program.",
       "sources": [
         "https://www.seniorly.com/assisted-living/hawaii/kailua-kona/ruth-s-house-kailua-kona",
         "https://seniorcarehomes.com/assisted-living-facilities/hawaii/kailua-kona/ruths-house-l-l-c/",

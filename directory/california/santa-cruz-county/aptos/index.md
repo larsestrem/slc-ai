@@ -9,6 +9,6 @@ county_name: "Santa Cruz"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "Aegis Living Aptos", "url": "/directory/california/santa-cruz-county/aptos/aegis-living-aptos/", "city_name": "Aptos", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Assisted living and memory care community in Aptos, just south of Santa Cruz, operated by West Coast senior living company Aegis Living. Reviewers praise the exceptionally caring staff, well-maintained hotel-like property, and plentiful activities; some reviews urge families to ask about emergency-response procedures."}]
+facilities: [{"name": "Aegis Living Aptos", "url": "/directory/california/santa-cruz-county/aptos/aegis-living-aptos/", "city_name": "Aptos", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Assisted living and memory care community in Aptos, just south of Santa Cruz, operated by West Coast senior living company Aegis Living."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Santa Cruz County", "url": "/directory/california/santa-cruz-county/"}, {"name": "Aptos", "url": "/directory/california/santa-cruz-county/aptos/"}]
 ---

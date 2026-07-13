@@ -24,7 +24,7 @@ sources: ["https://www.aplaceformom.com/community/the-pines-a-merrill-gardens-co
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 39 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "An independent living, assisted living, and memory care community in Rocklin, formerly operated as The Pines, A Merrill Gardens Community, and now part of Cogir Senior Living. Reviews consistently praise the warm atmosphere, attentive staff, and quality dining. The campus sits in the Whitney Ranch area of west Rocklin."
+description_full: "An independent living, assisted living, and memory care community in Rocklin, formerly operated as The Pines, A Merrill Gardens Community, and now part of Cogir Senior Living. The campus sits in the Whitney Ranch area of west Rocklin."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-pines-a-merrill-gardens-community-1375534"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/rocklin/the-pines-a-merrill-gardens-community-95765"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

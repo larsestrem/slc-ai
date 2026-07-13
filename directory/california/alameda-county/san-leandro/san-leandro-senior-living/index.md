@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "San Leandro Senior Living"
 seo_title: "San Leandro Senior Living — Senior Living in San Leandro, CA"
-description: "Assisted living community near downtown San Leandro offering customized service plans and around-the-clock staffing. It carries one of the largest review volu"
+description: "Assisted living community near downtown San Leandro offering customized service plans and around-the-clock staffing."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Leandro Senior Living", "url": "/directory/california/alameda-county/san-leandro/san-leandro-senior-living/"}]
 nearby: []
 state: "california"
@@ -23,7 +23,7 @@ sources: ["https://www.aplaceformom.com/community/san-leandro-senior-living-5777
 verified_date: "2026-07-12"
 review_note: "4.8/5 across 268 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Assisted living community near downtown San Leandro offering customized service plans and around-the-clock staffing. It carries one of the largest review volumes in the East Bay with a 4.8 out of 5 average across 268 family reviews on A Place for Mom."
+description_full: "Assisted living community near downtown San Leandro offering customized service plans and around-the-clock staffing."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/san-leandro-senior-living-57776"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/san-leandro-senior-living-san-leandro"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

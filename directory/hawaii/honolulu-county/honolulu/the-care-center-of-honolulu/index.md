@@ -27,5 +27,5 @@ review_note: "CMS rating snapshots gathered in July 2026 are split between 2 sta
 serious_concern: true
 serious_concern_note: "CMS flagged a documented pattern of poor care warranting close monitoring, alongside roughly $35,000 in recent federal fines."
 quality_tier: "serious_concerns"
-description_full: "The Care Center of Honolulu is a large, for-profit, Medicare- and Medicaid-certified skilled nursing facility on Bachelot Street in Honolulu. It operates the largest respiratory/ventilator care unit in the state alongside general skilled nursing, short-term rehabilitation, and long-term care. Recent federal rating and inspection data show a below-average and fluctuating CMS overall star rating along with a documented recent history of fines and close CMS monitoring."
+description_full: "The Care Center of Honolulu is a large, for-profit, Medicare- and Medicaid-certified skilled nursing facility on Bachelot Street in Honolulu. It operates the largest respiratory/ventilator care unit in the state alongside general skilled nursing, short-term rehabilitation, and long-term care."
 ---

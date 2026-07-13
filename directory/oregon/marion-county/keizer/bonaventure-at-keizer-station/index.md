@@ -2,7 +2,7 @@
 layout: "facility"
 title: "Bonaventure at Keizer Station"
 seo_title: "Bonaventure at Keizer Station — Senior Living in Keizer, OR"
-description: "A Bonaventure community near the Keizer Station shopping district offering independent living, assisted living, and memory care. Residents highlight friendly "
+description: "A Bonaventure community near the Keizer Station shopping district offering independent living, assisted living, and memory care."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Bonaventure at Keizer Station", "url": "/directory/oregon/marion-county/keizer/bonaventure-at-keizer-station/"}]
 nearby: [{"name": "Keizer Nursing and Rehabilitation", "url": "/directory/oregon/marion-county/keizer/keizer-nursing-and-rehabilitation/", "city_name": "Keizer", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "quality_tier": "below_standard", "facility_size": "medium", "cms_rating_overall": 2, "description": "Keizer Nursing and Rehabilitation is a 49-bed Medicare- and Medicaid-certified skilled nursing facility in Keizer offering short-term rehabilitation and long-term nursing care."}]
 state: "oregon"
@@ -24,7 +24,7 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "9.3/10 A Place for Mom review score based on 15 reviews in the last 2 years; 36 reviews all-time (July 2026)"
 quality_tier: "unrated"
-description_full: "A Bonaventure community near the Keizer Station shopping district offering independent living, assisted living, and memory care. Residents highlight friendly staff and a busy activity calendar, though several reviews criticize meal quality."
+description_full: "A Bonaventure community near the Keizer Station shopping district offering independent living, assisted living, and memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bonaventure-at-keizer-station-1404550"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/keizer/bonaventure-at-keizer-station-97303/"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -4,7 +4,7 @@ title: "Serenity Hawaii Care Home"
 seo_title: "Serenity Hawaii Care Home — Senior Living in Waipahu, HI"
 description: "Serenity Hawaii Care Home is a small Adult Residential Care Home (Level 1) in a residential Waipahu neighborhood near Pearl Harbor, hosting up to five residen"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Serenity Hawaii Care Home", "url": "/directory/hawaii/honolulu-county/waipahu/serenity-hawaii-care-home/"}]
-nearby: [{"name": "Charity Adult Residential Care Home", "url": "/directory/hawaii/honolulu-county/waipahu/charity-adult-residential-care-home/", "city_name": "Waipahu", "state_abbrev": "HI", "care_levels": ["adult-family-home"], "quality_tier": "meets_standard", "facility_size": "small", "description": "Charity Adult Residential Care Home is a small, state-licensed adult residential care home in Waipahu, Oahu, offering 24-hour supervision and assistance with daily living activities, including medication management. No independent consumer review evidence was found for this home as of this listing."}]
+nearby: [{"name": "Charity Adult Residential Care Home", "url": "/directory/hawaii/honolulu-county/waipahu/charity-adult-residential-care-home/", "city_name": "Waipahu", "state_abbrev": "HI", "care_levels": ["adult-family-home"], "quality_tier": "meets_standard", "facility_size": "small", "description": "Charity Adult Residential Care Home is a small, state-licensed adult residential care home in Waipahu, Oahu, offering 24-hour supervision and assistance with daily living activities, including medication management."}]
 state: "hawaii"
 state_name: "Hawaii"
 state_abbrev: "HI"

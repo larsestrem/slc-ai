@@ -23,7 +23,7 @@ sources: ["https://www.aplaceformom.com/community/copper-springs-senior-living-5
 verified_date: "2026-07-13"
 review_note: "3.7/5 average 'overall experience' across 37 reviews (all-time) on A Place for Mom (July 2026), below the site's 4.2 quality-tier threshold despite a substantial review count. Reviewers frequently praise attentive memory-care staff but also raise recurring concerns about management communication, staffing shortages, food variety, and transportation reliability."
 quality_tier: "unrated"
-description_full: "Copper Springs Senior Living is an assisted living and memory care community in Meridian operated by Senior Lifestyle, with a dedicated memory-care neighborhood for residents with Alzheimer's disease and other dementias. A Place for Mom shows a 3.7-out-of-5 average across 37 reviews, a below-threshold but well-sampled rating. Reviewers commonly praise the memory-care staff's attentiveness while also citing recurring concerns about management communication and staffing levels."
+description_full: "Copper Springs Senior Living is an assisted living and memory care community in Meridian operated by Senior Lifestyle, with a dedicated memory-care neighborhood for residents with Alzheimer's disease and other dementias. Reviewers commonly praise the memory-care staff's attentiveness while also citing recurring concerns about management communication and staffing levels."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/copper-springs-senior-living-52774"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

@@ -1233,6 +1233,181 @@
         "https://www.assistedlivingidaho.com/portfolio/columbia-village/"
       ],
       "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Fox Den Homes at Summerset",
+      "slug": "fox-den-homes-at-summerset",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "3940 S Summerset Way",
+      "zip": "83709",
+      "website": "https://www.foxdenidaho.com/",
+      "care_levels": [
+        "adult-family-home",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 9,
+      "organization": "fox-den-homes",
+      "organization_name": "Fox Den Homes",
+      "description": "Fox Den Homes at Summerset is a 9-bed residential assisted living home in Boise owned and operated by a nurse, part of the Fox Den Homes group of small dementia-capable care homes in the Treasure Valley. The small-home model provides a high caregiver-to-resident ratio in a home setting.",
+      "quality_basis": "Nurse-owned 9-bed residential assisted living home in the well-regarded Fox Den Homes group; the group's flagship Bannock House is rated 9.1/10 on My Caring Plan and 4.2/5 across 16 A Place for Mom reviews (2026). This specific home's own online review volume is limited, and its Idaho license status was not independently verified.",
+      "sources": [
+        "https://www.oasissenioradvisors.com/community-guide/idaho/boise/fox-den-homes-at-summerset/",
+        "https://www.foxdenidaho.com/",
+        "https://www.mycaringplan.com/senior-living/fox-den-homes-bannock-house/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Fox Den Homes North End House",
+      "slug": "fox-den-homes-north-end-house",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "phone": "(208) 912-3598",
+      "website": "https://www.foxdenidaho.com/",
+      "care_levels": [
+        "adult-family-home",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 8,
+      "organization": "fox-den-homes",
+      "organization_name": "Fox Den Homes",
+      "description": "Fox Den Homes North End House is an 8-bed residential assisted living home in Boise's historic North End, owned and operated by a nurse. Part of the Fox Den Homes group, it offers personal care, medication management, meals, and 24-hour staffing in a small home environment.",
+      "quality_basis": "Nurse-owned 8-bed residential assisted living home in the well-regarded Fox Den Homes group; the group's flagship Bannock House is rated 9.1/10 on My Caring Plan and 4.2/5 across 16 A Place for Mom reviews (2026). This specific home's own online review volume is limited, and its Idaho license status was not independently verified.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/boise-id/fox-den-homes---north-end-house/67f355d4a073024f4eb4f46e",
+        "https://www.seniorcareauthority.com/assisted-living/fox-den-homes-north-end-house/",
+        "https://www.foxdenidaho.com/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Fox Den Homes Franklin House",
+      "slug": "fox-den-homes-franklin-house",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "1610 N Franklin St",
+      "zip": "83704",
+      "website": "https://www.foxdenidaho.com/",
+      "care_levels": [
+        "adult-family-home",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "organization": "fox-den-homes",
+      "organization_name": "Fox Den Homes",
+      "description": "Fox Den Homes Franklin House is a small residential care home in Boise specializing in memory care for individuals with Alzheimer's and dementia. It is part of the Fox Den Homes group, which operates several nurse-run small homes across the Treasure Valley emphasizing personalized care and a home-like setting.",
+      "quality_basis": "Small memory-care home in the well-regarded Fox Den Homes group; the group's flagship Bannock House is rated 9.1/10 on My Caring Plan and 4.2/5 across 16 A Place for Mom reviews (2026). This specific home's own online review volume is limited, and its Idaho license status and exact bed count were not independently verified.",
+      "sources": [
+        "https://seniorsbluebook.com/senior-housing/fox-den-homes-franklin-house",
+        "https://www.foxdenidaho.com/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Cenoma House",
+      "slug": "cenoma-house",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "twin-falls",
+      "county_name": "Twin Falls",
+      "city": "twin-falls",
+      "city_name": "Twin Falls",
+      "address": "1930 Heyburn Ave E",
+      "zip": "83301",
+      "phone": "(208) 736-7471",
+      "care_levels": [
+        "adult-family-home",
+        "assisted-living"
+      ],
+      "facility_size": "small",
+      "capacity": 10,
+      "description": "Cenoma House is a family-owned 10-bed residential care home in Twin Falls where residents receive a highly personalized level of care. Services include a 24-hour call system, assistance with bathing, dressing, transfers, medication management, and other activities of daily living.",
+      "quality_basis": "Small (10-bed) family-owned residential care home described with a 4.9 rating and consistently positive reviews for its nurturing environment and personalized care (Seniorly, 2026); online review volume is low (1 review on Caring.com). Idaho license status was not independently verified.",
+      "sources": [
+        "https://www.seniorly.com/assisted-living/idaho/twin-falls/cenoma-house",
+        "https://www.caring.com/senior-living/idaho/twin-falls/cenoma-house-83301",
+        "https://www.aplaceformom.com/community/cenoma-house-52647"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Desert Rose Retirement Estates",
+      "slug": "desert-rose-retirement-estates",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "twin-falls",
+      "county_name": "Twin Falls",
+      "city": "twin-falls",
+      "city_name": "Twin Falls",
+      "address": "983 Gallup Dr",
+      "zip": "83301",
+      "phone": "(208) 734-1866",
+      "care_levels": [
+        "adult-family-home",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 8,
+      "description": "Desert Rose Retirement Estates is an 8-unit senior care home in Twin Falls licensed for up to 8 residents. The home provides assisted living and Alzheimer's care with activities and home-cooked meals in a small residential setting.",
+      "quality_basis": "Small (8-bed) assisted living home reported at 5.0 out of 5 stars across 2 reviews on SeniorAdvice (2026); review volume is very low. Idaho license status was not independently verified.",
+      "sources": [
+        "https://www.senioradvice.com/providers/view/desert-rose-retirement-estates-twin-falls-id",
+        "https://www.aplaceformom.com/community/desert-rose-retirement-estates-52652",
+        "https://www.senioradvisor.com/local/desert-rose-retirement-estates-twin-falls-id"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Briarwood Assisted Living of Rexburg",
+      "slug": "briarwood-assisted-living-of-rexburg",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "madison",
+      "county_name": "Madison",
+      "city": "rexburg",
+      "city_name": "Rexburg",
+      "address": "3685 W Highway 33",
+      "zip": "83440",
+      "phone": "(208) 356-7668",
+      "care_levels": [
+        "adult-family-home",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "description": "Briarwood Assisted Living of Rexburg is a small, home-style assisted living and memory care community described as a warm country home. Services include 24-hour trained and certified staff, an on-site nurse, medication assistance, a secured yard, and home health and hospice support.",
+      "quality_basis": "Small home-style assisted living and memory care home with 3 positive reviews on Caring.com (2026) describing friendly, helpful staff and a homey feel, and regarded locally as one of the better southeast Idaho small homes. No numeric star average was visible, and the Idaho license status and bed count were not independently verified.",
+      "sources": [
+        "https://www.caring.com/senior-living/idaho/rexburg/briarwood-assisted-living-of-rexburg",
+        "https://www.seniorly.com/assisted-living/idaho/rexburg/briarwood-assisted-living-rexburg",
+        "https://www.senior-living-directory.com/idaho/rexburg/assisted-living-facility/briarwood-assisted-living"
+      ],
+      "verified_date": "2026-07-13"
     }
   ],
   "organizations": [
@@ -1415,6 +1590,22 @@
       "description": "HumanGood is one of the largest nonprofit senior living organizations in the United States, operating life plan (continuing care retirement) communities and affordable housing. In Idaho it operates The Terraces of Boise, a continuing care retirement community. Its roots in senior care date to 1949.",
       "sources": [
         "https://www.humangood.org/the-terraces-of-boise"
+      ]
+    },
+    {
+      "name": "Fox Den Homes",
+      "slug": "fox-den-homes",
+      "headquarters": "Boise, Idaho",
+      "website": "https://www.foxdenidaho.com/",
+      "facility_count_approx": 4,
+      "states": [
+        "ID"
+      ],
+      "description": "Fox Den Homes operates a small group of nurse-owned residential assisted living and memory care homes in Boise, each serving roughly 8-9 residents. The model emphasizes low caregiver-to-resident ratios and a home-like environment. Its flagship Bannock House is among the higher-rated small care homes in Boise.",
+      "sources": [
+        "https://www.foxdenidaho.com/",
+        "https://www.mycaringplan.com/senior-living/fox-den-homes-bannock-house/",
+        "https://www.aplaceformom.com/community/fox-den-homes-bannock-house-52827"
       ]
     }
   ]

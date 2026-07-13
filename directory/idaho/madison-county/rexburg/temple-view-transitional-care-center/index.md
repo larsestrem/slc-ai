@@ -4,7 +4,7 @@ title: "Temple View Transitional Care Center"
 seo_title: "Temple View Transitional Care Center — Senior Living in Rexburg, ID"
 description: "A 119-bed skilled nursing and transitional-care center in Rexburg (formerly Rexburg Care and Rehabilitation Center). It holds a CMS overall rating of 3 stars,"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Temple View Transitional Care Center", "url": "/directory/idaho/madison-county/rexburg/temple-view-transitional-care-center/"}]
-nearby: []
+nearby: [{"name": "Briarwood Assisted Living of Rexburg", "url": "/directory/idaho/madison-county/rexburg/briarwood-assisted-living-of-rexburg/", "city_name": "Rexburg", "state_abbrev": "ID", "care_levels": ["adult-family-home", "assisted-living", "memory-care"], "facility_size": "small", "description": "Briarwood Assisted Living of Rexburg is a small, home-style assisted living and memory care community described as a warm country home. Services include 24-hour trained and certified staff, an on-site nurse, medication assistance, a secured yard, and home health and hospice support."}]
 state: "idaho"
 state_name: "Idaho"
 state_abbrev: "ID"

@@ -2881,6 +2881,697 @@
         "https://www.sunnysadultfamilyhome.com/"
       ],
       "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Titlow Adult Family Home",
+      "slug": "titlow-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "pierce",
+      "county_name": "Pierce",
+      "city": "tacoma",
+      "city_name": "Tacoma",
+      "address": "8388 6th Ave",
+      "zip": "98465",
+      "phone": "(253) 576-6627",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Titlow Adult Family Home is a licensed six-bed adult family home in Tacoma's Titlow Park neighborhood, near the beach and walking trails. It provides memory care and personal care services in a small residential setting. The owner is noted by families for attentive, hands-on involvement with each resident.",
+      "specialties": [
+        "Dementia"
+      ],
+      "review_note": "9.5/10 review score across 6 reviews on A Place for Mom, and rated 5.0/5 'Excellent' on SeniorAdvisor (July 2026)",
+      "quality_basis": "Washington-licensed six-bed adult family home with an above-average review reputation (A Place for Mom review score 9.5/10 across 6 reviews) and a memory-care focus.",
+      "sources": [
+        "https://www.aplaceformom.com/community/titlow-adult-family-home-1403030",
+        "https://www.seniorhousingnet.com/seniorliving-detail/titlow-adult-family-home_8388-6th-ave_tacoma_wa_98465-631395",
+        "https://www.senioradvisor.com/local/golden-age-adult-family-home-tacoma-wa"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Divine Home Health Adult Family Home",
+      "slug": "divine-home-health-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "bellevue",
+      "city_name": "Bellevue",
+      "address": "2664 171st Ave SE",
+      "zip": "98008",
+      "phone": "(425) 269-9330",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Divine Home Health Adult Family Home is a six-bed licensed adult family home near Lake Sammamish in Bellevue, with six private bedrooms and private bathrooms. It offers memory care and 24-hour care in a home-like setting. The provider has more than a decade of caregiving experience.",
+      "specialties": [
+        "Dementia"
+      ],
+      "review_note": "9.5/10 review score based on 3 reviews on A Place for Mom (July 2026)",
+      "quality_basis": "Washington-licensed six-bed adult family home run by an experienced provider (about 11 years) with a memory-care focus and a strong A Place for Mom review score (9.5/10).",
+      "sources": [
+        "https://www.aplaceformom.com/community/divine-home-health-adult-family-home-98163",
+        "https://www.senioradvice.com/providers/view/divine-home-health-adult-family-home-bellevue-wa"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Sunny Loving Care Adult Family Home",
+      "slug": "sunny-loving-care-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "lynnwood",
+      "city_name": "Lynnwood",
+      "address": "16607 58th Pl W",
+      "zip": "98037",
+      "phone": "(425) 361-7514",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 5,
+      "description": "Sunny Loving Care Adult Family Home is a licensed five-bed adult family home in Lynnwood. It provides personal care, medication management, meals and 24-hour supervision, with a focus on memory care for residents with Alzheimer's and dementia.",
+      "specialties": [
+        "Dementia"
+      ],
+      "google_rating": 5.0,
+      "google_review_count": 4,
+      "rating_as_of": "2026-07-13",
+      "quality_basis": "Washington-licensed five-bed adult family home with a 5.0/5 Google rating across 4 reviews and a memory-care focus.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/lynnwood-wa/sunny-loving-care-adult-family-home/5acd028fa71d8c15cf6962fe",
+        "https://www.seniorhousingnet.com/seniorliving-detail/sunny-loving-adult-home_16607-58th-pl-w_lynnwood_wa_98037-636079"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Twin Lake Adult Family Home",
+      "slug": "twin-lake-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "federal-way",
+      "city_name": "Federal Way",
+      "address": "3775 SW 319th St",
+      "zip": "98023",
+      "phone": "(425) 435-1045",
+      "website": "https://www.twinlakeafh.com/",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Twin Lake Adult Family Home is a licensed six-bed adult family home in Federal Way, set beside a golf course. It offers memory care and personal care in a small, home-like setting with hands-on daily involvement from the owner and caregivers.",
+      "specialties": [
+        "Dementia"
+      ],
+      "review_note": "6 reviews averaging 5.0/5 overall experience on A Place for Mom (9/10 review score based on 5 recent reviews), July 2026",
+      "quality_basis": "Washington-licensed six-bed adult family home with a 5.0/5 average across 6 A Place for Mom reviews and a memory-care focus.",
+      "sources": [
+        "https://www.aplaceformom.com/community/twin-lake-adult-family-home-1453915",
+        "https://www.twinlakeafh.com/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "All Saints Adult Family Home",
+      "slug": "all-saints-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "federal-way",
+      "city_name": "Federal Way",
+      "address": "2704 SW 314th St",
+      "zip": "98023",
+      "phone": "(206) 335-1351",
+      "website": "https://www.allsaintsadultfamilyhomes.com/",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "All Saints Adult Family Home is a family-owned, licensed six-bed adult family home in Federal Way offering 24-hour memory care in a home with private rooms and gardens. The owner has more than 14 years of geriatric care experience, and caregivers are trained in dementia and Alzheimer's care.",
+      "specialties": [
+        "Dementia"
+      ],
+      "review_note": "4 reviews averaging 5.0/5 overall experience on A Place for Mom (July 2026)",
+      "quality_basis": "Washington-licensed six-bed adult family home with a 5.0/5 average across 4 A Place for Mom reviews, a memory-care focus, and an owner with 14+ years of geriatric care experience.",
+      "sources": [
+        "https://www.aplaceformom.com/community/all-saints-adult-family-home-1401587",
+        "https://www.allsaintsadultfamilyhomes.com/",
+        "https://www.seniorhousingnet.com/seniorliving-detail/all-saints-adult-family-home_2704-sw-314th-st_federal-way_wa_98023-630803"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Bridle Trails Senior Care",
+      "slug": "bridle-trails-senior-care",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "kirkland",
+      "city_name": "Kirkland",
+      "address": "5551 116th Ave NE",
+      "zip": "98033",
+      "phone": "(425) 445-5106",
+      "website": "https://www.kirklandseniorcare.com/",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Bridle Trails Senior Care is a licensed adult family home in Kirkland's Bridle Trails neighborhood, owned and managed by a Washington-licensed registered nurse. It specializes in Alzheimer's and dementia care, hospice, and nursing services in a peaceful, home-like setting for up to six residents.",
+      "specialties": [
+        "Dementia"
+      ],
+      "review_note": "10 reviews on A Place for Mom (listed as Alpine Residences of Bridle Trails), with an above-average local reputation (July 2026)",
+      "quality_basis": "Washington-licensed adult family home run by a registered nurse with roughly 20 years of geriatric experience, a memory-care specialty, and 10 A Place for Mom reviews.",
+      "sources": [
+        "https://www.kirklandseniorcare.com/",
+        "https://www.aplaceformom.com/community/bridle-trails-senior-care-1357000",
+        "https://www.yelp.com/biz/bridle-trails-senior-care-kirkland"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "At Serenity Adult Family Home",
+      "slug": "at-serenity-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "auburn",
+      "city_name": "Auburn",
+      "address": "3020 14th St SE",
+      "zip": "98092",
+      "phone": "(253) 931-5119",
+      "website": "https://www.atserenityafh.com/",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "license_id": "757831",
+      "licensed_since": 2005,
+      "specialties": [
+        "Dementia",
+        "Mental Health"
+      ],
+      "description": "At Serenity Adult Family Home is a licensed six-bed adult family home in Auburn operating since 2005. It is certified by Washington DSHS for both Dementia Specialty and Mental Health Specialty care and provides 24-hour supervision. Families praise the spotless home and attentive staff.",
+      "review_note": "8 reviews averaging 5.0/5 overall experience on A Place for Mom (July 2026)",
+      "quality_basis": "Washington-licensed adult family home operating since 2005 with DSHS Dementia and Mental Health specialty certifications and a 5.0/5 average across 8 A Place for Mom reviews.",
+      "sources": [
+        "https://www.aplaceformom.com/community/a-serenity-adult-family-home-139217",
+        "https://adultfamilyhomecouncil.org/home-finder/757831-at-serenity-afh-llc",
+        "https://www.atserenityafh.com/contact.html"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Elderly Home Care",
+      "slug": "elderly-home-care-bothell",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "bothell",
+      "city_name": "Bothell",
+      "address": "15018 Simonds Rd NE",
+      "zip": "98011",
+      "phone": "(425) 286-6938",
+      "website": "https://www.elderlyhomecareafh.com/",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Elderly Home Care is a licensed six-bed adult family home in Bothell owned and operated by Veronica Dudau, a healthcare professional with more than 20 years of long-term care experience. It offers assisted living and memory care with a high caregiver-to-resident ratio.",
+      "specialties": [
+        "Dementia"
+      ],
+      "review_note": "7 reviews averaging 5.0/5 overall experience on A Place for Mom (July 2026)",
+      "quality_basis": "Washington-licensed six-bed adult family home with a 5.0/5 average across 7 A Place for Mom reviews and an owner with 20+ years of long-term care experience.",
+      "sources": [
+        "https://www.aplaceformom.com/community/elderly-home-care-99483",
+        "https://www.elderlyhomecareafh.com/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Victoria 1 Adult Family Home",
+      "slug": "victoria-1-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "seattle",
+      "city_name": "Seattle",
+      "address": "13321 31st Ave NE",
+      "zip": "98125",
+      "phone": "(206) 366-8569",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Victoria 1 Adult Family Home is a licensed adult family home in Seattle's Lake City area providing memory care and 24-hour supervision. The provider, Maria Corbu, is a certified nursing assistant with specialty training in Alzheimer's, dementia and mental health and more than 10 years of experience.",
+      "specialties": [
+        "Dementia"
+      ],
+      "review_note": "5.0/5 across 5 reviews on SeniorAdvisor; 4 reviews averaging 5.0/5 on A Place for Mom (July 2026)",
+      "quality_basis": "Washington-licensed adult family home with a 5.0/5 rating across 5 SeniorAdvisor reviews and a provider trained in dementia care with 10+ years of experience.",
+      "sources": [
+        "https://www.aplaceformom.com/community/victoria-1-adult-family-home-142288",
+        "https://www.senioradvisor.com/local/victoria-1-afh-seattle-wa"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Namaste Adult Family Home",
+      "slug": "namaste-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "kent",
+      "city_name": "Kent",
+      "address": "711 Hilltop Ave",
+      "zip": "98031",
+      "phone": "(253) 487-5169",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "license_id": "753668",
+      "description": "Namaste Adult Family Home is a licensed six-bed adult family home in Kent, family-owned and operated by a husband-and-wife team. It provides personal care, medication management, meals and 24-hour supervision in a home-like setting.",
+      "google_rating": 5.0,
+      "google_review_count": 6,
+      "rating_as_of": "2026-07-13",
+      "quality_basis": "Washington-licensed six-bed adult family home with a 5.0/5 Google rating across 6 reviews.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/kent-wa/namaste-adult-family-home/5acd0296a71d8c15cf696b5a",
+        "https://adultfamilyhomecouncil.org/home-finder/753668-namaste-adult-family-home-llc"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Always With Love Care",
+      "slug": "always-with-love-care-kent",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "kent",
+      "city_name": "Kent",
+      "address": "11858 SE 236th St",
+      "zip": "98031",
+      "phone": "(253) 638-1942",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "capacity": 3,
+      "description": "Always With Love Care is a licensed three-bed adult family home in Kent offering personal care, medication management, meals and 24-hour supervision in an intimate home setting. Families describe the home as spotless with excellent food and warm, attentive caregivers.",
+      "google_rating": 5.0,
+      "google_review_count": 4,
+      "rating_as_of": "2026-07-13",
+      "quality_basis": "Washington-licensed three-bed adult family home with a 5.0/5 Google rating across 4 reviews.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/kent-wa/always-with-love-care/5acd028ca71d8c15cf695e51",
+        "https://www.senioradvice.com/providers/view/always-with-love-care-kent-wa"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Providence Adult Family Home",
+      "slug": "providence-adult-family-home-spokane",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "spokane",
+      "county_name": "Spokane",
+      "city": "spokane",
+      "city_name": "Spokane",
+      "address": "2719 W Strong Rd",
+      "zip": "99208",
+      "phone": "(509) 321-7373",
+      "website": "https://providenceadultfamilyhome.com/",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Providence Adult Family Home is a licensed six-bed adult family home in north Spokane owned and operated by Angela and Vasile Codreanu. It offers a home-like setting with 24-hour awake staff, many specially trained in Alzheimer's and dementia care, and handicap-accessible bathrooms.",
+      "specialties": [
+        "Dementia"
+      ],
+      "review_note": "9.8/10 'Most Loved' review score based on 6 reviews on A Place for Mom; 5.0/5 on Caring.com (July 2026)",
+      "quality_basis": "Washington-licensed six-bed adult family home with a memory-care focus and a top A Place for Mom review score (9.8/10, 'Most Loved') across 6 reviews.",
+      "sources": [
+        "https://www.aplaceformom.com/community/providence-adult-family-home-1369439",
+        "https://providenceadultfamilyhome.com/",
+        "https://www.seniorhousingnet.com/seniorliving-detail/providence-adult-family-home_2719-w-strong-rd_spokane_wa_99208-626146"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Grace Senior Care of Issaquah",
+      "slug": "grace-senior-care-of-issaquah",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "issaquah",
+      "city_name": "Issaquah",
+      "address": "10707 Issaquah-Hobart Rd SE",
+      "zip": "98027",
+      "phone": "(425) 445-9723",
+      "website": "https://graceseniorcare.com/",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Grace Senior Care of Issaquah is a licensed adult family home for up to six residents, set on a private acre and a half in the Issaquah Highlands area near I-90. Each resident has a private room and bathroom, with hands-on care from providers Michelle and Alex Lupse, who have offered senior care in Issaquah for many years.",
+      "review_note": "4 reviews on A Place for Mom (July 2026)",
+      "quality_basis": "Washington-licensed six-bed adult family home with positive A Place for Mom reviews and long-standing local operation by the same providers.",
+      "sources": [
+        "https://graceseniorcare.com/",
+        "https://www.aplaceformom.com/community/grace-senior-care-of-issaquah-160401",
+        "https://www.gracecaringhome.com/adult-family-home/issaquah-wa"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Caring Arms Adult Family Home",
+      "slug": "caring-arms-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "pierce",
+      "county_name": "Pierce",
+      "city": "puyallup",
+      "city_name": "Puyallup",
+      "address": "16912 118th Avenue Ct E",
+      "zip": "98374",
+      "phone": "(253) 202-4638",
+      "website": "http://caringarmsafh.com/",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Caring Arms Adult Family Home is a licensed six-bed adult family home in the South Hill area of Puyallup, offering six private rooms in a newly remodeled house. It provides assisted living and Alzheimer's care and accepts Medicaid and Veteran benefits.",
+      "specialties": [
+        "Dementia"
+      ],
+      "review_note": "7 reviews averaging 5.0/5 overall experience on A Place for Mom (July 2026)",
+      "quality_basis": "Washington-licensed six-bed adult family home with a 5.0/5 average across 7 A Place for Mom reviews and an Alzheimer's-care focus.",
+      "sources": [
+        "http://caringarmsafh.com/",
+        "https://www.aplaceformom.com/community/caring-arms-adult-family-home-151103"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Ravancho AFH",
+      "slug": "ravancho-afh",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "thurston",
+      "county_name": "Thurston",
+      "city": "olympia",
+      "city_name": "Olympia",
+      "address": "1130 Canna Ct SE",
+      "zip": "98513",
+      "phone": "(360) 438-1951",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Ravancho AFH is a licensed six-bed adult family home in Olympia providing Alzheimer's care and assisted living across a range of care levels. It offers a small, home-like setting with 24-hour care.",
+      "specialties": [
+        "Dementia"
+      ],
+      "review_note": "4.9/5 average across 9 reviews on A Place for Mom (9.5/10 review score based on recent reviews), July 2026",
+      "quality_basis": "Washington-licensed six-bed adult family home with a 4.9/5 average across 9 A Place for Mom reviews and a memory-care focus.",
+      "sources": [
+        "https://www.aplaceformom.com/community/ravancho-afh-147057",
+        "https://www.seniorhousingnet.com/seniorliving-detail/ravancho-afh_1130-canna-ct-se_olympia_wa_98513-637248"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Assurety Adult Family Home",
+      "slug": "assurety-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "vancouver",
+      "city_name": "Vancouver",
+      "address": "15608 NE Noble St",
+      "zip": "98682",
+      "phone": "(360) 254-3278",
+      "website": "https://www.assurety.org/",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Assurety Adult Family Home is a licensed six-bed adult family home in Vancouver, overseen by owners Jim and Laura. It offers assisted living, Alzheimer's and memory care, nursing, and hospice care in a home setting with 24-hour supervision.",
+      "specialties": [
+        "Dementia"
+      ],
+      "google_rating": 5.0,
+      "google_review_count": 18,
+      "rating_as_of": "2026-07-13",
+      "quality_basis": "Washington-licensed six-bed adult family home with a 5.0/5 Google rating across 18 reviews and a memory-care focus; public records show its license renewed in 2023 with no cited deficiencies.",
+      "sources": [
+        "https://www.assurety.org/",
+        "https://carelistings.com/assisted-living-homes/vancouver-wa/assurety-adult-family-home-inc/5acd0288a71d8c15cf695942",
+        "https://www.aplaceformom.com/community/assurety-senior-care-71989"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "IRIS Adult Family Home",
+      "slug": "iris-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "vancouver",
+      "city_name": "Vancouver",
+      "address": "8505 NE 15th St",
+      "zip": "98664",
+      "phone": "(360) 798-2400",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "licensed_since": 1999,
+      "description": "IRIS is a licensed 6-bed adult family home in Vancouver that has operated since 1999, with staff trained in memory care, high-acuity care and medication management. Aggregator listings describe it as a memory care and residential care home serving residents with dementia.",
+      "review_note": "A Place for Mom 22 reviews all-time averaging 4.2/5; SeniorAdvisor 4.0 stars with 15 reviews (as of July 2026).",
+      "quality_basis": "Operating since 1999 (25+ years) with an extensive multi-platform review history (22 A Place for Mom reviews averaging 4.2/5).",
+      "sources": [
+        "https://www.aplaceformom.com/community/iris-adult-family-home-1441293",
+        "https://adultfamilyhomecouncil.org/home-finder/754239-iris-adult-family-home",
+        "https://www.senioradvisor.com/local/iris-adult-family-home-vancouver-wa"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Camas Hills Care Home",
+      "slug": "camas-hills-care-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "camas",
+      "city_name": "Camas",
+      "address": "2432 NW Fargo St",
+      "zip": "98607",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "licensed_since": 2010,
+      "description": "Camas Hills Care Home is a licensed 6-bed adult family home in Camas, family-owned and operated since 2010. It offers six private suites with private bathrooms and states specialized training in mental health and dementia, caring for all levels including hospice.",
+      "google_rating": 5.0,
+      "google_review_count": 2,
+      "rating_as_of": "2026-07-13",
+      "review_note": "Google 5.0 stars from 2 reviews; A Place for Mom lists 14 reviews (as of July 2026).",
+      "quality_basis": "In operation since 2010 (15+ years) with 14 reviews aggregated on A Place for Mom and a 5.0 Google rating (small review count).",
+      "sources": [
+        "https://www.aplaceformom.com/community/camas-hills-care-home-1378934",
+        "https://carelistings.com/assisted-living-homes/camas-wa/camas-hills-care-home/5acd0290a71d8c15cf696338"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Abelia I Senior Home",
+      "slug": "abelia-i-senior-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "everett",
+      "city_name": "Everett",
+      "address": "5314 Beverly Ln",
+      "zip": "98203",
+      "phone": "(425) 249-2405",
+      "website": "https://www.abeliaseniorhomes.net/",
+      "care_levels": [
+        "adult-family-home"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Abelia I Senior Home is a licensed 6-bed adult family home in Everett operated by Abelia Senior Services LLC. It provides personal care, medication management, family-style meals and 24-hour supervision in a home setting.",
+      "google_rating": 5.0,
+      "google_review_count": 5,
+      "rating_as_of": "2026-07-13",
+      "quality_basis": "Rated 5.0 stars from 5 Google reviews per aggregator listing; licensed 6-bed adult family home.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/everett-wa/abelia-i-senior-home/5acd0297a71d8c15cf696ce0",
+        "https://www.abeliaseniorhomes.net/",
+        "https://adultfamilyhomecouncil.org/facility-finder/abelia-senior-services-llc/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Idyllic Adult Family Home",
+      "slug": "idyllic-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "snohomish",
+      "city_name": "Snohomish",
+      "address": "2125 Park Ave",
+      "zip": "98290",
+      "phone": "(425) 499-8828",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Idyllic Adult Family Home is a licensed 6-bed adult family home in Snohomish offering private rooms and 24-hour awake CNA staffing. Listings describe a care focus on mental health and dementia, with nutritious meals and recreational activities.",
+      "review_note": "SeniorAdvisor 4.5 stars with 5 reviews; A Place for Mom shows 5 reviews averaging 4.7/5 (as of July 2026).",
+      "quality_basis": "SeniorAdvisor 4.5-star rating and A Place for Mom 4.7/5 average, each across 5 reviews.",
+      "sources": [
+        "https://www.aplaceformom.com/community/idyllic-adult-family-home-149868",
+        "https://adultfamilyhomecouncil.org/home-finder/756732-idyllic-adult-family-home-llc"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "SIM Adult Family Home",
+      "slug": "sim-adult-family-home",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "thurston",
+      "county_name": "Thurston",
+      "city": "olympia",
+      "city_name": "Olympia",
+      "address": "1836 East End Ct NW",
+      "zip": "98502",
+      "phone": "(360) 584-9188",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "license_id": "752887",
+      "description": "SIM Adult Family Home is a licensed 6-bed adult family home in Olympia specializing in dementia care, hospice and long-term care, with 24/7 caregivers and nurses on staff for medication administration. It sits in a quiet residential area of northwest Olympia.",
+      "review_note": "Yelp 5.0 stars from 4 reviews (as of July 2026); review sentiment is mixed across platforms.",
+      "quality_basis": "Yelp 5.0 rating across 4 reviews; state license number 752887 cited in a directory listing.",
+      "sources": [
+        "https://www.yelp.com/biz/sim-adult-family-home-olympia-2",
+        "https://www.seniorhousingnet.com/seniorliving-detail/sim-adult-family-home_1836-east-end-ct-nw_olympia_wa_98502-633495",
+        "https://www.aplaceformom.com/community/sim-adult-family-home-1402834"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Bellingham Adult Family Homes LLC",
+      "slug": "bellingham-adult-family-homes-llc",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "whatcom",
+      "county_name": "Whatcom",
+      "city": "bellingham",
+      "city_name": "Bellingham",
+      "address": "3614 Alabama St",
+      "zip": "98229",
+      "phone": "(360) 656-6997",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "description": "Bellingham Adult Family Homes LLC is a licensed 6-bed adult family home in Bellingham owned by Tony and Claudia Anton, located near Bloedel Donovan and Whatcom Falls parks. Listings note specialized behavior support and services for mental health and dementia.",
+      "review_note": "Birdeye 5.0 stars from 3 reviews (as of July 2026), including a family who kept both parents there for several years.",
+      "quality_basis": "Birdeye 5.0 rating across 3 reviews describing multi-year family stays.",
+      "sources": [
+        "https://reviews.birdeye.com/bellingham-adult-family-homes-llc-168146154660823",
+        "https://carelistings.com/assisted-living-homes/bellingham-wa/bellingham-adult-family-homes/67f376b2a073024f4eb57189",
+        "https://adultfamilyhomecouncil.org/home-finder/754749-bellingham-adult-family-homes"
+      ],
+      "verified_date": "2026-07-13"
     }
   ],
   "organizations": [

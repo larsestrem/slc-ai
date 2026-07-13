@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Mountain View Assisted Living & Memory Care"
 seo_title: "Mountain View Assisted Living & Memory Care — Senior Living in Ukiah, CA"

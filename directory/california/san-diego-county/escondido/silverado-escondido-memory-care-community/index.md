@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Silverado Escondido Memory Care Community"
 seo_title: "Silverado Escondido Memory Care Community — Senior Living in Escondido, CA"

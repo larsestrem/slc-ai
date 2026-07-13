@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "region"
 title: "Sacramento & Northern Valley Senior Living"
 seo_title: "Senior Living in Sacramento & Northern Valley, CA — 23 Communities"

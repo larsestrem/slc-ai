@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "Guardian Angel Homes Post Falls"
 seo_title: "Guardian Angel Homes Post Falls — Senior Living in Post Falls, ID"

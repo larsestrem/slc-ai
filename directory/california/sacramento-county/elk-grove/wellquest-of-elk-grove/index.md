@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "WellQuest of Elk Grove"
 seo_title: "WellQuest of Elk Grove — Senior Living in Elk Grove, CA"

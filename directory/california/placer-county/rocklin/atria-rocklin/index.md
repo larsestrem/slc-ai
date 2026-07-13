@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Rocklin"
 seo_title: "Atria Rocklin — Senior Living in Rocklin, CA"

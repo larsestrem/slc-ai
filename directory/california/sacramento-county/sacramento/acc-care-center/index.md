@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "ACC Care Center"
 seo_title: "ACC Care Center — Senior Living in Sacramento, CA"

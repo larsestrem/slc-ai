@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Paradise Valley Estates"
 seo_title: "Paradise Valley Estates — Senior Living in Fairfield, CA"

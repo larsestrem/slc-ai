@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Carmel Village at Clovis"
 seo_title: "Carmel Village at Clovis — Senior Living in Clovis, CA"

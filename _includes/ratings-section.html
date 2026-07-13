@@ -1,0 +1,62 @@
+{%- comment -%}
+Bottom-of-page ratings section for a facility. For each rating we hold, it shows
+the score, who assigns it, what it measures, and links to the guides that explain
+how the rating is determined.
+{%- endcomment -%}
+<section class="panel ratings-block" aria-labelledby="ratings-h">
+  <h2 id="ratings-h">Ratings &amp; official records</h2>
+  <p>Here is every rating we found for {{ page.title }} — who assigns each one and what it
+  actually measures — so you can weigh it for what it's worth. No single number decides a good
+  fit; use these to build questions, then trust your own visit.</p>
+
+  {%- if page.cms_ccn %}
+  <div class="rating-card">
+    <div class="rating-badge">
+      {%- if page.cms_rating_overall %}{% include stars.html rating=page.cms_rating_overall %}
+      <span class="rating-num">{{ page.cms_rating_overall }} of 5</span>{% else %}<span class="rating-num">Medicare-<br>certified</span>{% endif %}
+    </div>
+    <div class="rating-body">
+      <h3>Medicare Five-Star Quality Rating</h3>
+      <p><strong>Who assigns it:</strong> the federal Centers for Medicare &amp; Medicaid Services
+      (CMS), the government agency that certifies nursing homes.
+      <strong>What it measures:</strong> independent state health inspections, nurse and aide
+      staffing levels, and clinical quality measures, combined into one overall star. Some of the
+      quality data is reported by the facility itself — which means a community that documents
+      every incident honestly can score lower than one that reports less completely. Read the
+      health-inspection detail, not just the summary star.</p>
+      <p><a href="https://www.medicare.gov/care-compare/details/nursing-home/{{ page.cms_ccn }}" rel="noopener">See the full federal report on Medicare Care Compare</a> ·
+      <a href="/guides/reading-inspection-reports-and-ratings/">How these stars are calculated, and their limits</a></p>
+    </div>
+  </div>
+  {%- else %}
+  <div class="rating-card">
+    <div class="rating-badge"><span class="rating-num">State-<br>licensed</span></div>
+    <div class="rating-body">
+      <h3>State license &amp; inspections</h3>
+      <p><strong>Who assigns it:</strong> {{ page.state_name }} — not Medicare. Assisted living,
+      memory care, and small care homes have no federal star rating; the state licenses and
+      inspects them. <strong>What it covers:</strong> license status, inspection findings, and
+      substantiated complaints.</p>
+      <p>{% if page.licensing %}<a href="{{ page.licensing.lookup_url }}" rel="noopener">Look up this community at the {{ page.licensing.agency }}</a> ·
+      {% endif %}<a href="/guides/checking-complaints-and-state-records/">How to read the record fairly</a></p>
+    </div>
+  </div>
+  {%- endif %}
+
+  {%- if page.google_rating or page.review_note %}
+  <div class="rating-card">
+    <div class="rating-badge"><span class="rating-num">{% if page.google_rating %}{{ page.google_rating }} of 5{% else %}Family<br>reviews{% endif %}</span></div>
+    <div class="rating-body">
+      <h3>Family &amp; resident reviews</h3>
+      <p><strong>Who writes it:</strong> families and residents, on public review sites{% if page.google_rating and page.google_review_count %} — {{ page.google_review_count }} Google reviews{% if page.rating_as_of %} as of {{ page.rating_as_of | date: "%B %Y" }}{% endif %}{% elsif page.review_note %} ({{ page.review_note }}){% endif %}.
+      <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
+      inspections. Read the recent ones and the middle-star ones, not just the average.</p>
+      <p><a href="/guides/interpreting-online-reviews/">How to read online reviews without being misled</a></p>
+    </div>
+  </div>
+  {%- endif %}
+
+  <p class="count">We list communities that meet a verified family-review standard or hold a
+  government rating of three stars or better — and we always show the rating with its source and
+  date rather than hide it. <a href="/guides/reading-inspection-reports-and-ratings/">How facilities are rated &rarr;</a></p>
+</section>

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Prairie City Landing"
 seo_title: "Prairie City Landing — Senior Living in Folsom, CA"

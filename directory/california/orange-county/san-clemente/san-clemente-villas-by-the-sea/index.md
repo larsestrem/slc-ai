@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "San Clemente Villas by the Sea"
 seo_title: "San Clemente Villas by the Sea — Senior Living in San Clemente, CA"

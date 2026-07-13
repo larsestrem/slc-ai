@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Cogir of Stock Ranch Senior Living"
 seo_title: "Cogir of Stock Ranch Senior Living — Senior Living in Citrus Heights, CA"

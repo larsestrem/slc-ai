@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Oaks at Paso Robles"
 seo_title: "The Oaks at Paso Robles — Senior Living in Paso Robles, CA"

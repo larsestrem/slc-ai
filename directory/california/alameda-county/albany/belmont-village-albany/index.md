@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Belmont Village Albany"
 seo_title: "Belmont Village Albany — Senior Living in Albany, CA"

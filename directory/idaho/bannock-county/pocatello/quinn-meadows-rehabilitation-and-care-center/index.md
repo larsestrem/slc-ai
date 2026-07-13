@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "Quinn Meadows Rehabilitation and Care Center"
 seo_title: "Quinn Meadows Rehabilitation and Care Center — Senior Living in Pocatello, ID"

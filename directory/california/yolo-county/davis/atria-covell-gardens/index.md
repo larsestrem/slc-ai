@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Covell Gardens"
 seo_title: "Atria Covell Gardens — Senior Living in Davis, CA"

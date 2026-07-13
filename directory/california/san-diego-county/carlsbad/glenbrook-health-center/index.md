@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "GlenBrook Health Center"
 seo_title: "GlenBrook Health Center — Senior Living in Carlsbad, CA"

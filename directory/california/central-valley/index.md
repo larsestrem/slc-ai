@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "region"
 title: "Central Valley Senior Living"
 seo_title: "Senior Living in Central Valley, CA — 18 Communities"

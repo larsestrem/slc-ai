@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "MorningStar of Pasadena"
 seo_title: "MorningStar of Pasadena — Senior Living in Pasadena, CA"

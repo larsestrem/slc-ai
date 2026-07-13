@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Rancho Mirage"
 seo_title: "Atria Rancho Mirage — Senior Living in Rancho Mirage, CA"

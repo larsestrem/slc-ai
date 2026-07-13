@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Folsom"
 seo_title: "Oakmont of Folsom — Senior Living in Folsom, CA"

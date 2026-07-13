@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "region"
 title: "Orange County & Inland Empire Senior Living"
 seo_title: "Senior Living in Orange County & Inland Empire, CA — 35 Communities"

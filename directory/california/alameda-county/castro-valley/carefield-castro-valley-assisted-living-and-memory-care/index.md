@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Carefield Castro Valley Assisted Living and Memory Care"
 seo_title: "Carefield Castro Valley Assisted Living and Memory Care — Senior Living in Castro Valley, CA"

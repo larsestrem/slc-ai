@@ -1,4 +1,6 @@
 ---
+hidden: true
+noindex: true
 layout: guide
 title: "Does Medi-Cal Pay for Assisted Living & Senior Care in CA?"
 description: "How Medi-Cal (California Medicaid) covers nursing homes and assisted living — the Assisted Living Waiver, its waitlist, 2026 asset rules, and how to apply."

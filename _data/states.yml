@@ -1,6 +1,7 @@
 # The five launch states. Add a state here + a data/facilities/<slug>.json file,
 # then run scripts/generate.py --state <slug>.
 - slug: california
+  hidden: true
   name: California
   abbrev: CA
   licensing:
@@ -9,7 +10,6 @@
     small_home: "Residential Care Facilities for the Elderly (RCFE) — small homes are licensed for up to 6 residents"
     note: "Assisted living and residential care homes are licensed as RCFEs by the Community Care Licensing Division; skilled nursing facilities are certified by CMS and licensed by the California Department of Public Health."
 - slug: idaho
-  hidden: true
   name: Idaho
   abbrev: ID
   licensing:

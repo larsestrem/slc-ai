@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Golden Creek"
 seo_title: "Atria Golden Creek — Senior Living in Irvine, CA"

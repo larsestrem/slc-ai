@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Newport Beach"
 seo_title: "Atria Newport Beach — Senior Living in Newport Beach, CA"

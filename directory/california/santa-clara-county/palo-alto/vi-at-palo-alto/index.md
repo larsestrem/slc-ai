@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Vi at Palo Alto"
 seo_title: "Vi at Palo Alto — Senior Living in Palo Alto, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Merrill Gardens at Campbell"
 seo_title: "Merrill Gardens at Campbell — Senior Living in Campbell, CA"

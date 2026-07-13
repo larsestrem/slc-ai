@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Eskaton Land Park"
 seo_title: "Eskaton Land Park — Senior Living in Sacramento, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Mariner Point"
 seo_title: "Oakmont of Mariner Point — Senior Living in Alameda, CA"

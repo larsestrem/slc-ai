@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "San Leandro Senior Living"
 seo_title: "San Leandro Senior Living — Senior Living in San Leandro, CA"

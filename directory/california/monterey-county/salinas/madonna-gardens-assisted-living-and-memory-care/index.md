@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Madonna Gardens Assisted Living and Memory Care"
 seo_title: "Madonna Gardens Assisted Living and Memory Care — Senior Living in Salinas, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Sequoias Portola Valley"
 seo_title: "The Sequoias Portola Valley — Senior Living in Portola Valley, CA"

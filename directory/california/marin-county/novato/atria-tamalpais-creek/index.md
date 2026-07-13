@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Tamalpais Creek"
 seo_title: "Atria Tamalpais Creek — Senior Living in Novato, CA"

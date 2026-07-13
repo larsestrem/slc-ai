@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Casa de las Campanas"
 seo_title: "Casa de las Campanas — Senior Living in San Diego, CA"

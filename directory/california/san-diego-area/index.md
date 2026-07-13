@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "region"
 title: "San Diego Area Senior Living"
 seo_title: "Senior Living in San Diego Area, CA — 20 Communities"

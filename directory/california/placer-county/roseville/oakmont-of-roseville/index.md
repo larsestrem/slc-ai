@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Roseville"
 seo_title: "Oakmont of Roseville — Senior Living in Roseville, CA"

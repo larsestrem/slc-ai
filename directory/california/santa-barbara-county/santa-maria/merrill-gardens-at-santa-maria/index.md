@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Merrill Gardens at Santa Maria"
 seo_title: "Merrill Gardens at Santa Maria — Senior Living in Santa Maria, CA"

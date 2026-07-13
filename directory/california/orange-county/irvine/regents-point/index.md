@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Regents Point"
 seo_title: "Regents Point — Senior Living in Irvine, CA"

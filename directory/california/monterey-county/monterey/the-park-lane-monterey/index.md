@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Park Lane"
 seo_title: "The Park Lane — Senior Living in Monterey, CA"

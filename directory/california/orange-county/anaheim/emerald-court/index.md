@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Emerald Court"
 seo_title: "Emerald Court — Senior Living in Anaheim, CA"

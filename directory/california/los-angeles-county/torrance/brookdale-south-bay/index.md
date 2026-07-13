@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Brookdale South Bay"
 seo_title: "Brookdale South Bay — Senior Living in Torrance, CA"

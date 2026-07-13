@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Vivante on the Coast"
 seo_title: "Vivante on the Coast — Senior Living in Costa Mesa, CA"

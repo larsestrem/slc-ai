@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Maravilla"
 seo_title: "Maravilla — Senior Living in Santa Barbara, CA"

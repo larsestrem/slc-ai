@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Pines by Cogir"
 seo_title: "The Pines by Cogir — Senior Living in Rocklin, CA"

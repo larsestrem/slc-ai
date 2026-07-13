@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Willow Glen"
 seo_title: "Atria Willow Glen — Senior Living in San Jose, CA"

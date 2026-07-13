@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sunrise of Danville"
 seo_title: "Sunrise of Danville — Senior Living in Danville, CA"

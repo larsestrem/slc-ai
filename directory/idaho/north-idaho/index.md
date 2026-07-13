@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "region"
 title: "North Idaho Senior Living"
 seo_title: "Senior Living in North Idaho, ID — 5 Communities"

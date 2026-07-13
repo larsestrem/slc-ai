@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Ivy Park at Huntington Beach"
 seo_title: "Ivy Park at Huntington Beach — Senior Living in Huntington Beach, CA"

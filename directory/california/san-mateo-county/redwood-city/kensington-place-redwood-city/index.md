@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Kensington Place Redwood City"
 seo_title: "Kensington Place Redwood City — Senior Living in Redwood City, CA"

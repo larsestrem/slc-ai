@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Crestavilla"
 seo_title: "Crestavilla — Senior Living in Laguna Niguel, CA"

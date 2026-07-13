@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Terraces at San Joaquin Gardens"
 seo_title: "The Terraces at San Joaquin Gardens — Senior Living in Fresno, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Care Home by RNs"
 seo_title: "Care Home by RNs — Senior Living in Sacramento, CA"

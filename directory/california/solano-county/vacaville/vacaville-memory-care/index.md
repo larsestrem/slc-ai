@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Vacaville Memory Care"
 seo_title: "Vacaville Memory Care — Senior Living in Vacaville, CA"

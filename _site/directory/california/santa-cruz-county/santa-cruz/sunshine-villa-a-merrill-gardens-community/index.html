@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Sunshine Villa, A Merrill Gardens Community — Senior Living in Santa Cruz, CA | Senior Living Community</title>
 <meta name="description" content="Assisted living and memory care community in a landmark Victorian-style building within walking distance of the Santa Cruz Wharf, beach and boardwalk. Reviewe">
 <link rel="canonical" href="https://senior.living.community/directory/california/santa-cruz-county/santa-cruz/sunshine-villa-a-merrill-gardens-community/">
+<meta name="robots" content="noindex,follow">
 <meta property="og:site_name" content="Senior Living Community">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Sunshine Villa, A Merrill Gardens Community — Senior Living in Santa Cruz, CA">
@@ -184,6 +185,23 @@ tbody tr:hover { background: var(--soft); }
 .photo-grid img { width: 100%; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
 .photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
 .claim { border-left: 4px solid var(--accent); }
+
+/* Sidebar government-rating glance */
+.rating-glance .glance-stars { margin: .3rem 0; font-size: 1.1rem; }
+.rating-glance .stars { font-size: 1.2rem; }
+
+/* Bottom-of-page ratings section */
+.ratings-block .rating-card { display: flex; gap: 1.1rem; align-items: flex-start; padding: 1rem 0; border-top: 1px solid var(--line); }
+.ratings-block .rating-card:first-of-type { border-top: 0; padding-top: .4rem; }
+.rating-badge { flex: 0 0 5.5rem; text-align: center; }
+.rating-badge .stars { display: block; font-size: 1.05rem; letter-spacing: .05em; }
+.rating-num { display: inline-block; font-weight: 700; font-size: .95rem; color: var(--ink); line-height: 1.2; }
+.rating-body h3 { margin: 0 0 .3rem; font-size: 1.05rem; padding-top: 0; border-top: 0; }
+.rating-body p { margin: .3rem 0; font-size: .92rem; }
+@media (max-width: 34rem) {
+  .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
+  .rating-badge { text-align: left; flex-basis: auto; }
+}
 </style>
   
 </head>
@@ -269,18 +287,6 @@ tbody tr:hover { background: var(--soft); }
     </div>
 
     <aside>
-      <section class="panel" aria-labelledby="ratings-h">
-        <h2 id="ratings-h">Official Ratings &amp; Inspections</h2>
-        <p>Assisted living and residential care are licensed and inspected by the state, not
-        Medicare. Look up this community's license and inspection history at the
-        <a href="https://www.ccld.dss.ca.gov/carefacilitysearch/" rel="noopener">California Department of Social Services, Community Care Licensing Division</a>.</p>
-        <p>Family reviews: <strong>4.2/5 across 44 reviews on A Place for Mom; APFM review score 9.1/10 on 14 recent reviews (July 2026)</strong>. Public reviews are a useful
-        signal — <a href="/guides/interpreting-online-reviews/">here's how to read them</a> —
-        and weigh them alongside official inspections.</p>
-        <p><a href="/guides/reading-inspection-reports-and-ratings/">How to read ratings and inspection reports</a> —
-        and <a href="/guides/checking-complaints-and-state-records/">how to check complaint records fairly</a>
-        (a fixed problem is no longer a problem).</p>
-      </section>
 
       <section class="panel" aria-labelledby="tour-h">
         <h2 id="tour-h">Before you tour</h2>
@@ -304,6 +310,40 @@ tbody tr:hover { background: var(--soft); }
     listings help the right families find you.</p>
     <p><a class="btn" href="/for-communities/">Claim &amp; update this listing</a></p>
   </section>
+
+  <section class="panel ratings-block" aria-labelledby="ratings-h">
+  <h2 id="ratings-h">Ratings &amp; official records</h2>
+  <p>Here is every rating we found for Sunshine Villa, A Merrill Gardens Community — who assigns each one and what it
+  actually measures — so you can weigh it for what it's worth. No single number decides a good
+  fit; use these to build questions, then trust your own visit.</p>
+  <div class="rating-card">
+    <div class="rating-badge"><span class="rating-num">State-<br>licensed</span></div>
+    <div class="rating-body">
+      <h3>State license &amp; inspections</h3>
+      <p><strong>Who assigns it:</strong> California — not Medicare. Assisted living,
+      memory care, and small care homes have no federal star rating; the state licenses and
+      inspects them. <strong>What it covers:</strong> license status, inspection findings, and
+      substantiated complaints.</p>
+      <p><a href="https://www.ccld.dss.ca.gov/carefacilitysearch/" rel="noopener">Look up this community at the California Department of Social Services, Community Care Licensing Division</a> ·
+      <a href="/guides/checking-complaints-and-state-records/">How to read the record fairly</a></p>
+    </div>
+  </div>
+  <div class="rating-card">
+    <div class="rating-badge"><span class="rating-num">Family<br>reviews</span></div>
+    <div class="rating-body">
+      <h3>Family &amp; resident reviews</h3>
+      <p><strong>Who writes it:</strong> families and residents, on public review sites (4.2/5 across 44 reviews on A Place for Mom; APFM review score 9.1/10 on 14 recent reviews (July 2026)).
+      <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
+      inspections. Read the recent ones and the middle-star ones, not just the average.</p>
+      <p><a href="/guides/interpreting-online-reviews/">How to read online reviews without being misled</a></p>
+    </div>
+  </div>
+
+  <p class="count">We list communities that meet a verified family-review standard or hold a
+  government rating of three stars or better — and we always show the rating with its source and
+  date rather than hide it. <a href="/guides/reading-inspection-reports-and-ratings/">How facilities are rated &rarr;</a></p>
+</section>
+
   <section aria-labelledby="nearby-h">
     <h2 id="nearby-h">Other communities in Santa Cruz</h2>
     <ul class="grid">
@@ -337,7 +377,7 @@ tbody tr:hover { background: var(--soft); }
     <div>
       <h2>Directory</h2>
       <ul>
-        <li><a href="/directory/california/">California senior living</a></li>
+        <li><a href="/directory/idaho/">Idaho senior living</a></li>
         <li><a href="/directory/oregon/">Oregon senior living</a></li>
         <li><a href="/directory/washington/">Washington senior living</a></li>
         <li><a href="/directory/hawaii/">Hawaii senior living</a></li>

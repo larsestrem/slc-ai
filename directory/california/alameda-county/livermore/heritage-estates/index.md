@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Heritage Estates"
 seo_title: "Heritage Estates — Senior Living in Livermore, CA"

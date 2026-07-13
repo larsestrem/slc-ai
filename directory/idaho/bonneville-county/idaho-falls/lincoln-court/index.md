@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "Lincoln Court"
 seo_title: "Lincoln Court — Senior Living in Idaho Falls, ID"

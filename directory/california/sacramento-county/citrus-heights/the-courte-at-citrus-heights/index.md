@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Courte at Citrus Heights"
 seo_title: "The Courte at Citrus Heights — Senior Living in Citrus Heights, CA"

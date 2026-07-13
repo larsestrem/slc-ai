@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Dominican Oaks"
 seo_title: "Dominican Oaks — Senior Living in Santa Cruz, CA"

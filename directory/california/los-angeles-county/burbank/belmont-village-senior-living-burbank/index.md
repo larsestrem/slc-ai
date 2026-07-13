@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Belmont Village Senior Living Burbank"
 seo_title: "Belmont Village Senior Living Burbank — Senior Living in Burbank, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Hollenbeck Palms"
 seo_title: "Hollenbeck Palms — Senior Living in Los Angeles, CA"

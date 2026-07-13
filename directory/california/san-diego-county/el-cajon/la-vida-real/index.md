@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "La Vida Real"
 seo_title: "La Vida Real — Senior Living in El Cajon, CA"

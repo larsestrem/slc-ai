@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Bayshire Riverwalk Senior Living"
 seo_title: "Bayshire Riverwalk Senior Living — Senior Living in Bakersfield, CA"

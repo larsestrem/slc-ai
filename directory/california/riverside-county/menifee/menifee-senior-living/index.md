@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Menifee Senior Living"
 seo_title: "Menifee Senior Living — Senior Living in Menifee, CA"

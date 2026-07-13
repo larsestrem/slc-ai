@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Valle Verde"
 seo_title: "Valle Verde — Senior Living in Santa Barbara, CA"

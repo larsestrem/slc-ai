@@ -35,9 +35,15 @@ Stars are a screening tool, not a verdict. Use them like this:
 - Look for **patterns**: the same deficiency across multiple surveys means the problem isn't being fixed.
 - Check the dates. A facility can change fast — for better or worse — when ownership or administration changes. Ask on your tour who owns the facility and how long the current administrator has been there.
 
-**What insiders know:** two of the three star components — quality measures and much of the staffing history — come from data the facility reports about itself. Only health inspections are fully independent. That's why a facility can post five stars overall while sitting on a mediocre inspection rating; some chains have learned to optimize the self-reported numbers. When components disagree, believe the inspection rating. (Staffing data is now drawn from payroll records, which helped, but self-interest still shapes what gets reported.)
+**What insiders know:** the quality-measure component comes largely from data the facility reports about itself. Only health inspections are fully independent, and staffing is now drawn from payroll records. Here's the part that surprises families: because those quality measures are self-reported, **a facility that documents every fall, every pressure sore, and every hard day honestly can score lower than one that reports less completely.** Thorough, transparent record-keeping shows up as more reported "events" — which the math reads as worse numbers, even when the care is better and the honesty is exactly what you'd want. So a middle-of-the-pack quality-measure score is not proof of worse care, and a spotless one is not proof of better care. When the three components disagree, weight the independent health-inspection rating, and read the actual citations rather than the summary star.
 
 Also know the limits: surveys are a snapshot of a few days a year, surveyor strictness varies by state (so don't compare stars across state lines), and Care Compare says nothing about food, activities, or kindness. A facility can pass every inspection and still be a joyless place to live.
+
+## Why we list 3-star facilities, and show you the number
+
+Families kept asking a fair question: where are the good, ordinary, mid-rated communities? So we list government-rated nursing homes at **three stars and above** — not just the four- and five-star ones — and we show the rating plainly on every page, along with who assigns it and what it measures. We stop at three because that's the line below which the record, in our reading, tends to show genuine and repeated problems rather than the ordinary bumps every facility has.
+
+A three-star rating means "average," and average is not a warning label — especially once you know an honest facility can land there for reporting its incidents faithfully. Read a three-star facility the same way you'd read any other: pull its health-inspection sub-rating, read the citations in plain English, check staffing and turnover, ask the administrator what changed after the last survey, and — most of all — visit. The star gets a facility onto your list or off it; your own eyes decide the rest.
 
 ## Assisted living: state licensing reports
 

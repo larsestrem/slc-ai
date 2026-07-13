@@ -10,10 +10,12 @@ description: >-
   <ul class="grid">
     {%- for st in site.data.states %}
     {%- assign stats = site.data.stats.states[st.slug] %}
+    {%- if stats and st.hidden != true %}
     <li class="card">
       <h3><a href="/directory/{{ st.slug }}/">{{ st.name }}</a></h3>
-      <p class="meta">{% if stats %}{{ stats.facilities }} communities · {{ stats.cities }} cities{% else %}Browse communities{% endif %}</p>
+      <p class="meta">{{ stats.facilities }} communities · {{ stats.cities }} cities</p>
     </li>
+    {%- endif %}
     {%- endfor %}
   </ul>
   <p class="notice">Coverage is growing state by state. Our facility data starts from public and

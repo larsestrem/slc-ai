@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Las Posas"
 seo_title: "Atria Las Posas — Senior Living in Camarillo, CA"

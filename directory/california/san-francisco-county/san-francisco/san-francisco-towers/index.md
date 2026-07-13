@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "San Francisco Towers"
 seo_title: "San Francisco Towers — Senior Living in San Francisco, CA"

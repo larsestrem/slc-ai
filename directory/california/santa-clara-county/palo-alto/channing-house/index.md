@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Channing House"
 seo_title: "Channing House — Senior Living in Palo Alto, CA"

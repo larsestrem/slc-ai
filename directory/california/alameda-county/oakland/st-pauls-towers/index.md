@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "St. Paul's Towers"
 seo_title: "St. Paul's Towers — Senior Living in Oakland, CA"

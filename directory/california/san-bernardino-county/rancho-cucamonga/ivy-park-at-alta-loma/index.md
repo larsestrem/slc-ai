@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Ivy Park at Alta Loma"
 seo_title: "Ivy Park at Alta Loma — Senior Living in Rancho Cucamonga, CA"

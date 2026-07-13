@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "The Bridge at Sandpoint"
 seo_title: "The Bridge at Sandpoint — Senior Living in Sandpoint, ID"

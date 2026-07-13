@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "Edgewood Spring Creek Fruitland"
 seo_title: "Edgewood Spring Creek Fruitland — Senior Living in Fruitland, ID"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sunshine Villa, A Merrill Gardens Community"
 seo_title: "Sunshine Villa, A Merrill Gardens Community — Senior Living in Santa Cruz, CA"

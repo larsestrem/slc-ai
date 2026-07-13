@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Spring Lake Village"
 seo_title: "Spring Lake Village — Senior Living in Santa Rosa, CA"

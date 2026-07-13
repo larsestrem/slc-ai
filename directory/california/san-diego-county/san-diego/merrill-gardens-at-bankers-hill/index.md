@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Merrill Gardens at Bankers Hill"
 seo_title: "Merrill Gardens at Bankers Hill — Senior Living in San Diego, CA"

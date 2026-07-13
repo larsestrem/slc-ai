@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Nazareth Rose Garden of Napa"
 seo_title: "Nazareth Rose Garden of Napa — Senior Living in Napa, CA"

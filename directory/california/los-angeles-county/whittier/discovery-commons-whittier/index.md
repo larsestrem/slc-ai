@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Discovery Commons Whittier"
 seo_title: "Discovery Commons Whittier — Senior Living in Whittier, CA"

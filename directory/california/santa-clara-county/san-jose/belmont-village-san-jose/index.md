@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Belmont Village San Jose"
 seo_title: "Belmont Village San Jose — Senior Living in San Jose, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Merrill Gardens at West Covina"
 seo_title: "Merrill Gardens at West Covina — Senior Living in West Covina, CA"

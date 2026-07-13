@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Crescendo Senior Living"
 seo_title: "Crescendo Senior Living — Senior Living in Placentia, CA"

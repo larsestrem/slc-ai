@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Palms at Bonaventure"
 seo_title: "The Palms at Bonaventure — Senior Living in Ventura, CA"

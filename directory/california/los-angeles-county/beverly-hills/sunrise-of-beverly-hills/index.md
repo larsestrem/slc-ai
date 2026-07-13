@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sunrise of Beverly Hills"
 seo_title: "Sunrise of Beverly Hills — Senior Living in Beverly Hills, CA"

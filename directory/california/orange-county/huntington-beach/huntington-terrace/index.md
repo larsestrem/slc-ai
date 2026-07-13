@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Huntington Terrace"
 seo_title: "Huntington Terrace — Senior Living in Huntington Beach, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Westmont of Escondido"
 seo_title: "Westmont of Escondido — Senior Living in Escondido, CA"

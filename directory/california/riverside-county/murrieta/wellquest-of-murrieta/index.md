@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "WellQuest of Murrieta"
 seo_title: "WellQuest of Murrieta — Senior Living in Murrieta, CA"

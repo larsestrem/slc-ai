@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sunrise of Fair Oaks"
 seo_title: "Sunrise of Fair Oaks — Senior Living in Fair Oaks, CA"

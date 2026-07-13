@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Northridge Valley Senior Living"
 seo_title: "Northridge Valley Senior Living — Senior Living in Northridge, CA"

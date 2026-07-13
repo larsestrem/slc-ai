@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Cove at La Jolla"
 seo_title: "The Cove at La Jolla — Senior Living in La Jolla, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Ivy Park at Seal Beach"
 seo_title: "Ivy Park at Seal Beach — Senior Living in Seal Beach, CA"

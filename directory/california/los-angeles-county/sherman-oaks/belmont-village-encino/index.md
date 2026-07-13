@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Belmont Village Encino"
 seo_title: "Belmont Village Encino — Senior Living in Sherman Oaks, CA"

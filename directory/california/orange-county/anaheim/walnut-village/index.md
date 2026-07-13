@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Walnut Village"
 seo_title: "Walnut Village — Senior Living in Anaheim, CA"

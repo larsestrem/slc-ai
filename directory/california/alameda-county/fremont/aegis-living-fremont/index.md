@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Aegis Living Fremont"
 seo_title: "Aegis Living Fremont — Senior Living in Fremont, CA"

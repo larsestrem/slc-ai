@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Magnolia of Millbrae"
 seo_title: "The Magnolia of Millbrae — Senior Living in Millbrae, CA"

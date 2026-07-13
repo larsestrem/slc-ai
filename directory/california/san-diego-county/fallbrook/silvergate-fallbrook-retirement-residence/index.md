@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Silvergate Fallbrook Retirement Residence"
 seo_title: "Silvergate Fallbrook Retirement Residence — Senior Living in Fallbrook, CA"

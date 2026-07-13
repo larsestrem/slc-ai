@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "Creekside Inn"
 seo_title: "Creekside Inn — Senior Living in Coeur d'Alene, ID"

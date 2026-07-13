@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Brookdale Murrieta"
 seo_title: "Brookdale Murrieta — Senior Living in Murrieta, CA"

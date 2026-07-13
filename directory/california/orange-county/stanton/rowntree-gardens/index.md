@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Rowntree Gardens"
 seo_title: "Rowntree Gardens — Senior Living in Stanton, CA"

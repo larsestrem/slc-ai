@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Glen at Scripps Ranch"
 seo_title: "The Glen at Scripps Ranch — Senior Living in San Diego, CA"

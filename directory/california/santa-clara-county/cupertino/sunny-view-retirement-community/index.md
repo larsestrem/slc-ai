@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sunny View Retirement Community"
 seo_title: "Sunny View Retirement Community — Senior Living in Cupertino, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Cogir of Turlock"
 seo_title: "Cogir of Turlock — Senior Living in Turlock, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Mt. San Antonio Gardens"
 seo_title: "Mt. San Antonio Gardens — Senior Living in Pomona, CA"

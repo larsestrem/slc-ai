@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "AlmaVia of Camarillo"
 seo_title: "AlmaVia of Camarillo — Senior Living in Camarillo, CA"

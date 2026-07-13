@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Villa Gardens"
 seo_title: "Villa Gardens — Senior Living in Pasadena, CA"

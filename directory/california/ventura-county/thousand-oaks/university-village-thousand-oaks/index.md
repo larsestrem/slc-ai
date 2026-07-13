@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "University Village Thousand Oaks"
 seo_title: "University Village Thousand Oaks — Senior Living in Thousand Oaks, CA"

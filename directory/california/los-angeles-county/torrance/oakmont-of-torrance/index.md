@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Torrance"
 seo_title: "Oakmont of Torrance — Senior Living in Torrance, CA"

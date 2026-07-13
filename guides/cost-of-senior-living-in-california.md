@@ -1,4 +1,6 @@
 ---
+hidden: true
+noindex: true
 layout: guide
 title: "Cost of Senior Living in California: Assisted Living & More"
 description: "Median California costs for in-home care, assisted living, memory care, and nursing homes — plus how the Bay Area compares to the Central Valley."

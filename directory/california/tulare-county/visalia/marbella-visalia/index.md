@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Marbella Visalia"
 seo_title: "Marbella Visalia — Senior Living in Visalia, CA"

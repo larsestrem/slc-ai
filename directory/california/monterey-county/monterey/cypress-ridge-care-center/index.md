@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Cypress Ridge Care Center"
 seo_title: "Cypress Ridge Care Center — Senior Living in Monterey, CA"

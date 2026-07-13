@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Westmont of Encinitas"
 seo_title: "Westmont of Encinitas — Senior Living in Encinitas, CA"

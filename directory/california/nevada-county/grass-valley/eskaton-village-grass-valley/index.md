@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Eskaton Village Grass Valley"
 seo_title: "Eskaton Village Grass Valley — Senior Living in Grass Valley, CA"

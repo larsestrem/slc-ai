@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "Legends Park Assisted Living"
 seo_title: "Legends Park Assisted Living — Senior Living in Coeur d'Alene, ID"

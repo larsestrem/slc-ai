@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "Fairwinds - Sand Creek"
 seo_title: "Fairwinds - Sand Creek — Senior Living in Idaho Falls, ID"

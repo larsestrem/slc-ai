@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "St. Catherine Healthcare"
 seo_title: "St. Catherine Healthcare — Senior Living in Fullerton, CA"

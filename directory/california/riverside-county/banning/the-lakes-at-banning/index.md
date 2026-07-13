@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Lakes at Banning"
 seo_title: "The Lakes at Banning — Senior Living in Banning, CA"

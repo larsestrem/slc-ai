@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Prestige Assisted Living at Manteca"
 seo_title: "Prestige Assisted Living at Manteca — Senior Living in Manteca, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sierra Regency"
 seo_title: "Sierra Regency — Senior Living in Roseville, CA"

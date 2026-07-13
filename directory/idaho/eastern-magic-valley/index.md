@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "region"
 title: "Eastern Idaho & Magic Valley Senior Living"
 seo_title: "Senior Living in Eastern Idaho & Magic Valley, ID — 9 Communities"

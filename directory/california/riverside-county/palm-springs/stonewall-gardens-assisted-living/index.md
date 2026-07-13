@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Stonewall Gardens Assisted Living"
 seo_title: "Stonewall Gardens Assisted Living — Senior Living in Palm Springs, CA"

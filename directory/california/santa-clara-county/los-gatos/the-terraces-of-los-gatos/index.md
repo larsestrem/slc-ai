@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Terraces of Los Gatos"
 seo_title: "The Terraces of Los Gatos — Senior Living in Los Gatos, CA"

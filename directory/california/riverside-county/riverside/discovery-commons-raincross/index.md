@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Discovery Commons Raincross"
 seo_title: "Discovery Commons Raincross — Senior Living in Riverside, CA"

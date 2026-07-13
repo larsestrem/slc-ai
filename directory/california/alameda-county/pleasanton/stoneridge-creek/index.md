@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Stoneridge Creek"
 seo_title: "Stoneridge Creek — Senior Living in Pleasanton, CA"

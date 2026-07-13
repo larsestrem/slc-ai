@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Grass Valley"
 seo_title: "Atria Grass Valley — Senior Living in Grass Valley, CA"

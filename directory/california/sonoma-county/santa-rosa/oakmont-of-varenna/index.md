@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Varenna"
 seo_title: "Oakmont of Varenna — Senior Living in Santa Rosa, CA"

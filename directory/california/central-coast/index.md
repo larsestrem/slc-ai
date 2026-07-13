@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "region"
 title: "Central Coast Senior Living"
 seo_title: "Senior Living in Central Coast, CA — 19 Communities"

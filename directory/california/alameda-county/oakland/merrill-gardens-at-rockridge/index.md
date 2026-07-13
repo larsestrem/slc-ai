@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Merrill Gardens at Rockridge"
 seo_title: "Merrill Gardens at Rockridge — Senior Living in Oakland, CA"

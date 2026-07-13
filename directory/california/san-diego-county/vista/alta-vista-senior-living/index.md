@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Alta Vista Senior Living"
 seo_title: "Alta Vista Senior Living — Senior Living in Vista, CA"

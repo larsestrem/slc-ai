@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Commons on Thornton"
 seo_title: "The Commons on Thornton — Senior Living in Stockton, CA"

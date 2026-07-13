@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Bellamar Lancaster"
 seo_title: "Bellamar Lancaster — Senior Living in Lancaster, CA"

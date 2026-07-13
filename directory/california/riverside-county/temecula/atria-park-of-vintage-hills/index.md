@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Park of Vintage Hills"
 seo_title: "Atria Park of Vintage Hills — Senior Living in Temecula, CA"

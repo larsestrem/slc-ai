@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Santa Clarita"
 seo_title: "Oakmont of Santa Clarita — Senior Living in Santa Clarita, CA"

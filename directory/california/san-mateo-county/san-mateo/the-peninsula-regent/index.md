@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Peninsula Regent"
 seo_title: "The Peninsula Regent — Senior Living in San Mateo, CA"

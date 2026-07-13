@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Fairwinds - Ivey Ranch"
 seo_title: "Fairwinds - Ivey Ranch — Senior Living in Oceanside, CA"

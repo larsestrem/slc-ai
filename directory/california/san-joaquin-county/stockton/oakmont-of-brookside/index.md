@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Brookside"
 seo_title: "Oakmont of Brookside — Senior Living in Stockton, CA"

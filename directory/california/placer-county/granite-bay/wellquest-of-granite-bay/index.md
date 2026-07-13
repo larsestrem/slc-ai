@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "WellQuest of Granite Bay"
 seo_title: "WellQuest of Granite Bay — Senior Living in Granite Bay, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Bayshire Carlsbad"
 seo_title: "Bayshire Carlsbad — Senior Living in Carlsbad, CA"

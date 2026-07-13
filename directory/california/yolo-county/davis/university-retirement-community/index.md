@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "University Retirement Community"
 seo_title: "University Retirement Community — Senior Living in Davis, CA"

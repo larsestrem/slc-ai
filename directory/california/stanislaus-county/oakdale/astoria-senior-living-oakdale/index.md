@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Astoria Senior Living – Oakdale"
 seo_title: "Astoria Senior Living – Oakdale — Senior Living in Oakdale, CA"

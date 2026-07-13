@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Vi at La Jolla Village"
 seo_title: "Vi at La Jolla Village — Senior Living in San Diego, CA"

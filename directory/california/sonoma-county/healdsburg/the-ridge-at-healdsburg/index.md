@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Ridge at Healdsburg"
 seo_title: "The Ridge at Healdsburg — Senior Living in Healdsburg, CA"

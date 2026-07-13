@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sycamore Glen"
 seo_title: "Sycamore Glen — Senior Living in Chico, CA"

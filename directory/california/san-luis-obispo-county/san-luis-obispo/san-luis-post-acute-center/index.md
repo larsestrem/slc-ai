@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "San Luis Post Acute Center"
 seo_title: "San Luis Post Acute Center — Senior Living in San Luis Obispo, CA"

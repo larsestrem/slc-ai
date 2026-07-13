@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Vienna Nursing and Rehabilitation Center"
 seo_title: "Vienna Nursing and Rehabilitation Center — Senior Living in Lodi, CA"

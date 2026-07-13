@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakwood Gardens Care Center"
 seo_title: "Oakwood Gardens Care Center — Senior Living in Fresno, CA"

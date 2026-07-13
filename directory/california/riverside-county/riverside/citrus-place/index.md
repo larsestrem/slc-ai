@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Citrus Place"
 seo_title: "Citrus Place — Senior Living in Riverside, CA"

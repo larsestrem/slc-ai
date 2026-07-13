@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Coterie Cathedral Hill"
 seo_title: "Coterie Cathedral Hill — Senior Living in San Francisco, CA"

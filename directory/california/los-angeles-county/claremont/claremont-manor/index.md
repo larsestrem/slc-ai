@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Claremont Manor"
 seo_title: "Claremont Manor — Senior Living in Claremont, CA"

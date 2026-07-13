@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "Fox Den Homes Bannock House"
 seo_title: "Fox Den Homes Bannock House — Senior Living in Boise, ID"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Quail Park on Cypress"
 seo_title: "Quail Park on Cypress — Senior Living in Visalia, CA"

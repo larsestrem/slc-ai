@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sequoia Springs Senior Living Community"
 seo_title: "Sequoia Springs Senior Living Community — Senior Living in Fortuna, CA"

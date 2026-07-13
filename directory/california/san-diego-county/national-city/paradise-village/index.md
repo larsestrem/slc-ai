@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Paradise Village"
 seo_title: "Paradise Village — Senior Living in National City, CA"

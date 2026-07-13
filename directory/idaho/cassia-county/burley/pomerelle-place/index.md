@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "Pomerelle Place"
 seo_title: "Pomerelle Place — Senior Living in Burley, ID"

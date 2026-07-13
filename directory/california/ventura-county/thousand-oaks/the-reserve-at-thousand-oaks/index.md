@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Reserve at Thousand Oaks"
 seo_title: "The Reserve at Thousand Oaks — Senior Living in Thousand Oaks, CA"

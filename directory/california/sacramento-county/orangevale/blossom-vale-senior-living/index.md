@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Blossom Vale Senior Living"
 seo_title: "Blossom Vale Senior Living — Senior Living in Orangevale, CA"

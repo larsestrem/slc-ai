@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sterling Inn"
 seo_title: "Sterling Inn — Senior Living in Victorville, CA"

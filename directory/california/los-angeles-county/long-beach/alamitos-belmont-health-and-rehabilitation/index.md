@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Alamitos Belmont Health and Rehabilitation"
 seo_title: "Alamitos Belmont Health and Rehabilitation — Senior Living in Long Beach, CA"

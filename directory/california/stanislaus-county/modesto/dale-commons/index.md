@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Dale Commons"
 seo_title: "Dale Commons — Senior Living in Modesto, CA"

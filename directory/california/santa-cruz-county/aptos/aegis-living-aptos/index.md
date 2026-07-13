@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Aegis Living Aptos"
 seo_title: "Aegis Living Aptos — Senior Living in Aptos, CA"

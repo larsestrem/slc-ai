@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Ventura Townehouse"
 seo_title: "Ventura Townehouse — Senior Living in Ventura, CA"

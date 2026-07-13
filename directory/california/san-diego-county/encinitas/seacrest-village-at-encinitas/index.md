@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Seacrest Village at Encinitas"
 seo_title: "Seacrest Village at Encinitas — Senior Living in Encinitas, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Cypress Place"
 seo_title: "Cypress Place — Senior Living in Ventura, CA"

@@ -4,3 +4,20 @@
 .photo-grid img { width: 100%; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
 .photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
 .claim { border-left: 4px solid var(--accent); }
+
+/* Sidebar government-rating glance */
+.rating-glance .glance-stars { margin: .3rem 0; font-size: 1.1rem; }
+.rating-glance .stars { font-size: 1.2rem; }
+
+/* Bottom-of-page ratings section */
+.ratings-block .rating-card { display: flex; gap: 1.1rem; align-items: flex-start; padding: 1rem 0; border-top: 1px solid var(--line); }
+.ratings-block .rating-card:first-of-type { border-top: 0; padding-top: .4rem; }
+.rating-badge { flex: 0 0 5.5rem; text-align: center; }
+.rating-badge .stars { display: block; font-size: 1.05rem; letter-spacing: .05em; }
+.rating-num { display: inline-block; font-weight: 700; font-size: .95rem; color: var(--ink); line-height: 1.2; }
+.rating-body h3 { margin: 0 0 .3rem; font-size: 1.05rem; padding-top: 0; border-top: 0; }
+.rating-body p { margin: .3rem 0; font-size: .92rem; }
+@media (max-width: 34rem) {
+  .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
+  .rating-badge { text-align: left; flex-basis: auto; }
+}

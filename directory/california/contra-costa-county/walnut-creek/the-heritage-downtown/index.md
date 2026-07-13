@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Heritage Downtown"
 seo_title: "The Heritage Downtown — Senior Living in Walnut Creek, CA"

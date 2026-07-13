@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Savant of Santa Monica"
 seo_title: "Savant of Santa Monica — Senior Living in Santa Monica, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Carmichael Oaks"
 seo_title: "Atria Carmichael Oaks — Senior Living in Carmichael, CA"

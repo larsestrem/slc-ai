@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Fresno"
 seo_title: "Oakmont of Fresno — Senior Living in Fresno, CA"

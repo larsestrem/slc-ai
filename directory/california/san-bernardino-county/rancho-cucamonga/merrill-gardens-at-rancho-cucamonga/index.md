@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Merrill Gardens at Rancho Cucamonga"
 seo_title: "Merrill Gardens at Rancho Cucamonga — Senior Living in Rancho Cucamonga, CA"

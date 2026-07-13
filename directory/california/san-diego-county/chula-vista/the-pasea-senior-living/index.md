@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Pasea Senior Living"
 seo_title: "The Pasea Senior Living — Senior Living in Chula Vista, CA"

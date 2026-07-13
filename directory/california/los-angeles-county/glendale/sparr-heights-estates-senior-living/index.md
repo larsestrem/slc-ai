@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sparr Heights Estates Senior Living"
 seo_title: "Sparr Heights Estates Senior Living — Senior Living in Glendale, CA"

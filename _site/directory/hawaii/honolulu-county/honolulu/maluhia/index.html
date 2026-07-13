@@ -184,6 +184,23 @@ tbody tr:hover { background: var(--soft); }
 .photo-grid img { width: 100%; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
 .photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
 .claim { border-left: 4px solid var(--accent); }
+
+/* Sidebar government-rating glance */
+.rating-glance .glance-stars { margin: .3rem 0; font-size: 1.1rem; }
+.rating-glance .stars { font-size: 1.2rem; }
+
+/* Bottom-of-page ratings section */
+.ratings-block .rating-card { display: flex; gap: 1.1rem; align-items: flex-start; padding: 1rem 0; border-top: 1px solid var(--line); }
+.ratings-block .rating-card:first-of-type { border-top: 0; padding-top: .4rem; }
+.rating-badge { flex: 0 0 5.5rem; text-align: center; }
+.rating-badge .stars { display: block; font-size: 1.05rem; letter-spacing: .05em; }
+.rating-num { display: inline-block; font-weight: 700; font-size: .95rem; color: var(--ink); line-height: 1.2; }
+.rating-body h3 { margin: 0 0 .3rem; font-size: 1.05rem; padding-top: 0; border-top: 0; }
+.rating-body p { margin: .3rem 0; font-size: .92rem; }
+@media (max-width: 34rem) {
+  .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
+  .rating-badge { text-align: left; flex-basis: auto; }
+}
 </style>
   
 </head>
@@ -267,17 +284,12 @@ tbody tr:hover { background: var(--soft); }
     </div>
 
     <aside>
-      <section class="panel" aria-labelledby="ratings-h">
-        <h2 id="ratings-h">Official Ratings &amp; Inspections</h2>
-        <p>Medicare overall rating: <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-
-        <a href="/guides/reading-inspection-reports-and-ratings/">(what these stars mean)</a></p>
-        <p>This community is Medicare-certified for skilled nursing. See its full federal report —
-        health inspections, staffing levels, and quality measures — on
-        <a href="https://www.medicare.gov/care-compare/details/nursing-home/125009" rel="noopener">Medicare Care Compare</a>.</p>
-        <p><a href="/guides/reading-inspection-reports-and-ratings/">How to read ratings and inspection reports</a> —
-        and <a href="/guides/checking-complaints-and-state-records/">how to check complaint records fairly</a>
-        (a fixed problem is no longer a problem).</p>
+      <section class="panel rating-glance" aria-labelledby="glance-h">
+        <h2 id="glance-h">Government rating</h2>
+        <p class="glance-stars"><span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+<br>
+        <strong>5 of 5</strong> — Medicare</p>
+        <p><a href="#ratings-h">What this means &amp; who rates it &darr;</a></p>
       </section>
 
       <section class="panel" aria-labelledby="tour-h">
@@ -302,6 +314,36 @@ tbody tr:hover { background: var(--soft); }
     listings help the right families find you.</p>
     <p><a class="btn" href="/for-communities/">Claim &amp; update this listing</a></p>
   </section>
+
+  <section class="panel ratings-block" aria-labelledby="ratings-h">
+  <h2 id="ratings-h">Ratings &amp; official records</h2>
+  <p>Here is every rating we found for Maluhia — who assigns each one and what it
+  actually measures — so you can weigh it for what it's worth. No single number decides a good
+  fit; use these to build questions, then trust your own visit.</p>
+  <div class="rating-card">
+    <div class="rating-badge"><span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+
+      <span class="rating-num">5 of 5</span>
+    </div>
+    <div class="rating-body">
+      <h3>Medicare Five-Star Quality Rating</h3>
+      <p><strong>Who assigns it:</strong> the federal Centers for Medicare &amp; Medicaid Services
+      (CMS), the government agency that certifies nursing homes.
+      <strong>What it measures:</strong> independent state health inspections, nurse and aide
+      staffing levels, and clinical quality measures, combined into one overall star. Some of the
+      quality data is reported by the facility itself — which means a community that documents
+      every incident honestly can score lower than one that reports less completely. Read the
+      health-inspection detail, not just the summary star.</p>
+      <p><a href="https://www.medicare.gov/care-compare/details/nursing-home/125009" rel="noopener">See the full federal report on Medicare Care Compare</a> ·
+      <a href="/guides/reading-inspection-reports-and-ratings/">How these stars are calculated, and their limits</a></p>
+    </div>
+  </div>
+
+  <p class="count">We list communities that meet a verified family-review standard or hold a
+  government rating of three stars or better — and we always show the rating with its source and
+  date rather than hide it. <a href="/guides/reading-inspection-reports-and-ratings/">How facilities are rated &rarr;</a></p>
+</section>
+
   <section aria-labelledby="nearby-h">
     <h2 id="nearby-h">Other communities in Honolulu</h2>
     <ul class="grid">
@@ -403,7 +445,7 @@ tbody tr:hover { background: var(--soft); }
     <div>
       <h2>Directory</h2>
       <ul>
-        <li><a href="/directory/california/">California senior living</a></li>
+        <li><a href="/directory/idaho/">Idaho senior living</a></li>
         <li><a href="/directory/oregon/">Oregon senior living</a></li>
         <li><a href="/directory/washington/">Washington senior living</a></li>
         <li><a href="/directory/hawaii/">Hawaii senior living</a></li>

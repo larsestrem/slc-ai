@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Park at Modesto"
 seo_title: "The Park at Modesto — Senior Living in Modesto, CA"

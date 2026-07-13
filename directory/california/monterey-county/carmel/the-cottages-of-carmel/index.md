@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Cottages of Carmel"
 seo_title: "The Cottages of Carmel — Senior Living in Carmel, CA"

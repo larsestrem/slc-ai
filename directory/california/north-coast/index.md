@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "region"
 title: "North Coast Senior Living"
 seo_title: "Senior Living in North Coast, CA — 2 Communities"

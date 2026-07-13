@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Silverado Beverly Place Memory Care Community"
 seo_title: "Silverado Beverly Place Memory Care Community — Senior Living in Los Angeles, CA"

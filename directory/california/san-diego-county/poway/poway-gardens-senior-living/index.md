@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Poway Gardens Senior Living"
 seo_title: "Poway Gardens Senior Living — Senior Living in Poway, CA"

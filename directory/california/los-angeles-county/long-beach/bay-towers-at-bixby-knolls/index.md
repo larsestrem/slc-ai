@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Bay Towers at Bixby Knolls"
 seo_title: "Bay Towers at Bixby Knolls — Senior Living in Long Beach, CA"

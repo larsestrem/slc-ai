@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Belmont Village Sabre Springs"
 seo_title: "Belmont Village Sabre Springs — Senior Living in San Diego, CA"

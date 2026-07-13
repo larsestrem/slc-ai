@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Merced Senior Living"
 seo_title: "Merced Senior Living — Senior Living in Merced, CA"

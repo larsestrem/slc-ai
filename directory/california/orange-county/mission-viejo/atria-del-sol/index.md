@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Atria Del Sol"
 seo_title: "Atria Del Sol — Senior Living in Mission Viejo, CA"

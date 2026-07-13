@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Brookdale Camarillo"
 seo_title: "Brookdale Camarillo — Senior Living in Camarillo, CA"

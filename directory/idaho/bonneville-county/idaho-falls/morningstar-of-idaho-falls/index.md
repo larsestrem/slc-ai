@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "MorningStar of Idaho Falls"
 seo_title: "MorningStar of Idaho Falls — Senior Living in Idaho Falls, ID"

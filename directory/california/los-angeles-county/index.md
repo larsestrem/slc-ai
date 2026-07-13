@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "region"
 title: "Los Angeles County Senior Living"
 seo_title: "Senior Living in Los Angeles County, CA — 27 Communities"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Sea Bluffs"
 seo_title: "Sea Bluffs — Senior Living in Dana Point, CA"

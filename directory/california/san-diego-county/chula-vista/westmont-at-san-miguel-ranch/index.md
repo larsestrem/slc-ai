@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Westmont at San Miguel Ranch"
 seo_title: "Westmont at San Miguel Ranch — Senior Living in Chula Vista, CA"

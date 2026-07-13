@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Hillcrest - A Remarkable Retirement Community"
 seo_title: "Hillcrest - A Remarkable Retirement Community — Senior Living in La Verne, CA"

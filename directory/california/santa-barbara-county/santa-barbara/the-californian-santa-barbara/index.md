@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Californian"
 seo_title: "The Californian — Senior Living in Santa Barbara, CA"

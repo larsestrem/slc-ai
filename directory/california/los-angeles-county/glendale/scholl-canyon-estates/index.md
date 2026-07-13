@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Scholl Canyon Estates"
 seo_title: "Scholl Canyon Estates — Senior Living in Glendale, CA"

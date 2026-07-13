@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "Willow Park Senior Living"
 seo_title: "Willow Park Senior Living — Senior Living in Boise, ID"

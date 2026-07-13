@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Casa de Modesto Retirement Center"
 seo_title: "Casa de Modesto Retirement Center — Senior Living in Modesto, CA"

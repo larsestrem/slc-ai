@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Vineyard Ranch at Temecula"
 seo_title: "Vineyard Ranch at Temecula — Senior Living in Temecula, CA"

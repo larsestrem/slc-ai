@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Watermark at Almaden"
 seo_title: "The Watermark at Almaden — Senior Living in San Jose, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Mission Commons"
 seo_title: "Mission Commons — Senior Living in Redlands, CA"

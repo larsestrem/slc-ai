@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "The Kensington Sierra Madre"
 seo_title: "The Kensington Sierra Madre — Senior Living in Sierra Madre, CA"

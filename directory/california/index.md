@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "state"
 care_level_counts: [{"slug": "assisted-living", "count": 159}, {"slug": "memory-care", "count": 139}, {"slug": "independent-living", "count": 99}, {"slug": "skilled-nursing", "count": 41}, {"slug": "ccrc", "count": 32}, {"slug": "respite-care", "count": 19}]
 title: "California Senior Living"

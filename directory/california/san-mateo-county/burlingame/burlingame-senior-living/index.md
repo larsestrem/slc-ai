@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Burlingame Senior Living"
 seo_title: "Burlingame Senior Living — Senior Living in Burlingame, CA"

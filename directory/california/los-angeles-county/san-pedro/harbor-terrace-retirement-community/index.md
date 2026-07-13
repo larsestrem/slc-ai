@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Harbor Terrace Retirement Community"
 seo_title: "Harbor Terrace Retirement Community — Senior Living in San Pedro, CA"

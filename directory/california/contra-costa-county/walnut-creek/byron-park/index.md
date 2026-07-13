@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Byron Park"
 seo_title: "Byron Park — Senior Living in Walnut Creek, CA"

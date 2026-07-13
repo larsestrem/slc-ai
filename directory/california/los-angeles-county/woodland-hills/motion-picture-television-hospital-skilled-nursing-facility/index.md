@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Motion Picture & Television Hospital Skilled Nursing Facility"
 seo_title: "Motion Picture & Television Hospital Skilled Nursing Facility — Senior Living in Woodland Hills, CA"

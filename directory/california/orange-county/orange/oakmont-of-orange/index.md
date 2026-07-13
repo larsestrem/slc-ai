@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Orange"
 seo_title: "Oakmont of Orange — Senior Living in Orange, CA"

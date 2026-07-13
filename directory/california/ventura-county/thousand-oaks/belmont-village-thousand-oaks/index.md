@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Belmont Village Thousand Oaks"
 seo_title: "Belmont Village Thousand Oaks — Senior Living in Thousand Oaks, CA"

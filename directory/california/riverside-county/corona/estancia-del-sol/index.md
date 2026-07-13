@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Estancia del Sol"
 seo_title: "Estancia del Sol — Senior Living in Corona, CA"

@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "region"
 title: "San Francisco Bay Area Senior Living"
 seo_title: "Senior Living in San Francisco Bay Area, CA — 40 Communities"

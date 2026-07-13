@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Solheim Senior Community"
 seo_title: "Solheim Senior Community — Senior Living in Los Angeles, CA"

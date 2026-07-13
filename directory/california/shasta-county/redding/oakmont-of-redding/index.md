@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Redding"
 seo_title: "Oakmont of Redding — Senior Living in Redding, CA"

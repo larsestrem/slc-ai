@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: "facility"
 title: "Karcher Senior Living"
 seo_title: "Karcher Senior Living — Senior Living in Nampa, ID"

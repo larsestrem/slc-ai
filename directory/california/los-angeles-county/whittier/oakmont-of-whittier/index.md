@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Oakmont of Whittier"
 seo_title: "Oakmont of Whittier — Senior Living in Whittier, CA"

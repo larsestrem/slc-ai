@@ -1,4 +1,5 @@
 ---
+noindex: true
 layout: "facility"
 title: "Wildwood Canyon Villa Assisted Living and Memory Care"
 seo_title: "Wildwood Canyon Villa Assisted Living and Memory Care — Senior Living in Yucaipa, CA"

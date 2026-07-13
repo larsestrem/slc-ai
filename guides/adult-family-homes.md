@@ -51,6 +51,29 @@ Small homes are not better for everyone, and the weaknesses deserve plain statem
 - **Thin backup.** If the sole caregiver is sick or quits, coverage depends on the owner's arrangements. Ask specifically who covers nights and vacations.
 - **No built-in next level.** If needs exceed what the home's license allows, your parent moves again.
 
+## Judging a small home with few reviews
+
+Here is a trap that quietly steers families toward big buildings: **online reviews.** A 100-resident community cycles hundreds of families through over a few years, so it accumulates dozens or hundreds of Google reviews. A five-bed home serves five families at a time — so even a wonderful one, run beautifully for a decade, might have three reviews, or none at all. The review count measures the home's *size*, not its *quality*.
+
+If you rank homes by star average and review volume, the best small homes vanish from the top of the list — not because they're worse, but because they're small. Sorting by popularity is how families end up only ever seeing the places with the biggest marketing budgets.
+
+So judge a small home differently:
+
+- **Weight the state record heavily.** For a home with few reviews, the license and inspection history is your most reliable public signal — and it's a *better* one than reviews, because inspectors look at exactly the things families can't see. A current license in good standing with a clean recent inspection record is worth more than a handful of five-star reviews. See [reading inspection reports](/guides/reading-inspection-reports-and-ratings/) and [checking complaints and state records](/guides/checking-complaints-and-state-records/).
+- **Read the few reviews that exist, closely.** With small numbers, individual reviews carry real information. A detailed review describing specific caregivers by name and specific incidents tells you more than a big building's 4.3 average across 200 vague ones.
+- **Do your own primary research.** Reference calls to two current families, an unannounced mealtime visit, and a call to the county ombudsman will tell you more about a five-bed home than any amount of online reading. In small homes, your own eyes are the review that counts.
+- **Don't read "few reviews" as a red flag.** For a home this size, it's expected. A *bad* license record is the red flag — not a thin review page.
+
+## How we list small homes
+
+Because a review-count bar would wrongly exclude the best small homes, our [directory](/directory/) holds small residential care homes to a standard built for their size rather than a big building's:
+
+- **The gate is the regulatory record, not review volume.** A small home qualifies when it holds a **current state license in good standing with a clean recent inspection record** — no revoked or restricted license, no admission hold, no substantiated abuse or neglect finding in the recent window.
+- **Plus at least one positive signal of good care:** a strong review reputation *even at low volume*, a state specialty endorsement (such as dementia or diabetic care), or years of stable operation under the same provider.
+- **We show whatever exists, honestly.** If a home has only a few reviews, we show the real number and date and say so, rather than hiding it or pretending the count means quality. If it has none, we lead with the license basis and the specialties the state records.
+
+The result is a directory where an excellent five-bed home sits alongside a large community on its own merits — which is the whole reason to look at small homes in the first place.
+
 ## How to vet an adult family home
 
 Because quality rides on the individual owner, vetting matters even more than with big communities. Do all of this:

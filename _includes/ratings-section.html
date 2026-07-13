@@ -36,8 +36,11 @@ how the rating is determined.
       <p><strong>Who assigns it:</strong> {{ page.state_name }} — not Medicare. Assisted living,
       memory care, and small care homes have no federal star rating; the state licenses and
       inspects them. <strong>What it covers:</strong> license status, inspection findings, and
-      substantiated complaints.</p>
-      <p>{% if page.licensing %}<a href="{{ page.licensing.lookup_url }}" rel="noopener">Look up this community at the {{ page.licensing.agency }}</a> ·
+      substantiated complaints.{% if page.licensed_since %} This home has been licensed since {{ page.licensed_since }}.{% endif %}</p>
+      {%- if page.specialties and page.specialties.size > 0 %}
+      <p><strong>State-recognized specialties:</strong> {{ page.specialties | join: ", " }} — added training or endorsements the state records for this home.</p>
+      {%- endif %}
+      <p>{% if page.licensing %}<a href="{{ page.licensing.lookup_url }}" rel="noopener">Look up this community at the {{ page.licensing.agency }}{% if page.license_id %} (license&nbsp;{{ page.license_id }}){% endif %}</a> ·
       {% endif %}<a href="/guides/checking-complaints-and-state-records/">How to read the record fairly</a></p>
     </div>
   </div>
@@ -50,13 +53,26 @@ how the rating is determined.
       <h3>Family &amp; resident reviews</h3>
       <p><strong>Who writes it:</strong> families and residents, on public review sites{% if page.google_rating and page.google_review_count %} — {{ page.google_review_count }} Google reviews{% if page.rating_as_of %} as of {{ page.rating_as_of | date: "%B %Y" }}{% endif %}{% elsif page.review_note %} ({{ page.review_note }}){% endif %}.
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
-      inspections. Read the recent ones and the middle-star ones, not just the average.</p>
+      inspections. Read the recent ones and the middle-star ones, not just the average.{% if page.facility_size == 'small' %} A home this small serves only a handful of families at a time, so even a great one collects far fewer reviews than a 100-bed building — <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">judge it by the record and your visit, not the review count</a>.{% endif %}</p>
       <p><a href="/guides/interpreting-online-reviews/">How to read online reviews without being misled</a></p>
     </div>
   </div>
   {%- endif %}
 
+  {%- if page.quality_basis %}
+  <p class="notice" style="margin-bottom:0"><strong>Why this home is listed:</strong> {{ page.quality_basis }}</p>
+  {%- endif %}
+
+  {%- if page.facility_size == 'small' %}
+  <p class="count">Small care homes are held to a standard built for their size: a current state
+  license in good standing with a clean recent inspection record, plus real evidence of good care
+  — strong reviews even at low volume, a state specialty endorsement, or years of stable
+  operation. We don't demand the review volume only a big building can generate, and we never list
+  a home with a revoked or restricted license or a substantiated harm finding.
+  <a href="/guides/adult-family-homes/#how-we-list-small-homes">How we choose small homes &rarr;</a></p>
+  {%- else %}
   <p class="count">We list communities that meet a verified family-review standard or hold a
   government rating of three stars or better — and we always show the rating with its source and
   date rather than hide it. <a href="/guides/reading-inspection-reports-and-ratings/">How facilities are rated &rarr;</a></p>
+  {%- endif %}
 </section>

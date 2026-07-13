@@ -55,6 +55,20 @@ Don't overlook small [adult family homes](/guides/adult-family-homes/), which of
 
 Aim for four to six facilities to research seriously, and three to tour.
 
+**Weigh distance against rating — don't just chase the highest star.** If your finalists are
+close in quality, the closer facility is often the better real-world choice, and not just for
+your convenience. Distance changes what kind of family your parent has. A community you can
+reach in ten minutes gets a Tuesday lunch, a last-minute worry, an unannounced stop at dinner
+time. A "better" community ninety minutes away gets you every other Saturday. Frequent,
+informal visits are one of the strongest protections a resident has: you notice small changes
+before they become emergencies, staff learn your face and know your parent is watched, and a
+community with a habit of families dropping in unannounced tends to hold itself to a higher
+standard day to day than one that mostly sees people on move-in day and holidays. So, all else
+being roughly equal — clean inspection record, no serious red flags — a 4-star facility ten
+minutes away can be the more protective choice over a 5-star facility across town. This isn't a
+reason to accept real problems for convenience; it's a reason not to let a half-star difference
+override the value of showing up often.
+
 ## Step 4: Check the paper trail before you visit
 
 Every facility markets itself well. Public records tell you how it actually operates.
@@ -93,6 +107,26 @@ Before signing, read the admission agreement carefully — fees, discharge trigg
 - Introduce yourself to the direct-care staff by name. Families who are known, and kind, get better care. That's an uncomfortable truth, but it's true.
 
 Expect an adjustment period of one to three months, with some tearful phone calls. Most residents settle in; if things haven't improved by month three, talk to the administrator and the ombudsman.
+
+## A good decision doesn't guarantee a good outcome
+
+Here's something worth saying plainly: you can do every step in this guide carefully — check
+the records, tour more than once, ask the hard questions, involve your parent — and still run
+into real problems. A community can change after a new owner takes over. A beloved caregiver can
+leave and take a piece of the culture with them. And sometimes, even at a genuinely good
+community, your specific parent turns out not to be a good fit — the pace is wrong for them, a
+roommate relationship sours, their needs outgrow what the setting handles well. None of that
+means you chose badly. It means you made the best decision available with the information you
+had, in a situation that has no guarantees — which is the honest truth of this whole process,
+not a failure on your part.
+
+If problems do show up after move-in, that's not the end of the story — it's the start of the
+next one. Our guide to [advocating for your parent after the move](/guides/advocating-after-move-in/)
+walks through how to raise concerns so they actually get fixed, and our
+[warning signs guide](/guides/warning-signs-when-choosing-a-facility/) can help you tell an
+adjustment hiccup from a real problem. And if it turns out the fit is wrong, a second move,
+while hard, is possible and sometimes the right call — you're not locked into the first choice
+forever.
 
 ## Common questions
 

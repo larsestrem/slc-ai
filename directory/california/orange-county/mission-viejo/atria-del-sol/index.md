@@ -24,6 +24,7 @@ sources: ["https://www.aplaceformom.com/community/atria-del-sol-56087", "https:/
 verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.4/5 across 131 reviews on A Place for Mom (July 2026)"
+quality_tier: "unrated"
 description_full: "Atria Del Sol offers independent living, assisted living and memory care in Mission Viejo, with apartments overlooking a golf course. The community runs a full-time activities program with exercise classes, live entertainment and frequent outings, and reports a 91% resident satisfaction rate. Reviewers consistently praise the staff, dining and grounds."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-del-sol-56087"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/atria-del-sol-mission-viejo"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/mission-viejo/atria-del-sol-92692"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

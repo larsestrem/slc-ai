@@ -1,0 +1,11 @@
+{%- comment -%}
+Visible quality-tier label. include.tier is one of meets_standard / below_standard /
+serious_concerns / unrated (unrated renders nothing — no data isn't a verdict).
+{%- endcomment -%}
+{%- if include.tier == "meets_standard" -%}
+<span class="tier-badge tier-meets_standard">Meets our standard</span>
+{%- elsif include.tier == "below_standard" -%}
+<span class="tier-badge tier-below_standard">Below our recommended bar</span>
+{%- elsif include.tier == "serious_concerns" -%}
+<span class="tier-badge tier-serious_concerns">Serious concerns</span>
+{%- endif -%}

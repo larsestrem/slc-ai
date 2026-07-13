@@ -69,16 +69,33 @@ how the rating is determined.
   <p class="notice" style="margin-bottom:0"><strong>Why this home is listed:</strong> {{ page.quality_basis }}</p>
   {%- endif %}
 
-  {%- if page.facility_size == 'small' %}
+  {%- if page.quality_tier == "serious_concerns" %}
+  <p class="notice tier-notice-danger"><strong>Serious concerns on the record.</strong>
+  {% if page.serious_concern_note %}{{ page.serious_concern_note }}{% else %}This community carries
+  a documented serious flag — read the sources above closely.{% endif %} We still list it: a family
+  searching for this community by name deserves the real record, not a blank page. Read every
+  source above before considering it further, and talk to the
+  <a href="/guides/checking-complaints-and-state-records/">long-term care ombudsman</a> about what
+  you find.</p>
+  {%- elsif page.quality_tier == "below_standard" %}
+  <p class="count"><strong>Below our recommended bar — here's why it's still here.</strong> A lower
+  rating doesn't automatically mean no family should choose it, especially if it's the closest or
+  only realistic option, and frequent visits are possible — presence and attention from family can
+  meaningfully improve a resident's day-to-day care. See our note on
+  <a href="/guides/how-to-choose-a-senior-care-facility/#step-3-build-a-shortlist">weighing distance against rating</a>.
+  Read the record above closely, ask the community directly about what you find, and compare it
+  against nearby alternatives before deciding.
+  <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
+  {%- elsif page.facility_size == 'small' %}
   <p class="count">Small care homes are held to a standard built for their size: a current state
   license in good standing with a clean recent inspection record, plus real evidence of good care
   — strong reviews even at low volume, a state specialty endorsement, or years of stable
-  operation. We don't demand the review volume only a big building can generate, and we never list
-  a home with a revoked or restricted license or a substantiated harm finding.
+  operation. We don't demand the review volume only a big building can generate.
   <a href="/guides/adult-family-homes/#how-we-list-small-homes">How we choose small homes &rarr;</a></p>
   {%- else %}
-  <p class="count">We list communities that meet a verified family-review standard or hold a
-  government rating of three stars or better — and we always show the rating with its source and
-  date rather than hide it. <a href="/guides/reading-inspection-reports-and-ratings/">How facilities are rated &rarr;</a></p>
+  <p class="count">This community meets the standard we generally recommend — a verified
+  family-review record or a government rating of three stars or better. We list every community we
+  can verify, not just the highest-rated ones, and label each one by tier instead of hiding the
+  rest. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
   {%- endif %}
 </section>

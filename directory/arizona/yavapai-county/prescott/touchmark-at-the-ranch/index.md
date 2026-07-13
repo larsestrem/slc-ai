@@ -25,6 +25,7 @@ sources: ["https://reviews.birdeye.com/touchmark-at-the-ranch-157269633967274", 
 verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.4/5 across 55 reviews on Birdeye (July 2026)"
+quality_tier: "unrated"
 description_full: "Touchmark at The Ranch is a full-service retirement community on 44 acres bordering the Prescott National Forest, offering independent living, assisted living, and memory care. The campus is BBB accredited with an A+ rating, and its Health and Fitness Club with pool and sauna draws frequent praise from residents."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/touchmark-at-the-ranch-157269633967274"}]
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}

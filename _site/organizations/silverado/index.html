@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -232,19 +240,10 @@ tbody tr:hover { background: var(--soft); }
 <a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
 (from inspections and staffing); elsewhere, ★ is a
 <a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-Each community's page shows the rating with its source, count, and date.</p>
+We list every community we can verify, not just the highest-rated —
+<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
 
   <ul class="grid">
-    <li class="card">
-  <h3><a href="/directory/california/los-angeles-county/los-angeles/silverado-beverly-place-memory-care-community/">Silverado Beverly Place Memory Care Community</a></h3>
-  <p class="meta">Los Angeles, CA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Silverado Beverly Place is a specialized memory care community in Los Angeles dedicated to residents living with Alzheimer's disease and ...</p>
-</li>
-
     <li class="card">
   <h3><a href="/directory/california/san-diego-county/escondido/silverado-escondido-memory-care-community/">Silverado Escondido Memory Care Community</a></h3>
   <p class="meta">Escondido, CA · <span class="stars" role="img" aria-label="4.7 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
@@ -254,6 +253,16 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Silverado Escondido is a dedicated memory care community licensed for 104 beds in north Escondido. Part of the national Silverado memory ...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/california/los-angeles-county/los-angeles/silverado-beverly-place-memory-care-community/">Silverado Beverly Place Memory Care Community</a></h3>
+  <p class="meta">Los Angeles, CA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Silverado Beverly Place is a specialized memory care community in Los Angeles dedicated to residents living with Alzheimer's disease and ...</p>
 </li>
 
   </ul>

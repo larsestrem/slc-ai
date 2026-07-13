@@ -1,7 +1,7 @@
 {%- assign f = include.facility -%}
 <li class="card"{% if include.city %} data-city="{{ include.city }}"{% endif %}>
   <h3><a href="{{ f.url }}">{{ f.name }}</a></h3>
-  <p class="meta">{{ f.city_name }}, {{ f.state_abbrev }}{% if f.facility_size == 'small' %} · Small home{% endif %}{% if f.cms_rating_overall %} · {% include stars.html rating=f.cms_rating_overall %} <span class="rate-src">Medicare</span>{% elsif f.google_rating %} · {% include stars.html rating=f.google_rating %} <span class="rate-src">reviews</span>{% endif %}</p>
+  <p class="meta">{{ f.city_name }}, {{ f.state_abbrev }}{% if f.facility_size == 'small' %} · Small home{% endif %}{% if f.cms_rating_overall %} · {% include stars.html rating=f.cms_rating_overall %} <span class="rate-src">Medicare</span>{% elsif f.google_rating %} · {% include stars.html rating=f.google_rating %} <span class="rate-src">reviews</span>{% endif %}{% if f.quality_tier == 'below_standard' or f.quality_tier == 'serious_concerns' %} · {% include tier-badge.html tier=f.quality_tier %}{% endif %}</p>
   {% include care-badges.html levels=f.care_levels %}
   {%- if f.description %}<p class="desc">{{ f.description | truncate: 140 }}</p>{% endif %}
 </li>

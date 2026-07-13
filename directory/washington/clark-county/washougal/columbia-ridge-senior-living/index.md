@@ -21,6 +21,7 @@ facility_size: "large"
 capacity: 70
 sources: ["https://health.usnews.com/best-senior-living/columbia-ridge-senior-living-22379", "https://www.familyassets.com/assisted-living/washington/washougal/columbia-ridge-senior-living", "https://www.yelp.com/biz/columbia-ridge-senior-living-washougal"]
 verified_date: "2026-07-11"
+quality_tier: "unrated"
 description_full: "Columbia Ridge Senior Living is an assisted living community in Washougal with 70 apartment homes in studio and one-bedroom floor plans. The community provides 24/7 support, medication management, therapy services, and social and educational activities in a setting surrounded by outdoor spaces near the Columbia River Gorge."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/columbia-ridge-senior-living-22379"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/columbia-ridge-senior-living-washougal"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}

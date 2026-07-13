@@ -21,6 +21,7 @@ organization: "the-springs-living"
 organization_name: "The Springs Living"
 sources: ["https://www.thespringsliving.com/senior-living/happy-valley/oregon/happy-valley", "https://health.usnews.com/best-senior-living/the-springs-at-happy-valley-29485", "https://www.seniorly.com/assisted-living/oregon/happy-valley/the-springs-at-happy-valley"]
 verified_date: "2026-07-11"
+quality_tier: "unrated"
 description_full: "The Springs at Happy Valley is a newer-built senior living campus offering independent living, assisted living, and memory care in fast-growing Happy Valley, southeast of Portland. The community features spacious apartments, many with decks and territorial views, plus a gym, pool and hot tub, salon, art studio, and movie theater. Reviews praise the resort-like atmosphere and staff, though some families note rising costs."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-springs-at-happy-valley-29485"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/oregon/happy-valley/the-springs-at-happy-valley"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}

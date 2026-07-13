@@ -25,6 +25,7 @@ sources: ["https://reviews.birdeye.com/holly-creek-retirement-community-15726989
 verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.5/5 across 78 reviews on Birdeye (July 2026)"
+quality_tier: "unrated"
 description_full: "Holly Creek is a Life Plan (continuing care) retirement community in Centennial operated by the Denver-based nonprofit Christian Living Communities. The campus offers independent living, assisted living, memory care, and skilled nursing, with resort-style amenities including a pool and three dining venues. Independent living requires a substantial entrance fee."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/holly-creek-retirement-community-157269890756831"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/colorado/centennial/holly-creek-80121"}]
 licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}

@@ -26,6 +26,7 @@ google_rating: 4.7
 google_review_count: 116
 rating_as_of: "2026-07-12"
 review_note: "4.7/5 across 116 reviews on Birdeye, matching the 4.7 Google rating cited by Seniorly (July 2026)"
+quality_tier: "meets_standard"
 description_full: "The Bay Area's largest life plan community, a 50-acre campus in Pleasanton with resort-style amenities: restaurant-style dining venues, a fitness center and spa, swimming pools, and a performing arts center. Offers independent living plus on-campus assisted living and memory care. Part of the Continuing Life family of California communities."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/stoneridge-creek-pleasanton-148043570833384"}, {"name": "Seniorly", "url": "https://www.seniorly.com/continuing-care-retirement-community/california/pleasanton/stoneridge-creek"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/stoneridge-creek-pleasanton-3"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

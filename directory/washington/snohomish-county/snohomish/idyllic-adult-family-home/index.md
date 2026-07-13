@@ -22,6 +22,7 @@ sources: ["https://www.aplaceformom.com/community/idyllic-adult-family-home-1498
 verified_date: "2026-07-13"
 review_note: "SeniorAdvisor 4.5 stars with 5 reviews; A Place for Mom shows 5 reviews averaging 4.7/5 (as of July 2026)."
 quality_basis: "SeniorAdvisor 4.5-star rating and A Place for Mom 4.7/5 average, each across 5 reviews."
+quality_tier: "meets_standard"
 description_full: "Idyllic Adult Family Home is a licensed 6-bed adult family home in Snohomish offering private rooms and 24-hour awake CNA staffing. Listings describe a care focus on mental health and dementia, with nutritious meals and recreational activities."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/idyllic-adult-family-home-149868"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}

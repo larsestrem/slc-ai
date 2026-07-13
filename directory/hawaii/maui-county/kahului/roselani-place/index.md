@@ -22,6 +22,7 @@ capacity: 144
 sources: ["https://reviews.birdeye.com/roselani-place-assisted-living-669026496", "https://roselaniplace.com/", "https://www.yelp.com/biz/roselani-place-kahului", "https://www.seniorcareauthority.com/assisted-living/alii-community-care-dba-roselani-place-in-kahului-hawaii.html"]
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 19 reviews on Birdeye (July 2026)"
+quality_tier: "unrated"
 description_full: "Roselani Place in Kahului is Maui's only private-pay independent living, assisted living, and memory care community, licensed for 144 residents and operated by Alii Community Care. Reviewers describe hotel-like accommodations and dining, and the community was named Best of Maui 2025 for Retirement Community and Assisted Living; it holds a 4.6 rating across 19 reviews on Birdeye."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/roselani-place-assisted-living-669026496"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/roselani-place-kahului"}, {"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/alii-community-care-dba-roselani-place-in-kahului-hawaii.html"}]
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}

@@ -103,10 +103,16 @@ Two more distortions, on top of who writes and how they feel:
   structurally lower everywhere, because many reviewers are families going through a
   frightening post-hospital stay. A 4.0 nursing home may be outperforming a 4.5 assisted
   living community, relative to the job it's doing.
-- **Small-sample noise:** a 5.0 built on three reviews is a coin flip, not a track record.
-  That's why our own listings require multiple reviews before we treat a rating as evidence
-  — one glowing review tells you someone's cousin was pleased. Small homes gather few reviews
-  by their nature, so we [judge them differently](/guides/adult-family-homes/#judging-a-small-home-with-few-reviews).
+- **Small-sample noise cuts both ways.** A 5.0 built on three reviews is a coin flip, not a
+  track record — and so is a 3.2 built on three reviews. A thin cluster of so-so ratings isn't
+  automatically a red flag; it may just be a small or newer community that hasn't accumulated
+  much of a public record yet. Before you cross a place off, read what the negative reviews
+  actually say. A cluster describing the same safety or neglect concern is a real pattern worth
+  weighing heavily, even from just two or three reviewers. A scattering of mismatched, one-off
+  complaints — a billing dispute, a parking gripe, a single bad shift — is much weaker evidence,
+  and a facility with only a couple of mild, non-alarming reviews may deserve a closer look
+  rather than an automatic pass. Small homes gather few reviews by their nature, so we
+  [judge them differently](/guides/adult-family-homes/#judging-a-small-home-with-few-reviews).
 
 ## How to actually read reviews
 

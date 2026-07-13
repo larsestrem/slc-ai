@@ -25,6 +25,7 @@ organization_name: "Belmont Village Senior Living"
 sources: ["https://www.aplaceformom.com/community/belmont-village-albany-1408200", "https://www.belmontvillage.com/locations/albany-berkeley-california", "https://www.yelp.com/biz/belmont-village-senior-living-albany-albany"]
 verified_date: "2026-07-12"
 review_note: "4.3/5 overall experience across 22 reviews on A Place for Mom (July 2026)"
+quality_tier: "unrated"
 description_full: "Opened in 2017 near Berkeley, this 175-apartment community offers independent living, assisted living, and memory care with a licensed nurse on site 24/7. Belmont Village Albany has a programming affiliation with UC Berkeley that brings professor-led lectures and intergenerational activities to residents, and chef-prepared meals are served at the community's Josephine's Kitchen."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/belmont-village-albany-1408200"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/belmont-village-senior-living-albany-albany"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

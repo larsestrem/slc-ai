@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -297,7 +305,8 @@ tbody tr:hover { background: var(--soft); }
 <a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
 (from inspections and staffing); elsewhere, ★ is a
 <a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-Each community's page shows the rating with its source, count, and date.</p>
+We list every community we can verify, not just the highest-rated —
+<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
 
     <section aria-labelledby="c-ashland">
       <h2 id="c-ashland">Ashland, OR <span class="count">· Jackson County</span></h2>
@@ -336,6 +345,17 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-klamath-falls">Klamath Falls, OR <span class="count">· Klamath County</span></h2>
       <ul class="grid">
         <li class="card" data-city="klamath-falls">
+  <h3><a href="/directory/oregon/klamath-county/klamath-falls/marquis-plum-ridge-post-acute-rehab/">Marquis Plum Ridge Post Acute Rehab</a></h3>
+  <p class="meta">Klamath Falls, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Marquis Plum Ridge Post Acute Rehab is a skilled nursing facility in Klamath Falls providing post-acute rehabilitation and long-term care...</p>
+</li>
+
+        <li class="card" data-city="klamath-falls">
   <h3><a href="/directory/oregon/klamath-county/klamath-falls/crystal-terrace-of-klamath-falls/">Crystal Terrace of Klamath Falls</a></h3>
   <p class="meta">Klamath Falls, OR</p>
   
@@ -357,17 +377,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
 </ul>
 <p class="desc">Klamath Falls Senior Living (formerly Pacifica Senior Living Klamath Falls) is a licensed assisted living community on North Eldorado Ave...</p>
-</li>
-
-        <li class="card" data-city="klamath-falls">
-  <h3><a href="/directory/oregon/klamath-county/klamath-falls/marquis-plum-ridge-post-acute-rehab/">Marquis Plum Ridge Post Acute Rehab</a></h3>
-  <p class="meta">Klamath Falls, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Marquis Plum Ridge Post Acute Rehab is a skilled nursing facility in Klamath Falls providing post-acute rehabilitation and long-term care...</p>
 </li>
 
         <li class="card" data-city="klamath-falls">
@@ -409,16 +418,6 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
         <li class="card" data-city="medford">
-  <h3><a href="/directory/oregon/jackson-county/medford/brookdale-medford/">Brookdale Medford</a></h3>
-  <p class="meta">Medford, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Brookdale Medford is an assisted living community on Barnett Road in Medford serving up to 95 residents. Part of the national Brookdale S...</p>
-</li>
-
-        <li class="card" data-city="medford">
   <h3><a href="/directory/oregon/jackson-county/medford/farmington-square-medford/">Farmington Square Medford</a></h3>
   <p class="meta">Medford, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
  <span class="rate-src">reviews</span></p>
@@ -428,17 +427,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Farmington Square Medford is a cottage-style community in north Medford focused primarily on memory care for seniors living with Alzheime...</p>
-</li>
-
-        <li class="card" data-city="medford">
-  <h3><a href="/directory/oregon/jackson-county/medford/prestige-senior-living-arbor-place/">Prestige Senior Living Arbor Place</a></h3>
-  <p class="meta">Medford, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Prestige Senior Living Arbor Place is a 72-apartment assisted living community in Medford with an attached 18-room memory care center. As...</p>
 </li>
 
         <li class="card" data-city="medford">
@@ -465,6 +453,27 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Shalom Adult Foster Care Home is a five-resident adult foster home in an east Medford neighborhood. Registered nurses are available day a...</p>
+</li>
+
+        <li class="card" data-city="medford">
+  <h3><a href="/directory/oregon/jackson-county/medford/brookdale-medford/">Brookdale Medford</a></h3>
+  <p class="meta">Medford, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Brookdale Medford is an assisted living community on Barnett Road in Medford serving up to 95 residents. Part of the national Brookdale S...</p>
+</li>
+
+        <li class="card" data-city="medford">
+  <h3><a href="/directory/oregon/jackson-county/medford/prestige-senior-living-arbor-place/">Prestige Senior Living Arbor Place</a></h3>
+  <p class="meta">Medford, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Prestige Senior Living Arbor Place is a 72-apartment assisted living community in Medford with an attached 18-room memory care center. As...</p>
 </li>
 
         <li class="card" data-city="medford">

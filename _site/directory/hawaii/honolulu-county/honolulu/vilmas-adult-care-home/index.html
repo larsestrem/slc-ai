@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -198,6 +206,8 @@ tbody tr:hover { background: var(--soft); }
 .rating-glance .glance-row p { margin: 0; font-size: .92rem; }
 .rating-glance .muted { color: var(--muted); font-size: .82rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
+.rating-glance .glance-flag { flex-direction: column; align-items: flex-start; gap: .3rem; }
+.rating-glance .glance-flag p { color: var(--muted); }
 
 /* Below-stars review caveats */
 .review-caveats { margin: .7rem 0 0; }
@@ -218,6 +228,10 @@ tbody tr:hover { background: var(--soft); }
   .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
   .rating-badge { text-align: left; flex-basis: auto; }
 }
+
+/* Tier-differentiated footer notices */
+.tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
+.tier-notice-danger a { color: var(--accent); }
 </style>
   
 </head>
@@ -385,8 +399,7 @@ tbody tr:hover { background: var(--soft); }
   <p class="count">Small care homes are held to a standard built for their size: a current state
   license in good standing with a clean recent inspection record, plus real evidence of good care
   — strong reviews even at low volume, a state specialty endorsement, or years of stable
-  operation. We don't demand the review volume only a big building can generate, and we never list
-  a home with a revoked or restricted license or a substantiated harm finding.
+  operation. We don't demand the review volume only a big building can generate.
   <a href="/guides/adult-family-homes/#how-we-list-small-homes">How we choose small homes &rarr;</a></p>
 </section>
 
@@ -394,7 +407,7 @@ tbody tr:hover { background: var(--soft); }
     <h2 id="nearby-h">Other communities in Honolulu</h2>
     <ul class="grid">
       <li class="card">
-  <h3><a href="/directory/hawaii/honolulu-county/honolulu/kahala-nui/">Kahala Nui</a></h3>
+  <h3><a href="/directory/hawaii/honolulu-county/honolulu/15-craigside/">15 Craigside</a></h3>
   <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
  <span class="rate-src">Medicare</span></p>
   
@@ -405,7 +418,7 @@ tbody tr:hover { background: var(--soft); }
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
   <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
-<p class="desc">Kahala Nui is a nonprofit continuing care retirement community in Honolulu's Kahala neighborhood, offering independent living, the Hi'ola...</p>
+<p class="desc">15 Craigside is a 13-story nonprofit continuing care retirement community in Honolulu's Nuuanu area, operated by the Arcadia Family of Co...</p>
 </li>
 
       <li class="card">
@@ -424,7 +437,39 @@ tbody tr:hover { background: var(--soft); }
 </li>
 
       <li class="card">
-  <h3><a href="/directory/hawaii/honolulu-county/honolulu/15-craigside/">15 Craigside</a></h3>
+  <h3><a href="/directory/hawaii/honolulu-county/honolulu/avalon-care-center-honolulu/">Avalon Care Center - Honolulu</a></h3>
+  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Avalon Care Center - Honolulu is a 108-bed skilled nursing and rehabilitation facility operated by Avalon Health Care. It carries a CMS o...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/hawaii/honolulu-county/honolulu/faith-harbor-adult-care/">Faith Harbor Adult Care</a></h3>
+  <p class="meta">Honolulu, HI · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Faith Harbor Adult Care is a small residential care home in East Honolulu (Aina Haina area) licensed for up to six residents, offering me...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/hawaii/honolulu-county/honolulu/family-ties-arch-ii/">Family Ties ARCH II</a></h3>
+  <p class="meta">Honolulu, HI · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+</ul>
+<p class="desc">Family Ties ARCH II is a small adult residential care home in the Kalihi area of Honolulu, listed as a Type I Expanded Adult Residential ...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/hawaii/honolulu-county/honolulu/kahala-nui/">Kahala Nui</a></h3>
   <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
  <span class="rate-src">Medicare</span></p>
   
@@ -435,41 +480,7 @@ tbody tr:hover { background: var(--soft); }
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
   <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
-<p class="desc">15 Craigside is a 13-story nonprofit continuing care retirement community in Honolulu's Nuuanu area, operated by the Arcadia Family of Co...</p>
-</li>
-
-      <li class="card">
-  <h3><a href="/directory/hawaii/honolulu-county/honolulu/maluhia/">Maluhia</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Maluhia is a government-operated skilled nursing and intermediate care facility in Honolulu's Kalihi neighborhood, serving Medicare and M...</p>
-</li>
-
-      <li class="card">
-  <h3><a href="/directory/hawaii/honolulu-county/honolulu/the-plaza-at-punchbowl/">The Plaza at Punchbowl</a></h3>
-  <p class="meta">Honolulu, HI</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">The Plaza at Punchbowl is a multistory senior living community near downtown Honolulu operated by Hawaii-based The Plaza Assisted Living,...</p>
-</li>
-
-      <li class="card">
-  <h3><a href="/directory/hawaii/honolulu-county/honolulu/the-ivy-at-hawaii-kai/">The Ivy at Hawaii Kai</a></h3>
-  <p class="meta">Honolulu, HI</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">A large independent living, assisted living, and memory care community in Honolulu's Hawaii Kai neighborhood, operated under the Ivy Livi...</p>
+<p class="desc">Kahala Nui is a nonprofit continuing care retirement community in Honolulu's Kahala neighborhood, offering independent living, the Hi'ola...</p>
 </li>
 
     </ul>

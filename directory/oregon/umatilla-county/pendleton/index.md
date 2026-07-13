@@ -9,6 +9,6 @@ county_name: "Umatilla"
 state_name: "Oregon"
 state_abbrev: "OR"
 facility_count: 1
-facilities: [{"name": "McKay Creek Assisted Living", "url": "/directory/oregon/umatilla-county/pendleton/mckay-creek-assisted-living/", "city_name": "Pendleton", "state_abbrev": "OR", "care_levels": ["assisted-living"], "facility_size": "medium", "description": "A 44-unit assisted living community on Southgate Place in Pendleton, also known as McKay Creek Estates. Reviewers describe an active, social community with excellent staff and management, large clean apartments, and well-kept grounds. One of the highest-rated senior communities in Umatilla County."}]
+facilities: [{"name": "McKay Creek Assisted Living", "url": "/directory/oregon/umatilla-county/pendleton/mckay-creek-assisted-living/", "city_name": "Pendleton", "state_abbrev": "OR", "care_levels": ["assisted-living"], "quality_tier": "unrated", "facility_size": "medium", "description": "A 44-unit assisted living community on Southgate Place in Pendleton, also known as McKay Creek Estates. Reviewers describe an active, social community with excellent staff and management, large clean apartments, and well-kept grounds. One of the highest-rated senior communities in Umatilla County."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Umatilla County", "url": "/directory/oregon/umatilla-county/"}, {"name": "Pendleton", "url": "/directory/oregon/umatilla-county/pendleton/"}]
 ---

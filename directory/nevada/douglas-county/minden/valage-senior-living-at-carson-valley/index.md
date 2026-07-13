@@ -21,6 +21,7 @@ care_levels: ["assisted-living", "memory-care"]
 sources: ["https://birdeye.com/valage-senior-living-at-carson-valley-175296254855405", "https://www.aplaceformom.com/community/valage-senior-living-at-carson-valley-1483659", "https://valageatcarsonvalley.com/"]
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 14 reviews on Birdeye; A Place for Mom score 8.6/10 (July 2026)"
+quality_tier: "unrated"
 description_full: "Newer assisted living and memory care community in Minden serving the Carson Valley. The all-inclusive monthly fee covers three meals a day plus snacks, weekly housekeeping and laundry, scheduled transportation, an emergency call system, and wellness programming. The top-rated assisted living option in the Minden-Gardnerville area."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/valage-senior-living-at-carson-valley-175296254855405"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/valage-senior-living-at-carson-valley-1483659"}]
 licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}

@@ -30,6 +30,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -124,6 +126,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -229,7 +237,8 @@ tbody tr:hover { background: var(--soft); }
 <a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
 (from inspections and staffing); elsewhere, ★ is a
 <a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-Each community's page shows the rating with its source, count, and date.</p>
+We list every community we can verify, not just the highest-rated —
+<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
 
 <section aria-labelledby="c-coeur-dalene">
   <h2 id="c-coeur-dalene"><a href="/directory/idaho/kootenai-county/coeur-dalene/">Coeur d'Alene, ID</a></h2>
@@ -272,6 +281,17 @@ Each community's page shows the rating with its source, count, and date.</p>
   <h2 id="c-post-falls"><a href="/directory/idaho/kootenai-county/post-falls/">Post Falls, ID</a></h2>
   <ul class="grid">
     <li class="card">
+  <h3><a href="/directory/idaho/kootenai-county/post-falls/life-care-center-of-post-falls/">Life Care Center of Post Falls</a></h3>
+  <p class="meta">Post Falls, ID · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. It holds a CMS overall rating...</p>
+</li>
+
+    <li class="card">
   <h3><a href="/directory/idaho/kootenai-county/post-falls/guardian-angel-homes-post-falls/">Guardian Angel Homes Post Falls</a></h3>
   <p class="meta">Post Falls, ID</p>
   
@@ -281,17 +301,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Guardian Angel Homes Post Falls is a campus of smaller residential-style homes — including the Tudor House, Timber House, The Cottage, an...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/idaho/kootenai-county/post-falls/life-care-center-of-post-falls/">Life Care Center of Post Falls</a></h3>
-  <p class="meta">Post Falls, ID · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. It holds a CMS overall rating...</p>
 </li>
 
   </ul>

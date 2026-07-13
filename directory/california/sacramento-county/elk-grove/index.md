@@ -9,6 +9,6 @@ county_name: "Sacramento"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "WellQuest of Elk Grove", "url": "/directory/california/sacramento-county/elk-grove/wellquest-of-elk-grove/", "city_name": "Elk Grove", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "WellQuest of Elk Grove is a resort-style senior living community offering independent living, assisted living, and memory care on East Stockton Boulevard. Residents have access to a pool, fitness classes, and restaurant-style dining. Reviews consistently praise the clean facilities and caring staff."}]
+facilities: [{"name": "WellQuest of Elk Grove", "url": "/directory/california/sacramento-county/elk-grove/wellquest-of-elk-grove/", "city_name": "Elk Grove", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "description": "WellQuest of Elk Grove is a resort-style senior living community offering independent living, assisted living, and memory care on East Stockton Boulevard. Residents have access to a pool, fitness classes, and restaurant-style dining. Reviews consistently praise the clean facilities and caring staff."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sacramento County", "url": "/directory/california/sacramento-county/"}, {"name": "Elk Grove", "url": "/directory/california/sacramento-county/elk-grove/"}]
 ---

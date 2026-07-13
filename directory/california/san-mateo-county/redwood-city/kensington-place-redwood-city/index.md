@@ -22,6 +22,7 @@ organization_name: "Kensington Senior Living"
 sources: ["https://www.assistedlivingcenter.com/facilities/ca/redwood-city/kensington-place-of-redwood-city-94061/", "https://kensingtonplaceredwoodcity.com/", "https://www.seniorly.com/memory-care/california/redwood-city/kensington-place-redwood-city"]
 verified_date: "2026-07-12"
 review_note: "4.9/5 across 21 reviews on AssistedLivingCenter.com (July 2026)"
+quality_tier: "unrated"
 description_full: "A dedicated memory care community on El Camino Real in Redwood City, part of the Kensington Senior Living family. Care is organized around two neighborhoods for different stages of dementia, with licensed nurses on site around the clock. Seniorly ranks it in the top tier for activities among Peninsula memory care communities."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ca/redwood-city/kensington-place-of-redwood-city-94061/"}, {"name": "Seniorly", "url": "https://www.seniorly.com/memory-care/california/redwood-city/kensington-place-redwood-city"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

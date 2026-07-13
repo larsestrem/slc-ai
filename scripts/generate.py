@@ -111,6 +111,43 @@ def review_links_from_sources(sources):
     return links
 
 
+TIER_RANK = {"meets_standard": 0, "unrated": 1, "below_standard": 2, "serious_concerns": 3}
+
+
+def quality_tier(f):
+    """Comprehensive-listing model (round 6): every verified facility is listed; the
+    RATING is shown honestly and the facility is labeled/sorted by tier instead of
+    being hidden. Computed here, not set by hand, so it always reflects the data."""
+    if f.get("serious_concern") or f.get("special_focus_facility"):
+        return "serious_concerns"
+
+    cms = f.get("cms_rating_overall")
+    if cms is not None:
+        if cms <= 2:
+            return "below_standard"
+        return "meets_standard"
+
+    if f.get("facility_size") == "small":
+        # round-5 small-home model: license-in-good-standing + a positive signal.
+        # A small home with documented negative review evidence still gets flagged.
+        g = f.get("google_rating")
+        if g is not None and g < 4.0:
+            return "below_standard"
+        return "meets_standard"
+
+    g = f.get("google_rating")
+    if g is not None:
+        return "meets_standard" if g >= 4.2 else "below_standard"
+
+    if f.get("review_note"):
+        # Free-text evidence without a parsed number: treat presence of documented
+        # evidence as informative but not gate-worthy either way; leave to a human
+        # reading the note. Default to unrated for sort purposes (neutral placement).
+        return "unrated"
+
+    return "unrated"
+
+
 def county_slug(f):
     return f["county"] if f["county"].endswith("-county") else f["county"] + "-county"
 
@@ -125,11 +162,24 @@ def card(f):
         "name": f["name"], "url": facility_url(f),
         "city_name": f["city_name"], "state_abbrev": f["state_abbrev"],
         "care_levels": f.get("care_levels", []),
+        "quality_tier": quality_tier(f),
     }
     for k in ("facility_size", "cms_rating_overall", "google_rating", "google_review_count", "description"):
         if f.get(k):
             c[k] = f[k]
     return c
+
+
+def sort_key(f):
+    """Best-first, then alphabetical — the comprehensive-listing model ranks by
+    visible quality tier instead of hiding facilities that don't clear a bar."""
+    return (TIER_RANK[quality_tier(f)], f["name"])
+
+
+def card_sort_key(c):
+    """Same ordering as sort_key, for lists already reduced to card() dicts
+    (which carry a precomputed quality_tier)."""
+    return (TIER_RANK[c.get("quality_tier", "unrated")], c["name"])
 
 
 def load_geo():
@@ -210,7 +260,7 @@ def load_state(slug):
 
 
 def gen_facility_page(f, siblings, licensing):
-    nearby = [card(s) for s in siblings if s["slug"] != f["slug"]][:6]
+    nearby = sorted((card(s) for s in siblings if s["slug"] != f["slug"]), key=card_sort_key)[:6]
     front = {
         "layout": "facility",
         "title": f["name"],
@@ -238,10 +288,13 @@ def gen_facility_page(f, siblings, licensing):
                    # public review reputation (from search, dated)
                    "google_rating", "google_review_count", "rating_as_of", "review_note",
                    # small-home differentiated quality signals (see SPEC small-home model)
-                   "license_id", "licensed_since", "specialties", "quality_basis")
+                   "license_id", "licensed_since", "specialties", "quality_basis",
+                   # comprehensive-listing tier flags (see SPEC round-6 policy)
+                   "special_focus_facility", "serious_concern", "serious_concern_note")
     for k in passthrough:
         if f.get(k) not in (None, "", []):
             front[k] = f[k]
+    front["quality_tier"] = quality_tier(f)
     front["description_full"] = f.get("description")
     rlinks = f.get("review_links") or review_links_from_sources(f.get("sources"))
     if rlinks:
@@ -262,7 +315,7 @@ def gen_city_page(state, cslug, city_facs):
         "city_name": f0["city_name"], "county_name": f0["county_name"],
         "state_name": f0["state_name"], "state_abbrev": f0["state_abbrev"],
         "facility_count": len(city_facs),
-        "facilities": [card(f) for f in sorted(city_facs, key=lambda x: x["name"])],
+        "facilities": [card(f) for f in sorted(city_facs, key=sort_key)],
         "crumbs": [
             {"name": "Directory", "url": "/directory/"},
             {"name": f0["state_name"], "url": f"/directory/{state}/"},
@@ -281,7 +334,7 @@ def gen_county_page(state, cslug, county_facs):
     city_blocks = [
         {"slug": cs, "name": fl[0]["city_name"],
          "url": f"/directory/{state}/{cslug}/{cs}/",
-         "facilities": [card(f) for f in sorted(fl, key=lambda x: x["name"])]}
+         "facilities": [card(f) for f in sorted(fl, key=sort_key)]}
         for cs, fl in sorted(cities.items())
     ]
     front = {
@@ -312,7 +365,7 @@ def city_blocks_for(facs):
     return [
         {"slug": c["slug"], "name": c["name"],
          "county_label": " / ".join(sorted(c["counties"])),
-         "facilities": [card(f) for f in sorted(c["facilities"], key=lambda x: x["name"])]}
+         "facilities": [card(f) for f in sorted(c["facilities"], key=sort_key)]}
         for c in sorted(cities.values(), key=lambda c: c["name"])
     ]
 
@@ -397,7 +450,7 @@ def gen_state_page(state, facs, meta, geo):
     city_blocks = [
         {"slug": c["slug"], "name": c["name"],
          "county_label": " / ".join(sorted(c["counties"])),
-         "facilities": [card(f) for f in sorted(c["facilities"], key=lambda x: x["name"])]}
+         "facilities": [card(f) for f in sorted(c["facilities"], key=sort_key)]}
         for c in sorted(cities.values(), key=lambda c: c["name"])
     ]
     level_counts = {}
@@ -488,7 +541,7 @@ def gen_organizations(all_orgs, facilities_by_org, org_names):
                 shutil.rmtree(child)
     index_cards = []
     for slug, o in sorted(merged.items()):
-        facs = sorted(facilities_by_org.get(slug, []), key=lambda c: c["name"])
+        facs = sorted(facilities_by_org.get(slug, []), key=card_sort_key)
         front = {
             "layout": "organization",
             "title": o["name"],

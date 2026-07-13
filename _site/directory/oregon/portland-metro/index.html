@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -330,7 +338,8 @@ tbody tr:hover { background: var(--soft); }
 <a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
 (from inspections and staffing); elsewhere, ★ is a
 <a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-Each community's page shows the rating with its source, count, and date.</p>
+We list every community we can verify, not just the highest-rated —
+<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
 
     <section aria-labelledby="c-beaverton">
       <h2 id="c-beaverton">Beaverton, OR <span class="count">· Washington County</span></h2>
@@ -417,14 +426,14 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-canby">Canby, OR <span class="count">· Clackamas County</span></h2>
       <ul class="grid">
         <li class="card" data-city="canby">
-  <h3><a href="/directory/oregon/clackamas-county/canby/hope-village/">Hope Village</a></h3>
-  <p class="meta">Canby, OR · <span class="stars" role="img" aria-label="4.0 out of 5 stars">★★★★<span class="off">★</span></span>
+  <h3><a href="/directory/oregon/clackamas-county/canby/rackleff-place/">Rackleff Place</a></h3>
+  <p class="meta">Canby, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
-<p class="desc">Hope Village is a faith-based, not-for-profit retirement community for adults 62 and older on a 56-acre campus in Canby, sponsored by Hou...</p>
+<p class="desc">A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette. Fa...</p>
 </li>
 
         <li class="card" data-city="canby">
@@ -438,14 +447,14 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
         <li class="card" data-city="canby">
-  <h3><a href="/directory/oregon/clackamas-county/canby/rackleff-place/">Rackleff Place</a></h3>
-  <p class="meta">Canby, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
- <span class="rate-src">reviews</span></p>
+  <h3><a href="/directory/oregon/clackamas-county/canby/hope-village/">Hope Village</a></h3>
+  <p class="meta">Canby, OR · <span class="stars" role="img" aria-label="4.0 out of 5 stars">★★★★<span class="off">★</span></span>
+ <span class="rate-src">reviews</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
 </ul>
-<p class="desc">A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette. Fa...</p>
+<p class="desc">Hope Village is a faith-based, not-for-profit retirement community for adults 62 and older on a 56-acre campus in Canby, sponsored by Hou...</p>
 </li>
 
       </ul>
@@ -453,6 +462,17 @@ Each community's page shows the rating with its source, count, and date.</p>
     <section aria-labelledby="c-forest-grove">
       <h2 id="c-forest-grove">Forest Grove, OR <span class="count">· Washington County</span></h2>
       <ul class="grid">
+        <li class="card" data-city="forest-grove">
+  <h3><a href="/directory/oregon/washington-county/forest-grove/marquis-forest-grove-post-acute-rehab/">Marquis Forest Grove Post Acute Rehab</a></h3>
+  <p class="meta">Forest Grove, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Marquis Forest Grove Post Acute Rehab is a 63-bed skilled nursing facility in Forest Grove offering short-term rehabilitation and long-te...</p>
+</li>
+
         <li class="card" data-city="forest-grove">
   <h3><a href="/directory/oregon/washington-county/forest-grove/jennings-mccall-center/">Jennings McCall Center</a></h3>
   <p class="meta">Forest Grove, OR</p>
@@ -463,17 +483,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Jennings McCall is an independent nonprofit retirement community on 15 acres in Forest Grove, started by the Masons of Oregon in 1922 and...</p>
-</li>
-
-        <li class="card" data-city="forest-grove">
-  <h3><a href="/directory/oregon/washington-county/forest-grove/marquis-forest-grove-post-acute-rehab/">Marquis Forest Grove Post Acute Rehab</a></h3>
-  <p class="meta">Forest Grove, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Marquis Forest Grove Post Acute Rehab is a 63-bed skilled nursing facility in Forest Grove offering short-term rehabilitation and long-te...</p>
 </li>
 
       </ul>
@@ -492,17 +501,6 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
         <li class="card" data-city="gresham">
-  <h3><a href="/directory/oregon/multnomah-county/gresham/courtyard-fountains/">Courtyard Fountains</a></h3>
-  <p class="meta">Gresham, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Courtyard Fountains is a large independent and assisted living community in Gresham operated by Senior Lifestyle. Residents choose from s...</p>
-</li>
-
-        <li class="card" data-city="gresham">
   <h3><a href="/directory/oregon/multnomah-county/gresham/grace-care-adult-foster-home/">Grace Care Adult Foster Home</a></h3>
   <p class="meta">Gresham, OR · Small home</p>
   
@@ -511,6 +509,17 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Grace Care Adult Foster Home sits in a quiet Gresham neighborhood and houses up to five residents in an open-concept, wheelchair-accessib...</p>
+</li>
+
+        <li class="card" data-city="gresham">
+  <h3><a href="/directory/oregon/multnomah-county/gresham/courtyard-fountains/">Courtyard Fountains</a></h3>
+  <p class="meta">Gresham, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Courtyard Fountains is a large independent and assisted living community in Gresham operated by Senior Lifestyle. Residents choose from s...</p>
 </li>
 
       </ul>
@@ -548,6 +557,16 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
         <li class="card" data-city="hillsboro">
+  <h3><a href="/directory/oregon/washington-county/hillsboro/regina-adult-foster-home/">Regina Adult Foster Home</a></h3>
+  <p class="meta">Hillsboro, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+</ul>
+<p class="desc">Regina Adult Foster Home is a purpose-built five-bedroom adult foster home in Hillsboro owned and operated by Regina Asare, RN, who has m...</p>
+</li>
+
+        <li class="card" data-city="hillsboro">
   <h3><a href="/directory/oregon/washington-county/hillsboro/cornell-estates-retirement-and-assisted-living/">Cornell Estates Retirement and Assisted Living</a></h3>
   <p class="meta">Hillsboro, OR</p>
   
@@ -556,16 +575,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 <p class="desc">A retirement and assisted living residence in central Hillsboro with 75 licensed assisted living beds that also accepts Medicaid. Reviewe...</p>
-</li>
-
-        <li class="card" data-city="hillsboro">
-  <h3><a href="/directory/oregon/washington-county/hillsboro/regina-adult-foster-home/">Regina Adult Foster Home</a></h3>
-  <p class="meta">Hillsboro, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-</ul>
-<p class="desc">Regina Adult Foster Home is a purpose-built five-bedroom adult foster home in Hillsboro owned and operated by Regina Asare, RN, who has m...</p>
 </li>
 
         <li class="card" data-city="hillsboro">
@@ -639,6 +648,18 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-mcminnville">McMinnville, OR <span class="count">· Yamhill County</span></h2>
       <ul class="grid">
         <li class="card" data-city="mcminnville">
+  <h3><a href="/directory/oregon/yamhill-county/mcminnville/vineyard-heights-assisted-living-and-retirement-cottages/">Vineyard Heights Assisted Living and Retirement Cottages</a></h3>
+  <p class="meta">McMinnville, OR · <span class="stars" role="img" aria-label="4.2 out of 5 stars">★★★★<span class="off">★</span></span>
+ <span class="rate-src">reviews</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">An assisted living and independent living community in McMinnville wine country with 81 assisted living apartments and 16 retirement cott...</p>
+</li>
+
+        <li class="card" data-city="mcminnville">
   <h3><a href="/directory/oregon/yamhill-county/mcminnville/brookdale-mcminnville-city-center/">Brookdale McMinnville City Center</a></h3>
   <p class="meta">McMinnville, OR</p>
   
@@ -663,23 +684,25 @@ Each community's page shows the rating with its source, count, and date.</p>
 <p class="desc">Hillside is a nonprofit Life Plan Community (CCRC) on 57 acres in McMinnville, in the heart of Willamette Valley wine country, operated b...</p>
 </li>
 
-        <li class="card" data-city="mcminnville">
-  <h3><a href="/directory/oregon/yamhill-county/mcminnville/vineyard-heights-assisted-living-and-retirement-cottages/">Vineyard Heights Assisted Living and Retirement Cottages</a></h3>
-  <p class="meta">McMinnville, OR · <span class="stars" role="img" aria-label="4.2 out of 5 stars">★★★★<span class="off">★</span></span>
- <span class="rate-src">reviews</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">An assisted living and independent living community in McMinnville wine country with 81 assisted living apartments and 16 retirement cott...</p>
-</li>
-
       </ul>
     </section>
     <section aria-labelledby="c-milwaukie">
       <h2 id="c-milwaukie">Milwaukie, OR <span class="count">· Clackamas County</span></h2>
       <ul class="grid">
+        <li class="card" data-city="milwaukie">
+  <h3><a href="/directory/oregon/clackamas-county/milwaukie/willamette-view/">Willamette View</a></h3>
+  <p class="meta">Milwaukie, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Founded in 1955, Willamette View was the first continuing care retirement community in the Portland metro area, a nonprofit 501(c)(3) on ...</p>
+</li>
+
         <li class="card" data-city="milwaukie">
   <h3><a href="/directory/oregon/clackamas-county/milwaukie/homewoods-on-the-willamette/">Homewoods on the Willamette</a></h3>
   <p class="meta">Milwaukie, OR</p>
@@ -702,20 +725,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">A nonprofit, single-site continuing care retirement community on 22 acres on a bluff above the Willamette River, offering cottage homes a...</p>
-</li>
-
-        <li class="card" data-city="milwaukie">
-  <h3><a href="/directory/oregon/clackamas-county/milwaukie/willamette-view/">Willamette View</a></h3>
-  <p class="meta">Milwaukie, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Founded in 1955, Willamette View was the first continuing care retirement community in the Portland metro area, a nonprofit 501(c)(3) on ...</p>
 </li>
 
       </ul>
@@ -778,40 +787,6 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-portland">Portland, OR <span class="count">· Multnomah County</span></h2>
       <ul class="grid">
         <li class="card" data-city="portland">
-  <h3><a href="/directory/oregon/multnomah-county/portland/brookdale-oswego-springs-portland/">Brookdale Oswego Springs Portland</a></h3>
-  <p class="meta">Portland, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Brookdale Oswego Springs Portland is an assisted living community in southwest Portland operated by Brookdale Senior Living, the largest ...</p>
-</li>
-
-        <li class="card" data-city="portland">
-  <h3><a href="/directory/oregon/multnomah-county/portland/cherrywood-village/">CherryWood Village</a></h3>
-  <p class="meta">Portland, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">CherryWood Village is a resort-style senior living campus on 12 acres in east Portland next to Adventist Health Portland, offering indepe...</p>
-</li>
-
-        <li class="card" data-city="portland">
-  <h3><a href="/directory/oregon/multnomah-county/portland/courtyard-at-mt-tabor/">Courtyard at Mt. Tabor</a></h3>
-  <p class="meta">Portland, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">A resort-style senior living campus near Mt. Tabor Park in southeast Portland offering independent living, assisted living, and memory ca...</p>
-</li>
-
-        <li class="card" data-city="portland">
   <h3><a href="/directory/oregon/multnomah-county/portland/elder-garden-care-home/">Elder Garden Care Home, LLC</a></h3>
   <p class="meta">Portland, OR · Small home</p>
   
@@ -831,30 +806,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">A residential care home in outer southeast Portland providing personal care in a small group-home setting, including memory care for resi...</p>
-</li>
-
-        <li class="card" data-city="portland">
-  <h3><a href="/directory/oregon/multnomah-county/portland/holladay-park-plaza/">Holladay Park Plaza</a></h3>
-  <p class="meta">Portland, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Holladay Park Plaza is a nonprofit continuing care retirement community in Portland's Lloyd District, affiliated with Pacific Retirement ...</p>
-</li>
-
-        <li class="card" data-city="portland">
-  <h3><a href="/directory/oregon/multnomah-county/portland/markham-house/">Markham House</a></h3>
-  <p class="meta">Portland, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">A Koelsch Communities assisted living community on SW Capitol Highway in southwest Portland's Multnomah Village area. It provides persona...</p>
 </li>
 
         <li class="card" data-city="portland">
@@ -906,19 +857,6 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
         <li class="card" data-city="portland">
-  <h3><a href="/directory/oregon/multnomah-county/portland/mirabella-portland/">Mirabella Portland</a></h3>
-  <p class="meta">Portland, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-</ul>
-<p class="desc">Mirabella Portland is a high-rise continuing care retirement community in Portland's South Waterfront district, offering independent livi...</p>
-</li>
-
-        <li class="card" data-city="portland">
   <h3><a href="/directory/oregon/multnomah-county/portland/orchard-care-home/">Orchard Care Home</a></h3>
   <p class="meta">Portland, OR · Small home · <span class="stars" role="img" aria-label="5.0 out of 5 stars">★★★★★</span>
  <span class="rate-src">reviews</span></p>
@@ -940,6 +878,98 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
 </ul>
 <p class="desc">Robison Jewish Health Center is a skilled nursing facility on the Cedar Sinai Park campus in southwest Portland, offering short-term reha...</p>
+</li>
+
+        <li class="card" data-city="portland">
+  <h3><a href="/directory/oregon/multnomah-county/portland/stephenson-adult-care-home/">Stephenson Adult Care Home</a></h3>
+  <p class="meta">Portland, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+</ul>
+<p class="desc">Stephenson Adult Care Home is a residential foster care home in an upscale southwest Portland neighborhood with a view of Mt. Hood, cater...</p>
+</li>
+
+        <li class="card" data-city="portland">
+  <h3><a href="/directory/oregon/multnomah-county/portland/west-hills-health-and-rehabilitation/">West Hills Health & Rehabilitation</a></h3>
+  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">West Hills Health & Rehabilitation is a 180-bed skilled nursing facility in southwest Portland that has served the area since 1970, provi...</p>
+</li>
+
+        <li class="card" data-city="portland">
+  <h3><a href="/directory/oregon/multnomah-county/portland/brookdale-oswego-springs-portland/">Brookdale Oswego Springs Portland</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Brookdale Oswego Springs Portland is an assisted living community in southwest Portland operated by Brookdale Senior Living, the largest ...</p>
+</li>
+
+        <li class="card" data-city="portland">
+  <h3><a href="/directory/oregon/multnomah-county/portland/cherrywood-village/">CherryWood Village</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">CherryWood Village is a resort-style senior living campus on 12 acres in east Portland next to Adventist Health Portland, offering indepe...</p>
+</li>
+
+        <li class="card" data-city="portland">
+  <h3><a href="/directory/oregon/multnomah-county/portland/courtyard-at-mt-tabor/">Courtyard at Mt. Tabor</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">A resort-style senior living campus near Mt. Tabor Park in southeast Portland offering independent living, assisted living, and memory ca...</p>
+</li>
+
+        <li class="card" data-city="portland">
+  <h3><a href="/directory/oregon/multnomah-county/portland/holladay-park-plaza/">Holladay Park Plaza</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Holladay Park Plaza is a nonprofit continuing care retirement community in Portland's Lloyd District, affiliated with Pacific Retirement ...</p>
+</li>
+
+        <li class="card" data-city="portland">
+  <h3><a href="/directory/oregon/multnomah-county/portland/markham-house/">Markham House</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">A Koelsch Communities assisted living community on SW Capitol Highway in southwest Portland's Multnomah Village area. It provides persona...</p>
+</li>
+
+        <li class="card" data-city="portland">
+  <h3><a href="/directory/oregon/multnomah-county/portland/mirabella-portland/">Mirabella Portland</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+</ul>
+<p class="desc">Mirabella Portland is a high-rise continuing care retirement community in Portland's South Waterfront district, offering independent livi...</p>
 </li>
 
         <li class="card" data-city="portland">
@@ -976,16 +1006,6 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
         <li class="card" data-city="portland">
-  <h3><a href="/directory/oregon/multnomah-county/portland/stephenson-adult-care-home/">Stephenson Adult Care Home</a></h3>
-  <p class="meta">Portland, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-</ul>
-<p class="desc">Stephenson Adult Care Home is a residential foster care home in an upscale southwest Portland neighborhood with a view of Mt. Hood, cater...</p>
-</li>
-
-        <li class="card" data-city="portland">
   <h3><a href="/directory/oregon/multnomah-county/portland/terwilliger-plaza/">Terwilliger Plaza</a></h3>
   <p class="meta">Portland, OR</p>
   
@@ -996,17 +1016,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Terwilliger Plaza is a stand-alone nonprofit continuing care retirement community founded in 1962, located just south of downtown Portlan...</p>
-</li>
-
-        <li class="card" data-city="portland">
-  <h3><a href="/directory/oregon/multnomah-county/portland/west-hills-health-and-rehabilitation/">West Hills Health & Rehabilitation</a></h3>
-  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">West Hills Health & Rehabilitation is a 180-bed skilled nursing facility in southwest Portland that has served the area since 1970, provi...</p>
 </li>
 
       </ul>
@@ -1032,16 +1041,6 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-tigard">Tigard, OR <span class="count">· Washington County</span></h2>
       <ul class="grid">
         <li class="card" data-city="tigard">
-  <h3><a href="/directory/oregon/washington-county/tigard/summerfield-estates-retirement-community/">Summerfield Estates Retirement Community</a></h3>
-  <p class="meta">Tigard, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-</ul>
-<p class="desc">Summerfield Estates Retirement Community is an independent living community in Tigard's Summerfield neighborhood. Residents and families ...</p>
-</li>
-
-        <li class="card" data-city="tigard">
   <h3><a href="/directory/oregon/washington-county/tigard/sunrise-adult-foster-home-tigard/">Sunrise Adult Foster Home</a></h3>
   <p class="meta">Tigard, OR · Small home</p>
   
@@ -1050,6 +1049,16 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Sunrise Adult Foster Home is a small residential care home in Tigard providing incontinence care, diabetes care, memory care, and medicat...</p>
+</li>
+
+        <li class="card" data-city="tigard">
+  <h3><a href="/directory/oregon/washington-county/tigard/summerfield-estates-retirement-community/">Summerfield Estates Retirement Community</a></h3>
+  <p class="meta">Tigard, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+</ul>
+<p class="desc">Summerfield Estates Retirement Community is an independent living community in Tigard's Summerfield neighborhood. Residents and families ...</p>
 </li>
 
       </ul>

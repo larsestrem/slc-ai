@@ -30,6 +30,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -124,6 +126,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -316,7 +324,8 @@ tbody tr:hover { background: var(--soft); }
 <a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
 (from inspections and staffing); elsewhere, ★ is a
 <a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-Each community's page shows the rating with its source, count, and date.</p>
+We list every community we can verify, not just the highest-rated —
+<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
 
     <section aria-labelledby="c-bakersfield">
       <h2 id="c-bakersfield">Bakersfield, CA <span class="count">· Kern County</span></h2>
@@ -358,17 +367,6 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-fresno">Fresno, CA <span class="count">· Fresno County</span></h2>
       <ul class="grid">
         <li class="card" data-city="fresno">
-  <h3><a href="/directory/california/fresno-county/fresno/oakmont-of-fresno/">Oakmont of Fresno</a></h3>
-  <p class="meta">Fresno, CA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Oakmont of Fresno is an assisted living and memory care community on North Gates Avenue in northwest Fresno. It is operated by Oakmont Se...</p>
-</li>
-
-        <li class="card" data-city="fresno">
   <h3><a href="/directory/california/fresno-county/fresno/oakwood-gardens-care-center/">Oakwood Gardens Care Center</a></h3>
   <p class="meta">Fresno, CA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
  <span class="rate-src">Medicare</span></p>
@@ -378,6 +376,17 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
 </ul>
 <p class="desc">A 104-bed Medicare- and Medicaid-certified skilled nursing facility in Fresno offering short-term rehabilitation, 24-hour skilled nursing...</p>
+</li>
+
+        <li class="card" data-city="fresno">
+  <h3><a href="/directory/california/fresno-county/fresno/oakmont-of-fresno/">Oakmont of Fresno</a></h3>
+  <p class="meta">Fresno, CA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Oakmont of Fresno is an assisted living and memory care community on North Gates Avenue in northwest Fresno. It is operated by Oakmont Se...</p>
 </li>
 
         <li class="card" data-city="fresno">
@@ -450,18 +459,6 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-modesto">Modesto, CA <span class="count">· Stanislaus County</span></h2>
       <ul class="grid">
         <li class="card" data-city="modesto">
-  <h3><a href="/directory/california/stanislaus-county/modesto/casa-de-modesto-retirement-center/">Casa de Modesto Retirement Center</a></h3>
-  <p class="meta">Modesto, CA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Community-based nonprofit retirement center founded in 1965, offering multiple levels of care including independent living apartments, as...</p>
-</li>
-
-        <li class="card" data-city="modesto">
   <h3><a href="/directory/california/stanislaus-county/modesto/dale-commons/">Dale Commons</a></h3>
   <p class="meta">Modesto, CA · <span class="stars" role="img" aria-label="4.6 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
  <span class="rate-src">reviews</span></p>
@@ -471,6 +468,18 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 <p class="desc">Dale Commons is an MBK Senior Living community in north Modesto offering independent living and assisted living with 24/7 residential car...</p>
+</li>
+
+        <li class="card" data-city="modesto">
+  <h3><a href="/directory/california/stanislaus-county/modesto/casa-de-modesto-retirement-center/">Casa de Modesto Retirement Center</a></h3>
+  <p class="meta">Modesto, CA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Community-based nonprofit retirement center founded in 1965, offering multiple levels of care including independent living apartments, as...</p>
 </li>
 
         <li class="card" data-city="modesto">
@@ -515,17 +524,6 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-stockton">Stockton, CA <span class="count">· San Joaquin County</span></h2>
       <ul class="grid">
         <li class="card" data-city="stockton">
-  <h3><a href="/directory/california/san-joaquin-county/stockton/oakmont-of-brookside/">Oakmont of Brookside</a></h3>
-  <p class="meta">Stockton, CA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Oakmont of Brookside provides assisted living and memory care in Stockton's Brookside neighborhood. Reviewers consistently describe a war...</p>
-</li>
-
-        <li class="card" data-city="stockton">
   <h3><a href="/directory/california/san-joaquin-county/stockton/the-commons-on-thornton/">The Commons on Thornton</a></h3>
   <p class="meta">Stockton, CA · <span class="stars" role="img" aria-label="4.8 out of 5 stars">★★★★★</span>
  <span class="rate-src">reviews</span></p>
@@ -535,6 +533,17 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">A 128-bed licensed assisted living and memory care community in north Stockton, named Best Assisted Living and Best Memory Care by U.S. N...</p>
+</li>
+
+        <li class="card" data-city="stockton">
+  <h3><a href="/directory/california/san-joaquin-county/stockton/oakmont-of-brookside/">Oakmont of Brookside</a></h3>
+  <p class="meta">Stockton, CA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Oakmont of Brookside provides assisted living and memory care in Stockton's Brookside neighborhood. Reviewers consistently describe a war...</p>
 </li>
 
       </ul>

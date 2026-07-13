@@ -4,7 +4,7 @@ title: "Marysville Care Center"
 seo_title: "Marysville Care Center — Senior Living in Marysville, WA"
 description: "A 97-bed skilled nursing facility in Marysville offering short-term rehab and long-term care. Its CMS overall rating is 3 stars (per CMS data current as of ea"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Marysville Care Center", "url": "/directory/washington/snohomish-county/marysville/marysville-care-center/"}]
-nearby: [{"name": "Village Concepts of Marysville - Grandview Village", "url": "/directory/washington/snohomish-county/marysville/village-concepts-of-marysville-grandview-village/", "city_name": "Marysville", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living"], "description": "Grandview Village is a Village Concepts retirement community in Marysville offering independent living with assisted living services. Residents and families praise the warm, compassionate staff and full activity calendar, while some reviews note the building shows its age."}]
+nearby: [{"name": "Village Concepts of Marysville - Grandview Village", "url": "/directory/washington/snohomish-county/marysville/village-concepts-of-marysville-grandview-village/", "city_name": "Marysville", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living"], "quality_tier": "unrated", "description": "Grandview Village is a Village Concepts retirement community in Marysville offering independent living with assisted living services. Residents and families praise the warm, compassionate staff and full activity calendar, while some reviews note the building shows its age."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"
@@ -22,6 +22,7 @@ cms_ccn: "505386"
 cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/marysville-care-center-505386", "https://nursinghomerating.org/WA/marysville-care-center/505386/"]
 verified_date: "2026-07-13"
+quality_tier: "meets_standard"
 description_full: "A 97-bed skilled nursing facility in Marysville offering short-term rehab and long-term care. Its CMS overall rating is 3 stars (per CMS data current as of early 2026), which now qualifies under the directory's skilled-nursing inclusion policy."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/marysville-care-center-505386"}]
 ---

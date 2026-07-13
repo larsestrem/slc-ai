@@ -5,7 +5,7 @@ title: "Emerald Court"
 seo_title: "Emerald Court — Senior Living in Anaheim, CA"
 description: "Kisco Senior Living community in west Anaheim offering independent living, assisted living, and memory care near Anaheim Medical Center. U.S. News has rated i"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Emerald Court", "url": "/directory/california/orange-county/anaheim/emerald-court/"}]
-nearby: [{"name": "Walnut Village", "url": "/directory/california/orange-county/anaheim/walnut-village/", "city_name": "Anaheim", "state_abbrev": "CA", "care_levels": ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"], "facility_size": "large", "description": "Walnut Village is a continuing care retirement community in Anaheim offering independent living, assisted living, memory care and skilled nursing on one campus. The community, operated by nonprofit Front Porch, features a library, swimming pool and fitness center, and was named Continuing Care Retirement Community of the Year 2010 by 50+ Builders Magazine."}]
+nearby: [{"name": "Walnut Village", "url": "/directory/california/orange-county/anaheim/walnut-village/", "city_name": "Anaheim", "state_abbrev": "CA", "care_levels": ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"], "quality_tier": "unrated", "facility_size": "large", "description": "Walnut Village is a continuing care retirement community in Anaheim offering independent living, assisted living, memory care and skilled nursing on one campus. The community, operated by nonprofit Front Porch, features a library, swimming pool and fitness center, and was named Continuing Care Retirement Community of the Year 2010 by 50+ Builders Magazine."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"
@@ -24,6 +24,7 @@ organization_name: "Kisco Senior Living"
 sources: ["https://www.aplaceformom.com/community/emerald-court-56137", "https://www.kiscoseniorliving.com/senior-living/ca/anaheim/emerald-court/contact/", "https://www.yelp.com/biz/emerald-court-anaheim"]
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 48 reviews on A Place for Mom (July 2026)"
+quality_tier: "unrated"
 description_full: "Kisco Senior Living community in west Anaheim offering independent living, assisted living, and memory care near Anaheim Medical Center. U.S. News has rated it a Best Senior Living community across all three care levels. Reviewers consistently describe a clean, well-maintained building, quick staff response times, and a lively activity and dining program."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/emerald-court-56137"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/emerald-court-anaheim"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

@@ -5,7 +5,7 @@ title: "South Valley Post Acute Rehabilitation"
 seo_title: "South Valley Post Acute Rehabilitation — Senior Living in Denver, CO"
 description: "South Valley Post Acute Rehabilitation is a 106-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Denver. It holds a 5-star overall r"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "South Valley Post Acute Rehabilitation", "url": "/directory/colorado/denver-county/denver/south-valley-post-acute-rehabilitation/"}]
-nearby: [{"name": "Sunrise at Pinehurst", "url": "/directory/colorado/denver-county/denver/sunrise-at-pinehurst/", "city_name": "Denver", "state_abbrev": "CO", "care_levels": ["assisted-living", "memory-care", "respite-care"], "description": "Sunrise at Pinehurst offers assisted living, memory care, and short-term respite stays in southwest Denver near Pinehurst Country Club. Families praise the attentive staff and well-kept grounds, and the community is one of the longest-established Sunrise locations in Colorado."}]
+nearby: [{"name": "Sunrise at Pinehurst", "url": "/directory/colorado/denver-county/denver/sunrise-at-pinehurst/", "city_name": "Denver", "state_abbrev": "CO", "care_levels": ["assisted-living", "memory-care", "respite-care"], "quality_tier": "unrated", "description": "Sunrise at Pinehurst offers assisted living, memory care, and short-term respite stays in southwest Denver near Pinehurst Country Club. Families praise the attentive staff and well-kept grounds, and the community is one of the longest-established Sunrise locations in Colorado."}]
 state: "colorado"
 state_name: "Colorado"
 state_abbrev: "CO"
@@ -24,5 +24,6 @@ cms_ccn: "065230"
 cms_rating_overall: 5
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/065230/view-all/?city=Denver&state=CO&zipcode=80231", "https://www.medicarelist.com/nursing-home/jewell-care-center-of-denver-denver-co/", "https://southvalleypostacute.com/"]
 verified_date: "2026-07-12"
+quality_tier: "meets_standard"
 description_full: "South Valley Post Acute Rehabilitation is a 106-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Denver. It holds a 5-star overall rating from Medicare's Care Compare and provides short-term rehabilitation as well as long-term nursing care."
 ---

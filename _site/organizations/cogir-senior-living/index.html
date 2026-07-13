@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -232,21 +240,10 @@ tbody tr:hover { background: var(--soft); }
 <a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
 (from inspections and staffing); elsewhere, ★ is a
 <a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-Each community's page shows the rating with its source, count, and date.</p>
+We list every community we can verify, not just the highest-rated —
+<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
 
   <ul class="grid">
-    <li class="card">
-  <h3><a href="/directory/washington/kitsap-county/bremerton/bay-pointe-by-cogir/">Bay Pointe by Cogir</a></h3>
-  <p class="meta">Bremerton, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Bay Pointe by Cogir sits on Oyster Bay in Bremerton and has served seniors for more than 20 years, offering independent living, assisted ...</p>
-</li>
-
     <li class="card">
   <h3><a href="/directory/oregon/coos-county/coos-bay/bayside-terrace-by-cogir/">Bayside Terrace by Cogir</a></h3>
   <p class="meta">Coos Bay, OR · <span class="stars" role="img" aria-label="4.8 out of 5 stars">★★★★★</span>
@@ -260,17 +257,6 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
     <li class="card">
-  <h3><a href="/directory/oregon/marion-county/salem/cedar-village-by-cogir/">Cedar Village by Cogir</a></h3>
-  <p class="meta">Salem, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">An assisted living and memory care community on Lancaster Drive NE in Salem, managed under the Cogir Senior Living brand. It offers apart...</p>
-</li>
-
-    <li class="card">
   <h3><a href="/directory/washington/clark-county/vancouver/cogir-at-the-quarry/">Cogir at The Quarry</a></h3>
   <p class="meta">Vancouver, WA · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
  <span class="rate-src">reviews</span></p>
@@ -281,6 +267,53 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Cogir at The Quarry is a large senior living campus at Columbia Tech Center in east Vancouver offering independent living, assisted livin...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/washington/snohomish-county/edmonds/edmonds-landing-by-cogir/">Edmonds Landing by Cogir</a></h3>
+  <p class="meta">Edmonds, WA · <span class="stars" role="img" aria-label="4.9 out of 5 stars">★★★★★</span>
+ <span class="rate-src">reviews</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurant...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/washington/chelan-county/wenatchee/wenatchee-senior-living-by-cogir/">Wenatchee Senior Living by Cogir</a></h3>
+  <p class="meta">Wenatchee, WA · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+ <span class="rate-src">reviews</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Wenatchee Senior Living by Cogir (formerly Avamere at Wenatchee) has welcomed seniors since 1995 and offers independent and assisted livi...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/washington/kitsap-county/bremerton/bay-pointe-by-cogir/">Bay Pointe by Cogir</a></h3>
+  <p class="meta">Bremerton, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Bay Pointe by Cogir sits on Oyster Bay in Bremerton and has served seniors for more than 20 years, offering independent living, assisted ...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/oregon/marion-county/salem/cedar-village-by-cogir/">Cedar Village by Cogir</a></h3>
+  <p class="meta">Salem, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">An assisted living and memory care community on Lancaster Drive NE in Salem, managed under the Cogir Senior Living brand. It offers apart...</p>
 </li>
 
     <li class="card">
@@ -315,18 +348,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Senior living community in Turlock offering independent living, assisted living and memory care on one campus. Residents with Alzheimer's...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/washington/snohomish-county/edmonds/edmonds-landing-by-cogir/">Edmonds Landing by Cogir</a></h3>
-  <p class="meta">Edmonds, WA · <span class="stars" role="img" aria-label="4.9 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurant...</p>
 </li>
 
     <li class="card">
@@ -403,18 +424,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">An independent living, assisted living, and memory care community in Rocklin, formerly operated as The Pines, A Merrill Gardens Community...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/washington/chelan-county/wenatchee/wenatchee-senior-living-by-cogir/">Wenatchee Senior Living by Cogir</a></h3>
-  <p class="meta">Wenatchee, WA · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
- <span class="rate-src">reviews</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Wenatchee Senior Living by Cogir (formerly Avamere at Wenatchee) has welcomed seniors since 1995 and offers independent and assisted livi...</p>
 </li>
 
   </ul>

@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -321,7 +329,8 @@ tbody tr:hover { background: var(--soft); }
 <a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
 (from inspections and staffing); elsewhere, ★ is a
 <a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-Each community's page shows the rating with its source, count, and date.</p>
+We list every community we can verify, not just the highest-rated —
+<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
 
     <section aria-labelledby="c-albany">
       <h2 id="c-albany">Albany, OR <span class="count">· Linn County</span></h2>
@@ -444,6 +453,29 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
         <li class="card" data-city="eugene">
+  <h3><a href="/directory/oregon/lane-county/eugene/creekside-health-and-rehab-of-cascadia/">Creekside Health and Rehab of Cascadia</a></h3>
+  <p class="meta">Eugene, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">An 87-bed skilled nursing and rehabilitation facility on Hilyard Street in south Eugene, operated by Cascadia Healthcare. It offers short...</p>
+</li>
+
+        <li class="card" data-city="eugene">
+  <h3><a href="/directory/oregon/lane-county/eugene/pine-tree-care-afh/">Pine Tree Care - AFH</a></h3>
+  <p class="meta">Eugene, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Pine Tree Care is an adult foster home in Eugene offering foster care in a home setting with a garden area and comfortable private rooms....</p>
+</li>
+
+        <li class="card" data-city="eugene">
   <h3><a href="/directory/oregon/lane-county/eugene/avamere-rehabilitation-of-eugene/">Avamere Rehabilitation of Eugene</a></h3>
   <p class="meta">Eugene, OR</p>
   
@@ -464,18 +496,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
 <p class="desc">Cascade Manor is Eugene's only accredited continuing care retirement community, offering independent living, assisted living, and skilled...</p>
-</li>
-
-        <li class="card" data-city="eugene">
-  <h3><a href="/directory/oregon/lane-county/eugene/creekside-health-and-rehab-of-cascadia/">Creekside Health and Rehab of Cascadia</a></h3>
-  <p class="meta">Eugene, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">An 87-bed skilled nursing and rehabilitation facility on Hilyard Street in south Eugene, operated by Cascadia Healthcare. It offers short...</p>
 </li>
 
         <li class="card" data-city="eugene">
@@ -507,17 +527,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Assisted living and memory care community in northeast Eugene's Willakenzie area, operated by Seattle-based Merrill Gardens. Offers resta...</p>
-</li>
-
-        <li class="card" data-city="eugene">
-  <h3><a href="/directory/oregon/lane-county/eugene/pine-tree-care-afh/">Pine Tree Care - AFH</a></h3>
-  <p class="meta">Eugene, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Pine Tree Care is an adult foster home in Eugene offering foster care in a home setting with a garden area and comfortable private rooms....</p>
 </li>
 
         <li class="card" data-city="eugene">
@@ -673,6 +682,60 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-salem">Salem, OR <span class="count">· Marion County / Polk County</span></h2>
       <ul class="grid">
         <li class="card" data-city="salem">
+  <h3><a href="/directory/oregon/marion-county/salem/felicity-haven-adult-foster-home/">Felicity Haven Adult Foster Home</a></h3>
+  <p class="meta">Salem, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Felicity Haven Adult Foster Home is a licensed adult foster home in a residential neighborhood of South Salem, within five miles of shopp...</p>
+</li>
+
+        <li class="card" data-city="salem">
+  <h3><a href="/directory/oregon/marion-county/salem/golden-nest-adult-foster-home/">Golden Nest Adult Foster Home</a></h3>
+  <p class="meta">Salem, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+</ul>
+<p class="desc">Golden Nest Adult Foster Home is a Class 2 adult foster home in northeast Salem providing 24-hour residential care in a family home setti...</p>
+</li>
+
+        <li class="card" data-city="salem">
+  <h3><a href="/directory/oregon/marion-county/salem/salem-transitional-care/">Salem Transitional Care</a></h3>
+  <p class="meta">Salem, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Salem Transitional Care is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Salem focused on post-acute r...</p>
+</li>
+
+        <li class="card" data-city="salem">
+  <h3><a href="/directory/oregon/marion-county/salem/skyline-manor-care-home/">Skyline Manor Care Home</a></h3>
+  <p class="meta">Salem, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Skyline Manor Care Home is a licensed care home in south Salem serving only five residents, including those with Alzheimer's and other fo...</p>
+</li>
+
+        <li class="card" data-city="salem">
+  <h3><a href="/directory/oregon/polk-county/salem/valley-view-ii-manor-care-home/">Valley View II Manor Care Home</a></h3>
+  <p class="meta">Salem, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Valley View II Manor Care Home is a licensed residential care home in West Salem operating in a custom-built house, offering both residen...</p>
+</li>
+
+        <li class="card" data-city="salem">
   <h3><a href="/directory/oregon/marion-county/salem/battle-creek-memory-care/">Battle Creek Memory Care</a></h3>
   <p class="meta">Salem, OR</p>
   
@@ -719,27 +782,6 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
         <li class="card" data-city="salem">
-  <h3><a href="/directory/oregon/marion-county/salem/felicity-haven-adult-foster-home/">Felicity Haven Adult Foster Home</a></h3>
-  <p class="meta">Salem, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Felicity Haven Adult Foster Home is a licensed adult foster home in a residential neighborhood of South Salem, within five miles of shopp...</p>
-</li>
-
-        <li class="card" data-city="salem">
-  <h3><a href="/directory/oregon/marion-county/salem/golden-nest-adult-foster-home/">Golden Nest Adult Foster Home</a></h3>
-  <p class="meta">Salem, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-</ul>
-<p class="desc">Golden Nest Adult Foster Home is a Class 2 adult foster home in northeast Salem providing 24-hour residential care in a family home setti...</p>
-</li>
-
-        <li class="card" data-city="salem">
   <h3><a href="/directory/oregon/polk-county/salem/prestige-senior-living-orchard-heights/">Prestige Senior Living Orchard Heights</a></h3>
   <p class="meta">Salem, OR</p>
   
@@ -763,28 +805,6 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
         <li class="card" data-city="salem">
-  <h3><a href="/directory/oregon/marion-county/salem/salem-transitional-care/">Salem Transitional Care</a></h3>
-  <p class="meta">Salem, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Salem Transitional Care is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Salem focused on post-acute r...</p>
-</li>
-
-        <li class="card" data-city="salem">
-  <h3><a href="/directory/oregon/marion-county/salem/skyline-manor-care-home/">Skyline Manor Care Home</a></h3>
-  <p class="meta">Salem, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Skyline Manor Care Home is a licensed care home in south Salem serving only five residents, including those with Alzheimer's and other fo...</p>
-</li>
-
-        <li class="card" data-city="salem">
   <h3><a href="/directory/oregon/marion-county/salem/the-ridge-at-madrona-hills/">The Ridge at Madrona Hills</a></h3>
   <p class="meta">Salem, OR</p>
   
@@ -802,17 +822,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
 </ul>
 <p class="desc">An independent living community in northeast Salem operated by The Springs Living, with spacious apartments featuring full kitchens and w...</p>
-</li>
-
-        <li class="card" data-city="salem">
-  <h3><a href="/directory/oregon/polk-county/salem/valley-view-ii-manor-care-home/">Valley View II Manor Care Home</a></h3>
-  <p class="meta">Salem, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Valley View II Manor Care Home is a licensed residential care home in West Salem operating in a custom-built house, offering both residen...</p>
 </li>
 
       </ul>

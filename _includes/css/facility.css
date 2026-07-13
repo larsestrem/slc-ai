@@ -12,6 +12,8 @@
 .rating-glance .glance-row p { margin: 0; font-size: .92rem; }
 .rating-glance .muted { color: var(--muted); font-size: .82rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
+.rating-glance .glance-flag { flex-direction: column; align-items: flex-start; gap: .3rem; }
+.rating-glance .glance-flag p { color: var(--muted); }
 
 /* Below-stars review caveats */
 .review-caveats { margin: .7rem 0 0; }
@@ -32,3 +34,7 @@
   .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
   .rating-badge { text-align: left; flex-basis: auto; }
 }
+
+/* Tier-differentiated footer notices */
+.tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
+.tier-notice-danger a { color: var(--accent); }

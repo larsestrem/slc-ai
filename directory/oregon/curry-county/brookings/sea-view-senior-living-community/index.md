@@ -22,6 +22,7 @@ capacity: 135
 sources: ["https://www.assistedlivingcenter.com/facilities/or/brookings/sea-view-senior-living-community-97415/", "https://www.aplaceformom.com/community/sea-view-senior-living-community-157843", "https://www.seaviewseniorliving.com/senior-living/or/brookings/contact/"]
 verified_date: "2026-07-11"
 review_note: "4.4/5 across 27 reviews on AssistedLivingCenter.com; 13 reviews on A Place for Mom; 92% recommend from 20 Facebook reviews (July 2026)"
+quality_tier: "unrated"
 description_full: "A 135-apartment community on the far southern Oregon coast in Brookings offering independent living, assisted living, memory care, and respite stays. Reviewers describe it as well-run, clean, and welcoming, with restaurant-style dining, an active events calendar, and pet-friendly areas. One of the largest senior communities in Curry County."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/brookings/sea-view-senior-living-community-97415/"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sea-view-senior-living-community-157843"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}

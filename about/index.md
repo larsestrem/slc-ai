@@ -23,6 +23,8 @@ guides, built to help you decide well.
   verification date and sources.
 - **Corrections welcome.** Communities and families can [report updates](/for-communities/) —
   listings improve over time.
+- **We list every community we can verify, not just the highest-rated ones** — rated honestly
+  and labeled by tier instead of hidden. See [why, and what our labels mean](/guides/how-we-list-communities/).
 
 Facility details change frequently. Always confirm availability, pricing, and services directly
 with a community before making decisions.

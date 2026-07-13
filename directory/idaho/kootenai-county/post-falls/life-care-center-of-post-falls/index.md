@@ -4,7 +4,7 @@ title: "Life Care Center of Post Falls"
 seo_title: "Life Care Center of Post Falls — Senior Living in Post Falls, ID"
 description: "A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. It holds a CMS overall rating of 5 stars, with 5-s"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Life Care Center of Post Falls", "url": "/directory/idaho/kootenai-county/post-falls/life-care-center-of-post-falls/"}]
-nearby: [{"name": "Guardian Angel Homes Post Falls", "url": "/directory/idaho/kootenai-county/post-falls/guardian-angel-homes-post-falls/", "city_name": "Post Falls", "state_abbrev": "ID", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Guardian Angel Homes Post Falls is a campus of smaller residential-style homes — including the Tudor House, Timber House, The Cottage, and The Craftsman for residents with advanced Alzheimer's and dementia — plus The Inn, which offers larger suites for a more independent lifestyle. The Pacific Northwest operator provides care ranging from minimal assistance to specialized memory support."}]
+nearby: [{"name": "Guardian Angel Homes Post Falls", "url": "/directory/idaho/kootenai-county/post-falls/guardian-angel-homes-post-falls/", "city_name": "Post Falls", "state_abbrev": "ID", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Guardian Angel Homes Post Falls is a campus of smaller residential-style homes — including the Tudor House, Timber House, The Cottage, and The Craftsman for residents with advanced Alzheimer's and dementia — plus The Inn, which offers larger suites for a more independent lifestyle. The Pacific Northwest operator provides care ranging from minimal assistance to specialized memory support."}]
 state: "idaho"
 state_name: "Idaho"
 state_abbrev: "ID"
@@ -24,5 +24,6 @@ cms_ccn: "135142"
 cms_rating_overall: 5
 sources: ["https://lcca.com/locations/id/post-falls/", "https://www.medicare.gov/care-compare/details/nursing-home/135142"]
 verified_date: "2026-07-13"
+quality_tier: "meets_standard"
 description_full: "A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. It holds a CMS overall rating of 5 stars, with 5-star health-inspection and quality-measure scores, and was named a U.S. News 2026 Best Nursing Home. Provides short-term rehab and long-term skilled care."
 ---

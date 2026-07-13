@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><title>Why Every Community Is Listed Here — And What Our Labels Mean | Senior Living Community</title>
+<meta name="description" content="We list every senior living community we can verify, rated honestly and labeled by tier instead of hidden. Here&#39;s why, and what each label means.">
+<link rel="canonical" href="https://senior.living.community/guides/how-we-list-communities/">
+<meta property="og:site_name" content="Senior Living Community">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Why Every Community Is Listed Here — And What Our Labels Mean">
+<meta property="og:description" content="We list every senior living community we can verify, rated honestly and labeled by tier instead of hidden. Here&#39;s why, and what each label means.">
+<meta property="og:url" content="https://senior.living.community/guides/how-we-list-communities/">
+<meta name="theme-color" content="#0a4aa3">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%230a4aa3'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
+<style>/* senior.living.community — SHARED stylesheet, inlined in <head> on every page.
+   Local only: no webfonts, frameworks, or external requests.
+   Page-specific CSS lives in its own include (css/directory.css, css/facility.css,
+   css/post.css) injected only where needed — see _includes/head.html.
+   Palette is WCAG AAA: every text color clears 7:1 on the off-white background. */
+:root {
+  --bg: #f7f7f5;          /* warm off-white page */
+  --surface: #ffffff;     /* cards / panels */
+  --ink: #1b1d21;         /* body text — 15.7:1 */
+  --muted: #494c52;       /* secondary text — 8.0:1 (AAA at small sizes) */
+  --accent: #0a4aa3;      /* links / primary — 7.8:1 */
+  --accent-strong: #073a82; /* link hover — ~10:1 */
+  --on-accent: #ffffff;   /* text on accent — 8.3:1 */
+  --line: #d6d9de;        /* hairlines / borders (decorative) */
+  --soft: #eef1f6;        /* callout / notice fill */
+  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
+  --radius: 10px;
+  --maxw: 70rem;
+  --prose: 46rem;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: clamp(1rem, 0.95rem + 0.25vw, 1.0625rem);
+  line-height: 1.65;
+}
+img { max-width: 100%; height: auto; }
+
+/* Links — underline on hover/focus, blue always */
+a { color: var(--accent); text-decoration: none; }
+a:hover, a:focus { color: var(--accent-strong); text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+
+/* Headings & section breaks */
+h1, h2, h3 { line-height: 1.25; text-wrap: balance; color: var(--ink); }
+h1 { font-size: clamp(1.6rem, 1.2rem + 1.6vw, 2.4rem); margin: 0 0 .5rem; letter-spacing: -0.01em; }
+h2 { font-size: clamp(1.25rem, 1.1rem + .7vw, 1.55rem); margin: 2.4rem 0 .7rem; }
+h3 { font-size: 1.125rem; margin: 1.6rem 0 .4rem; }
+/* Clear topic breaks in reading content: each section starts with a hairline rule */
+.prose h2 { padding-top: 1.2rem; border-top: 1px solid var(--line); }
+.prose h2:first-of-type { padding-top: 0; border-top: 0; }
+.panel h2, .card h2, .card h3 { padding-top: 0; border-top: 0; }
+
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 1.1rem; }
+main { display: block; padding: 1.6rem 0 3rem; }
+.prose { max-width: var(--prose); }
+.prose li { margin: .3rem 0; }
+.lead { font-size: 1.12em; color: var(--muted); max-width: var(--prose); }
+.post-meta { color: var(--muted); font-size: .9rem; margin: 0 0 1.4rem; }
+.count { color: var(--muted); font-size: .85em; }
+
+/* Header / nav (CSS-only hamburger on mobile) */
+.site-header { background: var(--surface); border-bottom: 1px solid var(--line); }
+.site-header .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
+.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; margin-right: auto; }
+.brand:hover { text-decoration: none; }
+.brand em { color: var(--accent); font-style: normal; }
+.nav-toggle-box { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.nav-toggle { display: none; cursor: pointer; font-size: 1.4rem; line-height: 1; color: var(--ink); padding: .2rem .4rem; border-radius: 6px; user-select: none; }
+.nav-toggle .nav-close { display: none; }
+.nav-toggle-box:focus-visible + .nav-toggle { outline: 2px solid var(--accent); outline-offset: 2px; }
+.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
+.site-nav a { text-decoration: none; color: var(--muted); font-weight: 500; padding: .2rem .1rem; }
+.site-nav a:hover, .site-nav a:focus, .site-nav a[aria-current="page"] { color: var(--accent-strong); text-decoration: underline; }
+@media (max-width: 46rem) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; }
+  .nav-toggle-box:checked ~ .site-nav { display: flex; flex-direction: column; flex-basis: 100%; gap: 0; padding: .4rem 0 .2rem; border-top: 1px solid var(--line); margin-top: .5rem; }
+  .nav-toggle-box:checked ~ .site-nav a { padding: .55rem .2rem; font-size: 1.05rem; border-bottom: 1px solid var(--line); }
+  .nav-toggle-box:checked ~ .site-nav a:last-child { border-bottom: 0; }
+  .nav-toggle-box:checked + .nav-toggle .nav-open { display: none; }
+  .nav-toggle-box:checked + .nav-toggle .nav-close { display: block; }
+}
+
+/* Breadcrumbs */
+.crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem 0 0; }
+.crumbs ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem; }
+.crumbs li + li::before { content: "›"; margin-right: .25rem; color: var(--muted); }
+.crumbs a { color: var(--muted); text-decoration: none; }
+.crumbs a:hover { color: var(--accent); text-decoration: underline; }
+
+/* Hero */
+.hero { background: linear-gradient(180deg, var(--soft), var(--bg)); border-bottom: 1px solid var(--line); }
+.hero .wrap { padding: 2.6rem 1.1rem 2.2rem; }
+.hero p { max-width: 44rem; }
+
+/* Cards & grids */
+.grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); margin: 1.2rem 0; padding: 0; list-style: none; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 1rem 1.1rem; }
+.card h3 { margin: 0 0 .3rem; font-size: 1.05rem; }
+.card h3 a { text-decoration: none; }
+.card h3 a:hover { text-decoration: underline; }
+.card .meta { color: var(--muted); font-size: .88rem; margin: 0; }
+.card .desc { font-size: .92rem; margin: .5rem 0 0; }
+
+/* Badges / chips */
+.badges { display: flex; flex-wrap: wrap; gap: .35rem; margin: .5rem 0; padding: 0; list-style: none; }
+.badge { display: inline-block; background: var(--soft); border: 1px solid var(--line); color: var(--ink); border-radius: 99px; padding: .05rem .6rem; font-size: .78rem; white-space: nowrap; text-decoration: none; }
+.badge:hover { border-color: var(--accent); text-decoration: none; }
+.badge.small-home { border-color: var(--gold); }
+
+/* Stars (shared: appears in facility cards across many page types) */
+.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
+.stars .off { color: var(--line); }
+.rate-src { color: var(--muted); font-size: .8em; }
+.ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+.stars .half { color: var(--gold); }
+@supports ((-webkit-background-clip: text) or (background-clip: text)) {
+  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
+}
+
+/* Callouts */
+.ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
+blockquote p { margin: .2rem 0; }
+.notice { background: var(--soft); border: 1px solid var(--line); border-radius: var(--radius); padding: .7rem 1rem; font-size: .88rem; color: var(--muted); margin: 1.2rem 0; }
+.notice a { color: var(--accent); }
+
+/* Definition panels */
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.1rem 1.25rem; margin: 1.1rem 0; }
+.panel h2 { margin-top: 0; font-size: 1.15rem; }
+.kv { display: grid; grid-template-columns: max-content 1fr; gap: .35rem 1.2rem; margin: 0; }
+.kv dt { color: var(--muted); font-weight: 500; }
+.kv dd { margin: 0; overflow-wrap: anywhere; }
+@media (max-width: 34rem) { .kv { grid-template-columns: 1fr; } .kv dd { margin: -0.3rem 0 .4rem; } }
+.two-col { display: grid; gap: 1.1rem; grid-template-columns: 1fr; }
+@media (min-width: 52rem) { .two-col { grid-template-columns: 3fr 2fr; align-items: start; } }
+
+/* Tables */
+table { border-collapse: collapse; width: 100%; margin: 1.2rem 0; font-size: .95rem; }
+.table-scroll { overflow-x: auto; }
+th, td { text-align: left; padding: .5rem .7rem; border-bottom: 1px solid var(--line); }
+th { color: var(--muted); font-weight: 600; font-size: .85rem; }
+tbody tr:hover { background: var(--soft); }
+
+/* Buttons */
+.btn { display: inline-block; background: var(--accent); color: var(--on-accent); border-radius: 8px; padding: .55rem 1.1rem; text-decoration: none; font-weight: 600; }
+.btn:hover, .btn:focus { background: var(--accent-strong); color: var(--on-accent); text-decoration: none; }
+.btn.ghost { background: transparent; color: var(--accent); border: 1.5px solid var(--accent); }
+.btn.ghost:hover { background: var(--soft); }
+
+/* Ads (lazy) — appears via include across page types */
+.ad-slot { min-height: 100px; margin: 1.6rem 0; display: flex; align-items: center; justify-content: center; background: var(--soft); border: 1px dashed var(--line); border-radius: var(--radius); color: var(--muted); font-size: .75rem; }
+
+/* Footer */
+.site-footer { border-top: 1px solid var(--line); background: var(--surface); margin-top: 2rem; }
+.site-footer .wrap { padding: 1.8rem 1.1rem; display: grid; gap: 1.2rem; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); font-size: .9rem; }
+.site-footer h2 { font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 .5rem; padding-top: 0; border-top: 0; }
+.site-footer ul { list-style: none; margin: 0; padding: 0; }
+.site-footer li { margin: .25rem 0; }
+.site-footer a { color: var(--ink); text-decoration: none; }
+.site-footer a:hover { color: var(--accent); text-decoration: underline; }
+.site-footer .fine { grid-column: 1 / -1; color: var(--muted); font-size: .8rem; border-top: 1px solid var(--line); padding-top: 1rem; }
+
+/* Utility */
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.skip { position: absolute; left: -999px; top: 0; background: var(--surface); padding: .5rem 1rem; z-index: 10; }
+.skip:focus { left: .5rem; top: .5rem; }
+
+/* Print */
+@media print {
+  .site-header, .site-footer, .crumbs, .ad-slot, .nav-toggle, .skip { display: none !important; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  a { color: #000; }
+  .prose a[href^="/"]::after { content: " (senior.living.community" attr(href) ")"; font-size: 8.5pt; color: #555; }
+  .panel, .card, blockquote { border: 1px solid #bbb; break-inside: avoid; }
+  .two-col { display: block; }
+}
+</style>
+  
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/">senior<em>.living.community</em></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-box">
+    <label for="nav-toggle" class="nav-toggle" aria-label="Menu"><span class="nav-open">&#9776;</span><span class="nav-close">&#10005;</span></label>
+    <nav class="site-nav" aria-label="Main">
+      <a href="/directory/">Directory</a>
+      <a href="/guides/" aria-current="page">Guides</a>
+      <a href="/organizations/">Organizations</a>
+      <a href="/news/">News</a>
+    </nav>
+  </div>
+</header>
+
+  
+
+  <main id="main" class="wrap">
+    <article class="prose">
+  <h1>Why Every Community Is Listed Here — And What Our Labels Mean</h1>
+  <p class="post-meta">Family guide · Updated July 13, 2026</p>
+  <p>Type a community’s name into our directory and you’ll find it — whatever its rating. That’s a
+deliberate choice, and this page explains it: why we list nearly every community we can verify,
+what our tier labels mean, and how to use a low rating without either panicking or ignoring it.</p>
+
+<h2 id="why-we-list-everything-not-just-the-highest-rated">Why we list everything, not just the highest-rated</h2>
+
+<p>Earlier, this directory only listed communities that cleared a quality bar — a government rating
+of three stars or better, or a solid, verified review record. We changed that, for two reasons
+that matter more than a tidy list of five-star buildings.</p>
+
+<p><strong>A family searching for a specific community by name deserves the real record, not a blank
+page.</strong> If your parent is already at a community, or it’s the only one near a small town, or a
+hospital discharge planner just mentioned it — you need information <em>now</em>, not a directory that
+quietly pretends it doesn’t exist. Omitting a struggling community doesn’t protect you from it;
+it just leaves you uninformed the one time you actually went looking.</p>
+
+<p><strong>A “top-rated only” directory misleads by omission.</strong> In some areas, nothing nearby clears a
+high bar. A family in that position, seeing an empty or thin results page, might reasonably
+conclude better options exist somewhere they just haven’t found — when the honest truth is that
+every real option locally carries some flags, and the useful thing we can do is show them clearly,
+not hide them.</p>
+
+<p>So the model changed: <strong>list what’s real and verifiable, rate it honestly, and label it clearly</strong>
+— rather than deciding on a family’s behalf which communities they’re allowed to see.</p>
+
+<h2 id="what-the-labels-mean">What the labels mean</h2>
+
+<p>Every community’s tier is calculated automatically from the same rating data shown on its page —
+never assigned by hand, never hidden behind vague language.</p>
+
+<ul>
+  <li><strong>Meets our standard</strong> — a government rating of three stars or better (nursing homes), a
+verified review record of 4.2+ (assisted living, memory care, independent living), or, for
+small homes, a clean state-license record plus a positive signal, <a href="/guides/adult-family-homes/#how-we-list-small-homes">as explained
+here</a>.</li>
+  <li><strong>Below our recommended bar</strong> — a government rating of one or two stars, or a verified review
+record below 4.2. This is not a “never” label. Read on for how to actually use it.</li>
+  <li><strong>Serious concerns</strong> — a documented, sourced red flag: a federal Special Focus Facility
+designation, a substantiated abuse or neglect finding, or an active license restriction. These
+are listed too, with the strongest warning we show anywhere on the site, and a direct link to
+the source so you can read the finding yourself.</li>
+  <li><strong>No label shown (unrated)</strong> — we haven’t captured rating data for this community yet. That’s a
+gap in our records, not a judgment. Check the official record linked on its page and confirm
+what you find on a visit or call.</li>
+</ul>
+
+<p>Ratings and labels are always shown with their source and date, right on the community’s page —
+see our guides on <a href="/guides/reading-inspection-reports-and-ratings/">reading government inspection ratings</a>
+and <a href="/guides/interpreting-online-reviews/">interpreting online reviews</a> for what each number can
+and can’t tell you.</p>
+
+<h2 id="how-to-actually-use-a-below-our-recommended-bar-label">How to actually use a “below our recommended bar” label</h2>
+
+<p>A lower rating is real information — it is not, by itself, a reason to cross a community off
+automatically. Context changes what it means:</p>
+
+<ul>
+  <li><strong>A cluster of specific, repeated complaints</strong> (the same safety issue, named by multiple
+families or inspections) is a serious signal, wherever it appears.</li>
+  <li><strong>A thin handful of mixed or negative reviews</strong> can just mean a small or newer community that
+hasn’t built a public record yet — not necessarily a problem. See how we think about
+<a href="/guides/interpreting-online-reviews/#why-good-facilities-can-carry-mediocre-scores">small-sample noise cutting both ways</a>.</li>
+  <li><strong>Proximity and visit frequency matter.</strong> If a lower-rated community is the one you can
+realistically visit often — daily, or several times a week — that changes the calculation.
+Frequent family presence is one of the strongest protections a resident has: you notice small
+problems early, staff know your parent is watched, and a community with families dropping by
+unannounced tends to hold itself to a higher standard day to day. Our <a href="/guides/how-to-choose-a-senior-care-facility/#step-3-build-a-shortlist">guide to choosing a
+facility</a> walks through
+weighing distance against rating directly.</li>
+  <li><strong>Sometimes it’s genuinely the only realistic option</strong> — the only nearby community with an
+opening, that accepts your parent’s insurance, or that offers the specific level of care
+needed. A lower-rated community you can watch closely can be a better real-world choice than a
+higher-rated one two hours away that you’ll see twice a year.</li>
+</ul>
+
+<p>None of this means accepting real, serious problems for convenience. It means reading the actual
+record instead of the star average, and deciding with full information — which is the whole point
+of showing you the rating instead of hiding the community.</p>
+
+<h2 id="why-we-still-list-serious-concerns-communities">Why we still list “serious concerns” communities</h2>
+
+<p>This is the hardest case, and we thought about it carefully. Federal Special Focus Facilities,
+substantiated abuse findings, active license restrictions — these are the communities it would
+feel safest to simply delete from the directory. We don’t, for the same reason we don’t hide
+anything else: the family searching for that exact name — because a loved one is already there,
+because a hospital is pushing a fast placement, because it’s the only bed available tonight — is
+the family that most needs to see the truth, immediately, with a link to the source. A missing
+page tells them nothing. A page with a stark, sourced warning tells them everything they need to
+act.</p>
+
+<h2 id="common-questions">Common questions</h2>
+
+<p><strong>Why not just hide the low-rated ones and only show good communities?</strong>
+Two reasons. First, families searching for a specific community by name deserve the real record,
+not a blank page — hiding it doesn’t protect anyone, it just leaves them uninformed. Second, a
+directory that only shows the highest-rated places quietly misleads families in areas where
+nothing nearby is highly rated, by implying options exist elsewhere that they can’t actually
+reach.</p>
+
+<p><strong>Isn’t it dangerous to list a community with serious problems at all?</strong>
+We think it’s more dangerous not to. A family that finds nothing when they search a name will
+assume it isn’t in our directory yet, not that we know something troubling. Listing it, with the
+concern stated plainly and the source linked, gives them the one thing that actually protects
+them: the truth, in time to act on it.</p>
+
+<p><strong>How do you decide the tier?</strong>
+It’s computed automatically from the same data shown on the page — the Medicare star rating,
+documented review ratings, or (for small homes) the state license standing — never guessed or
+assigned by hand. If we haven’t captured rating data yet, a community shows as unrated rather than
+being assigned a tier it hasn’t earned.</p>
+
+<p><strong>Should I ever choose a “below our recommended bar” community?</strong>
+Sometimes, yes — context matters. If it’s the closest option and you can visit often, or the only
+one that takes your parent’s insurance, or your own visit turns up something the rating doesn’t
+capture, it can still be the right choice for your family. Read the full record, ask the community
+directly about what you find, and compare it honestly against the alternatives.</p>
+
+  
+
+  <section aria-labelledby="related-h">
+    <h2 id="related-h">Keep reading</h2>
+    <ul><li><a href="/guides/interpreting-online-reviews/">How to Interpret Online Reviews of Senior Care Facilities</a></li><li><a href="/guides/reading-inspection-reports-and-ratings/">Reading Nursing Home Inspection Reports and Star Ratings</a></li><li><a href="/guides/checking-complaints-and-state-records/">How to Check a Facility's Complaint History — State by State</a></li><li><a href="/guides/how-to-choose-a-senior-care-facility/">How to Choose a Senior Care Facility: A Step-by-Step Guide</a></li><li><a href="/guides/adult-family-homes/">Adult Family Homes and Small Residential Care Homes Guide</a></li>
+    </ul>
+  </section>
+</article>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"Why Every Community Is Listed Here — And What Our Labels Mean","description":"We list every senior living community we can verify, rated honestly and labeled by tier instead of hidden. Here's why, and what each label means.","dateModified":"2026-07-13","author":{"@type":"Organization","name":"Senior Living Community"},"mainEntityOfPage":"https://senior.living.community/guides/how-we-list-communities/"}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why not just hide the low-rated ones and only show good communities?","acceptedAnswer":{"@type":"Answer","text":"Two reasons. First, families searching for a specific community by name deserve the real record, not a blank page — hiding it doesn't protect anyone, it just leaves them uninformed. Second, a directory that only shows the highest-rated places quietly misleads families in areas where nothing nearby is highly rated, by implying options exist elsewhere that they can't actually reach."}},{"@type":"Question","name":"Isn't it dangerous to list a community with serious problems at all?","acceptedAnswer":{"@type":"Answer","text":"We think it's more dangerous not to. A family that finds nothing when they search a name will assume it isn't in our directory yet, not that we know something troubling. Listing it, with the concern stated plainly and the source linked, gives them the one thing that actually protects them: the truth, in time to act on it."}},{"@type":"Question","name":"How do you decide the tier?","acceptedAnswer":{"@type":"Answer","text":"It's computed automatically from the same data shown on the page — the Medicare star rating, documented review ratings, or (for small homes) the state license standing — never guessed or assigned by hand. If we haven't captured rating data yet, a community shows as unrated rather than being assigned a tier it hasn't earned."}},{"@type":"Question","name":"Should I ever choose a \"below our recommended bar\" community?","acceptedAnswer":{"@type":"Answer","text":"Sometimes, yes — context matters. If it's the closest option and you can visit often, or the only one that takes your parent's insurance, or your own visit turns up something the rating doesn't capture, it can still be the right choice for your family. Read the full record, ask the community directly about what you find, and compare it honestly against the alternatives."}}]}
+</script>
+
+  </main>
+  <footer class="site-footer">
+  <div class="wrap">
+    <div>
+      <h2>Directory</h2>
+      <ul>
+        <li><a href="/directory/idaho/">Idaho senior living</a></li>
+        <li><a href="/directory/oregon/">Oregon senior living</a></li>
+        <li><a href="/directory/washington/">Washington senior living</a></li>
+        <li><a href="/directory/hawaii/">Hawaii senior living</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>Start here</h2>
+      <ul>
+        <li><a href="/guides/signs-your-parent-needs-help/">Does your parent need help?</a></li>
+        <li><a href="/guides/how-to-choose-a-senior-care-facility/">How to choose a facility</a></li>
+        <li><a href="/guides/finding-help-choosing-a-facility/">Finding help with the search</a></li>
+        <li><a href="/guides/in-home-care-explained/">In-home care explained</a></li>
+        <li><a href="/guides/levels-of-care-explained/">Levels of care explained</a></li>
+        <li><a href="/guides/cost-of-senior-living/">What senior living costs</a></li>
+        <li><a href="/guides/paying-for-senior-care/">How to pay for care</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>Site</h2>
+      <ul>
+        <li><a href="/tools/cost-calculator/">Cost calculator</a></li>
+        <li><a href="/tools/comparison-worksheet/">Comparison worksheet</a></li>
+        <li><a href="/tools/budget-worksheet/">Budget worksheet</a></li>
+        <li><a href="/guides/glossary/">Senior care glossary</a></li>
+        <li><a href="/about/">About this site</a></li>
+        <li><a href="/for-communities/">For senior living communities</a></li>
+        <li><a href="/news/">News</a></li>
+      </ul>
+    </div>
+    <p class="fine">
+      Senior Living Community is an independent information resource for families. We are not a referral
+      service and do not provide medical, legal, or financial advice — for decisions about care,
+      consult the professionals involved. Facility details change; always confirm directly with a
+      community. Last data review: 2026-07-11.
+      Run a senior living community? <a href="/for-communities/">Claim your free listing</a> or
+      see our <a href="/marketing/">marketing services for communities</a>.
+    </p>
+  </div>
+</footer>
+
+
+</body>
+</html>

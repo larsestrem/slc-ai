@@ -23,6 +23,7 @@ organization_name: "Prestige Care"
 sources: ["https://www.seniorcareauthority.com/assisted-living/prestige-assisted-living-at-manteca-in-manteca-california.html", "https://www.senior-living-directory.com/california/manteca/assisted-living-facility/prestige-assisted-living-at-manteca"]
 verified_date: "2026-07-12"
 review_note: "4.6/5 (4.57) across 14 ratings on Senior Care Authority (July 2026)"
+quality_tier: "unrated"
 description_full: "Assisted living community with a dedicated memory care unit on Empire Avenue in Manteca, operated by Pacific Northwest-based Prestige Care. Residents and families praise the amenities, memory care programming and activity offerings."
 review_links: [{"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/prestige-assisted-living-at-manteca-in-manteca-california.html"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

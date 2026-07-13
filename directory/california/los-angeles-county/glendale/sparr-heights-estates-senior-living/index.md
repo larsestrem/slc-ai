@@ -5,7 +5,7 @@ title: "Sparr Heights Estates Senior Living"
 seo_title: "Sparr Heights Estates Senior Living — Senior Living in Glendale, CA"
 description: "Assisted living and memory care community on Honolulu Avenue in the Montrose/Sparr Heights neighborhood of Glendale, operated by Sinceri Senior Living. Servic"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sparr Heights Estates Senior Living", "url": "/directory/california/los-angeles-county/glendale/sparr-heights-estates-senior-living/"}]
-nearby: [{"name": "Scholl Canyon Estates", "url": "/directory/california/los-angeles-county/glendale/scholl-canyon-estates/", "city_name": "Glendale", "state_abbrev": "CA", "care_levels": ["independent-living"], "facility_size": "large", "description": "Independent living retirement community in the hills of east Glendale, established in 2000 and operated under the Gracious Retirement Living brand. Monthly rent includes three chef-prepared meals daily, weekly housekeeping, transportation, and a busy events calendar with live music, dances, and exercise classes. Live-in managers are on site around the clock."}]
+nearby: [{"name": "Scholl Canyon Estates", "url": "/directory/california/los-angeles-county/glendale/scholl-canyon-estates/", "city_name": "Glendale", "state_abbrev": "CA", "care_levels": ["independent-living"], "quality_tier": "unrated", "facility_size": "large", "description": "Independent living retirement community in the hills of east Glendale, established in 2000 and operated under the Gracious Retirement Living brand. Monthly rent includes three chef-prepared meals daily, weekly housekeeping, transportation, and a busy events calendar with live music, dances, and exercise classes. Live-in managers are on site around the clock."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"
@@ -23,6 +23,7 @@ organization_name: "Sinceri Senior Living"
 sources: ["https://www.aplaceformom.com/community/sparr-heights-estates-senior-living-54524", "https://sinceriseniorliving.com/sparr-heights-estates/", "https://www.assistedliving.org/california/glendale/sparr-heights-estates-senior-living/"]
 verified_date: "2026-07-12"
 review_note: "4.2/5 average overall experience across 49 reviews on A Place for Mom (July 2026)"
+quality_tier: "unrated"
 description_full: "Assisted living and memory care community on Honolulu Avenue in the Montrose/Sparr Heights neighborhood of Glendale, operated by Sinceri Senior Living. Services include 24-hour supervision, medication management, and specialized memory care programming, with assisted living base rents starting around $4,300 per month."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sparr-heights-estates-senior-living-54524"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

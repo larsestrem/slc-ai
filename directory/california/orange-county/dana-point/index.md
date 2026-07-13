@@ -9,6 +9,6 @@ county_name: "Orange"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "Sea Bluffs", "url": "/directory/california/orange-county/dana-point/sea-bluffs/", "city_name": "Dana Point", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Sea Bluffs, formerly The Fountains at Sea Bluffs by Watermark, is a senior living community on a coastal bluff in Dana Point offering independent living, assisted living, and memory care. Families praise the beautifully maintained oceanside campus and dedicated memory care staff."}]
+facilities: [{"name": "Sea Bluffs", "url": "/directory/california/orange-county/dana-point/sea-bluffs/", "city_name": "Dana Point", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Sea Bluffs, formerly The Fountains at Sea Bluffs by Watermark, is a senior living community on a coastal bluff in Dana Point offering independent living, assisted living, and memory care. Families praise the beautifully maintained oceanside campus and dedicated memory care staff."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Orange County", "url": "/directory/california/orange-county/"}, {"name": "Dana Point", "url": "/directory/california/orange-county/dana-point/"}]
 ---

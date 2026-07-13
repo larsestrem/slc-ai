@@ -30,6 +30,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -124,6 +126,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -199,6 +207,8 @@ tbody tr:hover { background: var(--soft); }
 .rating-glance .glance-row p { margin: 0; font-size: .92rem; }
 .rating-glance .muted { color: var(--muted); font-size: .82rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
+.rating-glance .glance-flag { flex-direction: column; align-items: flex-start; gap: .3rem; }
+.rating-glance .glance-flag p { color: var(--muted); }
 
 /* Below-stars review caveats */
 .review-caveats { margin: .7rem 0 0; }
@@ -219,6 +229,10 @@ tbody tr:hover { background: var(--soft); }
   .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
   .rating-badge { text-align: left; flex-basis: auto; }
 }
+
+/* Tier-differentiated footer notices */
+.tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
+.tier-notice-danger a { color: var(--accent); }
 </style>
   
 </head>
@@ -306,6 +320,12 @@ tbody tr:hover { background: var(--soft); }
     <aside>
       <section class="panel rating-glance" aria-labelledby="glance-h">
   <h2 id="glance-h">Rating at a glance</h2>
+  <div class="glance-row glance-flag">
+    <span class="tier-badge tier-below_standard">Below our recommended bar</span>
+    <p><span class="muted">This is below the bar we generally recommend. We still list it, with
+    its real rating, because it may be the best or only nearby option for some families — see
+    what the rating actually reflects below.</span></p>
+  </div>
   <div class="glance-row">
     <span class="stars" role="img" aria-label="4.1 out of 5 stars">★★★★<span class="off">★</span></span>
 
@@ -381,9 +401,14 @@ tbody tr:hover { background: var(--soft); }
 
     </div>
   </div>
-  <p class="count">We list communities that meet a verified family-review standard or hold a
-  government rating of three stars or better — and we always show the rating with its source and
-  date rather than hide it. <a href="/guides/reading-inspection-reports-and-ratings/">How facilities are rated &rarr;</a></p>
+  <p class="count"><strong>Below our recommended bar — here's why it's still here.</strong> A lower
+  rating doesn't automatically mean no family should choose it, especially if it's the closest or
+  only realistic option, and frequent visits are possible — presence and attention from family can
+  meaningfully improve a resident's day-to-day care. See our note on
+  <a href="/guides/how-to-choose-a-senior-care-facility/#step-3-build-a-shortlist">weighing distance against rating</a>.
+  Read the record above closely, ask the community directly about what you find, and compare it
+  against nearby alternatives before deciding.
+  <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
 </section>
 
   <section aria-labelledby="nearby-h">

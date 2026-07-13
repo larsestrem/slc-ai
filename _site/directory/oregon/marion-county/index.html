@@ -30,6 +30,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -124,6 +126,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -229,7 +237,8 @@ tbody tr:hover { background: var(--soft); }
 <a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
 (from inspections and staffing); elsewhere, ★ is a
 <a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-Each community's page shows the rating with its source, count, and date.</p>
+We list every community we can verify, not just the highest-rated —
+<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
 
 <section aria-labelledby="c-keizer">
   <h2 id="c-keizer"><a href="/directory/oregon/marion-county/keizer/">Keizer, OR</a></h2>
@@ -267,6 +276,49 @@ Each community's page shows the rating with its source, count, and date.</p>
   <h2 id="c-salem"><a href="/directory/oregon/marion-county/salem/">Salem, OR</a></h2>
   <ul class="grid">
     <li class="card">
+  <h3><a href="/directory/oregon/marion-county/salem/felicity-haven-adult-foster-home/">Felicity Haven Adult Foster Home</a></h3>
+  <p class="meta">Salem, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Felicity Haven Adult Foster Home is a licensed adult foster home in a residential neighborhood of South Salem, within five miles of shopp...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/oregon/marion-county/salem/golden-nest-adult-foster-home/">Golden Nest Adult Foster Home</a></h3>
+  <p class="meta">Salem, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+</ul>
+<p class="desc">Golden Nest Adult Foster Home is a Class 2 adult foster home in northeast Salem providing 24-hour residential care in a family home setti...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/oregon/marion-county/salem/salem-transitional-care/">Salem Transitional Care</a></h3>
+  <p class="meta">Salem, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Salem Transitional Care is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Salem focused on post-acute r...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/oregon/marion-county/salem/skyline-manor-care-home/">Skyline Manor Care Home</a></h3>
+  <p class="meta">Salem, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Skyline Manor Care Home is a licensed care home in south Salem serving only five residents, including those with Alzheimer's and other fo...</p>
+</li>
+
+    <li class="card">
   <h3><a href="/directory/oregon/marion-county/salem/battle-creek-memory-care/">Battle Creek Memory Care</a></h3>
   <p class="meta">Salem, OR</p>
   
@@ -300,27 +352,6 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
     <li class="card">
-  <h3><a href="/directory/oregon/marion-county/salem/felicity-haven-adult-foster-home/">Felicity Haven Adult Foster Home</a></h3>
-  <p class="meta">Salem, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Felicity Haven Adult Foster Home is a licensed adult foster home in a residential neighborhood of South Salem, within five miles of shopp...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/oregon/marion-county/salem/golden-nest-adult-foster-home/">Golden Nest Adult Foster Home</a></h3>
-  <p class="meta">Salem, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-</ul>
-<p class="desc">Golden Nest Adult Foster Home is a Class 2 adult foster home in northeast Salem providing 24-hour residential care in a family home setti...</p>
-</li>
-
-    <li class="card">
   <h3><a href="/directory/oregon/marion-county/salem/redwood-heights-by-cogir/">Redwood Heights by Cogir</a></h3>
   <p class="meta">Salem, OR</p>
   
@@ -329,28 +360,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 <p class="desc">Retirement and assisted living community in southeast Salem, operated by Cogir Senior Living. Reviews consistently praise the warm, atten...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/oregon/marion-county/salem/salem-transitional-care/">Salem Transitional Care</a></h3>
-  <p class="meta">Salem, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Salem Transitional Care is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Salem focused on post-acute r...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/oregon/marion-county/salem/skyline-manor-care-home/">Skyline Manor Care Home</a></h3>
-  <p class="meta">Salem, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Skyline Manor Care Home is a licensed care home in south Salem serving only five residents, including those with Alzheimer's and other fo...</p>
 </li>
 
     <li class="card">

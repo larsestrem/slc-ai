@@ -30,6 +30,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -124,6 +126,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -373,7 +381,8 @@ tbody tr:hover { background: var(--soft); }
 <a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
 (from inspections and staffing); elsewhere, ★ is a
 <a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-Each community's page shows the rating with its source, count, and date.</p>
+We list every community we can verify, not just the highest-rated —
+<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
 
     <section aria-labelledby="c-alameda">
       <h2 id="c-alameda">Alameda, CA <span class="count">· Alameda County</span></h2>
@@ -681,18 +690,6 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-oakland">Oakland, CA <span class="count">· Alameda County</span></h2>
       <ul class="grid">
         <li class="card" data-city="oakland">
-  <h3><a href="/directory/california/alameda-county/oakland/merrill-gardens-at-rockridge/">Merrill Gardens at Rockridge</a></h3>
-  <p class="meta">Oakland, CA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Newer senior living community in Oakland's Rockridge neighborhood offering independent living, assisted living, and memory care, with arc...</p>
-</li>
-
-        <li class="card" data-city="oakland">
   <h3><a href="/directory/california/alameda-county/oakland/st-pauls-towers/">St. Paul's Towers</a></h3>
   <p class="meta">Oakland, CA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
  <span class="rate-src">Medicare</span></p>
@@ -706,24 +703,23 @@ Each community's page shows the rating with its source, count, and date.</p>
 <p class="desc">A high-rise life plan community overlooking Lake Merritt in Oakland, operated by nonprofit Front Porch. Offers independent living, assist...</p>
 </li>
 
+        <li class="card" data-city="oakland">
+  <h3><a href="/directory/california/alameda-county/oakland/merrill-gardens-at-rockridge/">Merrill Gardens at Rockridge</a></h3>
+  <p class="meta">Oakland, CA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Newer senior living community in Oakland's Rockridge neighborhood offering independent living, assisted living, and memory care, with arc...</p>
+</li>
+
       </ul>
     </section>
     <section aria-labelledby="c-palo-alto">
       <h2 id="c-palo-alto">Palo Alto, CA <span class="count">· Santa Clara County</span></h2>
       <ul class="grid">
-        <li class="card" data-city="palo-alto">
-  <h3><a href="/directory/california/santa-clara-county/palo-alto/channing-house/">Channing House</a></h3>
-  <p class="meta">Palo Alto, CA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-</ul>
-<p class="desc">A nonprofit continuing care retirement community in a high-rise in downtown Palo Alto, a short walk from University Avenue shops. Residen...</p>
-</li>
-
         <li class="card" data-city="palo-alto">
   <h3><a href="/directory/california/santa-clara-county/palo-alto/vi-at-palo-alto/">Vi at Palo Alto</a></h3>
   <p class="meta">Palo Alto, CA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
@@ -737,6 +733,19 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Life Plan (continuing care) community on 23 acres of Stanford land on Sand Hill Road, offering independent living, assisted living, memor...</p>
+</li>
+
+        <li class="card" data-city="palo-alto">
+  <h3><a href="/directory/california/santa-clara-county/palo-alto/channing-house/">Channing House</a></h3>
+  <p class="meta">Palo Alto, CA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+</ul>
+<p class="desc">A nonprofit continuing care retirement community in a high-rise in downtown Palo Alto, a short walk from University Avenue shops. Residen...</p>
 </li>
 
       </ul>

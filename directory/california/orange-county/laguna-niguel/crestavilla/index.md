@@ -25,6 +25,7 @@ sources: ["https://www.yelp.com/biz/crestavilla-laguna-niguel-3", "https://www.a
 verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "5.0/5 across 11 reviews on Yelp and 5.0 rating on SeniorAdvisor (July 2026); 42 reviews on A Place for Mom"
+quality_tier: "unrated"
 description_full: "Crestavilla is a luxury Kisco Signature senior living community in Laguna Niguel offering independent living, assisted living and memory care in a 250-bed campus near Crown Valley Parkway. U.S. News has rated it a Best Senior Living community for assisted living and memory care, and reviewers praise the staff, rooftop dining and resort-level amenities."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/crestavilla-laguna-niguel-3"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/crestavilla-1401381"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/crestavilla-laguna-niguel-ca"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/crestavilla-26766"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

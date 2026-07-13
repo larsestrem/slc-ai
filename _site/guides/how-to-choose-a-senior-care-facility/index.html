@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -255,6 +263,20 @@ tbody tr:hover { background: var(--soft); }
 
 <p>Aim for four to six facilities to research seriously, and three to tour.</p>
 
+<p><strong>Weigh distance against rating — don’t just chase the highest star.</strong> If your finalists are
+close in quality, the closer facility is often the better real-world choice, and not just for
+your convenience. Distance changes what kind of family your parent has. A community you can
+reach in ten minutes gets a Tuesday lunch, a last-minute worry, an unannounced stop at dinner
+time. A “better” community ninety minutes away gets you every other Saturday. Frequent,
+informal visits are one of the strongest protections a resident has: you notice small changes
+before they become emergencies, staff learn your face and know your parent is watched, and a
+community with a habit of families dropping in unannounced tends to hold itself to a higher
+standard day to day than one that mostly sees people on move-in day and holidays. So, all else
+being roughly equal — clean inspection record, no serious red flags — a 4-star facility ten
+minutes away can be the more protective choice over a 5-star facility across town. This isn’t a
+reason to accept real problems for convenience; it’s a reason not to let a half-star difference
+override the value of showing up often.</p>
+
 <h2 id="step-4-check-the-paper-trail-before-you-visit">Step 4: Check the paper trail before you visit</h2>
 
 <p>Every facility markets itself well. Public records tell you how it actually operates.</p>
@@ -299,6 +321,26 @@ tbody tr:hover { background: var(--soft); }
 </ul>
 
 <p>Expect an adjustment period of one to three months, with some tearful phone calls. Most residents settle in; if things haven’t improved by month three, talk to the administrator and the ombudsman.</p>
+
+<h2 id="a-good-decision-doesnt-guarantee-a-good-outcome">A good decision doesn’t guarantee a good outcome</h2>
+
+<p>Here’s something worth saying plainly: you can do every step in this guide carefully — check
+the records, tour more than once, ask the hard questions, involve your parent — and still run
+into real problems. A community can change after a new owner takes over. A beloved caregiver can
+leave and take a piece of the culture with them. And sometimes, even at a genuinely good
+community, your specific parent turns out not to be a good fit — the pace is wrong for them, a
+roommate relationship sours, their needs outgrow what the setting handles well. None of that
+means you chose badly. It means you made the best decision available with the information you
+had, in a situation that has no guarantees — which is the honest truth of this whole process,
+not a failure on your part.</p>
+
+<p>If problems do show up after move-in, that’s not the end of the story — it’s the start of the
+next one. Our guide to <a href="/guides/advocating-after-move-in/">advocating for your parent after the move</a>
+walks through how to raise concerns so they actually get fixed, and our
+<a href="/guides/warning-signs-when-choosing-a-facility/">warning signs guide</a> can help you tell an
+adjustment hiccup from a real problem. And if it turns out the fit is wrong, a second move,
+while hard, is possible and sometimes the right call — you’re not locked into the first choice
+forever.</p>
 
 <h2 id="common-questions">Common questions</h2>
 

@@ -21,6 +21,7 @@ sources: ["https://reviews.birdeye.com/savanna-house-assisted-living-memory-care
 verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.8/5 across 175 reviews on Birdeye (July 2026)"
+quality_tier: "unrated"
 description_full: "Savanna House is an assisted living and memory care community in Gilbert built around an expansive central courtyard. Amenities include a movie theater, ice cream parlor, putting green, two salons, and on-site physical, occupational, and speech therapy, and it is one of the highest-rated communities in the East Valley."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/savanna-house-assisted-living-memory-care-157255417251611"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/savanna-house-1393853"}]
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}

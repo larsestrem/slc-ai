@@ -8,6 +8,21 @@ state-license basis for small homes.
 <section class="panel rating-glance" aria-labelledby="glance-h">
   <h2 id="glance-h">Rating at a glance</h2>
 
+  {%- if page.quality_tier == "serious_concerns" %}
+  <div class="glance-row glance-flag">
+    {% include tier-badge.html tier=page.quality_tier %}
+    <p><span class="muted">This community has a serious flag on its official record — read the
+    details below and the source before considering it further.</span></p>
+  </div>
+  {%- elsif page.quality_tier == "below_standard" %}
+  <div class="glance-row glance-flag">
+    {% include tier-badge.html tier=page.quality_tier %}
+    <p><span class="muted">This is below the bar we generally recommend. We still list it, with
+    its real rating, because it may be the best or only nearby option for some families — see
+    what the rating actually reflects below.</span></p>
+  </div>
+  {%- endif %}
+
   {%- if page.cms_rating_overall %}
   <div class="glance-row">
     {% include stars.html rating=page.cms_rating_overall %}

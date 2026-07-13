@@ -25,5 +25,6 @@ cms_ccn: "125003"
 cms_rating_overall: 4
 sources: ["https://www.mauihealth.org/kula-hospital/", "https://assistedlivingmagazine.com/nursing-home/kula-hospital/", "https://www.mauihealth.org/news/releases/kula-hospital-best-nursing-home-award-2024/", "https://www.healthcare4ppl.com/nursing-home/hawaii/kula/kula-hospital-125003.html"]
 verified_date: "2026-07-12"
+quality_tier: "meets_standard"
 description_full: "A hospital-based skilled nursing and intermediate care facility in upcountry Kula on Maui, operated by Maui Health, with 105 long-term care beds. CMS rates it 4 stars overall with 5-star staffing and 5-star quality measures, and U.S. News has repeatedly named it among the nation's Best Nursing Homes with a High Performing rating."
 ---

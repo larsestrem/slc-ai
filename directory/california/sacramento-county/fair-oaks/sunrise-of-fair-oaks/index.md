@@ -22,6 +22,7 @@ organization_name: "Sunrise Senior Living"
 sources: ["https://www.aplaceformom.com/community/sunrise-of-fair-oaks-ca-95893", "https://www.sunriseseniorliving.com/communities/ca/sunrise-of-fair-oaks", "https://www.caring.com/senior-living/california/fair-oaks/sunrise-of-fair-oaks-ca-95628"]
 verified_date: "2026-07-12"
 review_note: "4.6/5 average across 52 reviews on A Place for Mom (July 2026)"
+quality_tier: "unrated"
 description_full: "An assisted living and memory care community on Hazel Avenue in Fair Oaks, part of the national Sunrise Senior Living network. Reviews skew strongly positive, emphasizing compassionate, well-trained caregivers and a home-like atmosphere. Recognized by U.S. News for Best Assisted Living and Best Memory Care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunrise-of-fair-oaks-ca-95893"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/fair-oaks/sunrise-of-fair-oaks-ca-95628"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

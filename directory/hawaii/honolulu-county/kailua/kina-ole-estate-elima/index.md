@@ -22,6 +22,7 @@ sources: ["https://www.caring.com/senior-living/hawaii/kailua/kina-ole-estate-el
 verified_date: "2026-07-13"
 review_note: "5.0/5 across 2 reviews on A Place for Mom / Caring.com; part of a group rated 9.6/10 and highest in the city (July 2026)"
 quality_basis: "Small Kailua care home (up to 8 residents) in the well-regarded Kina 'Ole Estate group, with documented positive reviews: 5.0/5 across 2 reviews as of July 2026."
+quality_tier: "meets_standard"
 description_full: "Kina 'Ole Estate Elima is the Kailua location of the Kina 'Ole Estate family of small care homes, housing up to eight residents with private rooms and 24-hour supervision. Reviewers single out the staff's thoughtfulness and attention to resident safety and well-being."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/kailua/kina-ole-estate-elima"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/kailua/kina-ole-estate-elima"}]
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}

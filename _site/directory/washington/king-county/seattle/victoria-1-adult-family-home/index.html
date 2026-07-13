@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -198,6 +206,8 @@ tbody tr:hover { background: var(--soft); }
 .rating-glance .glance-row p { margin: 0; font-size: .92rem; }
 .rating-glance .muted { color: var(--muted); font-size: .82rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
+.rating-glance .glance-flag { flex-direction: column; align-items: flex-start; gap: .3rem; }
+.rating-glance .glance-flag p { color: var(--muted); }
 
 /* Below-stars review caveats */
 .review-caveats { margin: .7rem 0 0; }
@@ -218,6 +228,10 @@ tbody tr:hover { background: var(--soft); }
   .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
   .rating-badge { text-align: left; flex-basis: auto; }
 }
+
+/* Tier-differentiated footer notices */
+.tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
+.tier-notice-danger a { color: var(--accent); }
 </style>
   
 </head>
@@ -386,48 +400,13 @@ tbody tr:hover { background: var(--soft); }
   <p class="count">Small care homes are held to a standard built for their size: a current state
   license in good standing with a clean recent inspection record, plus real evidence of good care
   — strong reviews even at low volume, a state specialty endorsement, or years of stable
-  operation. We don't demand the review volume only a big building can generate, and we never list
-  a home with a revoked or restricted license or a substantiated harm finding.
+  operation. We don't demand the review volume only a big building can generate.
   <a href="/guides/adult-family-homes/#how-we-list-small-homes">How we choose small homes &rarr;</a></p>
 </section>
 
   <section aria-labelledby="nearby-h">
     <h2 id="nearby-h">Other communities in Seattle</h2>
     <ul class="grid">
-      <li class="card">
-  <h3><a href="/directory/washington/king-county/seattle/aegis-living-queen-anne-rodgers-park/">Aegis Living Queen Anne Rodgers Park</a></h3>
-  <p class="meta">Seattle, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Aegis Living Queen Anne Rodgers Park is an assisted living and memory care community on Queen Anne Hill in Seattle, across from Rodgers P...</p>
-</li>
-
-      <li class="card">
-  <h3><a href="/directory/washington/king-county/seattle/university-house-wallingford/">University House Wallingford</a></h3>
-  <p class="meta">Seattle, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">University House Wallingford is an Era Living retirement community in Seattle's Wallingford neighborhood, opened in 1997, with 146 one- a...</p>
-</li>
-
-      <li class="card">
-  <h3><a href="/directory/washington/king-county/seattle/merrill-gardens-at-ballard/">Merrill Gardens at Ballard</a></h3>
-  <p class="meta">Seattle, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Merrill Gardens at Ballard is a senior living community in the heart of Seattle's Ballard neighborhood offering independent living, assis...</p>
-</li>
-
       <li class="card">
   <h3><a href="/directory/washington/king-county/seattle/caroline-kline-galland-home/">Caroline Kline Galland Home</a></h3>
   <p class="meta">Seattle, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
@@ -451,6 +430,29 @@ tbody tr:hover { background: var(--soft); }
 </li>
 
       <li class="card">
+  <h3><a href="/directory/washington/king-county/seattle/aegis-living-queen-anne-rodgers-park/">Aegis Living Queen Anne Rodgers Park</a></h3>
+  <p class="meta">Seattle, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Aegis Living Queen Anne Rodgers Park is an assisted living and memory care community on Queen Anne Hill in Seattle, across from Rodgers P...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/washington/king-county/seattle/merrill-gardens-at-ballard/">Merrill Gardens at Ballard</a></h3>
+  <p class="meta">Seattle, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Merrill Gardens at Ballard is a senior living community in the heart of Seattle's Ballard neighborhood offering independent living, assis...</p>
+</li>
+
+      <li class="card">
   <h3><a href="/directory/washington/king-county/seattle/quail-park-of-west-seattle/">Quail Park of West Seattle</a></h3>
   <p class="meta">Seattle, WA</p>
   
@@ -459,6 +461,17 @@ tbody tr:hover { background: var(--soft); }
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Quail Park of West Seattle opened in 2019 in the West Seattle Junction area and offers enhanced assisted living alongside its Tribute mem...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/washington/king-county/seattle/university-house-wallingford/">University House Wallingford</a></h3>
+  <p class="meta">Seattle, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">University House Wallingford is an Era Living retirement community in Seattle's Wallingford neighborhood, opened in 1997, with 146 one- a...</p>
 </li>
 
     </ul>

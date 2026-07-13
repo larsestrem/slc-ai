@@ -21,6 +21,7 @@ verified_date: "2026-07-12"
 google_rating: 4.4
 google_review_count: 30
 rating_as_of: "2026-07-12"
+quality_tier: "meets_standard"
 description_full: "Wildwood Canyon Villa is an assisted living and memory care community in the heart of Yucaipa. Reviews consistently note low staff turnover, attentive and empathetic caregivers, and an engaging activity program."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/wildwood-canyon-villa-99857"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

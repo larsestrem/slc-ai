@@ -22,6 +22,7 @@ sources: ["https://www.aplaceformom.com/community/grace-pointe-150813", "https:/
 verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.2/5 overall across 11 reviews on A Place for Mom (July 2026)"
+quality_tier: "unrated"
 description_full: "Grace Pointe is a Greeley family-owned continuing care campus offering independent living, assisted living, memory care, skilled nursing, and rehabilitation in one location. Its skilled nursing operation earned 5 out of 5 stars in the most recent Medicare report cited by review platforms, and families praise the caring staff and campus amenities."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/grace-pointe-150813"}, {"name": "Seniorly", "url": "https://www.seniorly.com/continuing-care-retirement-community/colorado/greeley/grace-pointe-senior-care-community"}]
 licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}

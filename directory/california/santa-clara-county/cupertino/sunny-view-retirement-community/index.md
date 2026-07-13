@@ -25,6 +25,7 @@ cms_ccn: "555342"
 cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/ca/sunny-view-manor-555342", "https://carelistings.com/skilled-nursing-facilities/cupertino-ca/sunny-view-manor/5ace892f93efd2372f9940c1", "https://frontporch.net/community/sunny-view/"]
 verified_date: "2026-07-12"
+quality_tier: "meets_standard"
 description_full: "Continuing care retirement community in Cupertino operated by nonprofit Front Porch, offering independent living, assisted living, and on-campus skilled nursing. Its 48-bed skilled nursing facility, Sunny View Manor, holds a 5-star overall CMS rating, placing it in the top tier of facilities nationally, with High Performing marks for both short-term rehabilitation and long-term care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/sunny-view-manor-555342"}, {"name": "CareListings", "url": "https://carelistings.com/skilled-nursing-facilities/cupertino-ca/sunny-view-manor/5ace892f93efd2372f9940c1"}]
 ---

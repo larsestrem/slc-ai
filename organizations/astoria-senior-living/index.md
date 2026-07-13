@@ -7,6 +7,6 @@ org_description: "An operator of assisted living and memory care communities in 
 headquarters: "California"
 website: "https://astoriaseniorliving.com/"
 org_states: ["CA"]
-facilities: [{"name": "Astoria Senior Living – Oakdale", "url": "/directory/california/stanislaus-county/oakdale/astoria-senior-living-oakdale/", "city_name": "Oakdale", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "medium", "description": "A single-story assisted living and memory care community in Oakdale with cozy lounges, an enclosed courtyard, and a resident chef. Recognized in U.S. News & World Report's 2026 Best Assisted Living."}]
+facilities: [{"name": "Astoria Senior Living – Oakdale", "url": "/directory/california/stanislaus-county/oakdale/astoria-senior-living-oakdale/", "city_name": "Oakdale", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "medium", "description": "A single-story assisted living and memory care community in Oakdale with cozy lounges, an enclosed courtyard, and a resident chef. Recognized in U.S. News & World Report's 2026 Best Assisted Living."}]
 crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Astoria Senior Living", "url": "/organizations/astoria-senior-living/"}]
 ---

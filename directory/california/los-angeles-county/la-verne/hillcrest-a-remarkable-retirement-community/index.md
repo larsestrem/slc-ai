@@ -21,6 +21,7 @@ sources: ["https://reviews.birdeye.com/hillcrest-a-remarkable-retirement-communi
 verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.3/5 across 72 reviews on Birdeye (July 2026)"
+quality_tier: "unrated"
 description_full: "Hillcrest (Brethren Hillcrest Homes) is a not-for-profit continuing care retirement community in La Verne with Craftsman-inspired architecture on a large foothill campus. Residents have access to a fitness center, aquatic center, and library, with independent living through skilled nursing all on site."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/hillcrest-a-remarkable-retirement-community-157255147753502"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/hillcrest-la-verne-4"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

@@ -7,6 +7,6 @@ org_description: "A California nonprofit, faith-based provider of assisted livin
 headquarters: "Alameda, California"
 website: "https://eldercarealliance.org/"
 org_states: ["CA"]
-facilities: [{"name": "AlmaVia of Camarillo", "url": "/directory/california/ventura-county/camarillo/almavia-of-camarillo/", "city_name": "Camarillo", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "description": "A nonprofit, faith-based assisted living and memory care community in Camarillo, part of the Elder Care Alliance network. Reviewers highlight compassionate, professional staff, clean facilities, and engaging activities."}]
+facilities: [{"name": "AlmaVia of Camarillo", "url": "/directory/california/ventura-county/camarillo/almavia-of-camarillo/", "city_name": "Camarillo", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "large", "description": "A nonprofit, faith-based assisted living and memory care community in Camarillo, part of the Elder Care Alliance network. Reviewers highlight compassionate, professional staff, clean facilities, and engaging activities."}]
 crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Elder Care Alliance", "url": "/organizations/elder-care-alliance/"}]
 ---

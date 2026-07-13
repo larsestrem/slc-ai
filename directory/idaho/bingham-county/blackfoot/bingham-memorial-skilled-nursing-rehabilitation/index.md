@@ -22,6 +22,7 @@ cms_ccn: "135007"
 cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/bingham-memorial-skilled-nursing-rehabilitation-135007", "https://www.medicare.gov/care-compare/details/nursing-home/135007"]
 verified_date: "2026-07-13"
+quality_tier: "meets_standard"
 description_full: "A 70-bed hospital-based skilled nursing and rehabilitation center attached to Bingham Memorial Hospital in Blackfoot. Nonprofit-affiliated, it holds a CMS overall rating of 5 stars and a High Performing short-term rehabilitation rating. Its on-campus hospital gives residents ready access to acute care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/bingham-memorial-skilled-nursing-rehabilitation-135007"}]
 ---

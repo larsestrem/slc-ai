@@ -24,6 +24,7 @@ organization_name: "Oakmont Management Group"
 sources: ["https://www.aplaceformom.com/community/oakmont-of-orange-1407631", "https://www.yelp.com/biz/oakmont-of-orange-orange", "https://oakmontseniorliving.com/orange/contact/"]
 verified_date: "2026-07-12"
 review_note: "4.8/5 across 79 reviews on A Place for Mom (July 2026)"
+quality_tier: "unrated"
 description_full: "Luxury assisted living and memory care community on The City Drive in Orange, close to UCI Medical Center and the Outlets at Orange. One of the highest consumer-rated large communities in central Orange County, with an A Place for Mom review score of 9.8/10 over the last two years. Offers restaurant-style dining and a full amenity package typical of the Oakmont portfolio."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-orange-1407631"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-orange-orange"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

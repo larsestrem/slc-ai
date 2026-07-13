@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -198,6 +206,8 @@ tbody tr:hover { background: var(--soft); }
 .rating-glance .glance-row p { margin: 0; font-size: .92rem; }
 .rating-glance .muted { color: var(--muted); font-size: .82rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
+.rating-glance .glance-flag { flex-direction: column; align-items: flex-start; gap: .3rem; }
+.rating-glance .glance-flag p { color: var(--muted); }
 
 /* Below-stars review caveats */
 .review-caveats { margin: .7rem 0 0; }
@@ -218,6 +228,10 @@ tbody tr:hover { background: var(--soft); }
   .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
   .rating-badge { text-align: left; flex-basis: auto; }
 }
+
+/* Tier-differentiated footer notices */
+.tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
+.tier-notice-danger a { color: var(--accent); }
 </style>
   
 </head>
@@ -385,14 +399,36 @@ tbody tr:hover { background: var(--soft); }
 
     </div>
   </div>
-  <p class="count">We list communities that meet a verified family-review standard or hold a
-  government rating of three stars or better — and we always show the rating with its source and
-  date rather than hide it. <a href="/guides/reading-inspection-reports-and-ratings/">How facilities are rated &rarr;</a></p>
+  <p class="count">This community meets the standard we generally recommend — a verified
+  family-review record or a government rating of three stars or better. We list every community we
+  can verify, not just the highest-rated ones, and label each one by tier instead of hiding the
+  rest. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
 </section>
 
   <section aria-labelledby="nearby-h">
     <h2 id="nearby-h">Other communities in Eugene</h2>
     <ul class="grid">
+      <li class="card">
+  <h3><a href="/directory/oregon/lane-county/eugene/angels-aisle-adult-foster/">Angels Aisle Adult Foster</a></h3>
+  <p class="meta">Eugene, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+</ul>
+<p class="desc">Angels Aisle Adult Foster is a small Oregon-licensed adult foster home in Eugene serving up to five residents in a single-family setting....</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/oregon/lane-county/eugene/pine-tree-care-afh/">Pine Tree Care - AFH</a></h3>
+  <p class="meta">Eugene, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Pine Tree Care is an adult foster home in Eugene offering foster care in a home setting with a garden area and comfortable private rooms....</p>
+</li>
+
       <li class="card">
   <h3><a href="/directory/oregon/lane-county/eugene/avamere-rehabilitation-of-eugene/">Avamere Rehabilitation of Eugene</a></h3>
   <p class="meta">Eugene, OR</p>
@@ -417,38 +453,6 @@ tbody tr:hover { background: var(--soft); }
 </li>
 
       <li class="card">
-  <h3><a href="/directory/oregon/lane-county/eugene/merrill-gardens-at-sheldon-park/">Merrill Gardens at Sheldon Park</a></h3>
-  <p class="meta">Eugene, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Assisted living and memory care community in northeast Eugene's Willakenzie area, operated by Seattle-based Merrill Gardens. Offers resta...</p>
-</li>
-
-      <li class="card">
-  <h3><a href="/directory/oregon/lane-county/eugene/trustwell-living-at-river-run-place/">Trustwell Living at River Run Place</a></h3>
-  <p class="meta">Eugene, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">Assisted living and respite care community in Eugene near the Willamette River, operated by Trustwell Living. Reviewers describe the comm...</p>
-</li>
-
-      <li class="card">
-  <h3><a href="/directory/oregon/lane-county/eugene/willamette-oaks/">Willamette Oaks</a></h3>
-  <p class="meta">Eugene, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-</ul>
-<p class="desc">Independent living retirement community on an 11-acre riverfront property beside the Willamette River in Eugene. Its signature LifeMinded...</p>
-</li>
-
-      <li class="card">
   <h3><a href="/directory/oregon/lane-county/eugene/garden-way-retirement-community/">Garden Way Retirement Community</a></h3>
   <p class="meta">Eugene, OR</p>
   
@@ -456,6 +460,16 @@ tbody tr:hover { background: var(--soft); }
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
 </ul>
 <p class="desc">Independent living community for adults 55+ established in 2010, set on landscaped grounds in east Eugene near shopping, dining, and medi...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/oregon/lane-county/eugene/holiday-sheldon-oaks/">Holiday Sheldon Oaks</a></h3>
+  <p class="meta">Eugene, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+</ul>
+<p class="desc">Holiday Sheldon Oaks is an independent living community in Eugene's Sheldon neighborhood, part of the national Holiday by Atria network. ...</p>
 </li>
 
     </ul>

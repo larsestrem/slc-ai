@@ -21,6 +21,7 @@ capacity: 15
 sources: ["https://reviews.birdeye.com/angeline-senior-living-157271060160698", "https://carelistings.com/assisted-living-homes/la-grande-or/angeline-senior-living-llc/5acd025fa71d8c15cf6925e2", "https://www.aplaceformom.com/community/angeline-senior-living-140719"]
 verified_date: "2026-07-11"
 review_note: "4.2/5 across 41 reviews on Birdeye (July 2026)"
+quality_tier: "unrated"
 description_full: "A 15-bed licensed residential care facility in downtown La Grande providing assisted living in a small, home-like setting. Reviewers repeatedly describe loving, caring staff and personalized attention, at a monthly cost below the La Grande average. One of the few multi-review-rated senior care options in Union County."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/angeline-senior-living-157271060160698"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/la-grande-or/angeline-senior-living-llc/5acd025fa71d8c15cf6925e2"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/angeline-senior-living-140719"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}

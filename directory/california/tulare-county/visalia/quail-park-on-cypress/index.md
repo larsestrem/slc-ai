@@ -5,7 +5,7 @@ title: "Quail Park on Cypress"
 seo_title: "Quail Park on Cypress — Senior Living in Visalia, CA"
 description: "Quail Park on Cypress is a senior living campus across from Kaweah Health Medical Center's Cypress campus, offering independent living, assisted living, and m"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Quail Park on Cypress", "url": "/directory/california/tulare-county/visalia/quail-park-on-cypress/"}]
-nearby: [{"name": "Marbella Visalia", "url": "/directory/california/tulare-county/visalia/marbella-visalia/", "city_name": "Visalia", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "medium", "description": "An assisted living and memory care community in Visalia (formerly Prestige Assisted Living at Visalia). Reviewers describe attentive, respectful staff, a variety of activities, and a well-regarded memory care wing."}]
+nearby: [{"name": "Marbella Visalia", "url": "/directory/california/tulare-county/visalia/marbella-visalia/", "city_name": "Visalia", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "medium", "description": "An assisted living and memory care community in Visalia (formerly Prestige Assisted Living at Visalia). Reviewers describe attentive, respectful staff, a variety of activities, and a well-regarded memory care wing."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"
@@ -24,6 +24,7 @@ sources: ["https://www.aplaceformom.com/community/quail-park-on-cypress-96164", 
 verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.6/5 across 22 all-time reviews on A Place for Mom; 4.1/5 across 62 aggregated reviews on Birdeye (July 2026)"
+quality_tier: "unrated"
 description_full: "Quail Park on Cypress is a senior living campus across from Kaweah Health Medical Center's Cypress campus, offering independent living, assisted living, and memory care in studio to two-bedroom residences. Reviewers describe beautiful surroundings and professional, pleasant staff."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/quail-park-on-cypress-96164"}, {"name": "Birdeye", "url": "https://birdeye.com/quail-park-on-cypress-171380378697619"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/visalia/quail-park-on-cypress"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

@@ -21,6 +21,7 @@ facility_size: "large"
 sources: ["https://www.aplaceformom.com/community/sagewood-at-daybreak-1381079", "https://www.assistedlivingcenter.com/facilities/ut/south-jordan/sagewood-at-daybreak-84009/"]
 verified_date: "2026-07-12"
 review_note: "5.0 rating across 44 reviews on AssistedLivingCenter.com; 56 reviews on A Place for Mom (July 2026)"
+quality_tier: "unrated"
 description_full: "Sagewood at Daybreak is a resort-style senior living campus in South Jordan's Daybreak community offering independent living, assisted living, and memory care. Amenities include an indoor pool and full gym, and memory care residents live in the secured Connections neighborhood with its own courtyard. U.S. News rated it a Best Senior Living community across all three care levels."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sagewood-at-daybreak-1381079"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ut/south-jordan/sagewood-at-daybreak-84009/"}]
 licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}

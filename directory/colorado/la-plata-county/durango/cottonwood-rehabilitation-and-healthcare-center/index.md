@@ -24,6 +24,7 @@ cms_ccn: "065411"
 cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/co/cottonwood-inn-rehabilitation-and-extended-care-center-065411", "https://www.cottonwoodrhc.com/news", "https://www.nursinghomes.com/co/durango/cottonwood-inn-rehab-and-extended-care-center/"]
 verified_date: "2026-07-12"
+quality_tier: "meets_standard"
 description_full: "Cottonwood Rehabilitation and Healthcare Center (formerly Cottonwood Inn) is a 40-bed skilled nursing facility in Durango certified for Medicare and Medicaid. It holds 5-star CMS ratings both overall and for quality measures, offers therapy seven days a week, and has been named a U.S. News Best Nursing Home for both short-term rehab and long-term care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/co/cottonwood-inn-rehabilitation-and-extended-care-center-065411"}]
 ---

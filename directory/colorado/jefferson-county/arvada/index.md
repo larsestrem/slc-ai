@@ -9,6 +9,6 @@ county_name: "Jefferson"
 state_name: "Colorado"
 state_abbrev: "CO"
 facility_count: 1
-facilities: [{"name": "MorningStar of Arvada", "url": "/directory/colorado/jefferson-county/arvada/morningstar-of-arvada/", "city_name": "Arvada", "state_abbrev": "CO", "care_levels": ["independent-living", "assisted-living", "memory-care"], "facility_size": "large", "description": "MorningStar of Arvada offers 71 independent living, 41 assisted living, and 29 memory care suites in west Arvada near the foothills. Families frequently praise the warm, attentive staff, the life-enrichment programming, and the quality of the memory care neighborhood."}]
+facilities: [{"name": "MorningStar of Arvada", "url": "/directory/colorado/jefferson-county/arvada/morningstar-of-arvada/", "city_name": "Arvada", "state_abbrev": "CO", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "large", "description": "MorningStar of Arvada offers 71 independent living, 41 assisted living, and 29 memory care suites in west Arvada near the foothills. Families frequently praise the warm, attentive staff, the life-enrichment programming, and the quality of the memory care neighborhood."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Jefferson County", "url": "/directory/colorado/jefferson-county/"}, {"name": "Arvada", "url": "/directory/colorado/jefferson-county/arvada/"}]
 ---

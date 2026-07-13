@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -297,22 +305,12 @@ tbody tr:hover { background: var(--soft); }
 <a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
 (from inspections and staffing); elsewhere, ★ is a
 <a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-Each community's page shows the rating with its source, count, and date.</p>
+We list every community we can verify, not just the highest-rated —
+<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
 
     <section aria-labelledby="c-bend">
       <h2 id="c-bend">Bend, OR <span class="count">· Deschutes County</span></h2>
       <ul class="grid">
-        <li class="card" data-city="bend">
-  <h3><a href="/directory/oregon/deschutes-county/bend/awbrey-place-assisted-living-and-memory-care/">Awbrey Place Assisted Living and Memory Care</a></h3>
-  <p class="meta">Bend, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">A 43-apartment community in Bend across the street from St. Charles Medical Center, with 22 assisted living and 21 memory care apartments...</p>
-</li>
-
         <li class="card" data-city="bend">
   <h3><a href="/directory/oregon/deschutes-county/bend/bend-transitional-care/">Bend Transitional Care</a></h3>
   <p class="meta">Bend, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
@@ -323,6 +321,17 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
 </ul>
 <p class="desc">Bend Transitional Care is a 54-bed skilled nursing and rehabilitation community in the Avamere family, certified by both Medicare and Med...</p>
+</li>
+
+        <li class="card" data-city="bend">
+  <h3><a href="/directory/oregon/deschutes-county/bend/awbrey-place-assisted-living-and-memory-care/">Awbrey Place Assisted Living and Memory Care</a></h3>
+  <p class="meta">Bend, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">A 43-apartment community in Bend across the street from St. Charles Medical Center, with 22 assisted living and 21 memory care apartments...</p>
 </li>
 
         <li class="card" data-city="bend">

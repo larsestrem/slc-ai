@@ -22,6 +22,7 @@ capacity: 45
 sources: ["https://www.aplaceformom.com/community/pomerelle-place-52671", "https://pomerelleplaceseniorliving.com/", "https://www.seniorly.com/assisted-living/idaho/burley/pomerelle-place"]
 verified_date: "2026-07-12"
 review_note: "9/10 A Place for Mom review score; 25 reviews all-time (July 2026)"
+quality_tier: "unrated"
 description_full: "Pomerelle Place is an assisted living community in Burley with 45 studio and one-bedroom apartments, staffed with a full-time nurse and around-the-clock caregivers for medication support and help with daily living. Families describe it as feeling like a home rather than a facility, with praise for the staff, cleanliness, and food."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/pomerelle-place-52671"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/idaho/burley/pomerelle-place"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}

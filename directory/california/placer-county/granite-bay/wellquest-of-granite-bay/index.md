@@ -24,6 +24,7 @@ organization_name: "WellQuest Living"
 sources: ["https://birdeye.com/wellquest-of-granite-bay-175296294625579", "https://www.yelp.com/biz/wellquest-of-granite-bay-granite-bay"]
 verified_date: "2026-07-12"
 review_note: "4.8/5 across 33 reviews on Birdeye (July 2026)"
+quality_tier: "unrated"
 description_full: "Newer assisted living and memory care community on Sierra College Boulevard in Granite Bay. Reviewers highlight the cleanliness, exceptional staff and quality dining, with a wide range of activities keeping residents engaged."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/wellquest-of-granite-bay-175296294625579"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/wellquest-of-granite-bay-granite-bay"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

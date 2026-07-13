@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -198,6 +206,8 @@ tbody tr:hover { background: var(--soft); }
 .rating-glance .glance-row p { margin: 0; font-size: .92rem; }
 .rating-glance .muted { color: var(--muted); font-size: .82rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
+.rating-glance .glance-flag { flex-direction: column; align-items: flex-start; gap: .3rem; }
+.rating-glance .glance-flag p { color: var(--muted); }
 
 /* Below-stars review caveats */
 .review-caveats { margin: .7rem 0 0; }
@@ -218,6 +228,10 @@ tbody tr:hover { background: var(--soft); }
   .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
   .rating-badge { text-align: left; flex-basis: auto; }
 }
+
+/* Tier-differentiated footer notices */
+.tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
+.tier-notice-danger a { color: var(--accent); }
 </style>
   
 </head>
@@ -379,25 +393,15 @@ tbody tr:hover { background: var(--soft); }
 
     </div>
   </div>
-  <p class="count">We list communities that meet a verified family-review standard or hold a
-  government rating of three stars or better — and we always show the rating with its source and
-  date rather than hide it. <a href="/guides/reading-inspection-reports-and-ratings/">How facilities are rated &rarr;</a></p>
+  <p class="count">This community meets the standard we generally recommend — a verified
+  family-review record or a government rating of three stars or better. We list every community we
+  can verify, not just the highest-rated ones, and label each one by tier instead of hiding the
+  rest. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
 </section>
 
   <section aria-labelledby="nearby-h">
     <h2 id="nearby-h">Other communities in Boise</h2>
     <ul class="grid">
-      <li class="card">
-  <h3><a href="/directory/idaho/ada-county/boise/brookdale-boise-parkcenter/">Brookdale Boise Parkcenter</a></h3>
-  <p class="meta">Boise, ID</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Brookdale Boise Parkcenter offers both independent living and assisted living on one campus along the Boise River greenbelt corridor in s...</p>
-</li>
-
       <li class="card">
   <h3><a href="/directory/idaho/ada-county/boise/fox-den-homes-bannock-house/">Fox Den Homes Bannock House</a></h3>
   <p class="meta">Boise, ID · Small home</p>
@@ -410,15 +414,50 @@ tbody tr:hover { background: var(--soft); }
 </li>
 
       <li class="card">
-  <h3><a href="/directory/idaho/ada-county/boise/truewood-by-merrill-boise/">Truewood by Merrill, Boise</a></h3>
-  <p class="meta">Boise, ID</p>
+  <h3><a href="/directory/idaho/ada-county/boise/fox-den-homes-franklin-house/">Fox Den Homes Franklin House</a></h3>
+  <p class="meta">Boise, ID · Small home</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">Truewood by Merrill, Boise offers independent living, assisted living, and memory care in 109 apartments in northwest Boise's residential...</p>
+<p class="desc">Fox Den Homes Franklin House is a small residential care home in Boise specializing in memory care for individuals with Alzheimer's and d...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/idaho/ada-county/boise/fox-den-homes-north-end-house/">Fox Den Homes North End House</a></h3>
+  <p class="meta">Boise, ID · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Fox Den Homes North End House is an 8-bed residential assisted living home in Boise's historic North End, owned and operated by a nurse. ...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/idaho/ada-county/boise/fox-den-homes-at-summerset/">Fox Den Homes at Summerset</a></h3>
+  <p class="meta">Boise, ID · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Fox Den Homes at Summerset is a 9-bed residential assisted living home in Boise owned and operated by a nurse, part of the Fox Den Homes ...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/idaho/ada-county/boise/idaho-state-veterans-home-boise/">Idaho State Veterans Home - Boise</a></h3>
+  <p class="meta">Boise, ID · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">A state-operated skilled nursing home for eligible Idaho veterans and their spouses, run by the Idaho Division of Veterans Services. The ...</p>
 </li>
 
       <li class="card">
@@ -434,29 +473,6 @@ tbody tr:hover { background: var(--soft); }
   <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
 <p class="desc">A nonprofit continuing care retirement community operated by HumanGood, offering residential/independent living, assisted living, memory ...</p>
-</li>
-
-      <li class="card">
-  <h3><a href="/directory/idaho/ada-county/boise/idaho-state-veterans-home-boise/">Idaho State Veterans Home - Boise</a></h3>
-  <p class="meta">Boise, ID · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">A state-operated skilled nursing home for eligible Idaho veterans and their spouses, run by the Idaho Division of Veterans Services. The ...</p>
-</li>
-
-      <li class="card">
-  <h3><a href="/directory/idaho/ada-county/boise/the-cottages-at-columbia-village/">The Cottages at Columbia Village</a></h3>
-  <p class="meta">Boise, ID</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">An assisted living and memory care community in southeast Boise built as four 15-bed homes arranged around a central courtyard, offering ...</p>
 </li>
 
     </ul>

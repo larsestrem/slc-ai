@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -348,7 +356,8 @@ tbody tr:hover { background: var(--soft); }
 <a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
 (from inspections and staffing); elsewhere, ★ is a
 <a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-Each community's page shows the rating with its source, count, and date.</p>
+We list every community we can verify, not just the highest-rated —
+<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
 
     <section aria-labelledby="c-arlington">
       <h2 id="c-arlington">Arlington, WA <span class="count">· Snohomish County</span></h2>
@@ -434,17 +443,6 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
         <li class="card" data-city="bellevue">
-  <h3><a href="/directory/washington/king-county/bellevue/sunrise-of-bellevue/">Sunrise of Bellevue</a></h3>
-  <p class="meta">Bellevue, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Assisted living and memory care community in east Bellevue, part of the national Sunrise Senior Living network. Families praise the excep...</p>
-</li>
-
-        <li class="card" data-city="bellevue">
   <h3><a href="/directory/washington/king-county/bellevue/the-bellettini/">The Bellettini</a></h3>
   <p class="meta">Bellevue, WA · <span class="stars" role="img" aria-label="4.9 out of 5 stars">★★★★★</span>
  <span class="rate-src">reviews</span></p>
@@ -454,6 +452,17 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 <p class="desc">A luxury independent and assisted living community in downtown Bellevue with 144 apartments, two restaurants, a fitness center and salon,...</p>
+</li>
+
+        <li class="card" data-city="bellevue">
+  <h3><a href="/directory/washington/king-county/bellevue/sunrise-of-bellevue/">Sunrise of Bellevue</a></h3>
+  <p class="meta">Bellevue, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Assisted living and memory care community in east Bellevue, part of the national Sunrise Senior Living network. Families praise the excep...</p>
 </li>
 
       </ul>
@@ -637,17 +646,6 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-issaquah">Issaquah, WA <span class="count">· King County</span></h2>
       <ul class="grid">
         <li class="card" data-city="issaquah">
-  <h3><a href="/directory/washington/king-county/issaquah/aegis-living-issaquah/">Aegis Living Issaquah</a></h3>
-  <p class="meta">Issaquah, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Assisted living and memory care community near downtown Issaquah, part of Bellevue-based Aegis Living. Known for its cottage-style campus...</p>
-</li>
-
-        <li class="card" data-city="issaquah">
   <h3><a href="/directory/washington/king-county/issaquah/grace-senior-care-of-issaquah/">Grace Senior Care of Issaquah</a></h3>
   <p class="meta">Issaquah, WA · Small home</p>
   
@@ -667,6 +665,17 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
 </ul>
 <p class="desc">The only nonprofit skilled nursing and rehabilitation facility in the Issaquah/Sammamish area, operated by Providence, offering short-ter...</p>
+</li>
+
+        <li class="card" data-city="issaquah">
+  <h3><a href="/directory/washington/king-county/issaquah/aegis-living-issaquah/">Aegis Living Issaquah</a></h3>
+  <p class="meta">Issaquah, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Assisted living and memory care community near downtown Issaquah, part of Bellevue-based Aegis Living. Known for its cottage-style campus...</p>
 </li>
 
         <li class="card" data-city="issaquah">
@@ -714,6 +723,17 @@ Each community's page shows the rating with its source, count, and date.</p>
 </li>
 
         <li class="card" data-city="kent">
+  <h3><a href="/directory/washington/king-county/kent/namaste-adult-family-home/">Namaste Adult Family Home</a></h3>
+  <p class="meta">Kent, WA · Small home · <span class="stars" role="img" aria-label="5.0 out of 5 stars">★★★★★</span>
+ <span class="rate-src">reviews</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+</ul>
+<p class="desc">Namaste Adult Family Home is a licensed six-bed adult family home in Kent, family-owned and operated by a husband-and-wife team. It provi...</p>
+</li>
+
+        <li class="card" data-city="kent">
   <h3><a href="/directory/washington/king-county/kent/farrington-court/">Farrington Court</a></h3>
   <p class="meta">Kent, WA</p>
   
@@ -725,33 +745,11 @@ Each community's page shows the rating with its source, count, and date.</p>
 <p class="desc">A 62+ independent and assisted living community that has been a cornerstone of Kent for over 50 years, now part of Stellar Senior Living....</p>
 </li>
 
-        <li class="card" data-city="kent">
-  <h3><a href="/directory/washington/king-county/kent/namaste-adult-family-home/">Namaste Adult Family Home</a></h3>
-  <p class="meta">Kent, WA · Small home · <span class="stars" role="img" aria-label="5.0 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-</ul>
-<p class="desc">Namaste Adult Family Home is a licensed six-bed adult family home in Kent, family-owned and operated by a husband-and-wife team. It provi...</p>
-</li>
-
       </ul>
     </section>
     <section aria-labelledby="c-kirkland">
       <h2 id="c-kirkland">Kirkland, WA <span class="count">· King County</span></h2>
       <ul class="grid">
-        <li class="card" data-city="kirkland">
-  <h3><a href="/directory/washington/king-county/kirkland/aegis-living-kirkland-waterfront/">Aegis Living Kirkland Waterfront</a></h3>
-  <p class="meta">Kirkland, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Aegis Living Kirkland Waterfront is a premium assisted living and memory care community steps from downtown Kirkland with views of Lake W...</p>
-</li>
-
         <li class="card" data-city="kirkland">
   <h3><a href="/directory/washington/king-county/kirkland/bridle-trails-senior-care/">Bridle Trails Senior Care</a></h3>
   <p class="meta">Kirkland, WA · Small home</p>
@@ -785,6 +783,17 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 <p class="desc">A MorningStar Senior Living community in Kirkland offering independent and assisted living with stylish apartments and hospitality-focuse...</p>
+</li>
+
+        <li class="card" data-city="kirkland">
+  <h3><a href="/directory/washington/king-county/kirkland/aegis-living-kirkland-waterfront/">Aegis Living Kirkland Waterfront</a></h3>
+  <p class="meta">Kirkland, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Aegis Living Kirkland Waterfront is a premium assisted living and memory care community steps from downtown Kirkland with views of Lake W...</p>
 </li>
 
       </ul>
@@ -882,6 +891,18 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-redmond">Redmond, WA <span class="count">· King County</span></h2>
       <ul class="grid">
         <li class="card" data-city="redmond">
+  <h3><a href="/directory/washington/king-county/redmond/redmond-care-and-rehabilitation-center/">Redmond Care and Rehabilitation Center</a></h3>
+  <p class="meta">Redmond, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">A 139-bed skilled nursing and rehabilitation center near Kirkland, part of the Ensign Group, offering short-term rehab and long-term care...</p>
+</li>
+
+        <li class="card" data-city="redmond">
   <h3><a href="/directory/washington/king-county/redmond/emerald-heights/">Emerald Heights</a></h3>
   <p class="meta">Redmond, WA</p>
   
@@ -904,18 +925,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 <p class="desc">Independent and assisted living retirement community on Avondale Road in Redmond, managed by Seattle-based Leisure Care. Amenities includ...</p>
-</li>
-
-        <li class="card" data-city="redmond">
-  <h3><a href="/directory/washington/king-county/redmond/redmond-care-and-rehabilitation-center/">Redmond Care and Rehabilitation Center</a></h3>
-  <p class="meta">Redmond, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">A 139-bed skilled nursing and rehabilitation center near Kirkland, part of the Ensign Group, offering short-term rehab and long-term care...</p>
 </li>
 
       </ul>
@@ -941,17 +950,6 @@ Each community's page shows the rating with its source, count, and date.</p>
       <h2 id="c-seattle">Seattle, WA <span class="count">· King County</span></h2>
       <ul class="grid">
         <li class="card" data-city="seattle">
-  <h3><a href="/directory/washington/king-county/seattle/aegis-living-queen-anne-rodgers-park/">Aegis Living Queen Anne Rodgers Park</a></h3>
-  <p class="meta">Seattle, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Aegis Living Queen Anne Rodgers Park is an assisted living and memory care community on Queen Anne Hill in Seattle, across from Rodgers P...</p>
-</li>
-
-        <li class="card" data-city="seattle">
   <h3><a href="/directory/washington/king-county/seattle/caroline-kline-galland-home/">Caroline Kline Galland Home</a></h3>
   <p class="meta">Seattle, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
  <span class="rate-src">Medicare</span></p>
@@ -971,6 +969,28 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">One of the Pacific Northwest's longest-operating standalone not-for-profit nursing homes, located in Seattle's Phinney Ridge neighborhood...</p>
+</li>
+
+        <li class="card" data-city="seattle">
+  <h3><a href="/directory/washington/king-county/seattle/victoria-1-adult-family-home/">Victoria 1 Adult Family Home</a></h3>
+  <p class="meta">Seattle, WA · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Victoria 1 Adult Family Home is a licensed adult family home in Seattle's Lake City area providing memory care and 24-hour supervision. T...</p>
+</li>
+
+        <li class="card" data-city="seattle">
+  <h3><a href="/directory/washington/king-county/seattle/aegis-living-queen-anne-rodgers-park/">Aegis Living Queen Anne Rodgers Park</a></h3>
+  <p class="meta">Seattle, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Aegis Living Queen Anne Rodgers Park is an assisted living and memory care community on Queen Anne Hill in Seattle, across from Rodgers P...</p>
 </li>
 
         <li class="card" data-city="seattle">
@@ -1005,17 +1025,6 @@ Each community's page shows the rating with its source, count, and date.</p>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 <p class="desc">University House Wallingford is an Era Living retirement community in Seattle's Wallingford neighborhood, opened in 1997, with 146 one- a...</p>
-</li>
-
-        <li class="card" data-city="seattle">
-  <h3><a href="/directory/washington/king-county/seattle/victoria-1-adult-family-home/">Victoria 1 Adult Family Home</a></h3>
-  <p class="meta">Seattle, WA · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Victoria 1 Adult Family Home is a licensed adult family home in Seattle's Lake City area providing memory care and 24-hour supervision. T...</p>
 </li>
 
       </ul>

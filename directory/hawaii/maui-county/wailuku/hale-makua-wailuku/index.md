@@ -25,6 +25,7 @@ cms_ccn: "125056"
 cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/hale-makua-health-services-125056", "https://www.ohanapacific.com/hale-makua", "https://everyplace.care/facility/hale-makua-wailuku-wailuku-hi-nf-125056"]
 verified_date: "2026-07-12"
+quality_tier: "meets_standard"
 description_full: "A 124-bed skilled nursing facility in Wailuku offering long-term care, short-term rehabilitation, and dementia care, part of the Hale Makua Health Services organization founded on Maui in 1947 and now affiliated with Ohana Pacific Health. Medicare rates the facility 5 stars overall, and U.S. News rates it High Performing for both short-term rehab and long-term care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/hale-makua-health-services-125056"}]
 ---

@@ -25,6 +25,7 @@ cms_ccn: "385229"
 cms_rating_overall: 4
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-junction-city-385229", "https://www.medicare.gov/care-compare/details/nursing-home/385229/"]
 verified_date: "2026-07-13"
+quality_tier: "meets_standard"
 description_full: "A 53-bed Avamere skilled nursing and rehabilitation center in Junction City, Lane County. It offers short-term rehabilitation and long-term care, earning a 5-star CMS quality-measure rating. CMS rates it 4 out of 5 stars overall."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-junction-city-385229"}]
 ---

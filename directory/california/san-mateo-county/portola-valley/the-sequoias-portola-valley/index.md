@@ -20,6 +20,7 @@ cms_ccn: "055466"
 cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/ca/the-sequoias-portola-valley-055466", "https://www.medicarelist.com/nursing-home/sequoias-the-portola-valley-ca/", "https://carelistings.com/skilled-nursing-facilities/portola-valley-ca/the-sequoias/5ace87cd93efd2372f9763f5"]
 verified_date: "2026-07-12"
+quality_tier: "meets_standard"
 description_full: "Continuing care retirement community on a wooded campus in Portola Valley whose 43-bed skilled nursing facility holds a 5-star overall rating from CMS, with 5-star marks across health inspections, staffing, and quality measures. Both short-term rehabilitation and long-term care are rated High Performing by U.S. News. Residents can move through independent living, assisted living, and skilled nursing on one campus."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/the-sequoias-portola-valley-055466"}, {"name": "CareListings", "url": "https://carelistings.com/skilled-nursing-facilities/portola-valley-ca/the-sequoias/5ace87cd93efd2372f9763f5"}]
 ---

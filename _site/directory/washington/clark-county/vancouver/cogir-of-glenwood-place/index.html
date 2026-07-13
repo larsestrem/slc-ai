@@ -29,6 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
+  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -123,6 +125,12 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .stars .off { color: var(--line); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
+
+/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
+.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
+.tier-badge.tier-meets_standard { color: var(--good); }
+.tier-badge.tier-below_standard { color: var(--warn); }
+.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -198,6 +206,8 @@ tbody tr:hover { background: var(--soft); }
 .rating-glance .glance-row p { margin: 0; font-size: .92rem; }
 .rating-glance .muted { color: var(--muted); font-size: .82rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
+.rating-glance .glance-flag { flex-direction: column; align-items: flex-start; gap: .3rem; }
+.rating-glance .glance-flag p { color: var(--muted); }
 
 /* Below-stars review caveats */
 .review-caveats { margin: .7rem 0 0; }
@@ -218,6 +228,10 @@ tbody tr:hover { background: var(--soft); }
   .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
   .rating-badge { text-align: left; flex-basis: auto; }
 }
+
+/* Tier-differentiated footer notices */
+.tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
+.tier-notice-danger a { color: var(--accent); }
 </style>
   
 </head>
@@ -380,35 +394,25 @@ tbody tr:hover { background: var(--soft); }
 
     </div>
   </div>
-  <p class="count">We list communities that meet a verified family-review standard or hold a
-  government rating of three stars or better — and we always show the rating with its source and
-  date rather than hide it. <a href="/guides/reading-inspection-reports-and-ratings/">How facilities are rated &rarr;</a></p>
+  <p class="count">This community meets the standard we generally recommend — a verified
+  family-review record or a government rating of three stars or better. We list every community we
+  can verify, not just the highest-rated ones, and label each one by tier instead of hiding the
+  rest. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
 </section>
 
   <section aria-labelledby="nearby-h">
     <h2 id="nearby-h">Other communities in Vancouver</h2>
     <ul class="grid">
       <li class="card">
-  <h3><a href="/directory/washington/clark-county/vancouver/bonaventure-of-vancouver/">Bonaventure of Vancouver</a></h3>
-  <p class="meta">Vancouver, WA</p>
+  <h3><a href="/directory/washington/clark-county/vancouver/assurety-adult-family-home/">Assurety Adult Family Home</a></h3>
+  <p class="meta">Vancouver, WA · Small home · <span class="stars" role="img" aria-label="5.0 out of 5 stars">★★★★★</span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">Bonaventure of Vancouver is a senior living community in Vancouver, Washington offering retirement (independent) living, assisted living,...</p>
-</li>
-
-      <li class="card">
-  <h3><a href="/directory/washington/clark-county/vancouver/prestige-senior-living-bridgewood/">Prestige Senior Living Bridgewood</a></h3>
-  <p class="meta">Vancouver, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Prestige Senior Living Bridgewood is an independent and assisted living community in a park-like setting in east Vancouver, Washington, n...</p>
+<p class="desc">Assurety Adult Family Home is a licensed six-bed adult family home in Vancouver, overseen by owners Jim and Laura. It offers assisted liv...</p>
 </li>
 
       <li class="card">
@@ -419,18 +423,6 @@ tbody tr:hover { background: var(--soft); }
   <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
 </ul>
 <p class="desc">Best Care Adult Family Home is a Washington state-licensed, 6-bed adult family home in Vancouver offering residential senior care in a ho...</p>
-</li>
-
-      <li class="card">
-  <h3><a href="/directory/washington/clark-county/vancouver/touchmark-at-fairway-village/">Touchmark at Fairway Village</a></h3>
-  <p class="meta">Vancouver, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Touchmark at Fairway Village is a full-service retirement community on an 18-acre campus in east Vancouver, offering independent living c...</p>
 </li>
 
       <li class="card">
@@ -447,15 +439,37 @@ tbody tr:hover { background: var(--soft); }
 </li>
 
       <li class="card">
-  <h3><a href="/directory/washington/clark-county/vancouver/the-springs-at-the-waterfront/">The Springs at The Waterfront</a></h3>
-  <p class="meta">Vancouver, WA</p>
+  <h3><a href="/directory/washington/clark-county/vancouver/hudson-bay-health-and-rehabilitation/">Hudson Bay Health and Rehabilitation</a></h3>
+  <p class="meta">Vancouver, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Hudson Bay Health and Rehabilitation is a 92-bed Medicare- and Medicaid-certified skilled nursing facility in Vancouver operated by Casca...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/washington/clark-county/vancouver/iris-adult-family-home/">IRIS Adult Family Home</a></h3>
+  <p class="meta">Vancouver, WA · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">The Springs at The Waterfront is a 12-story, 360,000-square-foot senior living community on Vancouver's Columbia River waterfront, opened...</p>
+<p class="desc">IRIS is a licensed 6-bed adult family home in Vancouver that has operated since 1999, with staff trained in memory care, high-acuity care...</p>
+</li>
+
+      <li class="card">
+  <h3><a href="/directory/washington/clark-county/vancouver/the-oaks-at-timberline/">The Oaks at Timberline</a></h3>
+  <p class="meta">Vancouver, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">An 85-bed skilled nursing and rehabilitation facility in Vancouver providing short-term rehab and long-term care. It holds a CMS overall ...</p>
 </li>
 
     </ul>

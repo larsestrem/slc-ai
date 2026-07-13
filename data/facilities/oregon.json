@@ -61,36 +61,6 @@
       "verified_date": "2026-07-11"
     },
     {
-      "name": "Avamere Rehabilitation of Oregon City",
-      "slug": "avamere-rehabilitation-of-oregon-city",
-      "state": "oregon",
-      "state_name": "Oregon",
-      "state_abbrev": "OR",
-      "county": "clackamas",
-      "county_name": "Clackamas",
-      "city": "oregon-city",
-      "city_name": "Oregon City",
-      "address": "1400 Division Street",
-      "zip": "97045",
-      "phone": "(503) 656-0367",
-      "care_levels": [
-        "skilled-nursing"
-      ],
-      "facility_size": "large",
-      "capacity": 111,
-      "organization": "avamere",
-      "organization_name": "Avamere",
-      "cms_ccn": "385125",
-      "cms_rating_overall": 1,
-      "description": "Avamere Rehabilitation of Oregon City is a 111-bed Medicare- and Medicaid-certified skilled nursing facility providing short-term rehabilitation and long-term nursing care. Medicare quality measures for short-stay care have rated above average, while its overall CMS star rating has been low, driven by health inspection results.",
-      "sources": [
-        "https://www.medicare.gov/care-compare/details/nursing-home/385125/",
-        "https://carelistings.com/skilled-nursing-facilities/oregon-city-or/avamere-rehabilitation-of-oregon-city/5ace88d093efd2372f98c1a7",
-        "https://www.nursinghomedatabase.com/snf/385125"
-      ],
-      "verified_date": "2026-07-11"
-    },
-    {
       "name": "Avamere Rehabilitation of Eugene",
       "slug": "avamere-rehabilitation-of-eugene",
       "state": "oregon",
@@ -3506,6 +3476,392 @@
         "https://ltclicensing.oregon.gov/Facilities/Details/70M054"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Life Care Center of Coos Bay",
+      "slug": "life-care-center-of-coos-bay",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "coos",
+      "county_name": "Coos",
+      "city": "coos-bay",
+      "city_name": "Coos Bay",
+      "address": "2890 Ocean Blvd",
+      "zip": "97420",
+      "website": "https://www.lifecarecenterofcoosbay.com/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 114,
+      "organization": "life-care-centers-of-america",
+      "organization_name": "Life Care Centers of America",
+      "cms_ccn": "385157",
+      "cms_rating_overall": 3,
+      "description": "A 114-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation center on Ocean Boulevard in Coos Bay, operated by Life Care Centers of America. It provides short-term post-hospital rehabilitation and long-term nursing care. CMS rates it 3 out of 5 stars overall.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/life-care-center-of-coos-bay-385157",
+        "https://www.medicare.gov/care-compare/details/nursing-home/385157/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Marquis Centennial Post Acute Rehab",
+      "slug": "marquis-centennial-post-acute-rehab",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "725 SE 202nd Ave",
+      "zip": "97233",
+      "website": "https://www.marquiscompanies.com/facility/marquis-centennial/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 80,
+      "organization": "marquis-companies",
+      "organization_name": "Marquis Companies",
+      "cms_ccn": "385183",
+      "cms_rating_overall": 3,
+      "description": "An 80-bed skilled nursing and post-acute rehabilitation center in east Portland's Centennial area, part of the Oregon-based Marquis Companies. It offers physical, occupational, and speech therapy alongside 24-hour nursing care. CMS rates it 3 out of 5 stars overall.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/marquis-centennial-post-acute-rehabilitation-385183",
+        "https://www.medicare.gov/care-compare/details/nursing-home/385183/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Marquis Mill Park",
+      "slug": "marquis-mill-park",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "1475 SE 100th Ave",
+      "zip": "97216",
+      "website": "https://www.marquiscompanies.com/facility/marquis-mill-park/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 77,
+      "organization": "marquis-companies",
+      "organization_name": "Marquis Companies",
+      "cms_ccn": "385214",
+      "cms_rating_overall": 5,
+      "description": "A 77-bed Marquis Companies skilled nursing and rehabilitation center in the Mill Park neighborhood of southeast Portland. It focuses on short-stay post-acute rehab and long-term care with high staffing levels. CMS rates it 5 out of 5 stars overall.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/marquis-mill-park-385214",
+        "https://www.medicare.gov/care-compare/details/nursing-home/385214/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Marquis Vermont Hills",
+      "slug": "marquis-vermont-hills",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "6010 SW Shattuck Rd",
+      "zip": "97221",
+      "website": "https://www.marquiscompanies.com/facility/marquis-vermont-hills/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 73,
+      "organization": "marquis-companies",
+      "organization_name": "Marquis Companies",
+      "cms_ccn": "385218",
+      "cms_rating_overall": 5,
+      "description": "A 73-bed skilled nursing and post-acute rehabilitation center in southwest Portland operated by Marquis Companies. Services include rehabilitation therapy, wound care, and long-term nursing. CMS rates it 5 out of 5 stars overall.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/marquis-vermont-hills-385218",
+        "https://www.medicare.gov/care-compare/details/nursing-home/385218/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Marquis Piedmont Post Acute Rehab",
+      "slug": "marquis-piedmont-post-acute-rehab",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "319 NE Russet St",
+      "zip": "97211",
+      "phone": "(503) 289-5571",
+      "website": "https://www.marquiscompanies.com/facility/marquis-piedmont/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 70,
+      "organization": "marquis-companies",
+      "organization_name": "Marquis Companies",
+      "cms_ccn": "385208",
+      "cms_rating_overall": 5,
+      "description": "A 70-bed Marquis Companies skilled nursing and rehabilitation center in the Piedmont area of north Portland. It provides post-hospital rehabilitation and long-term care with above-average nurse staffing. CMS rates it 5 out of 5 stars overall.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/marquis-piedmont-post-acute-rehabilitation-385208",
+        "https://www.medicare.gov/care-compare/details/nursing-home/385208/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Creekside Health and Rehab of Cascadia",
+      "slug": "creekside-health-and-rehab-of-cascadia",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "eugene",
+      "city_name": "Eugene",
+      "address": "3500 Hilyard St",
+      "zip": "97405",
+      "phone": "(541) 687-9211",
+      "website": "https://creeksidehealthandrehabofcascadia.com/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 87,
+      "organization": "cascadia-healthcare",
+      "organization_name": "Cascadia Healthcare",
+      "cms_ccn": "385147",
+      "cms_rating_overall": 5,
+      "description": "An 87-bed skilled nursing and rehabilitation facility on Hilyard Street in south Eugene, operated by Cascadia Healthcare. It offers short-term rehab and long-term nursing care. CMS rates it 5 out of 5 stars overall.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/creekside-health-and-rehabilitation-of-cascadia-385147",
+        "https://www.medicare.gov/care-compare/details/nursing-home/385147/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Marquis Wilsonville Post Acute Rehab",
+      "slug": "marquis-wilsonville-post-acute-rehab",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "wilsonville",
+      "city_name": "Wilsonville",
+      "address": "30900 SW Parkway Ave",
+      "zip": "97070",
+      "website": "https://www.marquiscompanies.com/facility/marquis-wilsonville/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 50,
+      "organization": "marquis-companies",
+      "organization_name": "Marquis Companies",
+      "cms_ccn": "385266",
+      "cms_rating_overall": 3,
+      "description": "A 50-bed Marquis Companies skilled nursing and post-acute rehabilitation center in Wilsonville, Clackamas County. It emphasizes short-stay rehabilitation after hospital stays alongside long-term nursing care. CMS rates it 3 out of 5 stars overall.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/marquis-wilsonville-post-acute-rehabilitation-385266",
+        "https://www.medicare.gov/care-compare/details/nursing-home/385266/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Avamere Rehabilitation of Hillsboro",
+      "slug": "avamere-rehabilitation-of-hillsboro",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "hillsboro",
+      "city_name": "Hillsboro",
+      "address": "650 SE Oak St",
+      "zip": "97123",
+      "website": "https://www.avamere.com/avamere-rehabilitation-of-hillsboro/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 87,
+      "organization": "avamere",
+      "organization_name": "Avamere",
+      "cms_ccn": "385251",
+      "cms_rating_overall": 3,
+      "description": "An 87-bed skilled nursing and rehabilitation center on SE Oak Street in Hillsboro, part of the Oregon-based Avamere family of companies. It provides post-acute rehab and long-term nursing care. CMS rates it 3 out of 5 stars overall.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-hillsboro-385251",
+        "https://www.medicare.gov/care-compare/details/nursing-home/385251/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Avamere Rehabilitation of Junction City",
+      "slug": "avamere-rehabilitation-of-junction-city",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "junction-city",
+      "city_name": "Junction City",
+      "address": "530 Birch St",
+      "zip": "97448",
+      "phone": "(541) 998-2395",
+      "website": "https://www.avamere.com/avamere-rehabilitation-of-junction-city/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 53,
+      "organization": "avamere",
+      "organization_name": "Avamere",
+      "cms_ccn": "385229",
+      "cms_rating_overall": 4,
+      "description": "A 53-bed Avamere skilled nursing and rehabilitation center in Junction City, Lane County. It offers short-term rehabilitation and long-term care, earning a 5-star CMS quality-measure rating. CMS rates it 4 out of 5 stars overall.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-junction-city-385229",
+        "https://www.medicare.gov/care-compare/details/nursing-home/385229/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Cedar Village by Cogir",
+      "slug": "cedar-village-by-cogir",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "4452 Lancaster Dr NE",
+      "zip": "97305",
+      "website": "https://cogirusa.com/communities/cedar-village/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "cogir-senior-living",
+      "organization_name": "Cogir Senior Living",
+      "description": "An assisted living and memory care community on Lancaster Drive NE in Salem, managed under the Cogir Senior Living brand. It offers apartment living with 24-hour staffing, an activities program, and secured dementia care. Reviews are strong, with 41 reviews on A Place for Mom.",
+      "review_note": "4.2/5 across 27 reviews on WhirLocal (July 2026)",
+      "sources": [
+        "https://cogirusa.com/communities/cedar-village/",
+        "https://www.aplaceformom.com/community/cedar-village-by-cogir-60019"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Rose Schnitzer Manor",
+      "slug": "rose-schnitzer-manor",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "6140 SW Boundary St",
+      "zip": "97221",
+      "website": "https://cedarsinaipark.org/rose-schnitzer-manor/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "organization": "cedar-sinai-park",
+      "organization_name": "Cedar Sinai Park",
+      "description": "A residential care and assisted living community on the Cedar Sinai Park campus in southwest Portland, rooted in Jewish tradition and open to residents of all faiths. It offers apartments, kosher dining, and a full activities program adjacent to the campus's skilled nursing center. It holds a strong review reputation.",
+      "review_note": "4.7/5 across 23 reviews (Caring.com, July 2026)",
+      "sources": [
+        "https://www.caring.com/senior-living/oregon/portland/rose-schnitzer-manor-97221",
+        "https://cedarsinaipark.org/rose-schnitzer-manor/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "The Ackerly at Reed's Crossing",
+      "slug": "the-ackerly-at-reeds-crossing",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "hillsboro",
+      "city_name": "Hillsboro",
+      "address": "7267 SE Circuit Dr",
+      "zip": "97123",
+      "phone": "(503) 714-8311",
+      "website": "https://www.leisurecare.com/our-communities/ackerly-reeds-crossing/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "organization": "leisure-care",
+      "organization_name": "Leisure Care",
+      "description": "A Leisure Care independent living, assisted living, and memory care community in the Reed's Crossing neighborhood of Hillsboro. A newer resort-style campus, it was named a 2026 U.S. News Best Senior Living community for independent living and memory care. It holds a strong multi-platform review reputation.",
+      "review_note": "4.7/5 across 28 reviews on Birdeye; 4.4/5 across 34 reviews (July 2026)",
+      "sources": [
+        "https://www.leisurecare.com/our-communities/ackerly-reeds-crossing/",
+        "https://reviews.birdeye.com/the-ackerly-at-reeds-crossing-168152394386829"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Markham House",
+      "slug": "markham-house",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "10606 SW Capitol Hwy",
+      "zip": "97219",
+      "phone": "(503) 244-9500",
+      "website": "https://www.koelschcommunities.com/community/markham-house/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "organization": "koelsch-communities",
+      "organization_name": "Koelsch Communities",
+      "description": "A Koelsch Communities assisted living community on SW Capitol Highway in southwest Portland's Multnomah Village area. It provides personalized assisted living with dining, activities, and 24-hour care staff in a homelike setting. It holds a strong review reputation.",
+      "review_note": "4.3/5 across 29 reviews on A Place for Mom (July 2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/markham-house-assisted-living-59897",
+        "https://www.koelschcommunities.com/community/markham-house/"
+      ],
+      "verified_date": "2026-07-13"
     }
   ],
   "organizations": [
@@ -3920,6 +4276,54 @@
       "description": "Onelife Senior Living develops and operates senior living communities in the Pacific Northwest, with a focus on memory care. Its Oregon communities include Battle Creek Memory Care in Salem, a sister community in Stayton, and Middlefield Oaks in Cottage Grove.",
       "sources": [
         "https://www.onelifeseniorliving.com/communities/battle-creek-memory-care"
+      ]
+    },
+    {
+      "name": "Life Care Centers of America",
+      "slug": "life-care-centers-of-america",
+      "headquarters": "Cleveland, Tennessee",
+      "website": "https://lcca.com/",
+      "states": [
+        "OR",
+        "TN",
+        "WA",
+        "CO"
+      ],
+      "description": "Life Care Centers of America is a privately held operator of skilled nursing and rehabilitation facilities founded in 1970, with communities in dozens of states. Its Oregon centers provide post-hospital rehabilitation and long-term nursing care.",
+      "sources": [
+        "https://lcca.com/"
+      ]
+    },
+    {
+      "name": "Cascadia Healthcare",
+      "slug": "cascadia-healthcare",
+      "headquarters": "Eagle, Idaho",
+      "website": "https://cascadiahealthcare.com/",
+      "states": [
+        "OR",
+        "ID",
+        "WA",
+        "AZ"
+      ],
+      "description": "Cascadia Healthcare is a skilled nursing and post-acute rehabilitation operator with facilities across the western United States. Its Oregon location in Eugene provides short-term rehab and long-term nursing care.",
+      "sources": [
+        "https://cascadiahealthcare.com/"
+      ]
+    },
+    {
+      "name": "Koelsch Communities",
+      "slug": "koelsch-communities",
+      "headquarters": "Olympia, Washington",
+      "website": "https://www.koelschcommunities.com/",
+      "states": [
+        "OR",
+        "WA",
+        "CA",
+        "TX"
+      ],
+      "description": "Koelsch Communities is a family-owned senior living operator founded in 1958, running assisted living, memory care, and independent living communities across several states. It operates Markham House assisted living in Portland.",
+      "sources": [
+        "https://www.koelschcommunities.com/"
       ]
     }
   ]

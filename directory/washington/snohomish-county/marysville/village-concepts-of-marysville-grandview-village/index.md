@@ -4,7 +4,7 @@ title: "Village Concepts of Marysville - Grandview Village"
 seo_title: "Village Concepts of Marysville - Grandview Village — Senior Living in Marysville, WA"
 description: "Grandview Village is a Village Concepts retirement community in Marysville offering independent living with assisted living services. Residents and families p"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Village Concepts of Marysville - Grandview Village", "url": "/directory/washington/snohomish-county/marysville/village-concepts-of-marysville-grandview-village/"}]
-nearby: []
+nearby: [{"name": "Marysville Care Center", "url": "/directory/washington/snohomish-county/marysville/marysville-care-center/", "city_name": "Marysville", "state_abbrev": "WA", "care_levels": ["skilled-nursing", "respite-care"], "facility_size": "large", "cms_rating_overall": 3, "description": "A 97-bed skilled nursing facility in Marysville offering short-term rehab and long-term care. Its CMS overall rating is 3 stars (per CMS data current as of early 2026), which now qualifies under the directory's skilled-nursing inclusion policy."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

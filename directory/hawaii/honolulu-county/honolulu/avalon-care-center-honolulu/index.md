@@ -1,0 +1,29 @@
+---
+layout: "facility"
+title: "Avalon Care Center - Honolulu"
+seo_title: "Avalon Care Center - Honolulu — Senior Living in Honolulu, HI"
+description: "Avalon Care Center - Honolulu is a 108-bed skilled nursing and rehabilitation facility operated by Avalon Health Care. It carries a CMS overall rating of 3 st"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Avalon Care Center - Honolulu", "url": "/directory/hawaii/honolulu-county/honolulu/avalon-care-center-honolulu/"}]
+nearby: [{"name": "Kahala Nui", "url": "/directory/hawaii/honolulu-county/honolulu/kahala-nui/", "city_name": "Honolulu", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "facility_size": "large", "cms_rating_overall": 5, "description": "Kahala Nui is a nonprofit continuing care retirement community in Honolulu's Kahala neighborhood, offering independent living, the Hi'olani Assisted Living Center (67 licensed beds), memory care, and the 20-bed Hi'olani Care Center skilled nursing unit. The Hi'olani Care Center holds a CMS 5-star overall rating with no fines, complaints, or inspection problems reported in the last three years, and nursing staff time per resident exceeds state and national averages."}, {"name": "Arcadia Retirement Residence", "url": "/directory/hawaii/honolulu-county/honolulu/arcadia-retirement-residence/", "city_name": "Honolulu", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "facility_size": "large", "cms_rating_overall": 5, "description": "Arcadia Retirement Residence, established in 1967, is a nonprofit continuing care retirement community affiliated with the United Church of Christ, set on three acres in Honolulu's Makiki neighborhood. It offers independent living apartments, assisted living, memory care, and an on-site skilled nursing unit that holds a CMS 5-star overall rating, with U.S. News marking both short-term rehab and long-term care as High Performing."}, {"name": "15 Craigside", "url": "/directory/hawaii/honolulu-county/honolulu/15-craigside/", "city_name": "Honolulu", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "facility_size": "large", "cms_rating_overall": 5, "description": "15 Craigside is a 13-story nonprofit continuing care retirement community in Honolulu's Nuuanu area, operated by the Arcadia Family of Companies. The tower provides 170 independent living units (140 one-bedroom apartments and 30 studios), assisted living services throughout the building, and a 45-bed skilled nursing unit that holds a CMS 5-star overall rating with a High Performing long-term care designation."}, {"name": "Maluhia", "url": "/directory/hawaii/honolulu-county/honolulu/maluhia/", "city_name": "Honolulu", "state_abbrev": "HI", "care_levels": ["skilled-nursing"], "facility_size": "large", "cms_rating_overall": 5, "description": "Maluhia is a government-operated skilled nursing and intermediate care facility in Honolulu's Kalihi neighborhood, serving Medicare and Medicaid residents since 1967. The 158-bed facility holds a CMS 5-star overall rating, well above the national average, and U.S. News rates its long-term care as High Performing."}, {"name": "The Plaza at Punchbowl", "url": "/directory/hawaii/honolulu-county/honolulu/the-plaza-at-punchbowl/", "city_name": "Honolulu", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living"], "facility_size": "large", "description": "The Plaza at Punchbowl is a multistory senior living community near downtown Honolulu operated by Hawaii-based The Plaza Assisted Living, offering independent living and assisted living. Reviews are strongly positive, averaging 4.3 out of 5 across 29 ratings on Senior Care Authority and 4.7 out of 5 on AssistedLivingCenter, with residents praising the staff and day-to-day services."}, {"name": "The Ivy at Hawaii Kai", "url": "/directory/hawaii/honolulu-county/honolulu/the-ivy-at-hawaii-kai/", "city_name": "Honolulu", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living", "memory-care"], "facility_size": "large", "description": "A large independent living, assisted living, and memory care community in Honolulu's Hawaii Kai neighborhood, operated under the Ivy Living brand of Oakmont Senior Living. The community offers medication management, incontinence care, higher-acuity care, and individualized care plans, and is known for its well-maintained grounds and strong sense of community."}]
+state: "hawaii"
+state_name: "Hawaii"
+state_abbrev: "HI"
+county: "honolulu"
+county_name: "Honolulu"
+city: "honolulu"
+city_name: "Honolulu"
+address: "1930 Kamehameha IV Road"
+zip: "96819"
+phone: "(808) 847-4834"
+website: "https://avalonhealthcare.com/honolulu/"
+care_levels: ["skilled-nursing"]
+facility_size: "large"
+capacity: 108
+organization: "avalon-health-care"
+organization_name: "Avalon Health Care"
+cms_ccn: "125020"
+cms_rating_overall: 3
+sources: ["https://health.usnews.com/best-nursing-homes/area/hi/avalon-care-center-honolulu-125020", "https://avalonhealthcare.com/honolulu/"]
+verified_date: "2026-07-13"
+description_full: "Avalon Care Center - Honolulu is a 108-bed skilled nursing and rehabilitation facility operated by Avalon Health Care. It carries a CMS overall rating of 3 stars, with strong quality-measure (5-star) and staffing (4-star) component ratings offset by a lower (2-star) health-inspection rating. It offers short-term rehabilitation and long-term skilled nursing care."
+---

@@ -2444,6 +2444,443 @@
         "https://adultfamilyhomecouncil.org/home-finder/755067-noblecare-afh-llc"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "eliseo",
+      "slug": "eliseo",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "pierce",
+      "county_name": "Pierce",
+      "city": "tacoma",
+      "city_name": "Tacoma",
+      "address": "1301 N Highlands Parkway",
+      "zip": "98406",
+      "phone": "(253) 752-7112",
+      "website": "https://eliseo.org/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "large",
+      "capacity": 187,
+      "cms_ccn": "505435",
+      "cms_rating_overall": 4,
+      "description": "Eliseo (formerly Tacoma Lutheran Retirement Community) is a nonprofit continuing-care retirement community on a 20-acre campus offering independent living, assisted living, memory care and skilled nursing. Its Medicare-certified skilled nursing center holds a CMS overall rating of 4 stars.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/eliseo-505435",
+        "https://www.seniorcare.com/nursing-homes/wa/tacoma/eliseo/505435/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Olympia Transitional Care and Rehabilitation",
+      "slug": "olympia-transitional-care-and-rehabilitation",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "thurston",
+      "county_name": "Thurston",
+      "city": "olympia",
+      "city_name": "Olympia",
+      "address": "430 Lilly Road NE",
+      "zip": "98506",
+      "phone": "(360) 491-9700",
+      "website": "https://olympiatransitional.com/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 113,
+      "cms_ccn": "505243",
+      "cms_rating_overall": 4,
+      "description": "A 113-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation center in Olympia offering short-term post-acute rehab and long-term care. Its CMS overall rating is 4 stars.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/olympia-transitional-care-and-rehabilitation-505243",
+        "https://www.seniorcare.com/nursing-homes/wa/olympia/olympia-transitional-care-and-rehabilitation/505243/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "The Oaks at Timberline",
+      "slug": "the-oaks-at-timberline",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "vancouver",
+      "city_name": "Vancouver",
+      "address": "400 E 33rd Street",
+      "zip": "98663",
+      "website": "https://timberlinehealth.com/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 85,
+      "cms_ccn": "505206",
+      "cms_rating_overall": 5,
+      "description": "An 85-bed skilled nursing and rehabilitation facility in Vancouver providing short-term rehab and long-term care. It holds a CMS overall rating of 5 stars, well above the Washington state average.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/the-oaks-at-timberline-505206",
+        "https://www.nursinghomedatabase.com/snf/505206"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Regency at Northpointe",
+      "slug": "regency-at-northpointe",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "spokane",
+      "county_name": "Spokane",
+      "city": "spokane",
+      "city_name": "Spokane",
+      "address": "1224 E Westview Court",
+      "zip": "99218",
+      "phone": "(509) 465-8800",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 120,
+      "cms_ccn": "505369",
+      "cms_rating_overall": 5,
+      "description": "A 120-bed skilled nursing and rehabilitation center in north Spokane offering short-term rehab and long-term care. It carries a CMS overall rating of 5 stars.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/regency-at-northpointe-505369",
+        "https://www.seniorcare.com/nursing-homes/wa/spokane/regency-at-northpointe/505369/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Good Samaritan Health Care Center",
+      "slug": "good-samaritan-health-care-center",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "yakima",
+      "county_name": "Yakima",
+      "city": "yakima",
+      "city_name": "Yakima",
+      "address": "702 N 16th Avenue",
+      "zip": "98902",
+      "phone": "(509) 248-5320",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 105,
+      "organization": "good-samaritan-society",
+      "organization_name": "The Evangelical Lutheran Good Samaritan Society",
+      "cms_ccn": "505348",
+      "cms_rating_overall": 5,
+      "description": "A 105-bed nonprofit skilled nursing facility in Yakima operated by the Evangelical Lutheran Good Samaritan Society, offering short-term rehab and long-term care. It holds a CMS overall rating of 5 stars.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/good-samaritan-health-care-center-505348",
+        "https://www.regency-pacific.com/senior-living/wa/yakima/good-samaritan-health-care-center/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "South Hill Rehabilitation and Care Center",
+      "slug": "south-hill-rehabilitation-and-care-center",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "spokane",
+      "county_name": "Spokane",
+      "city": "spokane",
+      "city_name": "Spokane",
+      "address": "17 E 8th Avenue",
+      "zip": "99202",
+      "website": "https://southhillcare.com/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 113,
+      "cms_ccn": "505414",
+      "cms_rating_overall": 4,
+      "description": "A 113-bed nonprofit skilled nursing and rehabilitation center on Spokane's South Hill offering short-term rehab and long-term care, rated High Performing by U.S. News. Its CMS overall rating is 4 stars.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/south-hill-rehabilitation-and-care-center-505414",
+        "https://www.nursinghomedatabase.com/snf/505414"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Vancouver Specialty and Rehabilitation Care",
+      "slug": "vancouver-specialty-and-rehabilitation-care",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "vancouver",
+      "city_name": "Vancouver",
+      "address": "1015 N Garrison Road",
+      "zip": "98664",
+      "phone": "(360) 694-7501",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 104,
+      "cms_ccn": "505269",
+      "cms_rating_overall": 4,
+      "description": "A 104-bed skilled nursing and rehabilitation facility in Vancouver providing short-term rehab and long-term care. It holds a CMS overall rating of 4 stars.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/vancouver-specialty-and-rehabilitation-care-505269",
+        "https://www.seniorcare.com/nursing-homes/wa/vancouver/vancouver-specialty-and-rehab-care/505269/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Redmond Care and Rehabilitation Center",
+      "slug": "redmond-care-and-rehabilitation-center",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "redmond",
+      "city_name": "Redmond",
+      "address": "7900 Willows Road NE",
+      "zip": "98052",
+      "phone": "(425) 885-0808",
+      "website": "https://redmondcareandrehab.com/",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 139,
+      "organization": "ensign-group",
+      "organization_name": "The Ensign Group",
+      "cms_ccn": "505181",
+      "cms_rating_overall": 5,
+      "description": "A 139-bed skilled nursing and rehabilitation center near Kirkland, part of the Ensign Group, offering short-term rehab and long-term care. It carries a CMS overall rating of 5 stars.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/redmond-care-and-rehabilitation-center-505181",
+        "https://www.seniorcare.com/nursing-homes/wa/redmond/redmond-care-and-rehabilitation-center/505181/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Providence Marianwood",
+      "slug": "providence-marianwood",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "issaquah",
+      "city_name": "Issaquah",
+      "address": "3725 Providence Point Drive SE",
+      "zip": "98029",
+      "phone": "(425) 391-2800",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "organization": "providence",
+      "organization_name": "Providence",
+      "cms_ccn": "505418",
+      "cms_rating_overall": 4,
+      "description": "The only nonprofit skilled nursing and rehabilitation facility in the Issaquah/Sammamish area, operated by Providence, offering short-term rehab and long-term care. Its CMS overall rating is 4 stars.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/providence-marianwood-505418",
+        "https://www.seniorcare.com/nursing-homes/wa/issaquah/providence-marianwood/505418/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Marysville Care Center",
+      "slug": "marysville-care-center",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "marysville",
+      "city_name": "Marysville",
+      "address": "1821 Grove Street",
+      "zip": "98270",
+      "phone": "(360) 659-3926",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 97,
+      "cms_ccn": "505386",
+      "cms_rating_overall": 3,
+      "description": "A 97-bed skilled nursing facility in Marysville offering short-term rehab and long-term care. Its CMS overall rating is 3 stars (per CMS data current as of early 2026), which now qualifies under the directory's skilled-nursing inclusion policy.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/marysville-care-center-505386",
+        "https://nursinghomerating.org/WA/marysville-care-center/505386/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Avalon Care Center - Federal Way",
+      "slug": "avalon-care-center-federal-way",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "federal-way",
+      "city_name": "Federal Way",
+      "address": "135 S 336th Street",
+      "zip": "98003",
+      "phone": "(253) 835-7453",
+      "care_levels": [
+        "skilled-nursing",
+        "respite-care"
+      ],
+      "facility_size": "large",
+      "capacity": 120,
+      "cms_ccn": "505510",
+      "cms_rating_overall": 3,
+      "description": "A 120-bed skilled nursing and rehabilitation center in Federal Way offering short-term rehab and long-term care. Its CMS overall rating is 3 stars (per CMS data dated February 2026), qualifying under the skilled-nursing inclusion policy.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/avalon-care-center-federal-way-505510",
+        "https://everlighthealth.org/avalon-care-center-federal-way-federal-way-wa-505510/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "The Bellettini",
+      "slug": "the-bellettini",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "bellevue",
+      "city_name": "Bellevue",
+      "address": "1115 108th Avenue NE",
+      "zip": "98004",
+      "phone": "(425) 450-0800",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "capacity": 144,
+      "organization": "mbk-senior-living",
+      "organization_name": "MBK Senior Living",
+      "google_rating": 4.9,
+      "google_review_count": 64,
+      "rating_as_of": "2026-07-13",
+      "description": "A luxury independent and assisted living community in downtown Bellevue with 144 apartments, two restaurants, a fitness center and salon, operated by MBK Senior Living. It is very highly reviewed by residents and families.",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-bellettini-101653",
+        "https://ultimateseniorresource.com/states/washington/bellevue/the-bellettini"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "MorningStar of Kirkland",
+      "slug": "morningstar-of-kirkland",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "kirkland",
+      "city_name": "Kirkland",
+      "address": "11729 NE 118th Street",
+      "zip": "98034",
+      "phone": "(425) 437-3662",
+      "website": "https://morningstarkirkland.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "organization": "morningstar-senior-living",
+      "organization_name": "MorningStar Senior Living",
+      "google_rating": 4.9,
+      "google_review_count": 83,
+      "rating_as_of": "2026-07-13",
+      "description": "A MorningStar Senior Living community in Kirkland offering independent and assisted living with stylish apartments and hospitality-focused amenities. It is very highly rated by residents and families.",
+      "sources": [
+        "https://ultimateseniorresource.com/states/washington/kirkland/morningstar-of-kirkland",
+        "https://morningstarkirkland.com/contact-us/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Orchard Crest Retirement Community",
+      "slug": "orchard-crest-retirement-community",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "spokane",
+      "county_name": "Spokane",
+      "city": "spokane-valley",
+      "city_name": "Spokane Valley",
+      "address": "222 S Evergreen Road",
+      "zip": "99216",
+      "website": "https://orchardcrestretirement.com/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "review_note": "4.3/5 across 15 reviews on Caring.com (2026)",
+      "description": "An established independent and assisted living retirement community in Spokane Valley, celebrating over 25 years of operation, offering apartments, dining and activity programming.",
+      "sources": [
+        "https://www.caring.com/senior-living/washington/spokane-valley/orchard-crest-99216",
+        "https://health.usnews.com/best-senior-living/orchard-crest-retirement-community-12320"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Sunny's Adult Family Home LLC",
+      "slug": "sunnys-adult-family-home-llc",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "bellevue",
+      "city_name": "Bellevue",
+      "address": "2709 165th Avenue NE",
+      "zip": "98008",
+      "phone": "(425) 885-2188",
+      "website": "https://www.sunnysadultfamilyhome.com/",
+      "care_levels": [
+        "adult-family-home",
+        "memory-care"
+      ],
+      "facility_size": "small",
+      "capacity": 6,
+      "google_rating": 4.9,
+      "google_review_count": 7,
+      "rating_as_of": "2026-07-13",
+      "description": "A 6-bed licensed adult family home in the Lake Sammamish area of Bellevue, owned and operated by a registered nurse, providing 24-hour specialized care including support for Alzheimer's, Parkinson's and dementia.",
+      "sources": [
+        "https://carelistings.com/assisted-living-homes/bellevue-wa/sunnys-adult-family-home-llc/5acd0293a71d8c15cf6966fa",
+        "https://www.sunnysadultfamilyhome.com/"
+      ],
+      "verified_date": "2026-07-13"
     }
   ],
   "organizations": [
@@ -2783,6 +3220,56 @@
       "description": "Generations is a family-owned and family-operated senior living company based in Portland, Oregon, running communities in several western states. Its campuses, including Wheatland Village in Walla Walla, typically combine independent living, assisted living, and memory care with resort-style amenities.",
       "sources": [
         "https://www.generationsllc.com/communities/wheatland-village/"
+      ]
+    },
+    {
+      "name": "The Ensign Group",
+      "slug": "ensign-group",
+      "headquarters": "San Juan Capistrano, California",
+      "website": "https://ensigngroup.net/",
+      "description": "The Ensign Group is a large holding company whose independently operated subsidiaries provide skilled nursing, rehabilitation and senior living services across many U.S. states, including Washington.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/redmond-care-and-rehabilitation-center-505181"
+      ]
+    },
+    {
+      "name": "Providence",
+      "slug": "providence",
+      "headquarters": "Renton, Washington",
+      "website": "https://www.providence.org/",
+      "description": "Providence is a large nonprofit Catholic health system operating hospitals, clinics and senior care facilities across the western United States, including skilled nursing and rehabilitation services in Washington.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/providence-marianwood-505418"
+      ]
+    },
+    {
+      "name": "The Evangelical Lutheran Good Samaritan Society",
+      "slug": "good-samaritan-society",
+      "headquarters": "Sioux Falls, South Dakota",
+      "website": "https://www.good-sam.com/",
+      "description": "The Good Samaritan Society is one of the largest nonprofit providers of senior care and services in the United States, operating skilled nursing, rehabilitation and senior living communities, including in Washington.",
+      "sources": [
+        "https://www.regency-pacific.com/senior-living/wa/yakima/good-samaritan-health-care-center/"
+      ]
+    },
+    {
+      "name": "MBK Senior Living",
+      "slug": "mbk-senior-living",
+      "headquarters": "Irvine, California",
+      "website": "https://www.mbkseniorliving.com/",
+      "description": "MBK Senior Living develops and operates independent living, assisted living and memory care communities across the western United States, including in Washington.",
+      "sources": [
+        "https://www.mbkseniorliving.com/senior-living/wa/bellevue/"
+      ]
+    },
+    {
+      "name": "MorningStar Senior Living",
+      "slug": "morningstar-senior-living",
+      "headquarters": "Denver, Colorado",
+      "website": "https://www.morningstarseniorliving.com/",
+      "description": "MorningStar Senior Living operates independent living, assisted living and memory care communities across the western United States, including several in Washington.",
+      "sources": [
+        "https://www.aplaceformom.com/providers/morning-star-senior-living-1332468"
       ]
     }
   ]

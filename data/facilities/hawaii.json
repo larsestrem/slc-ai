@@ -578,6 +578,153 @@
         "https://www.nursinghomesite.com/MAUNALANI_NURSING_AND_REHABILITATION_CENTER_HONOLULU_HI"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "Leahi Hospital",
+      "slug": "leahi-hospital",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "honolulu",
+      "city_name": "Honolulu",
+      "address": "3675 Kilauea Avenue",
+      "zip": "96816",
+      "phone": "(808) 733-8000",
+      "website": "https://leahi.hhsc.org/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 155,
+      "organization": "hawaii-health-systems-corporation",
+      "organization_name": "Hawaii Health Systems Corporation",
+      "cms_ccn": "125010",
+      "cms_rating_overall": 5,
+      "description": "Leahi Hospital is a state-government-owned skilled nursing facility in the Kaimuki area of Honolulu, operated by the Hawaii Health Systems Corporation. It provides long-term skilled nursing and rehabilitation care and holds a CMS overall rating of 5 stars. The campus also runs an adult day health center serving the surrounding community.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/hi/leahi-hospital-125010",
+        "https://leahi.hhsc.org/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Avalon Care Center - Honolulu",
+      "slug": "avalon-care-center-honolulu",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "honolulu",
+      "city_name": "Honolulu",
+      "address": "1930 Kamehameha IV Road",
+      "zip": "96819",
+      "phone": "(808) 847-4834",
+      "website": "https://avalonhealthcare.com/honolulu/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 108,
+      "organization": "avalon-health-care",
+      "organization_name": "Avalon Health Care",
+      "cms_ccn": "125020",
+      "cms_rating_overall": 3,
+      "description": "Avalon Care Center - Honolulu is a 108-bed skilled nursing and rehabilitation facility operated by Avalon Health Care. It carries a CMS overall rating of 3 stars, with strong quality-measure (5-star) and staffing (4-star) component ratings offset by a lower (2-star) health-inspection rating. It offers short-term rehabilitation and long-term skilled nursing care.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/hi/avalon-care-center-honolulu-125020",
+        "https://avalonhealthcare.com/honolulu/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Life Care Center of Hilo",
+      "slug": "life-care-center-of-hilo",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "hawaii",
+      "county_name": "Hawaii",
+      "city": "hilo",
+      "city_name": "Hilo",
+      "address": "944 West Kawailani Street",
+      "zip": "96720",
+      "phone": "(808) 959-9151",
+      "website": "https://lcca.com/locations/hi/hilo/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "organization": "life-care-centers-of-america",
+      "organization_name": "Life Care Centers of America",
+      "cms_ccn": "125040",
+      "cms_rating_overall": 3,
+      "description": "Life Care Center of Hilo is a for-profit skilled nursing and rehabilitation facility on the Big Island, operated by Life Care Centers of America. It holds a CMS overall rating of 3 stars, driven by strong quality measures (5-star) and staffing (4-star) with a weaker health-inspection score (2-star). It provides short-term rehab and long-term skilled nursing care.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/hi/life-care-center-of-hilo-125040",
+        "https://lcca.com/locations/hi/hilo/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Yukio Okutsu State Veterans Home",
+      "slug": "yukio-okutsu-state-veterans-home",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "hawaii",
+      "county_name": "Hawaii",
+      "city": "hilo",
+      "city_name": "Hilo",
+      "address": "1180 Waianuenue Avenue",
+      "zip": "96720",
+      "phone": "(808) 961-1500",
+      "website": "https://www.yukiookutsustateveteranshome.org/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 95,
+      "cms_ccn": "125058",
+      "cms_rating_overall": 3,
+      "description": "Yukio Okutsu State Veterans Home is a 95-bed skilled nursing facility in Hilo serving veterans on the Big Island, affiliated with Hilo Medical Center and the Hawaii Health Systems Corporation. It is Medicare- and Medicaid-certified and holds a CMS overall rating of 3 stars. It provides long-term skilled nursing and rehabilitation care.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/hi/yukio-okutsu-state-veterans-home-125058",
+        "https://www.hbmc.org/about-us/yukio-okutsu-state-veterans-home/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Kalakaua Gardens",
+      "slug": "kalakaua-gardens",
+      "state": "hawaii",
+      "state_name": "Hawaii",
+      "state_abbrev": "HI",
+      "county": "honolulu",
+      "county_name": "Honolulu",
+      "city": "honolulu",
+      "city_name": "Honolulu",
+      "address": "1723 Kalakaua Avenue",
+      "zip": "96826",
+      "phone": "(808) 518-2273",
+      "website": "https://www.kalakauagardens.com/",
+      "care_levels": [
+        "skilled-nursing",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 49,
+      "cms_ccn": "125066",
+      "cms_rating_overall": 3,
+      "description": "Kalakaua Gardens is a 49-bed senior living community in Honolulu offering skilled nursing alongside assisted living and memory care. Its Medicare-certified skilled nursing unit holds a CMS overall rating of 3 stars. The community provides short-term rehabilitation and long-term care with restaurant-style dining and social programming.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/hi/kal%C4%81kaua-gardens-125066",
+        "https://www.kalakauagardens.com/"
+      ],
+      "verified_date": "2026-07-13"
     }
   ],
   "organizations": [
@@ -703,6 +850,25 @@
       "description": "Maui Health, affiliated with Kaiser Permanente since 2017, operates Maui Memorial Medical Center, Kula Hospital and Clinic, and Lanai Community Hospital, serving the residents of Maui County. Its Kula Hospital campus includes one of the state's highest-rated hospital-based long-term care units.",
       "sources": [
         "https://www.mauihealth.org/kula-hospital/"
+      ]
+    },
+    {
+      "name": "Avalon Health Care",
+      "slug": "avalon-health-care",
+      "headquarters": "Salt Lake City, Utah",
+      "website": "https://avalonhealthcare.com/",
+      "states": [
+        "HI",
+        "UT",
+        "OR",
+        "WA",
+        "CA",
+        "AZ",
+        "NV"
+      ],
+      "description": "Avalon Health Care is a regional operator of skilled nursing, rehabilitation, assisted living, and long-term care facilities across the western United States, headquartered in Salt Lake City, Utah. Its Hawaii presence includes Avalon Care Center - Honolulu.",
+      "sources": [
+        "https://avalonhealthcare.com/communities/"
       ]
     }
   ]

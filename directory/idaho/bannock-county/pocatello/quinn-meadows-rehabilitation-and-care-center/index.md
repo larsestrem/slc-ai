@@ -4,7 +4,7 @@ title: "Quinn Meadows Rehabilitation and Care Center"
 seo_title: "Quinn Meadows Rehabilitation and Care Center — Senior Living in Pocatello, ID"
 description: "Quinn Meadows Rehabilitation and Care Center is a 41-bed Medicare- and Medicaid-certified skilled nursing facility in Pocatello offering short-term rehabilita"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Quinn Meadows Rehabilitation and Care Center", "url": "/directory/idaho/bannock-county/pocatello/quinn-meadows-rehabilitation-and-care-center/"}]
-nearby: []
+nearby: [{"name": "Idaho State Veterans Home - Pocatello", "url": "/directory/idaho/bannock-county/pocatello/idaho-state-veterans-home-pocatello/", "city_name": "Pocatello", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "facility_size": "large", "cms_rating_overall": 5, "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Pocatello, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars with a High Performing long-term care rating. Provides long-term and rehabilitative skilled nursing care."}]
 state: "idaho"
 state_name: "Idaho"
 state_abbrev: "ID"

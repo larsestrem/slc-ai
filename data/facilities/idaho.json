@@ -795,6 +795,444 @@
         "https://www.seniorlivingguide.com/communities/legends-park-assisted-living-community-1820-n-legends-parkway-coeur-dalene-id-83815/"
       ],
       "verified_date": "2026-07-12"
+    },
+    {
+      "name": "The Terraces of Boise",
+      "slug": "the-terraces-of-boise",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "5301 E Warm Springs Ave",
+      "zip": "83716",
+      "phone": "(208) 336-5550",
+      "website": "https://www.humangood.org/the-terraces-of-boise",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care",
+        "skilled-nursing",
+        "ccrc"
+      ],
+      "facility_size": "medium",
+      "capacity": 48,
+      "organization": "humangood",
+      "organization_name": "HumanGood",
+      "cms_ccn": "135141",
+      "cms_rating_overall": 4,
+      "description": "A nonprofit continuing care retirement community operated by HumanGood, offering residential/independent living, assisted living, memory care and a 48-bed Medicare-certified skilled nursing unit. The skilled nursing facility carries a CMS overall rating of 4 stars, with strong health-inspection and staffing scores. Set on the east side of Boise along Warm Springs Avenue.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/the-terraces-of-boise-135141",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135141"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Idaho State Veterans Home - Boise",
+      "slug": "idaho-state-veterans-home-boise",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "320 Collins Rd",
+      "zip": "83702",
+      "website": "https://veterans.idaho.gov/veterans-home/boise/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 122,
+      "organization": "idaho-division-of-veterans-services",
+      "organization_name": "Idaho Division of Veterans Services",
+      "cms_ccn": "135131",
+      "cms_rating_overall": 5,
+      "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses, run by the Idaho Division of Veterans Services. The 122-bed facility holds a CMS overall rating of 5 stars. It provides long-term skilled nursing and rehabilitative care in northwest Boise.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/135131",
+        "https://veterans.idaho.gov/veterans-home/boise/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Aspen Transitional Rehabilitation",
+      "slug": "aspen-transitional-rehabilitation",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "meridian",
+      "city_name": "Meridian",
+      "address": "2867 E Copper Point Dr",
+      "zip": "83642",
+      "website": "https://www.medicare.gov/care-compare/details/nursing-home/135130",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 30,
+      "cms_ccn": "135130",
+      "cms_rating_overall": 5,
+      "description": "A 30-bed skilled nursing and short-term rehabilitation facility in Meridian focused on post-acute recovery. It holds a CMS overall rating of 5 stars, with high nurse-staffing levels (about 4.7 nursing hours per resident day) and a strong return-to-home rate. Recognized by U.S. News as a Best Nursing Home for short-term rehabilitation.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/aspen-transitional-rehabilitation-135130",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135130"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Cascadia of Nampa",
+      "slug": "cascadia-of-nampa",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "canyon",
+      "county_name": "Canyon",
+      "city": "nampa",
+      "city_name": "Nampa",
+      "address": "900 N Happy Valley Rd",
+      "zip": "83687",
+      "website": "https://www.cascadiahc.com/our-facilities/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 99,
+      "organization": "cascadia-healthcare",
+      "organization_name": "Cascadia Healthcare",
+      "cms_ccn": "135144",
+      "cms_rating_overall": 4,
+      "description": "A 99-bed skilled nursing and short-term rehabilitation center in Nampa operated by Cascadia Healthcare. It carries a CMS overall rating of 4 stars, including a 5-star quality-measures score. Offers Medicare- and Medicaid-certified post-acute and long-term care.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-nampa-135144",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135144"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Bridgeview Estates",
+      "slug": "bridgeview-estates",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "twin-falls",
+      "county_name": "Twin Falls",
+      "city": "twin-falls",
+      "city_name": "Twin Falls",
+      "address": "1828 Bridgeview Blvd",
+      "zip": "83301",
+      "website": "https://lcca.com/locations/id/bridgeview-estates/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 116,
+      "cms_ccn": "135113",
+      "cms_rating_overall": 3,
+      "description": "A senior living campus in Twin Falls with independent living, assisted living and a 116-bed skilled nursing and rehabilitation center. The skilled nursing facility holds a CMS overall rating of 3 stars and was named a U.S. News 2026 Best Nursing Home for short-term rehabilitation. Serves the Magic Valley region.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/bridgeview-estates-135113",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135113"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Life Care Center of Post Falls",
+      "slug": "life-care-center-of-post-falls",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "kootenai",
+      "county_name": "Kootenai",
+      "city": "post-falls",
+      "city_name": "Post Falls",
+      "address": "460 N Garden Plaza Ct",
+      "zip": "83854",
+      "website": "https://lcca.com/locations/id/post-falls/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 120,
+      "organization": "life-care-centers-of-america",
+      "organization_name": "Life Care Centers of America",
+      "cms_ccn": "135142",
+      "cms_rating_overall": 5,
+      "description": "A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. It holds a CMS overall rating of 5 stars, with 5-star health-inspection and quality-measure scores, and was named a U.S. News 2026 Best Nursing Home. Provides short-term rehab and long-term skilled care.",
+      "sources": [
+        "https://lcca.com/locations/id/post-falls/",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135142"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Bingham Memorial Skilled Nursing & Rehabilitation",
+      "slug": "bingham-memorial-skilled-nursing-rehabilitation",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bingham",
+      "county_name": "Bingham",
+      "city": "blackfoot",
+      "city_name": "Blackfoot",
+      "address": "98 Poplar St",
+      "zip": "83221",
+      "website": "https://binghammemorial.org/services/skilled-nursing-and-rehab-center/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 70,
+      "cms_ccn": "135007",
+      "cms_rating_overall": 5,
+      "description": "A 70-bed hospital-based skilled nursing and rehabilitation center attached to Bingham Memorial Hospital in Blackfoot. Nonprofit-affiliated, it holds a CMS overall rating of 5 stars and a High Performing short-term rehabilitation rating. Its on-campus hospital gives residents ready access to acute care.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/bingham-memorial-skilled-nursing-rehabilitation-135007",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135007"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Idaho State Veterans Home - Pocatello",
+      "slug": "idaho-state-veterans-home-pocatello",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bannock",
+      "county_name": "Bannock",
+      "city": "pocatello",
+      "city_name": "Pocatello",
+      "address": "1957 Alvin Ricken Dr",
+      "zip": "83201",
+      "website": "https://veterans.idaho.gov/veterans-home/pocatello/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 66,
+      "organization": "idaho-division-of-veterans-services",
+      "organization_name": "Idaho Division of Veterans Services",
+      "cms_ccn": "135132",
+      "cms_rating_overall": 5,
+      "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Pocatello, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars with a High Performing long-term care rating. Provides long-term and rehabilitative skilled nursing care.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/idaho-state-veterans-home-pocatello-135132",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135132"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Temple View Transitional Care Center",
+      "slug": "temple-view-transitional-care-center",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "madison",
+      "county_name": "Madison",
+      "city": "rexburg",
+      "city_name": "Rexburg",
+      "address": "660 S 2nd St W",
+      "zip": "83440",
+      "website": "https://www.medicare.gov/care-compare/details/nursing-home/135105",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 119,
+      "cms_ccn": "135105",
+      "cms_rating_overall": 3,
+      "description": "A 119-bed skilled nursing and transitional-care center in Rexburg (formerly Rexburg Care and Rehabilitation Center). It holds a CMS overall rating of 3 stars, with a 5-star quality-measures score and 4-star staffing. Serves Madison County and the eastern Idaho region.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/rexburg-care-rehabilitation-center-135105",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135105"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Life Care Center of Sandpoint",
+      "slug": "life-care-center-of-sandpoint",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bonner",
+      "county_name": "Bonner",
+      "city": "sandpoint",
+      "city_name": "Sandpoint",
+      "address": "1125 N Division St",
+      "zip": "83864",
+      "website": "https://lcca.com/locations/id/sandpoint/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 124,
+      "organization": "life-care-centers-of-america",
+      "organization_name": "Life Care Centers of America",
+      "cms_ccn": "135127",
+      "cms_rating_overall": 4,
+      "description": "A 124-bed skilled nursing and rehabilitation center in Sandpoint operated by Life Care Centers of America, serving Bonner County and north Idaho. It holds a CMS overall rating of 4 stars. Provides Medicare- and Medicaid-certified short-term rehab and long-term skilled care.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/life-care-center-of-sandpoint-135127",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135127"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Idaho State Veterans Home - Lewiston",
+      "slug": "idaho-state-veterans-home-lewiston",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "nez-perce",
+      "county_name": "Nez Perce",
+      "city": "lewiston",
+      "city_name": "Lewiston",
+      "address": "821 21st Ave",
+      "zip": "83501",
+      "phone": "(208) 750-3600",
+      "website": "https://veterans.idaho.gov/veterans-home/lewiston/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 66,
+      "organization": "idaho-division-of-veterans-services",
+      "organization_name": "Idaho Division of Veterans Services",
+      "cms_ccn": "135133",
+      "cms_rating_overall": 5,
+      "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Lewiston, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars, with 5-star staffing. Provides long-term and rehabilitative skilled nursing care in the Lewiston-Clarkston valley.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/135133",
+        "https://veterans.idaho.gov/veterans-home/lewiston/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Cascadia of Lewiston",
+      "slug": "cascadia-of-lewiston",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "nez-perce",
+      "county_name": "Nez Perce",
+      "city": "lewiston",
+      "city_name": "Lewiston",
+      "address": "2852 Juniper Dr",
+      "zip": "83501",
+      "phone": "(208) 748-7700",
+      "website": "https://cascadiaoflewiston.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 34,
+      "organization": "cascadia-healthcare",
+      "organization_name": "Cascadia Healthcare",
+      "cms_ccn": "135145",
+      "cms_rating_overall": 5,
+      "description": "A 34-bed skilled nursing and short-term rehabilitation center in Lewiston operated by Cascadia Healthcare, emphasizing private rooms with private baths. It holds a CMS overall rating of 5 stars. Located near St. Joseph Regional Medical Center and Tri-State Memorial Hospital.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-lewiston-135145",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135145"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Royal Plaza Health and Rehabilitation of Cascadia",
+      "slug": "royal-plaza-health-and-rehabilitation-of-cascadia",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "nez-perce",
+      "county_name": "Nez Perce",
+      "city": "lewiston",
+      "city_name": "Lewiston",
+      "address": "2870 Juniper Dr",
+      "zip": "83501",
+      "phone": "(208) 746-2855",
+      "website": "https://royalplazahealthandrehabilitationofcascadia.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 63,
+      "organization": "cascadia-healthcare",
+      "organization_name": "Cascadia Healthcare",
+      "cms_ccn": "135116",
+      "cms_rating_overall": 4,
+      "description": "A 63-bed skilled nursing and rehabilitation center in Lewiston operated by Cascadia Healthcare. It holds a CMS overall rating of 4 stars, above the state and national averages. Provides Medicare- and Medicaid-certified post-acute and long-term skilled care.",
+      "sources": [
+        "https://carelistings.com/skilled-nursing-facilities/lewiston-id/royal-plaza-health-and-rehabilitation-of-cascadia/5ace880f93efd2372f97bc4b",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135116"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Weiser Care of Cascadia",
+      "slug": "weiser-care-of-cascadia",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "weiser",
+      "city_name": "Weiser",
+      "address": "331 E Park St",
+      "zip": "83672",
+      "phone": "(208) 549-2416",
+      "website": "https://www.weisercareofcascadia.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 76,
+      "organization": "cascadia-healthcare",
+      "organization_name": "Cascadia Healthcare",
+      "cms_ccn": "135010",
+      "cms_rating_overall": 3,
+      "description": "A 76-bed skilled nursing and rehabilitation center in Weiser operated by Cascadia Healthcare, serving Washington County in western Idaho. It holds a CMS overall rating of 3 stars, including a 4-star quality-measures score. Provides Medicare- and Medicaid-certified post-acute and long-term care.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/weiser-care-of-cascadia-135010",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135010"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "The Cottages at Columbia Village",
+      "slug": "the-cottages-at-columbia-village",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "3521 E Lake Forest Dr",
+      "zip": "83716",
+      "phone": "(208) 344-2954",
+      "website": "https://www.assistedlivingidaho.com/portfolio/columbia-village/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 60,
+      "description": "An assisted living and memory care community in southeast Boise built as four 15-bed homes arranged around a central courtyard, offering a small-home, residential setting. Respite and adult day care are also available. Base rates start around $3,650/month for assisted living and $4,800/month for memory care.",
+      "review_note": "4.2/5 across 60 reviews on A Place for Mom (2026)",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-cottages-of-columbia-village-101450",
+        "https://www.assistedlivingidaho.com/portfolio/columbia-village/"
+      ],
+      "verified_date": "2026-07-13"
     }
   ],
   "organizations": [
@@ -911,6 +1349,72 @@
       "description": "Prestige Care is a family-owned senior care company based in Vancouver, Washington, operating skilled nursing centers and senior living communities across eight western states. Its portfolio includes assisted living communities such as Legends Park in Coeur d'Alene, Idaho.",
       "sources": [
         "https://www.findhelp.org/prestige-care,-inc.---legends-park-assisted-living-community--coeur-d'alene-id--assisted-living/5855819316068352?postal=83815"
+      ]
+    },
+    {
+      "name": "Cascadia Healthcare",
+      "slug": "cascadia-healthcare",
+      "headquarters": "Eagle, Idaho",
+      "website": "https://www.cascadiahc.com/",
+      "states": [
+        "ID",
+        "AZ",
+        "MT",
+        "NV",
+        "TX"
+      ],
+      "description": "Cascadia Healthcare is an Idaho-based operator of skilled nursing and post-acute rehabilitation facilities across several western states. In Idaho it runs numerous centers, including Cascadia of Nampa, Cascadia of Lewiston, Royal Plaza Health and Rehabilitation of Cascadia and Weiser Care of Cascadia. The company focuses on short-term rehabilitation and long-term skilled nursing care.",
+      "sources": [
+        "https://www.cascadiahc.com/our-facilities/"
+      ]
+    },
+    {
+      "name": "Life Care Centers of America",
+      "slug": "life-care-centers-of-america",
+      "headquarters": "Cleveland, Tennessee",
+      "website": "https://lcca.com/",
+      "states": [
+        "ID",
+        "TN",
+        "CO",
+        "WA",
+        "OR",
+        "FL"
+      ],
+      "description": "Life Care Centers of America is a large privately held operator of skilled nursing, rehabilitation and senior living facilities nationwide. In Idaho it operates centers including Life Care Center of Post Falls, Life Care Center of Sandpoint and Bridgeview Estates. It provides short-term rehab and long-term skilled nursing care.",
+      "sources": [
+        "https://lcca.com/locations/id/"
+      ]
+    },
+    {
+      "name": "Idaho Division of Veterans Services",
+      "slug": "idaho-division-of-veterans-services",
+      "headquarters": "Boise, Idaho",
+      "website": "https://veterans.idaho.gov/",
+      "states": [
+        "ID"
+      ],
+      "description": "The Idaho Division of Veterans Services operates the state's veterans homes, which provide skilled nursing care for eligible Idaho veterans and their spouses. It runs the Idaho State Veterans Homes in Boise, Pocatello, Lewiston and Post Falls. The Boise, Pocatello and Lewiston skilled nursing homes each hold a CMS overall rating of 5 stars.",
+      "sources": [
+        "https://veterans.idaho.gov/veterans-home/"
+      ]
+    },
+    {
+      "name": "HumanGood",
+      "slug": "humangood",
+      "headquarters": "Pleasanton, California",
+      "website": "https://www.humangood.org/",
+      "states": [
+        "CA",
+        "ID",
+        "WA",
+        "OR",
+        "PA",
+        "AZ"
+      ],
+      "description": "HumanGood is one of the largest nonprofit senior living organizations in the United States, operating life plan (continuing care retirement) communities and affordable housing. In Idaho it operates The Terraces of Boise, a continuing care retirement community. Its roots in senior care date to 1949.",
+      "sources": [
+        "https://www.humangood.org/the-terraces-of-boise"
       ]
     }
   ]

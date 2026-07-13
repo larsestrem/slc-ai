@@ -1,0 +1,25 @@
+---
+layout: "facility"
+title: "Orchard Crest Retirement Community"
+seo_title: "Orchard Crest Retirement Community — Senior Living in Spokane Valley, WA"
+description: "An established independent and assisted living retirement community in Spokane Valley, celebrating over 25 years of operation, offering apartments, dining and"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Orchard Crest Retirement Community", "url": "/directory/washington/spokane-county/spokane-valley/orchard-crest-retirement-community/"}]
+nearby: [{"name": "Sullivan Park Assisted Living Community", "url": "/directory/washington/spokane-county/spokane-valley/sullivan-park-assisted-living-community/", "city_name": "Spokane Valley", "state_abbrev": "WA", "care_levels": ["assisted-living", "independent-living"], "description": "Sullivan Park Assisted Living Community offers assisted living and independent living in Spokane Valley, with a skilled nursing and rehabilitation center (Sullivan Park Care Center) on the same campus. Families note the friendly staff, activity programming, and generously sized apartments."}, {"name": "Broadway Court Estates", "url": "/directory/washington/spokane-county/spokane-valley/broadway-court-estates/", "city_name": "Spokane Valley", "state_abbrev": "WA", "care_levels": ["independent-living"], "description": "Broadway Court Estates is a family-run independent living community in Spokane Valley. Reviewers repeatedly highlight the cleanliness of the building, the welcoming residents and staff, the quality and variety of meals, and the full activity calendar."}]
+state: "washington"
+state_name: "Washington"
+state_abbrev: "WA"
+county: "spokane"
+county_name: "Spokane"
+city: "spokane-valley"
+city_name: "Spokane Valley"
+address: "222 S Evergreen Road"
+zip: "99216"
+website: "https://orchardcrestretirement.com/"
+care_levels: ["independent-living", "assisted-living"]
+facility_size: "large"
+sources: ["https://www.caring.com/senior-living/washington/spokane-valley/orchard-crest-99216", "https://health.usnews.com/best-senior-living/orchard-crest-retirement-community-12320"]
+verified_date: "2026-07-13"
+review_note: "4.3/5 across 15 reviews on Caring.com (2026)"
+description_full: "An established independent and assisted living retirement community in Spokane Valley, celebrating over 25 years of operation, offering apartments, dining and activity programming."
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+---

@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/the-cottages-of-columbia-villa
 verified_date: "2026-07-13"
 review_note: "4.2/5 across 60 reviews on A Place for Mom (2026)"
 description_full: "An assisted living and memory care community in southeast Boise built as four 15-bed homes arranged around a central courtyard, offering a small-home, residential setting. Respite and adult day care are also available. Base rates start around $3,650/month for assisted living and $4,800/month for memory care."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-cottages-of-columbia-village-101450"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

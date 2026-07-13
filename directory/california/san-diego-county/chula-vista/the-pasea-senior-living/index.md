@@ -25,5 +25,6 @@ google_rating: 4.2
 google_review_count: 34
 rating_as_of: "2026-07-12"
 description_full: "Resort-style community in the Otay Ranch area of Chula Vista offering independent living, assisted living, and memory care; it operated for years as St. Paul's Plaza before rebranding as The Pasea. Amenities include restaurant-style dining, on-site wellness services, and outdoor courtyards. Reviewers compare the building to a hotel and praise the memory care staff."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-pasea-1381678"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-pasea-chula-vista-2"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

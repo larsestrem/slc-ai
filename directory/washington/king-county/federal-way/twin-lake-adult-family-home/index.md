@@ -25,5 +25,6 @@ review_note: "6 reviews averaging 5.0/5 overall experience on A Place for Mom (9
 specialties: ["Dementia"]
 quality_basis: "Washington-licensed six-bed adult family home with a 5.0/5 average across 6 A Place for Mom reviews and a memory-care focus."
 description_full: "Twin Lake Adult Family Home is a licensed six-bed adult family home in Federal Way, set beside a golf course. It offers memory care and personal care in a small, home-like setting with hands-on daily involvement from the owner and caregivers."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/twin-lake-adult-family-home-1453915"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

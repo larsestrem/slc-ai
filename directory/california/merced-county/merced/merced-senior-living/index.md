@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.3/5 across 32 reviews on Caring.com (July 2026)"
 description_full: "Merced Senior Living (formerly Pacifica Senior Living Merced) is a 93-bed community offering independent living, assisted living, memory care, and respite care. Chef-prepared meals are served restaurant-style, and a full activity calendar includes art classes, gardening, and community outings. Reviewers describe knowledgeable, caring staff and a home-like atmosphere."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/merced/merced-senior-living"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merced-senior-living-96941"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merced-senior-living-merced-2"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

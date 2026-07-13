@@ -27,4 +27,5 @@ sources: ["https://www.medicare.gov/care-compare/details/nursing-home/555835/vie
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 19 reviews on AssistedLivingCenter (July 2026), supplementary to the CMS 5-star skilled nursing rating"
 description_full: "Life Plan (continuing care) community on 23 acres of Stanford land on Sand Hill Road, offering independent living, assisted living, memory care, and skilled nursing. Its 44-bed care center holds a 5-star overall CMS rating, with nursing staff time of 5.91 hours per resident per day versus a 3.87-hour national average and no federal penalties in the past three years."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/vi-at-palo-alto-555835"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/vi-at-palo-alto-palo-alto"}]
 ---

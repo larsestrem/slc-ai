@@ -25,5 +25,6 @@ google_rating: 4.9
 google_review_count: 36
 rating_as_of: "2026-07-12"
 description_full: "Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurants. Reviewers describe a clean, bright building with chef-prepared meals, engaged staff, and frequent outings and activities."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/edmonds-landing-by-cogir-94862"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

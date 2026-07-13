@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/brookdale-medford-60233", "htt
 verified_date: "2026-07-11"
 review_note: "4.3/5 across 68 reviews on A Place for Mom (July 2026)"
 description_full: "Brookdale Medford is an assisted living community on Barnett Road in Medford serving up to 95 residents. Part of the national Brookdale Senior Living network, it has been named a U.S. News Best Senior Living community for assisted living based on resident and family surveys."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/brookdale-medford-60233"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/medford/brookdale-medford"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/brookdale-medford-1800"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

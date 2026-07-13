@@ -23,5 +23,6 @@ sources: ["https://www.seniorcareauthority.com/assisted-living/dominican-oaks-in
 verified_date: "2026-07-12"
 review_note: "4.5/5 (4.48) across 41 ratings on Senior Care Authority; Olera community sentiment 4.7/5 (July 2026)"
 description_full: "Retirement community on Paul Sweet Road adjacent to Dominican Hospital in Santa Cruz, offering independent and assisted living. Long-standing local reputation with reviews praising the beautiful setting, personable staff and active community atmosphere."
+review_links: [{"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/dominican-oaks-in-santa-cruz-california.html"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

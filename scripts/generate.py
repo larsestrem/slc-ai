@@ -77,6 +77,40 @@ def write(path: Path, content: str):
     path.write_text(content, encoding="utf-8")
 
 
+# Public review platforms — a source URL on one of these domains is a page where
+# families can read the actual reviews, so we surface it as a labeled link.
+REVIEW_PLATFORMS = [
+    ("aplaceformom.com", "A Place for Mom"),
+    ("caring.com", "Caring.com"),
+    ("senioradvisor.com", "SeniorAdvisor"),
+    ("senioradvice.com", "SeniorAdvice"),
+    ("seniorcareauthority.com", "Senior Care Authority"),
+    ("assistedlivingcenter.com", "AssistedLivingCenter"),
+    ("carelistings.com", "CareListings"),
+    ("seniorly.com", "Seniorly"),
+    ("mycaringplan.com", "My Caring Plan"),
+    ("olera.care", "Olera"),
+    ("birdeye.com", "Birdeye"),
+    ("yelp.com", "Yelp"),
+    ("health.usnews.com", "U.S. News"),
+    ("g.page", "Google"),
+    ("google.com/maps", "Google"),
+]
+
+
+def review_links_from_sources(sources):
+    """Map source URLs to labeled links for the review platforms among them."""
+    links, seen = [], set()
+    for url in sources or []:
+        low = url.lower()
+        for domain, name in REVIEW_PLATFORMS:
+            if domain in low and name not in seen:
+                links.append({"name": name, "url": url})
+                seen.add(name)
+                break
+    return links
+
+
 def county_slug(f):
     return f["county"] if f["county"].endswith("-county") else f["county"] + "-county"
 
@@ -209,6 +243,9 @@ def gen_facility_page(f, siblings, licensing):
         if f.get(k) not in (None, "", []):
             front[k] = f[k]
     front["description_full"] = f.get("description")
+    rlinks = f.get("review_links") or review_links_from_sources(f.get("sources"))
+    if rlinks:
+        front["review_links"] = rlinks
     if not f.get("cms_ccn") and licensing:
         front["licensing"] = {"agency": licensing.get("agency"), "lookup_url": licensing.get("lookup_url")}
     write(DIRECTORY / f["state"] / county_slug(f) / f["city"] / f["slug"] / "index.md", fm(front))

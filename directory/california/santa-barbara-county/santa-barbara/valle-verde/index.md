@@ -26,4 +26,5 @@ sources: ["https://www.caring.com/senior-living/california/santa-barbara/valle-v
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 21 reviews on Caring.com (2026); on-site health center holds a 4-star CMS overall rating"
 description_full: "A HumanGood nonprofit continuing care retirement community in Santa Barbara offering independent living, assisted living, and skilled nursing on beautiful grounds. Named a U.S. News Best Senior Living community for assisted and independent living."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/santa-barbara/valle-verde-93105"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/valle-verde-1900"}]
 ---

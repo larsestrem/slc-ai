@@ -23,4 +23,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/marysville-care-center-505386", "https://nursinghomerating.org/WA/marysville-care-center/505386/"]
 verified_date: "2026-07-13"
 description_full: "A 97-bed skilled nursing facility in Marysville offering short-term rehab and long-term care. Its CMS overall rating is 3 stars (per CMS data current as of early 2026), which now qualifies under the directory's skilled-nursing inclusion policy."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/marysville-care-center-505386"}]
 ---

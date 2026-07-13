@@ -24,5 +24,6 @@ organization_name: "Brookdale Senior Living"
 sources: ["https://www.brookdale.com/en/communities/brookdale-bend.html", "https://assistedlivingmagazine.com/nursing-home/brookdale-bend/", "https://www.aplaceformom.com/community/brookdale-bend-72412"]
 verified_date: "2026-07-11"
 description_full: "Brookdale Bend is a single-story community licensed for 59 residents that focuses on memory care for people living with Alzheimer's disease and other dementias. Staff are available around the clock, and the secured building includes walking trails and personalized care assessments. It is part of the national Brookdale Senior Living network."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/brookdale-bend-72412"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -26,4 +26,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-lewiston-135145", "https://www.medicare.gov/care-compare/details/nursing-home/135145"]
 verified_date: "2026-07-13"
 description_full: "A 34-bed skilled nursing and short-term rehabilitation center in Lewiston operated by Cascadia Healthcare, emphasizing private rooms with private baths. It holds a CMS overall rating of 5 stars. Located near St. Joseph Regional Medical Center and Tri-State Memorial Hospital."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-lewiston-135145"}]
 ---

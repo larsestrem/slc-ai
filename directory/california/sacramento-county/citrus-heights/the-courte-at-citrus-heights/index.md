@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/the-courte-at-citrus-heights-1
 verified_date: "2026-07-12"
 review_note: "4.4/5 across 30 reviews on A Place for Mom; 4.1/5 across 38 reviews on Birdeye (July 2026)"
 description_full: "Dedicated memory care community on Sunrise Boulevard in Citrus Heights serving residents with Alzheimer's and other dementias. Care is built around Frontier's Montessori-inspired SPARK lifestyle program, and U.S. News has named it a Best Senior Living community for memory care based on resident and family surveys."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-courte-at-citrus-heights-1398128"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-courte-at-citrus-heights-citrus-heights"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

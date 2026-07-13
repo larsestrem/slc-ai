@@ -23,4 +23,5 @@ cms_rating_overall: 5
 sources: ["https://www.nursinghomedatabase.com/snf/505465", "https://www.seniorcare.com/nursing-homes/wa/stanwood/josephine-caring-community/505465/", "https://health.usnews.com/best-nursing-homes/area/wa/josephine-caring-community-505465"]
 verified_date: "2026-07-12"
 description_full: "Josephine Caring Community is a nonprofit senior care campus in Stanwood offering skilled nursing, short-term rehabilitation, memory care, and assisted living. The 160-bed facility carries a 5-star CMS overall rating, with nursing staff hours well above the national average, and has served the Stillaguamish Valley for over a century."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/josephine-caring-community-505465"}]
 ---

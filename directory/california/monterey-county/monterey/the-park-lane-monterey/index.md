@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/the-park-lane-56928", "https:/
 verified_date: "2026-07-12"
 review_note: "4.5/5 average across 117 all-time reviews on A Place for Mom (July 2026); note APFM's recent-2-year score is lower at 5.6/10"
 description_full: "Large Pacifica Senior Living community in the Monterey hills offering independent living, assisted living, memory care, and respite care. Resort-style, pet-friendly campus with chef-prepared meals, creative arts programs, and garden views near Del Monte Shopping Center. Long track record of positive family reviews, though some recent reviews note staffing challenges."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-park-lane-56928"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

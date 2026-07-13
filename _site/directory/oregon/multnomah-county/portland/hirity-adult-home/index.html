@@ -121,6 +121,10 @@ main { display: block; padding: 1.6rem 0 3rem; }
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
 .stars .off { color: var(--line); }
+.stars .half { color: var(--gold); }
+@supports ((-webkit-background-clip: text) or (background-clip: text)) {
+  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
+}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -333,12 +337,14 @@ tbody tr:hover { background: var(--soft); }
     </div>
   </div>
   <div class="rating-card">
-    <div class="rating-badge"><span class="rating-num">Family<br>reviews</span></div>
+    <div class="rating-badge"><span class="rating-num">Family<br>reviews</span>
+    </div>
     <div class="rating-body">
       <h3>Family &amp; resident reviews</h3>
       <p><strong>Who writes it:</strong> families and residents, on public review sites (4.6/5 across 21 reviews (Google numbers shown on Mirador Living directory listing, July 2026)).
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
       inspections. Read the recent ones and the middle-star ones, not just the average. A home this small serves only a handful of families at a time, so even a great one collects far fewer reviews than a 100-bed building — <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">judge it by the record and your visit, not the review count</a>.</p>
+      <p><strong>Read the reviews:</strong> <a href="https://www.aplaceformom.com/community/hirity-adult-home-99823" rel="nofollow noopener">A Place for Mom</a> — see the ratings and what families wrote, then judge for yourself.</p>
       <p><a href="/guides/interpreting-online-reviews/">How to read online reviews without being misled</a></p>
     </div>
   </div>

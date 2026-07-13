@@ -26,5 +26,6 @@ google_rating: 4.2
 google_review_count: 25
 rating_as_of: "2026-07-12"
 description_full: "Wheatland Village is a Generations family-operated retirement campus in Walla Walla offering independent living, assisted living, and memory care. The community includes a swimming pool, hot tub, gym, chapel, movie theater, library, and ice cream parlor, and locals frequently call it the best retirement facility in town."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/wheatland-village-walla-walla-3"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/wheatland-village-98004"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

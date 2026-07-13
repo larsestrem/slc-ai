@@ -26,4 +26,5 @@ cms_rating_overall: 4
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/salem-transitional-care-385234", "https://www.avamere.com/salem-transitional-care/rehabilitation", "https://ltclicensing.oregon.gov/Facilities/Details/385234"]
 verified_date: "2026-07-12"
 description_full: "Salem Transitional Care is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Salem focused on post-acute rehabilitation. It holds a 4-star overall CMS rating, including a 5-star quality measure rating, and is part of the Avamere family of post-acute care providers."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/salem-transitional-care-385234"}]
 ---

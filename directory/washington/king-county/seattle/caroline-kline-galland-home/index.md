@@ -26,4 +26,5 @@ sources: ["https://www.klinegalland.org/", "https://www.nursinghomedatabase.com/
 verified_date: "2026-07-12"
 review_note: "CMS 5-star overall rating; short-term rehab and long-term care both rated High Performing by U.S. News (July 2026)"
 description_full: "Nonprofit Jewish-heritage skilled nursing and rehabilitation campus on the shores of Lake Washington in Seward Park, serving Seattle since 1914. Offers short-term rehabilitation and long-term care and holds a CMS 5-star overall rating, with nursing staff time of 6.13 hours per resident daily versus a 3.89-hour national average."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/caroline-kline-galland-home-505442"}]
 ---

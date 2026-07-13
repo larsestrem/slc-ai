@@ -22,5 +22,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.6/5 across 21 reviews (Google numbers shown on Mirador Living directory listing, July 2026)"
 description_full: "A residential care home in outer southeast Portland providing personal care in a small group-home setting, including memory care for residents with Alzheimer's or other dementias. Shared-room rates run roughly $5,500-5,900 per month."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/hirity-adult-home-99823"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -26,5 +26,6 @@ google_rating: 4.9
 google_review_count: 64
 rating_as_of: "2026-07-13"
 description_full: "A luxury independent and assisted living community in downtown Bellevue with 144 apartments, two restaurants, a fitness center and salon, operated by MBK Senior Living. It is very highly reviewed by residents and families."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-bellettini-101653"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

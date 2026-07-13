@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/atria-las-posas-56350", "https
 verified_date: "2026-07-12"
 review_note: "4.4/5 across 67 reviews on A Place for Mom (2026)"
 description_full: "An Atria assisted living and memory care community in Ventura County. Reviewers praise the caring, attentive staff, a clean and attractive environment, and smooth move-in transitions."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-las-posas-56350"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

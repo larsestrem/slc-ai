@@ -25,5 +25,6 @@ sources: ["https://www.humangood.org/regents-point", "https://www.aplaceformom.c
 verified_date: "2026-07-12"
 review_note: "4.5/5 across 14 reviews on A Place for Mom (July 2026)"
 description_full: "Nonprofit continuing care retirement community operated by HumanGood, set between UC Irvine and 347-acre Mason Regional Park. Offers independent living, assisted living, memory care, and on-campus skilled nursing (Regents Point-Windcrest), which has provided post-acute rehab in Orange County for over 30 years. Named a Best CCRC in U.S. News' 2026 Best Senior Living awards."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/regents-point-1356836"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/regents-point-2006"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

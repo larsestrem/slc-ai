@@ -23,4 +23,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/avalon-care-center-federal-way-505510", "https://everlighthealth.org/avalon-care-center-federal-way-federal-way-wa-505510/"]
 verified_date: "2026-07-13"
 description_full: "A 120-bed skilled nursing and rehabilitation center in Federal Way offering short-term rehab and long-term care. Its CMS overall rating is 3 stars (per CMS data dated February 2026), qualifying under the skilled-nursing inclusion policy."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/avalon-care-center-federal-way-505510"}]
 ---

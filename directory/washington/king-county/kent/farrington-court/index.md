@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/farrington-court-71286", "http
 verified_date: "2026-07-12"
 review_note: "4.8/5 average across 129 all-time reviews on A Place for Mom; 9.8/10 APFM review score based on 37 reviews in the last 2 years (July 2026)"
 description_full: "A 62+ independent and assisted living community that has been a cornerstone of Kent for over 50 years, now part of Stellar Senior Living. Reviewers consistently note that staff know every resident by name and describe a friendly, resort-style atmosphere with an active social calendar."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/farrington-court-71286"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/kent/farrington-court-kent-washington"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -24,5 +24,6 @@ verified_date: "2026-07-13"
 review_note: "4 reviews on A Place for Mom (July 2026)"
 quality_basis: "Washington-licensed six-bed adult family home with positive A Place for Mom reviews and long-standing local operation by the same providers."
 description_full: "Grace Senior Care of Issaquah is a licensed adult family home for up to six residents, set on a private acre and a half in the Issaquah Highlands area near I-90. Each resident has a private room and bathroom, with hands-on care from providers Michelle and Alex Lupse, who have offered senior care in Issaquah for many years."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/grace-senior-care-of-issaquah-160401"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/guardian-angel-homes-post-fall
 verified_date: "2026-07-12"
 review_note: "4.3/5 average across 19 reviews on A Place for Mom (July 2026)"
 description_full: "Guardian Angel Homes Post Falls is a campus of smaller residential-style homes — including the Tudor House, Timber House, The Cottage, and The Craftsman for residents with advanced Alzheimer's and dementia — plus The Inn, which offers larger suites for a more independent lifestyle. The Pacific Northwest operator provides care ranging from minimal assistance to specialized memory support."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/guardian-angel-homes-post-falls-102162"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

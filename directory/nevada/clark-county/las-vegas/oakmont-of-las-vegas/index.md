@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/oakmont-of-las-vegas-1421326",
 verified_date: "2026-07-12"
 review_note: "4.5/5 overall experience across 154 reviews on A Place for Mom; review score 9.5/10 based on 27 reviews in the last 2 years (July 2026)"
 description_full: "Luxury assisted living and memory care community on East Flamingo Road in Las Vegas. Amenities include restaurant-style dining, a wellness center with a full-time nurse, landscaped grounds, and a 24-hour call system. Families consistently praise the professional staff, dining, and activity programming."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-las-vegas-1421326"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/nevada/las-vegas/oakmont-of-las-vegas"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-las-vegas-las-vegas"}]
 licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
 ---

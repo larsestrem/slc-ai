@@ -24,5 +24,6 @@ sources: ["https://www.aplaceformom.com/community/pelican-pointe-by-cogir-60287"
 verified_date: "2026-07-11"
 review_note: "4.5/5 across 36 reviews on A Place for Mom (July 2026)"
 description_full: "Pelican Pointe is an assisted living and memory care community on Washburn Way in Klamath Falls, offering studio, private room, and one-bedroom apartments including a dedicated memory care neighborhood. Reviewers consistently praise the friendly staff, clean facilities, and meals. The community is operated by Cogir Senior Living."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/pelican-pointe-by-cogir-60287"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

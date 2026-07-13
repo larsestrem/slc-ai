@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/nazareth-rose-garden-of-napa-5
 verified_date: "2026-07-12"
 review_note: "4.5/5 overall experience across 25 reviews on A Place for Mom (July 2026)"
 description_full: "A 44-bed assisted living and memory care community in the city of Napa offering a 24-hour call system, round-the-clock supervision, and help with daily activities such as bathing, dressing, and medication management. Its smaller size gives residents a more homelike setting than the large campuses in the area, and families rate the care highly."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/nazareth-rose-garden-of-napa-57710"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/california/napa/nazareth-rose-garden-of-napa"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

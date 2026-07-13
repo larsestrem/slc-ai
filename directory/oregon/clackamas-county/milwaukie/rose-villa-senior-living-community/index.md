@@ -22,5 +22,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.2/5 across 42 reviews (rating shown on senior-care directory listings, July 2026)"
 description_full: "A nonprofit, single-site continuing care retirement community on 22 acres on a bluff above the Willamette River, offering cottage homes and a full continuum from independent living through 24-hour nursing care. Amenities include a pool, spa, gym, library, and rentable artist studios."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/portland/rose-villa-97222"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/rose-villa-13456"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

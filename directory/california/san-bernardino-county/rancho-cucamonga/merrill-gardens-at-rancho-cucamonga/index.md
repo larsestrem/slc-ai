@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.9/5 average across 26 reviews on A Place for Mom; 4.8 stars on Google; state inspection grade A- (July 2026)"
 description_full: "Merrill Gardens at Rancho Cucamonga offers independent living, assisted living, and memory care below the San Gabriel foothills. It carries some of the strongest review scores in the Inland Empire, with families citing excellent care, a clean environment, and good dining."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-rancho-cucamonga-1414684"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

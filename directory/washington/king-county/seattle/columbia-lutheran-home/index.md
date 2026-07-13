@@ -24,4 +24,5 @@ sources: ["https://columbialutheranhome.org/", "https://www.senioradvice.com/pro
 verified_date: "2026-07-12"
 review_note: "CMS overall rating 4 stars (quality measures 4, nursing staffing 4, health inspections 3) as of July 2026"
 description_full: "One of the Pacific Northwest's longest-operating standalone not-for-profit nursing homes, located in Seattle's Phinney Ridge neighborhood. Provides short-term transitional care and rehabilitation plus long-term care across 116 certified beds, with a CMS 4-star overall rating and High Performing marks from U.S. News for both short-term rehab and long-term care."
+review_links: [{"name": "SeniorAdvice", "url": "https://www.senioradvice.com/providers/view/columbia-lutheran-home-seattle-wa"}]
 ---

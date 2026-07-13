@@ -26,4 +26,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/avalon-care-center-honolulu-125020", "https://avalonhealthcare.com/honolulu/"]
 verified_date: "2026-07-13"
 description_full: "Avalon Care Center - Honolulu is a 108-bed skilled nursing and rehabilitation facility operated by Avalon Health Care. It carries a CMS overall rating of 3 stars, with strong quality-measure (5-star) and staffing (4-star) component ratings offset by a lower (2-star) health-inspection rating. It offers short-term rehabilitation and long-term skilled nursing care."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/avalon-care-center-honolulu-125020"}]
 ---

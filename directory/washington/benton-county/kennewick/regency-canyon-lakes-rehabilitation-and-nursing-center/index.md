@@ -26,4 +26,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/regency-canyon-lakes-rehabilitation-and-nursing-center-505372", "https://www.regency-pacific.com/senior-living/wa/kennewick/regency-canyon-lakes-rehabilitation-and-nursing-center/", "https://carelistings.com/skilled-nursing-facilities/kennewick-wa/regency-canyon-lakes-rehab-and-nursing-center/5ace891a93efd2372f99243e"]
 verified_date: "2026-07-12"
 description_full: "Regency Canyon Lakes is a 53-bed Medicare- and Medicaid-certified skilled nursing facility in south Kennewick offering short-term rehabilitation, long-term care, and respite stays. It holds a 5-star overall rating from CMS and is rated High Performing for short-term rehabilitation by U.S. News."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/regency-canyon-lakes-rehabilitation-and-nursing-center-505372"}, {"name": "CareListings", "url": "https://carelistings.com/skilled-nursing-facilities/kennewick-wa/regency-canyon-lakes-rehab-and-nursing-center/5ace891a93efd2372f99243e"}]
 ---

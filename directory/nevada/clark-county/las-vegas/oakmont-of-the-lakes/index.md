@@ -22,5 +22,6 @@ sources: ["https://www.aplaceformom.com/community/oakmont-of-the-lakes-72470", "
 verified_date: "2026-07-12"
 review_note: "4.4/5 overall experience across 87 reviews on A Place for Mom; review score 8.6/10 based on 12 reviews in the last 2 years (July 2026)"
 description_full: "Assisted living and memory care community in The Lakes area of west Las Vegas, close to Summerlin. Part of the Oakmont Management Group family of communities, it is repeatedly cited among the top-value assisted living options in the Las Vegas market. Reviewers highlight caring staff and a warm, welcoming environment."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-the-lakes-72470"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/nevada/las-vegas/oakmont-of-the-lakes"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-the-lakes-las-vegas"}]
 licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
 ---

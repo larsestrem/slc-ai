@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/carmel-village-at-clovis-senio
 verified_date: "2026-07-12"
 review_note: "4.5/5 across 63 reviews on A Place for Mom (July 2026)"
 description_full: "A resort-style senior living community in the heart of Clovis offering independent living, assisted living, and memory care. Managed by Generations LLC, it is consistently praised for its clean environment, dining, and compassionate memory care team."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/carmel-village-at-clovis-senior-living-1368455"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

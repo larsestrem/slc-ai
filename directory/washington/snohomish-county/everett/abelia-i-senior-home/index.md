@@ -26,5 +26,6 @@ google_review_count: 5
 rating_as_of: "2026-07-13"
 quality_basis: "Rated 5.0 stars from 5 Google reviews per aggregator listing; licensed 6-bed adult family home."
 description_full: "Abelia I Senior Home is a licensed 6-bed adult family home in Everett operated by Abelia Senior Services LLC. It provides personal care, medication management, family-style meals and 24-hour supervision in a home setting."
+review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/everett-wa/abelia-i-senior-home/5acd0297a71d8c15cf696ce0"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

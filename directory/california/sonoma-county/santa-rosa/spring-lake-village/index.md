@@ -23,5 +23,6 @@ sources: ["https://birdeye.com/spring-lake-village-171234798475354", "https://he
 verified_date: "2026-07-12"
 review_note: "4.2/5 across 80 reviews on Birdeye (July 2026); U.S. News High Performing ratings for short-term rehab and long-term care"
 description_full: "A continuing care retirement community set beside Spring Lake and Annadel State Park in east Santa Rosa, operated by nonprofit Front Porch. Offers independent living, assisted living, and on-site skilled nursing rated High Performing for both short-term rehab and long-term care by U.S. News. Known for its landscaped campus, dining, and extensive resident programming."
+review_links: [{"name": "Birdeye", "url": "https://birdeye.com/spring-lake-village-171234798475354"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/spring-lake-village-555268"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/santa-rosa/spring-lake-village-95409-1"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

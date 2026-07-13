@@ -46,14 +46,20 @@ how the rating is determined.
   </div>
   {%- endif %}
 
-  {%- if page.google_rating or page.review_note %}
+  {%- if page.google_rating or page.review_note or page.review_links %}
   <div class="rating-card">
-    <div class="rating-badge"><span class="rating-num">{% if page.google_rating %}{{ page.google_rating }} of 5{% else %}Family<br>reviews{% endif %}</span></div>
+    <div class="rating-badge">
+      {%- if page.google_rating %}{% include stars.html rating=page.google_rating %}<span class="rating-num">{{ page.google_rating }} of 5</span>
+      {%- else %}<span class="rating-num">Family<br>reviews</span>{% endif %}
+    </div>
     <div class="rating-body">
       <h3>Family &amp; resident reviews</h3>
-      <p><strong>Who writes it:</strong> families and residents, on public review sites{% if page.google_rating and page.google_review_count %} — {{ page.google_review_count }} Google reviews{% if page.rating_as_of %} as of {{ page.rating_as_of | date: "%B %Y" }}{% endif %}{% elsif page.review_note %} ({{ page.review_note }}){% endif %}.
+      <p><strong>Who writes it:</strong> families and residents, on public review sites{% if page.google_rating and page.google_review_count %} — {{ page.google_rating }} of 5 across {{ page.google_review_count }} reviews{% if page.rating_as_of %} as of {{ page.rating_as_of | date: "%B %Y" }}{% endif %}{% elsif page.review_note %} ({{ page.review_note }}){% endif %}.
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
       inspections. Read the recent ones and the middle-star ones, not just the average.{% if page.facility_size == 'small' %} A home this small serves only a handful of families at a time, so even a great one collects far fewer reviews than a 100-bed building — <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">judge it by the record and your visit, not the review count</a>.{% endif %}</p>
+      {%- if page.review_links and page.review_links.size > 0 %}
+      <p><strong>Read the reviews:</strong> {% for rl in page.review_links %}<a href="{{ rl.url }}" rel="nofollow noopener">{{ rl.name }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %} — see the ratings and what families wrote, then judge for yourself.</p>
+      {%- endif %}
       <p><a href="/guides/interpreting-online-reviews/">How to read online reviews without being misled</a></p>
     </div>
   </div>

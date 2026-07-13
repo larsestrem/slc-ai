@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.5/5 on SeniorAdvisor; 4.7/5 across 11 reviews on AssistedLivingCenter.com (July 2026)"
 description_full: "Brookdale McMinnville City Center is an assisted living and memory care community near downtown McMinnville, part of the national Brookdale Senior Living network. Residents and visitors praise the community's cleanliness, compassionate caregivers, and homey atmosphere, with studio through one-bedroom floor plans from roughly 375 to 783 square feet."
+review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/brookdale-mcminnville-city-center-mcminnville-or"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/mcminnville/brookdale-mcminnville-city-center-97128/"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

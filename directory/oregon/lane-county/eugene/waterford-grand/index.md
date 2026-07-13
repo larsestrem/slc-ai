@@ -25,5 +25,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.2/5 across 69 reviews on A Place for Mom; 9/10 APFM review score on 19 reviews in last 2 years (July 2026)"
 description_full: "An assisted living and memory care community beside the Willamette River in Eugene with a gym, pool, and salon. Reviewers praise attentive staff and river views, though some report inconsistent food quality."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/waterford-grand-1376064"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

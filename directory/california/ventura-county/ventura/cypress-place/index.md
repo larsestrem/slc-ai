@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/cypress-place-100577", "https:
 verified_date: "2026-07-12"
 review_note: "4.66/5 aggregated across web reviews (AssistedLiving.org); 40 reviews on A Place for Mom (2026)"
 description_full: "A Meridian Senior Living community in Ventura offering independent living, assisted living, and memory care. Reviewers highlight a welcoming atmosphere, kind and professional staff, and enjoyable dining."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cypress-place-100577"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

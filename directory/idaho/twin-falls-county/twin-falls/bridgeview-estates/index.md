@@ -23,4 +23,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/bridgeview-estates-135113", "https://www.medicare.gov/care-compare/details/nursing-home/135113"]
 verified_date: "2026-07-13"
 description_full: "A senior living campus in Twin Falls with independent living, assisted living and a 116-bed skilled nursing and rehabilitation center. The skilled nursing facility holds a CMS overall rating of 3 stars and was named a U.S. News 2026 Best Nursing Home for short-term rehabilitation. Serves the Magic Valley region."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/bridgeview-estates-135113"}]
 ---

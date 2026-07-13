@@ -23,4 +23,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/aspen-transitional-rehabilitation-135130", "https://www.medicare.gov/care-compare/details/nursing-home/135130"]
 verified_date: "2026-07-13"
 description_full: "A 30-bed skilled nursing and short-term rehabilitation facility in Meridian focused on post-acute recovery. It holds a CMS overall rating of 5 stars, with high nurse-staffing levels (about 4.7 nursing hours per resident day) and a strong return-to-home rate. Recognized by U.S. News as a Best Nursing Home for short-term rehabilitation."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/aspen-transitional-rehabilitation-135130"}]
 ---

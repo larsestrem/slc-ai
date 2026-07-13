@@ -22,5 +22,6 @@ sources: ["https://www.aplaceformom.com/community/everest-at-the-groves-of-tusti
 verified_date: "2026-07-12"
 review_note: "4.2/5 across 59 reviews on A Place for Mom (July 2026)"
 description_full: "Assisted living and memory care community on Bryan Avenue in Tustin, long known locally as The Groves of Tustin and now operated by Everest Senior Living. Offers studio and one-bedroom apartments plus a dedicated Generations memory care neighborhood with its own dining room, living room, and patio. Reviewers repeatedly mention the warmth of the caregiving staff and the courtyard grounds."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/everest-at-the-groves-of-tustin-147249"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

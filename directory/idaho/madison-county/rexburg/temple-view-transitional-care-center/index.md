@@ -23,4 +23,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/rexburg-care-rehabilitation-center-135105", "https://www.medicare.gov/care-compare/details/nursing-home/135105"]
 verified_date: "2026-07-13"
 description_full: "A 119-bed skilled nursing and transitional-care center in Rexburg (formerly Rexburg Care and Rehabilitation Center). It holds a CMS overall rating of 3 stars, with a 5-star quality-measures score and 4-star staffing. Serves Madison County and the eastern Idaho region."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/rexburg-care-rehabilitation-center-135105"}]
 ---

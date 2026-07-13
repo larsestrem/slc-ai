@@ -23,5 +23,6 @@ organization_name: "Vi"
 sources: ["https://www.viliving.com/locations/ca/san-diego-la-jolla", "https://www.viliving.com/locations/ca/san-diego-la-jolla/contact", "https://www.yelp.com/biz/vi-at-la-jolla-village-san-diego"]
 verified_date: "2026-07-11"
 description_full: "Vi at La Jolla Village is a Life Plan Community (continuing care retirement community) in San Diego's University City/La Jolla area. The campus offers independent living plus a care center with assisted living, memory care, and skilled nursing at 4171 Las Palmas Square."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/vi-at-la-jolla-village-san-diego"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

@@ -26,5 +26,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.7/5 across 12 reviews on Caring.com (July 2026)"
 description_full: "Walnut Village is a continuing care retirement community in Anaheim offering independent living, assisted living, memory care and skilled nursing on one campus. The community, operated by nonprofit Front Porch, features a library, swimming pool and fitness center, and was named Continuing Care Retirement Community of the Year 2010 by 50+ Builders Magazine."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/anaheim/walnut-village-92802"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/walnut-village-orange-county-retirement-community-anaheim"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/walnut-village-56155"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

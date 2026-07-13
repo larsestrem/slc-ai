@@ -24,5 +24,6 @@ sources: ["https://www.thespringsliving.com/senior-living/medford/oregon/anna-ma
 verified_date: "2026-07-11"
 review_note: "4.6/5 across 9 reviews on A Place for Mom (July 2026)"
 description_full: "The Springs at Anna Maria is an independent and assisted living campus in the foothills of Medford's Rogue Valley, operated by Oregon-based The Springs Living. Most residents live independently and can add assisted living services as their needs change, choosing from studio, one-bedroom, and two-bedroom apartments."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-springs-at-anna-maria-60232"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/medford/the-springs-at-anna-maria-medford"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -22,5 +22,6 @@ verified_date: "2026-07-13"
 review_note: "23 reviews on A Place for Mom with a 10-out-of-10 review score, generally very positive (July 2026)"
 quality_basis: "Oregon adult foster home (up to 5 residents) included on two positive signals: 23 largely positive reviews on A Place for Mom (10/10 review score, July 2026), plus aggregator-reported longevity operating since 2008."
 description_full: "Fulga's Adult Care Home is a small Beaverton adult care home specializing in memory, diabetic, and incontinence care, with skilled nursing on site and both hospice and respite options. The owner has been a caregiver for over fourteen years and a nurse for over eight. It is among the most-reviewed small homes in the area, with an unusually deep body of positive feedback."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fulgas-ach-151085"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -23,5 +23,6 @@ sources: ["https://reviews.birdeye.com/aegis-living-kirkland-waterfront-16818763
 verified_date: "2026-07-12"
 review_note: "5.0/5 across 13 reviews on Birdeye (July 2026)"
 description_full: "Aegis Living Kirkland Waterfront is a premium assisted living and memory care community steps from downtown Kirkland with views of Lake Washington. The community includes a theater, salon, pub, and gym, and reviewers consistently praise the staff and vibrant environment while noting its high cost."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/aegis-living-kirkland-waterfront-168187639084168"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/aegis-living-kirkland-waterfront-kirkland"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -22,5 +22,6 @@ google_rating: 4.6
 google_review_count: 35
 rating_as_of: "2026-07-12"
 description_full: "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma. Families consistently praise the compassionate staff and the smooth, supportive move-in process."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/bridgeport-place-assisted-living-157269831319314"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bridgeport-place-95381"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/bridgeport-place-university-place"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

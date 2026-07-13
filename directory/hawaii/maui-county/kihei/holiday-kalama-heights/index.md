@@ -25,5 +25,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.5/5 across 15 reviews on Caring.com (July 2026)"
 description_full: "A pet-friendly independent senior living community in Kihei on Maui's south shore, minutes from Kamaole Beach Park. Three homestyle meals a day, weekly housekeeping, utilities, and scheduled transportation are bundled into one monthly rate, and residents praise the staff, activities, and beach-close location."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/kihei/holiday-kalama-heights"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/holiday-kalama-heights-73307"}]
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
 ---

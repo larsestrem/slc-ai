@@ -24,5 +24,6 @@ sources: ["https://www.aplaceformom.com/community/morning-star-of-pasadena-97776
 verified_date: "2026-07-12"
 review_note: "4.7/5 average overall experience across 74 reviews on A Place for Mom (July 2026)"
 description_full: "Assisted living and memory care community on South Fair Oaks Avenue in Pasadena, operated by MorningStar Senior Living. The community earned a deficiency-free rating from the state licensing agency for four consecutive years, and reviewers frequently compare its common areas, gardens, and dining to a first-class hotel."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/morning-star-of-pasadena-97776"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/pasadena/morningstar-of-pasadena"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

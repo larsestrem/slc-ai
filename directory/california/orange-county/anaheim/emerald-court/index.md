@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/emerald-court-56137", "https:/
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 48 reviews on A Place for Mom (July 2026)"
 description_full: "Kisco Senior Living community in west Anaheim offering independent living, assisted living, and memory care near Anaheim Medical Center. U.S. News has rated it a Best Senior Living community across all three care levels. Reviewers consistently describe a clean, well-maintained building, quick staff response times, and a lively activity and dining program."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/emerald-court-56137"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/emerald-court-anaheim"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

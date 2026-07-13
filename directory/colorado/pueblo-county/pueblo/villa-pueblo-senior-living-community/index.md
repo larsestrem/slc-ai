@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.2/5 overall across 34 reviews on A Place for Mom (July 2026)"
 description_full: "Villa Pueblo is a complete campus of care in Pueblo offering independent living in its tower, private assisted living rooms in the Terrace and Pavilion, and skilled nursing and rehabilitation. Families note the involved staff, restaurant-style dining, and full activity program across all levels of care."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/villa-pueblo-senior-living-community-93607"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/villa-pueblo-pueblo-co"}]
 licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
 ---

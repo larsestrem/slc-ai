@@ -24,5 +24,6 @@ organization_name: "Eskaton"
 sources: ["https://discover.eskaton.org/land-park/", "https://www.yelp.com/biz/eskaton-land-park-sacramento", "https://www.aplaceformom.com/community/eskaton-land-park-59311"]
 verified_date: "2026-07-11"
 description_full: "Eskaton Land Park (formerly Eskaton Monroe Lodge) is an independent living community in Sacramento's Land Park neighborhood, near Sacramento City College and William Land Park. The six-story community offers private apartments, restaurant-style dining, and around-the-clock staff, and is operated by the nonprofit Eskaton."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/eskaton-land-park-sacramento"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/eskaton-land-park-59311"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

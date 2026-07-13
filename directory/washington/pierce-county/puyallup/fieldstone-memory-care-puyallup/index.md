@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.6/5 across 94 reviews on Birdeye (July 2026)"
 description_full: "Fieldstone Memory Care Puyallup is a dedicated memory care community on South Meridian in Puyallup, operated by Washington-based Fieldstone Communities. Reviewers highlight attentive, compassionate dementia care, engaging activities and a clean, homey building, and the community received a citation-free state survey in June 2025."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fieldstone-memory-care-puyallup-1376754"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/fieldstone-puyallup"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

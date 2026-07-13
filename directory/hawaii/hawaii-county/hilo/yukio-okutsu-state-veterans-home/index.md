@@ -24,4 +24,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/yukio-okutsu-state-veterans-home-125058", "https://www.hbmc.org/about-us/yukio-okutsu-state-veterans-home/"]
 verified_date: "2026-07-13"
 description_full: "Yukio Okutsu State Veterans Home is a 95-bed skilled nursing facility in Hilo serving veterans on the Big Island, affiliated with Hilo Medical Center and the Hawaii Health Systems Corporation. It is Medicare- and Medicaid-certified and holds a CMS overall rating of 3 stars. It provides long-term skilled nursing and rehabilitation care."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/yukio-okutsu-state-veterans-home-125058"}]
 ---

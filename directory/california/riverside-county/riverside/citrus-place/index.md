@@ -25,5 +25,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.9/5 rating with 107 reviews on A Place for Mom (July 2026)"
 description_full: "Citrus Place is an MBK Senior Living community in Riverside offering independent living, assisted living and memory care. Reviewers praise the clean, well-maintained environment, variety of activities, on-site store and quality meals. U.S. News lists it among assisted living communities in the area."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/citrus-place-55790"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/citrus-place-riverside"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/citrus-place-1889"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

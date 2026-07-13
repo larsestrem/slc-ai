@@ -27,5 +27,6 @@ google_rating: 4.5
 google_review_count: 39
 rating_as_of: "2026-07-12"
 description_full: "Belmont Village Encino is a 150-bed assisted living and memory care community on Ventura Boulevard in Sherman Oaks, on the border of Encino. The community is known for its hotel-style dining, licensed nurses on site, and its Circle of Friends memory support program."
+review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/sherman-oaks-ca/belmont-village-encino/5acd0191a71d8c15cf682646"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

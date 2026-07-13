@@ -24,4 +24,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/kal%C4%81kaua-gardens-125066", "https://www.kalakauagardens.com/"]
 verified_date: "2026-07-13"
 description_full: "Kalakaua Gardens is a 49-bed senior living community in Honolulu offering skilled nursing alongside assisted living and memory care. Its Medicare-certified skilled nursing unit holds a CMS overall rating of 3 stars. The community provides short-term rehabilitation and long-term care with restaurant-style dining and social programming."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/kal%C4%81kaua-gardens-125066"}]
 ---

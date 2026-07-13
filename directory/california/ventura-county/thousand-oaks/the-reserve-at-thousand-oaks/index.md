@@ -27,5 +27,6 @@ google_rating: 4.8
 google_review_count: 48
 rating_as_of: "2026-07-12"
 description_full: "An MBK Senior Living community in Thousand Oaks offering independent living, assisted living, memory care, and respite care. Amenities include on-site therapy, a fitness center, restaurant-style dining, and landscaped walking paths."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-reserve-at-thousand-oaks-54776"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

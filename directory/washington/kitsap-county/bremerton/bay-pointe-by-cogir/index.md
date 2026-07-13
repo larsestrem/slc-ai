@@ -23,5 +23,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.8/5 average across 46 family reviews on A Place for Mom (July 2026)"
 description_full: "Bay Pointe by Cogir sits on Oyster Bay in Bremerton and has served seniors for more than 20 years, offering independent living, assisted living and the Marine Courte memory care neighborhood. Families describe exceptionally caring, attentive staff, a clean and welcoming building and a full activity calendar."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bay-pointe-by-cogir-71682"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/bay-pointe-assisted-living-marine-courte-memory-care-1817"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/bay-pointe-by-cogir-bremerton"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

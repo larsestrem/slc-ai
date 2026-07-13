@@ -23,5 +23,6 @@ sources: ["https://klamathfallsseniorliving.com/", "https://www.aplaceformom.com
 verified_date: "2026-07-11"
 review_note: "4.8/5 across 124 reviews on Birdeye (July 2026)"
 description_full: "Klamath Falls Senior Living (formerly Pacifica Senior Living Klamath Falls) is a licensed assisted living community on North Eldorado Avenue with a maximum capacity of 70 residents, also offering independent living and short-term respite stays. Apartments include studio, one-bedroom, and two-bedroom floor plans with kitchenettes and wheelchair-accessible showers."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/klamath-falls-senior-living-60278"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

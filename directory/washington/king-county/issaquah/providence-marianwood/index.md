@@ -24,4 +24,5 @@ cms_rating_overall: 4
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/providence-marianwood-505418", "https://www.seniorcare.com/nursing-homes/wa/issaquah/providence-marianwood/505418/"]
 verified_date: "2026-07-13"
 description_full: "The only nonprofit skilled nursing and rehabilitation facility in the Issaquah/Sammamish area, operated by Providence, offering short-term rehab and long-term care. Its CMS overall rating is 4 stars."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/providence-marianwood-505418"}]
 ---

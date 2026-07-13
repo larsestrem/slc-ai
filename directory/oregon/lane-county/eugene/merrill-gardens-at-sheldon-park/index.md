@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-sheldon-par
 verified_date: "2026-07-11"
 review_note: "4.3/5 average across 113 all-time reviews on A Place for Mom, with a 9.3/10 APFM review score based on 13 reviews in the last 2 years (July 2026)"
 description_full: "Assisted living and memory care community in northeast Eugene's Willakenzie area, operated by Seattle-based Merrill Gardens. Offers restaurant-style dining with flexible hours, on-site salon services, multiple common areas and outdoor spaces, and the Bridges memory care program for residents with dementia. Reviewers frequently mention long staff tenure and attentive, compassionate caregivers."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-sheldon-park-60114"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/merrill-gardens-at-sheldon-park"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

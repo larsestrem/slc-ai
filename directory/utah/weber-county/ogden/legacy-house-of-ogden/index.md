@@ -23,5 +23,6 @@ sources: ["https://www.assistedlivingcenter.com/facilities/ut/ogden/legacy-house
 verified_date: "2026-07-12"
 review_note: "4.9 rating across 80 reviews on AssistedLivingCenter.com; 29 reviews on Caring.com (July 2026)"
 description_full: "Legacy House of Ogden offers assisted living and memory care across the street from Ogden Regional Medical Center in south Ogden. Reviews consistently praise the dedicated staff, clean building, and amenities, and families describe staff as accommodating and upfront."
+review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ut/ogden/legacy-house-of-ogden-84405/"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/utah/ogden/legacy-house-of-ogden-84405"}]
 licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
 ---

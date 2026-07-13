@@ -25,5 +25,6 @@ google_review_count: 4
 rating_as_of: "2026-07-13"
 quality_basis: "Washington-licensed three-bed adult family home with a 5.0/5 Google rating across 4 reviews."
 description_full: "Always With Love Care is a licensed three-bed adult family home in Kent offering personal care, medication management, meals and 24-hour supervision in an intimate home setting. Families describe the home as spotless with excellent food and warm, attentive caregivers."
+review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/kent-wa/always-with-love-care/5acd028ca71d8c15cf695e51"}, {"name": "SeniorAdvice", "url": "https://www.senioradvice.com/providers/view/always-with-love-care-kent-wa"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

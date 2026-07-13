@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/legacy-house-of-centennial-hil
 verified_date: "2026-07-12"
 review_note: "4.5/5 across 66 reviews on A Place for Mom (July 2026)"
 description_full: "Legacy House of Centennial Hills is an assisted living and memory care community in northwest Las Vegas, managed by Western States Lodging & Management. Families consistently highlight the kind, knowledgeable staff and the quality dining program, with staff turnover and cost noted as the main concerns."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/legacy-house-of-centennial-hills-1396389"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/legacy-house-centennial-hills-las-vegas-3"}]
 licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
 ---

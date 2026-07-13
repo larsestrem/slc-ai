@@ -25,4 +25,5 @@ cms_rating_overall: 4
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/life-care-center-of-sandpoint-135127", "https://www.medicare.gov/care-compare/details/nursing-home/135127"]
 verified_date: "2026-07-13"
 description_full: "A 124-bed skilled nursing and rehabilitation center in Sandpoint operated by Life Care Centers of America, serving Bonner County and north Idaho. It holds a CMS overall rating of 4 stars. Provides Medicare- and Medicaid-certified short-term rehab and long-term skilled care."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/life-care-center-of-sandpoint-135127"}]
 ---

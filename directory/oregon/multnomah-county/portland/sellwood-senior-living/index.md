@@ -22,5 +22,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.7/5 across 59 reviews on Birdeye review aggregate (July 2026)"
 description_full: "An assisted living community in Portland's Sellwood-Moreland neighborhood offering studio, one-bedroom, and two-bedroom apartments with 24/7 licensed nursing and medication support. Reviewers consistently praise the friendly staff, cleanliness, and bright, modern building; assisted living studios start around $3,485-3,900 per month."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sellwood-senior-living-100279"}, {"name": "Birdeye", "url": "https://birdeye.com/sellwood-senior-living-169341826349454"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

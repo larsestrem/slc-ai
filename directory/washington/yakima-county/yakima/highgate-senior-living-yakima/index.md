@@ -23,5 +23,6 @@ sources: ["https://reviews.birdeye.com/highgate-senior-living-157269524698841", 
 verified_date: "2026-07-12"
 review_note: "4.7/5 across 123 reviews on Birdeye (July 2026)"
 description_full: "Highgate Senior Living - Yakima provides assisted living and a separate secure memory care neighborhood in a quiet residential area on Yakima's west side. Reviewers single out the dementia-trained caregivers, individualized 24/7 care, and a homelike atmosphere where staff know residents by name."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/highgate-senior-living-157269524698841"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/yakima/highgate-senior-living-98908"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -24,5 +24,6 @@ sources: ["https://www.assistedlivingcenter.com/facilities/id/idaho-falls/fairwi
 verified_date: "2026-07-12"
 review_note: "4.8/5 across 44 reviews on AssistedLivingCenter (July 2026); U.S. News Best Senior Living for independent living and assisted living"
 description_full: "Fairwinds - Sand Creek is a Leisure Care retirement community in Idaho Falls offering independent living and assisted living in apartment-style homes. U.S. News named it a Best Senior Living community for both independent and assisted living based on resident and family surveys, and reviewers consistently praise the food, grounds, and friendly caregivers."
+review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/id/idaho-falls/fairwinds-sand-creek-83404/"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/fairwinds-sand-creek-idaho-falls-2"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

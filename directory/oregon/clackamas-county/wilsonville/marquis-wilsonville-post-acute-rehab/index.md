@@ -25,4 +25,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-wilsonville-post-acute-rehabilitation-385266", "https://www.medicare.gov/care-compare/details/nursing-home/385266/"]
 verified_date: "2026-07-13"
 description_full: "A 50-bed Marquis Companies skilled nursing and post-acute rehabilitation center in Wilsonville, Clackamas County. It emphasizes short-stay rehabilitation after hospital stays alongside long-term nursing care. CMS rates it 3 out of 5 stars overall."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/marquis-wilsonville-post-acute-rehabilitation-385266"}]
 ---

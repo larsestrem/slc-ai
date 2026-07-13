@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/belmont-village-san-jose-96571
 verified_date: "2026-07-12"
 review_note: "4.5/5 across 73 reviews on A Place for Mom (July 2026)"
 description_full: "Large assisted living and memory care community on South Winchester Boulevard near Santana Row and the Winchester Mystery House. Families frequently praise the staff, cleanliness, activity calendar and convenient West San Jose location."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/belmont-village-san-jose-96571"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/belmont-village-senior-living-san-jose-2"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

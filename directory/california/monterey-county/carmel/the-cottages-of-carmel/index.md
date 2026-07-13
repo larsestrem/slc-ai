@@ -21,5 +21,6 @@ sources: ["https://www.aplaceformom.com/community/the-cottages-of-carmel-1333863
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 21 reviews on A Place for Mom (July 2026)"
 description_full: "Assisted living and memory care community on Carmel Rancho Boulevard near Carmel-by-the-Sea. Reviews praise the clean facility, attentive care, and enriching amenities, and it scored 92/100 (A-) against the California assisted living inspection benchmark. Costs start around $6,120 per month."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-cottages-of-carmel-1333863"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-cottages-of-carmel-carmel-by-the-sea"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

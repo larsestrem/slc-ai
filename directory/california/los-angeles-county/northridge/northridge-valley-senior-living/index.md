@@ -22,5 +22,6 @@ sources: ["https://www.aplaceformom.com/community/northridge-valley-senior-livin
 verified_date: "2026-07-12"
 review_note: "4.9/5 average overall experience across 249 reviews on A Place for Mom; 4.9 stars across 300+ aggregated reviews on Birdeye (July 2026)"
 description_full: "Assisted living and memory care community on Lindley Avenue in the Northridge neighborhood of the San Fernando Valley, formerly known as Pacifica Senior Living Northridge. The recently renovated community offers 24-hour care with individualized service plans, and it carries one of the strongest review profiles in the Valley."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/northridge-valley-senior-living-141076"}, {"name": "Birdeye", "url": "https://birdeye.com/pacifica-senior-living-northridge-169341833988214"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

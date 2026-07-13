@@ -25,5 +25,6 @@ sources: ["https://www.caring.com/senior-living/california/oakdale/astoria-senio
 verified_date: "2026-07-12"
 review_note: "5/5 across 12 reviews on Caring.com; 30 reviews on A Place for Mom (2026)"
 description_full: "A single-story assisted living and memory care community in Oakdale with cozy lounges, an enclosed courtyard, and a resident chef. Recognized in U.S. News & World Report's 2026 Best Assisted Living."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/oakdale/astoria-senior-living-oakdale"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/astoria-senior-living-oakdale-141515"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

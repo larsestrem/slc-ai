@@ -25,5 +25,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.9/5 across 46 reviews on Birdeye; rated 5.0 (Excellent) on SeniorAdvisor (July 2026)"
 description_full: "Westmont of Encinitas is a Westmont Living community offering independent living and assisted living with individualized care plans, a few minutes from the North County coast. Reviewers highlight responsive leadership and a high level of customer service to residents and families."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/westmont-of-encinitas-168200184032640"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/westmont-of-encinitas-encinitas-ca"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/encinitas-ca/westmont-of-encinitas/62f5e9e02da9b02713ae8239"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

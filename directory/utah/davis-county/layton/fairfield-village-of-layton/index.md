@@ -25,5 +25,6 @@ sources: ["https://reviews.birdeye.com/fairfield-village-of-layton-assisted-livi
 verified_date: "2026-07-12"
 review_note: "4.4/5 across 85 reviews on Birdeye; 8.5/10 A Place for Mom review score (July 2026)"
 description_full: "Fairfield Village is a resort-style senior living campus set against the Wasatch Mountains in Layton, offering independent living, assisted living, and memory care. It is owned and operated by Generations, a family-run senior care company, with 24-hour on-site nursing and therapy services available."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/fairfield-village-of-layton-assisted-living-157255453027130"}]
 licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
 ---

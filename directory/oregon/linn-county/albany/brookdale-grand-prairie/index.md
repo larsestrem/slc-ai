@@ -22,5 +22,6 @@ organization_name: "Brookdale Senior Living"
 sources: ["https://www.brookdale.com/en/communities/brookdale-grand-prairie-or.html", "https://www.aplaceformom.com/community/brookdale-grand-prairie-60028", "https://www.caring.com/senior-living/oregon/albany/brookdale-grand-prairie-or"]
 verified_date: "2026-07-11"
 description_full: "Brookdale Grand Prairie is an independent living community with assisted living options in Albany, offering studio, one-bedroom, two-bedroom, and suite layouts plus spacious cottages with full kitchens and private patios. Reviewers describe a clean, well-kept campus with kind staff and good food. It is part of the national Brookdale Senior Living network."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/brookdale-grand-prairie-60028"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/albany/brookdale-grand-prairie-or"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

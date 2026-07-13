@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.3/5 average across 20 reviews on A Place for Mom (July 2026)"
 description_full: "San Clemente Villas by the Sea is an MBK Senior Living community offering assisted living, memory care, and short-term respite stays near the coast in San Clemente. Reviewers rate its friendliness especially highly, and the community is one of the longest-established senior residences in the city."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/san-clemente-villas-73644"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/san-clemente-villas-san-clemente"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

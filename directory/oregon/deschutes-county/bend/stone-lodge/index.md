@@ -22,5 +22,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.3/5 average across 80 reviews on A Place for Mom (July 2026)"
 description_full: "Stone Lodge is an independent living retirement community in Bend where monthly rent includes three chef-prepared meals daily, weekly housekeeping, scheduled transportation, and utilities. The pet-friendly community draws consistently positive reviews for its friendly staff, active social calendar, and attentive housekeeping."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/stone-lodge-60301"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/bend/stone-lodge"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

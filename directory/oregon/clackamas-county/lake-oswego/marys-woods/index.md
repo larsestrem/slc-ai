@@ -20,5 +20,6 @@ facility_size: "large"
 sources: ["https://maryswoods.org/living-here/", "https://health.usnews.com/best-senior-living/marys-woods-at-marylhurst-11459", "https://www.yelp.com/biz/marys-woods-lake-oswego-2"]
 verified_date: "2026-07-11"
 description_full: "Mary's Woods is a single-site nonprofit Life Plan Community (CCRC) for adults 62 and older on a 40-acre campus at the former Marylhurst campus in Lake Oswego. Residents access a continuum of care including independent living, assisted living, residential care with 24/7 nursing staff, and memory care. The park-like grounds include walking trails, rose gardens, and views of the Willamette River valley."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/marys-woods-at-marylhurst-11459"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/marys-woods-lake-oswego-2"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

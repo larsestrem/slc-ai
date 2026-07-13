@@ -24,5 +24,6 @@ review_note: "9.5/10 review score across 6 reviews on A Place for Mom, and rated
 specialties: ["Dementia"]
 quality_basis: "Washington-licensed six-bed adult family home with an above-average review reputation (A Place for Mom review score 9.5/10 across 6 reviews) and a memory-care focus."
 description_full: "Titlow Adult Family Home is a licensed six-bed adult family home in Tacoma's Titlow Park neighborhood, near the beach and walking trails. It provides memory care and personal care services in a small residential setting. The owner is noted by families for attentive, hands-on involvement with each resident."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/titlow-adult-family-home-1403030"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/golden-age-adult-family-home-tacoma-wa"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.9/5 average across 31 reviews on A Place for Mom; 9.8/10 A Place for Mom review score based on 19 recent reviews (July 2026)"
 description_full: "Merrill Gardens at Wright Park offers independent living, assisted living and memory care in Tacoma's Stadium District, next door to Wright Park. Opened in 2022, the community is known for its rooftop Sky Deck with views of Puget Sound, hospitality-style dining and strong social programming."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-wright-park-1453598"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-wright-park-tacoma"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

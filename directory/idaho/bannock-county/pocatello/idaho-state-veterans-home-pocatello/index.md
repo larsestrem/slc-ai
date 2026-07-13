@@ -25,4 +25,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/idaho-state-veterans-home-pocatello-135132", "https://www.medicare.gov/care-compare/details/nursing-home/135132"]
 verified_date: "2026-07-13"
 description_full: "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Pocatello, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars with a High Performing long-term care rating. Provides long-term and rehabilitative skilled nursing care."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/idaho-state-veterans-home-pocatello-135132"}]
 ---

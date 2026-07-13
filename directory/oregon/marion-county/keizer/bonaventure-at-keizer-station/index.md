@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "9.3/10 A Place for Mom review score based on 15 reviews in the last 2 years; 36 reviews all-time (July 2026)"
 description_full: "A Bonaventure community near the Keizer Station shopping district offering independent living, assisted living, and memory care. Residents highlight friendly staff and a busy activity calendar, though several reviews criticize meal quality."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bonaventure-at-keizer-station-1404550"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/keizer/bonaventure-at-keizer-station-97303/"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -21,5 +21,6 @@ sources: ["https://www.aplaceformom.com/community/kenmore-senior-living-141165",
 verified_date: "2026-07-12"
 review_note: "4.4/5 across 77 reviews on A Place for Mom; 4.5/5 across 125 reviews on Birdeye (July 2026)"
 description_full: "Kenmore Senior Living, formerly Spring Estates, offers independent living, assisted living, and memory care near the north end of Lake Washington. Residents cite chef-prepared meals three times a day, life-enrichment programming, and a friendly resident community."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/kenmore-senior-living-141165"}, {"name": "Birdeye", "url": "https://birdeye.com/kenmore-senior-living-169341835539351"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

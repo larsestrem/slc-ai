@@ -23,5 +23,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.6/5 across 38 reviews (rating shown on SeniorHomes.com listing, retrieved July 2026); 4.5/5 on SeniorAdvisor"
 description_full: "An independent nonprofit senior living community offering one- and two-bedroom apartments on a wooded riverfront campus beside the Willamette River in Milwaukie. Reviews highlight professional staff, clean facilities, river views, and a family-like atmosphere."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/homewoods-on-the-willamette-59982"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

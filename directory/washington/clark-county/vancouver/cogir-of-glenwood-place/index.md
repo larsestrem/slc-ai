@@ -24,5 +24,6 @@ organization_name: "Cogir Senior Living"
 sources: ["https://cogirusa.com/communities/cogir-of-glenwood-place/", "https://carelistings.com/assisted-living-homes/vancouver-wa/glenwood-place-senior-living/5acd0284a71d8c15cf69543d", "https://www.caring.com/senior-living/washington/vancouver/cogir-of-glenwood-place"]
 verified_date: "2026-07-11"
 description_full: "Cogir of Glenwood Place (formerly Glenwood Place Senior Living) is a craftsman-style senior living community in the Orchards area of Vancouver with 253 licensed beds. It offers independent living, assisted living, and memory care, and reviewers praise its amenities, social programming, and friendly direct-care staff."
+review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/vancouver-wa/glenwood-place-senior-living/5acd0284a71d8c15cf69543d"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/vancouver/cogir-of-glenwood-place"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -24,5 +24,6 @@ organization_name: "Highgate Senior Living"
 sources: ["https://www.highgateseniorliving.com/communities/vancouver/", "https://www.caring.com/senior-living/washington/vancouver/highgate-at-vancouver-98665", "https://carelistings.com/assisted-living-homes/vancouver-wa/highgate-senior-living/5acd0285a71d8c15cf69566b"]
 verified_date: "2026-07-11"
 description_full: "Highgate at Vancouver is a 71-bed licensed assisted living and memory care community in the Hazel Dell neighborhood, near Legacy Salmon Creek Hospital. Assisted living is offered in the Manor while The Cottage provides a separate, secure memory care residence. It is among the highest-rated communities in Vancouver, with families praising staff compassion and communication."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/vancouver/highgate-at-vancouver-98665"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/vancouver-wa/highgate-senior-living/5acd0285a71d8c15cf69566b"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -22,5 +22,6 @@ sources: ["https://reviews.birdeye.com/willow-park-senior-living-157255477150721
 verified_date: "2026-07-12"
 review_note: "4.3/5 across 67 reviews on Birdeye (July 2026)"
 description_full: "Willow Park Senior Living is a 124-unit community on North Milwaukee Street in Boise offering independent living, assisted living, and memory care with 24-hour awake staff. Reviews commend the warm, caring environment, the cooking, and the variety of activities."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/willow-park-senior-living-157255477150721"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

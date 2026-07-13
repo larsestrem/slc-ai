@@ -22,5 +22,6 @@ sources: ["https://www.aplaceformom.com/community/heritage-assisted-living-of-tw
 verified_date: "2026-07-12"
 review_note: "4.5/5 average across 12 reviews on A Place for Mom; 9.2/10 review score based on 5 reviews in the last 2 years (July 2026)"
 description_full: "Heritage Assisted Living of Twin Falls is a 78-bed community with 62 assisted living beds and 16 dedicated memory care beds, and it accepts a limited number of Medicaid-covered residents. Reviewers highlight the kind, attentive staff, cleanliness, and affordability relative to other Twin Falls communities."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/heritage-assisted-living-of-twin-falls-52653"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/twin-falls/heritage-twin-falls-83301"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/idaho/twin-falls/heritage-assisted-living-of-twin-falls"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

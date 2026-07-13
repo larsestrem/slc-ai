@@ -22,5 +22,6 @@ sources: ["https://www.aplaceformom.com/community/trustwell-living-at-river-run-
 verified_date: "2026-07-11"
 review_note: "4.4/5 average across 62 all-time reviews on A Place for Mom, with a 9.6/10 APFM review score based on 23 reviews in the last 2 years (July 2026)"
 description_full: "Assisted living and respite care community in Eugene near the Willamette River, operated by Trustwell Living. Reviewers describe the community as clean, quiet, and attentive, with high marks for staff responsiveness and a robust activities calendar with community outings. Some reviews note concerns about staffing turnover."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/trustwell-living-at-river-run-place-60112"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/trustwell-living-at-river-run-place"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

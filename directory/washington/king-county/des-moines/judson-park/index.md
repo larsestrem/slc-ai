@@ -25,4 +25,5 @@ cms_rating_overall: 4
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/judson-park-health-center-505455", "https://www.seniorcare.com/nursing-homes/wa/des-moines/judson-park-health-center/505455/", "https://www.humangood.org/judson-park"]
 verified_date: "2026-07-12"
 description_full: "Judson Park is a nonprofit continuing care retirement community overlooking Puget Sound in Des Moines, operated by HumanGood. The campus offers independent living, assisted living, memory care, and a 96-bed Medicare-certified health center, and holds a three-year CARF accreditation. U.S. News named it a Best Independent Living and Best Assisted Living community for 2026, and nursing staffing hours run well above the national average."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/judson-park-health-center-505455"}]
 ---

@@ -21,5 +21,6 @@ sources: ["https://www.caring.com/senior-living/idaho/rexburg/briarwood-assisted
 verified_date: "2026-07-13"
 quality_basis: "Small home-style assisted living and memory care home with 3 positive reviews on Caring.com (2026) describing friendly, helpful staff and a homey feel, and regarded locally as one of the better southeast Idaho small homes."
 description_full: "Briarwood Assisted Living of Rexburg is a small, home-style assisted living and memory care community described as a warm country home. Services include 24-hour trained and certified staff, an on-site nurse, medication assistance, a secured yard, and home health and hospice support."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/rexburg/briarwood-assisted-living-of-rexburg"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/idaho/rexburg/briarwood-assisted-living-rexburg"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

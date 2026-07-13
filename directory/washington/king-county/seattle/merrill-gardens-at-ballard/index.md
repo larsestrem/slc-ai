@@ -22,5 +22,6 @@ organization_name: "Merrill Gardens"
 sources: ["https://www.merrillgardens.com/senior-living/wa/seattle/merrill-gardens-at-ballard/", "https://www.yelp.com/biz/merrill-gardens-at-ballard-seattle", "https://www.aplaceformom.com/community/merrill-gardens-at-ballard-1395594"]
 verified_date: "2026-07-11"
 description_full: "Merrill Gardens at Ballard is a senior living community in the heart of Seattle's Ballard neighborhood offering independent living, assisted living, and memory care. It is operated by Merrill Gardens, a Seattle-based senior living company, and is located near Ballard's shopping, dining, and medical facilities."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-ballard-seattle"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-ballard-1395594"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

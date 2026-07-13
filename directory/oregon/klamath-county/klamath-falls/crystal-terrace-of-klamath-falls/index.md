@@ -24,5 +24,6 @@ sources: ["https://www.mbkseniorliving.com/senior-living/or/klamath-falls/crysta
 verified_date: "2026-07-11"
 review_note: "4.2/5 across 38 reviews on A Place for Mom (July 2026)"
 description_full: "Crystal Terrace of Klamath Falls brings independent living and assisted living together on a 22-acre mountainside campus, with studio, one-bedroom, and two-bedroom apartments plus independent living cottages. Short-term respite stays are also offered. The community is managed by MBK Senior Living."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/crystal-terrace-of-klamath-falls-60277"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/oregon/klamath-falls/crystal-terrace-of-klamath-falls"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

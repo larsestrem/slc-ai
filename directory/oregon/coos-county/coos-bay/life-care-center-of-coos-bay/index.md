@@ -25,4 +25,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/life-care-center-of-coos-bay-385157", "https://www.medicare.gov/care-compare/details/nursing-home/385157/"]
 verified_date: "2026-07-13"
 description_full: "A 114-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation center on Ocean Boulevard in Coos Bay, operated by Life Care Centers of America. It provides short-term post-hospital rehabilitation and long-term nursing care. CMS rates it 3 out of 5 stars overall."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/life-care-center-of-coos-bay-385157"}]
 ---

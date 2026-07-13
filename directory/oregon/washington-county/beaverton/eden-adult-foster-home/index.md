@@ -21,5 +21,6 @@ sources: ["https://reviews.birdeye.com/eden-adult-foster-home-llc-16986592724360
 verified_date: "2026-07-11"
 review_note: "5.0/5 across 11 reviews on Birdeye review aggregator (July 2026)"
 description_full: "Eden Adult Foster Home is a licensed adult foster home in a quiet residential Beaverton neighborhood, providing a warm, home-like environment for seniors who need personalized care and support. Reviewers highlight the loving, kind care and welcoming atmosphere."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/eden-adult-foster-home-llc-169865927243603"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

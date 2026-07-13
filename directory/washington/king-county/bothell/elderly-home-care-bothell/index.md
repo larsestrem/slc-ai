@@ -25,5 +25,6 @@ review_note: "7 reviews averaging 5.0/5 overall experience on A Place for Mom (J
 specialties: ["Dementia"]
 quality_basis: "Washington-licensed six-bed adult family home with a 5.0/5 average across 7 A Place for Mom reviews and an owner with 20+ years of long-term care experience."
 description_full: "Elderly Home Care is a licensed six-bed adult family home in Bothell owned and operated by Veronica Dudau, a healthcare professional with more than 20 years of long-term care experience. It offers assisted living and memory care with a high caregiver-to-resident ratio."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/elderly-home-care-99483"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

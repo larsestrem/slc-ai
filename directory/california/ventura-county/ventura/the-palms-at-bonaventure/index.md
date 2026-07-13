@@ -22,5 +22,6 @@ sources: ["https://www.senioradvisor.com/local/the-palms-at-bonaventure-ventura-
 verified_date: "2026-07-12"
 review_note: "4.5/5 across 33 reviews on SeniorAdvisor; A Place for Mom review score 9.9/10 across 46 reviews (July 2026)"
 description_full: "Assisted living and memory care community on North Wells Road in east Ventura. Reviews consistently praise the caring, compassionate staff, restaurant-style dining, and an active social calendar including weekly happy hours and large monthly events. Amenities include a gym, library, game room, and on-site salon."
+review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/the-palms-at-bonaventure-ventura-ca"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/palms-at-bonaventure-140876"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

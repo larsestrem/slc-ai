@@ -22,5 +22,6 @@ sources: ["https://www.senioradvice.com/providers/view/desert-rose-retirement-es
 verified_date: "2026-07-13"
 quality_basis: "Small (8-bed) assisted living home reported at 5.0 out of 5 stars across 2 reviews on SeniorAdvice (2026); review volume is very low."
 description_full: "Desert Rose Retirement Estates is an 8-unit senior care home in Twin Falls licensed for up to 8 residents. The home provides assisted living and Alzheimer's care with activities and home-cooked meals in a small residential setting."
+review_links: [{"name": "SeniorAdvice", "url": "https://www.senioradvice.com/providers/view/desert-rose-retirement-estates-twin-falls-id"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/desert-rose-retirement-estates-52652"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/desert-rose-retirement-estates-twin-falls-id"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

@@ -24,4 +24,5 @@ cms_rating_overall: 5
 sources: ["https://www.seniorcare.com/nursing-homes/ca/encinitas/the-dorothy-joseph-goldberg-healthcare-center/555424/", "https://seacrestvillage.org/services/nursing/", "https://health.usnews.com/best-nursing-homes/area/ca/the-dorothy-joseph-goldberg-healthcare-center-555424"]
 verified_date: "2026-07-12"
 description_full: "Seacrest Village at Encinitas is a not-for-profit continuing care retirement community founded in 1944 as the San Diego Hebrew Homes, offering independent living, assisted living, the Katzin Memory Care Suites, and skilled nursing in the 58-bed Dorothy & Joseph Goldberg Healthcare Center. The Medicare-certified healthcare center holds a CMS rating of 5 out of 5 stars and is rated High Performing for short-term rehabilitation and long-term care by U.S. News."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/the-dorothy-joseph-goldberg-healthcare-center-555424"}]
 ---

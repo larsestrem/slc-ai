@@ -24,5 +24,6 @@ sources: ["https://www.aplaceformom.com/community/solheim-senior-community-54040
 verified_date: "2026-07-12"
 review_note: "9.8/10 review score on A Place for Mom across 23 reviews (75% five-star); 4.4/5 across 11 reviews on Caring.com (July 2026)"
 description_full: "Nonprofit senior community in the Eagle Rock neighborhood of Los Angeles, serving seniors since 1923 as a registered 501(c)(3) organization. It offers a full continuum of care including independent living, assisted living, memory care, and skilled nursing, and reviewers consistently praise staff compassion and the memory care program."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/solheim-senior-community-54040"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/los-angeles"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

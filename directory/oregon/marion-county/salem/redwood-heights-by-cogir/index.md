@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/redwood-heights-by-cogir-13797
 verified_date: "2026-07-11"
 review_note: "9.9/10 A Place for Mom review score, with 47 all-time reviews on A Place for Mom (July 2026)"
 description_full: "Retirement and assisted living community in southeast Salem, operated by Cogir Senior Living. Reviews consistently praise the warm, attentive caregivers and nurses, chef-prepared dining, and home-like atmosphere; the community passed a 2019 state healthcare survey deficiency-free. Partners with local providers for home care and transitional nursing needs."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/redwood-heights-by-cogir-137979"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/salem/redwood-heights-assisted-living-97302"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

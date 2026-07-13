@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.5/5 average across 78 family reviews on EveryPlace; 49 reviews on A Place for Mom (July 2026)"
 description_full: "Sunrise at Pinehurst offers assisted living, memory care, and short-term respite stays in southwest Denver near Pinehurst Country Club. Families praise the attentive staff and well-kept grounds, and the community is one of the longest-established Sunrise locations in Colorado."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunrise-of-pinehurst-93447"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/sunrise-at-pinehurst-2589"}]
 licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
 ---

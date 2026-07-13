@@ -24,5 +24,6 @@ verified_date: "2026-07-13"
 review_note: "13 reviews on Yelp and 5.0/5 across 2 reviews on A Place for Mom; aggregators rank it the highest-rated community in the city (9.6/10) (July 2026)"
 quality_basis: "Small Kaneohe care home (up to 8 residents) offering memory care, with well-documented positive review volume: 13 Yelp reviews and a 5.0/5 A Place for Mom rating, ranked the top-rated community in the city by aggregators as of July 2026."
 description_full: "Kina 'Ole Estate is a small windward-Oahu care home in Kaneohe housing up to eight live-in residents, offering assisted living, memory care and expanded care with 24-hour staffing. It is consistently cited as one of the highest-rated small homes in the Kaneohe/Kailua area."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/kina-ole-estate-1349354"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/kina-ole-estate-kaneohe-2"}]
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
 ---

@@ -24,4 +24,5 @@ cms_rating_overall: 4
 sources: ["https://health.usnews.com/best-nursing-homes/area/ca/hollenbeck-palms-055115", "https://www.hollenbeckpalms.com/residency-options/skilled-nursing/", "https://www.medicare.gov/care-compare/details/nursing-home/055115/view-all/?state=CA"]
 verified_date: "2026-07-12"
 description_full: "Independent nonprofit continuing care retirement community established in 1890, set on eight and a half acres of gardens in the Boyle Heights neighborhood of Los Angeles. Its 106-bed Medicare- and Medicaid-certified skilled nursing facility holds a 4-star overall CMS rating, with nursing staffing of 4.59 hours per resident per day versus a 3.89-hour national average."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/hollenbeck-palms-055115"}]
 ---

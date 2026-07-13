@@ -24,5 +24,6 @@ sources: ["https://www.aplaceformom.com/community/madonna-gardens-assisted-livin
 verified_date: "2026-07-12"
 review_note: "4.4/5 across 24 all-time reviews on A Place for Mom; APFM recent review score 9.4/10 (July 2026)"
 description_full: "Assisted living and memory care community in Salinas known for beautifully landscaped courtyards with water features and a lush interior garden. Amenities include an in-house salon, fitness room, library nook, and elegant dining room, with weekly housekeeping and transportation to medical appointments. Families consistently praise the kind, responsive staff."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/madonna-gardens-assisted-living-and-memory-care-56884"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

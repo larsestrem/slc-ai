@@ -20,5 +20,6 @@ sources: ["https://www.aplaceformom.com/community/sierra-regency-59191", "https:
 verified_date: "2026-07-12"
 review_note: "4.3/5 across 30 reviews on A Place for Mom; 4.9/5 rating shown on AssistedLivingCenter.com with 21 reviews (July 2026)"
 description_full: "A gated independent retirement community in Roseville, established in 1988, with full-kitchen one- and two-bedroom apartments. Amenities include an indoor heated pool and spa, putting green, chapel, library, Sunday champagne brunch, and 24-hour staffing. Meals, weekly housekeeping, and transportation are bundled into the monthly rate."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sierra-regency-59191"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ca/roseville/sierra-regency-95661/"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/roseville/sierra-regency-95661"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

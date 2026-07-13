@@ -24,5 +24,6 @@ sources: ["https://www.aplaceformom.com/community/solista-roseburg-by-cogir-6019
 verified_date: "2026-07-11"
 review_note: "4.5/5 across 53 reviews on A Place for Mom (July 2026)"
 description_full: "Solista Roseburg (formerly Holiday Garden Valley) is an independent living community for older adults in Roseburg operated by Cogir Senior Living. Monthly rent includes three chef-prepared meals daily, weekly housekeeping, scheduled local transportation, and a full activity calendar in a four-story apartment building."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/solista-roseburg-by-cogir-60196"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/roseburg/solista-roseburg-by-cogir"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

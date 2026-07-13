@@ -26,4 +26,5 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.7/5 across 8 reviews on Caring.com; CMS overall rating 5 stars (July 2026)"
 description_full: "University Retirement Community is a nonprofit continuing care retirement community near UC Davis offering independent living, assisted living, memory care, and a 37-bed Medicare-certified skilled nursing unit. Its skilled nursing facility holds a CMS 5-star overall rating, and the campus includes a pool, gym, and library. Reviewers describe attentive staff and high-quality dining."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/davis/university-retirement-community-95616"}]
 ---

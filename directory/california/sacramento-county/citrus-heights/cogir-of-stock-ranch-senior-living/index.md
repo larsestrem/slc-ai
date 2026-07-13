@@ -22,5 +22,6 @@ sources: ["https://www.aplaceformom.com/community/cogir-of-stock-ranch-senior-li
 verified_date: "2026-07-12"
 review_note: "4.4/5 average across 104 reviews on A Place for Mom; 4.3/5 across 40 reviews on Birdeye (July 2026)"
 description_full: "An assisted living community in Citrus Heights, formerly a Brookdale community and now operated by Cogir Senior Living. Families praise the kind, attentive caregivers, clean environment, and dining. Some reviews note staff turnover and want activities to be more inclusive for less independent residents."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cogir-of-stock-ranch-senior-living-95659"}, {"name": "Birdeye", "url": "https://reviews.birdeye.com/cogir-of-stock-ranch-175372187838655"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/cogir-of-stock-ranch-16647"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

@@ -25,5 +25,6 @@ sources: ["https://www.assistedliving.org/nevada/sparks/cascades-of-the-sierra/"
 verified_date: "2026-07-12"
 review_note: "4.42/5 average across 86 reviews (AssistedLiving.org aggregate, July 2026)"
 description_full: "Cascades of the Sierra is a large senior living campus in the Spanish Springs area of Sparks, opened in 2009, offering independent living, assisted living, and memory care. Residents highlight the covered saltwater pool, extensive activity calendar, and fresh dining, while some reviews criticize management communication."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/cascades-of-the-sierra-sparks"}]
 licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
 ---

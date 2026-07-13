@@ -24,5 +24,6 @@ review_note: "A Place for Mom 22 reviews all-time averaging 4.2/5; SeniorAdvisor
 licensed_since: 1999
 quality_basis: "Operating since 1999 (25+ years) with an extensive multi-platform review history (22 A Place for Mom reviews averaging 4.2/5)."
 description_full: "IRIS is a licensed 6-bed adult family home in Vancouver that has operated since 1999, with staff trained in memory care, high-acuity care and medication management. Aggregator listings describe it as a memory care and residential care home serving residents with dementia."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/iris-adult-family-home-1441293"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/iris-adult-family-home-vancouver-wa"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

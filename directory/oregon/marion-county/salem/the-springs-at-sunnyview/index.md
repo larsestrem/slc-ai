@@ -25,5 +25,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.7/5 across 11 reviews on A Place for Mom (July 2026)"
 description_full: "An independent living community in northeast Salem operated by The Springs Living, with spacious apartments featuring full kitchens and washer/dryer hookups plus a large backyard patio. Reviews describe a friendly community with good food and plenty of activities."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-springs-at-sunnyview-73358"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/salem/the-springs-at-sunnyview-97305"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -24,4 +24,5 @@ cms_rating_overall: 5
 sources: ["https://www.californiancare.com/", "https://health.usnews.com/best-nursing-homes/area/ca/the-californian-055684"]
 verified_date: "2026-07-12"
 description_full: "Skilled nursing and rehabilitation facility on De La Vina Street that has served the Santa Barbara community since 1963. A CMS 5-star rated, Medicare-certified provider with 68 beds offering short-term rehabilitation and long-term skilled nursing care."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/the-californian-055684"}]
 ---

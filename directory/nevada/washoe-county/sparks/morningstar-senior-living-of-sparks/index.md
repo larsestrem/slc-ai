@@ -23,5 +23,6 @@ organization_name: "MorningStar Senior Living"
 sources: ["https://www.aplaceformom.com/community/morning-star-senior-living-of-sparks-1330478", "https://www.yelp.com/biz/morningstar-senior-living-of-sparks-sparks-2", "https://www.seniorlivingguide.com/communities/morningstar-of-sparks-2360-wingfield-hills-rd-sparks-nv-89436/"]
 verified_date: "2026-07-11"
 description_full: "MorningStar Senior Living of Sparks is an assisted living and memory care community in the Wingfield Hills area of Sparks, north of Reno. It is operated by Denver-based MorningStar Senior Living, which runs communities across the western United States."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/morning-star-senior-living-of-sparks-1330478"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/morningstar-senior-living-of-sparks-sparks-2"}]
 licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
 ---

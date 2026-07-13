@@ -25,5 +25,6 @@ google_rating: 5.0
 google_review_count: 11
 rating_as_of: "2026-07-12"
 description_full: "NobleCare Adult Family Home is a six-bed, RN-supported adult family home in Bothell where each private bedroom has its own bathroom and opens onto a shared great room. The home is owned by a caregiver with over 20 years of experience, with a registered nurse overseeing clinical care, and families consistently describe the care as exceptional and attentive."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/noble-care-170040776562571"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

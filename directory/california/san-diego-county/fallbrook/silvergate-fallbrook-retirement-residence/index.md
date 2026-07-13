@@ -25,5 +25,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.7/5 average across 119 reviews on A Place for Mom (July 2026)"
 description_full: "Silvergate Fallbrook has served North County San Diego seniors for more than 30 years, offering independent living, assisted living, and memory care on a 5-acre walkable campus in the hills of Fallbrook. Reviews repeatedly cite 24-hour on-site nurses and med techs and a compassionate, long-serving staff."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/silvergate-retirement-residence-fallbrook-55288"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

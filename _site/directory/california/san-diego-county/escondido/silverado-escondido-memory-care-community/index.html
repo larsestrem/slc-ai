@@ -122,6 +122,10 @@ main { display: block; padding: 1.6rem 0 3rem; }
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
 .stars .off { color: var(--line); }
+.stars .half { color: var(--gold); }
+@supports ((-webkit-background-clip: text) or (background-clip: text)) {
+  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
+}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -327,12 +331,15 @@ tbody tr:hover { background: var(--soft); }
     </div>
   </div>
   <div class="rating-card">
-    <div class="rating-badge"><span class="rating-num">4.7 of 5</span></div>
+    <div class="rating-badge"><span class="stars" role="img" aria-label="4.7 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+<span class="rating-num">4.7 of 5</span>
+    </div>
     <div class="rating-body">
       <h3>Family &amp; resident reviews</h3>
-      <p><strong>Who writes it:</strong> families and residents, on public review sites — 62 Google reviews as of July 2026.
+      <p><strong>Who writes it:</strong> families and residents, on public review sites — 4.7 of 5 across 62 reviews as of July 2026.
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
       inspections. Read the recent ones and the middle-star ones, not just the average.</p>
+      <p><strong>Read the reviews:</strong> <a href="https://carelistings.com/assisted-living-homes/escondido-ca/silverado-escondido-memory-care-community/5acd01bca71d8c15cf685b6e" rel="nofollow noopener">CareListings</a> · <a href="https://www.yelp.com/biz/silverado-escondido-memory-care-community-escondido" rel="nofollow noopener">Yelp</a> — see the ratings and what families wrote, then judge for yourself.</p>
       <p><a href="/guides/interpreting-online-reviews/">How to read online reviews without being misled</a></p>
     </div>
   </div>

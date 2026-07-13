@@ -27,5 +27,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.8/5 across 67 reviews on A Place for Mom (July 2026)"
 description_full: "Estancia del Sol is a 135-bed senior living community with Spanish-style architecture in Corona, offering independent living, assisted living, memory care and respite stays. Operated by MBK Senior Living, it draws consistent praise for exceptional care, compassionate staff and a vibrant community atmosphere."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/estancia-del-sol-1375882"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/estancia-del-sol-corona"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/corona/estancia-del-sol-92881"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

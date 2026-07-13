@@ -23,5 +23,6 @@ sources: ["https://reviews.birdeye.com/village-concepts-of-marysville-grandview-
 verified_date: "2026-07-12"
 review_note: "4.3/5 across 8 reviews on Birdeye; 25 reviews on Caring.com (July 2026)"
 description_full: "Grandview Village is a Village Concepts retirement community in Marysville offering independent living with assisted living services. Residents and families praise the warm, compassionate staff and full activity calendar, while some reviews note the building shows its age."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/village-concepts-of-marysville-grandview-village-157269438321721"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/marysville/grandview-village-inc-98270"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/grandview-village-marysville"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -25,5 +25,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.4/5 across 172 reviews on Birdeye (July 2026)"
 description_full: "Sagewood is a resort-style Life Plan Community (CCRC) in north Phoenix offering independent living, assisted living, memory care, and skilled nursing on one campus. The community ranked 45th in Newsweek's 2025 national CCRC rankings and was rated a Best Senior Living community for independent living and memory care by U.S. News based on resident and family surveys."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/sagewood-148295682025072"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/sagewood-13568"}, {"name": "Seniorly", "url": "https://www.seniorly.com/continuing-care-retirement-community/arizona/phoenix/sagewood-phoenix"}]
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
 ---

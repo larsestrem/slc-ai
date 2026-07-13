@@ -27,5 +27,6 @@ google_rating: 4.5
 google_review_count: 46
 rating_as_of: "2026-07-12"
 description_full: "Hawks Ridge Assisted Living is an 85-bed licensed assisted living community in Hood River, set against the backdrop of the Cascade Mountains and the Columbia River Gorge. The community offers personal care, medication management, meals, and 24-hour staffing, with a full weekly activity calendar. It is managed by Eugene-based Compass Senior Living."
+review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/hood-river-or/hawks-ridge-senior-assisted-living-community/5acd0268a71d8c15cf6931ac"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/hood-river/hawks-ridge-assisted-living-hood-river"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

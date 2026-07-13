@@ -22,4 +22,5 @@ cms_rating_overall: 5
 sources: ["https://www.willametteview.org/about/", "https://health.usnews.com/best-nursing-homes/area/or/willamette-view-health-center-385200", "https://www.caring.com/senior-living/oregon/portland/willamette-view-97222"]
 verified_date: "2026-07-11"
 description_full: "Founded in 1955, Willamette View was the first continuing care retirement community in the Portland metro area, a nonprofit 501(c)(3) on a 27-acre campus overlooking the Willamette River between Milwaukie and Portland. It offers roughly 140 floor plans from one-bedroom apartments to three-bedroom residences, plus assisted living and the on-campus Willamette View Health Center, a Medicare-certified skilled nursing facility with a 5-star CMS overall rating."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/willamette-view-health-center-385200"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/portland/willamette-view-97222"}]
 ---

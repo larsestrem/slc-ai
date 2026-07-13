@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.4/5 across 30 resident and family reviews on SeniorSite; 49 reviews on Caring.com (July 2026)"
 description_full: "Holiday Sheldon Oaks is an independent living community in Eugene's Sheldon neighborhood, part of the national Holiday by Atria network. Monthly rent includes three homestyle meals daily, weekly housekeeping, and complimentary transportation, and reviewers highlight the welcoming atmosphere, cleanliness, and variety of activities."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/holiday-sheldon-oaks"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

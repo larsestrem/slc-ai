@@ -25,5 +25,6 @@ review_note: "10 reviews on A Place for Mom (listed as Alpine Residences of Brid
 specialties: ["Dementia"]
 quality_basis: "Washington-licensed adult family home run by a registered nurse with roughly 20 years of geriatric experience, a memory-care specialty, and 10 A Place for Mom reviews."
 description_full: "Bridle Trails Senior Care is a licensed adult family home in Kirkland's Bridle Trails neighborhood, owned and managed by a Washington-licensed registered nurse. It specializes in Alzheimer's and dementia care, hospice, and nursing services in a peaceful, home-like setting for up to six residents."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bridle-trails-senior-care-1357000"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/bridle-trails-senior-care-kirkland"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

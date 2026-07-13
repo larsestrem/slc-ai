@@ -23,5 +23,6 @@ organization_name: "Prestige Care"
 sources: ["https://www.prestigecare.com/locations/prestige-senior-living-arbor-place/", "https://www.seniorlivingguide.com/communities/arbor-place-3150-juanipero-way-medford-or-97504/", "https://www.aplaceformom.com/community/prestige-senior-living-arbor-place-98105", "https://www.ohca.com/facility-finder/prestige-senior-living-arbor-place/"]
 verified_date: "2026-07-11"
 description_full: "Prestige Senior Living Arbor Place is a 72-apartment assisted living community in Medford with an attached 18-room memory care center. Assisted living residents participate in the Celebrations wellness program, while the Expressions memory care program serves residents living with Alzheimer's disease or other memory impairments."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/prestige-senior-living-arbor-place-98105"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -21,5 +21,6 @@ sources: ["https://www.aplaceformom.com/community/aegis-living-issaquah-101959",
 verified_date: "2026-07-12"
 review_note: "4.5/5 average across 8 all-time reviews on A Place for Mom (July 2026)"
 description_full: "Assisted living and memory care community near downtown Issaquah, part of Bellevue-based Aegis Living. Known for its cottage-style campus of small single-story buildings connected by covered walkways, with well-kept landscaping, scenic views, and outdoor patios at the foot of the Issaquah Alps."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/aegis-living-issaquah-101959"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/issaquah/aegis-living-of-issaquah"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/aegis-living-issaquah-issaquah"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

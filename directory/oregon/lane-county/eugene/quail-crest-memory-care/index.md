@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.8/5 across 36 reviews on Birdeye (July 2026)"
 description_full: "Quail Crest Memory Care is a cottage-style memory care community in the Santa Clara area of Eugene, with five secure cottages housing sixteen residents each around fenced gardens and walking paths. Reviews consistently praise the compassionate, personalized dementia care and homelike environment."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/quail-crest-memory-care-168153439602686"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/quail-crest-memory-care"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

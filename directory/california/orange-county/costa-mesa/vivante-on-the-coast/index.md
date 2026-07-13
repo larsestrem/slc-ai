@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/vivante-on-the-coast-1366717",
 verified_date: "2026-07-12"
 review_note: "4.5/5 across 26 reviews on A Place for Mom (July 2026)"
 description_full: "Resort-style luxury assisted living and memory care community near the Newport Beach border, voted Best Senior Living in Orange County by LA Times readers in 2020. Known for made-to-order dining with extended hours, daily activity programming, and modern, hotel-like common spaces. U.S. News has rated it a Best Senior Living community for assisted living."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/vivante-on-the-coast-1366717"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-assisted-living/vivante-on-the-coast-47350"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

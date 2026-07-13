@@ -26,5 +26,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.7/5 across 79 reviews on Birdeye (July 2026); 111 reviews on A Place for Mom"
 description_full: "Atria Golden Creek offers independent living, assisted living and memory care in studio, one- and two-bedroom apartments overlooking San Diego Creek in Irvine. Amenities include multiple dining venues, a fitness center, movie theater, library, and salon and day spa. U.S. News has rated it a Best Senior Living community for assisted living based on resident and family surveys."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/atria-golden-creek-irvine"}, {"name": "Birdeye", "url": "https://reviews.birdeye.com/atria-golden-creek-157256668993804"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-golden-creek-55914"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/atria-golden-creek-16902"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

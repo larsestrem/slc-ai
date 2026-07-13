@@ -26,4 +26,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/quinn-meadows-rehabilitation-and-care-center-135136", "https://tanabell.com/quinn-meadows-rehabilitation-and-care/", "https://www.healthcare6.com/nursing-home/pocatello-id/quinn-meadows-rehabilitation-care-center-2983.html"]
 verified_date: "2026-07-12"
 description_full: "Quinn Meadows Rehabilitation and Care Center is a 41-bed Medicare- and Medicaid-certified skilled nursing facility in Pocatello offering short-term rehabilitation and long-term care. It holds a CMS overall rating of 5 out of 5 stars and a High Performing short-term rehabilitation rating from U.S. News, and has participated in Medicare since 2009. It is operated by Idaho-based Tanabell Health Services."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/quinn-meadows-rehabilitation-and-care-center-135136"}]
 ---

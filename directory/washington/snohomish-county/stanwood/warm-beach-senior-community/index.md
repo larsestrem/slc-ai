@@ -22,5 +22,6 @@ sources: ["https://www.assistedlivingcenter.com/facilities/wa/stanwood/warm-beac
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 29 reviews on AssistedLivingCenter.com (July 2026)"
 description_full: "Warm Beach Senior Community is a faith-based, not-for-profit continuing care community established in 1967 on a 90-acre campus near Stanwood, affiliated with the Free Methodist Church. It combines independent cottages and apartments with assisted living, memory care, and skilled nursing, and residents cite more than two dozen resident clubs and comparatively affordable rates."
+review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/wa/stanwood/warm-beach-senior-community-98292/"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

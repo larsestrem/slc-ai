@@ -23,5 +23,6 @@ sources: ["https://www.senioradvisor.com/local/cascades-of-bremerton-bremerton-w
 verified_date: "2026-07-12"
 review_note: "4.5/5 with 78 reviews on SeniorAdvisor; 4.4/5 with 14 reviews on Caring.com (July 2026)"
 description_full: "Cascades of Bremerton is a campus-style community offering independent living (The Willows), assisted living, and memory care in East Bremerton. Families praise the restaurant-style dining, active social programming, and landscaped grounds, though some reviews note staffing turnover."
+review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/cascades-of-bremerton-bremerton-wa"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/bremerton/cascades-of-bremerton"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

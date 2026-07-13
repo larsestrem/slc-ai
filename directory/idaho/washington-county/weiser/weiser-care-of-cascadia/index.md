@@ -26,4 +26,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/weiser-care-of-cascadia-135010", "https://www.medicare.gov/care-compare/details/nursing-home/135010"]
 verified_date: "2026-07-13"
 description_full: "A 76-bed skilled nursing and rehabilitation center in Weiser operated by Cascadia Healthcare, serving Washington County in western Idaho. It holds a CMS overall rating of 3 stars, including a 4-star quality-measures score. Provides Medicare- and Medicaid-certified post-acute and long-term care."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/weiser-care-of-cascadia-135010"}]
 ---

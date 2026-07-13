@@ -25,4 +25,5 @@ sources: ["https://www.assistedlivingcenter.com/facilities/ca/los-gatos/terraces
 verified_date: "2026-07-12"
 review_note: "4.8/5 across 27 reviews on AssistedLivingCenter.com; CMS 5-star overall skilled nursing rating (July 2026)"
 description_full: "A HumanGood life plan community on Blossom Hill Road in Los Gatos offering independent living, assisted living, memory care, and a CMS 5-star skilled nursing center. Named a U.S. News Best Senior Living community for independent living, assisted living, and memory care. Residents like the walkable location near Los Gatos shopping and dining."
+review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ca/los-gatos/terraces-of-los-gatos-95032/"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-terraces-of-los-gatos-2769"}]
 ---

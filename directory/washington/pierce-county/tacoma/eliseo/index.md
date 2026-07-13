@@ -24,4 +24,5 @@ cms_rating_overall: 4
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/eliseo-505435", "https://www.seniorcare.com/nursing-homes/wa/tacoma/eliseo/505435/"]
 verified_date: "2026-07-13"
 description_full: "Eliseo (formerly Tacoma Lutheran Retirement Community) is a nonprofit continuing-care retirement community on a 20-acre campus offering independent living, assisted living, memory care and skilled nursing. Its Medicare-certified skilled nursing center holds a CMS overall rating of 4 stars."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/eliseo-505435"}]
 ---

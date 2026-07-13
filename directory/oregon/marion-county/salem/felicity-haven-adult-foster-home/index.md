@@ -20,5 +20,6 @@ facility_size: "small"
 sources: ["https://www.aplaceformom.com/community/felicity-haven-adult-foster-home-1393946", "https://www.seniorhousingnet.com/seniorliving-detail/felicity-haven-adult-foster-home_2676-tahoe-ave-se_salem_or_97306-623974", "https://www.seniorhomes.com/oregon/salem/felicity-haven-adult-foster-home"]
 verified_date: "2026-07-11"
 description_full: "Felicity Haven Adult Foster Home is a licensed adult foster home in a residential neighborhood of South Salem, within five miles of shopping, clinics, hospitals, and a senior center. It provides 24-hour personal care in a small home setting and cares for seniors with disabilities, including those diagnosed with Alzheimer's disease and other forms of dementia."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/felicity-haven-adult-foster-home-1393946"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -22,5 +22,6 @@ sources: ["https://www.assistedlivingcenter.com/facilities/or/eugene/the-springs
 verified_date: "2026-07-11"
 review_note: "4.5/5 across 23 reviews on AssistedLivingCenter.com (July 2026)"
 description_full: "Independent living, assisted living, and memory care community on a 14-acre property built on the site of Eugene's former Greer Gardens nursery. Operated by Oregon-based The Springs Living, the campus is known for its gardens and grounds. Reviewers highlight caring staff and strong amenities, while some note staffing-level concerns."
+review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/eugene/the-springs-at-greer-gardens-97401/"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/the-springs-at-greer-gardens-97401"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-springs-at-greer-gardens-5369"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

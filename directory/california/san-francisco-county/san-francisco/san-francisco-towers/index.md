@@ -22,5 +22,6 @@ organization_name: "Front Porch"
 sources: ["https://covia.org/san-francisco-towers/contact/", "https://www.yelp.com/biz/san-francisco-towers-san-francisco"]
 verified_date: "2026-07-11"
 description_full: "San Francisco Towers is a nonprofit continuing care retirement community on Pine Street in San Francisco. It brings independent living apartments, assisted living suites, a memory-support neighborhood, and a Medicare-certified skilled nursing and rehabilitation center together on one site. It is operated by Front Porch (formerly Covia Communities)."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/san-francisco-towers-san-francisco"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

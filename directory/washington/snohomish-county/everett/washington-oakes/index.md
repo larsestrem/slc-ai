@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/washington-oakes-71517", "http
 verified_date: "2026-07-12"
 review_note: "4.5/5 average across 37 all-time reviews on A Place for Mom; 4.5 stars on SeniorAdvisor (July 2026)"
 description_full: "Independent and assisted living community in downtown Everett managed by Leisure Care, voted Best Independent Living and Best Assisted Living by U.S. News resident and family surveys. Reviewers praise the respectful, friendly staff, varied high-quality dining, and a clean, welcoming environment."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/washington-oakes-71517"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/washington-oakes-retirement-community-everett-wa"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

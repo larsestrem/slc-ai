@@ -27,5 +27,6 @@ google_rating: 4.4
 google_review_count: 28
 rating_as_of: "2026-07-11"
 description_full: "Farmington Square Medford is a cottage-style community in north Medford focused primarily on memory care for seniors living with Alzheimer's and other dementias, with assisted living support also available. The community has 81 beds across studio, one-bedroom, and two-bedroom floor plans and is managed by Radiant Senior Living."
+review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/memory-care/oregon/medford/farmington-square-medford"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/medford/farmington-square-medford"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

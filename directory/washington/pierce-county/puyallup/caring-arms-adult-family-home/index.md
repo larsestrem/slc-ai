@@ -25,5 +25,6 @@ review_note: "7 reviews averaging 5.0/5 overall experience on A Place for Mom (J
 specialties: ["Dementia"]
 quality_basis: "Washington-licensed six-bed adult family home with a 5.0/5 average across 7 A Place for Mom reviews and an Alzheimer's-care focus."
 description_full: "Caring Arms Adult Family Home is a licensed six-bed adult family home in the South Hill area of Puyallup, offering six private rooms in a newly remodeled house. It provides assisted living and Alzheimer's care and accepts Medicaid and Veteran benefits."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/caring-arms-adult-family-home-151103"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

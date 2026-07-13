@@ -26,4 +26,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-forest-grove-post-acute-rehabilitation-385204", "https://www.marquiscompanies.com/facility/marquis-forest-grove/", "https://ltclicensing.oregon.gov/Facilities/Details/385204"]
 verified_date: "2026-07-12"
 description_full: "Marquis Forest Grove Post Acute Rehab is a 63-bed skilled nursing facility in Forest Grove offering short-term rehabilitation and long-term care. It received a 5-out-of-5 overall Medicare star rating and is rated High Performing for short-term rehabilitation by U.S. News."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/marquis-forest-grove-post-acute-rehabilitation-385204"}]
 ---

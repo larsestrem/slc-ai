@@ -20,5 +20,6 @@ sources: ["https://www.senioradvisor.com/local/stafford-suites-sumner-wa", "http
 verified_date: "2026-07-12"
 review_note: "4.5/5 across 16 reviews on SeniorAdvisor (July 2026)"
 description_full: "Stafford Suites Sumner is an assisted living community in Sumner where staff assist with daily-living needs from medication management to bathing and dressing. The building includes an on-site diner, game and activity rooms, and a computer room, and families describe it as safe and homey."
+review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/stafford-suites-sumner-wa"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/stafford-suites-sumner-71774"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/stafford-suites-sumner"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

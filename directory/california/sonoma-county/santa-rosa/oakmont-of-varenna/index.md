@@ -27,5 +27,6 @@ google_rating: 4.4
 google_review_count: 36
 rating_as_of: "2026-07-12"
 description_full: "Luxury continuing care retirement community in Santa Rosa's Fountaingrove area, set on 30 acres overlooking a lake with 162 apartment and casita homes. Also known as Varenna at Fountaingrove, the community offers resort-style amenities including pools, a fitness center, a wine cave, and multiple dining venues. Operated by Oakmont Senior Living."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-varenna-a-ccrc-1370191"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/varenna-oakmont-santa-rosa"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

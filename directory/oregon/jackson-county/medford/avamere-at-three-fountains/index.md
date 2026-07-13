@@ -26,4 +26,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/avamere-at-three-fountains-385126", "https://www.avamere.com/avamere-at-three-fountains/", "https://ltclicensing.oregon.gov/Facilities/Details/385126"]
 verified_date: "2026-07-12"
 description_full: "Avamere at Three Fountains is a 117-bed skilled nursing and rehabilitation facility in Medford operated by the Oregon-based Avamere Family of Companies. It carries a 5-star overall CMS rating and is rated High Performing for both short-term rehabilitation and long-term care by U.S. News."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/avamere-at-three-fountains-385126"}]
 ---

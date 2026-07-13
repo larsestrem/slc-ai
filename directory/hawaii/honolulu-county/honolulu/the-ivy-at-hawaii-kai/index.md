@@ -25,5 +25,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.3/5 across 94 reviews on A Place for Mom; 4.6/5 across 48 reviews on AssistedLivingCenter.com (July 2026)"
 description_full: "A large independent living, assisted living, and memory care community in Honolulu's Hawaii Kai neighborhood, operated under the Ivy Living brand of Oakmont Senior Living. The community offers medication management, incontinence care, higher-acuity care, and individualized care plans, and is known for its well-maintained grounds and strong sense of community."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-ivy-hawaii-kai-73263"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/hi/honolulu/the-ivy-at-hawaii-kai-96825/"}]
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
 ---

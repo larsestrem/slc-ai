@@ -26,4 +26,5 @@ cms_rating_overall: 4
 sources: ["https://www.ohanapacific.com/locations/kauai/lihue/garden-isle-rehabilitation-healthcare-center", "https://health.usnews.com/best-nursing-homes/area/hi/garden-isle-healthcare-and-rehabilitation-center-125004", "https://www.nursinghomesite.com/GARDEN_ISLE_HEALTHCARE_AND_REHABILITATION_CENTER_LIHUE_HI"]
 verified_date: "2026-07-12"
 description_full: "A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health. It offers short-term rehabilitation with physical, occupational, and speech therapy alongside long-term care, and carries a CMS overall rating of 4 stars (some sources list 5)."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/garden-isle-healthcare-and-rehabilitation-center-125004"}]
 ---

@@ -24,5 +24,6 @@ sources: ["https://www.aplaceformom.com/community/solista-everett-by-cogir-71514
 verified_date: "2026-07-12"
 review_note: "4.2/5 from 34 reviewers (aggregate shown on chamberofcommerce.com, July 2026); 80 reviews on A Place for Mom"
 description_full: "Solista Everett by Cogir (formerly Holiday Cascadian Place) is an all-inclusive independent living community on Colby Avenue in Everett. Monthly rates include meals, housekeeping, and transportation, and reviewers highlight the affordability, caring staff, and food service."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/solista-everett-by-cogir-71514"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

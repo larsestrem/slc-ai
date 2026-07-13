@@ -25,4 +25,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-vermont-hills-385218", "https://www.medicare.gov/care-compare/details/nursing-home/385218/"]
 verified_date: "2026-07-13"
 description_full: "A 73-bed skilled nursing and post-acute rehabilitation center in southwest Portland operated by Marquis Companies. Services include rehabilitation therapy, wound care, and long-term nursing. CMS rates it 5 out of 5 stars overall."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/marquis-vermont-hills-385218"}]
 ---

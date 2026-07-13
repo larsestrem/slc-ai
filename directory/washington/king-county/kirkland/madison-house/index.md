@@ -23,5 +23,6 @@ google_rating: 4.4
 google_review_count: 29
 rating_as_of: "2026-07-12"
 description_full: "Independent and assisted living community in Kirkland's Totem Lake area, operated by family-owned Koelsch Communities. Located directly across the street from the EvergreenHealth medical campus, with reviewers highlighting the food, weekly social hours with live music, and attentive care staff."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/madison-house-71297"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/madison-house-kirkland"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -23,4 +23,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/maluhia-125009", "https://www.healthcare4ppl.com/nursing-home/hawaii/honolulu/maluhia-125009.html", "https://www.hcoahawaii.org/AGISModules/ProviderSearch/ProviderDetails.aspx?OrgID=549947&mid=411&pageid=371&letter=M&state=HI", "https://www.yelp.com/biz/maluhia-honolulu"]
 verified_date: "2026-07-12"
 description_full: "Maluhia is a government-operated skilled nursing and intermediate care facility in Honolulu's Kalihi neighborhood, serving Medicare and Medicaid residents since 1967. The 158-bed facility holds a CMS 5-star overall rating, well above the national average, and U.S. News rates its long-term care as High Performing."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/maluhia-125009"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/maluhia-honolulu"}]
 ---

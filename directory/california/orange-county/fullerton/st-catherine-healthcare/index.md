@@ -25,4 +25,5 @@ cms_rating_overall: 5
 sources: ["https://stcatherinehealthcare.com/", "https://ourhealthnetwork.com/nursing-home-facility/055689", "https://health.usnews.com/best-nursing-homes/area/ca/st-catherine-healthcare-fullerton-055689", "https://www.yelp.com/biz/st-catherine-healthcare-fullerton"]
 verified_date: "2026-07-12"
 description_full: "St. Catherine Healthcare is a 99-bed Medicare- and Medicaid-certified skilled nursing facility in Fullerton offering short-term rehabilitation and long-term care. It holds a CMS overall rating of 5 stars, well above the California average of about 3.5 stars."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/st-catherine-healthcare-fullerton-055689"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/st-catherine-healthcare-fullerton"}]
 ---

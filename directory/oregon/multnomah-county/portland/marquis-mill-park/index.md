@@ -25,4 +25,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-mill-park-385214", "https://www.medicare.gov/care-compare/details/nursing-home/385214/"]
 verified_date: "2026-07-13"
 description_full: "A 77-bed Marquis Companies skilled nursing and rehabilitation center in the Mill Park neighborhood of southeast Portland. It focuses on short-stay post-acute rehab and long-term care with high staffing levels. CMS rates it 5 out of 5 stars overall."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/marquis-mill-park-385214"}]
 ---

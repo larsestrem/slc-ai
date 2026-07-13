@@ -25,5 +25,6 @@ organization_name: "Belmont Village Senior Living"
 sources: ["https://www.belmontvillage.com/locations/sabre-springs-california/", "https://www.yelp.com/biz/belmont-village-senior-living-sabre-springs-san-diego-2", "https://carelistings.com/assisted-living-homes/san-diego-ca/belmont-village-sabre-springs/5acd01bca71d8c15cf685bb5"]
 verified_date: "2026-07-11"
 description_full: "Belmont Village Sabre Springs is an assisted living and memory care community in the Sabre Springs area of San Diego. The residential care facility is licensed for 184 beds and is operated by Belmont Village Senior Living."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/belmont-village-senior-living-sabre-springs-san-diego-2"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/san-diego-ca/belmont-village-sabre-springs/5acd01bca71d8c15cf685bb5"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

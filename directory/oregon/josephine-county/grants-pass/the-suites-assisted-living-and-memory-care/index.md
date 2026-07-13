@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/the-suites-assisted-living-and
 verified_date: "2026-07-11"
 review_note: "4.3/5 across 14 reviews on A Place for Mom (July 2026)"
 description_full: "The Suites is a combined assisted living and memory care community in Grants Pass with 65 licensed assisted living beds and a 28-bed memory care neighborhood. Families consistently describe it as clean, bright, and cheerful, with attentive communication from staff. It is operated by Eugene-based Compass Senior Living."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-suites-assisted-living-and-memory-care-60265"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -23,5 +23,6 @@ sources: ["https://www.senioradvisor.com/local/sunrise-of-edmonds-edmonds-wa", "
 verified_date: "2026-07-12"
 review_note: "4.5/5 with 21 reviews on SeniorAdvisor (July 2026); U.S. News Best Assisted Living and Best Memory Care 2026"
 description_full: "Sunrise of Edmonds provides assisted living and memory care near the Edmonds waterfront in Snohomish County. It was recognized as Best Assisted Living and Best Memory Care in U.S. News & World Report's 2026 Best Senior Living ratings. Reviewers praise the care and thoughtfully designed amenities, while noting premium pricing."
+review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/sunrise-of-edmonds-edmonds-wa"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/sunrise-of-edmonds-edmonds"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

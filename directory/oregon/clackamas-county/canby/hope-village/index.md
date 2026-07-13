@@ -24,5 +24,6 @@ google_rating: 4.0
 google_review_count: 23
 rating_as_of: "2026-07-11"
 description_full: "Hope Village is a faith-based, not-for-profit retirement community for adults 62 and older on a 56-acre campus in Canby, sponsored by Housing & Outreach Project for the Elderly (HOPE), Inc., a nonprofit founded by nine North Willamette Valley churches. Independent-living options include cottage homes, garden homes, and apartments, including income-qualified units at Cascade House. Assisted living, memory care, and skilled nursing are available on the same campus through Marquis-operated buildings, so residents can age in place within the village."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/hope-village-canby"}, {"name": "Birdeye", "url": "https://reviews.birdeye.com/hope-village-senior-living-community-168154464620059"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

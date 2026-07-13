@@ -22,5 +22,6 @@ google_rating: 4.3
 google_review_count: 27
 rating_as_of: "2026-07-12"
 description_full: "Ivy Park at Seal Beach (formerly Sunrise of Seal Beach) offers independent living, assisted living, and memory care near Old Ranch Country Club. Reviewers describe a clean, well-maintained campus with attentive staff, live entertainment, and support groups for families."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/seal-beach/ivy-park-at-seal-beach"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

@@ -22,5 +22,6 @@ verified_date: "2026-07-13"
 review_note: "4.8/5 across 3 reviews on A Place for Mom and rated 5.0/5 on SeniorAdvisor (July 2026)"
 quality_basis: "Small Honolulu Expanded ARCH (purpose-built as a care home in 2006) offering memory care, with documented positive reviews: 4.8/5 across 3 reviews on A Place for Mom plus a 5.0 SeniorAdvisor rating as of July 2026."
 description_full: "Vilma's Adult Care Home is a small Expanded Adult Residential Care Home in the Liliha/Kalihi area of Honolulu, purpose-built as a care home in 2006 and run by a certified caregiver, offering residential care and memory care. Families commend the hands-on, attentive care."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/vilmas-adult-care-home-1368136"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/vilmas-adult-care-home-honolulu-hi"}]
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
 ---

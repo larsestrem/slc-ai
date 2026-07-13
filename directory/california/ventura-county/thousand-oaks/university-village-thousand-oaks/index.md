@@ -24,5 +24,6 @@ google_rating: 4.7
 google_review_count: 43
 rating_as_of: "2026-07-12"
 description_full: "A continuing care retirement community in Thousand Oaks offering independent living, assisted living, and memory care with 24-hour care, dining, and medication management on a large campus."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/university-village-thousand-oaks-15541"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/university-village-thousand-oaks-thousand-oaks-3"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

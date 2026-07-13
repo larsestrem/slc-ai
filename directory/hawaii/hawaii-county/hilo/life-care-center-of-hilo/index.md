@@ -25,4 +25,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/life-care-center-of-hilo-125040", "https://lcca.com/locations/hi/hilo/"]
 verified_date: "2026-07-13"
 description_full: "Life Care Center of Hilo is a for-profit skilled nursing and rehabilitation facility on the Big Island, operated by Life Care Centers of America. It holds a CMS overall rating of 3 stars, driven by strong quality measures (5-star) and staffing (4-star) with a weaker health-inspection score (2-star). It provides short-term rehab and long-term skilled nursing care."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/life-care-center-of-hilo-125040"}]
 ---

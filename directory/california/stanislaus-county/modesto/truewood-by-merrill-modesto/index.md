@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/truewood-by-merrill-modesto-58
 verified_date: "2026-07-12"
 review_note: "4.2/5 across 75 reviews on A Place for Mom; APFM review score 9.7/10 on 22 recent reviews (July 2026)"
 description_full: "Independent living community established in 1993 and operated under Merrill Gardens' Truewood brand. Offers pet-friendly studio, one- and two-bedroom homes with community dining and activities."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/truewood-by-merrill-modesto-58724"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

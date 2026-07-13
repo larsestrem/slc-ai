@@ -22,5 +22,6 @@ sources: ["https://reviews.birdeye.com/willamette-oaks-a-lifeminded-residence-se
 verified_date: "2026-07-11"
 review_note: "4.4/5 across 33 reviews on Birdeye; 4.2/5 across 9 reviews on A Place for Mom (July 2026)"
 description_full: "Independent living retirement community on an 11-acre riverfront property beside the Willamette River in Eugene. Its signature LifeMinded program lets residents build a personalized wellness plan, with exercise and yoga classes, garden spaces, and evening outings. Residents praise the riverside setting, upkeep, and attentive staff across dining, housekeeping, and social programs."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/willamette-oaks-a-lifeminded-residence-senior-housing-eugene-157256464716654"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/willamette-oaks-97401"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/willamette-oaks-60116"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -122,6 +122,10 @@ main { display: block; padding: 1.6rem 0 3rem; }
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
 .stars .off { color: var(--line); }
+.stars .half { color: var(--gold); }
+@supports ((-webkit-background-clip: text) or (background-clip: text)) {
+  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
+}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -327,12 +331,14 @@ tbody tr:hover { background: var(--soft); }
     </div>
   </div>
   <div class="rating-card">
-    <div class="rating-badge"><span class="rating-num">Family<br>reviews</span></div>
+    <div class="rating-badge"><span class="rating-num">Family<br>reviews</span>
+    </div>
     <div class="rating-body">
       <h3>Family &amp; resident reviews</h3>
       <p><strong>Who writes it:</strong> families and residents, on public review sites (4.4/5 across 25 reviews on Birdeye; 4.5/5 across 54 ratings on Senior Care Authority (July 2026)).
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
       inspections. Read the recent ones and the middle-star ones, not just the average.</p>
+      <p><strong>Read the reviews:</strong> <a href="https://reviews.birdeye.com/the-peninsula-regent-169282299158744" rel="nofollow noopener">Birdeye</a> · <a href="https://www.seniorcareauthority.com/assisted-living/peninsula-regent-the-in-san-mateo-california.html" rel="nofollow noopener">Senior Care Authority</a> · <a href="https://www.yelp.com/biz/the-peninsula-regent-san-mateo" rel="nofollow noopener">Yelp</a> — see the ratings and what families wrote, then judge for yourself.</p>
       <p><a href="/guides/interpreting-online-reviews/">How to read online reviews without being misled</a></p>
     </div>
   </div>

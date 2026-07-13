@@ -22,5 +22,6 @@ organization_name: "Prestige Care"
 sources: ["https://www.prestigecare.com/locations/prestige-senior-living-orchard-heights/", "https://www.aplaceformom.com/community/prestige-senior-living-orchard-heights-96843", "https://www.caring.com/senior-living/oregon/salem/prestige-senior-living-at-orchard-heights-97304", "https://www.ohca.com/facility-finder/prestige-senior-living-orchard-heights/"]
 verified_date: "2026-07-11"
 description_full: "Prestige Senior Living Orchard Heights is a senior community in West Salem offering independent living, assisted living, and memory care. Assisted living residents participate in the Celebrations wellness program, and the community's Expressions memory care program serves residents living with Alzheimer's disease and other dementias."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/prestige-senior-living-orchard-heights-96843"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/salem/prestige-senior-living-at-orchard-heights-97304"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

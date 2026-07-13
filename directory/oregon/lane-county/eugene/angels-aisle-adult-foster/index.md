@@ -23,5 +23,6 @@ verified_date: "2026-07-13"
 review_note: "5.0/5 across 3 reviews on Caring.com (July 2026)"
 quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: 5.0/5 across 3 reviews on Caring.com (July 2026)."
 description_full: "Angels Aisle Adult Foster is a small Oregon-licensed adult foster home in Eugene serving up to five residents in a single-family setting. Families describe many years of loving, individualized care, good home-cooked food, and staff who are treated like family. It is one of the higher-reviewed small homes in the Eugene area."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/angels-aisle-adult-foster"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/angels-aisle-adult-foster-C146096"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

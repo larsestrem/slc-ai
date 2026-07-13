@@ -19,5 +19,6 @@ sources: ["https://reviews.birdeye.com/sullivan-park-assisted-living-14804928509
 verified_date: "2026-07-12"
 review_note: "4.3/5 across 64 reviews on Birdeye (July 2026)"
 description_full: "Sullivan Park Assisted Living Community offers assisted living and independent living in Spokane Valley, with a skilled nursing and rehabilitation center (Sullivan Park Care Center) on the same campus. Families note the friendly staff, activity programming, and generously sized apartments."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/sullivan-park-assisted-living-148049285092856"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/spokane-valley/sullivan-park-assisted-living-community-spokane-washington"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sullivan-park-senior-living-72247"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -23,4 +23,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/regency-at-northpointe-505369", "https://www.seniorcare.com/nursing-homes/wa/spokane/regency-at-northpointe/505369/"]
 verified_date: "2026-07-13"
 description_full: "A 120-bed skilled nursing and rehabilitation center in north Spokane offering short-term rehab and long-term care. It carries a CMS overall rating of 5 stars."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/regency-at-northpointe-505369"}]
 ---

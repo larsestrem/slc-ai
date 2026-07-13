@@ -26,4 +26,5 @@ cms_ccn: "295050"
 sources: ["https://lcca.com/locations/nv/reno/", "https://www.healthcare4ppl.com/nursing-home/nevada/reno/life-care-center-of-reno-295050.html", "https://health.usnews.com/best-nursing-homes/area/nv/life-care-center-of-reno-295050"]
 verified_date: "2026-07-11"
 description_full: "Life Care Center of Reno is a 198-bed Medicare- and Medicaid-certified skilled nursing facility in south Reno, operated by Life Care Centers of America. It provides short-term rehabilitation (physical, occupational, and speech therapy) and long-term skilled nursing care; the facility has been Medicare-certified since 1991."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/nv/life-care-center-of-reno-295050"}]
 ---

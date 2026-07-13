@@ -21,5 +21,6 @@ sources: ["https://reviews.birdeye.com/channing-house-157270292809696", "https:/
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 61 reviews on Birdeye; 51 family reviews averaging 4.5 stars on EveryPlace (July 2026)"
 description_full: "A nonprofit continuing care retirement community in a high-rise in downtown Palo Alto, a short walk from University Avenue shops. Residents move through independent living, assisted living, and skilled nursing within the same building. Reviewers call out kind, attentive staff, strong value for the area, a pool, and an unusually engaged resident community."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/channing-house-157270292809696"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/palo-alto/channing-house-94301"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

@@ -27,4 +27,5 @@ cms_rating_overall: 5
 sources: ["https://lcca.com/locations/co/gt-aurora/", "https://health.usnews.com/best-nursing-homes/area/co/garden-terrace-alzheimers-center-of-excellence-aurora-065266", "https://www.cohca.org/consumers/find-care/garden-terrace-alzheimers-center-of-excellence/"]
 verified_date: "2026-07-12"
 description_full: "Garden Terrace is a 120-bed skilled nursing facility devoted entirely to the care of people with Alzheimer's disease and other dementias, located across the street from the Medical Center of Aurora. It carries a 5-star CMS rating and provides secure, dementia-specialized nursing care."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/co/garden-terrace-alzheimers-center-of-excellence-aurora-065266"}]
 ---

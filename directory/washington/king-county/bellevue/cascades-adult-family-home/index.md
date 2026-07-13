@@ -21,5 +21,6 @@ facility_size: "small"
 sources: ["https://cascadesafh.com/", "https://agesong.com/listing/cascades-adult-family-home-inc-bellevue/", "https://www.aplaceformom.com/community/cascades-adult-family-home-141502"]
 verified_date: "2026-07-11"
 description_full: "Cascades Adult Family Home is a Washington state-licensed adult family home in Bellevue providing residential care and memory care in a home setting. The home is run under the direction of a registered nurse and serves seniors from Bellevue, Seattle, Redmond, and the surrounding Puget Sound area."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cascades-adult-family-home-141502"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

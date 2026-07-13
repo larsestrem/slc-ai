@@ -25,5 +25,6 @@ google_rating: 4.5
 google_review_count: 43
 rating_as_of: "2026-07-12"
 description_full: "Merrill Gardens at Auburn sits in downtown Auburn steps from shops and transit, offering independent living, assisted living, and memory care. Reviewers highlight the professional staff, clean building, and the walkable downtown location."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-auburn-1398129"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-auburn-auburn"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

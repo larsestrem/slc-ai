@@ -27,4 +27,5 @@ sources: ["https://villagardenshealthcenter.org/", "https://www.medicare.gov/car
 verified_date: "2026-07-12"
 review_note: "Editorial inclusion: CMS 5-star on-site skilled nursing (Villa Gardens Health Center); consumer reviews thinner — 4.1/5 across 6 reviews on A Place for Mom, and Summer House memory care 4.5 stars across 14 reviews on Birdeye (July 2026)"
 description_full: "Nonprofit continuing care retirement community in Pasadena operated by Front Porch, offering independent living, assisted living, memory care, and a CMS 5-star rated skilled nursing health center on one campus. Named Pasadena's best retirement community by local publications multiple years running. Residents cite waitstaff dining, a 24-hour bistro, and a strong fitness program; it is an entrance-fee community at the premium end."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/villa-gardens-94566"}]
 ---

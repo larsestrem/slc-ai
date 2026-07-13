@@ -24,4 +24,5 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.61/5 across 73 ratings on Senior Care Authority; on-site health center holds a CMS 5-star overall rating (July 2026)"
 description_full: "Casa de las Campanas in Rancho Bernardo is the only not-for-profit Type A life plan community in San Diego County, offering independent living, assisted living, memory care, skilled nursing, and rehabilitation. Its health center holds a 5-star overall rating from Medicare, and residents cite the ability to age in place across care levels."
+review_links: [{"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/casa-de-las-campanas-in-san-diego-california.html"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/casa-de-las-campanas-555362"}]
 ---

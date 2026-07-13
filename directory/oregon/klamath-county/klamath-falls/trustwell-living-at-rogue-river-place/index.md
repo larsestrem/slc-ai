@@ -25,5 +25,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "9.2/10 A Place for Mom review score; 56 reviews all-time (July 2026)"
 description_full: "A pet-friendly assisted living community in Klamath Falls offering daily personal support and respite care. Reviews repeatedly praise the caring staff and a full slate of activities including art programs, trips, and live entertainment."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/trustwell-living-at-rogue-river-place-60285"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

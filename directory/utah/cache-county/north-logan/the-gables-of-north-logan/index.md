@@ -25,5 +25,6 @@ sources: ["https://www.assistedlivingcenter.com/facilities/ut/north-logan/the-ga
 verified_date: "2026-07-12"
 review_note: "4.9/5 across 29 reviews on AssistedLivingCenter.com (July 2026)"
 description_full: "The Gables of North Logan provides assisted living, memory care, and respite care in a small, home-like setting in Cache Valley. Reviewers frequently mention the building's intimate feel and say the small resident count allows for one-on-one attention."
+review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ut/north-logan/the-gables-of-north-logan-memory-care-84341/"}]
 licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
 ---

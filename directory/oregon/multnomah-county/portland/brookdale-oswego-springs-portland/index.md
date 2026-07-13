@@ -22,5 +22,6 @@ organization_name: "Brookdale Senior Living"
 sources: ["https://www.brookdale.com/en/communities/brookdale-oswego-springs-portland.html", "https://www.aplaceformom.com/community/brookdale-oswego-springs-portland-102302", "https://www.familyassets.com/assisted-living/oregon/portland/brookdale-oswego-springs"]
 verified_date: "2026-07-11"
 description_full: "Brookdale Oswego Springs Portland is an assisted living community in southwest Portland operated by Brookdale Senior Living, the largest senior living operator in the United States. The community provides personal care assistance, dining, and activity programming in a residential setting near the Lake Oswego border."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/brookdale-oswego-springs-portland-102302"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

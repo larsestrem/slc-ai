@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/north-star-72732", "https://st
 verified_date: "2026-07-12"
 review_note: "9.6/10 A Place for Mom review score based on 10 reviews in the last 2 years; 66 reviews all-time (July 2026)"
 description_full: "North Star Retirement Community offers independent living, assisted living, and respite care in Coeur d'Alene, operated by Stellar Senior Living. Residents and families consistently note the excellent meals, meticulous cleanliness, scenic location, and dedicated, professional staff."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/north-star-72732"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

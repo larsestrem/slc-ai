@@ -27,4 +27,5 @@ cms_rating_overall: 4
 sources: ["https://lcca.com/locations/nv/las-vegas/", "https://www.healthcare4ppl.com/nursing-home/nevada/las-vegas/life-care-center-of-las-vegas-295052.html", "https://health.usnews.com/best-nursing-homes/area/nv/life-care-center-of-las-vegas-295052"]
 verified_date: "2026-07-11"
 description_full: "Life Care Center of Las Vegas is a 178-bed Medicare- and Medicaid-certified skilled nursing facility offering short-term rehabilitation and long-term care. It is operated by Life Care Centers of America and was first certified for Medicare/Medicaid in 1993."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/nv/life-care-center-of-las-vegas-295052"}]
 ---

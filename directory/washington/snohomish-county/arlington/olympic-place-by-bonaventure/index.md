@@ -23,5 +23,6 @@ sources: ["https://reviews.birdeye.com/olympic-place-by-bonaventure-retirement-a
 verified_date: "2026-07-12"
 review_note: "4.2/5 across 47 reviews on Birdeye (July 2026)"
 description_full: "Olympic Place by Bonaventure has served Snohomish County seniors since 2004, offering independent living, assisted living, and memory care in a quiet Arlington neighborhood within walking distance of shopping. Residents mention the movie room, exercise room, salon, and a full activities calendar."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/olympic-place-by-bonaventure-retirement-and-assisted-living-community-157269437706421"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/olympic-place-by-bonaventure-arlington"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

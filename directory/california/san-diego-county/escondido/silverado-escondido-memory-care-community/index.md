@@ -27,5 +27,6 @@ google_rating: 4.7
 google_review_count: 62
 rating_as_of: "2026-07-12"
 description_full: "Silverado Escondido is a dedicated memory care community licensed for 104 beds in north Escondido. Part of the national Silverado memory care organization, it provides personal care, meals, medication management, and 24-hour supervision for residents living with Alzheimer's disease and other dementias."
+review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/escondido-ca/silverado-escondido-memory-care-community/5acd01bca71d8c15cf685b6e"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/silverado-escondido-memory-care-community-escondido"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

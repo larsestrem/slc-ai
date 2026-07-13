@@ -23,5 +23,6 @@ organization_name: "HumanGood"
 sources: ["https://www.humangood.org/the-terraces-at-san-joaquin-gardens/post-acute-rehab/about", "https://www.yelp.com/biz/the-terraces-at-san-joaquin-gardens-fresno-2", "https://www.aplaceformom.com/community/the-terraces-at-san-joaquin-gardens-a-ccrc-56811"]
 verified_date: "2026-07-11"
 description_full: "The Terraces at San Joaquin Gardens is a continuing care retirement community on North Fresno Street in Fresno. It offers maintenance-free independent living, assisted living, memory care, and long-term skilled nursing with post-acute rehabilitation on one campus, and is part of the nonprofit HumanGood family of communities."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/the-terraces-at-san-joaquin-gardens-fresno-2"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-terraces-at-san-joaquin-gardens-a-ccrc-56811"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

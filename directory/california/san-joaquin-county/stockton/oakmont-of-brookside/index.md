@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.7/5 across 54 reviews on Birdeye; 4.6/5 across 52 all-time reviews on A Place for Mom (July 2026)"
 description_full: "Oakmont of Brookside provides assisted living and memory care in Stockton's Brookside neighborhood. Reviewers consistently describe a warm, family-like atmosphere, dedicated staff, and a clean, well-maintained building, with dining quality earning special mention."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/oakmont-of-brookside-167370767401978"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-brookside-58610"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-brookside-stockton-3"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

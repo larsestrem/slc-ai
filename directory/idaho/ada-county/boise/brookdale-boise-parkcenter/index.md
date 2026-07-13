@@ -22,5 +22,6 @@ organization_name: "Brookdale Senior Living"
 sources: ["https://www.brookdale.com/en/communities/brookdale-boise-parkcenter-al.html", "https://www.aplaceformom.com/community/brookdale-boise-parkcenter-52862", "https://www.yelp.com/biz/brookdale-senior-living-boise"]
 verified_date: "2026-07-11"
 description_full: "Brookdale Boise Parkcenter offers both independent living and assisted living on one campus along the Boise River greenbelt corridor in southeast Boise. Assisted living residents receive help with daily tasks such as bathing, dressing, and mobility, with staff available around the clock. The community is part of Brookdale Senior Living, the largest senior living operator in the United States."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/brookdale-boise-parkcenter-52862"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/brookdale-senior-living-boise"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

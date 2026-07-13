@@ -24,5 +24,6 @@ sources: ["https://www.aplaceformom.com/community/lincoln-court-52696", "https:/
 verified_date: "2026-07-12"
 review_note: "9.8/10 A Place for Mom review score; 79 reviews all-time with 84% 5-star ratings (July 2026)"
 description_full: "Lincoln Court is a Stellar Senior Living community in a quiet Idaho Falls neighborhood offering independent living, assisted living, memory care, and respite stays. It is among the highest-reviewed senior living communities in eastern Idaho, with families uniformly praising the friendly, attentive staff and full activity calendar."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/lincoln-court-52696"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/lincoln-court-retirement-community-idaho-falls-2"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

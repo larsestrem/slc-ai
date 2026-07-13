@@ -26,5 +26,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.6/5 across 13 reviews on A Place for Mom; 4.4-star Google rating per operator, review count not visible (July 2026)"
 description_full: "A 52-bed memory care community in south Salem organized into four small neighborhoods, each with its own dining, living, and activity areas. Winner of a 2024 Pinnacle Customer Experience Award and a BusinessRate Best of 2026 award, with families praising compassionate staff and engaging life-enrichment programs."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/battle-creek-memory-care-1437661"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

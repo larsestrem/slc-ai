@@ -21,5 +21,6 @@ sources: ["https://www.aplaceformom.com/community/the-heritage-downtown-57903", 
 verified_date: "2026-07-12"
 review_note: "4.9/5 average across 82 reviews on A Place for Mom (July 2026)"
 description_full: "An active-adult luxury independent living community in downtown Walnut Creek, within walking distance of shops and restaurants. Residents get restaurant-style dining at the on-site Newton's restaurant, a pool, gym, library, and movie theater. Winner of A Place for Mom's Best of Senior Living award four years running (2023-2026)."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-heritage-downtown-57903"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-heritage-downtown-walnut-creek"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

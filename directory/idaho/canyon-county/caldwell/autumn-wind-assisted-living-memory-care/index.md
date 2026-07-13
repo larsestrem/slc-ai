@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/autumn-wind-assisted-living-me
 verified_date: "2026-07-12"
 review_note: "9.4/10 A Place for Mom review score; 43 reviews on its A Place for Mom listing with 67% 5-star ratings (July 2026)"
 description_full: "Autumn Wind Assisted Living & Memory Care sits among local farms in a residential Caldwell neighborhood, with 53 assisted living apartments and 22 private and semi-private apartments in its secure Expressions memory care neighborhood specializing in Alzheimer's and dementia care. Families consistently praise the compassionate staff, cleanliness, and home-like atmosphere."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/autumn-wind-assisted-living-memory-care-52749"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/caldwell/autumn-wind-assisted-living-caldwell"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

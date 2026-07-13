@@ -24,4 +24,5 @@ cms_ccn: "055169"
 sources: ["https://sfcjl.org/", "https://www.medicare.gov/care-compare/details/nursing-home/055169/view-all/?city=San+Francisco&state=CA&zipcode=94112", "https://www.yelp.com/biz/san-francisco-campus-for-jewish-living-san-francisco"]
 verified_date: "2026-07-11"
 description_full: "The San Francisco Campus for Jewish Living is a nonprofit senior care campus on Silver Avenue in San Francisco. Its skilled nursing center (licensed as Jewish Home & Rehab Center D/P SNF) is Medicare- and Medicaid-certified with 362 certified beds and provides long-term care and rehabilitation services."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/san-francisco-campus-for-jewish-living-san-francisco"}]
 ---

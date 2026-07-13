@@ -24,5 +24,6 @@ sources: ["https://www.aplaceformom.com/community/brookdale-south-bay-138837", "
 verified_date: "2026-07-12"
 review_note: "4.5/5 average overall experience across 43 reviews on A Place for Mom (July 2026)"
 description_full: "Independent living retirement community on Torrance Boulevard in Torrance, part of the national Brookdale Senior Living network. Amenities include a library, arts and crafts studio, game room, and outdoor putting green, with housekeeping, dining, transportation, and concierge services handled by community staff."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/brookdale-south-bay-138837"}, {"name": "Seniorly", "url": "https://www.seniorly.com/independent-living/california/torrance/brookdale-south-bay-torrance-5481-w-torrance-blvd-torrance-ca-90503"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

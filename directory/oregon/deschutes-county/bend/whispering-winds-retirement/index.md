@@ -22,5 +22,6 @@ capacity: 112
 sources: ["https://whisperingwinds.info/", "https://www.yelp.com/biz/whispering-winds-retirement-bend", "https://assistedlivingmagazine.com/independent-living/whispering-winds/"]
 verified_date: "2026-07-11"
 description_full: "Whispering Winds is an independent living retirement community in Bend with 112 apartment homes, including studio, one-bedroom, two-bedroom, and cottage options. Monthly rent covers restaurant-style dining, weekly housekeeping, and a full activity calendar with fitness classes and outings. Reviewers consistently praise the dining program and long-tenured, responsive staff."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/whispering-winds-retirement-bend"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

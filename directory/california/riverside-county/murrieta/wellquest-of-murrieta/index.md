@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.6/5 across 20 reviews on Caring.com (July 2026)"
 description_full: "WellQuest of Murrieta, formerly Renaissance Village Murrieta, is a senior living community established in 2017 offering independent living, assisted living, memory care and respite care. Residents and families praise the caring staff and warm, home-like environment with engaging activities."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/murrieta/wellquest-of-murrieta"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/well-quest-of-murrieta-1403853"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/renaissance-village-murrieta-murrieta"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

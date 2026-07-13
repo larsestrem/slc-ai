@@ -22,5 +22,6 @@ sources: ["https://www.aplaceformom.com/community/scholl-canyon-estates-148228",
 verified_date: "2026-07-12"
 review_note: "4.5/5 across 38 reviews on A Place for Mom (July 2026)"
 description_full: "Independent living retirement community in the hills of east Glendale, established in 2000 and operated under the Gracious Retirement Living brand. Monthly rent includes three chef-prepared meals daily, weekly housekeeping, transportation, and a busy events calendar with live music, dances, and exercise classes. Live-in managers are on site around the clock."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/scholl-canyon-estates-148228"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/glendale/scholl-canyon-estates-gracious-retirement-living"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/scholl-canyon-estates-gracious-retirement-living-glendale"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

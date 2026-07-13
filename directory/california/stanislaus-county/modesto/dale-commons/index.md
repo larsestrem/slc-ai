@@ -25,5 +25,6 @@ google_rating: 4.6
 google_review_count: 25
 rating_as_of: "2026-07-12"
 description_full: "Dale Commons is an MBK Senior Living community in north Modesto offering independent living and assisted living with 24/7 residential care and support with daily activities. Residents and families praise the beautiful, spacious grounds, friendly staff, and quality dining options."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/dale-commons-98673"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/modesto/dale-commons-assisted-living-community-95356"}, {"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/dale-commons/"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

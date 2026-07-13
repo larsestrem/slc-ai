@@ -22,5 +22,6 @@ sources: ["https://birdeye.com/burlingame-senior-living-169203903187358", "https
 verified_date: "2026-07-12"
 review_note: "4.6 stars across 193 reviews on Birdeye; 141 reviews on A Place for Mom (July 2026)"
 description_full: "A 90-bed community across the street from Washington Park in Burlingame, formerly operated as Atria Burlingame, offering independent living, assisted living, memory care, and respite stays. Nearly every apartment has scenic views, and the location is walkable to downtown Burlingame shops and restaurants. Families particularly praise the memory care program and 24-hour staff."
+review_links: [{"name": "Birdeye", "url": "https://birdeye.com/burlingame-senior-living-169203903187358"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/burlingame-senior-living-56962"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

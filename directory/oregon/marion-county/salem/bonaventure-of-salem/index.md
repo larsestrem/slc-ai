@@ -22,5 +22,6 @@ organization_name: "Bonaventure Senior Living"
 sources: ["https://bonaventuresenior.com/community/bonaventure-of-salem/", "https://www.aplaceformom.com/community/bonaventure-of-salem-1359646", "https://www.seniorlivingguide.com/communities/bonaventure-of-salem-3411-boone-road-se-salem-or-97317/", "https://www.ohca.com/facility-finder/bonaventure-of-salem-assisted-living/"]
 verified_date: "2026-07-11"
 description_full: "Bonaventure of Salem is a senior living community in southeast Salem offering independent living, assisted living, and memory care on one campus. Residents in the secured memory care neighborhood receive 24-hour supervision and dementia-specific programming. The community allows residents to age in place and adjust their level of care as needed."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bonaventure-of-salem-1359646"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

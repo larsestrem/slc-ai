@@ -25,5 +25,6 @@ sources: ["https://www.aplaceformom.com/community/atria-park-of-vintage-hills-55
 verified_date: "2026-07-12"
 review_note: "4.4/5 across 126 reviews on A Place for Mom (July 2026)"
 description_full: "Retirement community in the Temecula wine country foothills offering independent living, assisted living, and memory care. Residents describe a resort-like, well-kept campus with attentive staff and reliable transportation service. One of the largest review bases of any senior community in southwest Riverside County, with some reviewers flagging rate increases and dining consistency."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-park-of-vintage-hills-55910"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/atria-park-of-vintage-hills-temecula"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

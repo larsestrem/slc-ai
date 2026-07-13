@@ -25,4 +25,5 @@ cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-centennial-post-acute-rehabilitation-385183", "https://www.medicare.gov/care-compare/details/nursing-home/385183/"]
 verified_date: "2026-07-13"
 description_full: "An 80-bed skilled nursing and post-acute rehabilitation center in east Portland's Centennial area, part of the Oregon-based Marquis Companies. It offers physical, occupational, and speech therapy alongside 24-hour nursing care. CMS rates it 3 out of 5 stars overall."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/marquis-centennial-post-acute-rehabilitation-385183"}]
 ---

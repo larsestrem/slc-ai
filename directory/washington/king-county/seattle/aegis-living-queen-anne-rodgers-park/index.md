@@ -24,5 +24,6 @@ organization_name: "Aegis Living"
 sources: ["https://www.aegisliving.com/locations/aegis-living-queen-anne-rodgers-park-seattle-wa/", "https://www.yelp.com/biz/aegis-living-queen-anne-rodgers-park-seattle", "https://www.familyassets.com/assisted-living/washington/seattle/aegis-living-queen-anne-rodgers-park"]
 verified_date: "2026-07-11"
 description_full: "Aegis Living Queen Anne Rodgers Park is an assisted living and memory care community on Queen Anne Hill in Seattle, across from Rodgers Park. The community offers 88 assisted living apartments and 41 Life's Neighborhood memory care apartments. It is operated by Aegis Living, a Bellevue-based senior living company."
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/aegis-living-queen-anne-rodgers-park-seattle"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

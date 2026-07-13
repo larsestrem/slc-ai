@@ -24,5 +24,6 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.2/5 across 34 reviews on A Place for Mom (July 2026)"
 description_full: "A 43-apartment community in Bend across the street from St. Charles Medical Center, with 22 assisted living and 21 memory care apartments, each with a private bathroom and roll-in shower. Managed by Caring Places Management; reviewers describe kind, compassionate staff and weekly entertainment and outings."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/awbrey-place-60294"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

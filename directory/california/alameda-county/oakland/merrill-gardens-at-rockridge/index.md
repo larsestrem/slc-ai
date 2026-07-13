@@ -24,5 +24,6 @@ sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-rockridge-1
 verified_date: "2026-07-12"
 review_note: "4.3/5 overall experience across 18 reviews on A Place for Mom (July 2026)"
 description_full: "Newer senior living community in Oakland's Rockridge neighborhood offering independent living, assisted living, and memory care, with architecture designed to match the classic character of the area. Located close to the dining and retail of College Avenue and BART. Reviewers highlight the bright, modern building, rooftop garden spaces, and active social calendar."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-rockridge-1400546"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-rockridge-oakland"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

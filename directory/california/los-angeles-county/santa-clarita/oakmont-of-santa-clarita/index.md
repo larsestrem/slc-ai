@@ -25,5 +25,6 @@ sources: ["https://www.caring.com/senior-living/california/santa-clarita/oakmont
 verified_date: "2026-07-12"
 review_note: "4.7/5 across 16 reviews on Caring.com; 4.4/5 across 14 reviews on A Place for Mom (July 2026)"
 description_full: "Luxury assisted living and memory care community on Newhall Ranch Road in the Valencia area of Santa Clarita. Residents cite larger-than-average apartments, a movie theater, and diabetic and medication-management support. Part of the Oakmont Senior Living portfolio, with a B+ state inspection grade above the California average."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/santa-clarita/oakmont-of-santa-clarita-91355"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-santa-clarita-1384020"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-santa-clarita-santa-clarita"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

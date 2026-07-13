@@ -25,5 +25,6 @@ google_rating: 4.5
 google_review_count: 13
 rating_as_of: "2026-07-12"
 description_full: "Family-owned senior living community nestled along the Sammamish River Trail in downtown Bothell, offering independent living, assisted living, memory care, and respite care. Part of the locally operated Chateau Retirement Communities group serving the Seattle area."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/chateau-bothell-landing-95415"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

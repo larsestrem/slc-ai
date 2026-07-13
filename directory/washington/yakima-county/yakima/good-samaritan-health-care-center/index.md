@@ -25,4 +25,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/good-samaritan-health-care-center-505348", "https://www.regency-pacific.com/senior-living/wa/yakima/good-samaritan-health-care-center/"]
 verified_date: "2026-07-13"
 description_full: "A 105-bed nonprofit skilled nursing facility in Yakima operated by the Evangelical Lutheran Good Samaritan Society, offering short-term rehab and long-term care. It holds a CMS overall rating of 5 stars."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/good-samaritan-health-care-center-505348"}]
 ---

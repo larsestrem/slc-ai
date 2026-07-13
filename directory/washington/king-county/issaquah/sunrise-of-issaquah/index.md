@@ -25,5 +25,6 @@ sources: ["https://reviews.birdeye.com/sunrise-of-issaquah-168163949706865", "ht
 verified_date: "2026-07-12"
 review_note: "4.8/5 across 50 reviews on Birdeye; 4.7 Google rating (July 2026)"
 description_full: "Sunrise of Issaquah is a 107-bed assisted living and memory care community on the Issaquah-Fall City Road, recognized by U.S. News as Best Assisted Living and Best Memory Care for 2026. Families describe attentive, kind staff and a smooth transition process for new residents."
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/sunrise-of-issaquah-168163949706865"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

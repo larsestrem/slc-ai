@@ -29,5 +29,6 @@ google_review_count: 55
 rating_as_of: "2026-07-12"
 review_note: "4.3/5 across 21 reviews on A Place for Mom (July 2026); Google 4.1 across 55 reviews"
 description_full: "Modern assisted living and memory care community on Lomita Boulevard near Torrance Memorial Medical Center, licensed for 126 residents. Reviewers describe a clean, upscale building with extensive amenities and kind, attentive caregivers, while some note leadership turnover. One of the newer luxury senior living options in the South Bay."
+review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/torrance-ca/oakmont-of-torrance/67f33cd5a073024f4eb49854"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-torrance-1441304"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-torrance-torrance"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

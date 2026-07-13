@@ -23,5 +23,6 @@ sources: ["https://www.aplaceformom.com/community/sunrise-of-bellevue-71242", "h
 verified_date: "2026-07-12"
 review_note: "4.6/5 average across 34 all-time reviews on A Place for Mom; 9.5/10 APFM review score based on 6 reviews in the last 2 years (July 2026)"
 description_full: "Assisted living and memory care community in east Bellevue, part of the national Sunrise Senior Living network. Families praise the exceptional staff, clean and attractive environment, abundant activities, and a location convenient for family visits, with many in-house activities plus day trips and outings."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunrise-of-bellevue-71242"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/bellevue/sunrise-of-bellevue-98008"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

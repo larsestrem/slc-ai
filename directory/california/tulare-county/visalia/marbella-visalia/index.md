@@ -23,5 +23,6 @@ sources: ["https://www.caring.com/senior-living/california/visalia/prestige-assi
 verified_date: "2026-07-12"
 review_note: "4.43/5 across 43 reviews on Caring.com (2026)"
 description_full: "An assisted living and memory care community in Visalia (formerly Prestige Assisted Living at Visalia). Reviewers describe attentive, respectful staff, a variety of activities, and a well-regarded memory care wing."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/visalia/prestige-assisted-living-at-visalia-93278"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

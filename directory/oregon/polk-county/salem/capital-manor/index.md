@@ -23,5 +23,6 @@ sources: ["https://www.seniorcareauthority.com/assisted-living/capital-manor-ret
 verified_date: "2026-07-11"
 review_note: "4.49/5 average across 54 ratings listed by Senior Care Authority (July 2026)"
 description_full: "Nonprofit continuing care retirement community in West Salem, anchored by a 10-story tower with 255 apartments facing the Salem-Dallas Highway. Offers independent living, assisted living, and memory care on one campus, with a salon, walking trails, and an active social calendar of field trips and concerts. Managed in partnership with Life Care Services (LCS)."
+review_links: [{"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/capital-manor-retirement-community-in-salem-oregon.html"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/salem/capital-manor-97304"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

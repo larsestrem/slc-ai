@@ -25,4 +25,5 @@ cms_ccn: "135104"
 sources: ["https://www.twinfallstransitionalofcascadia.com/", "https://www.medicarelist.com/nursing-home/twin-falls-center-twin-falls-id/", "https://health.usnews.com/best-nursing-homes/area/id/twin-falls-transitional-care-of-cascadia-135104", "https://carelistings.com/skilled-nursing-facilities/twin-falls-id/twin-falls-transitional-care-of-cascadia/5ace880f93efd2372f97bc38"]
 verified_date: "2026-07-11"
 description_full: "Twin Falls Transitional Care of Cascadia is a 116-bed Medicare- and Medicaid-certified skilled nursing facility providing rehabilitation and long-term skilled nursing care in Twin Falls. The facility focuses on transitional, post-acute care for patients recovering after a hospital stay. It is operated by Idaho-based Cascadia Healthcare."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/twin-falls-transitional-care-of-cascadia-135104"}, {"name": "CareListings", "url": "https://carelistings.com/skilled-nursing-facilities/twin-falls-id/twin-falls-transitional-care-of-cascadia/5ace880f93efd2372f97bc38"}]
 ---

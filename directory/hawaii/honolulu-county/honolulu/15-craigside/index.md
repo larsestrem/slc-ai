@@ -24,4 +24,5 @@ cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/15-craigside-125063", "https://www.seniorcare.com/nursing-homes/hi/honolulu/15-craigside/125063/", "https://arcadia.org/skilled-nursing/15-craigside-arcadia/", "https://www.yelp.com/biz/15-craigside-honolulu-5"]
 verified_date: "2026-07-12"
 description_full: "15 Craigside is a 13-story nonprofit continuing care retirement community in Honolulu's Nuuanu area, operated by the Arcadia Family of Companies. The tower provides 170 independent living units (140 one-bedroom apartments and 30 studios), assisted living services throughout the building, and a 45-bed skilled nursing unit that holds a CMS 5-star overall rating with a High Performing long-term care designation."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/15-craigside-125063"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/15-craigside-honolulu-5"}]
 ---

@@ -26,5 +26,6 @@ google_review_count: 58
 rating_as_of: "2026-07-12"
 review_note: "Also 32 reviews on Caring.com and 20 on A Place for Mom (2026)"
 description_full: "An Atria assisted living and memory care community in Grass Valley. Visitors and residents praise friendly, professional staff, fine-dining-style meals, a diverse activity schedule, and attentiveness to residents' needs."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-grass-valley-59472"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/grass-valley/atria-grass-valley-95945"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

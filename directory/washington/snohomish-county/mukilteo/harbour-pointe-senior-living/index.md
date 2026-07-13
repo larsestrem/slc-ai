@@ -21,5 +21,6 @@ sources: ["https://birdeye.com/harbour-pointe-senior-living-174180552289557", "h
 verified_date: "2026-07-12"
 review_note: "4.3/5 across 80 reviews on Birdeye (July 2026)"
 description_full: "Harbour Pointe Senior Living offers assisted living, memory care, and respite care in Mukilteo's Harbour Pointe neighborhood. Families praise the engaged, kind staff and the community atmosphere, with location and amenities frequently cited as strengths."
+review_links: [{"name": "Birdeye", "url": "https://birdeye.com/harbour-pointe-senior-living-174180552289557"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/harbour-pointe-senior-living-mukilteo"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -25,5 +25,6 @@ sources: ["https://www.caring.com/senior-living/idaho/coeur-d-alene/legends-park
 verified_date: "2026-07-12"
 review_note: "4.8 rating on AssistedLivingCenter; 9 reviews on Caring.com (July 2026); voted Best Assisted Living Community in Idaho"
 description_full: "Legends Park Assisted Living is a 44-apartment assisted living community in Coeur d'Alene operated by Prestige Care, located across from the Kroc Center with trails adjacent to the property. Apartments include kitchenettes, barrier-free showers, and 24-hour emergency call systems, and the community has been voted Best Assisted Living Community in Idaho."
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/coeur-d-alene/legends-park-assisted-living-83815"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

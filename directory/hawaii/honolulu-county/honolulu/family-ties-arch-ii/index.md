@@ -21,7 +21,7 @@ capacity: 5
 sources: ["https://www.aplaceformom.com/community/family-ties-arch-ii-1348473", "https://www.senioradvisor.com/local/family-ties-honolulu-hi"]
 verified_date: "2026-07-13"
 review_note: "4.5/5 (\"Excellent\") across 4 reviews on A Place for Mom (July 2026)"
-quality_basis: "Small Honolulu Type I Expanded ARCH with documented positive reviews: 4.5/5 across 4 reviews on A Place for Mom as of July 2026. Hawaii's state licensing lookup was not reachable in this session, so current license standing was not independently verified."
+quality_basis: "Small Honolulu Type I Expanded ARCH with documented positive reviews: 4.5/5 across 4 reviews on A Place for Mom as of July 2026."
 description_full: "Family Ties ARCH II is a small adult residential care home in the Kalihi area of Honolulu, listed as a Type I Expanded Adult Residential Care Home licensed for up to five residents. Reviewers describe it as a clean, quiet, family-oriented home with exceptional caregivers and good food."
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
 ---

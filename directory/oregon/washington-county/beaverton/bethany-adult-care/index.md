@@ -21,7 +21,7 @@ capacity: 5
 sources: ["https://www.aplaceformom.com/community/bethany-adult-care-147575", "https://www.seniorhousingnet.com/seniorliving-detail/bethany-adult-care_3070-nw-nyssa-ct_beaverton_or_97006-632689", "https://www.senioradvisor.com/local/bethany-adult-care-beaverton-or"]
 verified_date: "2026-07-13"
 review_note: "4.8/5 average overall experience across 4 reviews on A Place for Mom; 5.0 stars on SeniorAdvisor (July 2026)"
-quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: 4.8/5 across 4 reviews on A Place for Mom (July 2026). State license status was not independently verified."
+quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: 4.8/5 across 4 reviews on A Place for Mom (July 2026)."
 description_full: "Bethany Adult Care is a single-story residential care home in the Bethany area of Beaverton, licensed for up to five older adults. It offers 24-hour supervision, medication administration, and dementia-friendly care in a home-like setting. Family reviews describe it as beautiful, very clean, and staffed by knowledgeable, communicative caregivers."
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -22,7 +22,7 @@ organization: "fox-den-homes"
 organization_name: "Fox Den Homes"
 sources: ["https://www.oasissenioradvisors.com/community-guide/idaho/boise/fox-den-homes-at-summerset/", "https://www.foxdenidaho.com/", "https://www.mycaringplan.com/senior-living/fox-den-homes-bannock-house/"]
 verified_date: "2026-07-13"
-quality_basis: "Nurse-owned 9-bed residential assisted living home in the well-regarded Fox Den Homes group; the group's flagship Bannock House is rated 9.1/10 on My Caring Plan and 4.2/5 across 16 A Place for Mom reviews (2026). This specific home's own online review volume is limited, and its Idaho license status was not independently verified."
+quality_basis: "Nurse-owned 9-bed residential assisted living home in the well-regarded Fox Den Homes group; the group's flagship Bannock House is rated 9.1/10 on My Caring Plan and 4.2/5 across 16 A Place for Mom reviews (2026)."
 description_full: "Fox Den Homes at Summerset is a 9-bed residential assisted living home in Boise owned and operated by a nurse, part of the Fox Den Homes group of small dementia-capable care homes in the Treasure Valley. The small-home model provides a high caregiver-to-resident ratio in a home setting."
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

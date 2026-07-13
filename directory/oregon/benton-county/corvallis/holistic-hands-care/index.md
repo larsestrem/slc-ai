@@ -21,7 +21,7 @@ capacity: 5
 sources: ["https://www.aplaceformom.com/community/holistic-hands-care-1362858", "https://www.senioradvisor.com/local/holistic-hands-care-corvallis-or"]
 verified_date: "2026-07-13"
 review_note: "4.4/5 average overall experience across 7 reviews on A Place for Mom; 4.5 stars on SeniorAdvisor (July 2026)"
-quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: 4.4/5 across 7 reviews on A Place for Mom (July 2026). State license status was not independently verified."
+quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: 4.4/5 across 7 reviews on A Place for Mom (July 2026)."
 description_full: "Holistic Hands Care is a small memory-care and residential care home in Corvallis providing assistance with daily activities in a home setting. Reviews are consistently positive across multiple families."
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

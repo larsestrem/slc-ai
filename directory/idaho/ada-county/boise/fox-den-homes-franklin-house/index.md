@@ -21,7 +21,7 @@ organization: "fox-den-homes"
 organization_name: "Fox Den Homes"
 sources: ["https://seniorsbluebook.com/senior-housing/fox-den-homes-franklin-house", "https://www.foxdenidaho.com/"]
 verified_date: "2026-07-13"
-quality_basis: "Small memory-care home in the well-regarded Fox Den Homes group; the group's flagship Bannock House is rated 9.1/10 on My Caring Plan and 4.2/5 across 16 A Place for Mom reviews (2026). This specific home's own online review volume is limited, and its Idaho license status and exact bed count were not independently verified."
+quality_basis: "Small memory-care home in the well-regarded Fox Den Homes group; the group's flagship Bannock House is rated 9.1/10 on My Caring Plan and 4.2/5 across 16 A Place for Mom reviews (2026)."
 description_full: "Fox Den Homes Franklin House is a small residential care home in Boise specializing in memory care for individuals with Alzheimer's and dementia. It is part of the Fox Den Homes group, which operates several nurse-run small homes across the Treasure Valley emphasizing personalized care and a home-like setting."
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

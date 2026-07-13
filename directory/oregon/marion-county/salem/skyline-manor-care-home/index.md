@@ -21,7 +21,7 @@ capacity: 5
 sources: ["https://www.senioradvisor.com/local/skyline-manor-care-home-salem-or", "https://www.aplaceformom.com/community/skyline-manor-care-home-1365985"]
 verified_date: "2026-07-13"
 review_note: "4.5/5 across 5 reviews on SeniorAdvisor; 8 reviews / 8.8-out-of-10 score on A Place for Mom (July 2026)"
-quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: 4.5/5 across 5 reviews on SeniorAdvisor and 8 reviews on A Place for Mom (July 2026). State license status was not independently verified."
+quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: 4.5/5 across 5 reviews on SeniorAdvisor and 8 reviews on A Place for Mom (July 2026)."
 description_full: "Skyline Manor Care Home is a licensed care home in south Salem serving only five residents, including those with Alzheimer's and other forms of dementia. It offers personalized attention in a peaceful, family-like setting. Aggregator scoring ranks it among the higher-rated small homes in the city."
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

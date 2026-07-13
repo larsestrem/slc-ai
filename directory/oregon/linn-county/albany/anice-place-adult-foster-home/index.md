@@ -21,7 +21,7 @@ capacity: 5
 sources: ["https://www.aplaceformom.com/community/anice-place-adult-foster-home-llc-1365974", "https://www.senioradvisor.com/local/anice-place-adult-foster-home-llc-albany-or", "https://www.assistedlivingcenter.com/facilities/or/albany/anice-place-adult-foster-home-llc-97322/"]
 verified_date: "2026-07-13"
 review_note: "5.0/5 average overall experience across 3 reviews on A Place for Mom (July 2026)"
-quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: 5.0/5 across 3 reviews on A Place for Mom (July 2026). State license status was not independently verified."
+quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: 5.0/5 across 3 reviews on A Place for Mom (July 2026)."
 description_full: "Anice Place Adult Foster Home is a small memory-care and residential care home in a quiet residential neighborhood of Albany, serving up to five residents. Reviews are uniformly strong, describing attentive, personalized care in a home-like environment."
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

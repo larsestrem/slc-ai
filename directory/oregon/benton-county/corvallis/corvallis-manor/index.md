@@ -1,0 +1,31 @@
+---
+layout: "facility"
+title: "Corvallis Manor"
+seo_title: "Corvallis Manor — Senior Living in Corvallis, OR"
+description: "Corvallis Manor is a Medicare- and Medicaid-certified skilled nursing facility in Corvallis offering short-term rehabilitation and long-term nursing care. The"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Corvallis Manor", "url": "/directory/oregon/benton-county/corvallis/corvallis-manor/"}]
+nearby: [{"name": "Holistic Hands Care", "url": "/directory/oregon/benton-county/corvallis/holistic-hands-care/", "city_name": "Corvallis", "state_abbrev": "OR", "care_levels": ["adult-family-home", "memory-care"], "quality_tier": "meets_standard", "facility_size": "small", "description": "Holistic Hands Care is a small memory-care and residential care home in Corvallis providing assistance with daily activities in a home setting. Reviews are consistently positive across multiple families."}, {"name": "Regent Court", "url": "/directory/oregon/benton-county/corvallis/regent-court/", "city_name": "Corvallis", "state_abbrev": "OR", "care_levels": ["memory-care", "respite-care"], "quality_tier": "unrated", "facility_size": "medium", "description": "Regent Court is a stand-alone, single-story memory care community in Corvallis with 48 studio homes divided into two neighborhoods of no more than 24 residents each, each with its own dining room and courtyards. It serves adults living with Alzheimer's disease and other dementias and was named to U.S. News & World Report's 2023-24 Best Memory Care list."}, {"name": "Stoneybrook Lodge", "url": "/directory/oregon/benton-county/corvallis/stoneybrook-lodge/", "city_name": "Corvallis", "state_abbrev": "OR", "care_levels": ["independent-living"], "quality_tier": "unrated", "facility_size": "large", "description": "Stoneybrook Lodge is an all-inclusive independent living community in south Corvallis that opened in 1999 with 115 apartments. Monthly rent bundles three chef-prepared meals daily, weekly housekeeping, transportation, and activities, and live-in managers are on site. It operates under Hawthorn Senior Living's Gracious Retirement Living brand."}, {"name": "Timberhill Place", "url": "/directory/oregon/benton-county/corvallis/timberhill-place/", "city_name": "Corvallis", "state_abbrev": "OR", "care_levels": ["assisted-living"], "quality_tier": "unrated", "facility_size": "medium", "description": "Timberhill Place is a privately owned assisted living community in north Corvallis with 60 apartments, within walking distance of grocery stores, clinics, restaurants, and the Osborn Aquatic Center. Reviews repeatedly highlight long-tenured staff, compassionate care, good dining, and an active program schedule."}, {"name": "Willamette Springs Memory Care", "url": "/directory/oregon/benton-county/corvallis/willamette-springs-memory-care/", "city_name": "Corvallis", "state_abbrev": "OR", "care_levels": ["memory-care"], "quality_tier": "serious_concerns", "facility_size": "large", "description": "Willamette Springs Memory Care is a 72-bed licensed memory care community in Corvallis operated by Mosaic Senior Living (Mosaic Management Inc.), serving residents with Alzheimer's disease and other forms of dementia. It has operated since 2016."}]
+state: "oregon"
+state_name: "Oregon"
+state_abbrev: "OR"
+county: "benton"
+county_name: "Benton"
+city: "corvallis"
+city_name: "Corvallis"
+address: "160 NE Conifer Blvd"
+zip: "97330"
+phone: "(541) 757-1651"
+care_levels: ["skilled-nursing"]
+facility_size: "large"
+capacity: 135
+cms_ccn: "385072"
+cms_rating_overall: 1
+sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385072/", "https://getstarpro.com/sff-list", "https://health.usnews.com/best-nursing-homes/area/or/corvallis-manor-385072", "https://ltclicensing.oregon.gov/Facilities/Details/385072"]
+verified_date: "2026-07-13"
+review_note: "Listed as a CMS Special Focus Facility (New designation) as of 2026 per StarPRO's SFF tracking list, meaning it has more deficiencies than most nursing homes and receives health inspections at least every 6 months (source accessed July 2026)."
+special_focus_facility: true
+serious_concern_note: "A federal CMS Special Focus Facility (newly designated) — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems."
+quality_tier: "serious_concerns"
+description_full: "Corvallis Manor is a Medicare- and Medicaid-certified skilled nursing facility in Corvallis offering short-term rehabilitation and long-term nursing care. The facility has 135 certified beds. It is regulated by CMS and the Oregon Department of Human Services long-term care licensing program."
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/corvallis-manor-385072"}]
+---

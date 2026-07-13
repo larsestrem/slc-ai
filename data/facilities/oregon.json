@@ -4283,6 +4283,605 @@
         "https://www.seniorhousingnet.com/seniorliving-detail/heightsview-adult-care-home_18935-sw-heightsview-ct_beaverton_or_97007-635223"
       ],
       "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Corvallis Manor",
+      "slug": "corvallis-manor",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "benton",
+      "county_name": "Benton",
+      "city": "corvallis",
+      "city_name": "Corvallis",
+      "address": "160 NE Conifer Blvd",
+      "zip": "97330",
+      "phone": "(541) 757-1651",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 135,
+      "cms_ccn": "385072",
+      "cms_rating_overall": 1,
+      "review_note": "Listed as a CMS Special Focus Facility (New designation) as of 2026 per StarPRO's SFF tracking list, meaning it has more deficiencies than most nursing homes and receives health inspections at least every 6 months (source accessed July 2026).",
+      "description": "Corvallis Manor is a Medicare- and Medicaid-certified skilled nursing facility in Corvallis offering short-term rehabilitation and long-term nursing care. The facility has 135 certified beds. It is regulated by CMS and the Oregon Department of Human Services long-term care licensing program.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385072/",
+        "https://getstarpro.com/sff-list",
+        "https://health.usnews.com/best-nursing-homes/area/or/corvallis-manor-385072",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385072"
+      ],
+      "verified_date": "2026-07-13",
+      "special_focus_facility": true,
+      "serious_concern_note": "A federal CMS Special Focus Facility (newly designated) — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems."
+    },
+    {
+      "name": "French Prairie Nursing and Rehabilitation Center",
+      "slug": "french-prairie-nursing-and-rehabilitation-center",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "woodburn",
+      "city_name": "Woodburn",
+      "address": "601 Evergreen Road",
+      "zip": "97071",
+      "phone": "(503) 982-0111",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 80,
+      "organization": "volare-health",
+      "organization_name": "Volare Health",
+      "cms_ccn": "385117",
+      "cms_rating_overall": 1,
+      "review_note": "Named SFF Candidate #1 on StarPRO's Special Focus Facility candidate tracking list; a nursing-data aggregator reports a 1-star CMS overall rating as of April 2026 with $102,802 in fines on record (accessed July 2026). Some older secondary listings show a higher historical rating; verify the current rating directly at medicare.gov/care-compare.",
+      "description": "French Prairie Nursing and Rehabilitation Center is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in Woodburn providing short-term post-acute rehabilitation and long-term custodial nursing care. It is part of the Volare Health group of skilled nursing providers.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385117/",
+        "https://getstarpro.com/sff-list",
+        "https://www.volarehcm.com/locations/french-prairie-nursing-and-rehabilitation-center/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385117"
+      ],
+      "verified_date": "2026-07-13",
+      "serious_concern": true,
+      "serious_concern_note": "CMS Special Focus Facility Candidate — on the federal list of nursing homes with a documented pattern of serious quality problems, one tier below active Special Focus Facility status."
+    },
+    {
+      "name": "Gresham Post Acute Care and Rehabilitation",
+      "slug": "gresham-post-acute-care-and-rehabilitation",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "gresham",
+      "city_name": "Gresham",
+      "address": "405 NE 5th Street",
+      "zip": "97030",
+      "phone": "(503) 666-5600",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 78,
+      "cms_ccn": "385190",
+      "cms_rating_overall": 1,
+      "description": "Gresham Post Acute Care and Rehabilitation is a Medicare- and Medicaid-certified skilled nursing facility in Gresham with 78 certified beds, offering short-term rehabilitation and long-term nursing care with 24-hour nursing supervision.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385190/",
+        "https://www.ohca.com/facility-finder/gresham-post-acute-care-and-rehabilitation/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385190"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Hearthstone Nursing and Rehabilitation Center",
+      "slug": "hearthstone-nursing-and-rehabilitation-center",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "jackson",
+      "county_name": "Jackson",
+      "city": "medford",
+      "city_name": "Medford",
+      "address": "2901 E Barnett Rd",
+      "zip": "97504",
+      "phone": "(541) 779-4221",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 87,
+      "organization": "volare-health",
+      "organization_name": "Volare Health",
+      "cms_ccn": "385091",
+      "cms_rating_overall": 1,
+      "review_note": "CMS flags this facility with an abuse-citation icon on Care Compare. For at least one month between August 2024 and July 2025 it carried a documented pattern of poor care and was subject to additional CMS inspections. Willamette Week (Nov. 21, 2024) named it among Oregon facilities under state 'additional oversight' after a resident's leg was amputated following delayed treatment of an infected wound. Sources accessed July 2026.",
+      "description": "Hearthstone Nursing and Rehabilitation Center is an 87-bed Medicare- and Medicaid-certified skilled nursing facility in Medford offering short-term rehabilitation and long-term nursing care. It is operated by Volare Health.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385091/",
+        "https://plainnursing.com/facilities/hearthstone-nursing-rehabilitation-center-medford-or",
+        "https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/",
+        "https://www.volarehcm.com/locations/hearthstone-nursing-rehabilitation-center/"
+      ],
+      "verified_date": "2026-07-13",
+      "serious_concern": true,
+      "serious_concern_note": "Carried a CMS special-focus-pattern designation and an active federal abuse citation flag during 2024-2025 inspections."
+    },
+    {
+      "name": "Highland House Nursing and Rehabilitation Center",
+      "slug": "highland-house-nursing-and-rehabilitation-center",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "josephine",
+      "county_name": "Josephine",
+      "city": "grants-pass",
+      "city_name": "Grants Pass",
+      "address": "2201 NW Highland Ave",
+      "zip": "97526",
+      "phone": "(541) 474-1901",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 119,
+      "organization": "volare-health",
+      "organization_name": "Volare Health",
+      "cms_ccn": "385149",
+      "cms_rating_overall": 1,
+      "review_note": "Consumer reviews cited by aggregator sites describe concerns including inconsistent use of bed alarms and delayed medication or assistance response (accessed July 2026); families should read current reviews directly before relying on this summary.",
+      "description": "Highland House Nursing and Rehabilitation Center is a 119-bed Medicare- and Medicaid-certified skilled nursing facility in Grants Pass providing short-term rehabilitation and long-term nursing care. It is operated by Volare Health.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385149/",
+        "https://www.volarehcm.com/locations/highland-house-nursing-and-rehabilitation-center/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385149"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Tierra Rose Care Center",
+      "slug": "tierra-rose-care-center",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "salem",
+      "city_name": "Salem",
+      "address": "4254 Weathers St NE",
+      "zip": "97301",
+      "phone": "(503) 585-4602",
+      "website": "https://www.tierrarose.com",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 76,
+      "cms_ccn": "38E075",
+      "cms_rating_overall": 1,
+      "review_note": "A nursing-home data aggregator citing CMS records reports 42 substantiated complaints, 6 facility incidents, and 2 fines totaling $1,625 on file (accessed July 2026). One other secondary source lists a 2-star rather than 1-star overall rating; confirm the current figure at medicare.gov/care-compare.",
+      "description": "Tierra Rose Care Center is a 76-bed Medicare- and Medicaid-certified skilled nursing facility in Salem, first certified by CMS in 1980, providing intermediate and skilled nursing services.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/38E075/",
+        "https://www.tierrarose.com/tierra-rose-care-center",
+        "https://ltclicensing.oregon.gov/Facilities/Details/38E075"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Tigard Rehabilitation and Care",
+      "slug": "tigard-rehabilitation-and-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "tigard",
+      "city_name": "Tigard",
+      "address": "14145 SW 105th Ave",
+      "zip": "97224",
+      "phone": "(503) 639-1144",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 112,
+      "cms_ccn": "385272",
+      "cms_rating_overall": 2,
+      "description": "Tigard Rehabilitation and Care is a 112-bed Medicare- and Medicaid-certified skilled nursing facility in Tigard offering short-term rehabilitation and long-term nursing care with above-average nursing staff hours per resident.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385272/",
+        "https://www.nursinghomedatabase.com/snf/385272",
+        "https://ltclicensing.oregon.gov/Facilities/Details/38L600"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Keizer Nursing and Rehabilitation",
+      "slug": "keizer-nursing-and-rehabilitation",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "marion",
+      "county_name": "Marion",
+      "city": "keizer",
+      "city_name": "Keizer",
+      "address": "4062 Arleta Ave NE",
+      "zip": "97303",
+      "phone": "(503) 390-2271",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 49,
+      "cms_ccn": "385241",
+      "cms_rating_overall": 2,
+      "description": "Keizer Nursing and Rehabilitation is a 49-bed Medicare- and Medicaid-certified skilled nursing facility in Keizer offering short-term rehabilitation and long-term nursing care.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385241/",
+        "https://www.ohca.com/facility-finder/keizer-nursing-and-rehabilitation/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385241"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Portland Health and Rehabilitation Center",
+      "slug": "portland-health-and-rehabilitation-center",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "portland",
+      "city_name": "Portland",
+      "address": "12441 SE Stark St",
+      "zip": "97233",
+      "phone": "(503) 255-7040",
+      "care_levels": [
+        "skilled-nursing",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 105,
+      "cms_rating_overall": 2,
+      "review_note": "Aggregator sources report a component breakdown of health inspection 2 stars, staffing 4 stars, and quality measures 3 stars (overall 2 stars); the facility has paid 2 fines totaling $63,023 over the last three years. Reviews describe caring individual staff alongside reports of understaffing and slow call-light response. Confirm the current rating at medicare.gov/care-compare (accessed July 2026).",
+      "description": "Portland Health and Rehabilitation Center is a 105-bed Medicare- and Medicaid-certified skilled nursing facility in outer Southeast Portland offering short-term rehabilitation, long-term nursing care, and a memory care option.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385228/",
+        "https://www.ohca.com/facility-finder/portland-health-and-rehabilitation-center/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385228"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Willamette Springs Memory Care",
+      "slug": "willamette-springs-memory-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "benton",
+      "county_name": "Benton",
+      "city": "corvallis",
+      "city_name": "Corvallis",
+      "address": "6000 SW Mosaic Dr",
+      "zip": "97333",
+      "phone": "(541) 497-9707",
+      "care_levels": [
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 72,
+      "organization": "mosaic-senior-living",
+      "organization_name": "Mosaic Senior Living",
+      "review_note": "SERIOUS CONCERNS: Oregon DHS cited the facility for roughly 50 substantiated instances of abuse over the two years prior to December 2024 (OPB, Dec. 13, 2024; Willamette Week, Dec. 4, 2024). The state issued a proposed non-renewal of its operating license in September 2024 citing a 'pattern of repeated substantial noncompliance'; the facility passed a subsequent inspection in late 2024 and admission restrictions were lifted. A Place for Mom lists 5 reviews with an average 'overall experience' of 2.8 out of 5 (accessed July 2026).",
+      "description": "Willamette Springs Memory Care is a 72-bed licensed memory care community in Corvallis operated by Mosaic Senior Living (Mosaic Management Inc.), serving residents with Alzheimer's disease and other forms of dementia. It has operated since 2016.",
+      "sources": [
+        "https://www.opb.org/article/2024/12/13/willamette-springs-memory-care/",
+        "https://www.wweek.com/news/2024/12/04/a-senior-care-center-tests-the-limits-of-the-states-regulatory-power/",
+        "https://www.aplaceformom.com/community/willamette-springs-memory-care-1389904",
+        "https://ltclicensing.oregon.gov/Facilities/Details/50M436"
+      ],
+      "verified_date": "2026-07-13",
+      "serious_concern": true,
+      "serious_concern_note": "State inspectors substantiated roughly 50 abuse citations over two years, and the state proposed non-renewal of its license in 2024; the facility passed a later re-inspection and remains open."
+    },
+    {
+      "name": "Powell Valley Assisted Living and Memory Care",
+      "slug": "powell-valley-assisted-living-and-memory-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "multnomah",
+      "county_name": "Multnomah",
+      "city": "gresham",
+      "city_name": "Gresham",
+      "address": "4001 SE 182nd Ave",
+      "zip": "97030",
+      "phone": "(503) 665-2496",
+      "website": "https://powellvalley.net",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 115,
+      "review_note": "SERIOUS CONCERNS: Oregon regulators substantiated findings of abuse and levied fines related to the facility's treatment of resident Donald Price, who was allegedly wrongfully evicted in 2022 following altercations with staff and later died; his family filed a $14 million wrongful-death lawsuit in Multnomah County Circuit Court (Willamette Week, March 28, 2024, and later reporting). Consumer review platforms show a range of positive and negative feedback (accessed July 2026); verify current standing before relying on this summary.",
+      "description": "Powell Valley Assisted Living and Memory Care is a 115-bed licensed assisted living and memory care community on a four-acre campus in Gresham, offering studio, one-bedroom, and two-bedroom units.",
+      "sources": [
+        "https://www.wweek.com/news/courts/2024/03/28/a-wrongful-eviction-from-gresham-nursing-home-led-to-former-residents-death-lawsuit-alleges/",
+        "https://powellvalley.net/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/5MA213"
+      ],
+      "verified_date": "2026-07-13",
+      "serious_concern": true,
+      "serious_concern_note": "State inspectors substantiated an abuse finding connected to a resident's death after a wrongful eviction; the incident is the subject of a $14 million lawsuit."
+    },
+    {
+      "name": "Brookdale Geary Street",
+      "slug": "brookdale-geary-street",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "linn",
+      "county_name": "Linn",
+      "city": "albany",
+      "city_name": "Albany",
+      "address": "2445 SE Geary St",
+      "zip": "97322",
+      "phone": "(541) 926-8200",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 44,
+      "organization": "brookdale-senior-living",
+      "organization_name": "Brookdale Senior Living",
+      "review_note": "Willamette Week (Nov. 21, 2024) named this community among Oregon facilities placed under state 'additional oversight' after inspectors found residents suffered serious falls and a technician gave a resident the wrong type of insulin. A Place for Mom scores it 7.5 out of 10 based on 10 reviews in the prior 2 years (accessed July 2026).",
+      "description": "Brookdale Geary Street is a 44-bed assisted living and memory care community in Albany operated by Brookdale Senior Living, using the Clare Bridge memory care program for residents with Alzheimer's disease and dementia.",
+      "sources": [
+        "https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/",
+        "https://www.brookdale.com/en/communities/brookdale-geary-street.html",
+        "https://www.aplaceformom.com/community/brookdale-geary-street-60029"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "The Rawlin at Riverbend Memory Care",
+      "slug": "the-rawlin-at-riverbend-memory-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "lane",
+      "county_name": "Lane",
+      "city": "springfield",
+      "city_name": "Springfield",
+      "address": "3491 Game Farm Rd",
+      "zip": "97477",
+      "phone": "(541) 515-6032",
+      "care_levels": [
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 72,
+      "organization": "onelife-senior-living",
+      "organization_name": "OneLife Senior Living",
+      "review_note": "Willamette Week (Nov. 21, 2024) named this community among Oregon facilities placed under state 'additional oversight' after inspectors found the call-light system residents use to summon help was broken and staff weren't consistently monitoring it. A Place for Mom shows an average 'overall experience' of 3.9 out of 5 across 17 reviews all-time (accessed July 2026).",
+      "description": "The Rawlin at Riverbend Memory Care is a 72-bed memory care community in Springfield serving residents with Alzheimer's disease and other forms of dementia, open 24 hours with on-site nursing oversight.",
+      "sources": [
+        "https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/",
+        "https://www.onelifeseniorliving.com/communities/the-rawlin-memory-care",
+        "https://www.aplaceformom.com/community/the-rawlin-at-riverbend-memory-care-1402203"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Wildflower Lodge",
+      "slug": "wildflower-lodge",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "union",
+      "county_name": "Union",
+      "city": "la-grande",
+      "city_name": "La Grande",
+      "address": "508 16th St",
+      "zip": "97850",
+      "phone": "(541) 663-1200",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 73,
+      "organization": "compass-senior-living",
+      "organization_name": "Compass Senior Living",
+      "review_note": "Willamette Week (Nov. 21, 2024) named this community among Oregon facilities placed under state 'additional oversight' after inspectors found staff didn't take reasonable precautions to stop a resident with a history of abuse from threatening other residents. Reviews are mixed: Caring.com shows 6 reviews and A Place for Mom shows 9 reviews with both praise for staff and complaints about communication and care consistency (accessed July 2026).",
+      "description": "Wildflower Lodge is an assisted living and memory care community in La Grande with 43 assisted living apartments and 30 memory care apartments, operated by Compass Senior Living.",
+      "sources": [
+        "https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/",
+        "https://www.compass-living.com/senior-living/or/la-grande/wildflower-lodge/",
+        "https://www.caring.com/senior-living/oregon/la-grande/wildflower-lodge-senior-living"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Sunnyside Meadows Memory Care",
+      "slug": "sunnyside-meadows-memory-care",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "happy-valley",
+      "city_name": "Happy Valley",
+      "address": "12195 SE 117th Ave",
+      "zip": "97086",
+      "phone": "(503) 878-8550",
+      "care_levels": [
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 72,
+      "organization": "ohana-ventures",
+      "organization_name": "Ohana Ventures",
+      "review_note": "A November 13, 2025 Oregon re-licensure inspection found six deficiencies, including failure to complete an acuity-based staffing tool, inadequate staff training, and unlocked poison storage; state inspection records from January 2023 through November 2025 repeatedly cited insufficient direct-care staff training and competency (per aggregator citing Oregon DHS inspection data, accessed July 2026).",
+      "description": "Sunnyside Meadows Memory Care is a 72-bed memory care community in Happy Valley for residents with Alzheimer's disease and dementia, currently operated as part of Ohana Ventures.",
+      "sources": [
+        "https://www.sunnysidemeadows.com/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/50R443",
+        "https://www.aplaceformom.com/community/sunnyside-meadows-memory-care-1393470"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Maryville Nursing Home",
+      "slug": "maryville-nursing-home",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "washington",
+      "county_name": "Washington",
+      "city": "beaverton",
+      "city_name": "Beaverton",
+      "address": "14645 SW Farmington Rd",
+      "zip": "97007",
+      "phone": "(503) 643-8626",
+      "website": "https://www.maryville.care",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 165,
+      "organization": "sisters-of-st-mary-of-oregon",
+      "organization_name": "Sisters of St. Mary of Oregon",
+      "cms_rating_overall": 2,
+      "description": "Maryville Nursing Home is a 165-bed Medicare- and Medicaid-certified skilled nursing facility in Beaverton, sponsored by the Sisters of St. Mary of Oregon, offering short-term rehabilitation and long-term nursing care.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385166/",
+        "https://ssmo.org/maryville/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385166"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Willowbrook Post Acute",
+      "slug": "willowbrook-post-acute",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "umatilla",
+      "county_name": "Umatilla",
+      "city": "pendleton",
+      "city_name": "Pendleton",
+      "address": "707 SW 37th Street",
+      "zip": "97801",
+      "phone": "(541) 276-3374",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 59,
+      "cms_ccn": "385201",
+      "cms_rating_overall": 1,
+      "description": "Willowbrook Post Acute is a 59-bed Medicare- and Medicaid-certified skilled nursing facility in Pendleton offering short-term rehabilitation and long-term nursing care.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385201/",
+        "https://www.nursinghomedatabase.com/snf/385201",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385201"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Prestige Post-Acute and Rehabilitation Center - McMinnville",
+      "slug": "prestige-post-acute-and-rehabilitation-center-mcminnville",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "yamhill",
+      "county_name": "Yamhill",
+      "city": "mcminnville",
+      "city_name": "McMinnville",
+      "address": "421 SE Evans Street",
+      "zip": "97128",
+      "phone": "(503) 472-3141",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 96,
+      "organization": "prestige-care",
+      "organization_name": "Prestige Care",
+      "cms_ccn": "385225",
+      "cms_rating_overall": 2,
+      "review_note": "Ranked lowest of the 15 senior living communities compared in the McMinnville area by one aggregator's proprietary scoring (6.4 out of 10), which cites a mix of positive rehabilitation-care feedback and documented operational concerns (accessed July 2026).",
+      "description": "Prestige Post-Acute and Rehabilitation Center - McMinnville is a 96-bed Medicare- and Medicaid-certified skilled nursing facility operated by Prestige Care, offering short-term rehabilitation and long-term nursing care.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385225/",
+        "https://www.mycaringplan.com/senior-living/prestige-post-acute-and-rehabilitation-center-mcminnville/",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385225"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Rivercrest Post Acute",
+      "slug": "rivercrest-post-acute",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "oregon-city",
+      "city_name": "Oregon City",
+      "address": "148 Hood Street",
+      "zip": "97045",
+      "phone": "(503) 656-4035",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 53,
+      "review_note": "CMS overall star rating is reported inconsistently across aggregator sources: some list 2 stars (below standard) and others list 3 stars, as of sources accessed July 2026. Confirm the current official rating directly at medicare.gov/care-compare before relying on it. Formerly known as Oregon City Health Care Center.",
+      "description": "Rivercrest Post Acute is a 53-bed Medicare- and Medicaid-certified skilled nursing facility in Oregon City offering short-term rehabilitation and long-term nursing care.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385245/",
+        "https://www.nursinghomedatabase.com/snf/385245",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385245"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Pilot Butte Rehabilitation Center",
+      "slug": "pilot-butte-rehabilitation-center",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "deschutes",
+      "county_name": "Deschutes",
+      "city": "bend",
+      "city_name": "Bend",
+      "address": "1876 NE Highway 20",
+      "zip": "97701",
+      "phone": "(541) 382-5531",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 74,
+      "cms_ccn": "385138",
+      "review_note": "CMS overall star rating is reported inconsistently across aggregator sources: some list 2 stars and others list 3 stars, as of sources accessed July 2026. Confirm the current official rating directly at medicare.gov/care-compare before relying on it.",
+      "description": "Pilot Butte Rehabilitation Center is a 74-bed Medicare- and Medicaid-certified skilled nursing facility in Bend offering short-term rehabilitation and long-term nursing care.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/385138/",
+        "https://www.nursinghomedatabase.com/snf/385138",
+        "https://ltclicensing.oregon.gov/Facilities/Details/385138"
+      ],
+      "verified_date": "2026-07-13"
     }
   ],
   "organizations": [

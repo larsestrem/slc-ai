@@ -4,7 +4,7 @@ title: "Bonaventure of East Wenatchee"
 seo_title: "Bonaventure of East Wenatchee — Senior Living in East Wenatchee, WA"
 description: "Bonaventure of East Wenatchee is a senior living community in East Wenatchee, in central Washington, offering retirement (independent) living, assisted living"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Bonaventure of East Wenatchee", "url": "/directory/washington/douglas-county/east-wenatchee/bonaventure-of-east-wenatchee/"}]
-nearby: []
+nearby: [{"name": "Kadie Glen Assisted Living", "url": "/directory/washington/douglas-county/east-wenatchee/kadie-glen-assisted-living/", "city_name": "East Wenatchee", "state_abbrev": "WA", "care_levels": ["assisted-living"], "quality_tier": "unrated", "facility_size": "medium", "description": "Kadie Glen Assisted Living is an assisted living community at 451 N Baker Ave in East Wenatchee operated by Ridgeline Management Company. It is open 24 hours and licensed by the State of Washington. Published consumer ratings for the community diverge significantly between platforms, with family reviews reporting both strong service and maintenance shortfalls."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

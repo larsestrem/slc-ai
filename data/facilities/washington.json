@@ -3572,6 +3572,571 @@
         "https://adultfamilyhomecouncil.org/home-finder/754749-bellingham-adult-family-homes"
       ],
       "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Spokane Health & Rehabilitation",
+      "slug": "spokane-health-and-rehabilitation",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "spokane",
+      "county_name": "Spokane",
+      "city": "spokane",
+      "city_name": "Spokane",
+      "address": "6025 N Assembly St",
+      "zip": "99205",
+      "phone": "(509) 326-8282",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 125,
+      "cms_ccn": "505322",
+      "cms_rating_overall": 2,
+      "review_note": "CMS overall rating 2/5 stars (health inspection 1 star, staffing 2 stars, quality measures 5 stars), per public CMS Care Compare data reported by carelistings.com (July 2026).",
+      "description": "Spokane Health & Rehabilitation is a Medicare- and Medicaid-certified skilled nursing facility with 125 beds at 6025 N Assembly St in Spokane. It offers short-term rehabilitation and long-term skilled nursing care. Its federal overall quality rating is 2 out of 5 stars, driven primarily by a 1-star health inspection score.",
+      "sources": [
+        "https://carelistings.com/skilled-nursing-facilities/spokane-wa/spokane-health-rehabilitation/5ace891a93efd2372f9923fd",
+        "https://www.medicare.gov/care-compare/details/nursing-home/505322/view-all/?state=WA",
+        "https://spokanehrc.com/contact-us/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Franklin Hills Health & Rehab Center",
+      "slug": "franklin-hills-health-and-rehab-center",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "spokane",
+      "county_name": "Spokane",
+      "city": "spokane",
+      "city_name": "Spokane",
+      "address": "6021 N Lidgerwood St",
+      "zip": "99207",
+      "phone": "(509) 489-3323",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 100,
+      "cms_ccn": "505024",
+      "cms_rating_overall": 2,
+      "review_note": "CMS overall rating 2/5 stars, compared to a Washington state average of about 3.54 stars, per nursinghomesite.com/medicarelist.com CMS-sourced data (July 2026). KING5 news coverage of Washington's lowest-rated nursing homes also named this facility as receiving 1-star ratings on the health-inspection and staffing components.",
+      "description": "Franklin Hills Health & Rehab Center is a 100-bed, for-profit skilled nursing facility at 6021 N Lidgerwood St in Spokane that has served the area since 1960. It provides short-term rehabilitation and long-term nursing care and participates in Medicare and Medicaid. Its CMS overall quality rating is 2 out of 5 stars, below the state average.",
+      "sources": [
+        "https://www.healthcare6.com/nursing-home/spokane-wa/franklin-hills-health-rehab-center-13446.html",
+        "https://www.king5.com/article/news/20-of-the-nations-worst-rated-nursing-homes-are-in-washington-state/281-aaee92e9-25f1-4168-9e7b-97d9d32f458e",
+        "https://www.franklinhillsskillednursing.com/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Paramount Rehabilitation and Nursing",
+      "slug": "paramount-rehabilitation-and-nursing",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "seattle",
+      "city_name": "Seattle",
+      "address": "2611 S Dearborn St",
+      "zip": "98144",
+      "phone": "(206) 325-6700",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 165,
+      "cms_ccn": "505511",
+      "cms_rating_overall": 2,
+      "review_note": "Current CMS overall rating 2/5 stars, versus a Washington-average of about 3.62/5, per local-nursing-homes.com CMS-sourced data (July 2026). This facility is a designated CMS Special Focus Facility (SFF) — a federal program for nursing homes with a documented history of serious, recurring quality problems that receive additional oversight. U.S. HHS has also listed it among the nation's lowest-performing nursing homes.",
+      "description": "Paramount Rehabilitation and Nursing is a 165-bed Medicare- and Medicaid-certified skilled nursing facility at 2611 S Dearborn St in Seattle. It is designated a Special Focus Facility (SFF) by CMS, a program that targets nursing homes with a documented pattern of serious quality problems for more frequent inspections. Its current CMS overall star rating is 2 out of 5.",
+      "sources": [
+        "https://local-nursing-homes.com/nursing-homes/washington/seattle/505511-paramount-rehabilitation-and-nursing",
+        "https://carelistings.com/skilled-nursing-facilities/seattle-wa/paramount-rehabilitation-and-nursing/5ace891a93efd2372f9924d2"
+      ],
+      "verified_date": "2026-07-13",
+      "special_focus_facility": true,
+      "serious_concern_note": "A federal CMS Special Focus Facility — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems."
+    },
+    {
+      "name": "Everett Center",
+      "slug": "everett-center",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "everett",
+      "city_name": "Everett",
+      "address": "1919 112th St SW",
+      "zip": "98204",
+      "phone": "425-513-1600",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 100,
+      "cms_ccn": "505491",
+      "cms_rating_overall": 1,
+      "review_note": "CMS overall rating 1/5 stars. For at least one month between August 2024 and July 2025, CMS designated this facility for additional inspections due to a documented pattern of poor care, and it has paid three fines totaling $456,759 over the last three years, per data reported by familyassets.com (accessed July 2026).",
+      "description": "Everett Center is a 100-bed, for-profit skilled nursing facility operated by Genesis HealthCare at 1919 112th St SW in Everett. It provides nursing care, short-term rehabilitation, and respite care. Its CMS overall quality rating is 1 out of 5 stars, and it has been subject to additional federal oversight due to a documented pattern of poor care.",
+      "sources": [
+        "https://www.familyassets.com/nursing-homes/washington/everett/everett-center",
+        "https://health.usnews.com/best-nursing-homes/area/wa/everett-center-505491",
+        "https://www.king5.com/article/news/20-of-the-nations-worst-rated-nursing-homes-are-in-washington-state/281-aaee92e9-25f1-4168-9e7b-97d9d32f458e"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Woodard Creek Health & Rehabilitation",
+      "slug": "woodard-creek-health-and-rehabilitation",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "thurston",
+      "county_name": "Thurston",
+      "city": "olympia",
+      "city_name": "Olympia",
+      "address": "3333 Ensign Rd NE",
+      "zip": "98506",
+      "phone": "(360) 455-4500",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 152,
+      "cms_ccn": "505387",
+      "cms_rating_overall": 1,
+      "review_note": "CMS overall rating 1/5 stars — listed by assistedlivingmagazine.com under the explicit heading \"1-Star Nursing Home in Olympia, WA\" (July 2026 data). Distinct facility from Olympia Transitional Care and Rehabilitation (430 Lilly Rd NE), which is under related ownership but a separate CCN and address.",
+      "description": "Woodard Creek Health & Rehabilitation is a 152-bed skilled nursing facility at 3333 Ensign Rd NE in Olympia, offering short-term rehabilitation and long-term nursing care. It is Medicare- and Medicaid-certified. Its current CMS overall quality rating is 1 out of 5 stars.",
+      "sources": [
+        "https://assistedlivingmagazine.com/nursing-home/woodard-creek-health-rehabilitation/",
+        "https://health.usnews.com/best-nursing-homes/area/wa/woodard-creek-health-rehabilitation-505387"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Fir Lane Care",
+      "slug": "fir-lane-care",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "mason",
+      "county_name": "Mason",
+      "city": "shelton",
+      "city_name": "Shelton",
+      "address": "2430 N 13th St",
+      "zip": "98584",
+      "phone": "(360) 426-1651",
+      "website": "https://www.firlanecare.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 135,
+      "cms_ccn": "505230",
+      "cms_rating_overall": 1,
+      "review_note": "CMS overall rating 1/5 stars, below the Washington average of about 3.3, with a 1-star health-inspection sub-rating. Reported quality measures include long-stay antipsychotic medication use at 34.4% (vs. WA average 15.2%) and high-risk pressure ulcers at 10.6% (vs. WA average 4.5%), per CMS-sourced aggregator data (July 2026). The same data shows nursing staffing hours above the national average.",
+      "description": "Fir Lane Care (also known as Fir Lane Health & Rehabilitation Center) is a 135-bed, for-profit skilled nursing facility at 2430 N 13th St in Shelton, offering long-term skilled nursing and short-term rehabilitation. It is owned by Caldera Care. Its CMS overall quality rating is 1 out of 5 stars, driven largely by health-inspection findings.",
+      "sources": [
+        "https://www.nursinghomedatabase.com/snf/505230",
+        "https://health.usnews.com/best-nursing-homes/area/wa/fir-lane-health-and-rehabilitation-center-505230"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Shelton Health and Rehabilitation",
+      "slug": "shelton-health-and-rehabilitation",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "mason",
+      "county_name": "Mason",
+      "city": "shelton",
+      "city_name": "Shelton",
+      "address": "153 Johns Ct",
+      "zip": "98584",
+      "phone": "(360) 427-2575",
+      "care_levels": [
+        "skilled-nursing",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 76,
+      "cms_ccn": "505507",
+      "cms_rating_overall": 1,
+      "review_note": "CMS overall rating 1/5 stars, per nursinghomedatabase.com CMS-sourced data (July 2026); Shelton was named among the cities with 1-star Washington nursing homes in KING5's statewide news coverage.",
+      "description": "Shelton Health and Rehabilitation is a 76-bed skilled nursing facility at 153 Johns Ct in Shelton offering 24-hour skilled nursing, long-term residential care, short-term rehabilitation, and memory-care programming. It is Medicare- and Medicaid-certified. Its current CMS overall quality rating is 1 out of 5 stars.",
+      "sources": [
+        "https://www.nursinghomedatabase.com/snf/505507",
+        "https://www.king5.com/article/news/20-of-the-nations-worst-rated-nursing-homes-are-in-washington-state/281-aaee92e9-25f1-4168-9e7b-97d9d32f458e"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Life Care Center of Kennewick",
+      "slug": "life-care-center-of-kennewick",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "benton",
+      "county_name": "Benton",
+      "city": "kennewick",
+      "city_name": "Kennewick",
+      "address": "1508 W 7th Ave",
+      "zip": "99336",
+      "phone": "(509) 586-9185",
+      "website": "https://lcca.com/locations/wa/kennewick/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 136,
+      "cms_ccn": "505080",
+      "cms_rating_overall": 2,
+      "review_note": "CMS overall rating 2/5 stars, per nursinghomesite.com/medicarelist.com CMS-sourced data (July 2026). Certified for Medicare and Medicaid participation since June 1, 1974.",
+      "description": "Life Care Center of Kennewick is a 136-bed, for-profit skilled nursing facility at 1508 W 7th Ave in Kennewick, offering short-term rehabilitation and long-term nursing care. It is operated by Life Care Centers of America. Its CMS overall quality rating is 2 out of 5 stars.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/wa/life-care-center-of-kennewick-505080",
+        "https://nursinghomerating.org/WA/life-care-center-of-kennewick/505080/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Bridge Crest Post Acute",
+      "slug": "bridge-crest-post-acute",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "vancouver",
+      "city_name": "Vancouver",
+      "address": "5220 NE Hazel Dell Ave",
+      "zip": "98663",
+      "phone": "(360) 693-1474",
+      "website": "https://bridgecrestpa.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 89,
+      "cms_ccn": "505341",
+      "review_note": "Public CMS-data aggregators disagree on the exact current overall star rating for this facility — healthcare4ppl.com reports 2/5 stars overall, while other sites report figures ranging from 2 to 4 stars; one source separately notes a 4-star CMS staffing sub-rating (all accessed July 2026). Because of this inconsistency we are not asserting a single overall star number here; families should check CMS Care Compare directly for the current rating.",
+      "description": "Bridge Crest Post Acute is an 89-bed skilled nursing facility at 5220 NE Hazel Dell Ave in Vancouver, operated by PACS Group, offering short-term rehabilitation and long-term nursing care. It is Medicare- and Medicaid-certified. Public CMS-data aggregators show conflicting overall star ratings for this facility as of mid-2026, generally in the 2-to-3-star range.",
+      "sources": [
+        "https://www.healthcare4ppl.com/nursing-home/washington/vancouver/bridge-crest-post-acute-505341.html",
+        "https://health.usnews.com/best-nursing-homes/area/wa/bridge-crest-post-acute-505341"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Life Care Center of Mount Vernon",
+      "slug": "life-care-center-of-mount-vernon",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "skagit",
+      "county_name": "Skagit",
+      "city": "mount-vernon",
+      "city_name": "Mount Vernon",
+      "address": "2120 E Division St",
+      "zip": "98273",
+      "phone": "(360) 424-4258",
+      "website": "https://lcca.com/locations/wa/mount-vernon/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 121,
+      "cms_ccn": "505272",
+      "cms_rating_overall": 2,
+      "review_note": "CMS overall rating 2/5 stars, per medicarelist.com/medicare.gov CMS-sourced data (July 2026).",
+      "description": "Life Care Center of Mount Vernon is a 121-bed skilled nursing facility at 2120 E Division St in Mount Vernon, operated by Life Care Centers of America. It provides short-term rehabilitation and long-term skilled nursing care and is Medicare- and Medicaid-certified. Its CMS overall quality rating is 2 out of 5 stars.",
+      "sources": [
+        "https://www.medicare.gov/care-compare/details/nursing-home/505272/view-all/?state=WA",
+        "https://www.medicarelist.com/nursing-home/life-care-center-of-mount-vernon-mount-vernon-wa/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Highgate Senior Living - Bellingham",
+      "slug": "highgate-senior-living-bellingham",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "whatcom",
+      "county_name": "Whatcom",
+      "city": "bellingham",
+      "city_name": "Bellingham",
+      "address": "155 E Kellogg Rd",
+      "zip": "98226",
+      "phone": "(360) 671-1459",
+      "website": "https://www.highgateseniorliving.com/communities/bellingham/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 77,
+      "review_note": "3.4/5 across 7 reviews, per a Bellingham-market senior-living aggregator summary (July 2026); this is below the ~4.0/5 average reported for Bellingham assisted living overall.",
+      "description": "Highgate Senior Living - Bellingham is a 77-apartment senior living community at 155 E Kellogg Rd in Bellingham offering independent living, assisted living, and memory care. It is licensed with the State of Washington. Available consumer review data for this community shows a rating below the local market average.",
+      "sources": [
+        "https://www.highgateseniorliving.com/communities/bellingham/",
+        "https://www.seniorliving.org/assisted-living/washington/bellingham/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Greenlake Senior Living Renton",
+      "slug": "greenlake-senior-living-renton",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "renton",
+      "city_name": "Renton",
+      "address": "71 SW Victoria St",
+      "zip": "98057",
+      "phone": "(425) 226-8983",
+      "website": "https://greenlakeseniorliving.com/communities/renton/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "review_note": "Reported Google-type rating of approximately 2.7/5. Separately, 16 reviews on A Place for Mom (as \"Renton Assisted Living\") average 2.8/5 for overall experience (July 2026 aggregator data). Reviews are described as highly polarized but skewing negative, with recurring reports of understaffing, inconsistent medication administration, unprofessional staff conduct, and facility maintenance issues, alongside a minority of positive reviews citing friendly staff and a clean environment.",
+      "description": "Greenlake Senior Living Renton (also marketed as Renton Assisted Living) is an assisted living and memory care community at 71 SW Victoria St in Renton, located near the south end of Lake Washington and managed by Brookdale-affiliated ownership. It offers private and companion apartments. Published consumer review data for this community is below the market average and includes a substantial volume of negative reports alongside some positive ones.",
+      "sources": [
+        "https://www.checkbook.org/wa/renton/assisted-living-facilities/brookdale-renton/cq888",
+        "https://www.aplaceformom.com/community/renton-assisted-living-71339",
+        "https://www.bbb.org/us/wa/renton/profile/senior-living/greenlake-senior-living-llc-1296-1000135827"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Fairview Assisted Living Inc",
+      "slug": "fairview-assisted-living",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "spokane",
+      "county_name": "Spokane",
+      "city": "spokane",
+      "city_name": "Spokane",
+      "address": "1617 N Calispel St",
+      "zip": "99205",
+      "phone": "(509) 325-7339",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "capacity": 64,
+      "review_note": "Only 2 reviews are recorded on Caring.com as of July 2026. Family reviews on record include serious allegations of mistreatment and an unresponsive management team, while other aggregator sites (SeniorAdvisor.com, AssistedLivingCenter.com) separately show higher composite ratings of roughly 4.0-4.5/5 — the evidence is thin in volume and mixed in tone.",
+      "description": "Fairview Assisted Living Inc is a 64-resident assisted living facility at 1617 N Calispel St in Spokane, licensed by the State of Washington. It offers personal care, meals, and daily activities including a barber/beauty shop and library. Available review evidence for this facility is limited in volume and includes both favorable accounts and serious negative allegations.",
+      "sources": [
+        "https://www.caring.com/senior-living/washington/spokane/fairview-assisted-living-inc-99205",
+        "https://www.seniorcareauthority.com/assisted-living/fairview-assisted-living-inc-in-spokane-washington.html"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Aspen Quality Care",
+      "slug": "aspen-quality-care",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "spokane",
+      "county_name": "Spokane",
+      "city": "spokane",
+      "city_name": "Spokane",
+      "address": "9626 N Colfax Rd",
+      "zip": "99218",
+      "phone": "(509) 464-9486",
+      "website": "https://www.aspenqualitycare.com",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 21,
+      "review_note": "A Place for Mom score: 8 reviews averaging 3.9/5 for overall experience (July 2026). Reviews are mixed, with families citing a family-like environment and quality care alongside separate reports of cleanliness concerns, slow response times, and pricing complaints.",
+      "description": "Aspen Quality Care is a 21-bed Enhanced Assisted Living Facility at 9626 N Colfax Rd in Spokane, specializing in Alzheimer's/dementia care, mental health care, and diabetic care management. It is licensed by the State of Washington. Consumer review evidence shows an average rating below the 4.2 threshold typically associated with a strong local reputation.",
+      "sources": [
+        "https://www.aplaceformom.com/community/aspen-quality-care-1364942",
+        "https://www.whca.org/facility-finder/aspen-quality-care/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Maple Creek of Lakewood",
+      "slug": "maple-creek-of-lakewood",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "pierce",
+      "county_name": "Pierce",
+      "city": "lakewood",
+      "city_name": "Lakewood",
+      "address": "10420 Gravelly Lake Dr SW",
+      "zip": "98499",
+      "phone": "(253) 588-0227",
+      "website": "https://cascadecares.com/maple-creek/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "large",
+      "capacity": 75,
+      "review_note": "Seniorly's proprietary community score is 6.0/10 (July 2026). Opinions in family reviews vary sharply: a subset describe the facility as neglectful of residents and critical of management (including one review characterizing conditions as \"horrible\"), while other reviewers praise the staff and overall experience.",
+      "description": "Maple Creek of Lakewood (Maple Creek Senior Living) is a 75-bed assisted living facility at 10420 Gravelly Lake Dr SW in Lakewood, licensed by the State of Washington with 24-hour staff. Consumer reviews for the community are sharply divided between strongly positive and strongly negative accounts.",
+      "sources": [
+        "https://www.miradorliving.com/assisted-living/washington/lakewood/maple-creek-senior-living",
+        "https://www.aplaceformom.com/community/maple-creek-of-lakewood-99832"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Parkside Retirement Community",
+      "slug": "parkside-retirement-community",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "king",
+      "county_name": "King",
+      "city": "auburn",
+      "city_name": "Auburn",
+      "address": "2902 I St NE",
+      "zip": "98002",
+      "phone": "(253) 939-1333",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "capacity": 94,
+      "review_note": "4.0/5 across 4 reviews on Caring.com; separately 2 reviews on A Place for Mom (July 2026). Caring for seniors at this location since 1973; owned by Noble Healthcare.",
+      "description": "Parkside Retirement Community is a 94-bed senior living campus at 2902 I St NE in Auburn offering independent living, assisted living, memory care, and hospice/respite support. It has operated since 1973 and is owned by Noble Healthcare. Recorded consumer review evidence for the community is limited in volume and sits at 4.0 out of 5.",
+      "sources": [
+        "https://www.caring.com/senior-living/washington/auburn/parkside-retirement-center-98002",
+        "https://www.aplaceformom.com/community/parkside-retirement-community-71212"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Fort Vancouver Assisted Living",
+      "slug": "fort-vancouver-assisted-living",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "clark",
+      "county_name": "Clark",
+      "city": "vancouver",
+      "city_name": "Vancouver",
+      "address": "8422 NE 8th Way",
+      "zip": "98664",
+      "phone": "(360) 256-2980",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "review_note": "A Place for Mom: 5 reviews averaging 2.1/5 for overall experience. SeniorAdvisor.com separately shows a 2.0/5 rating from 5 reviews (both accessed July 2026). Reviews mention concerns about cleanliness, responsiveness to resident needs, and facility conditions, alongside some praise for care and amenities.",
+      "description": "Fort Vancouver Assisted Living is an assisted living community at 8422 NE 8th Way in Vancouver. It is licensed by the State of Washington. Consumer review evidence across two independent platforms consistently shows a rating below 2.5 out of 5.",
+      "sources": [
+        "https://www.aplaceformom.com/community/fort-vancouver-assisted-living-71980",
+        "https://www.senioradvisor.com/local/park-lido-inc-vancouver-wa",
+        "https://www.caring.com/senior-living/washington/vancouver/fort-vancouver-assisted-living"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Vineyard Park at Bremerton Senior Living",
+      "slug": "vineyard-park-at-bremerton-senior-living",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "kitsap",
+      "county_name": "Kitsap",
+      "city": "bremerton",
+      "city_name": "Bremerton",
+      "address": "2707 Clare Ave",
+      "zip": "98310",
+      "phone": "(564) 232-2695",
+      "website": "https://carepartnersliving.com/vineyard-park-of-bremerton/",
+      "care_levels": [
+        "independent-living",
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "large",
+      "review_note": "A Place for Mom: 40 reviews averaging 4.0/5 for overall experience (July 2026), just under the site's 4.2 quality threshold. Recent reviews describe consistent understaffing since CarePartners took over management in November 2023, alongside longstanding positive reviews dating to when the community was known simply as Vineyard Park (serving the area since 1984).",
+      "description": "Vineyard Park at Bremerton Senior Living is a senior living campus at 2707 Clare Ave in Bremerton offering independent living, assisted living, and memory care, serving the Bremerton, Silverdale, Poulsbo, and Port Orchard area since 1984. It is currently managed by CarePartners Senior Living. Recent consumer reviews note staffing concerns since a November 2023 management change, alongside an overall review average just below the site's quality-tier threshold.",
+      "sources": [
+        "https://www.aplaceformom.com/community/vineyard-park-at-bremerton-senior-living-71675",
+        "https://carepartnersliving.com/vineyard-park-of-bremerton/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Everett Plaza",
+      "slug": "everett-plaza",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "snohomish",
+      "county_name": "Snohomish",
+      "city": "everett",
+      "city_name": "Everett",
+      "address": "2204 12th St",
+      "zip": "98201",
+      "phone": "425-258-6408",
+      "care_levels": [
+        "independent-living",
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "google_rating": 2.9,
+      "google_review_count": 15,
+      "rating_as_of": "2026-07-13",
+      "review_note": "Other platforms show different figures for the same community: Birdeye lists 3.1/5 from 30 reviews and Caring.com lists 5 reviews; family reviews report chronic understaffing, missed bathing, and food-quality complaints alongside some positive accounts.",
+      "description": "Everett Plaza is an independent and assisted living community at 2204 12th St in Everett offering 24-hour caregiver support. Consumer review evidence across multiple aggregator platforms is mixed but generally low, with a Google rating of 2.9 out of 5 from 15 reviews.",
+      "sources": [
+        "https://www.yelp.com/biz/everett-plaza-assisted-living-community-everett",
+        "https://www.caring.com/senior-living/washington/everett/everett-plaza-everett",
+        "https://reviews.birdeye.com/everett-plaza-assisted-living-community-148049409088751"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Kadie Glen Assisted Living",
+      "slug": "kadie-glen-assisted-living",
+      "state": "washington",
+      "state_name": "Washington",
+      "state_abbrev": "WA",
+      "county": "douglas",
+      "county_name": "Douglas",
+      "city": "east-wenatchee",
+      "city_name": "East Wenatchee",
+      "address": "451 N Baker Ave",
+      "zip": "98802",
+      "phone": "(509) 884-9555",
+      "website": "https://www.kadieglen.com/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "medium",
+      "review_note": "Ratings differ sharply by platform: AssistedLivingCenter.com shows 4.7/5, while Seniorly's proprietary score is only 4.5/10 (July 2026). Reviews describe outstanding service and thoughtful amenities alongside separate complaints of uncleaned shared bathrooms and worn furniture. Operated by Ridgeline Management Company.",
+      "description": "Kadie Glen Assisted Living is an assisted living community at 451 N Baker Ave in East Wenatchee operated by Ridgeline Management Company. It is open 24 hours and licensed by the State of Washington. Published consumer ratings for the community diverge significantly between platforms, with family reviews reporting both strong service and maintenance shortfalls.",
+      "sources": [
+        "https://www.caring.com/senior-living/washington/east-wenatchee/kadie-glen-assisted-living-98801",
+        "https://www.seniorly.com/assisted-living/washington/east-wenatchee/kadie-glen-assisted-living"
+      ],
+      "verified_date": "2026-07-13"
     }
   ],
   "organizations": [

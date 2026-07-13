@@ -4,7 +4,7 @@ title: "Bellingham Adult Family Homes LLC"
 seo_title: "Bellingham Adult Family Homes LLC — Senior Living in Bellingham, WA"
 description: "Bellingham Adult Family Homes LLC is a licensed 6-bed adult family home in Bellingham owned by Tony and Claudia Anton, located near Bloedel Donovan and Whatco"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Bellingham Adult Family Homes LLC", "url": "/directory/washington/whatcom-county/bellingham/bellingham-adult-family-homes-llc/"}]
-nearby: []
+nearby: [{"name": "Highgate Senior Living - Bellingham", "url": "/directory/washington/whatcom-county/bellingham/highgate-senior-living-bellingham/", "city_name": "Bellingham", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "large", "description": "Highgate Senior Living - Bellingham is a 77-apartment senior living community at 155 E Kellogg Rd in Bellingham offering independent living, assisted living, and memory care. It is licensed with the State of Washington. Available consumer review data for this community shows a rating below the local market average."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

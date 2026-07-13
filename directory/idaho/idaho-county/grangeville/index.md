@@ -1,0 +1,14 @@
+---
+layout: "city"
+noindex: true
+title: "Senior Living in Grangeville, ID"
+seo_title: "Senior Living in Grangeville, ID — Assisted Living, Memory Care & More"
+description: "Compare 1 senior living communities in Grangeville, Idaho: care levels, sizes, and official inspection records for each."
+city_name: "Grangeville"
+county_name: "Idaho"
+state_name: "Idaho"
+state_abbrev: "ID"
+facility_count: 1
+facilities: [{"name": "Grangeville Health and Rehabilitation of Cascadia", "url": "/directory/idaho/idaho-county/grangeville/grangeville-health-and-rehabilitation-of-cascadia/", "city_name": "Grangeville", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "quality_tier": "serious_concerns", "facility_size": "large", "cms_rating_overall": 4, "description": "Grangeville Health and Rehabilitation of Cascadia is a 60-bed Medicare- and Medicaid-certified skilled nursing facility in Grangeville, serving Idaho County. It currently carries a 4-star overall CMS quality rating, but federal inspection records reviewed by legal advocacy sources document a severe past citation involving failure to protect residents from abuse. We list this facility with both the current rating and the citation history shown, rather than letting a favorable star average obscure it."}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Idaho County", "url": "/directory/idaho/idaho-county/"}, {"name": "Grangeville", "url": "/directory/idaho/idaho-county/grangeville/"}]
+---

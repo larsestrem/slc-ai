@@ -1,0 +1,13 @@
+---
+layout: "county"
+noindex: true
+title: "Idaho County, ID Senior Living"
+seo_title: "Senior Living in Idaho County, ID — 1 Communities"
+description: "Senior living in Idaho County, Idaho: 1 communities across 1 cities, with care levels and inspection links."
+county_name: "Idaho"
+state_name: "Idaho"
+state_abbrev: "ID"
+facility_count: 1
+cities: [{"slug": "grangeville", "name": "Grangeville", "url": "/directory/idaho/idaho-county/grangeville/", "facilities": [{"name": "Grangeville Health and Rehabilitation of Cascadia", "url": "/directory/idaho/idaho-county/grangeville/grangeville-health-and-rehabilitation-of-cascadia/", "city_name": "Grangeville", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "quality_tier": "serious_concerns", "facility_size": "large", "cms_rating_overall": 4, "description": "Grangeville Health and Rehabilitation of Cascadia is a 60-bed Medicare- and Medicaid-certified skilled nursing facility in Grangeville, serving Idaho County. It currently carries a 4-star overall CMS quality rating, but federal inspection records reviewed by legal advocacy sources document a severe past citation involving failure to protect residents from abuse. We list this facility with both the current rating and the citation history shown, rather than letting a favorable star average obscure it."}]}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Idaho County", "url": "/directory/idaho/idaho-county/"}]
+---

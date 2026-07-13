@@ -1408,6 +1408,462 @@
         "https://www.senior-living-directory.com/idaho/rexburg/assisted-living-facility/briarwood-assisted-living"
       ],
       "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Timber Springs Transitional Care",
+      "slug": "timber-springs-transitional-care",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "1140 N Allumbaugh St",
+      "zip": "83704",
+      "phone": "(208) 501-7200",
+      "website": "https://timberspringscare.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 120,
+      "cms_ccn": "135098",
+      "cms_rating_overall": 1,
+      "review_note": "CMS overall star rating: 1 out of 5 (much below average), per Medicare Care Compare data cited by NursingHomeDatabase.com and ProPublica Nursing Home Inspect (as of July 2026). Recently acquired by The Ensign Group.",
+      "description": "Timber Springs Transitional Care is a Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Boise with 120 certified beds. It offers short-term rehabilitation therapy and long-term skilled nursing care. The facility carries a 1-star overall CMS quality rating, the lowest tier on the federal five-star scale, so families should review the underlying health-inspection, staffing, and quality-measure sub-scores before choosing it.",
+      "sources": [
+        "https://www.nursinghomedatabase.com/snf/135098",
+        "https://timberspringscare.com/",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135098/view-all/?state=ID"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Ironwood Rehabilitation and Care Center",
+      "slug": "ironwood-rehabilitation-and-care-center",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "kootenai",
+      "county_name": "Kootenai",
+      "city": "coeur-dalene",
+      "city_name": "Coeur d'Alene",
+      "address": "2200 Ironwood Place",
+      "zip": "83814",
+      "phone": "(208) 667-6486",
+      "website": "https://ironwoodrehab.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 80,
+      "cms_ccn": "135053",
+      "cms_rating_overall": 1,
+      "review_note": "CMS overall star rating: 1 out of 5 (much below average) as of July 2026. CMS inspection records cite citations for failing to protect residents from abuse/neglect and failing to timely report and investigate suspected abuse, per multiple nursing-home-data aggregators summarizing federal inspection reports. Families should review the full CMS inspection report before considering this facility.",
+      "description": "Ironwood Rehabilitation and Care Center is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in Coeur d'Alene offering rehabilitation therapy and long-term nursing care. It carries a 1-star overall CMS quality rating and has documented federal inspection citations related to abuse and neglect protections. We list it, with its rating and the citation history shown honestly, so families can make an informed decision rather than being unaware it exists.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/ironwood-rehabilitation-and-care-center-135053",
+        "https://ironwoodrehab.com/",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135053/?city=COEUR+D%27ALENE&state=ID"
+      ],
+      "verified_date": "2026-07-13",
+      "serious_concern": true,
+      "serious_concern_note": "State and federal inspection records document substantiated abuse and neglect citations."
+    },
+    {
+      "name": "Cascadia of Boise",
+      "slug": "cascadia-of-boise",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "6000 W Denton St",
+      "zip": "83704",
+      "phone": "(208) 629-4383",
+      "website": "https://www.cascadiaofboise.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 99,
+      "organization": "cascadia-healthcare",
+      "organization_name": "Cascadia Healthcare",
+      "cms_ccn": "135146",
+      "cms_rating_overall": 2,
+      "review_note": "CMS overall star rating: 2 out of 5 (below average). Sub-scores: health inspection 3 stars, staffing 1 star, quality measures 4 stars, as of July 2026 Medicare Care Compare data.",
+      "description": "Cascadia of Boise is a 99-bed Medicare- and Medicaid-certified skilled nursing facility specializing in ventilator and tracheostomy care and rehabilitation. It carries a 2-star overall CMS rating, driven mainly by a 1-star staffing sub-score, even though its quality-measures sub-score is stronger at 4 stars. Families should ask directly about nurse staffing levels per shift.",
+      "sources": [
+        "https://www.findseniorlivingnow.com/community/cascadia-of-boise-boise-135146",
+        "https://www.cascadiaofboise.com/",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135146/view-all/?state=ID"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Oak Creek Rehabilitation Center of Kimberly",
+      "slug": "oak-creek-rehabilitation-center-of-kimberly",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "twin-falls",
+      "county_name": "Twin Falls",
+      "city": "kimberly",
+      "city_name": "Kimberly",
+      "address": "500 Polk Street E",
+      "zip": "83341",
+      "phone": "(208) 423-5591",
+      "website": "http://www.oakcreekrehab.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 57,
+      "cms_ccn": "135084",
+      "cms_rating_overall": 2,
+      "review_note": "CMS overall star rating reported as 2 out of 5 (below average) with sub-scores of health inspection 2 stars, staffing 2 stars, quality measures 4 stars, consistently repeated across multiple nursing-home data aggregators as of July 2026; some third-party sites showed conflicting overall figures (1 or 3), so families should confirm the current rating directly on Medicare Care Compare.",
+      "description": "Oak Creek Rehabilitation Center of Kimberly is a 57-bed Medicare- and Medicaid-certified skilled nursing facility in Kimberly, near Twin Falls, offering short-term rehabilitation and long-term nursing care. Aggregated CMS data most consistently shows a 2-star overall rating with below-average health-inspection and staffing sub-scores. Families should verify the current rating directly with Medicare Care Compare before enrolling.",
+      "sources": [
+        "https://www.nursinghomesite.com/OAK_CREEK_REHABILITATION_CENTER_OF_KIMBERLY_KIMBERLY_ID",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135084/view-all/?state=ID",
+        "https://nursinghomerating.org/ID/oak+creek+rehabilitation+center+of+kimberly/135084/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Valley Vista Care Center of Sandpoint",
+      "slug": "valley-vista-care-center-of-sandpoint",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bonner",
+      "county_name": "Bonner",
+      "city": "sandpoint",
+      "city_name": "Sandpoint",
+      "address": "220 S Division Ave",
+      "zip": "83864",
+      "phone": "(208) 265-4514",
+      "website": "https://www.valleyvista.org/facilities/sandpoint/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 73,
+      "organization": "valley-vista-care-corporation",
+      "organization_name": "Valley Vista Care Corporation",
+      "cms_ccn": "135055",
+      "cms_rating_overall": 1,
+      "review_note": "CMS overall star rating: 1 out of 5 (much below average). Sub-scores: health inspection 1 star, staffing 4 stars, quality measures 2 stars, as of July 2026 Medicare Care Compare data.",
+      "description": "Valley Vista Care Center of Sandpoint is a 73-bed Medicare- and Medicaid-certified skilled nursing facility in Sandpoint offering short-term rehabilitation and long-term nursing care. It carries a 1-star overall CMS rating, driven by a 1-star health-inspection sub-score, despite a stronger 4-star staffing sub-score. Families should review the specific health-inspection findings before choosing this facility.",
+      "sources": [
+        "https://www.valleyvista.org/facilities/sandpoint/valley-vista-care-center-of-sandpoint/",
+        "https://health.usnews.com/best-nursing-homes/area/id/valley-vista-care-center-of-sandpoint-135055",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135055/view-all/?state=ID"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Caldwell Care of Cascadia",
+      "slug": "caldwell-care-of-cascadia",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "canyon",
+      "county_name": "Canyon",
+      "city": "caldwell",
+      "city_name": "Caldwell",
+      "address": "210 Cleveland Blvd",
+      "zip": "83605",
+      "phone": "(208) 459-1522",
+      "website": "https://www.caldwellcareofcascadia.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 71,
+      "organization": "cascadia-healthcare",
+      "organization_name": "Cascadia Healthcare",
+      "cms_ccn": "135014",
+      "cms_rating_overall": 1,
+      "review_note": "CMS overall star rating: 1 out of 5 (much below average) as of July 2026 Medicare Care Compare data. A federal complaint investigation resulted in a $114,455 fine for failure to provide basic life support and failure to protect residents from abuse/neglect/exploitation, per nursinghomelawcenter.org's summary of CMS enforcement records (July 2026). The facility separately received a 2024 AHCA/NCAL Bronze quality-improvement award.",
+      "description": "Caldwell Care of Cascadia is a 71-bed Medicare- and Medicaid-certified skilled nursing facility offering short-term rehabilitation and long-term nursing care. It carries a 1-star overall CMS rating and has a documented federal fine tied to a complaint investigation over basic life support and abuse/neglect protections. We list it with its rating and enforcement history shown transparently.",
+      "sources": [
+        "https://www.healthcare4ppl.com/nursing-home/idaho/caldwell/caldwell-care-of-cascadia-135014.html",
+        "https://www.caldwellcareofcascadia.com/",
+        "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-idaho/",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135014/view-all/?state=ID"
+      ],
+      "verified_date": "2026-07-13",
+      "serious_concern": true,
+      "serious_concern_note": "CMS records show a federal fine of roughly $114,000 tied to documented quality-of-care deficiencies."
+    },
+    {
+      "name": "Silverton Health and Rehabilitation of Cascadia",
+      "slug": "silverton-health-and-rehabilitation-of-cascadia",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "shoshone",
+      "county_name": "Shoshone",
+      "city": "silverton",
+      "city_name": "Silverton",
+      "address": "405 W 7th St",
+      "zip": "83867",
+      "phone": "(208) 556-1147",
+      "website": "https://www.silvertonofcascadia.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "medium",
+      "capacity": 50,
+      "organization": "cascadia-healthcare",
+      "organization_name": "Cascadia Healthcare",
+      "cms_ccn": "135058",
+      "cms_rating_overall": 1,
+      "review_note": "CMS overall star rating: 1 out of 5 (much below average) as of July 2026 Medicare Care Compare data. Cited by nursinghomelawcenter.org as having repeat abuse-and-neglect findings in complaint and inspection reports.",
+      "description": "Silverton Health and Rehabilitation of Cascadia is a 50-bed Medicare- and Medicaid-certified skilled nursing facility in Silverton, in the Silver Valley area of Shoshone County. It offers short-term rehabilitation and long-term nursing care and carries a 1-star overall CMS rating, with documented repeat abuse-and-neglect citations noted in federal inspection summaries.",
+      "sources": [
+        "https://health.usnews.com/best-nursing-homes/area/id/silverton-health-and-rehabilitation-of-cascadia-135058",
+        "https://www.silvertonofcascadia.com/",
+        "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-idaho/",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135058/view-all/?state=ID"
+      ],
+      "verified_date": "2026-07-13",
+      "serious_concern": true,
+      "serious_concern_note": "State and federal inspection records document repeat substantiated abuse and neglect citations."
+    },
+    {
+      "name": "Grangeville Health and Rehabilitation of Cascadia",
+      "slug": "grangeville-health-and-rehabilitation-of-cascadia",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "idaho",
+      "county_name": "Idaho",
+      "city": "grangeville",
+      "city_name": "Grangeville",
+      "address": "410 NE 2nd St",
+      "zip": "83530",
+      "phone": "(208) 983-1131",
+      "website": "https://grangevillehealthandrehab.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 60,
+      "organization": "cascadia-healthcare",
+      "organization_name": "Cascadia Healthcare",
+      "cms_ccn": "135080",
+      "cms_rating_overall": 4,
+      "review_note": "CMS overall star rating: 4 out of 5 (above average), sub-scores health inspection 4 stars, staffing 3 stars, quality measures 2 stars, per Medicare Care Compare data (July 2026). IMPORTANT: nursinghomelawcenter.org's review of CMS federal inspection records cites a documented finding that residents were placed in immediate danger from physical, sexual, or mental abuse due to staff failing to protect residents and respond to allegations -- one of the most severe categories of CMS citation. We flag this explicitly: the numeric star rating alone does not reflect this history, and families should review the full inspection report.",
+      "description": "Grangeville Health and Rehabilitation of Cascadia is a 60-bed Medicare- and Medicaid-certified skilled nursing facility in Grangeville, serving Idaho County. It currently carries a 4-star overall CMS quality rating, but federal inspection records reviewed by legal advocacy sources document a severe past citation involving failure to protect residents from abuse. We list this facility with both the current rating and the citation history shown, rather than letting a favorable star average obscure it.",
+      "sources": [
+        "https://grangevillehealthandrehab.com/",
+        "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-idaho/",
+        "https://projects.propublica.org/nursing-homes/homes/h-135080",
+        "https://www.medicare.gov/care-compare/details/nursing-home/135080/view-all/?state=ID"
+      ],
+      "verified_date": "2026-07-13",
+      "serious_concern": true,
+      "serious_concern_note": "Despite a current 4-star CMS overall rating, federal inspection records document a citation for placing residents in immediate danger from abuse — read the full inspection history, not just the star average."
+    },
+    {
+      "name": "Paradise Creek Health and Rehab of Cascadia",
+      "slug": "paradise-creek-health-and-rehab-of-cascadia",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "latah",
+      "county_name": "Latah",
+      "city": "moscow",
+      "city_name": "Moscow",
+      "address": "640 N Eisenhower St",
+      "zip": "83843",
+      "phone": "(208) 882-6560",
+      "website": "https://www.paradisecreekofcascadia.com/",
+      "care_levels": [
+        "skilled-nursing"
+      ],
+      "facility_size": "large",
+      "capacity": 64,
+      "organization": "cascadia-healthcare",
+      "organization_name": "Cascadia Healthcare",
+      "review_note": "No single current CMS overall star number could be confirmed from available sources (U.S. News shows a short-term rehabilitation rating of 'Average' and long-term care rating of 'Below Average'). nursinghomelawcenter.org, summarizing CMS enforcement records, reports the facility has paid 15 fines totaling over $77,000 since 2023 for deficiencies related to quality of life, freedom from abuse or neglect, and infection prevention (as of July 2026). Families should look up the current CMS star rating directly on Medicare Care Compare (CCN 135067).",
+      "description": "Paradise Creek Health and Rehab of Cascadia is a 64-bed Medicare- and Medicaid-certified skilled nursing facility in Moscow. It offers short-term rehabilitation and long-term nursing care. We could not confirm a current overall CMS star number from available sources, but federal enforcement records summarized by a legal advocacy site show a pattern of fines since 2023 tied to quality-of-life and abuse/neglect-prevention deficiencies, so we list it with that history shown honestly rather than omitting it.",
+      "sources": [
+        "https://www.paradisecreekofcascadia.com/",
+        "https://health.usnews.com/best-nursing-homes/area/id/paradise-creek-health-and-rehab-of-cascadia-135067",
+        "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-idaho/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Applewood Assisted Living",
+      "slug": "applewood-assisted-living",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "779 Tennyson Way",
+      "zip": "83709",
+      "phone": "(208) 377-1656",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "small",
+      "capacity": 9,
+      "review_note": "3.1/5 average 'overall experience' across 7 reviews (all-time) on A Place for Mom (July 2026).",
+      "description": "Applewood Assisted Living is a small, 9-bed residential assisted living home in Boise, owned and operated by a registered nurse. Reviews on A Place for Mom average 3.1 out of 5 across 7 reviews, a mixed-to-below-average showing for a small home of this size. Families considering it should ask for references and tour in person given the modest review record.",
+      "sources": [
+        "https://www.aplaceformom.com/community/applewood-assisted-living-147953",
+        "https://www.senior-living-directory.com/idaho/boise/assisted-living-facility/applewood-assisted-living"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Ashley Manor - Cory Lane",
+      "slug": "ashley-manor-cory-lane",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "boise",
+      "city_name": "Boise",
+      "address": "9327 W Cory Lane",
+      "zip": "83704",
+      "phone": "(208) 376-1300",
+      "website": "https://ashleymanorseniorliving.com/cory-lane/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "organization": "ashley-manor",
+      "organization_name": "Ashley Manor",
+      "review_note": "2.3/5 average 'overall experience' across 3 reviews (all-time) on A Place for Mom; A Place for Mom's proprietary score is 1/10 based on 1 review in the last 2 years (July 2026). A staffing-ratio concern was raised in at least one review (one caregiver reported covering full care for 9 residents with dementia plus meals and housekeeping), alongside other reviews praising the dining program and small-scale atmosphere.",
+      "description": "Ashley Manor - Cory Lane is a small residential assisted living home in Boise, part of the multi-location Ashley Manor group. Review evidence is mixed and thin: A Place for Mom shows a 2.3-out-of-5 average across 3 reviews, with at least one detailed review raising a staffing-ratio concern in the memory care setting, alongside other reviews praising the dining program and intimate setting. Families should tour and ask directly about current staffing ratios.",
+      "sources": [
+        "https://www.aplaceformom.com/community/ashley-manor-cory-lane-96067",
+        "https://ashleymanorseniorliving.com/cory-lane/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Caring Hearts Assisted Living",
+      "slug": "caring-hearts-assisted-living-pocatello",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bannock",
+      "county_name": "Bannock",
+      "city": "pocatello",
+      "city_name": "Pocatello",
+      "address": "3480 E Center St",
+      "zip": "83201",
+      "phone": "(208) 232-0287",
+      "website": "https://caringheartsonthehill.com/",
+      "care_levels": [
+        "assisted-living"
+      ],
+      "facility_size": "small",
+      "capacity": 15,
+      "review_note": "Mixed reviews with a low review count: 3 reviews on Caring.com (July 2026). Several reviewers praise the small, one-on-one setting and home-cooked food, but one detailed negative review reports no heat on part of the building for nine months, food mostly limited to sandwiches, an unaddressed odor issue, and advertised activities that were not actually held.",
+      "description": "Caring Hearts Assisted Living is a small, 15-resident assisted living home in Pocatello offering one-on-one personal care. Online review evidence is thin and mixed: alongside praise for the small-scale, home-cooked-meal setting, one detailed family review describes a prolonged heating outage, poor food quality, and unaddressed cleanliness and activity-programming complaints. We list it with this evidence shown honestly rather than omitted.",
+      "sources": [
+        "https://www.caring.com/senior-living/idaho/pocatello/caring-hearts-assisted-living-83201",
+        "https://caringheartsonthehill.com/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Lily and Syringa Assisted Living",
+      "slug": "lily-and-syringa-assisted-living",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bonneville",
+      "county_name": "Bonneville",
+      "city": "idaho-falls",
+      "city_name": "Idaho Falls",
+      "address": "840 E 1st Ave",
+      "zip": "83401",
+      "phone": "(208) 497-5959",
+      "website": "https://www.lilyandsyringa.com/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "facility_size": "medium",
+      "capacity": 24,
+      "review_note": "3.8/5 across 13 reviews on Birdeye (July 2026); separately 5.0/5 across 2 reviews on SeniorAdvisor and a 5.0-out-of-5 all-time 'overall experience' average across 2 reviews on A Place for Mom. Review volume is thin on the higher-scoring platforms, so the Birdeye figure (more reviews, and below the 4.2 quality-tier threshold) is the more representative signal.",
+      "description": "Lily and Syringa Assisted Living is a 24-unit assisted living and memory care community in Idaho Falls offering furnished and unfurnished private and shared rooms with home-cooked meals. Review evidence is mixed across platforms: 3.8 out of 5 across 13 reviews on Birdeye, versus small samples of 5-star reviews on other sites. Reviewers frequently praise staff patience with residents who have dementia-related behaviors and communication with families.",
+      "sources": [
+        "https://reviews.birdeye.com/lily-and-syringa-assisted-living-157256237448885",
+        "https://www.lilyandsyringa.com/",
+        "https://www.aplaceformom.com/community/lily-and-syringa-52690"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "Copper Springs Senior Living",
+      "slug": "copper-springs-senior-living",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "ada",
+      "county_name": "Ada",
+      "city": "meridian",
+      "city_name": "Meridian",
+      "address": "3570 E Amity Rd",
+      "zip": "83642",
+      "phone": "(208) 888-7030",
+      "website": "https://www.seniorlifestyle.com/property/idaho/copper-springs/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "senior-lifestyle",
+      "organization_name": "Senior Lifestyle",
+      "review_note": "3.7/5 average 'overall experience' across 37 reviews (all-time) on A Place for Mom (July 2026), below the site's 4.2 quality-tier threshold despite a substantial review count. Reviewers frequently praise attentive memory-care staff but also raise recurring concerns about management communication, staffing shortages, food variety, and transportation reliability.",
+      "description": "Copper Springs Senior Living is an assisted living and memory care community in Meridian operated by Senior Lifestyle, with a dedicated memory-care neighborhood for residents with Alzheimer's disease and other dementias. A Place for Mom shows a 3.7-out-of-5 average across 37 reviews, a below-threshold but well-sampled rating. Reviewers commonly praise the memory-care staff's attentiveness while also citing recurring concerns about management communication and staffing levels.",
+      "sources": [
+        "https://www.aplaceformom.com/community/copper-springs-senior-living-52774",
+        "https://www.seniorlifestyle.com/property/idaho/copper-springs/"
+      ],
+      "verified_date": "2026-07-13"
+    },
+    {
+      "name": "The Gables of Idaho Falls Assisted Living & Memory Care",
+      "slug": "the-gables-of-idaho-falls-assisted-living-memory-care",
+      "state": "idaho",
+      "state_name": "Idaho",
+      "state_abbrev": "ID",
+      "county": "bonneville",
+      "county_name": "Bonneville",
+      "city": "idaho-falls",
+      "city_name": "Idaho Falls",
+      "address": "3400 S 5th W",
+      "zip": "83402",
+      "phone": "(208) 524-3629",
+      "website": "https://thegablesfamily.com/locations/idaho-falls-assisted-living/",
+      "care_levels": [
+        "assisted-living",
+        "memory-care"
+      ],
+      "organization": "the-gables-assisted-living",
+      "organization_name": "The Gables Assisted Living",
+      "review_note": "3.3/5 average 'overall experience' across 6 reviews (all-time) on A Place for Mom (July 2026). Review count is low, so this figure should be treated as a thin sample.",
+      "description": "The Gables of Idaho Falls Assisted Living & Memory Care is a community in Idaho Falls offering both assisted living and dedicated memory care. A Place for Mom shows a 3.3-out-of-5 average across a small sample of 6 reviews. Given the limited review volume, families should weigh this alongside an in-person tour and direct reference checks.",
+      "sources": [
+        "https://www.aplaceformom.com/community/the-gables-of-idaho-falls-assisted-living-52699",
+        "https://thegablesfamily.com/locations/idaho-falls-assisted-living/"
+      ],
+      "verified_date": "2026-07-13"
     }
   ],
   "organizations": [

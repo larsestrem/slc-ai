@@ -4,7 +4,7 @@ title: "Hale Makua - Wailuku"
 seo_title: "Hale Makua - Wailuku — Senior Living in Wailuku, HI"
 description: "A 124-bed skilled nursing facility in Wailuku offering long-term care, short-term rehabilitation, and dementia care, part of the Hale Makua Health Services or"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Hale Makua - Wailuku", "url": "/directory/hawaii/maui-county/wailuku/hale-makua-wailuku/"}]
-nearby: []
+nearby: [{"name": "Honesty", "url": "/directory/hawaii/maui-county/wailuku/honesty-care-home-wailuku/", "city_name": "Wailuku", "state_abbrev": "HI", "care_levels": ["adult-family-home", "assisted-living", "memory-care"], "quality_tier": "meets_standard", "facility_size": "small", "description": "Honesty is a small, state-licensed 5-bed care home for the elderly in Wailuku, Maui, offering assisted living and memory care services in a residential setting. It has an official Hawaii DOH Office of Health Care Assurance survey record on file. No independent consumer review evidence was found for this home as of this listing."}]
 state: "hawaii"
 state_name: "Hawaii"
 state_abbrev: "HI"

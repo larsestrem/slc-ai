@@ -1,0 +1,28 @@
+---
+layout: "facility"
+title: "Mililani Care Home"
+seo_title: "Mililani Care Home — Senior Living in Mililani, HI"
+description: "Mililani Care Home is a small, state-licensed Adult Residential Care Home - Level 1 in Mililani, Oahu, licensed for 5 residents, offering 24-hour supervised c"
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Mililani Care Home", "url": "/directory/hawaii/honolulu-county/mililani/mililani-care-home/"}]
+nearby: []
+state: "hawaii"
+state_name: "Hawaii"
+state_abbrev: "HI"
+county: "honolulu"
+county_name: "Honolulu"
+city: "mililani"
+city_name: "Mililani"
+address: "95-117 Waikalani Drive"
+zip: "96789"
+phone: "(808) 753-4409"
+care_levels: ["adult-family-home"]
+facility_size: "small"
+capacity: 5
+sources: ["https://www.seniorly.com/assisted-living/hawaii/mililani/mililani-care-home", "https://www.mililanicarehome.com/", "https://carelistings.com/assisted-living-homes/mililani-hi/mililani-care-home-llc/5acd01fda71d8c15cf68ad9d"]
+verified_date: "2026-07-13"
+review_note: "Seniorly's proprietary quality score for this facility is 4.8 out of 10, as published on Seniorly's Mililani Care Home listing (retrieved July 2026) - notably below Seniorly's own average score for the Mililani area. At least one family testimonial quoted on the facility's own marketing materials is positive ('This place has restored our faith in senior care'); no independent third-party numeric Google rating was found."
+quality_tier: "meets_standard"
+description_full: "Mililani Care Home is a small, state-licensed Adult Residential Care Home - Level 1 in Mililani, Oahu, licensed for 5 residents, offering 24-hour supervised care, meals, housekeeping, and medication management. Available third-party quality scoring for this home is mixed to below-average, while the facility's own marketing cites positive family feedback."
+review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/mililani/mililani-care-home"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/mililani-hi/mililani-care-home-llc/5acd01fda71d8c15cf68ad9d"}]
+licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
+---

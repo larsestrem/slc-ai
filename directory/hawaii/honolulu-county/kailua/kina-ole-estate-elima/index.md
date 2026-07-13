@@ -4,7 +4,7 @@ title: "Kina 'Ole Estate Elima"
 seo_title: "Kina 'Ole Estate Elima — Senior Living in Kailua, HI"
 description: "Kina 'Ole Estate Elima is the Kailua location of the Kina 'Ole Estate family of small care homes, housing up to eight residents with private rooms and 24-hour"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Kina 'Ole Estate Elima", "url": "/directory/hawaii/honolulu-county/kailua/kina-ole-estate-elima/"}]
-nearby: []
+nearby: [{"name": "Wilson Senior Living Kailua", "url": "/directory/hawaii/honolulu-county/kailua/wilson-senior-living-kailua/", "city_name": "Kailua", "state_abbrev": "HI", "care_levels": ["assisted-living"], "quality_tier": "unrated", "facility_size": "medium", "description": "Wilson Senior Living Kailua is a newer adult residential care home in the Aikahi area of Kailua, Oahu, with 19 private, ADA-compliant rooms. It offers assisted living-level care and services. Its consumer review rating is moderate and based mostly on reviews more than two years old, with no recent reviews on file at major platforms."}]
 state: "hawaii"
 state_name: "Hawaii"
 state_abbrev: "HI"

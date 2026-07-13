@@ -1,0 +1,4 @@
+/* Page-specific: injected ONLY on the news listing page (see head.html). */
+.post-list { list-style: none; padding: 0; }
+.post-list li { padding: 1rem 0; border-bottom: 1px solid var(--line); }
+.post-list .date { color: var(--muted); font-size: .85rem; }

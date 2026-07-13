@@ -1,0 +1,32 @@
+/* Page-specific: injected ONLY on state & region directory pages (see head.html).
+   Map, region navigation, and the two-column state layout. */
+.state-layout { display: grid; gap: 1.6rem; grid-template-columns: 1fr; margin-top: 1.2rem; }
+@media (min-width: 56rem) {
+  .state-layout { grid-template-columns: minmax(20rem, 5fr) 7fr; align-items: start; }
+  .state-side { position: sticky; top: 1rem; }
+  .state-list { max-height: calc(100vh - 2rem); overflow-y: auto; padding-right: .5rem; scroll-behavior: smooth; }
+  .state-list section:first-child h2 { margin-top: .2rem; }
+}
+.state-map { margin: 0 0 1.2rem; }
+.state-map svg { max-width: 24rem; width: 100%; height: auto; display: block; }
+.map-shape { fill: var(--soft); stroke: var(--line); stroke-width: 1.5; }
+.map-dot { fill: var(--accent); opacity: .9; transition: r .15s; }
+.state-map a:hover .map-dot, .state-map a:focus .map-dot,
+.state-map a.hl .map-dot { fill: var(--gold); opacity: 1; r: 7px; }
+.state-map figcaption { color: var(--muted); font-size: .82rem; }
+.map-dot.hl { fill: var(--gold) !important; }
+/* Region colors (map dots + card accents) — decorative, distinguishable hues */
+.rc0 { fill: #0a4aa3; } .rc1 { fill: #6d28d9; } .rc2 { fill: #0f766e; } .rc3 { fill: #9a3412; }
+.rc4 { fill: #a3123c; } .rc5 { fill: #075985; } .rc6 { fill: #4c1d95; } .rc7 { fill: #713f12; }
+.rc-border0 { border-left: 5px solid #0a4aa3; } .rc-border1 { border-left: 5px solid #6d28d9; }
+.rc-border2 { border-left: 5px solid #0f766e; } .rc-border3 { border-left: 5px solid #9a3412; }
+.rc-border4 { border-left: 5px solid #a3123c; } .rc-border5 { border-left: 5px solid #075985; }
+.rc-border6 { border-left: 5px solid #4c1d95; } .rc-border7 { border-left: 5px solid #713f12; }
+.state-list .card.hl { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+.state-resources { font-size: .92rem; }
+.state-resources h2 { font-size: 1.05rem; margin-top: 1.4rem; padding-top: 0; border-top: 0; }
+.state-resources ul { padding-left: 1.2rem; margin: .5rem 0; }
+.dir-list { columns: 2; column-gap: 2.5rem; padding-left: 1.2rem; margin: 1rem 0; }
+@media (min-width: 52rem) { .dir-list { columns: 3; } }
+.dir-list li { break-inside: avoid; margin: .25rem 0; }
+@media print { .state-map svg { display: none !important; } .state-layout { display: block; } }

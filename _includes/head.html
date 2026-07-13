@@ -12,6 +12,17 @@
 <meta property="og:title" content="{{ page_title | default: site.title | escape }}">
 <meta property="og:description" content="{{ page.description | default: site.description | strip_newlines | strip | escape }}">
 <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | absolute_url }}">
-<meta name="theme-color" content="#0a58ca">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%230a58ca'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
+<meta name="theme-color" content="#0a4aa3">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%230a4aa3'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
 <style>{% capture css %}{% include css/main.css %}{% endcapture %}{{ css }}</style>
+{%- comment -%} Page-specific CSS: injected only where the layout/page needs it, so
+one page's rules never ship to every other page. {%- endcomment -%}
+{%- if page.layout == 'state' or page.layout == 'region' -%}
+<style>{% capture c %}{% include css/directory.css %}{% endcapture %}{{ c }}</style>
+{%- endif -%}
+{%- if page.layout == 'facility' -%}
+<style>{% capture c %}{% include css/facility.css %}{% endcapture %}{{ c }}</style>
+{%- endif -%}
+{%- if page.css_post -%}
+<style>{% capture c %}{% include css/post.css %}{% endcapture %}{{ c }}</style>
+{%- endif -%}

@@ -1,0 +1,6 @@
+/* Page-specific: injected ONLY on facility pages (see head.html).
+   Photo gallery and the claim-your-listing panel accent. */
+.photo-grid figure { margin: 0; }
+.photo-grid img { width: 100%; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
+.photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
+.claim { border-left: 4px solid var(--accent); }

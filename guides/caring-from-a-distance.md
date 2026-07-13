@@ -6,6 +6,7 @@ permalink: /guides/caring-from-a-distance/
 topic_group: is-it-time
 updated: 2026-07-11
 related:
+  - /guides/technology-for-aging-in-place/
   - /guides/signs-your-parent-needs-help/
   - /guides/talking-to-a-parent-about-care/
   - /guides/in-home-care-explained/
@@ -44,8 +45,10 @@ Technology can extend your reach, but there's a line: tools your parent chooses 
 - **Low-tech first:** an automatic medication dispenser, a lockbox with a key for emergencies, a list of your contacts taped by the phone.
 - **Wearable alert buttons** (with fall detection if falls are the worry) — the biggest safety return for the least intrusion. They only work if worn, so let your parent pick the style.
 - **Video calls** beat voice calls: you can see weight loss, clutter, and grooming changes.
-- **Shared calendars and pill reminders**, and a smart speaker for hands-free calling.
+- **Shared calendars and pill reminders**, and a smart speaker for hands-free calling — but a device only helps if your parent has *practiced* using it that way. A speaker they only ask questions of won't occur to them in a crisis; have them make real calls through it every week until it's reflexive.
 - **Motion or door sensors and cameras** sit at the far end of the intrusion scale. Sensors that flag "no movement by 10 a.m." are gentler than cameras; cameras inside a competent parent's home without enthusiastic consent are a trust-destroyer, not a care plan. If you feel you need that much monitoring, what you actually need is more human help.
+
+For a device-by-device breakdown — smart speakers, alert buttons, sensors, cameras, GPS trackers, and med dispensers, each with honest strengths and weaknesses and the setup step most families skip — see **[technology that helps a parent stay safe at home](/guides/technology-for-aging-in-place/)**.
 
 ## What to inspect on visits home
 

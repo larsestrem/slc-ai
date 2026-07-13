@@ -4,7 +4,7 @@ title: "At Serenity Adult Family Home"
 seo_title: "At Serenity Adult Family Home — Senior Living in Auburn, WA"
 description: "At Serenity Adult Family Home is a licensed six-bed adult family home in Auburn operating since 2005. It is certified by Washington DSHS for both Dementia Spe"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "At Serenity Adult Family Home", "url": "/directory/washington/king-county/auburn/at-serenity-adult-family-home/"}]
-nearby: [{"name": "Merrill Gardens at Auburn", "url": "/directory/washington/king-county/auburn/merrill-gardens-at-auburn/", "city_name": "Auburn", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "description": "Merrill Gardens at Auburn sits in downtown Auburn steps from shops and transit, offering independent living, assisted living, and memory care. Reviewers highlight the professional staff, clean building, and the walkable downtown location."}]
+nearby: [{"name": "Merrill Gardens at Auburn", "url": "/directory/washington/king-county/auburn/merrill-gardens-at-auburn/", "city_name": "Auburn", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "google_rating": 4.5, "google_review_count": 43, "description": "Merrill Gardens at Auburn sits in downtown Auburn steps from shops and transit, offering independent living, assisted living, and memory care. Reviewers highlight the professional staff, clean building, and the walkable downtown location."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

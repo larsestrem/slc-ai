@@ -5,7 +5,7 @@ title: "Prairie City Landing"
 seo_title: "Prairie City Landing — Senior Living in Folsom, CA"
 description: "A 200-bed community in Folsom offering independent living, assisted living, and memory care. Families consistently describe warm, attentive staff, a busy cale"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Prairie City Landing", "url": "/directory/california/sacramento-county/folsom/prairie-city-landing/"}]
-nearby: [{"name": "Oakmont of Folsom", "url": "/directory/california/sacramento-county/folsom/oakmont-of-folsom/", "city_name": "Folsom", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "description": "Oakmont of Folsom is a luxury assisted living and memory care community on Creekside Drive with 73 licensed beds. Reviewers highlight the caring, competent staff, beautiful setting, and engaging community life, with accommodating food service earning frequent praise."}]
+nearby: [{"name": "Oakmont of Folsom", "url": "/directory/california/sacramento-county/folsom/oakmont-of-folsom/", "city_name": "Folsom", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "facility_size": "large", "google_rating": 4.7, "google_review_count": 39, "description": "Oakmont of Folsom is a luxury assisted living and memory care community on Creekside Drive with 73 licensed beds. Reviewers highlight the caring, competent staff, beautiful setting, and engaging community life, with accommodating food service earning frequent praise."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

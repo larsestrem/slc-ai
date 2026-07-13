@@ -122,6 +122,8 @@ main { display: block; padding: 1.6rem 0 3rem; }
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
 .stars .off { color: var(--line); }
+.rate-src { color: var(--muted); font-size: .8em; }
+.ratings-legend { font-size: .9rem; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -319,6 +321,12 @@ tbody tr:hover { background: var(--soft); }
   </div>
 
   <div class="state-list" aria-label="Communities in Sacramento & Northern Valley by city">
+    <p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
+<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
+(from inspections and staffing); elsewhere, ★ is a
+<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
+Each community's page shows the rating with its source, count, and date.</p>
+
     <section aria-labelledby="c-carmichael">
       <h2 id="c-carmichael">Carmichael, CA <span class="count">· Sacramento County</span></h2>
       <ul class="grid">
@@ -394,7 +402,7 @@ tbody tr:hover { background: var(--soft); }
         <li class="card" data-city="davis">
   <h3><a href="/directory/california/yolo-county/davis/university-retirement-community/">University Retirement Community</a></h3>
   <p class="meta">Davis, CA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -446,7 +454,8 @@ tbody tr:hover { background: var(--soft); }
       <ul class="grid">
         <li class="card" data-city="folsom">
   <h3><a href="/directory/california/sacramento-county/folsom/oakmont-of-folsom/">Oakmont of Folsom</a></h3>
-  <p class="meta">Folsom, CA</p>
+  <p class="meta">Folsom, CA · <span class="stars" role="img" aria-label="4.7 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
@@ -490,7 +499,8 @@ tbody tr:hover { background: var(--soft); }
       <ul class="grid">
         <li class="card" data-city="grass-valley">
   <h3><a href="/directory/california/nevada-county/grass-valley/atria-grass-valley/">Atria Grass Valley</a></h3>
-  <p class="meta">Grass Valley, CA</p>
+  <p class="meta">Grass Valley, CA · <span class="stars" role="img" aria-label="4.9 out of 5 stars">★★★★★</span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
@@ -544,7 +554,8 @@ tbody tr:hover { background: var(--soft); }
 
         <li class="card" data-city="redding">
   <h3><a href="/directory/california/shasta-county/redding/the-vistas-assisted-living-and-memory-care/">The Vistas Assisted Living and Memory Care</a></h3>
-  <p class="meta">Redding, CA</p>
+  <p class="meta">Redding, CA · <span class="stars" role="img" aria-label="4.3 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
@@ -616,7 +627,7 @@ tbody tr:hover { background: var(--soft); }
         <li class="card" data-city="sacramento">
   <h3><a href="/directory/california/sacramento-county/sacramento/acc-care-center/">ACC Care Center</a></h3>
   <p class="meta">Sacramento, CA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>

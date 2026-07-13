@@ -60,7 +60,7 @@ how the rating is determined.
       {%- if page.review_links and page.review_links.size > 0 %}
       <p><strong>Read the reviews:</strong> {% for rl in page.review_links %}<a href="{{ rl.url }}" rel="nofollow noopener">{{ rl.name }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %} — see the ratings and what families wrote, then judge for yourself.</p>
       {%- endif %}
-      <p><a href="/guides/interpreting-online-reviews/">How to read online reviews without being misled</a></p>
+      {% include review-caveats.html %}
     </div>
   </div>
   {%- endif %}

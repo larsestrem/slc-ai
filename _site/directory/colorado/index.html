@@ -122,6 +122,8 @@ main { display: block; padding: 1.6rem 0 3rem; }
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
 .stars .off { color: var(--line); }
+.rate-src { color: var(--muted); font-size: .8em; }
+.ratings-legend { font-size: .9rem; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -333,6 +335,12 @@ tbody tr:hover { background: var(--soft); }
   </div>
 
   <div class="state-list" id="communities" aria-label="Communities in Colorado by city">
+    <p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
+<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
+(from inspections and staffing); elsewhere, ★ is a
+<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
+Each community's page shows the rating with its source, count, and date.</p>
+
     <section aria-labelledby="c-arvada">
       <h2 id="c-arvada">Arvada, CO <span class="count">· Jefferson County</span></h2>
       <ul class="grid">
@@ -367,7 +375,7 @@ tbody tr:hover { background: var(--soft); }
         <li class="card" data-city="aurora">
   <h3><a href="/directory/colorado/arapahoe-county/aurora/garden-terrace-alzheimers-center-of-excellence-at-aurora/">Garden Terrace Alzheimer's Center of Excellence at Aurora</a></h3>
   <p class="meta">Aurora, CO · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -384,7 +392,7 @@ tbody tr:hover { background: var(--soft); }
         <li class="card" data-city="boulder">
   <h3><a href="/directory/colorado/boulder-county/boulder/frasier-retirement-community/">Frasier Retirement Community</a></h3>
   <p class="meta">Boulder, CO · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
@@ -439,7 +447,7 @@ tbody tr:hover { background: var(--soft); }
         <li class="card" data-city="denver">
   <h3><a href="/directory/colorado/denver-county/denver/south-valley-post-acute-rehabilitation/">South Valley Post Acute Rehabilitation</a></h3>
   <p class="meta">Denver, CO · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -467,7 +475,7 @@ tbody tr:hover { background: var(--soft); }
         <li class="card" data-city="durango">
   <h3><a href="/directory/colorado/la-plata-county/durango/cottonwood-rehabilitation-and-healthcare-center/">Cottonwood Rehabilitation and Healthcare Center</a></h3>
   <p class="meta">Durango, CO · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>

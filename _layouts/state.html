@@ -155,6 +155,7 @@ layout: default
   </div>
 
   <div class="state-list" id="communities" aria-label="Communities in {{ page.state_name }} by city">
+    {% include ratings-legend.html %}
     {%- for city in page.cities %}
     <section aria-labelledby="c-{{ city.slug }}">
       <h2 id="c-{{ city.slug }}">{{ city.name }}, {{ page.state_abbrev }} <span class="count">· {{ city.county_label }}</span></h2>

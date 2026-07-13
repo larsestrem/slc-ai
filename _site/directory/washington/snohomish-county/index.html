@@ -122,6 +122,8 @@ main { display: block; padding: 1.6rem 0 3rem; }
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
 .stars .off { color: var(--line); }
+.rate-src { color: var(--muted); font-size: .8em; }
+.ratings-legend { font-size: .9rem; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -222,6 +224,13 @@ tbody tr:hover { background: var(--soft); }
 
 
 
+
+<p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
+<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
+(from inspections and staffing); elsewhere, ★ is a
+<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
+Each community's page shows the rating with its source, count, and date.</p>
+
 <section aria-labelledby="c-arlington">
   <h2 id="c-arlington"><a href="/directory/washington/snohomish-county/arlington/">Arlington, WA</a></h2>
   <ul class="grid">
@@ -244,7 +253,8 @@ tbody tr:hover { background: var(--soft); }
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/washington/snohomish-county/edmonds/edmonds-landing-by-cogir/">Edmonds Landing by Cogir</a></h3>
-  <p class="meta">Edmonds, WA</p>
+  <p class="meta">Edmonds, WA · <span class="stars" role="img" aria-label="4.9 out of 5 stars">★★★★★</span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -271,7 +281,8 @@ tbody tr:hover { background: var(--soft); }
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/washington/snohomish-county/everett/abelia-i-senior-home/">Abelia I Senior Home</a></h3>
-  <p class="meta">Everett, WA · Small home</p>
+  <p class="meta">Everett, WA · Small home · <span class="stars" role="img" aria-label="5.0 out of 5 stars">★★★★★</span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
@@ -327,7 +338,8 @@ tbody tr:hover { background: var(--soft); }
 
     <li class="card">
   <h3><a href="/directory/washington/snohomish-county/lynnwood/sunny-loving-care-adult-family-home/">Sunny Loving Care Adult Family Home</a></h3>
-  <p class="meta">Lynnwood, WA · Small home</p>
+  <p class="meta">Lynnwood, WA · Small home · <span class="stars" role="img" aria-label="5.0 out of 5 stars">★★★★★</span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
@@ -344,7 +356,7 @@ tbody tr:hover { background: var(--soft); }
     <li class="card">
   <h3><a href="/directory/washington/snohomish-county/marysville/marysville-care-center/">Marysville Care Center</a></h3>
   <p class="meta">Marysville, WA · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -405,7 +417,7 @@ tbody tr:hover { background: var(--soft); }
     <li class="card">
   <h3><a href="/directory/washington/snohomish-county/stanwood/josephine-caring-community/">Josephine Caring Community</a></h3>
   <p class="meta">Stanwood, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>

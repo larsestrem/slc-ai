@@ -122,6 +122,8 @@ main { display: block; padding: 1.6rem 0 3rem; }
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
 .stars .off { color: var(--line); }
+.rate-src { color: var(--muted); font-size: .8em; }
+.ratings-legend { font-size: .9rem; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -222,6 +224,13 @@ tbody tr:hover { background: var(--soft); }
 
 
 
+
+<p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
+<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
+(from inspections and staffing); elsewhere, ★ is a
+<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
+Each community's page shows the rating with its source, count, and date.</p>
+
 <section aria-labelledby="c-camarillo">
   <h2 id="c-camarillo"><a href="/directory/california/ventura-county/camarillo/">Camarillo, CA</a></h2>
   <ul class="grid">
@@ -265,7 +274,8 @@ tbody tr:hover { background: var(--soft); }
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/california/ventura-county/thousand-oaks/belmont-village-thousand-oaks/">Belmont Village Thousand Oaks</a></h3>
-  <p class="meta">Thousand Oaks, CA</p>
+  <p class="meta">Thousand Oaks, CA · <span class="stars" role="img" aria-label="4.3 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
@@ -276,7 +286,8 @@ tbody tr:hover { background: var(--soft); }
 
     <li class="card">
   <h3><a href="/directory/california/ventura-county/thousand-oaks/the-reserve-at-thousand-oaks/">The Reserve at Thousand Oaks</a></h3>
-  <p class="meta">Thousand Oaks, CA</p>
+  <p class="meta">Thousand Oaks, CA · <span class="stars" role="img" aria-label="4.8 out of 5 stars">★★★★★</span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -289,7 +300,8 @@ tbody tr:hover { background: var(--soft); }
 
     <li class="card">
   <h3><a href="/directory/california/ventura-county/thousand-oaks/university-village-thousand-oaks/">University Village Thousand Oaks</a></h3>
-  <p class="meta">Thousand Oaks, CA</p>
+  <p class="meta">Thousand Oaks, CA · <span class="stars" role="img" aria-label="4.7 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>

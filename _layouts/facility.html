@@ -74,20 +74,7 @@ layout: default
     </div>
 
     <aside>
-      {%- if page.cms_rating_overall %}
-      <section class="panel rating-glance" aria-labelledby="glance-h">
-        <h2 id="glance-h">Government rating</h2>
-        <p class="glance-stars">{% include stars.html rating=page.cms_rating_overall %}<br>
-        <strong>{{ page.cms_rating_overall }} of 5</strong> — Medicare</p>
-        <p><a href="#ratings-h">What this means &amp; who rates it &darr;</a></p>
-      </section>
-      {%- elsif page.facility_size == 'small' %}
-      <section class="panel rating-glance" aria-labelledby="glance-h">
-        <h2 id="glance-h">Small care home</h2>
-        <p class="glance-stars"><strong>State-licensed{% if page.licensed_since %} since {{ page.licensed_since }}{% endif %}</strong>{% if page.specialties and page.specialties.size > 0 %}<br>{{ page.specialties | join: ", " }}{% endif %}</p>
-        <p>A house with a handful of residents and hands-on care. <a href="#ratings-h">How we vet small homes &darr;</a></p>
-      </section>
-      {%- endif %}
+      {% include rating-glance.html %}
 
       <section class="panel" aria-labelledby="tour-h">
         <h2 id="tour-h">Before you tour</h2>

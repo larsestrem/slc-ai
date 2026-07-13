@@ -126,7 +126,7 @@ def card(f):
         "city_name": f["city_name"], "state_abbrev": f["state_abbrev"],
         "care_levels": f.get("care_levels", []),
     }
-    for k in ("facility_size", "cms_rating_overall", "description"):
+    for k in ("facility_size", "cms_rating_overall", "google_rating", "google_review_count", "description"):
         if f.get(k):
             c[k] = f[k]
     return c

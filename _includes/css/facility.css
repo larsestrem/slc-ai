@@ -5,9 +5,20 @@
 .photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
 .claim { border-left: 4px solid var(--accent); }
 
-/* Sidebar government-rating glance */
-.rating-glance .glance-stars { margin: .3rem 0; font-size: 1.1rem; }
-.rating-glance .stars { font-size: 1.2rem; }
+/* Sidebar rating-at-a-glance */
+.rating-glance .glance-row { display: flex; gap: .55rem; align-items: flex-start; margin: .5rem 0; }
+.rating-glance .glance-row + .glance-row { border-top: 1px solid var(--line); padding-top: .5rem; }
+.rating-glance .glance-row .stars { font-size: 1.15rem; flex: 0 0 auto; line-height: 1.3; }
+.rating-glance .glance-row p { margin: 0; font-size: .92rem; }
+.rating-glance .muted { color: var(--muted); font-size: .82rem; }
+.rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
+
+/* Below-stars review caveats */
+.review-caveats { margin: .7rem 0 0; }
+.review-caveats .rc-lead { margin: .2rem 0 .4rem; font-weight: 600; font-size: .95rem; }
+.review-caveats ul { margin: .2rem 0; padding-left: 1.1rem; }
+.review-caveats li { margin: .4rem 0; font-size: .9rem; }
+.review-caveats .rc-foot { margin: .5rem 0 0; font-size: .92rem; }
 
 /* Bottom-of-page ratings section */
 .ratings-block .rating-card { display: flex; gap: 1.1rem; align-items: flex-start; padding: 1rem 0; border-top: 1px solid var(--line); }

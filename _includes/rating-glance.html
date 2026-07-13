@@ -1,0 +1,48 @@
+{%- comment -%}
+Sidebar "rating at a glance" shown near the top of every facility profile, so a
+visitor who lands on the page sees the star rating immediately — with a one-line
+note on who assigns it and where it comes from, and a link to the full explainer.
+Covers the government (Medicare) star and/or the family-review star, plus the
+state-license basis for small homes.
+{%- endcomment -%}
+<section class="panel rating-glance" aria-labelledby="glance-h">
+  <h2 id="glance-h">Rating at a glance</h2>
+
+  {%- if page.cms_rating_overall %}
+  <div class="glance-row">
+    {% include stars.html rating=page.cms_rating_overall %}
+    <p><strong>{{ page.cms_rating_overall }} of 5 — Medicare rating</strong><br>
+    <span class="muted">A government score, from health inspections and staffing — not customer reviews.</span></p>
+  </div>
+  {%- endif %}
+
+  {%- if page.google_rating %}
+  <div class="glance-row">
+    {% include stars.html rating=page.google_rating %}
+    <p><strong>{{ page.google_rating }} of 5 — family reviews</strong>{% if page.google_review_count %} <span class="muted">({{ page.google_review_count }})</span>{% endif %}<br>
+    <span class="muted">Written by families and residents on public review sites.</span></p>
+  </div>
+  {%- elsif page.review_note and page.cms_rating_overall == nil %}
+  <div class="glance-row">
+    <p><strong>Family &amp; resident reviews</strong><br>
+    <span class="muted">See the review evidence, ratings, and sources below.</span></p>
+  </div>
+  {%- endif %}
+
+  {%- if page.facility_size == 'small' %}
+  <div class="glance-row">
+    <p><strong>State-licensed small care home{% if page.licensed_since %} since {{ page.licensed_since }}{% endif %}</strong>{% if page.specialties and page.specialties.size > 0 %}<br><span class="muted">{{ page.specialties | join: ", " }}</span>{% endif %}<br>
+    <span class="muted">Licensed and inspected by {{ page.state_name }} — small homes carry no Medicare star.</span></p>
+  </div>
+  {%- endif %}
+
+  {%- unless page.cms_rating_overall or page.google_rating or page.review_note or page.facility_size == 'small' %}
+  <div class="glance-row">
+    <p><strong>No published rating on file yet</strong><br>
+    <span class="muted">We haven't recorded a Medicare star or a verified review score for this
+    community. Check its official record below and confirm what you find on a visit.</span></p>
+  </div>
+  {%- endunless %}
+
+  <p class="glance-link"><a href="#ratings-h">What these ratings mean &amp; where they come from &darr;</a></p>
+</section>

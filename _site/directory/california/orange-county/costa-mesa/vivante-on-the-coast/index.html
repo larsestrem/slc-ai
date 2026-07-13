@@ -122,6 +122,8 @@ main { display: block; padding: 1.6rem 0 3rem; }
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
 .stars .off { color: var(--line); }
+.rate-src { color: var(--muted); font-size: .8em; }
+.ratings-legend { font-size: .9rem; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -190,9 +192,20 @@ tbody tr:hover { background: var(--soft); }
 .photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
 .claim { border-left: 4px solid var(--accent); }
 
-/* Sidebar government-rating glance */
-.rating-glance .glance-stars { margin: .3rem 0; font-size: 1.1rem; }
-.rating-glance .stars { font-size: 1.2rem; }
+/* Sidebar rating-at-a-glance */
+.rating-glance .glance-row { display: flex; gap: .55rem; align-items: flex-start; margin: .5rem 0; }
+.rating-glance .glance-row + .glance-row { border-top: 1px solid var(--line); padding-top: .5rem; }
+.rating-glance .glance-row .stars { font-size: 1.15rem; flex: 0 0 auto; line-height: 1.3; }
+.rating-glance .glance-row p { margin: 0; font-size: .92rem; }
+.rating-glance .muted { color: var(--muted); font-size: .82rem; }
+.rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
+
+/* Below-stars review caveats */
+.review-caveats { margin: .7rem 0 0; }
+.review-caveats .rc-lead { margin: .2rem 0 .4rem; font-weight: 600; font-size: .95rem; }
+.review-caveats ul { margin: .2rem 0; padding-left: 1.1rem; }
+.review-caveats li { margin: .4rem 0; font-size: .9rem; }
+.review-caveats .rc-foot { margin: .5rem 0 0; font-size: .92rem; }
 
 /* Bottom-of-page ratings section */
 .ratings-block .rating-card { display: flex; gap: 1.1rem; align-items: flex-start; padding: 1rem 0; border-top: 1px solid var(--line); }
@@ -291,6 +304,16 @@ tbody tr:hover { background: var(--soft); }
     </div>
 
     <aside>
+      <section class="panel rating-glance" aria-labelledby="glance-h">
+  <h2 id="glance-h">Rating at a glance</h2>
+  <div class="glance-row">
+    <p><strong>Family &amp; resident reviews</strong><br>
+    <span class="muted">See the review evidence, ratings, and sources below.</span></p>
+  </div>
+
+  <p class="glance-link"><a href="#ratings-h">What these ratings mean &amp; where they come from &darr;</a></p>
+</section>
+
 
       <section class="panel" aria-labelledby="tour-h">
         <h2 id="tour-h">Before you tour</h2>
@@ -341,7 +364,18 @@ tbody tr:hover { background: var(--soft); }
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
       inspections. Read the recent ones and the middle-star ones, not just the average.</p>
       <p><strong>Read the reviews:</strong> <a href="https://www.aplaceformom.com/community/vivante-on-the-coast-1366717" rel="nofollow noopener">A Place for Mom</a> · <a href="https://health.usnews.com/best-assisted-living/vivante-on-the-coast-47350" rel="nofollow noopener">U.S. News</a> — see the ratings and what families wrote, then judge for yourself.</p>
-      <p><a href="/guides/interpreting-online-reviews/">How to read online reviews without being misled</a></p>
+      <div class="review-caveats">
+  <p class="rc-lead">A star average is a starting point, not a verdict. Before you weigh it, know what it can hide:</p>
+  <ul>
+    <li><strong>Who writes them.</strong> Usually adult children, not the resident — so reviews capture communication, billing, and first impressions more than the texture of daily care. <a href="/guides/interpreting-online-reviews/#who-writes-reviews">More&nbsp;&rarr;</a></li>
+    <li><strong>Emotion moves the score.</strong> People post when they're delighted or furious; the quietly satisfied middle rarely does, and reviews written in grief, guilt, or relief carry that charge. The calm three-star reviews usually hold the real trade-offs. <a href="/guides/interpreting-online-reviews/#the-emotion-behind-a-review">More&nbsp;&rarr;</a></li>
+    <li><strong>Reviews can be solicited or self-reported.</strong> A community can fairly ask happy families to post — or cross the line by gating out unhappy ones, pressuring residents, or paying. A burst of five-star reviews in a single week is a flag, not a triumph. <a href="/guides/interpreting-online-reviews/#solicited-and-self-reported-reviews">More&nbsp;&rarr;</a></li>
+    <li><strong>Counts and dates matter.</strong> A 5.0 from three reviews is a coin flip, and new management makes a 2019 review irrelevant. Small homes gather few reviews by nature — lean on the state record and your own visit. <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">Small homes&nbsp;&rarr;</a></li>
+    <li><strong>Government stars are a different thing.</strong> Medicare's nursing-home stars aren't reviews at all — they come from inspections, staffing, and clinical data. <a href="/guides/reading-inspection-reports-and-ratings/">How those work&nbsp;&rarr;</a></li>
+  </ul>
+  <p class="rc-foot"><a href="/guides/interpreting-online-reviews/">Read the full guide to reading reviews without being misled &rarr;</a></p>
+</div>
+
     </div>
   </div>
   <p class="count">We list communities that meet a verified family-review standard or hold a

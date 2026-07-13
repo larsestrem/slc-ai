@@ -121,6 +121,8 @@ main { display: block; padding: 1.6rem 0 3rem; }
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
 .stars .off { color: var(--line); }
+.rate-src { color: var(--muted); font-size: .8em; }
+.ratings-legend { font-size: .9rem; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -312,6 +314,12 @@ tbody tr:hover { background: var(--soft); }
   </div>
 
   <div class="state-list" aria-label="Communities in South Sound & Peninsula by city">
+    <p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
+<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
+(from inspections and staffing); elsewhere, ★ is a
+<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
+Each community's page shows the rating with its source, count, and date.</p>
+
     <section aria-labelledby="c-bremerton">
       <h2 id="c-bremerton">Bremerton, WA <span class="count">· Kitsap County</span></h2>
       <ul class="grid">
@@ -363,7 +371,8 @@ tbody tr:hover { background: var(--soft); }
       <ul class="grid">
         <li class="card" data-city="gig-harbor">
   <h3><a href="/directory/washington/pierce-county/gig-harbor/harbor-place-at-cottesmore/">Harbor Place at Cottesmore</a></h3>
-  <p class="meta">Gig Harbor, WA</p>
+  <p class="meta">Gig Harbor, WA · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -392,7 +401,8 @@ tbody tr:hover { background: var(--soft); }
       <ul class="grid">
         <li class="card" data-city="lacey">
   <h3><a href="/directory/washington/thurston-county/lacey/panorama/">Panorama</a></h3>
-  <p class="meta">Lacey, WA</p>
+  <p class="meta">Lacey, WA · <span class="stars" role="img" aria-label="4.6 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -422,7 +432,7 @@ tbody tr:hover { background: var(--soft); }
         <li class="card" data-city="olympia">
   <h3><a href="/directory/washington/thurston-county/olympia/olympia-transitional-care-and-rehabilitation/">Olympia Transitional Care and Rehabilitation</a></h3>
   <p class="meta">Olympia, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -434,7 +444,7 @@ tbody tr:hover { background: var(--soft); }
         <li class="card" data-city="olympia">
   <h3><a href="/directory/washington/thurston-county/olympia/providence-mother-joseph-care-center/">Providence Mother Joseph Care Center</a></h3>
   <p class="meta">Olympia, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -471,7 +481,8 @@ tbody tr:hover { background: var(--soft); }
       <ul class="grid">
         <li class="card" data-city="poulsbo">
   <h3><a href="/directory/washington/kitsap-county/poulsbo/liberty-shores-senior-living/">Liberty Shores Senior Living</a></h3>
-  <p class="meta">Poulsbo, WA</p>
+  <p class="meta">Poulsbo, WA · <span class="stars" role="img" aria-label="4.2 out of 5 stars">★★★★<span class="off">★</span></span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -530,7 +541,7 @@ tbody tr:hover { background: var(--soft); }
         <li class="card" data-city="silverdale">
   <h3><a href="/directory/washington/kitsap-county/silverdale/northwoods-lodge/">Northwoods Lodge</a></h3>
   <p class="meta">Silverdale, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -610,7 +621,7 @@ tbody tr:hover { background: var(--soft); }
         <li class="card" data-city="tacoma">
   <h3><a href="/directory/washington/pierce-county/tacoma/eliseo/">eliseo</a></h3>
   <p class="meta">Tacoma, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -629,7 +640,8 @@ tbody tr:hover { background: var(--soft); }
       <ul class="grid">
         <li class="card" data-city="university-place">
   <h3><a href="/directory/washington/pierce-county/university-place/bridgeport-place/">Bridgeport Place</a></h3>
-  <p class="meta">University Place, WA</p>
+  <p class="meta">University Place, WA · <span class="stars" role="img" aria-label="4.6 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>

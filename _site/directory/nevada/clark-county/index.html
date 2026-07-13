@@ -122,6 +122,8 @@ main { display: block; padding: 1.6rem 0 3rem; }
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
 .stars .off { color: var(--line); }
+.rate-src { color: var(--muted); font-size: .8em; }
+.ratings-legend { font-size: .9rem; }
 .stars .half { color: var(--gold); }
 @supports ((-webkit-background-clip: text) or (background-clip: text)) {
   .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
@@ -222,12 +224,20 @@ tbody tr:hover { background: var(--soft); }
 
 
 
+
+<p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
+<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
+(from inspections and staffing); elsewhere, ★ is a
+<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
+Each community's page shows the rating with its source, count, and date.</p>
+
 <section aria-labelledby="c-boulder-city">
   <h2 id="c-boulder-city"><a href="/directory/nevada/clark-county/boulder-city/">Boulder City, NV</a></h2>
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/nevada/clark-county/boulder-city/lakeview-terrace-of-boulder-city/">Lakeview Terrace of Boulder City</a></h3>
-  <p class="meta">Boulder City, NV</p>
+  <p class="meta">Boulder City, NV · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+ <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
@@ -320,7 +330,7 @@ tbody tr:hover { background: var(--soft); }
     <li class="card">
   <h3><a href="/directory/nevada/clark-county/las-vegas/life-care-center-of-las-vegas/">Life Care Center of Las Vegas</a></h3>
   <p class="meta">Las Vegas, NV · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -358,7 +368,7 @@ tbody tr:hover { background: var(--soft); }
     <li class="card">
   <h3><a href="/directory/nevada/clark-county/mesquite/highland-manor-of-mesquite/">Highland Manor of Mesquite</a></h3>
   <p class="meta">Mesquite, NV · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -374,7 +384,7 @@ tbody tr:hover { background: var(--soft); }
     <li class="card">
   <h3><a href="/directory/nevada/clark-county/north-las-vegas/college-park-rehabilitation-center/">College Park Rehabilitation Center</a></h3>
   <p class="meta">North Las Vegas, NV · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
-</p>
+ <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>

@@ -14,9 +14,14 @@ related:
 faqs: [{"q": "Why not just hide the low-rated ones and only show good communities?", "a": "Two reasons. First, families searching for a specific community by name deserve the real record, not a blank page — hiding it doesn't protect anyone, it just leaves them uninformed. Second, a directory that only shows the highest-rated places quietly misleads families in areas where nothing nearby is highly rated, by implying options exist elsewhere that they can't actually reach."}, {"q": "Isn't it dangerous to list a community with serious problems at all?", "a": "We think it's more dangerous not to. A family that finds nothing when they search a name will assume it isn't in our directory yet, not that we know something troubling. Listing it, with the specific finding, its source, and its date, gives them the one thing that actually protects them: the truth, in time to act on it."}, {"q": "Is the 3-star / 4.2 threshold a validated safety standard?", "a": "No, and we don't want to imply otherwise. It's our own editorial choice for sorting a long list, not research-backed clinical or safety science, and a federal inspection score and a consumer review average aren't the same kind of measurement even though we sort by both. Read the specific numbers on each page rather than relying on the label alone."}, {"q": "How do you decide the tier?", "a": "It's computed automatically from the same data shown on the page — the Medicare star rating, documented review ratings, or (for small homes) the state license standing — never guessed or assigned by hand. If we haven't captured rating data yet, a community shows as unrated rather than being assigned a tier it hasn't earned."}, {"q": "Should I ever choose a \"lower-rated\" community?", "a": "Sometimes, yes — context matters. If it's the closest option and you can visit often, or the only one that takes your parent's insurance, or your own visit turns up something the rating doesn't capture, it can still be the right choice for your family. Read the full record, ask the community directly about what you find, and compare it honestly against the alternatives."}]
 ---
 
-Type a community's name into our directory and you'll find it — whatever its rating. That's a
-deliberate choice, and this page explains it: why we list nearly every community we can verify,
-what our tier labels mean, and how to use a low rating without either panicking or ignoring it.
+Within the {{ site.data.stats.visible_total.states }} states we currently cover, if a community's
+name is in our directory, you'll find it there — whatever its rating. That's a deliberate choice.
+Our directory is **not a complete registry**: we currently have
+{{ site.data.stats.visible_total.facilities }} verified listings across
+{{ site.data.stats.visible_total.cities }} cities, and those states license more communities than
+we've added so far. This page explains the policy for what we *have* added: why we don't hide a
+listed community for having a low rating, what our tier labels mean, and how to use a low rating
+without either panicking or ignoring it.
 
 ## Why we list everything, not just the highest-rated
 

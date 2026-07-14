@@ -14,6 +14,12 @@ guides, built to help you decide well.
 
 ## How we source facility data
 
+Our directory currently contains **{{ site.data.stats.visible_total.facilities }} verified
+listings** across **{{ site.data.stats.visible_total.cities }} cities** in
+**{{ site.data.stats.visible_total.states }} states**. It is **not a complete registry** of every
+licensed senior living provider — those states have more licensed communities than we've
+verified and added so far. Coverage is growing state by state.
+
 - **Government records first.** [Skilled nursing](/guides/skilled-nursing/) facilities come with federal CMS Care Compare
   records (star ratings, inspections, staffing). [Assisted living](/guides/assisted-living/) and small care homes are
   licensed and inspected by each state; we link to the official license lookup for every state
@@ -23,8 +29,9 @@ guides, built to help you decide well.
   verification date and sources.
 - **Corrections welcome.** Communities and families can [report updates](/for-communities/) —
   listings improve over time.
-- **We list every community we can verify, not just the highest-rated ones** — rated honestly
-  and labeled by tier instead of hidden. See [why, and what our labels mean](/guides/how-we-list-communities/).
+- **Within what we've covered, we list every community we can verify, not just the
+  highest-rated ones** — rated honestly and labeled by tier instead of hidden. See
+  [why, and what our labels mean](/guides/how-we-list-communities/).
 
 Facility details change frequently. Always confirm availability, pricing, and services directly
 with a community before making decisions.

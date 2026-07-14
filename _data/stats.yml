@@ -3,6 +3,10 @@ total:
   facilities: 669
   cities: 319
   counties: 125
+visible_total:  # states without `hidden: true` in _data/states.yml — what families can actually browse to
+  facilities: 413
+  cities: 140
+  states: 4
 states:
   arizona:
     facilities: 18

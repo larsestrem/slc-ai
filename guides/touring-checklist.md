@@ -56,7 +56,7 @@ Granite countertops don't provide care; people do. During the tour:
 
 ## Eat the food
 
-Ask to stay for a meal with residents. [Food](/guides/food-and-dining/) is the thing residents complain about most and one of the biggest quality-of-life factors. Notice whether the posted menu matches what's served, whether staff help slow eaters without rushing them, and whether residents are talking to each other. A facility that won't let you eat in the dining room is telling you something.
+Ask to stay for a meal with residents. [Food](/guides/food-and-dining/) is a frequent source of resident complaints and one of the biggest quality-of-life factors. Notice whether the posted menu matches what's served, whether staff help slow eaters without rushing them, and whether residents are talking to each other. If a facility won't let you eat in the dining room, ask why, and factor that into your decision.
 
 ## Come back unannounced
 

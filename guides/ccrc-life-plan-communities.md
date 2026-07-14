@@ -58,7 +58,7 @@ State oversight varies enormously. Some states require annual audited disclosure
 
 > **Ask this:** "May I have your last three audited financial statements, your current occupancy by level of care, and the date and result of your most recent actuarial study?" A financially healthy community hands these over without flinching. Evasion is your answer.
 
-Have an elder law attorney or a CPA review the contract and disclosures before signing. This is one of the largest financial commitments most families ever make; a few hundred dollars of professional review is cheap insurance.
+Have an elder law attorney or a CPA review the contract and disclosures before signing. This is one of the largest financial commitments most families ever make, and professional review costs are modest by comparison.
 
 ## Who a CCRC fits — and who it doesn't
 

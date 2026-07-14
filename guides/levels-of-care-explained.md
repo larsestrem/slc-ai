@@ -44,8 +44,9 @@ right community meets your parent where they are and has a plan for what comes n
 
 **Needs climb — plan for the next rung.** Most people move up the ladder over time. The two
 questions that matter at every level: *"What happens when my parent needs more care than this
-level provides?"* and *"What would trigger a required move?"* A community that answers vaguely
-is telling you something. Communities offering several levels on one campus — and especially
+level provides?"* and *"What would trigger a required move?"* Push for a specific, concrete
+answer — a vague one is worth following up on before you sign anything. Communities offering
+several levels on one campus — and especially
 [CCRCs](/guides/ccrc-life-plan-communities/) — exist precisely so that moving up doesn't mean
 moving out.
 

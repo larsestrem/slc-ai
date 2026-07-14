@@ -73,7 +73,7 @@ If you hold power of attorney, sign **"Jane Smith, as agent/POA for Mary Smith"*
 
 ## When to pay an attorney for an hour
 
-An **elder law attorney** review typically costs a few hundred dollars for an hour or two. It's worth it when a large entrance fee or CCRC contract is involved; when you're asked to sign as responsible party; when Medicaid is likely within a few years; or when the discharge, refund, or arbitration language confuses you. Against a move costing $60,000-100,000+ a year, it's cheap insurance. While you're being thorough, spend twenty minutes on the community's regulatory record too — our guide to [checking complaints and state records](/guides/checking-complaints-and-state-records/) shows how.
+An **elder law attorney** review's cost varies by attorney, market, and contract complexity — ask upfront. It's worth considering when a large entrance fee or CCRC contract is involved; when you're asked to sign as responsible party; when Medicaid is likely within a few years; or when the discharge, refund, or arbitration language confuses you. Weighed against a move costing $60,000-100,000+ a year, it's a modest cost for legal clarity. While you're being thorough, spend twenty minutes on the community's regulatory record too — our guide to [checking complaints and state records](/guides/checking-complaints-and-state-records/) shows how.
 
 *This page is general education, not legal advice. Contract law and resident protections vary by state; an elder law attorney can review your specific agreement.*
 

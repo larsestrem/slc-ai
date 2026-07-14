@@ -36,7 +36,7 @@ Most assisted living and memory care communities split the monthly bill into two
 
 **Care charges** are added on top, based on how much help your parent needs — medication management, bathing assistance, dressing, escorting to meals, and so on. Communities price this as tiered "levels of care" (Level 1, 2, 3...) or as a point system where every task carries a point value. Care charges commonly add $500 to $2,500+ per month to base rent.
 
-Here's what insiders know: the advertised rate is almost never what a person who actually needs assisted living will pay. A community assesses your parent before move-in and assigns a care level, and that assessment — not the brochure — determines the real monthly cost. Always ask for a written estimate based on your parent's actual assessment, not the starting rate.
+The advertised rate is often not the final number for someone who actually needs assisted living. A community assesses your parent before move-in and assigns a care level, and that assessment — not the brochure — determines the real monthly cost. Always ask for a written estimate based on your parent's actual assessment, not the starting rate.
 
 > **Ask this:** "Based on your assessment of my mother, what will her total first-month and ongoing monthly cost be — base rent, care level, and all recurring fees combined, in writing?"
 
@@ -50,14 +50,14 @@ Don't assume the cheapest market is automatically the answer, though. Moving a p
 
 The price you sign at move-in is a starting point, not a ceiling. Costs rise two ways, and they compound:
 
-- **Annual rate increases.** Most communities raise rates every year, historically about 3-8%. Recent years have seen larger jumps in many markets due to labor costs.
+- **Annual rate increases.** Most communities raise rates every year; the increase varies by community and market, and recent years have seen larger jumps in many places due to labor costs. Ask each community for its rate-increase history over the last several years — a real number beats a national estimate.
 - **Rising care levels.** As your parent's needs grow, their care level (and its charge) goes up. A move from Level 1 to Level 3 can add $1,000-$2,000 a month — without any annual increase at all.
 
-Put together, it is normal for a resident's monthly bill to be 30-50% higher three years after move-in. When you budget, don't ask "can we afford this today?" Ask "can we afford this in year three?" And read [what's not included and hidden fees](/guides/whats-not-included-hidden-fees/) before you sign anything.
+Put together, it's common for a resident's monthly bill to be substantially higher — sometimes by half or more — three years after move-in, though this varies widely by community and region. When you budget, don't ask "can we afford this today?" Ask "can we afford this in year three?" And read [what's not included and hidden fees](/guides/whats-not-included-hidden-fees/) before you sign anything.
 
 > **Ask this:** "What were your actual rate increases in each of the last three years, and what does your highest level of care cost right now?"
 
-A community that won't answer that question plainly is telling you something.
+If a community won't answer that question plainly, ask why, and keep pressing until you get a real number — it's information you need before you sign anything.
 
 ## Comparing quotes apples-to-apples
 

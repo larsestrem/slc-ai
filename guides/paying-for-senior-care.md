@@ -41,7 +41,7 @@ Claiming takes work:
 
 - Locate the policy and call the insurer for a current benefits summary.
 - Watch the **elimination period** — a 30-, 60-, or 90-day deductible period the family pays before benefits begin.
-- Expect paperwork: care assessments, physician statements, itemized facility invoices. Denials happen; appeals often succeed.
+- Expect paperwork: care assessments, physician statements, itemized facility invoices. Denials happen; some can be challenged through the insurer's appeals process.
 - Some policies pay the facility directly; most reimburse you, so plan cash flow for the lag.
 
 Start the claim the moment care looks likely — benefits usually can't be paid retroactively before the claim and elimination period run.
@@ -62,17 +62,17 @@ A life insurance policy your parent no longer needs can become care money:
 - **Life settlement:** selling the policy to a third party for more than surrender value but less than the death benefit.
 - **Long-term-care conversion:** converting the policy into a fund that pays the care community directly.
 
-Honest truth: these options pay pennies on the dollar of the death benefit, and the industry around them is commission-driven. They make sense mainly when the alternative is letting a policy lapse. Compare offers and have a fee-only financial advisor or elder law attorney review terms first.
+The amount received is generally less than the full death benefit, and can carry tax, Medicaid-eligibility, and commission implications that vary by policy type, age, health, and the settlement market. These options make sense mainly when the alternative is letting a policy lapse. Compare offers and have a fee-only financial advisor or elder law attorney review terms first.
 
 ## Annuities and family cost-sharing
 
-**Annuities:** converting savings into a guaranteed income stream can help cover a predictable monthly gap, and specific Medicaid-compliant annuities are used in spousal planning. But annuities sold at "senior seminars" are a notorious problem area — high commissions, long surrender penalties. Never buy one to "protect assets from the [nursing home](/guides/skilled-nursing/)" without independent elder law advice.
+**Annuities:** converting savings into a guaranteed income stream can help cover a predictable monthly gap, and specific Medicaid-compliant annuities are used in spousal planning. But state insurance regulators and consumer advocates have repeatedly flagged annuities sold at "senior seminars" for high commissions and long surrender penalties — read the terms carefully. Never buy one to "protect assets from the [nursing home](/guides/skilled-nursing/)" without independent elder law advice.
 
 **Family cost-sharing:** when siblings chip in, put it in writing — who pays what, what happens if someone's finances change, and how contributions are treated later (gift vs. loan vs. reimbursable from the estate). A short written agreement drafted with an attorney prevents the most common and most painful family fights. If an adult child is providing substantial care themselves, a formal **personal care agreement** can compensate them without jeopardizing future Medicaid eligibility — again, this must be drafted properly.
 
 ## When Medicaid enters the picture
 
-For families without deep resources — which is most families — Medicaid is the eventual payer for long-term care, especially nursing home care. Many residents start as private pay and "spend down" to Medicaid eligibility over a few years.
+Medicaid is a major payer of long-term nursing home care nationally, and for families without deep resources, it's often part of the eventual plan — especially for nursing home stays, less consistently for assisted living. Many residents who reach that point start as private pay and "spend down" to Medicaid eligibility over a few years, though timelines and outcomes vary a great deal by family and state.
 
 The essentials: Medicaid has strict income and asset limits, a **five-year look-back** on gifts and transfers, spousal protections, and coverage that reliably includes nursing homes but only sometimes covers assisted living (through state HCBS waivers, often with waiting lists). Crucially, many assisted living communities don't accept Medicaid at all, or only after years of private pay — so if Medicaid is a realistic endpoint, choose a community with that in mind from day one. The full picture is in [Medicaid vs. Medicare](/guides/medicaid-vs-medicare/).
 

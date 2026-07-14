@@ -12,7 +12,7 @@ related:
   - /guides/cost-of-senior-living/
   - /guides/reading-inspection-reports-and-ratings/
   - /guides/coping-with-the-decision/
-faqs: [{"q": "How long does the whole process take?", "a": "Families who aren't in crisis typically spend one to three months from first research to move-in. After a hospitalization, you may have days — which is why doing steps 1-4 before a crisis is the best gift you can give yourself."}, {"q": "Should we choose the facility closest to my parent's home or to mine?", "a": "Usually yours, or whichever family member will visit most. Frequent family presence is one of the strongest protections a resident has, and your parent's old neighborhood matters less once they can't drive to it."}, {"q": "What if my parent refuses to consider moving?", "a": "Start small: a needs assessment, lunch at one community, a respite stay \"while the bathroom is remodeled.\" Involve their doctor, who they may hear differently than they hear you. If dementia is impairing judgment, talk to an elder law attorney about your options."}, {"q": "Is the most expensive facility the safest choice?", "a": "No. Price tracks real estate and amenities more than care quality. A modestly priced community with stable staff and clean inspection reports routinely outperforms a luxury building with high turnover."}]
+faqs: [{"q": "How long does the whole process take?", "a": "Families who aren't in crisis typically spend one to three months from first research to move-in. After a hospitalization, you may have days — which is why doing steps 1-4 before a crisis is the best gift you can give yourself."}, {"q": "Should we choose the facility closest to my parent's home or to mine?", "a": "Usually yours, or whichever family member will visit most. Frequent visits may help families notice changes, communicate with staff, and raise concerns earlier, and your parent's old neighborhood matters less once they can't drive to it."}, {"q": "What if my parent refuses to consider moving?", "a": "Start small: a needs assessment, lunch at one community, a respite stay \"while the bathroom is remodeled.\" Involve their doctor, who they may hear differently than they hear you. If dementia is impairing judgment, talk to an elder law attorney about your options."}, {"q": "Is the most expensive facility the safest choice?", "a": "No. Price tracks real estate and amenities more than care quality. A modestly priced community with stable staff and clean inspection reports routinely outperforms a luxury building with high turnover."}]
 ---
 
 If you're reading this, something has probably changed — a fall, a diagnosis, a slow realization that Mom or Dad can't manage alone anymore. Choosing a senior care facility is one of the hardest decisions most families ever make, and almost nobody gets training for it. This guide walks you through the whole process, step by step, from "we need help" to move-in day.
@@ -59,14 +59,12 @@ Aim for four to six facilities to research seriously, and three to tour.
 close in quality, the closer facility is often the better real-world choice, and not just for
 your convenience. Distance changes what kind of family your parent has. A community you can
 reach in ten minutes gets a Tuesday lunch, a last-minute worry, an unannounced stop at dinner
-time. A "better" community ninety minutes away gets you every other Saturday. Frequent,
-informal visits are one of the strongest protections a resident has: you notice small changes
-before they become emergencies, staff learn your face and know your parent is watched, and a
-community with a habit of families dropping in unannounced tends to hold itself to a higher
-standard day to day than one that mostly sees people on move-in day and holidays. So, all else
-being roughly equal — clean inspection record, no serious red flags — a 4-star facility ten
-minutes away can be the more protective choice over a 5-star facility across town. This isn't a
-reason to accept real problems for convenience; it's a reason not to let a half-star difference
+time. A "better" community ninety minutes away gets you every other Saturday. Frequent, informal
+visits may help you notice small changes before they become emergencies, build a relationship
+with staff, and raise concerns sooner. So, all else being roughly equal — clean inspection
+record, no serious red flags — a 4-star facility ten minutes away can be a reasonable choice
+over a 5-star facility across town, if the closer one is one you'll actually visit often. This
+isn't a reason to accept real problems for convenience; it's a reason not to let a half-star difference
 override the value of showing up often.
 
 ## Step 4: Check the paper trail before you visit
@@ -134,7 +132,7 @@ forever.
 Families who aren't in crisis typically spend one to three months from first research to move-in. After a hospitalization, you may have days — which is why doing steps 1-4 before a crisis is the best gift you can give yourself.
 
 **Should we choose the facility closest to my parent's home or to mine?**
-Usually yours, or whichever family member will visit most. Frequent family presence is one of the strongest protections a resident has, and your parent's old neighborhood matters less once they can't drive to it.
+Usually yours, or whichever family member will visit most. Frequent visits may help families notice changes, communicate with staff, and raise concerns earlier, and your parent's old neighborhood matters less once they can't drive to it.
 
 **What if my parent refuses to consider moving?**
 Start small: a needs assessment, lunch at one community, a respite stay "while the bathroom is remodeled." Involve their doctor, who they may hear differently than they hear you. If dementia is impairing judgment, talk to an elder law attorney about your options.

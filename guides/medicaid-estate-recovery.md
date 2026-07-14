@@ -72,7 +72,7 @@ This is the single most important sentence on this page: **talk to a certified e
 
 Why before? Because the legitimate planning tools — how the home is titled, certain trusts, spousal transfers, caregiver child documentation — mostly must be in place early, and Medicaid reviews five years of financial history (the "look-back period") when your parent applies. Gifts and transfers made during that window can trigger penalty periods that delay eligibility. An attorney can navigate this legally; do-it-yourself transfers often backfire badly.
 
-A consultation typically costs a few hundred dollars. Compared to a home worth hundreds of thousands, it is the cheapest insurance your family will ever buy. Look for attorneys through the National Academy of Elder Law Attorneys (naela.org). This page is education, not legal advice — your situation needs individual review.
+Consultation fees vary by attorney and market — ask upfront. Weighed against a home worth hundreds of thousands of dollars, it's a small cost for legal certainty on something this consequential. Look for attorneys through the National Academy of Elder Law Attorneys (naela.org). This page is education, not legal advice — your situation needs individual review.
 
 > **Ask this:** When you interview an elder law attorney, ask: "How does estate recovery work in this state specifically — probate-only or expanded — and what can we still do given the five-year look-back?"
 

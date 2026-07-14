@@ -22,7 +22,7 @@ capacity: 80
 organization: "avamere-family-of-companies"
 organization_name: "Avamere Family of Companies"
 cms_ccn: "385234"
-cms_rating_overall: 4
+cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/salem-transitional-care-385234", "https://www.avamere.com/salem-transitional-care/rehabilitation", "https://ltclicensing.oregon.gov/Facilities/Details/385234"]
 verified_date: "2026-07-12"
 quality_tier: "meets_standard"

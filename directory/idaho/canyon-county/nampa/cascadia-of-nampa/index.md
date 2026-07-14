@@ -21,7 +21,7 @@ capacity: 99
 organization: "cascadia-healthcare"
 organization_name: "Cascadia Healthcare"
 cms_ccn: "135144"
-cms_rating_overall: 4
+cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-nampa-135144", "https://www.medicare.gov/care-compare/details/nursing-home/135144"]
 verified_date: "2026-07-13"
 quality_tier: "meets_standard"

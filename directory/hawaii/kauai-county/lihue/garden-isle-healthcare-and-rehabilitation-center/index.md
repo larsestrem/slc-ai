@@ -22,7 +22,11 @@ capacity: 109
 organization: "ohana-pacific-health"
 organization_name: "Ohana Pacific Health"
 cms_ccn: "125004"
-cms_rating_overall: 4
+cms_rating_overall: 5
+cms_health_inspection_rating: 3
+cms_staffing_rating: 5
+cms_quality_measure_rating: 5
+cms_data_as_of: "2026-01-01"
 sources: ["https://www.ohanapacific.com/locations/kauai/lihue/garden-isle-rehabilitation-healthcare-center", "https://health.usnews.com/best-nursing-homes/area/hi/garden-isle-healthcare-and-rehabilitation-center-125004", "https://www.nursinghomesite.com/GARDEN_ISLE_HEALTHCARE_AND_REHABILITATION_CENTER_LIHUE_HI"]
 verified_date: "2026-07-12"
 quality_tier: "meets_standard"

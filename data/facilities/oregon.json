@@ -2634,7 +2634,7 @@
       "facility_size": "large",
       "capacity": 180,
       "cms_ccn": "385112",
-      "cms_rating_overall": 5,
+      "cms_rating_overall": 3,
       "description": "West Hills Health & Rehabilitation is a 180-bed skilled nursing facility in southwest Portland that has served the area since 1970, providing short-term rehabilitation and long-term care. U.S. News reports a 5-out-of-5 overall CMS rating and a High Performing short-term rehabilitation rating.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/west-hills-health-rehabilitation-center-portland-385112",
@@ -2696,7 +2696,7 @@
       "organization": "avamere-family-of-companies",
       "organization_name": "Avamere Family of Companies",
       "cms_ccn": "385234",
-      "cms_rating_overall": 4,
+      "cms_rating_overall": 3,
       "description": "Salem Transitional Care is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Salem focused on post-acute rehabilitation. It holds a 4-star overall CMS rating, including a 5-star quality measure rating, and is part of the Avamere family of post-acute care providers.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/salem-transitional-care-385234",
@@ -3744,13 +3744,21 @@
       "organization": "avamere",
       "organization_name": "Avamere",
       "cms_ccn": "385229",
-      "cms_rating_overall": 4,
+      "cms_rating_overall": 1,
       "description": "A 53-bed Avamere skilled nursing and rehabilitation center in Junction City, Lane County. It offers short-term rehabilitation and long-term care, earning a 5-star CMS quality-measure rating. CMS rates it 4 out of 5 stars overall.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-junction-city-385229",
         "https://www.medicare.gov/care-compare/details/nursing-home/385229/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-13",
+      "cms_health_inspection_rating": 1,
+      "cms_staffing_rating": 1,
+      "cms_quality_measure_rating": 2,
+      "serious_concern": true,
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
+      "concern_type": "Federal enforcement fine (approximately $158,000 over three years)",
+      "concern_status": "Confirm current enforcement status directly on Care Compare",
+      "concern_source_url": "https://www.nursinghomesite.com/AVAMERE_REHABILITATION_OF_JUNCTION_CITY_JUNCTION_CITY_OR"
     },
     {
       "name": "Cedar Village by Cogir",

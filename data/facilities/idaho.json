@@ -406,7 +406,7 @@
       "organization": "tanabell-health-services",
       "organization_name": "Tanabell Health Services",
       "cms_ccn": "135136",
-      "cms_rating_overall": 5,
+      "cms_rating_overall": 3,
       "description": "Quinn Meadows Rehabilitation and Care Center is a 41-bed Medicare- and Medicaid-certified skilled nursing facility in Pocatello offering short-term rehabilitation and long-term care. It holds a CMS overall rating of 5 out of 5 stars and a High Performing short-term rehabilitation rating from U.S. News, and has participated in Medicare since 2009. It is operated by Idaho-based Tanabell Health Services.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/quinn-meadows-rehabilitation-and-care-center-135136",
@@ -907,7 +907,7 @@
       "organization": "cascadia-healthcare",
       "organization_name": "Cascadia Healthcare",
       "cms_ccn": "135144",
-      "cms_rating_overall": 4,
+      "cms_rating_overall": 3,
       "description": "A 99-bed skilled nursing and short-term rehabilitation center in Nampa operated by Cascadia Healthcare. It carries a CMS overall rating of 4 stars, including a 5-star quality-measures score. Offers Medicare- and Medicaid-certified post-acute and long-term care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-nampa-135144",
@@ -964,7 +964,7 @@
       "capacity": 120,
       "organization": "life-care-centers-of-america",
       "organization_name": "Life Care Centers of America",
-      "cms_ccn": "135142",
+      "cms_ccn": "135135",
       "cms_rating_overall": 5,
       "description": "A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. It holds a CMS overall rating of 5 stars, with 5-star health-inspection and quality-measure scores, and was named a U.S. News 2026 Best Nursing Home. Provides short-term rehab and long-term skilled care.",
       "sources": [
@@ -1021,7 +1021,7 @@
       "organization": "idaho-division-of-veterans-services",
       "organization_name": "Idaho Division of Veterans Services",
       "cms_ccn": "135132",
-      "cms_rating_overall": 5,
+      "cms_rating_overall": 4,
       "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Pocatello, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars with a High Performing long-term care rating. Provides long-term and rehabilitative skilled nursing care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/idaho-state-veterans-home-pocatello-135132",
@@ -1048,7 +1048,7 @@
       "facility_size": "large",
       "capacity": 119,
       "cms_ccn": "135105",
-      "cms_rating_overall": 3,
+      "cms_rating_overall": 4,
       "description": "A 119-bed skilled nursing and transitional-care center in Rexburg (formerly Rexburg Care and Rehabilitation Center). It holds a CMS overall rating of 3 stars, with a 5-star quality-measures score and 4-star staffing. Serves Madison County and the eastern Idaho region.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/rexburg-care-rehabilitation-center-135105",
@@ -1107,13 +1107,21 @@
       "organization": "idaho-division-of-veterans-services",
       "organization_name": "Idaho Division of Veterans Services",
       "cms_ccn": "135133",
-      "cms_rating_overall": 5,
+      "cms_rating_overall": 2,
       "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Lewiston, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars, with 5-star staffing. Provides long-term and rehabilitative skilled nursing care in the Lewiston-Clarkston valley.",
       "sources": [
         "https://www.medicare.gov/care-compare/details/nursing-home/135133",
         "https://veterans.idaho.gov/veterans-home/lewiston/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-13",
+      "cms_health_inspection_rating": 1,
+      "cms_staffing_rating": 5,
+      "cms_quality_measure_rating": 3,
+      "serious_concern": true,
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
+      "concern_type": "Special Focus Facility",
+      "concern_status": "Active per current CMS data — the facility was previously shown with an incorrect 5-star overall rating on this site; confirm current status directly on Care Compare",
+      "concern_source_url": "https://www.nursinghomesite.com/IDAHO_STATE_VETERANS_HOME_-_LEWISTON_LEWISTON_ID"
     },
     {
       "name": "Cascadia of Lewiston",
@@ -1137,7 +1145,7 @@
       "organization": "cascadia-healthcare",
       "organization_name": "Cascadia Healthcare",
       "cms_ccn": "135145",
-      "cms_rating_overall": 5,
+      "cms_rating_overall": 4,
       "description": "A 34-bed skilled nursing and short-term rehabilitation center in Lewiston operated by Cascadia Healthcare, emphasizing private rooms with private baths. It holds a CMS overall rating of 5 stars. Located near St. Joseph Regional Medical Center and Tri-State Memorial Hospital.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-lewiston-135145",

@@ -22,7 +22,11 @@ capacity: 57
 organization: "encore-communities"
 organization_name: "Encore Communities"
 cms_ccn: "505484"
-cms_rating_overall: 5
+cms_rating_overall: 3
+cms_health_inspection_rating: 5
+cms_staffing_rating: 5
+cms_quality_measure_rating: 4
+cms_data_as_of: "2026-02-01"
 sources: ["https://www.nursinghomesite.com/NORTHWOODS_LODGE_SILVERDALE_WA", "https://www.seniorcare.com/nursing-homes/wa/silverdale/northwoods-lodge/505484/", "https://encorecommunities.com/northwoods-lodge/", "https://www.yelp.com/biz/northwoods-lodge-silverdale"]
 verified_date: "2026-07-12"
 quality_tier: "meets_standard"

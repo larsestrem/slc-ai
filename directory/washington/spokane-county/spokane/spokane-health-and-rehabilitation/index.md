@@ -19,11 +19,17 @@ care_levels: ["skilled-nursing"]
 facility_size: "large"
 capacity: 125
 cms_ccn: "505322"
-cms_rating_overall: 2
+cms_rating_overall: 1
+cms_staffing_rating: 1
 sources: ["https://carelistings.com/skilled-nursing-facilities/spokane-wa/spokane-health-rehabilitation/5ace891a93efd2372f9923fd", "https://www.medicare.gov/care-compare/details/nursing-home/505322/view-all/?state=WA", "https://spokanehrc.com/contact-us/"]
 verified_date: "2026-07-13"
 review_note: "CMS overall rating 2/5 stars (health inspection 1 star, staffing 2 stars, quality measures 5 stars), per public CMS Care Compare data reported by carelistings.com (July 2026)."
-quality_tier: "below_standard"
+serious_concern: true
+concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
+concern_type: "Special Focus Facility"
+concern_status: "Active per current CMS Care Compare data — confirm current status directly"
+concern_source_url: "https://www.oversightreports.com/facility/505322"
+quality_tier: "serious_concerns"
 description_full: "Spokane Health & Rehabilitation is a Medicare- and Medicaid-certified skilled nursing facility with 125 beds at 6025 N Assembly St in Spokane. It offers short-term rehabilitation and long-term skilled nursing care. Its federal overall quality rating is 2 out of 5 stars, driven primarily by a 1-star health inspection score."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/skilled-nursing-facilities/spokane-wa/spokane-health-rehabilitation/5ace891a93efd2372f9923fd"}]
 ---

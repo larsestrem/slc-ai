@@ -20,7 +20,7 @@ facility_size: "large"
 capacity: 120
 organization: "life-care-centers-of-america"
 organization_name: "Life Care Centers of America"
-cms_ccn: "135142"
+cms_ccn: "135135"
 cms_rating_overall: 5
 sources: ["https://lcca.com/locations/id/post-falls/", "https://www.medicare.gov/care-compare/details/nursing-home/135142"]
 verified_date: "2026-07-13"

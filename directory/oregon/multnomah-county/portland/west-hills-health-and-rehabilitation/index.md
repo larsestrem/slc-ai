@@ -20,7 +20,7 @@ care_levels: ["skilled-nursing"]
 facility_size: "large"
 capacity: 180
 cms_ccn: "385112"
-cms_rating_overall: 5
+cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/west-hills-health-rehabilitation-center-portland-385112", "https://www.ohca.com/facility-finder/west-hills-health-rehabilitation/", "https://ltclicensing.oregon.gov/Facilities/Details/385112"]
 verified_date: "2026-07-12"
 quality_tier: "meets_standard"

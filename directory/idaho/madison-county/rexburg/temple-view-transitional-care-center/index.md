@@ -19,7 +19,7 @@ care_levels: ["skilled-nursing"]
 facility_size: "large"
 capacity: 119
 cms_ccn: "135105"
-cms_rating_overall: 3
+cms_rating_overall: 4
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/rexburg-care-rehabilitation-center-135105", "https://www.medicare.gov/care-compare/details/nursing-home/135105"]
 verified_date: "2026-07-13"
 quality_tier: "meets_standard"

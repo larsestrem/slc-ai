@@ -4,7 +4,7 @@ title: "Quinn Meadows Rehabilitation and Care Center"
 seo_title: "Quinn Meadows Rehabilitation and Care Center — Senior Living in Pocatello, ID"
 description: "Quinn Meadows Rehabilitation and Care Center is a 41-bed Medicare- and Medicaid-certified skilled nursing facility in Pocatello offering short-term rehabilita"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Quinn Meadows Rehabilitation and Care Center", "url": "/directory/idaho/bannock-county/pocatello/quinn-meadows-rehabilitation-and-care-center/"}]
-nearby: [{"name": "Caring Hearts Assisted Living", "url": "/directory/idaho/bannock-county/pocatello/caring-hearts-assisted-living-pocatello/", "city_name": "Pocatello", "state_abbrev": "ID", "care_levels": ["assisted-living"], "quality_tier": "meets_standard", "facility_size": "small", "description": "Caring Hearts Assisted Living is a small, 15-resident assisted living home in Pocatello offering one-on-one personal care."}, {"name": "Idaho State Veterans Home - Pocatello", "url": "/directory/idaho/bannock-county/pocatello/idaho-state-veterans-home-pocatello/", "city_name": "Pocatello", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "quality_tier": "meets_standard", "facility_size": "large", "cms_rating_overall": 5, "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Pocatello, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars with a High Performing long-term care rating. Provides long-term and rehabilitative skilled nursing care."}]
+nearby: [{"name": "Caring Hearts Assisted Living", "url": "/directory/idaho/bannock-county/pocatello/caring-hearts-assisted-living-pocatello/", "city_name": "Pocatello", "state_abbrev": "ID", "care_levels": ["assisted-living"], "quality_tier": "meets_standard", "facility_size": "small", "description": "Caring Hearts Assisted Living is a small, 15-resident assisted living home in Pocatello offering one-on-one personal care."}, {"name": "Idaho State Veterans Home - Pocatello", "url": "/directory/idaho/bannock-county/pocatello/idaho-state-veterans-home-pocatello/", "city_name": "Pocatello", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "quality_tier": "meets_standard", "facility_size": "large", "cms_rating_overall": 4, "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Pocatello, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars with a High Performing long-term care rating. Provides long-term and rehabilitative skilled nursing care."}]
 state: "idaho"
 state_name: "Idaho"
 state_abbrev: "ID"
@@ -22,7 +22,7 @@ capacity: 41
 organization: "tanabell-health-services"
 organization_name: "Tanabell Health Services"
 cms_ccn: "135136"
-cms_rating_overall: 5
+cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/quinn-meadows-rehabilitation-and-care-center-135136", "https://tanabell.com/quinn-meadows-rehabilitation-and-care/", "https://www.healthcare6.com/nursing-home/pocatello-id/quinn-meadows-rehabilitation-care-center-2983.html"]
 verified_date: "2026-07-12"
 quality_tier: "meets_standard"

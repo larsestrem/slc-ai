@@ -1527,37 +1527,6 @@
       "verified_date": "2026-07-12"
     },
     {
-      "name": "Providence Mother Joseph Care Center",
-      "slug": "providence-mother-joseph-care-center",
-      "state": "washington",
-      "state_name": "Washington",
-      "state_abbrev": "WA",
-      "county": "thurston",
-      "county_name": "Thurston",
-      "city": "olympia",
-      "city_name": "Olympia",
-      "address": "3333 Ensign Rd NE",
-      "zip": "98506",
-      "phone": "(360) 493-4900",
-      "website": "https://www.providence.org/locations/wa/mother-joseph-care-center",
-      "care_levels": [
-        "skilled-nursing"
-      ],
-      "facility_size": "large",
-      "capacity": 152,
-      "organization": "providence",
-      "organization_name": "Providence",
-      "cms_ccn": "505387",
-      "cms_rating_overall": 4,
-      "description": "Providence Mother Joseph Care Center is a 152-bed Medicare- and Medicaid-certified skilled nursing facility in Olympia, part of the Providence health system. It provides long-term skilled nursing, rehabilitation and transitional care, and holds a CMS overall rating of 4 stars, above the Washington and national averages.",
-      "sources": [
-        "https://www.seniorcare.com/nursing-homes/wa/olympia/providence-mother-joseph-care/505387/",
-        "https://www.nursinghomesite.com/PROVIDENCE_MOTHER_JOSEPH_CARE_OLYMPIA_WA",
-        "https://www.providence.org/locations/wa/mother-joseph-care-center"
-      ],
-      "verified_date": "2026-07-12"
-    },
-    {
       "name": "Bay Pointe by Cogir",
       "slug": "bay-pointe-by-cogir",
       "state": "washington",
@@ -1646,7 +1615,7 @@
       "organization": "encore-communities",
       "organization_name": "Encore Communities",
       "cms_ccn": "505484",
-      "cms_rating_overall": 5,
+      "cms_rating_overall": 3,
       "description": "Northwoods Lodge is a 57-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Silverdale, established in 1993 and part of the Encore Communities campus. It specializes in post-hospital rehabilitation with physical, occupational and speech therapy, and its nursing staff hours per resident run well above the national average.",
       "sources": [
         "https://www.nursinghomesite.com/NORTHWOODS_LODGE_SILVERDALE_WA",
@@ -1654,7 +1623,11 @@
         "https://encorecommunities.com/northwoods-lodge/",
         "https://www.yelp.com/biz/northwoods-lodge-silverdale"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-12",
+      "cms_health_inspection_rating": 5,
+      "cms_staffing_rating": 5,
+      "cms_quality_measure_rating": 4,
+      "cms_data_as_of": "2026-02-01"
     },
     {
       "name": "Canterbury Inn",
@@ -2700,13 +2673,17 @@
       "organization": "providence",
       "organization_name": "Providence",
       "cms_ccn": "505418",
-      "cms_rating_overall": 4,
+      "cms_rating_overall": 3,
       "description": "The only nonprofit skilled nursing and rehabilitation facility in the Issaquah/Sammamish area, operated by Providence, offering short-term rehab and long-term care. Its CMS overall rating is 4 stars.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/wa/providence-marianwood-505418",
         "https://www.seniorcare.com/nursing-homes/wa/issaquah/providence-marianwood/505418/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-13",
+      "cms_health_inspection_rating": 3,
+      "cms_staffing_rating": 2,
+      "cms_quality_measure_rating": 4,
+      "cms_data_as_of": "2026-03-01"
     },
     {
       "name": "Marysville Care Center",
@@ -3592,7 +3569,7 @@
       "facility_size": "large",
       "capacity": 125,
       "cms_ccn": "505322",
-      "cms_rating_overall": 2,
+      "cms_rating_overall": 1,
       "review_note": "CMS overall rating 2/5 stars (health inspection 1 star, staffing 2 stars, quality measures 5 stars), per public CMS Care Compare data reported by carelistings.com (July 2026).",
       "description": "Spokane Health & Rehabilitation is a Medicare- and Medicaid-certified skilled nursing facility with 125 beds at 6025 N Assembly St in Spokane. It offers short-term rehabilitation and long-term skilled nursing care. Its federal overall quality rating is 2 out of 5 stars, driven primarily by a 1-star health inspection score.",
       "sources": [
@@ -3600,7 +3577,13 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/505322/view-all/?state=WA",
         "https://spokanehrc.com/contact-us/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-13",
+      "cms_staffing_rating": 1,
+      "serious_concern": true,
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
+      "concern_type": "Special Focus Facility",
+      "concern_status": "Active per current CMS Care Compare data — confirm current status directly",
+      "concern_source_url": "https://www.oversightreports.com/facility/505322"
     },
     {
       "name": "Franklin Hills Health & Rehab Center",

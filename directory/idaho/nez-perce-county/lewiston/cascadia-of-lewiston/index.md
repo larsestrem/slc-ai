@@ -4,7 +4,7 @@ title: "Cascadia of Lewiston"
 seo_title: "Cascadia of Lewiston — Senior Living in Lewiston, ID"
 description: "A 34-bed skilled nursing and short-term rehabilitation center in Lewiston operated by Cascadia Healthcare, emphasizing private rooms with private baths. It ho"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Cascadia of Lewiston", "url": "/directory/idaho/nez-perce-county/lewiston/cascadia-of-lewiston/"}]
-nearby: [{"name": "Idaho State Veterans Home - Lewiston", "url": "/directory/idaho/nez-perce-county/lewiston/idaho-state-veterans-home-lewiston/", "city_name": "Lewiston", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "quality_tier": "meets_standard", "facility_size": "large", "cms_rating_overall": 5, "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Lewiston, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars, with 5-star staffing. Provides long-term and rehabilitative skilled nursing care in the Lewiston-Clarkston valley."}, {"name": "Royal Plaza Health and Rehabilitation of Cascadia", "url": "/directory/idaho/nez-perce-county/lewiston/royal-plaza-health-and-rehabilitation-of-cascadia/", "city_name": "Lewiston", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "quality_tier": "meets_standard", "facility_size": "large", "cms_rating_overall": 4, "description": "A 63-bed skilled nursing and rehabilitation center in Lewiston operated by Cascadia Healthcare. It holds a CMS overall rating of 4 stars, above the state and national averages. Provides Medicare- and Medicaid-certified post-acute and long-term skilled care."}]
+nearby: [{"name": "Royal Plaza Health and Rehabilitation of Cascadia", "url": "/directory/idaho/nez-perce-county/lewiston/royal-plaza-health-and-rehabilitation-of-cascadia/", "city_name": "Lewiston", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "quality_tier": "meets_standard", "facility_size": "large", "cms_rating_overall": 4, "description": "A 63-bed skilled nursing and rehabilitation center in Lewiston operated by Cascadia Healthcare. It holds a CMS overall rating of 4 stars, above the state and national averages. Provides Medicare- and Medicaid-certified post-acute and long-term skilled care."}, {"name": "Idaho State Veterans Home - Lewiston", "url": "/directory/idaho/nez-perce-county/lewiston/idaho-state-veterans-home-lewiston/", "city_name": "Lewiston", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "quality_tier": "serious_concerns", "facility_size": "large", "cms_rating_overall": 2, "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Lewiston, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars, with 5-star staffing. Provides long-term and rehabilitative skilled nursing care in the Lewiston-Clarkston valley."}]
 state: "idaho"
 state_name: "Idaho"
 state_abbrev: "ID"
@@ -22,7 +22,7 @@ capacity: 34
 organization: "cascadia-healthcare"
 organization_name: "Cascadia Healthcare"
 cms_ccn: "135145"
-cms_rating_overall: 5
+cms_rating_overall: 4
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-lewiston-135145", "https://www.medicare.gov/care-compare/details/nursing-home/135145"]
 verified_date: "2026-07-13"
 quality_tier: "meets_standard"

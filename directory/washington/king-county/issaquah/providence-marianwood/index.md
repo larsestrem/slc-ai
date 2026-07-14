@@ -20,7 +20,11 @@ facility_size: "large"
 organization: "providence"
 organization_name: "Providence"
 cms_ccn: "505418"
-cms_rating_overall: 4
+cms_rating_overall: 3
+cms_health_inspection_rating: 3
+cms_staffing_rating: 2
+cms_quality_measure_rating: 4
+cms_data_as_of: "2026-03-01"
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/providence-marianwood-505418", "https://www.seniorcare.com/nursing-homes/wa/issaquah/providence-marianwood/505418/"]
 verified_date: "2026-07-13"
 quality_tier: "meets_standard"

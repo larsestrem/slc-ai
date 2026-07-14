@@ -22,7 +22,7 @@ sources: ["https://www.senioradvisor.com/local/inspirations-senior-living-pahrum
 verified_date: "2026-07-12"
 review_note: "4.7/5 average across 39 reviews on SeniorAdvisor/A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Spanish-style senior living community in Pahrump with views of the Nopah Mountain Range, offering independent living, assisted living, memory care, and short-term respite stays. Known for all-inclusive restaurant-style dining, an active social calendar, and attentive staff. It is the top-rated senior living community in the Pahrump area."
+description_full: "Spanish-style senior living community in Pahrump with views of the Nopah Mountain Range, offering independent living, assisted living, memory care, and short-term respite stays. Known for all-inclusive restaurant-style dining, an active social calendar, and attentive staff."
 review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/inspirations-senior-living-pahrump-nv-pahrump-nv"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/inspirations-senior-living-1357554"}]
 licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
 ---

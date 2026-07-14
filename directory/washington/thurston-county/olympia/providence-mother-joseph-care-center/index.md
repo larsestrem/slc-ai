@@ -27,4 +27,5 @@ sources: ["https://www.seniorcare.com/nursing-homes/wa/olympia/providence-mother
 verified_date: "2026-07-12"
 quality_tier: "meets_standard"
 description_full: "Providence Mother Joseph Care Center is a 152-bed Medicare- and Medicaid-certified skilled nursing facility in Olympia, part of the Providence health system. It provides long-term skilled nursing, rehabilitation and transitional care, and holds a CMS overall rating of 4 stars, above the Washington and national averages."
+review_links: [{"name": "NursingHomeSite", "url": "https://www.nursinghomesite.com/PROVIDENCE_MOTHER_JOSEPH_CARE_OLYMPIA_WA"}]
 ---

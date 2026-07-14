@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "The Magnolia of Millbrae"
 seo_title: "The Magnolia of Millbrae — Senior Living in Millbrae, CA"
-description: "Full-service retirement and assisted living community on Chadbourne Avenue in Millbrae, on the Peninsula between San Francisco and San Mateo. Residents enjoy "
+description: "Full-service retirement and assisted living community on Chadbourne Avenue in Millbrae, on the Peninsula between San Francisco and San Mateo."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Magnolia of Millbrae", "url": "/directory/california/san-mateo-county/millbrae/the-magnolia-of-millbrae/"}]
 nearby: []
 state: "california"
@@ -22,7 +22,7 @@ sources: ["https://seniorsite.org/property/show/magnolia-of-millbrae", "https://
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 19 resident and family reviews on SeniorSite (July 2026)"
 quality_tier: "unrated"
-description_full: "Full-service retirement and assisted living community on Chadbourne Avenue in Millbrae, on the Peninsula between San Francisco and San Mateo. Residents enjoy gourmet dining, a pool, gym, transportation services and a steady calendar of speakers and outings."
+description_full: "Full-service retirement and assisted living community on Chadbourne Avenue in Millbrae, on the Peninsula between San Francisco and San Mateo."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/the-magnolia-of-millbrae-millbrae"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

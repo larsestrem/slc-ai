@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "Legacy House of Logan"
 seo_title: "Legacy House of Logan — Senior Living in Logan, UT"
-description: "Legacy House of Logan offers assisted living and memory care in the heart of Cache Valley, near Logan Regional Hospital. Families praise the caring, responsiv"
+description: "Legacy House of Logan offers assisted living and memory care in the heart of Cache Valley, near Logan Regional Hospital."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Legacy House of Logan", "url": "/directory/utah/cache-county/logan/legacy-house-of-logan/"}]
 nearby: []
 state: "utah"
@@ -23,7 +23,7 @@ sources: ["https://www.assistedlivingcenter.com/facilities/ut/logan/legacy-house
 verified_date: "2026-07-12"
 review_note: "4.9 rating with 72 reviews on AssistedLivingCenter.com; 21 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Legacy House of Logan offers assisted living and memory care in the heart of Cache Valley, near Logan Regional Hospital. Families praise the caring, responsive staff and the secure, engaging environment, along with a smooth admissions process."
+description_full: "Legacy House of Logan offers assisted living and memory care in the heart of Cache Valley, near Logan Regional Hospital."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ut/logan/legacy-house-of-logan-84341/"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/legacy-house-of-logan-97535"}]
 licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
 ---

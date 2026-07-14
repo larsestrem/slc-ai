@@ -26,5 +26,5 @@ sources: ["https://www.nursinghomedatabase.com/snf/035295", "https://health.usne
 verified_date: "2026-07-12"
 quality_tier: "meets_standard"
 description_full: "The Center at Tucson is a 96-bed Medicare-certified skilled nursing and short-term rehabilitation facility with a CMS Five-Star overall rating. Nursing staff time of about 4.4 hours per resident per day runs well above the national average, and U.S. News rates it High Performing for short-term rehabilitation."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/az/the-center-at-tucson-035295"}]
+review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/035295"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/az/the-center-at-tucson-035295"}]
 ---

@@ -29,8 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
+  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -231,6 +231,10 @@ tbody tr:hover { background: var(--soft); }
 /* Tier-differentiated footer notices */
 .tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
 .tier-notice-danger a { color: var(--accent); }
+.tnd-head { margin-top: 0; }
+.concern-facts { display: grid; grid-template-columns: auto 1fr; gap: .2rem .8rem; margin: .6rem 0; font-size: .92rem; }
+.concern-facts dt { font-weight: 700; }
+.concern-facts dd { margin: 0; }
 </style>
   
 </head>
@@ -318,8 +322,7 @@ tbody tr:hover { background: var(--soft); }
   <h2 id="glance-h">Rating at a glance</h2>
   <div class="glance-row glance-flag">
     <span class="tier-badge tier-serious_concerns">Serious concerns</span>
-    <p><span class="muted">This community has a serious flag on its official record — read the
-    details below and the source before considering it further.</span></p>
+    <p><span class="muted">State-substantiated abuse findings (Oregon Department of Human Services) — read the full facts and source below before considering this community further.</span></p>
   </div>
   <div class="glance-row">
     <p><strong>Family &amp; resident reviews</strong><br>
@@ -398,14 +401,17 @@ tbody tr:hover { background: var(--soft); }
 
     </div>
   </div>
-  <p class="notice tier-notice-danger"><strong>Serious concerns on the official record.</strong>
-  This community carries a documented, sourced flag from a government regulator or a public
-  review platform — a Special Focus Facility designation, a substantiated finding, or similar. We
-  don't describe the incident ourselves; that's the regulator's and the reviewers' information, not
-  ours to retell. Read it directly at the primary source linked above (the state license lookup and the review platforms linked above).
-  We still list this community: a family searching for it by name deserves the real record, not a
-  blank page. Talk to the <a href="/guides/checking-complaints-and-state-records/">long-term care
-  ombudsman</a> about what you find before considering it further.</p>
+  <div class="notice tier-notice-danger">
+    <p class="tnd-head"><strong>Serious concerns on the official record.</strong></p>
+    <dl class="concern-facts"><dt>Regulator</dt><dd>Oregon Department of Human Services</dd><dt>Finding</dt><dd>State-substantiated abuse findings</dd><dt>Date</dt><dd>Reported December 2024, covering roughly the prior two years</dd><dt>Status</dt><dd>Oregon DHS proposed non-renewal of the facility's license in 2024; the facility passed a subsequent re-inspection and remained licensed as of the report — confirm current status directly</dd>
+    </dl>
+    <p>We publish the regulator's finding and a direct source, not our own account of what
+    happened — that's the regulator's information to describe, not ours to retell. <a href="https://www.opb.org/article/2024/12/13/willamette-springs-memory-care/" rel="nofollow noopener">Read the source record directly</a>.
+    We still list this community: a family searching for it by name deserves the real record, not
+    a blank page. Talk to the <a href="/guides/checking-complaints-and-state-records/">long-term
+    care ombudsman</a> about what you find before considering it further, and confirm the current
+    status yourself — regulatory status can change after our 2026-07-13 check.</p>
+  </div>
 </section>
 
   <section aria-labelledby="nearby-h">

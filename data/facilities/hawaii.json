@@ -384,7 +384,7 @@
       "facility_size": "large",
       "organization": "holiday-by-atria",
       "organization_name": "Holiday by Atria",
-      "description": "A pet-friendly independent senior living community in Kihei on Maui's south shore, minutes from Kamaole Beach Park. Three homestyle meals a day, weekly housekeeping, utilities, and scheduled transportation are bundled into one monthly rate, and residents praise the staff, activities, and beach-close location.",
+      "description": "A pet-friendly independent senior living community in Kihei on Maui's south shore, minutes from Kamaole Beach Park.",
       "review_note": "4.5/5 across 15 reviews on Caring.com (July 2026)",
       "rating_as_of": "2026-07-12",
       "sources": [
@@ -827,7 +827,7 @@
       ],
       "facility_size": "small",
       "capacity": 8,
-      "description": "Kina 'Ole Estate is a small windward-Oahu care home in Kaneohe housing up to eight live-in residents, offering assisted living, memory care and expanded care with 24-hour staffing. It is consistently cited as one of the highest-rated small homes in the Kaneohe/Kailua area.",
+      "description": "Kina 'Ole Estate is a small windward-Oahu care home in Kaneohe housing up to eight live-in residents, offering assisted living, memory care and expanded care with 24-hour staffing.",
       "review_note": "13 reviews on Yelp and 5.0/5 across 2 reviews on A Place for Mom; aggregators rank it the highest-rated community in the city (9.6/10) (July 2026)",
       "quality_basis": "Small Kaneohe care home (up to 8 residents) offering memory care, with well-documented positive review volume: 13 Yelp reviews and a 5.0/5 A Place for Mom rating, ranked the top-rated community in the city by aggregators as of July 2026.",
       "sources": [
@@ -1003,7 +1003,11 @@
       ],
       "verified_date": "2026-07-13",
       "serious_concern": true,
-      "serious_concern_note": "CMS records show roughly $161,000 in federal fines and a period of Medicare payment suspension tied to documented quality problems."
+      "serious_concern_note": "CMS records show roughly $161,000 in federal fines and a period of Medicare payment suspension tied to documented quality problems.",
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
+      "concern_type": "Federal enforcement action — fines and a period of Medicare payment suspension",
+      "concern_status": "Confirm current enforcement status directly on Care Compare",
+      "concern_source_url": "https://www.medicare.gov/care-compare/details/nursing-home/125041/view-all/?state=HI"
     },
     {
       "name": "Legacy Hilo Rehabilitation & Nursing Center",
@@ -1125,7 +1129,11 @@
       ],
       "verified_date": "2026-07-13",
       "serious_concern": true,
-      "serious_concern_note": "CMS flagged a documented pattern of poor care warranting close monitoring, alongside roughly $35,000 in recent federal fines."
+      "serious_concern_note": "CMS flagged a documented pattern of poor care warranting close monitoring, alongside roughly $35,000 in recent federal fines.",
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
+      "concern_type": "CMS close-monitoring flag and federal fines",
+      "concern_status": "Confirm current monitoring status directly",
+      "concern_source_url": "https://projects.propublica.org/nursing-homes/homes/h-125019"
     },
     {
       "name": "Life Care Center of Kona",

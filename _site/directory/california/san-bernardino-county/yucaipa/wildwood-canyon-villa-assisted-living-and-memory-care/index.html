@@ -30,8 +30,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
+  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -232,6 +232,10 @@ tbody tr:hover { background: var(--soft); }
 /* Tier-differentiated footer notices */
 .tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
 .tier-notice-danger a { color: var(--accent); }
+.tnd-head { margin-top: 0; }
+.concern-facts { display: grid; grid-template-columns: auto 1fr; gap: .2rem .8rem; margin: .6rem 0; font-size: .92rem; }
+.concern-facts dt { font-weight: 700; }
+.concern-facts dd { margin: 0; }
 </style>
   
 </head>
@@ -322,8 +326,8 @@ tbody tr:hover { background: var(--soft); }
   <div class="glance-row">
     <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="off">☆</span></span>
 
-    <p><strong>4.4 of 5 — family reviews</strong> <span class="muted">(30)</span><br>
-    <span class="muted">Written by families and residents on public review sites.</span></p>
+    <p><strong>4.4 of 5 — Ultimate Senior Resource</strong> <span class="muted">(30 reviews)</span><br>
+    <span class="muted">Written by families and residents, as reported on Ultimate Senior Resource.</span></p>
   </div>
 
   <p class="glance-link"><a href="#ratings-h">What these ratings mean &amp; where they come from &darr;</a></p>
@@ -376,11 +380,11 @@ tbody tr:hover { background: var(--soft); }
     </div>
     <div class="rating-body">
       <h3>Family &amp; resident reviews</h3>
-      <p><strong>Who writes it:</strong> families and residents, on public review sites — 4.4 of 5 across 30 reviews as of July 2026.
+      <p><strong>Who writes it:</strong> families and residents, on Ultimate Senior Resource — 4.4 of 5 across 30 reviews, retrieved July 12, 2026.
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
       inspections. Read the recent ones and the middle-star ones, not just the average.</p>
       <p><strong>Read the reviews
-      yourself:</strong> <a href="https://www.aplaceformom.com/community/wildwood-canyon-villa-99857" rel="nofollow noopener">A Place for Mom</a> — that's where the
+      yourself:</strong> <a href="https://ultimateseniorresource.com/states/california/yucaipa/wildwood-canyon-villa-assisted-living-and-memory-care" rel="nofollow noopener">Ultimate Senior Resource</a> · <a href="https://www.aplaceformom.com/community/wildwood-canyon-villa-99857" rel="nofollow noopener">A Place for Mom</a> — that's where the
       actual reviews live; we only show the aggregate rating here.</p>
       <div class="review-caveats">
   <p class="rc-lead">A star average is a starting point, not a verdict. We don't write these reviews,
@@ -399,10 +403,9 @@ tbody tr:hover { background: var(--soft); }
 
     </div>
   </div>
-  <p class="count">This community meets the standard we generally recommend — a verified
-  family-review record or a government rating of three stars or better. We list every community we
-  can verify, not just the highest-rated ones, and label each one by tier instead of hiding the
-  rest. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
+  <p class="count">This public review average of 4.4 of 5 across 30 reviews clears the 3-star / 4.2 line we use to sort listings — our own editorial choice, not an independently validated clinical or safety standard. We list every community we
+  can verify, not just the highest-rated ones, and sort by that line instead of hiding what falls
+  short of it. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
 </section>
 
 

@@ -26,5 +26,6 @@ rating_as_of: "2026-07-12"
 quality_tier: "meets_standard"
 description_full: "Panorama is a nonprofit continuing care retirement community spanning more than 140 acres in Lacey, with over 850 homes plus assisted living and skilled nursing on campus. Amenities include an aquatic and fitness center, auditorium, resident-run TV station, and an unusually deep roster of clubs and activities."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/panorama-157269934672291"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/panorama-lacey-8"}]
+rating_source: "Birdeye"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

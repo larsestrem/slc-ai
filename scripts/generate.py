@@ -93,6 +93,10 @@ REVIEW_PLATFORMS = [
     ("birdeye.com", "Birdeye"),
     ("yelp.com", "Yelp"),
     ("health.usnews.com", "U.S. News"),
+    ("ultimateseniorresource.com", "Ultimate Senior Resource"),
+    ("seniorhousingnet.com", "SeniorHousingNet"),
+    ("nursinghomesite.com", "NursingHomeSite"),
+    ("nursinghomedatabase.com", "Nursing Home Database"),
     ("g.page", "Google"),
     ("google.com/maps", "Google"),
 ]
@@ -109,6 +113,16 @@ def review_links_from_sources(sources):
                 seen.add(name)
                 break
     return links
+
+
+def rating_source_label(f):
+    """The specific platform a facility's review-based rating traces to, per its
+    sources — so a number is never shown as generic 'family reviews' when we can
+    name exactly where it came from (see audit finding on review-source disclosure)."""
+    if not f.get("google_rating"):
+        return None
+    links = review_links_from_sources(f.get("sources"))
+    return links[0]["name"] if links else None
 
 
 TIER_RANK = {"meets_standard": 0, "unrated": 1, "below_standard": 2, "serious_concerns": 3}
@@ -289,10 +303,13 @@ def gen_facility_page(f, siblings, licensing):
                    "photos", "logo",
                    # public review reputation (from search, dated)
                    "google_rating", "google_review_count", "rating_as_of", "review_note",
+                   "review_caveat",
                    # small-home differentiated quality signals (see SPEC small-home model)
                    "license_id", "licensed_since", "specialties", "quality_basis",
                    # comprehensive-listing tier flags (see SPEC round-6 policy)
-                   "special_focus_facility", "serious_concern", "serious_concern_note")
+                   "special_focus_facility", "serious_concern", "serious_concern_note",
+                   "concern_regulator", "concern_type", "concern_date", "concern_status",
+                   "concern_source_url")
     for k in passthrough:
         if f.get(k) not in (None, "", []):
             front[k] = f[k]
@@ -301,6 +318,9 @@ def gen_facility_page(f, siblings, licensing):
     rlinks = f.get("review_links") or review_links_from_sources(f.get("sources"))
     if rlinks:
         front["review_links"] = rlinks
+    rsource = rating_source_label(f)
+    if rsource:
+        front["rating_source"] = rsource
     if not f.get("cms_ccn") and licensing:
         front["licensing"] = {"agency": licensing.get("agency"), "lookup_url": licensing.get("lookup_url")}
     write(DIRECTORY / f["state"] / county_slug(f) / f["city"] / f["slug"] / "index.md", fm(front))

@@ -29,8 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
+  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -231,6 +231,10 @@ tbody tr:hover { background: var(--soft); }
 /* Tier-differentiated footer notices */
 .tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
 .tier-notice-danger a { color: var(--accent); }
+.tnd-head { margin-top: 0; }
+.concern-facts { display: grid; grid-template-columns: auto 1fr; gap: .2rem .8rem; margin: .6rem 0; font-size: .92rem; }
+.concern-facts dt { font-weight: 700; }
+.concern-facts dd { margin: 0; }
 </style>
   
 </head>
@@ -317,10 +321,11 @@ tbody tr:hover { background: var(--soft); }
       <section class="panel rating-glance" aria-labelledby="glance-h">
   <h2 id="glance-h">Rating at a glance</h2>
   <div class="glance-row glance-flag">
-    <span class="tier-badge tier-below_standard">Below our recommended bar</span>
-    <p><span class="muted">This is below the bar we generally recommend. We still list it, with
-    its real rating, because it may be the best or only nearby option for some families — see
-    what the rating actually reflects below.</span></p>
+    <span class="tier-badge tier-below_standard">Lower-rated</span>
+    <p><span class="muted">Below the 3-star / 4.2 line we use to sort listings — our own editorial
+    choice, not a validated standard. We still list it, with its real rating, because it may be
+    the best or only nearby option for some families — see what the rating actually reflects
+    below.</span></p>
   </div>
   <div class="glance-row">
     <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
@@ -408,10 +413,8 @@ tbody tr:hover { background: var(--soft); }
 
     </div>
   </div>
-  <p class="count"><strong>Below our recommended bar — here's why it's still here.</strong> A lower
-  rating doesn't automatically mean no family should choose it, especially if it's the closest or
-  only realistic option, and frequent visits are possible — presence and attention from family can
-  meaningfully improve a resident's day-to-day care. See our note on
+  <p class="count"><strong>This is a CMS overall rating of 1 of 5 — below the 3-star / 4.2 line we use to sort listings.</strong> That threshold is our own editorial choice for sorting, not a validated safety or clinical standard, and a lower rating doesn't automatically mean no family should choose it — especially if it's the closest or
+  only realistic option, and frequent visits are possible. See our note on
   <a href="/guides/how-to-choose-a-senior-care-facility/#step-3-build-a-shortlist">weighing distance against rating</a>.
   Read the record above closely, ask the community directly about what you find, and compare it
   against nearby alternatives before deciding.
@@ -439,7 +442,7 @@ tbody tr:hover { background: var(--soft); }
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
 </ul>
-<p class="desc">State-licensed six-bed adult family home in south Everett providing 24-hour residential care in a home setting. Focuses on high-quality, ...</p>
+<p class="desc">State-licensed six-bed adult family home in south Everett providing 24-hour residential care in a home setting.</p>
 </li>
 
       <li class="card">
@@ -466,7 +469,7 @@ tbody tr:hover { background: var(--soft); }
       <li class="card">
   <h3><a href="/directory/washington/snohomish-county/everett/everett-plaza/">Everett Plaza</a></h3>
   <p class="meta">Everett, WA · <span class="stars" role="img" aria-label="2.9 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">reviews</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
+ <span class="rate-src">reviews</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>

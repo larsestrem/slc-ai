@@ -29,8 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
+  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -231,6 +231,10 @@ tbody tr:hover { background: var(--soft); }
 /* Tier-differentiated footer notices */
 .tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
 .tier-notice-danger a { color: var(--accent); }
+.tnd-head { margin-top: 0; }
+.concern-facts { display: grid; grid-template-columns: auto 1fr; gap: .2rem .8rem; margin: .6rem 0; font-size: .92rem; }
+.concern-facts dt { font-weight: 700; }
+.concern-facts dd { margin: 0; }
 </style>
   
 </head>
@@ -378,7 +382,7 @@ tbody tr:hover { background: var(--soft); }
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
       inspections. Read the recent ones and the middle-star ones, not just the average. A home this small serves only a handful of families at a time, so even a great one collects far fewer reviews than a 100-bed building — <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">judge it by the record and your visit, not the review count</a>.</p>
       <p><strong>Read the reviews
-      yourself:</strong> <a href="https://www.aplaceformom.com/community/heightsview-care-home-146456" rel="nofollow noopener">A Place for Mom</a> · <a href="https://www.senioradvisor.com/local/heightsview-adult-care-home-beaverton-or" rel="nofollow noopener">SeniorAdvisor</a> — that's where the
+      yourself:</strong> <a href="https://www.aplaceformom.com/community/heightsview-care-home-146456" rel="nofollow noopener">A Place for Mom</a> · <a href="https://www.senioradvisor.com/local/heightsview-adult-care-home-beaverton-or" rel="nofollow noopener">SeniorAdvisor</a> · <a href="https://www.seniorhousingnet.com/seniorliving-detail/heightsview-adult-care-home_18935-sw-heightsview-ct_beaverton_or_97007-635223" rel="nofollow noopener">SeniorHousingNet</a> — that's where the
       actual reviews live; we only show the aggregate rating here.</p>
       <div class="review-caveats">
   <p class="rc-lead">A star average is a starting point, not a verdict. We don't write these reviews,

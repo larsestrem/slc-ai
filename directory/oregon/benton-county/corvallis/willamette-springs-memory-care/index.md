@@ -25,6 +25,11 @@ verified_date: "2026-07-13"
 review_note: "SERIOUS CONCERNS: Oregon DHS cited the facility for roughly 50 substantiated instances of abuse over the two years prior to December 2024 (OPB, Dec. 13, 2024; Willamette Week, Dec. 4, 2024). The state issued a proposed non-renewal of its operating license in September 2024 citing a 'pattern of repeated substantial noncompliance'; the facility passed a subsequent inspection in late 2024 and admission restrictions were lifted. A Place for Mom lists 5 reviews with an average 'overall experience' of 2.8 out of 5 (accessed July 2026)."
 serious_concern: true
 serious_concern_note: "State inspectors substantiated roughly 50 abuse citations over two years, and the state proposed non-renewal of its license in 2024; the facility passed a later re-inspection and remains open."
+concern_regulator: "Oregon Department of Human Services"
+concern_type: "State-substantiated abuse findings"
+concern_date: "Reported December 2024, covering roughly the prior two years"
+concern_status: "Oregon DHS proposed non-renewal of the facility's license in 2024; the facility passed a subsequent re-inspection and remained licensed as of the report — confirm current status directly"
+concern_source_url: "https://www.opb.org/article/2024/12/13/willamette-springs-memory-care/"
 quality_tier: "serious_concerns"
 description_full: "Willamette Springs Memory Care is a 72-bed licensed memory care community in Corvallis operated by Mosaic Senior Living (Mosaic Management Inc.), serving residents with Alzheimer's disease and other forms of dementia. It has operated since 2016."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/willamette-springs-memory-care-1389904"}]

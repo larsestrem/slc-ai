@@ -3,9 +3,9 @@ Visible quality-tier label. include.tier is one of meets_standard / below_standa
 serious_concerns / unrated (unrated renders nothing — no data isn't a verdict).
 {%- endcomment -%}
 {%- if include.tier == "meets_standard" -%}
-<span class="tier-badge tier-meets_standard">Meets our standard</span>
+<span class="tier-badge tier-meets_standard">Clears our 3★ / 4.2 threshold</span>
 {%- elsif include.tier == "below_standard" -%}
-<span class="tier-badge tier-below_standard">Below our recommended bar</span>
+<span class="tier-badge tier-below_standard">Lower-rated</span>
 {%- elsif include.tier == "serious_concerns" -%}
 <span class="tier-badge tier-serious_concerns">Serious concerns</span>
 {%- endif -%}

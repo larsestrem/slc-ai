@@ -25,7 +25,8 @@ google_rating: 4.4
 google_review_count: 41
 rating_as_of: "2026-07-12"
 quality_tier: "meets_standard"
-description_full: "Wenatchee Senior Living by Cogir (formerly Avamere at Wenatchee) has welcomed seniors since 1995 and offers independent and assisted living with close-up mountain views. Families praise the compassionate direct-care staff, long-tenured activities leadership, attractive grounds, and spacious apartments."
+description_full: "Wenatchee Senior Living by Cogir (formerly Avamere at Wenatchee) has welcomed seniors since 1995 and offers independent and assisted living with close-up mountain views."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/wenatchee-senior-living-by-cogir-98849"}]
+rating_source: "A Place for Mom"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

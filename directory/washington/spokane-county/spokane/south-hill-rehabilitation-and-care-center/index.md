@@ -24,5 +24,5 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/wa/south-hill-rehab
 verified_date: "2026-07-13"
 quality_tier: "meets_standard"
 description_full: "A 113-bed nonprofit skilled nursing and rehabilitation center on Spokane's South Hill offering short-term rehab and long-term care, rated High Performing by U.S. News. Its CMS overall rating is 4 stars."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/south-hill-rehabilitation-and-care-center-505414"}]
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/south-hill-rehabilitation-and-care-center-505414"}, {"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/505414"}]
 ---

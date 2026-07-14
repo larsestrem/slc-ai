@@ -27,5 +27,6 @@ review_note: "4.64/5 across 21 reviews on aggregator platforms; Google 4.3 (2026
 quality_tier: "meets_standard"
 description_full: "The Vistas Assisted Living and Memory Care is an assisted living and memory care community in Redding."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/redding/the-vistas-assisted-living-and-memory-care"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-vistas-assisted-living-memory-care-15817"}]
+rating_source: "Caring.com"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

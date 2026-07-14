@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "Sunrise of Danville"
 seo_title: "Sunrise of Danville — Senior Living in Danville, CA"
-description: "Assisted living and memory care community on Diablo Road in Danville, offering short-term respite stays alongside long-term care. Families consistently praise"
+description: "Assisted living and memory care community on Diablo Road in Danville, offering short-term respite stays alongside long-term care."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sunrise of Danville", "url": "/directory/california/contra-costa-county/danville/sunrise-of-danville/"}]
 nearby: []
 state: "california"
@@ -25,7 +25,7 @@ sources: ["https://www.aplaceformom.com/community/sunrise-of-danville-57480", "h
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 94 reviews on A Place for Mom; APFM review score 9.8/10 on 29 recent reviews (July 2026)"
 quality_tier: "unrated"
-description_full: "Assisted living and memory care community on Diablo Road in Danville, offering short-term respite stays alongside long-term care. Families consistently praise the caring staff, renovated dining rooms and patios, and it ranks among the top-rated assisted living communities in the Danville area."
+description_full: "Assisted living and memory care community on Diablo Road in Danville, offering short-term respite stays alongside long-term care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunrise-of-danville-57480"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/sunrise-of-danville-danville"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

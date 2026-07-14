@@ -30,4 +30,5 @@ rating_as_of: "2026-07-11"
 quality_tier: "meets_standard"
 description_full: "Rogue Valley Manor is southern Oregon's only continuing care retirement community and the longest-standing accredited CCRC on the West Coast, open since 1961. The nonprofit campus spans 668 acres in Medford with nearly 1,000 residents, offering independent living through Medicare 5-star-rated skilled nursing, and serves as the flagship of Medford-based Pacific Retirement Services."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/rogue-valley-manor-385250"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/medford/rogue-valley-manor-97504"}]
+rating_source: "U.S. News"
 ---

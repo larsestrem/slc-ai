@@ -841,7 +841,8 @@
         "https://www.yelp.com/biz/hope-village-canby",
         "https://reviews.birdeye.com/hope-village-senior-living-community-168154464620059"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-11",
+      "review_caveat": "This community shares a campus with separately licensed Marquis Hope Village (skilled nursing) and Rackleff Place (assisted living). Its review sources reference the 'Hope Village' name broadly and may reflect experiences across the shared campus, not only the independent-living community itself — check the other two listings' own ratings separately."
     },
     {
       "name": "Marquis Hope Village",
@@ -1363,7 +1364,7 @@
         "assisted-living"
       ],
       "facility_size": "large",
-      "description": "Country Meadows Village is a senior living campus in Woodburn, about 35 minutes from downtown Portland, combining independent living apartments, cottage homes with garages and covered porches, and a 50-unit licensed assisted living building. Residents highlight the restaurant-style dining with an on-site chef and a busy Life Enrichment activity program. The community is minutes from the Woodburn Premium Outlets between Portland and Salem.",
+      "description": "Country Meadows Village is a senior living campus in Woodburn, about 35 minutes from downtown Portland, combining independent living apartments, cottage homes with garages and covered porches, and a 50-unit licensed assisted living building. The community is minutes from the Woodburn Premium Outlets between Portland and Salem.",
       "sources": [
         "https://countrymeadowsvillage.com/",
         "https://www.caring.com/senior-living/oregon/woodburn/country-meadows-village-97071",
@@ -1474,7 +1475,7 @@
         "independent-living"
       ],
       "facility_size": "large",
-      "description": "Independent living retirement community on an 11-acre riverfront property beside the Willamette River in Eugene. Its signature LifeMinded program lets residents build a personalized wellness plan, with exercise and yoga classes, garden spaces, and evening outings. Residents praise the riverside setting, upkeep, and attentive staff across dining, housekeeping, and social programs.",
+      "description": "Independent living retirement community on an 11-acre riverfront property beside the Willamette River in Eugene. Its signature LifeMinded program lets residents build a personalized wellness plan, with exercise and yoga classes, garden spaces, and evening outings.",
       "review_note": "4.4/5 across 33 reviews on Birdeye; 4.2/5 across 9 reviews on A Place for Mom (July 2026)",
       "sources": [
         "https://reviews.birdeye.com/willamette-oaks-a-lifeminded-residence-senior-housing-eugene-157256464716654",
@@ -1563,7 +1564,7 @@
       "capacity": 39,
       "organization": "radiant-senior-living",
       "organization_name": "Radiant Senior Living",
-      "description": "Smaller assisted living and memory care community with 39 total beds in the heart of Springfield, near area shopping, restaurants, and parks. Part of family-owned Radiant Senior Living. Families frequently cite the intimate size, homey feel, attentive staff, and personalized care.",
+      "description": "Smaller assisted living and memory care community with 39 total beds in the heart of Springfield, near area shopping, restaurants, and parks. Part of family-owned Radiant Senior Living.",
       "review_note": "4.5/5 average across 22 reviews on A Place for Mom; 5.0/5 across 8 reviews on Caring.com (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/sweetbriar-villa-60217",
@@ -1834,7 +1835,7 @@
       "organization": "compass-senior-living",
       "organization_name": "Compass Senior Living",
       "review_note": "4.3/5 across 14 reviews on A Place for Mom (July 2026)",
-      "description": "The Suites is a combined assisted living and memory care community in Grants Pass with 65 licensed assisted living beds and a 28-bed memory care neighborhood. Families consistently describe it as clean, bright, and cheerful, with attentive communication from staff. It is operated by Eugene-based Compass Senior Living.",
+      "description": "The Suites is a combined assisted living and memory care community in Grants Pass with 65 licensed assisted living beds and a 28-bed memory care neighborhood. It is operated by Eugene-based Compass Senior Living.",
       "sources": [
         "https://www.aplaceformom.com/community/the-suites-assisted-living-and-memory-care-60265",
         "https://www.ohca.com/facility-finder/suites-assisted-living-community-the/",
@@ -2426,7 +2427,7 @@
       ],
       "facility_size": "small",
       "review_note": "4.9/5 overall experience across 8 reviews on A Place for Mom; 5.0 stars from 8 reviews on SeniorAdvisor (July 2026)",
-      "description": "Atrium Adult Care Home is a small residential care home in a quiet Oregon City neighborhood with four private rooms, each with a half bath, plus a wheelchair-accessible shower room. Families consistently praise the cleanliness of the home and the staff's communication about residents' care.",
+      "description": "Atrium Adult Care Home is a small residential care home in a quiet Oregon City neighborhood with four private rooms, each with a half bath, plus a wheelchair-accessible shower room.",
       "sources": [
         "https://www.aplaceformom.com/community/atrium-adult-care-home-llc-1335440",
         "https://www.senioradvisor.com/local/atrium-adult-care-home-llc-oregon-city-or",
@@ -2963,7 +2964,7 @@
       "organization_name": "Brookdale Senior Living",
       "review_note": "4.5/5 on SeniorAdvisor; 4.7/5 across 11 reviews on AssistedLivingCenter.com (July 2026)",
       "rating_as_of": "2026-07-12",
-      "description": "Brookdale McMinnville City Center is an assisted living and memory care community near downtown McMinnville, part of the national Brookdale Senior Living network. Residents and visitors praise the community's cleanliness, compassionate caregivers, and homey atmosphere, with studio through one-bedroom floor plans from roughly 375 to 783 square feet.",
+      "description": "Brookdale McMinnville City Center is an assisted living and memory care community near downtown McMinnville, part of the national Brookdale Senior Living network.",
       "sources": [
         "https://www.senioradvisor.com/local/brookdale-mcminnville-city-center-mcminnville-or",
         "https://www.assistedlivingcenter.com/facilities/or/mcminnville/brookdale-mcminnville-city-center-97128/",
@@ -3224,13 +3225,14 @@
       "google_rating": 4.4,
       "google_review_count": 16,
       "rating_as_of": "2026-07-12",
-      "description": "A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette. Families note a warm, welcoming environment and a dedicated long-term staff.",
+      "description": "A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette.",
       "sources": [
         "https://www.prestigecare.com/locations/rackleff-place/",
         "https://ultimateseniorresource.com/states/oregon/canby/rackleff-place",
         "https://ltclicensing.oregon.gov/Facilities/Details/70M075"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-12",
+      "review_caveat": "Rackleff Place shares a campus with the independent-living community Hope Village and the skilled nursing facility Marquis Hope Village, each separately licensed and rated. Check each listing's own rating rather than assuming they're the same."
     },
     {
       "name": "Cornell Estates Retirement and Assisted Living",
@@ -3376,7 +3378,7 @@
       "capacity": 52,
       "review_note": "4.6/5 across 13 reviews on A Place for Mom; 4.4-star Google rating per operator, review count not visible (July 2026)",
       "rating_as_of": "2026-07-12",
-      "description": "A 52-bed memory care community in south Salem organized into four small neighborhoods, each with its own dining, living, and activity areas. Winner of a 2024 Pinnacle Customer Experience Award and a BusinessRate Best of 2026 award, with families praising compassionate staff and engaging life-enrichment programs.",
+      "description": "A 52-bed memory care community in south Salem organized into four small neighborhoods, each with its own dining, living, and activity areas.",
       "sources": [
         "https://www.aplaceformom.com/community/battle-creek-memory-care-1437661",
         "https://www.onelifeseniorliving.com/blog/battle-creek-memory-care-businessrate-best-of-2026",
@@ -3967,7 +3969,7 @@
       ],
       "facility_size": "small",
       "capacity": 5,
-      "description": "Sunrise Adult Foster Home is a small residential care home in Tigard providing incontinence care, diabetes care, memory care, and medication management. Families highlight experienced caregivers who engage closely with residents and offer support during critical times, along with frequently praised home cooking.",
+      "description": "Sunrise Adult Foster Home is a small residential care home in Tigard providing incontinence care, diabetes care, memory care, and medication management.",
       "review_note": "4.5/5 across 3 reviews on SeniorAdvisor (July 2026)",
       "quality_basis": "Oregon adult foster home (up to 5 residents) included on documented review evidence: 4.5/5 across 3 reviews on SeniorAdvisor (July 2026).",
       "sources": [
@@ -4314,7 +4316,11 @@
       ],
       "verified_date": "2026-07-13",
       "special_focus_facility": true,
-      "serious_concern_note": "A federal CMS Special Focus Facility (newly designated) — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems."
+      "serious_concern_note": "A federal CMS Special Focus Facility (newly designated) — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems.",
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
+      "concern_type": "Special Focus Facility (newly designated)",
+      "concern_status": "Active per CMS's Special Focus Facility tracking list — confirm current status directly",
+      "concern_source_url": "https://getstarpro.com/sff-list"
     },
     {
       "name": "French Prairie Nursing and Rehabilitation Center",
@@ -4348,7 +4354,11 @@
       ],
       "verified_date": "2026-07-13",
       "serious_concern": true,
-      "serious_concern_note": "CMS Special Focus Facility Candidate — on the federal list of nursing homes with a documented pattern of serious quality problems, one tier below active Special Focus Facility status."
+      "serious_concern_note": "CMS Special Focus Facility Candidate — on the federal list of nursing homes with a documented pattern of serious quality problems, one tier below active Special Focus Facility status.",
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
+      "concern_type": "Special Focus Facility Candidate",
+      "concern_status": "Candidate status — one tier below active Special Focus Facility — confirm current status directly",
+      "concern_source_url": "https://getstarpro.com/sff-list"
     },
     {
       "name": "Gresham Post Acute Care and Rehabilitation",
@@ -4410,7 +4420,12 @@
       ],
       "verified_date": "2026-07-13",
       "serious_concern": true,
-      "serious_concern_note": "Carried a CMS special-focus-pattern designation and an active federal abuse citation flag during 2024-2025 inspections."
+      "serious_concern_note": "Carried a CMS special-focus-pattern designation and an active federal abuse citation flag during 2024-2025 inspections.",
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services) and Oregon DHS",
+      "concern_type": "CMS abuse-citation flag; named on Oregon's public 'additional oversight' list",
+      "concern_date": "Reported November 2024; CMS inspection window August 2024 – July 2025",
+      "concern_status": "Confirm current status directly — the reported oversight window has since passed",
+      "concern_source_url": "https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/"
     },
     {
       "name": "Highland House Nursing and Rehabilitation Center",
@@ -4589,7 +4604,12 @@
       ],
       "verified_date": "2026-07-13",
       "serious_concern": true,
-      "serious_concern_note": "State inspectors substantiated roughly 50 abuse citations over two years, and the state proposed non-renewal of its license in 2024; the facility passed a later re-inspection and remains open."
+      "serious_concern_note": "State inspectors substantiated roughly 50 abuse citations over two years, and the state proposed non-renewal of its license in 2024; the facility passed a later re-inspection and remains open.",
+      "concern_regulator": "Oregon Department of Human Services",
+      "concern_type": "State-substantiated abuse findings",
+      "concern_date": "Reported December 2024, covering roughly the prior two years",
+      "concern_status": "Oregon DHS proposed non-renewal of the facility's license in 2024; the facility passed a subsequent re-inspection and remained licensed as of the report — confirm current status directly",
+      "concern_source_url": "https://www.opb.org/article/2024/12/13/willamette-springs-memory-care/"
     },
     {
       "name": "Powell Valley Assisted Living and Memory Care",
@@ -4620,7 +4640,12 @@
       ],
       "verified_date": "2026-07-13",
       "serious_concern": true,
-      "serious_concern_note": "State inspectors substantiated an abuse finding connected to a resident's death after a wrongful eviction; the incident is the subject of a $14 million lawsuit."
+      "serious_concern_note": "State inspectors substantiated an abuse finding connected to a resident's death after a wrongful eviction; the incident is the subject of a $14 million lawsuit.",
+      "concern_regulator": "Oregon licensing authorities",
+      "concern_type": "State-substantiated finding related to resident care and safety",
+      "concern_date": "Reported March 2024",
+      "concern_status": "Subject of related litigation as of the source's reporting — confirm current status directly",
+      "concern_source_url": "https://www.wweek.com/news/courts/2024/03/28/a-wrongful-eviction-from-gresham-nursing-home-led-to-former-residents-death-lawsuit-alleges/"
     },
     {
       "name": "Brookdale Geary Street",

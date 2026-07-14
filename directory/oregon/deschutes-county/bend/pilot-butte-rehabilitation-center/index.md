@@ -24,4 +24,5 @@ verified_date: "2026-07-13"
 review_note: "CMS overall star rating is reported inconsistently across aggregator sources: some list 2 stars and others list 3 stars, as of sources accessed July 2026. Confirm the current official rating directly at medicare.gov/care-compare before relying on it."
 quality_tier: "unrated"
 description_full: "Pilot Butte Rehabilitation Center is a 74-bed Medicare- and Medicaid-certified skilled nursing facility in Bend offering short-term rehabilitation and long-term nursing care."
+review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/385138"}]
 ---

@@ -11,15 +11,15 @@ state-license basis for small homes.
   {%- if page.quality_tier == "serious_concerns" %}
   <div class="glance-row glance-flag">
     {% include tier-badge.html tier=page.quality_tier %}
-    <p><span class="muted">This community has a serious flag on its official record — read the
-    details below and the source before considering it further.</span></p>
+    <p><span class="muted">{% if page.concern_type %}{{ page.concern_type }}{% if page.concern_regulator %} ({{ page.concern_regulator }}){% endif %} — {% endif %}read the full facts and source below before considering this community further.</span></p>
   </div>
   {%- elsif page.quality_tier == "below_standard" %}
   <div class="glance-row glance-flag">
     {% include tier-badge.html tier=page.quality_tier %}
-    <p><span class="muted">This is below the bar we generally recommend. We still list it, with
-    its real rating, because it may be the best or only nearby option for some families — see
-    what the rating actually reflects below.</span></p>
+    <p><span class="muted">Below the 3-star / 4.2 line we use to sort listings — our own editorial
+    choice, not a validated standard. We still list it, with its real rating, because it may be
+    the best or only nearby option for some families — see what the rating actually reflects
+    below.</span></p>
   </div>
   {%- endif %}
 
@@ -34,8 +34,8 @@ state-license basis for small homes.
   {%- if page.google_rating %}
   <div class="glance-row">
     {% include stars.html rating=page.google_rating %}
-    <p><strong>{{ page.google_rating }} of 5 — family reviews</strong>{% if page.google_review_count %} <span class="muted">({{ page.google_review_count }})</span>{% endif %}<br>
-    <span class="muted">Written by families and residents on public review sites.</span></p>
+    <p><strong>{{ page.google_rating }} of 5{% if page.rating_source %} — {{ page.rating_source }}{% else %} — family reviews{% endif %}</strong>{% if page.google_review_count %} <span class="muted">({{ page.google_review_count }} reviews)</span>{% endif %}<br>
+    <span class="muted">Written by families and residents{% if page.rating_source %}, as reported on {{ page.rating_source }}{% else %} on public review sites{% endif %}.</span></p>
   </div>
   {%- elsif page.review_note and page.cms_rating_overall == nil %}
   <div class="glance-row">

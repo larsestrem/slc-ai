@@ -41,3 +41,7 @@
 /* Tier-differentiated footer notices */
 .tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
 .tier-notice-danger a { color: var(--accent); }
+.tnd-head { margin-top: 0; }
+.concern-facts { display: grid; grid-template-columns: auto 1fr; gap: .2rem .8rem; margin: .6rem 0; font-size: .92rem; }
+.concern-facts dt { font-weight: 700; }
+.concern-facts dd { margin: 0; }

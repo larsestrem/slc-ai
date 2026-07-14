@@ -24,6 +24,6 @@ review_note: "4.0 stars across 5 reviews on SeniorAdvisor / A Place for Mom (Jul
 quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: generally positive reviews (4.0 stars across 5 reviews, SeniorAdvisor/A Place for Mom, July 2026)."
 quality_tier: "meets_standard"
 description_full: "Summer Crest A.C.H. is an Oregon state-licensed adult care home in Beaverton offering 24-hour private care for up to five residents, with a focus on memory care and a registered nurse available around the clock."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/summer-crest-a-c-h-1358479"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/summer-crest-a-dot-c-h-beaverton-or"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/summer-crest-a-c-h-1358479"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/summer-crest-a-dot-c-h-beaverton-or"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/summer-crest-ach_8263-sw-168th-ave_beaverton_or_97007-622192"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

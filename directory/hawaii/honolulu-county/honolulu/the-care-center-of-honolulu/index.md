@@ -26,6 +26,11 @@ verified_date: "2026-07-13"
 review_note: "CMS rating snapshots gathered in July 2026 are split between 2 stars (nursinghomesite.com, seniorcare.com) and 3 stars (thecareratings.com, nursinghomedatabase.com); one source cites an aggregate of 2.71 across recent periods. We report 3 as the current best-supported figure but flag the discrepancy. Separately and more consequentially: the facility paid 3 fines in the last three years totaling $35,018, and CMS flagged it with a documented pattern of poor care for at least one month between August 2024 and July 2025 (closely-monitored status). Cited deficiencies include improper drug storage/labeling, staff competency gaps, and record-keeping and pressure-ulcer-care failures (source: ProPublica Nursing Home Inspect)."
 serious_concern: true
 serious_concern_note: "CMS flagged a documented pattern of poor care warranting close monitoring, alongside roughly $35,000 in recent federal fines."
+concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
+concern_type: "CMS close-monitoring flag and federal fines"
+concern_status: "Confirm current monitoring status directly"
+concern_source_url: "https://projects.propublica.org/nursing-homes/homes/h-125019"
 quality_tier: "serious_concerns"
 description_full: "The Care Center of Honolulu is a large, for-profit, Medicare- and Medicaid-certified skilled nursing facility on Bachelot Street in Honolulu. It operates the largest respiratory/ventilator care unit in the state alongside general skilled nursing, short-term rehabilitation, and long-term care."
+review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/125019"}]
 ---

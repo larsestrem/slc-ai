@@ -65,7 +65,7 @@ how the rating is determined.
     </div>
     <div class="rating-body">
       <h3>Family &amp; resident reviews</h3>
-      <p><strong>Who writes it:</strong> families and residents, on public review sites{% if page.google_rating and page.google_review_count %} — {{ page.google_rating }} of 5 across {{ page.google_review_count }} reviews{% if page.rating_as_of %} as of {{ page.rating_as_of | date: "%B %Y" }}{% endif %}{% endif %}.
+      <p><strong>Who writes it:</strong> families and residents{% if page.rating_source %}, on {{ page.rating_source }}{% else %}, on public review sites{% endif %}{% if page.google_rating and page.google_review_count %} — {{ page.google_rating }} of 5 across {{ page.google_review_count }} reviews{% if page.rating_as_of %}, retrieved {{ page.rating_as_of | date: "%B %-d, %Y" }}{% endif %}{% endif %}.
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
       inspections. Read the recent ones and the middle-star ones, not just the average.{% if page.facility_size == 'small' %} A home this small serves only a handful of families at a time, so even a great one collects far fewer reviews than a 100-bed building — <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">judge it by the record and your visit, not the review count</a>.{% endif %}</p>
       <p>{%- if page.review_links and page.review_links.size > 0 %}<strong>Read the reviews
@@ -73,6 +73,9 @@ how the rating is determined.
       actual reviews live; we only show the aggregate rating here.
       {%- else %}Search the community's name on Google or a senior-living review site to read the
       actual reviews — we only show the aggregate rating here.{% endif %}</p>
+      {%- if page.review_caveat %}
+      <p class="notice" style="margin-bottom:0"><strong>Same-campus note:</strong> {{ page.review_caveat }}</p>
+      {%- endif %}
       {% include review-caveats.html %}
     </div>
   </div>
@@ -83,20 +86,25 @@ how the rating is determined.
   {%- endif %}
 
   {%- if page.quality_tier == "serious_concerns" %}
-  <p class="notice tier-notice-danger"><strong>Serious concerns on the official record.</strong>
-  This community carries a documented, sourced flag from a government regulator or a public
-  review platform — a Special Focus Facility designation, a substantiated finding, or similar. We
-  don't describe the incident ourselves; that's the regulator's and the reviewers' information, not
-  ours to retell. Read it directly at the primary source linked above ({% if page.cms_ccn %}the
-  federal Care Compare report{% else %}the state license lookup{% endif %}{% if page.review_links and page.review_links.size > 0 %} and the review platforms linked above{% endif %}).
-  We still list this community: a family searching for it by name deserves the real record, not a
-  blank page. Talk to the <a href="/guides/checking-complaints-and-state-records/">long-term care
-  ombudsman</a> about what you find before considering it further.</p>
+  <div class="notice tier-notice-danger">
+    <p class="tnd-head"><strong>Serious concerns on the official record.</strong></p>
+    <dl class="concern-facts">
+      {%- if page.concern_regulator %}<dt>Regulator</dt><dd>{{ page.concern_regulator }}</dd>{% endif %}
+      {%- if page.concern_type %}<dt>Finding</dt><dd>{{ page.concern_type }}</dd>{% endif %}
+      {%- if page.concern_date %}<dt>Date</dt><dd>{{ page.concern_date }}</dd>{% endif %}
+      {%- if page.concern_status %}<dt>Status</dt><dd>{{ page.concern_status }}</dd>{% endif %}
+    </dl>
+    <p>We publish the regulator's finding and a direct source, not our own account of what
+    happened — that's the regulator's information to describe, not ours to retell.
+    {%- if page.concern_source_url %} <a href="{{ page.concern_source_url }}" rel="nofollow noopener">Read the source record directly</a>.{% endif %}
+    We still list this community: a family searching for it by name deserves the real record, not
+    a blank page. Talk to the <a href="/guides/checking-complaints-and-state-records/">long-term
+    care ombudsman</a> about what you find before considering it further, and confirm the current
+    status yourself — regulatory status can change after our {{ page.verified_date | default: site.data_vintage.last_verified }} check.</p>
+  </div>
   {%- elsif page.quality_tier == "below_standard" %}
-  <p class="count"><strong>Below our recommended bar — here's why it's still here.</strong> A lower
-  rating doesn't automatically mean no family should choose it, especially if it's the closest or
-  only realistic option, and frequent visits are possible — presence and attention from family can
-  meaningfully improve a resident's day-to-day care. See our note on
+  <p class="count"><strong>{% if page.cms_rating_overall %}This is a CMS overall rating of {{ page.cms_rating_overall }} of 5{% elsif page.google_rating %}This is a public review average of {{ page.google_rating }} of 5{% if page.google_review_count %} across {{ page.google_review_count }} reviews{% endif %}{% else %}This community's rating is lower than most in our directory{% endif %} — below the 3-star / 4.2 line we use to sort listings.</strong> That threshold is our own editorial choice for sorting, not a validated safety or clinical standard, and a lower rating doesn't automatically mean no family should choose it — especially if it's the closest or
+  only realistic option, and frequent visits are possible. See our note on
   <a href="/guides/how-to-choose-a-senior-care-facility/#step-3-build-a-shortlist">weighing distance against rating</a>.
   Read the record above closely, ask the community directly about what you find, and compare it
   against nearby alternatives before deciding.
@@ -108,9 +116,8 @@ how the rating is determined.
   operation. We don't demand the review volume only a big building can generate.
   <a href="/guides/adult-family-homes/#how-we-list-small-homes">How we choose small homes &rarr;</a></p>
   {%- else %}
-  <p class="count">This community meets the standard we generally recommend — a verified
-  family-review record or a government rating of three stars or better. We list every community we
-  can verify, not just the highest-rated ones, and label each one by tier instead of hiding the
-  rest. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
+  <p class="count">{% if page.cms_rating_overall %}This CMS overall rating of {{ page.cms_rating_overall }} of 5{% elsif page.google_rating %}This public review average of {{ page.google_rating }} of 5{% if page.google_review_count %} across {{ page.google_review_count }} reviews{% endif %}{% else %}This community's record{% endif %} clears the 3-star / 4.2 line we use to sort listings — our own editorial choice, not an independently validated clinical or safety standard. We list every community we
+  can verify, not just the highest-rated ones, and sort by that line instead of hiding what falls
+  short of it. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
   {%- endif %}
 </section>

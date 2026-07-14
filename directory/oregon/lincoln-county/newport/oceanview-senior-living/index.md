@@ -27,5 +27,6 @@ review_note: "A Place for Mom review score 9.2/10 with 16 reviews on the platfor
 quality_tier: "meets_standard"
 description_full: "A Westmont Living community on the Central Oregon coast in Newport offering independent living, assisted living, and memory care. Located just north of downtown Newport off Highway 101."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oceanview-senior-living-60075"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oceanview-senior-living-newport"}]
+rating_source: "A Place for Mom"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

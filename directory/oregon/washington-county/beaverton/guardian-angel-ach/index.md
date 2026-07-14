@@ -24,6 +24,6 @@ review_note: "4.0 stars across 5 reviews on A Place for Mom; 4.5 stars on Senior
 quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: generally positive reviews (A Place for Mom 4.0 across 5 reviews; SeniorAdvisor 4.5), July 2026."
 quality_tier: "meets_standard"
 description_full: "Guardian Angel ACH is a five-bed adult care home in Beaverton offering assistance with the activities of daily living."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/guardian-angel-ach-96025"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/guardian-angel-ach-96025"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/guardian-angel-ach_7659-sw-aldrich-ct_beaverton_or_97007-623351"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

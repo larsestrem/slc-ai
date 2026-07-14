@@ -22,7 +22,7 @@ sources: ["https://reviews.birdeye.com/paradise-valley-estates-157269446555211",
 verified_date: "2026-07-12"
 review_note: "4.6/5 across 47 reviews on Birdeye; Medicare overall rating 5/5 (July 2026)"
 quality_tier: "meets_standard"
-description_full: "A gated nonprofit life plan community in Fairfield, originally founded by retired military officers, offering independent living, assisted living, memory care, and skilled nursing. Its health center earned a 5-out-of-5 overall Medicare rating. Residents praise the spread-out campus, varied activities, and strong sense of community."
+description_full: "A gated nonprofit life plan community in Fairfield, originally founded by retired military officers, offering independent living, assisted living, memory care, and skilled nursing. Its health center earned a 5-out-of-5 overall Medicare rating."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/paradise-valley-estates-157269446555211"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/fairfield/paradise-valley-estates-94533"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

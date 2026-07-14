@@ -26,6 +26,6 @@ rating_as_of: "2026-07-12"
 review_note: "4.4/5 across 37 reviews as shown in senior-living directory listings; 9.1/10 average on SeniorAdvice (July 2026)"
 quality_tier: "unrated"
 description_full: "Fieldstone Cooper Point is a 120-bed independent and assisted living community on Olympia's west side, part of Washington-based Fieldstone Communities."
-review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/fieldstone-cooper-point-olympia"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fieldstone-cooper-point-olympia-1408776"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/olympia/fieldstone-cooper-point"}]
+review_links: [{"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/fieldstone-cooper-point_3524-7th-avenue-sw_olympia_wa_98502-639046"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/fieldstone-cooper-point-olympia"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fieldstone-cooper-point-olympia-1408776"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/olympia/fieldstone-cooper-point"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

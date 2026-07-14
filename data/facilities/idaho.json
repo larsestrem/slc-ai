@@ -347,7 +347,7 @@
       ],
       "facility_size": "large",
       "capacity": 75,
-      "description": "Autumn Wind Assisted Living & Memory Care sits among local farms in a residential Caldwell neighborhood, with 53 assisted living apartments and 22 private and semi-private apartments in its secure Expressions memory care neighborhood specializing in Alzheimer's and dementia care. Families consistently praise the compassionate staff, cleanliness, and home-like atmosphere.",
+      "description": "Autumn Wind Assisted Living & Memory Care sits among local farms in a residential Caldwell neighborhood, with 53 assisted living apartments and 22 private and semi-private apartments in its secure Expressions memory care neighborhood specializing in Alzheimer's and dementia care.",
       "review_note": "9.4/10 A Place for Mom review score; 43 reviews on its A Place for Mom listing with 67% 5-star ratings (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/autumn-wind-assisted-living-memory-care-52749",
@@ -613,7 +613,7 @@
       ],
       "organization": "stellar-senior-living",
       "organization_name": "Stellar Senior Living",
-      "description": "North Star Retirement Community offers independent living, assisted living, and respite care in Coeur d'Alene, operated by Stellar Senior Living. Residents and families consistently note the excellent meals, meticulous cleanliness, scenic location, and dedicated, professional staff.",
+      "description": "North Star Retirement Community offers independent living, assisted living, and respite care in Coeur d'Alene, operated by Stellar Senior Living.",
       "review_note": "9.6/10 A Place for Mom review score based on 10 reviews in the last 2 years; 66 reviews all-time (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/north-star-72732",
@@ -641,7 +641,7 @@
       ],
       "organization": "century-park-associates",
       "organization_name": "Century Park Associates",
-      "description": "The Bridge at Sandpoint is an assisted living community named a 2022-2023 U.S. News & World Report Best Assisted Living community, and it shares a campus relationship with the adjacent Life Care Center of Sandpoint for skilled nursing and rehabilitation. Families praise staff who treat residents like family in a safe, engaging environment. It is part of the Century Park Associates portfolio.",
+      "description": "The Bridge at Sandpoint is an assisted living community named a 2022-2023 U.S. News & World Report Best Assisted Living community, and it shares a campus relationship with the adjacent Life Care Center of Sandpoint for skilled nursing and rehabilitation. It is part of the Century Park Associates portfolio.",
       "review_note": "4.6/5 average across 9 reviews on A Place for Mom (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/bridge-assisted-living-at-sandpoint-52928",
@@ -758,7 +758,7 @@
       "organization": "grace-assisted-living",
       "organization_name": "Grace Assisted Living",
       "review_note": "4.9/5 across 29 reviews on AssistedLivingCenter; 17 reviews on Caring.com (July 2026)",
-      "description": "Grace at Fairview Lakes is a Grace Assisted Living community in Meridian offering independent living, assisted living, and a dedicated memory care unit. Families praise the genuinely warm caregiving team, the personalized attention for residents with memory issues, and the clean, well-maintained campus.",
+      "description": "Grace at Fairview Lakes is a Grace Assisted Living community in Meridian offering independent living, assisted living, and a dedicated memory care unit.",
       "sources": [
         "https://www.assistedlivingcenter.com/facilities/id/meridian/grace-at-fairview-lakes-83646/",
         "https://www.caring.com/senior-living/idaho/meridian/grace-assisted-living-fairview-lakes",
@@ -1469,7 +1469,11 @@
       ],
       "verified_date": "2026-07-13",
       "serious_concern": true,
-      "serious_concern_note": "State and federal inspection records document substantiated abuse and neglect citations."
+      "serious_concern_note": "State and federal inspection records document substantiated abuse and neglect citations.",
+      "concern_regulator": "CMS and Idaho state surveyors",
+      "concern_type": "Federal inspection citations for failing to protect residents from abuse/neglect",
+      "concern_status": "Confirm current citation status directly on Care Compare",
+      "concern_source_url": "https://www.medicare.gov/care-compare/details/nursing-home/135053/?city=COEUR+D%27ALENE&state=ID"
     },
     {
       "name": "Cascadia of Boise",
@@ -1598,7 +1602,11 @@
       ],
       "verified_date": "2026-07-13",
       "serious_concern": true,
-      "serious_concern_note": "CMS records show a federal fine of roughly $114,000 tied to documented quality-of-care deficiencies."
+      "serious_concern_note": "CMS records show a federal fine of roughly $114,000 tied to documented quality-of-care deficiencies.",
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
+      "concern_type": "Federal fine (approximately $114,000) tied to a complaint investigation",
+      "concern_status": "Confirm current enforcement status directly on Care Compare",
+      "concern_source_url": "https://www.medicare.gov/care-compare/details/nursing-home/135014/view-all/?state=ID"
     },
     {
       "name": "Silverton Health and Rehabilitation of Cascadia",
@@ -1633,7 +1641,11 @@
       ],
       "verified_date": "2026-07-13",
       "serious_concern": true,
-      "serious_concern_note": "State and federal inspection records document repeat substantiated abuse and neglect citations."
+      "serious_concern_note": "State and federal inspection records document repeat substantiated abuse and neglect citations.",
+      "concern_regulator": "CMS and Idaho state surveyors",
+      "concern_type": "Federal inspection citations for repeat abuse/neglect findings",
+      "concern_status": "Confirm current citation status directly on Care Compare",
+      "concern_source_url": "https://www.medicare.gov/care-compare/details/nursing-home/135058/view-all/?state=ID"
     },
     {
       "name": "Grangeville Health and Rehabilitation of Cascadia",
@@ -1668,7 +1680,11 @@
       ],
       "verified_date": "2026-07-13",
       "serious_concern": true,
-      "serious_concern_note": "Despite a current 4-star CMS overall rating, federal inspection records document a citation for placing residents in immediate danger from abuse — read the full inspection history, not just the star average."
+      "serious_concern_note": "Despite a current 4-star CMS overall rating, federal inspection records document a citation for placing residents in immediate danger from abuse — read the full inspection history, not just the star average.",
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
+      "concern_type": "Federal inspection citation for failure to protect residents from abuse",
+      "concern_status": "The current overall rating is 4 of 5 — this citation is a separate, specific historical inspection finding; confirm current status directly",
+      "concern_source_url": "https://projects.propublica.org/nursing-homes/homes/h-135080"
     },
     {
       "name": "Paradise Creek Health and Rehab of Cascadia",
@@ -1700,7 +1716,11 @@
       ],
       "verified_date": "2026-07-13",
       "serious_concern": true,
-      "serious_concern_note": "Federal enforcement records document a pattern of fines since 2023 tied to quality-of-life and abuse/neglect-prevention deficiencies."
+      "serious_concern_note": "Federal enforcement records document a pattern of fines since 2023 tied to quality-of-life and abuse/neglect-prevention deficiencies.",
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
+      "concern_type": "Pattern of federal fines since 2023 tied to quality-of-life and abuse/neglect-prevention deficiencies",
+      "concern_status": "Confirm current enforcement status directly",
+      "concern_source_url": "https://health.usnews.com/best-nursing-homes/area/id/paradise-creek-health-and-rehab-of-cascadia-135067"
     },
     {
       "name": "Applewood Assisted Living",

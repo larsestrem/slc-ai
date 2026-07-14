@@ -27,6 +27,11 @@ verified_date: "2026-07-13"
 review_note: "CMS flags this facility with an abuse-citation icon on Care Compare. For at least one month between August 2024 and July 2025 it carried a documented pattern of poor care and was subject to additional CMS inspections. Willamette Week (Nov. 21, 2024) named it among Oregon facilities under state 'additional oversight' after a resident's leg was amputated following delayed treatment of an infected wound. Sources accessed July 2026."
 serious_concern: true
 serious_concern_note: "Carried a CMS special-focus-pattern designation and an active federal abuse citation flag during 2024-2025 inspections."
+concern_regulator: "CMS (Centers for Medicare & Medicaid Services) and Oregon DHS"
+concern_type: "CMS abuse-citation flag; named on Oregon's public 'additional oversight' list"
+concern_date: "Reported November 2024; CMS inspection window August 2024 – July 2025"
+concern_status: "Confirm current status directly — the reported oversight window has since passed"
+concern_source_url: "https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/"
 quality_tier: "serious_concerns"
 description_full: "Hearthstone Nursing and Rehabilitation Center is an 87-bed Medicare- and Medicaid-certified skilled nursing facility in Medford offering short-term rehabilitation and long-term nursing care. It is operated by Volare Health."
 ---

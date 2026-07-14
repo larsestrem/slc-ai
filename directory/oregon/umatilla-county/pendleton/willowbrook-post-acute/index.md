@@ -24,4 +24,5 @@ sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385201/", 
 verified_date: "2026-07-13"
 quality_tier: "below_standard"
 description_full: "Willowbrook Post Acute is a 59-bed Medicare- and Medicaid-certified skilled nursing facility in Pendleton offering short-term rehabilitation and long-term nursing care."
+review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/385201"}]
 ---

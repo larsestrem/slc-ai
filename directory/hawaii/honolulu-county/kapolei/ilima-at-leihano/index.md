@@ -27,6 +27,7 @@ google_review_count: 75
 rating_as_of: "2026-07-12"
 quality_tier: "meets_standard"
 description_full: "'Ilima at Leihano is a Kisco Senior Living community set on four landscaped acres in the heart of Kapolei, offering independent living, assisted living, and memory care in studio, one-bedroom, and two-bedroom apartments."
-review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/ilima-at-leihano-kapolei"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/ilima-at-leihano-143199"}]
+review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/hawaii/kapolei/ilima-at-leihano"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/ilima-at-leihano-kapolei"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/ilima-at-leihano-143199"}]
+rating_source: "Ultimate Senior Resource"
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
 ---

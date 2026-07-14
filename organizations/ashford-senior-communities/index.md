@@ -7,6 +7,6 @@ org_description: "Ashford Senior Communities is a Utah senior living operator wi
 website: "https://ashfordutah.com/"
 facility_count_approx: 2
 org_states: ["UT"]
-facilities: [{"name": "Ashford Assisted Living & Memory Care of Draper", "url": "/directory/utah/salt-lake-county/draper/ashford-assisted-living-memory-care-of-draper/", "city_name": "Draper", "state_abbrev": "UT", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "description": "The Ashford of Draper offers independent living, assisted living, and memory care on Bangerter Parkway in Draper, at the south end of the Salt Lake valley. Families praise the spacious building and consistent, compassionate attention from staff."}]
+facilities: [{"name": "Ashford Assisted Living & Memory Care of Draper", "url": "/directory/utah/salt-lake-county/draper/ashford-assisted-living-memory-care-of-draper/", "city_name": "Draper", "state_abbrev": "UT", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "description": "The Ashford of Draper offers independent living, assisted living, and memory care on Bangerter Parkway in Draper, at the south end of the Salt Lake valley."}]
 crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Ashford Senior Communities", "url": "/organizations/ashford-senior-communities/"}]
 ---

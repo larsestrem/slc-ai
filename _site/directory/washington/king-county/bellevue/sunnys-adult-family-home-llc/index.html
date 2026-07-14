@@ -29,8 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
+  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -231,6 +231,10 @@ tbody tr:hover { background: var(--soft); }
 /* Tier-differentiated footer notices */
 .tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
 .tier-notice-danger a { color: var(--accent); }
+.tnd-head { margin-top: 0; }
+.concern-facts { display: grid; grid-template-columns: auto 1fr; gap: .2rem .8rem; margin: .6rem 0; font-size: .92rem; }
+.concern-facts dt { font-weight: 700; }
+.concern-facts dd { margin: 0; }
 </style>
   
 </head>
@@ -321,8 +325,8 @@ tbody tr:hover { background: var(--soft); }
   <div class="glance-row">
     <span class="stars" role="img" aria-label="4.9 out of 5 stars">★★★★★</span>
 
-    <p><strong>4.9 of 5 — family reviews</strong> <span class="muted">(7)</span><br>
-    <span class="muted">Written by families and residents on public review sites.</span></p>
+    <p><strong>4.9 of 5 — CareListings</strong> <span class="muted">(7 reviews)</span><br>
+    <span class="muted">Written by families and residents, as reported on CareListings.</span></p>
   </div>
   <div class="glance-row">
     <p><strong>State-licensed small care home</strong><br>
@@ -379,7 +383,7 @@ tbody tr:hover { background: var(--soft); }
     </div>
     <div class="rating-body">
       <h3>Family &amp; resident reviews</h3>
-      <p><strong>Who writes it:</strong> families and residents, on public review sites — 4.9 of 5 across 7 reviews as of July 2026.
+      <p><strong>Who writes it:</strong> families and residents, on CareListings — 4.9 of 5 across 7 reviews, retrieved July 13, 2026.
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
       inspections. Read the recent ones and the middle-star ones, not just the average. A home this small serves only a handful of families at a time, so even a great one collects far fewer reviews than a 100-bed building — <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">judge it by the record and your visit, not the review count</a>.</p>
       <p><strong>Read the reviews
@@ -454,7 +458,7 @@ tbody tr:hover { background: var(--soft); }
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">Assisted living and memory care community in east Bellevue, part of the national Sunrise Senior Living network. Families praise the excep...</p>
+<p class="desc">Assisted living and memory care community in east Bellevue, part of the national Sunrise Senior Living network.</p>
 </li>
 
     </ul>

@@ -9,6 +9,6 @@ county_name: "San Mateo"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "The Magnolia of Millbrae", "url": "/directory/california/san-mateo-county/millbrae/the-magnolia-of-millbrae/", "city_name": "Millbrae", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living"], "quality_tier": "unrated", "facility_size": "medium", "description": "Full-service retirement and assisted living community on Chadbourne Avenue in Millbrae, on the Peninsula between San Francisco and San Mateo. Residents enjoy gourmet dining, a pool, gym, transportation services and a steady calendar of speakers and outings."}]
+facilities: [{"name": "The Magnolia of Millbrae", "url": "/directory/california/san-mateo-county/millbrae/the-magnolia-of-millbrae/", "city_name": "Millbrae", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living"], "quality_tier": "unrated", "facility_size": "medium", "description": "Full-service retirement and assisted living community on Chadbourne Avenue in Millbrae, on the Peninsula between San Francisco and San Mateo."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Mateo County", "url": "/directory/california/san-mateo-county/"}, {"name": "Millbrae", "url": "/directory/california/san-mateo-county/millbrae/"}]
 ---

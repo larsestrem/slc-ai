@@ -25,4 +25,5 @@ verified_date: "2026-07-13"
 review_note: "CMS overall rating 1/5 stars, per nursinghomedatabase.com CMS-sourced data (July 2026); Shelton was named among the cities with 1-star Washington nursing homes in KING5's statewide news coverage."
 quality_tier: "below_standard"
 description_full: "Shelton Health and Rehabilitation is a 76-bed skilled nursing facility at 153 Johns Ct in Shelton offering 24-hour skilled nursing, long-term residential care, short-term rehabilitation, and memory-care programming. It is Medicare- and Medicaid-certified. Its current CMS overall quality rating is 1 out of 5 stars."
+review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/505507"}]
 ---

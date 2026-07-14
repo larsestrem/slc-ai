@@ -29,8 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
+  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -238,22 +238,32 @@ not hide them.</p>
 <p>So the model changed: <strong>list what’s real and verifiable, rate it honestly, and label it clearly</strong>
 — rather than deciding on a family’s behalf which communities they’re allowed to see.</p>
 
-<h2 id="what-the-labels-mean">What the labels mean</h2>
+<h2 id="what-the-labels-mean--and-what-they-dont">What the labels mean — and what they don’t</h2>
 
 <p>Every community’s tier is calculated automatically from the same rating data shown on its page —
-never assigned by hand, never hidden behind vague language.</p>
+never assigned by hand, never hidden behind vague language. But be clear about what a label is:
+<strong>it’s a sort order, not a certified endorsement.</strong></p>
+
+<p>We sort communities using a <strong>3-star CMS rating / 4.2 review average</strong> line. That number is our
+own editorial choice for ordering a long list — it is not a government safety threshold, not a
+clinical standard, and not proof that a 4.1 is meaningfully worse than a 4.2. There is no research
+we’re aware of establishing that exact figure as a quality cutoff, and we don’t want to imply
+otherwise. Two different rating systems (a federal inspection score and a consumer review
+average) are also not the same kind of measurement — we sort by both because families search by
+both, not because we’re claiming they’re equivalent.</p>
 
 <ul>
-  <li><strong>Meets our standard</strong> — a government rating of three stars or better (nursing homes), a
-verified review record of 4.2+ (assisted living, memory care, independent living), or, for
-small homes, a clean state-license record plus a positive signal, <a href="/guides/adult-family-homes/#how-we-list-small-homes">as explained
-here</a>.</li>
-  <li><strong>Below our recommended bar</strong> — a government rating of one or two stars, or a verified review
-record below 4.2. This is not a “never” label. Read on for how to actually use it.</li>
-  <li><strong>Serious concerns</strong> — a documented, sourced red flag: a federal Special Focus Facility
-designation, a substantiated abuse or neglect finding, or an active license restriction. These
-are listed too, with the strongest warning we show anywhere on the site, and a direct link to
-the source so you can read the finding yourself.</li>
+  <li><strong>Clears our 3★ / 4.2 threshold</strong> — a CMS overall rating of three stars or better (nursing
+homes), a public review average of 4.2 or better, or, for small homes, a clean state-license
+record plus a positive signal, <a href="/guides/adult-family-homes/#how-we-list-small-homes">as explained here</a>.
+Sorted first. Not a certification — read the actual number on the page.</li>
+  <li><strong>Lower-rated</strong> — a CMS overall rating of one or two stars, or a public review average below
+4.2. Sorted lower. This is not a “never” label — read on for how to actually use it.</li>
+  <li><strong>Serious concerns</strong> — a documented, sourced flag: a federal Special Focus Facility (or
+Candidate) designation, a substantiated abuse or neglect finding, or a comparable regulatory
+action. Every community carrying this label shows the specific regulator, the finding, its date
+when known, its current status, and a direct link to the source — never a vague “or similar.”
+These are listed too, with the strongest warning we show anywhere on the site.</li>
   <li><strong>No label shown (unrated)</strong> — we haven’t captured rating data for this community yet. That’s a
 gap in our records, not a judgment. Check the official record linked on its page and confirm
 what you find on a visit or call.</li>
@@ -264,7 +274,7 @@ see our guides on <a href="/guides/reading-inspection-reports-and-ratings/">read
 and <a href="/guides/interpreting-online-reviews/">interpreting online reviews</a> for what each number can
 and can’t tell you.</p>
 
-<h2 id="how-to-actually-use-a-below-our-recommended-bar-label">How to actually use a “below our recommended bar” label</h2>
+<h2 id="how-to-actually-use-a-lower-rated-label">How to actually use a “lower-rated” label</h2>
 
 <p>A lower rating is real information — it is not, by itself, a reason to cross a community off
 automatically. Context changes what it means:</p>
@@ -276,10 +286,9 @@ families or inspections) is a serious signal, wherever it appears.</li>
 hasn’t built a public record yet — not necessarily a problem. See how we think about
 <a href="/guides/interpreting-online-reviews/#why-good-facilities-can-carry-mediocre-scores">small-sample noise cutting both ways</a>.</li>
   <li><strong>Proximity and visit frequency matter.</strong> If a lower-rated community is the one you can
-realistically visit often — daily, or several times a week — that changes the calculation.
-Frequent family presence is one of the strongest protections a resident has: you notice small
-problems early, staff know your parent is watched, and a community with families dropping by
-unannounced tends to hold itself to a higher standard day to day. Our <a href="/guides/how-to-choose-a-senior-care-facility/#step-3-build-a-shortlist">guide to choosing a
+realistically visit often — daily, or several times a week — that may be worth weighing against
+the rating. Frequent visits may help families notice changes early, communicate with staff, and
+raise concerns sooner. Our <a href="/guides/how-to-choose-a-senior-care-facility/#step-3-build-a-shortlist">guide to choosing a
 facility</a> walks through
 weighing distance against rating directly.</li>
   <li><strong>Sometimes it’s genuinely the only realistic option</strong> — the only nearby community with an
@@ -315,16 +324,23 @@ reach.</p>
 <p><strong>Isn’t it dangerous to list a community with serious problems at all?</strong>
 We think it’s more dangerous not to. A family that finds nothing when they search a name will
 assume it isn’t in our directory yet, not that we know something troubling. Listing it, with the
-concern stated plainly and the source linked, gives them the one thing that actually protects
+specific finding, its source, and its date, gives them the one thing that actually protects
 them: the truth, in time to act on it.</p>
+
+<p><strong>Is the 3-star / 4.2 threshold a validated safety standard?</strong>
+No, and we don’t want to imply otherwise. It’s our own editorial choice for sorting a long list,
+not research-backed clinical or safety science, and a federal inspection score and a consumer
+review average aren’t the same kind of measurement even though we sort by both. Read the specific
+numbers on each page rather than relying on the label alone.</p>
 
 <p><strong>How do you decide the tier?</strong>
 It’s computed automatically from the same data shown on the page — the Medicare star rating,
-documented review ratings, or (for small homes) the state license standing — never guessed or
-assigned by hand. If we haven’t captured rating data yet, a community shows as unrated rather than
-being assigned a tier it hasn’t earned.</p>
+documented review ratings, or (for small homes) the state license standing — using a 3-star / 4.2
+sort line that is our own editorial choice, not a validated safety or clinical standard. If we
+haven’t captured rating data yet, a community shows as unrated rather than being assigned a tier
+it hasn’t earned.</p>
 
-<p><strong>Should I ever choose a “below our recommended bar” community?</strong>
+<p><strong>Should I ever choose a “lower-rated” community?</strong>
 Sometimes, yes — context matters. If it’s the closest option and you can visit often, or the only
 one that takes your parent’s insurance, or your own visit turns up something the rating doesn’t
 capture, it can still be the right choice for your family. Read the full record, ask the community
@@ -342,7 +358,7 @@ directly about what you find, and compare it honestly against the alternatives.<
 {"@context":"https://schema.org","@type":"Article","headline":"Why Every Community Is Listed Here — And What Our Labels Mean","description":"We list every senior living community we can verify, rated honestly and labeled by tier instead of hidden. Here's why, and what each label means.","dateModified":"2026-07-13","author":{"@type":"Organization","name":"Senior Living Community"},"mainEntityOfPage":"https://senior.living.community/guides/how-we-list-communities/"}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why not just hide the low-rated ones and only show good communities?","acceptedAnswer":{"@type":"Answer","text":"Two reasons. First, families searching for a specific community by name deserve the real record, not a blank page — hiding it doesn't protect anyone, it just leaves them uninformed. Second, a directory that only shows the highest-rated places quietly misleads families in areas where nothing nearby is highly rated, by implying options exist elsewhere that they can't actually reach."}},{"@type":"Question","name":"Isn't it dangerous to list a community with serious problems at all?","acceptedAnswer":{"@type":"Answer","text":"We think it's more dangerous not to. A family that finds nothing when they search a name will assume it isn't in our directory yet, not that we know something troubling. Listing it, with the concern stated plainly and the source linked, gives them the one thing that actually protects them: the truth, in time to act on it."}},{"@type":"Question","name":"How do you decide the tier?","acceptedAnswer":{"@type":"Answer","text":"It's computed automatically from the same data shown on the page — the Medicare star rating, documented review ratings, or (for small homes) the state license standing — never guessed or assigned by hand. If we haven't captured rating data yet, a community shows as unrated rather than being assigned a tier it hasn't earned."}},{"@type":"Question","name":"Should I ever choose a \"below our recommended bar\" community?","acceptedAnswer":{"@type":"Answer","text":"Sometimes, yes — context matters. If it's the closest option and you can visit often, or the only one that takes your parent's insurance, or your own visit turns up something the rating doesn't capture, it can still be the right choice for your family. Read the full record, ask the community directly about what you find, and compare it honestly against the alternatives."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why not just hide the low-rated ones and only show good communities?","acceptedAnswer":{"@type":"Answer","text":"Two reasons. First, families searching for a specific community by name deserve the real record, not a blank page — hiding it doesn't protect anyone, it just leaves them uninformed. Second, a directory that only shows the highest-rated places quietly misleads families in areas where nothing nearby is highly rated, by implying options exist elsewhere that they can't actually reach."}},{"@type":"Question","name":"Isn't it dangerous to list a community with serious problems at all?","acceptedAnswer":{"@type":"Answer","text":"We think it's more dangerous not to. A family that finds nothing when they search a name will assume it isn't in our directory yet, not that we know something troubling. Listing it, with the specific finding, its source, and its date, gives them the one thing that actually protects them: the truth, in time to act on it."}},{"@type":"Question","name":"Is the 3-star / 4.2 threshold a validated safety standard?","acceptedAnswer":{"@type":"Answer","text":"No, and we don't want to imply otherwise. It's our own editorial choice for sorting a long list, not research-backed clinical or safety science, and a federal inspection score and a consumer review average aren't the same kind of measurement even though we sort by both. Read the specific numbers on each page rather than relying on the label alone."}},{"@type":"Question","name":"How do you decide the tier?","acceptedAnswer":{"@type":"Answer","text":"It's computed automatically from the same data shown on the page — the Medicare star rating, documented review ratings, or (for small homes) the state license standing — never guessed or assigned by hand. If we haven't captured rating data yet, a community shows as unrated rather than being assigned a tier it hasn't earned."}},{"@type":"Question","name":"Should I ever choose a \"lower-rated\" community?","acceptedAnswer":{"@type":"Answer","text":"Sometimes, yes — context matters. If it's the closest option and you can visit often, or the only one that takes your parent's insurance, or your own visit turns up something the rating doesn't capture, it can still be the right choice for your family. Read the full record, ask the community directly about what you find, and compare it honestly against the alternatives."}}]}
 </script>
 
   </main>

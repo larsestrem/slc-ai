@@ -25,6 +25,10 @@ verified_date: "2026-07-13"
 review_note: "CMS overall rating reported as 2 stars by multiple sources (nursinghomedatabase.com, nursinghomesite.com, July 2026); one other source cites 5 stars, an outlier compared to the rest of the evidence gathered. Facility has a documented history of violations and fines in the last three years totaling roughly $161,000, including a Medicare payment suspension, with citations for failing to prevent infection spread and failing to designate an infection-prevention lead (source: nursinghomelawcenter.org, aggregating CMS inspection data)."
 serious_concern: true
 serious_concern_note: "CMS records show roughly $161,000 in federal fines and a period of Medicare payment suspension tied to documented quality problems."
+concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
+concern_type: "Federal enforcement action — fines and a period of Medicare payment suspension"
+concern_status: "Confirm current enforcement status directly on Care Compare"
+concern_source_url: "https://www.medicare.gov/care-compare/details/nursing-home/125041/view-all/?state=HI"
 quality_tier: "serious_concerns"
 description_full: "Liliha Healthcare Center is a 92-bed Medicare- and Medicaid-certified skilled nursing facility in the Liliha neighborhood of Honolulu, offering short-term rehabilitation and long-term nursing care."
 ---

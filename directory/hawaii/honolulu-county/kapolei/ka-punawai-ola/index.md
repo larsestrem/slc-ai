@@ -27,5 +27,5 @@ sources: ["https://lcca.com/locations/hi/ka-punawai-ola/", "https://health.usnew
 verified_date: "2026-07-12"
 quality_tier: "meets_standard"
 description_full: "A 120-bed skilled nursing and rehabilitation facility in Kapolei operated by Life Care Centers of America; the name is Hawaiian for 'well-spring of health and living waters.' It provides short-term rehabilitation, long-term care, and post-operative recovery, carries a CMS overall rating of 4 stars with 5-star quality measures, and was named a U.S. News 2026 Best Nursing Home with High Performing ratings for both short-term rehab and long-term care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/ka-punawai-ola-125051"}]
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/ka-punawai-ola-125051"}, {"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/125051"}]
 ---

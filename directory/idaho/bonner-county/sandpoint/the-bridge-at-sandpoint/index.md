@@ -23,7 +23,7 @@ sources: ["https://www.aplaceformom.com/community/bridge-assisted-living-at-sand
 verified_date: "2026-07-12"
 review_note: "4.6/5 average across 9 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "The Bridge at Sandpoint is an assisted living community named a 2022-2023 U.S. News & World Report Best Assisted Living community, and it shares a campus relationship with the adjacent Life Care Center of Sandpoint for skilled nursing and rehabilitation. Families praise staff who treat residents like family in a safe, engaging environment. It is part of the Century Park Associates portfolio."
+description_full: "The Bridge at Sandpoint is an assisted living community named a 2022-2023 U.S. News & World Report Best Assisted Living community, and it shares a campus relationship with the adjacent Life Care Center of Sandpoint for skilled nursing and rehabilitation. It is part of the Century Park Associates portfolio."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bridge-assisted-living-at-sandpoint-52928"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/bridge-at-sandpoint-2329"}]
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

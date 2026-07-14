@@ -26,6 +26,6 @@ verified_date: "2026-07-11"
 review_note: "4.8/5 average across 10 reviews on A Place for Mom; 5.0 stars on SeniorAdvisor (July 2026)"
 quality_tier: "unrated"
 description_full: "A 99-unit independent retirement community on the Providence Senior Village campus in Hood River, with views of the Hood River Valley. Rent includes daily meals, housekeeping, laundry, and scheduled transportation, and the campus sits adjacent to Providence Brookside Manor for higher levels of care. Operated by the Providence health system."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/providence-down-manor-59715"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/providence-down-manor-59715"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/down-manor_1950-sterling-pl_hood-river_or_97031-627954"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

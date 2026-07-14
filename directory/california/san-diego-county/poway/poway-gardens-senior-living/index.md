@@ -28,7 +28,8 @@ google_review_count: 8
 rating_as_of: "2026-07-12"
 review_note: "4.4/5 across 30 reviews on A Place for Mom (July 2026)"
 quality_tier: "meets_standard"
-description_full: "Poway Gardens Senior Living is a memory-care-focused campus of seven independently licensed buildings, including five six-bed ranch-style Garden Villas and two larger residences, totaling 86 beds. Operated by Sinceri Senior Living, it is regularly praised for friendly staff and quality of care."
+description_full: "Poway Gardens Senior Living is a memory-care-focused campus of seven independently licensed buildings, including five six-bed ranch-style Garden Villas and two larger residences, totaling 86 beds."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/poway-ca/poway-gardens-senior-living/5acd01b9a71d8c15cf6857c5"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/poway-gardens-senior-living-94871"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/poway-gardens-senior-living-poway"}]
+rating_source: "CareListings"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

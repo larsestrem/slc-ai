@@ -24,7 +24,7 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.6/5 across 94 reviews on Birdeye; 4.5/5 average across 50 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Weatherly Inn Tacoma is a family-operated senior living community in north Tacoma offering independent living, assisted living, memory care, adult day stay and respite care. Families consistently praise the caring staff, range of amenities and sense of community, and the campus sits in a residential neighborhood near Point Defiance."
+description_full: "Weatherly Inn Tacoma is a family-operated senior living community in north Tacoma offering independent living, assisted living, memory care, adult day stay and respite care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/weatherly-inn-tacoma-71800"}, {"name": "Birdeye", "url": "https://birdeye.com/weatherly-inn-tacoma-173895761106360"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/weatherly-inn-tacoma-4"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

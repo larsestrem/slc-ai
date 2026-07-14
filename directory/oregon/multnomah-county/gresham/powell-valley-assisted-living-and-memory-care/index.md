@@ -24,6 +24,11 @@ verified_date: "2026-07-13"
 review_note: "SERIOUS CONCERNS: Oregon regulators substantiated findings of abuse and levied fines related to the facility's treatment of resident Donald Price, who was allegedly wrongfully evicted in 2022 following altercations with staff and later died; his family filed a $14 million wrongful-death lawsuit in Multnomah County Circuit Court (Willamette Week, March 28, 2024, and later reporting). Consumer review platforms show a range of positive and negative feedback (accessed July 2026); verify current standing before relying on this summary."
 serious_concern: true
 serious_concern_note: "State inspectors substantiated an abuse finding connected to a resident's death after a wrongful eviction; the incident is the subject of a $14 million lawsuit."
+concern_regulator: "Oregon licensing authorities"
+concern_type: "State-substantiated finding related to resident care and safety"
+concern_date: "Reported March 2024"
+concern_status: "Subject of related litigation as of the source's reporting — confirm current status directly"
+concern_source_url: "https://www.wweek.com/news/courts/2024/03/28/a-wrongful-eviction-from-gresham-nursing-home-led-to-former-residents-death-lawsuit-alleges/"
 quality_tier: "serious_concerns"
 description_full: "Powell Valley Assisted Living and Memory Care is a 115-bed licensed assisted living and memory care community on a four-acre campus in Gresham, offering studio, one-bedroom, and two-bedroom units."
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}

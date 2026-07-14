@@ -24,7 +24,7 @@ sources: ["https://reviews.birdeye.com/the-meadows-of-napa-valley-15726944674560
 verified_date: "2026-07-12"
 review_note: "4.5/5 across 45 reviews on Birdeye (July 2026)"
 quality_tier: "unrated"
-description_full: "A nonprofit life plan community in the city of Napa managed by Pacific Retirement Services, offering independent living, assisted living, and skilled nursing on one campus. Families note cheerful common areas, well-kept grounds, and therapy staff who help residents regain mobility. Its short-term rehabilitation is rated High Performing by U.S. News."
+description_full: "A nonprofit life plan community in the city of Napa managed by Pacific Retirement Services, offering independent living, assisted living, and skilled nursing on one campus. Its short-term rehabilitation is rated High Performing by U.S. News."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/the-meadows-of-napa-valley-157269446745602"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-meadows-of-napa-valley-18840"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-meadows-of-napa-valley-napa"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

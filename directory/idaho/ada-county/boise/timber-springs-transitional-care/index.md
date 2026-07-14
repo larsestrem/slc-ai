@@ -26,4 +26,5 @@ verified_date: "2026-07-13"
 review_note: "CMS overall star rating: 1 out of 5 (much below average), per Medicare Care Compare data cited by NursingHomeDatabase.com and ProPublica Nursing Home Inspect (as of July 2026). Recently acquired by The Ensign Group."
 quality_tier: "below_standard"
 description_full: "Timber Springs Transitional Care is a Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Boise with 120 certified beds. It offers short-term rehabilitation therapy and long-term skilled nursing care."
+review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/135098"}]
 ---

@@ -26,5 +26,6 @@ rating_as_of: "2026-07-12"
 quality_tier: "meets_standard"
 description_full: "Assisted living and memory care community on a hilltop in Boulder City, one of the few licensed senior living options in town."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/lakeview-terrace-of-boulder-city-156304"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/nevada/boulder-city/lakeview-terrace-of-boulder-city"}]
+rating_source: "A Place for Mom"
 licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
 ---

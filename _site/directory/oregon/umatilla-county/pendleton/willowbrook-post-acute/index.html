@@ -29,8 +29,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
+  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -231,6 +231,10 @@ tbody tr:hover { background: var(--soft); }
 /* Tier-differentiated footer notices */
 .tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
 .tier-notice-danger a { color: var(--accent); }
+.tnd-head { margin-top: 0; }
+.concern-facts { display: grid; grid-template-columns: auto 1fr; gap: .2rem .8rem; margin: .6rem 0; font-size: .92rem; }
+.concern-facts dt { font-weight: 700; }
+.concern-facts dd { margin: 0; }
 </style>
   
 </head>
@@ -317,10 +321,11 @@ tbody tr:hover { background: var(--soft); }
       <section class="panel rating-glance" aria-labelledby="glance-h">
   <h2 id="glance-h">Rating at a glance</h2>
   <div class="glance-row glance-flag">
-    <span class="tier-badge tier-below_standard">Below our recommended bar</span>
-    <p><span class="muted">This is below the bar we generally recommend. We still list it, with
-    its real rating, because it may be the best or only nearby option for some families — see
-    what the rating actually reflects below.</span></p>
+    <span class="tier-badge tier-below_standard">Lower-rated</span>
+    <p><span class="muted">Below the 3-star / 4.2 line we use to sort listings — our own editorial
+    choice, not a validated standard. We still list it, with its real rating, because it may be
+    the best or only nearby option for some families — see what the rating actually reflects
+    below.</span></p>
   </div>
   <div class="glance-row">
     <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
@@ -380,10 +385,36 @@ tbody tr:hover { background: var(--soft); }
       <p class="cms-currency"><strong>CMS certification number:</strong> 385201. We could not confirm the exact CMS data-release date this rating reflects — CMS refreshes ratings monthly, so confirm the current number on Care Compare above before deciding. Our own record was last checked 2026-07-13, which is not the same as the CMS data date.</p>
     </div>
   </div>
-  <p class="count"><strong>Below our recommended bar — here's why it's still here.</strong> A lower
-  rating doesn't automatically mean no family should choose it, especially if it's the closest or
-  only realistic option, and frequent visits are possible — presence and attention from family can
-  meaningfully improve a resident's day-to-day care. See our note on
+  <div class="rating-card">
+    <div class="rating-badge"><span class="rating-num">Family<br>reviews</span>
+    </div>
+    <div class="rating-body">
+      <h3>Family &amp; resident reviews</h3>
+      <p><strong>Who writes it:</strong> families and residents, on public review sites.
+      <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
+      inspections. Read the recent ones and the middle-star ones, not just the average.</p>
+      <p><strong>Read the reviews
+      yourself:</strong> <a href="https://www.nursinghomedatabase.com/snf/385201" rel="nofollow noopener">Nursing Home Database</a> — that's where the
+      actual reviews live; we only show the aggregate rating here.</p>
+      <div class="review-caveats">
+  <p class="rc-lead">A star average is a starting point, not a verdict. We don't write these reviews,
+  verify what they say, or investigate the community ourselves — we aggregate public ratings and
+  point you to where they live so you can do your own research. Before you weigh a number, know
+  what it can hide:</p>
+  <ul>
+    <li><strong>Who writes them.</strong> Usually adult children, not the resident — so reviews capture communication, billing, and first impressions more than the texture of daily care. <a href="/guides/interpreting-online-reviews/#who-writes-reviews">More&nbsp;&rarr;</a></li>
+    <li><strong>Emotion moves the score.</strong> People post when they're delighted or furious; the quietly satisfied middle rarely does, and reviews written in grief, guilt, or relief carry that charge. The calm three-star reviews usually hold the real trade-offs. <a href="/guides/interpreting-online-reviews/#the-emotion-behind-a-review">More&nbsp;&rarr;</a></li>
+    <li><strong>Reviews can be solicited or self-reported.</strong> A community can fairly ask happy families to post — or cross the line by gating out unhappy ones, pressuring residents, or paying. A burst of five-star reviews in a single week is a flag, not a triumph. <a href="/guides/interpreting-online-reviews/#solicited-and-self-reported-reviews">More&nbsp;&rarr;</a></li>
+    <li><strong>Counts and dates matter.</strong> A 5.0 from three reviews is a coin flip, and new management makes a 2019 review irrelevant. Small homes gather few reviews by nature — lean on the state record and your own visit. <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">Small homes&nbsp;&rarr;</a></li>
+    <li><strong>Government stars are a different thing.</strong> Medicare's nursing-home stars aren't reviews at all — they come from inspections, staffing, and clinical data. <a href="/guides/reading-inspection-reports-and-ratings/">How those work&nbsp;&rarr;</a></li>
+  </ul>
+  <p class="rc-foot"><a href="/guides/interpreting-online-reviews/">Read the full guide to reading reviews without being misled &rarr;</a></p>
+</div>
+
+    </div>
+  </div>
+  <p class="count"><strong>This is a CMS overall rating of 1 of 5 — below the 3-star / 4.2 line we use to sort listings.</strong> That threshold is our own editorial choice for sorting, not a validated safety or clinical standard, and a lower rating doesn't automatically mean no family should choose it — especially if it's the closest or
+  only realistic option, and frequent visits are possible. See our note on
   <a href="/guides/how-to-choose-a-senior-care-facility/#step-3-build-a-shortlist">weighing distance against rating</a>.
   Read the record above closely, ask the community directly about what you find, and compare it
   against nearby alternatives before deciding.

@@ -24,6 +24,6 @@ review_note: "4.3/5 across 6 reviews on Assisted Living Center; 4.0 stars across
 quality_basis: "Oregon adult foster home (up to 5 residents) included on documented review evidence: 4.3/5 across 6-7 reviews on Assisted Living Center and SeniorAdvisor (July 2026)."
 quality_tier: "meets_standard"
 description_full: "Regina Adult Foster Home is a purpose-built five-bedroom adult foster home in Hillsboro owned and operated by Regina Asare, RN, who has more than 15 years of general and geriatric nursing experience."
-review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/hillsboro/regina-adult-foster-home-97123/"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/regina-adult-foster-home-hillsboro-or"}]
+review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/hillsboro/regina-adult-foster-home-97123/"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/regina-adult-foster-home-hillsboro-or"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/regina-adult-foster-home_7061-se-borwick-st_hillsboro_or_97123-630453"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

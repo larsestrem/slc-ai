@@ -21,7 +21,7 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.5/5 across 203 reviews on Birdeye; 4.5/5 across 55 reviews on SeniorAdvisor (July 2026)"
 quality_tier: "unrated"
-description_full: "The Lodge at Mallard's Landing is a retirement community in Gig Harbor offering independent living cottages plus assisted living, memory care and respite care in a lodge-style main building. Residents and families praise the outstanding food, lodge-like common spaces, regular activities and staff who know each resident by name."
+description_full: "The Lodge at Mallard's Landing is a retirement community in Gig Harbor offering independent living cottages plus assisted living, memory care and respite care in a lodge-style main building."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/the-lodge-at-mallards-landing-174180642789142"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/lodge-at-mallards-landing-gig-harbor-wa"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-lodge-at-mallards-landing-159484"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

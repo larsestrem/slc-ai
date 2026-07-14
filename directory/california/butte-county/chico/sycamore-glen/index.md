@@ -23,7 +23,7 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.8/5 rating with 34 reviews on Caring.com (July 2026)"
 quality_tier: "unrated"
-description_full: "Sycamore Glen is an active senior community in Chico that is also licensed for assisted living, with staff available to support activities of daily living such as bathing, dressing, and mobility. Residents praise the active lifestyle, varied social events, food selections, and professional staff."
+description_full: "Sycamore Glen is an active senior community in Chico that is also licensed for assisted living, with staff available to support activities of daily living such as bathing, dressing, and mobility."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/chico/sycamore-glen-senior-community-95973"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sycamore-glen-retirement-59542"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

@@ -26,5 +26,5 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/hi/arcadia-retireme
 verified_date: "2026-07-12"
 quality_tier: "meets_standard"
 description_full: "Arcadia Retirement Residence, established in 1967, is a nonprofit continuing care retirement community affiliated with the United Church of Christ, set on three acres in Honolulu's Makiki neighborhood. It offers independent living apartments, assisted living, memory care, and an on-site skilled nursing unit that holds a CMS 5-star overall rating, with U.S. News marking both short-term rehab and long-term care as High Performing."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/arcadia-retirement-residence-125014"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/arcadia-honolulu-3"}]
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/arcadia-retirement-residence-125014"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/arcadia-honolulu-3"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/arcadia-retirement-residence_1434-punahou-st_honolulu_hi_96822-543255"}]
 ---

@@ -27,5 +27,6 @@ review_note: "4.8/5 across 59 Google reviews; 60 family reviews averaging 4.9 on
 quality_tier: "meets_standard"
 description_full: "A 128-bed licensed assisted living and memory care community in north Stockton, named Best Assisted Living and Best Memory Care by U.S. News & World Report. One of the highest consumer-rated senior communities in San Joaquin County."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/stockton-ca/commons-on-thornton-the/5acd01c0a71d8c15cf6860fc"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-commons-on-thornton-137847"}]
+rating_source: "CareListings"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

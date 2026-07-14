@@ -25,5 +25,5 @@ verified_date: "2026-07-13"
 review_note: "One source (nursinghomesite.com, July 2026) reports a CMS overall rating of 1 star, compared to a Hawaii state average of roughly 4; another source instead cites 3 stars, reflecting different reporting snapshots. For-profit corporation ownership; small facility with 40 beds."
 quality_tier: "below_standard"
 description_full: "Hale Malamalama is a small, for-profit, Medicare- and Medicaid-certified skilled nursing facility in the Niu Valley area of Honolulu, licensed for 40 beds. Reported federal CMS star ratings for this facility vary across recent snapshots, with the lowest reported rating well below the state average."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/hale-malamalama-125050"}]
+review_links: [{"name": "NursingHomeSite", "url": "https://www.nursinghomesite.com/HALE_MALAMALAMA_HONOLULU_HI"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/hale-malamalama-125050"}]
 ---

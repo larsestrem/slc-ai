@@ -30,5 +30,6 @@ rating_as_of: "2026-07-12"
 quality_tier: "meets_standard"
 description_full: "Mediterranean-style assisted living and memory care community with views of the Santa Monica Mountains, offering 105 assisted living residences plus a separate secured memory care neighborhood with 34 private apartments. A U.S."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/belmont-village-thousand-oaks-1337106"}]
+rating_source: "A Place for Mom"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

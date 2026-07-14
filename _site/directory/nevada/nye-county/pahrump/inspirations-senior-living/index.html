@@ -30,8 +30,8 @@
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* rating stars (also aria-labeled) */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "meets our standard" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "below our recommended bar" tier — 8.9:1 on bg */
+  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
+  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -232,6 +232,10 @@ tbody tr:hover { background: var(--soft); }
 /* Tier-differentiated footer notices */
 .tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
 .tier-notice-danger a { color: var(--accent); }
+.tnd-head { margin-top: 0; }
+.concern-facts { display: grid; grid-template-columns: auto 1fr; gap: .2rem .8rem; margin: .6rem 0; font-size: .92rem; }
+.concern-facts dt { font-weight: 700; }
+.concern-facts dd { margin: 0; }
 </style>
   
 </head>
@@ -290,7 +294,7 @@ tbody tr:hover { background: var(--soft); }
       </section>
       <section class="prose" aria-labelledby="about-h">
         <h2 id="about-h">About Inspirations Senior Living</h2>
-        <p>Spanish-style senior living community in Pahrump with views of the Nopah Mountain Range, offering independent living, assisted living, memory care, and short-term respite stays. Known for all-inclusive restaurant-style dining, an active social calendar, and attentive staff. It is the top-rated senior living community in the Pahrump area.</p>
+        <p>Spanish-style senior living community in Pahrump with views of the Nopah Mountain Range, offering independent living, assisted living, memory care, and short-term respite stays. Known for all-inclusive restaurant-style dining, an active social calendar, and attentive staff.</p>
       </section>
 
       <section class="prose" aria-labelledby="care-h">
@@ -400,10 +404,9 @@ tbody tr:hover { background: var(--soft); }
 
     </div>
   </div>
-  <p class="count">This community meets the standard we generally recommend — a verified
-  family-review record or a government rating of three stars or better. We list every community we
-  can verify, not just the highest-rated ones, and label each one by tier instead of hiding the
-  rest. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
+  <p class="count">This community's record clears the 3-star / 4.2 line we use to sort listings — our own editorial choice, not an independently validated clinical or safety standard. We list every community we
+  can verify, not just the highest-rated ones, and sort by that line instead of hiding what falls
+  short of it. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
 </section>
 
 

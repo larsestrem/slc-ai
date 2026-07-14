@@ -25,6 +25,10 @@ verified_date: "2026-07-13"
 review_note: "Listed as a CMS Special Focus Facility (New designation) as of 2026 per StarPRO's SFF tracking list, meaning it has more deficiencies than most nursing homes and receives health inspections at least every 6 months (source accessed July 2026)."
 special_focus_facility: true
 serious_concern_note: "A federal CMS Special Focus Facility (newly designated) — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems."
+concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
+concern_type: "Special Focus Facility (newly designated)"
+concern_status: "Active per CMS's Special Focus Facility tracking list — confirm current status directly"
+concern_source_url: "https://getstarpro.com/sff-list"
 quality_tier: "serious_concerns"
 description_full: "Corvallis Manor is a Medicare- and Medicaid-certified skilled nursing facility in Corvallis offering short-term rehabilitation and long-term nursing care. The facility has 135 certified beds. It is regulated by CMS and the Oregon Department of Human Services long-term care licensing program."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/corvallis-manor-385072"}]

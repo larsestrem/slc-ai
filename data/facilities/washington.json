@@ -524,7 +524,7 @@
       "capacity": 71,
       "organization": "highgate-senior-living",
       "organization_name": "Highgate Senior Living",
-      "description": "Highgate at Vancouver is a 71-bed licensed assisted living and memory care community in the Hazel Dell neighborhood, near Legacy Salmon Creek Hospital. Assisted living is offered in the Manor while The Cottage provides a separate, secure memory care residence. It is among the highest-rated communities in Vancouver, with families praising staff compassion and communication.",
+      "description": "Highgate at Vancouver is a 71-bed licensed assisted living and memory care community in the Hazel Dell neighborhood, near Legacy Salmon Creek Hospital. Assisted living is offered in the Manor while The Cottage provides a separate, secure memory care residence.",
       "sources": [
         "https://www.highgateseniorliving.com/communities/vancouver/",
         "https://www.caring.com/senior-living/washington/vancouver/highgate-at-vancouver-98665",
@@ -728,7 +728,7 @@
       ],
       "organization": "sunrise-senior-living",
       "organization_name": "Sunrise Senior Living",
-      "description": "Assisted living and memory care community in east Bellevue, part of the national Sunrise Senior Living network. Families praise the exceptional staff, clean and attractive environment, abundant activities, and a location convenient for family visits, with many in-house activities plus day trips and outings.",
+      "description": "Assisted living and memory care community in east Bellevue, part of the national Sunrise Senior Living network.",
       "review_note": "4.6/5 average across 34 all-time reviews on A Place for Mom; 9.5/10 APFM review score based on 6 reviews in the last 2 years (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/sunrise-of-bellevue-71242",
@@ -1020,7 +1020,7 @@
       ],
       "facility_size": "small",
       "capacity": 6,
-      "description": "State-licensed six-bed adult family home in south Everett providing 24-hour residential care in a home setting. Focuses on high-quality, person-centered care for seniors and adults needing support with daily living, with families praising the compassionate hands-on owners.",
+      "description": "State-licensed six-bed adult family home in south Everett providing 24-hour residential care in a home setting.",
       "review_note": "5.0/5 across 6 reviews on Birdeye (July 2026)",
       "sources": [
         "https://reviews.birdeye.com/compassionate-care-adult-family-home-168183026085483",
@@ -1100,7 +1100,7 @@
         "independent-living"
       ],
       "review_note": "4.3/5 across 64 reviews on Birdeye (July 2026)",
-      "description": "Sullivan Park Assisted Living Community offers assisted living and independent living in Spokane Valley, with a skilled nursing and rehabilitation center (Sullivan Park Care Center) on the same campus. Families note the friendly staff, activity programming, and generously sized apartments.",
+      "description": "Sullivan Park Assisted Living Community offers assisted living and independent living in Spokane Valley, with a skilled nursing and rehabilitation center (Sullivan Park Care Center) on the same campus.",
       "sources": [
         "https://reviews.birdeye.com/sullivan-park-assisted-living-148049285092856",
         "https://www.caring.com/senior-living/washington/spokane-valley/sullivan-park-assisted-living-community-spokane-washington",
@@ -1251,7 +1251,7 @@
       "google_rating": 4.4,
       "google_review_count": 41,
       "rating_as_of": "2026-07-12",
-      "description": "Wenatchee Senior Living by Cogir (formerly Avamere at Wenatchee) has welcomed seniors since 1995 and offers independent and assisted living with close-up mountain views. Families praise the compassionate direct-care staff, long-tenured activities leadership, attractive grounds, and spacious apartments.",
+      "description": "Wenatchee Senior Living by Cogir (formerly Avamere at Wenatchee) has welcomed seniors since 1995 and offers independent and assisted living with close-up mountain views.",
       "sources": [
         "https://cogirusa.com/communities/wenatchee-senior-living/contact/",
         "https://www.aplaceformom.com/community/wenatchee-senior-living-by-cogir-98849",
@@ -1361,7 +1361,7 @@
       ],
       "organization": "weatherly-inn",
       "organization_name": "Weatherly Inn",
-      "description": "Weatherly Inn Tacoma is a family-operated senior living community in north Tacoma offering independent living, assisted living, memory care, adult day stay and respite care. Families consistently praise the caring staff, range of amenities and sense of community, and the campus sits in a residential neighborhood near Point Defiance.",
+      "description": "Weatherly Inn Tacoma is a family-operated senior living community in north Tacoma offering independent living, assisted living, memory care, adult day stay and respite care.",
       "review_note": "4.6/5 across 94 reviews on Birdeye; 4.5/5 average across 50 reviews on A Place for Mom (July 2026)",
       "rating_as_of": "2026-07-12",
       "sources": [
@@ -1483,7 +1483,7 @@
         "memory-care",
         "respite-care"
       ],
-      "description": "The Lodge at Mallard's Landing is a retirement community in Gig Harbor offering independent living cottages plus assisted living, memory care and respite care in a lodge-style main building. Residents and families praise the outstanding food, lodge-like common spaces, regular activities and staff who know each resident by name.",
+      "description": "The Lodge at Mallard's Landing is a retirement community in Gig Harbor offering independent living cottages plus assisted living, memory care and respite care in a lodge-style main building.",
       "review_note": "4.5/5 across 203 reviews on Birdeye; 4.5/5 across 55 reviews on SeniorAdvisor (July 2026)",
       "rating_as_of": "2026-07-12",
       "sources": [
@@ -1831,7 +1831,7 @@
         "respite-care"
       ],
       "review_note": "4.3/5 across 80 reviews on Birdeye (July 2026)",
-      "description": "Harbour Pointe Senior Living offers assisted living, memory care, and respite care in Mukilteo's Harbour Pointe neighborhood. Families praise the engaged, kind staff and the community atmosphere, with location and amenities frequently cited as strengths.",
+      "description": "Harbour Pointe Senior Living offers assisted living, memory care, and respite care in Mukilteo's Harbour Pointe neighborhood.",
       "sources": [
         "https://birdeye.com/harbour-pointe-senior-living-174180552289557",
         "https://www.yelp.com/biz/harbour-pointe-senior-living-mukilteo",
@@ -2009,7 +2009,7 @@
       "google_rating": 4.6,
       "google_review_count": 35,
       "rating_as_of": "2026-07-12",
-      "description": "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma. Families consistently praise the compassionate staff and the smooth, supportive move-in process.",
+      "description": "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma.",
       "sources": [
         "https://reviews.birdeye.com/bridgeport-place-assisted-living-157269831319314",
         "https://www.aplaceformom.com/community/bridgeport-place-95381",
@@ -2132,7 +2132,7 @@
       ],
       "organization": "bonaventure-senior-living",
       "organization_name": "Bonaventure Senior Living",
-      "description": "Olympic Place by Bonaventure has served Snohomish County seniors since 2004, offering independent living, assisted living, and memory care in a quiet Arlington neighborhood within walking distance of shopping. Residents mention the movie room, exercise room, salon, and a full activities calendar.",
+      "description": "Olympic Place by Bonaventure has served Snohomish County seniors since 2004, offering independent living, assisted living, and memory care in a quiet Arlington neighborhood within walking distance of shopping.",
       "review_note": "4.2/5 across 47 reviews on Birdeye (July 2026)",
       "sources": [
         "https://reviews.birdeye.com/olympic-place-by-bonaventure-retirement-and-assisted-living-community-157269437706421",
@@ -2290,7 +2290,7 @@
       "capacity": 123,
       "organization": "bonaventure-senior-living",
       "organization_name": "Bonaventure Senior Living",
-      "description": "Bonaventure of the Tri-Cities is a 123-bed independent living, assisted living, and memory care community in Richland's Bellerive area. The campus features a swimming pool, walking paths, landscaped grounds, and a salon, and families frequently single out the caregiving staff.",
+      "description": "Bonaventure of the Tri-Cities is a 123-bed independent living, assisted living, and memory care community in Richland's Bellerive area. The campus features a swimming pool, walking paths, landscaped grounds, and a salon.",
       "review_note": "4.3/5 overall experience across 34 reviews on A Place for Mom (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/bonaventure-tri-cities-153656",
@@ -2321,7 +2321,7 @@
       "facility_size": "large",
       "organization": "generations",
       "organization_name": "Generations",
-      "description": "Wheatland Village is a Generations family-operated retirement campus in Walla Walla offering independent living, assisted living, and memory care. The community includes a swimming pool, hot tub, gym, chapel, movie theater, library, and ice cream parlor, and locals frequently call it the best retirement facility in town.",
+      "description": "Wheatland Village is a Generations family-operated retirement campus in Walla Walla offering independent living, assisted living, and memory care. The community includes a swimming pool, hot tub, gym, chapel, movie theater, library, and ice cream parlor.",
       "google_rating": 4.2,
       "google_review_count": 25,
       "rating_as_of": "2026-07-12",
@@ -2434,7 +2434,7 @@
       ],
       "facility_size": "small",
       "capacity": 6,
-      "description": "NobleCare Adult Family Home is a six-bed, RN-supported adult family home in Bothell where each private bedroom has its own bathroom and opens onto a shared great room. The home is owned by a caregiver with over 20 years of experience, with a registered nurse overseeing clinical care, and families consistently describe the care as exceptional and attentive.",
+      "description": "NobleCare Adult Family Home is a six-bed, RN-supported adult family home in Bothell where each private bedroom has its own bathroom and opens onto a shared great room.",
       "google_rating": 5.0,
       "google_review_count": 11,
       "rating_as_of": "2026-07-12",
@@ -3102,7 +3102,7 @@
         "Dementia",
         "Mental Health"
       ],
-      "description": "At Serenity Adult Family Home is a licensed six-bed adult family home in Auburn operating since 2005. It is certified by Washington DSHS for both Dementia Specialty and Mental Health Specialty care and provides 24-hour supervision. Families praise the spotless home and attentive staff.",
+      "description": "At Serenity Adult Family Home is a licensed six-bed adult family home in Auburn operating since 2005. It is certified by Washington DSHS for both Dementia Specialty and Mental Health Specialty care and provides 24-hour supervision.",
       "review_note": "8 reviews averaging 5.0/5 overall experience on A Place for Mom (July 2026)",
       "quality_basis": "Washington-licensed adult family home operating since 2005 with DSHS Dementia and Mental Health specialty certifications and a 5.0/5 average across 8 A Place for Mom reviews.",
       "sources": [
@@ -3659,7 +3659,11 @@
       ],
       "verified_date": "2026-07-13",
       "special_focus_facility": true,
-      "serious_concern_note": "A federal CMS Special Focus Facility — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems."
+      "serious_concern_note": "A federal CMS Special Focus Facility — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems.",
+      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
+      "concern_type": "Special Focus Facility",
+      "concern_status": "Active per current CMS Care Compare data — confirm current status directly",
+      "concern_source_url": "https://www.medicare.gov/care-compare/details/nursing-home/505511"
     },
     {
       "name": "Everett Center",

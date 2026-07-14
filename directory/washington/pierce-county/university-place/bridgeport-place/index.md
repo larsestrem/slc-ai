@@ -2,7 +2,7 @@
 layout: "facility"
 title: "Bridgeport Place"
 seo_title: "Bridgeport Place — Senior Living in University Place, WA"
-description: "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma. Families con"
+description: "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Bridgeport Place", "url": "/directory/washington/pierce-county/university-place/bridgeport-place/"}]
 nearby: []
 state: "washington"
@@ -22,7 +22,8 @@ google_rating: 4.6
 google_review_count: 35
 rating_as_of: "2026-07-12"
 quality_tier: "meets_standard"
-description_full: "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma. Families consistently praise the compassionate staff and the smooth, supportive move-in process."
+description_full: "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/bridgeport-place-assisted-living-157269831319314"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bridgeport-place-95381"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/bridgeport-place-university-place"}]
+rating_source: "Birdeye"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

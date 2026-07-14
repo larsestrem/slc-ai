@@ -28,6 +28,7 @@ google_review_count: 15
 rating_as_of: "2026-07-12"
 quality_tier: "meets_standard"
 description_full: "Parkview Estates is a 120-bed retirement and assisted living community in Kennewick operated by Regency Pacific."
-review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/washington/kennewick/parkview-estates"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/parkview-estates-142918"}]
+review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/washington/kennewick/parkview-estates"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/parkview-estates_7820-w-6th-ave_kennewick_wa_99336-625369"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/parkview-estates-142918"}]
+rating_source: "Seniorly"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

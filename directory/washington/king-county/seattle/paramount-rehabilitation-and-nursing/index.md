@@ -25,6 +25,10 @@ verified_date: "2026-07-13"
 review_note: "Current CMS overall rating 2/5 stars, versus a Washington-average of about 3.62/5, per local-nursing-homes.com CMS-sourced data (July 2026). This facility is a designated CMS Special Focus Facility (SFF) — a federal program for nursing homes with a documented history of serious, recurring quality problems that receive additional oversight. U.S. HHS has also listed it among the nation's lowest-performing nursing homes."
 special_focus_facility: true
 serious_concern_note: "A federal CMS Special Focus Facility — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems."
+concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
+concern_type: "Special Focus Facility"
+concern_status: "Active per current CMS Care Compare data — confirm current status directly"
+concern_source_url: "https://www.medicare.gov/care-compare/details/nursing-home/505511"
 quality_tier: "serious_concerns"
 description_full: "Paramount Rehabilitation and Nursing is a 165-bed Medicare- and Medicaid-certified skilled nursing facility at 2611 S Dearborn St in Seattle. It is designated a Special Focus Facility (SFF) by CMS, a program that targets nursing homes with a documented pattern of serious quality problems for more frequent inspections. Its current CMS overall star rating is 2 out of 5."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/skilled-nursing-facilities/seattle-wa/paramount-rehabilitation-and-nursing/5ace891a93efd2372f9924d2"}]

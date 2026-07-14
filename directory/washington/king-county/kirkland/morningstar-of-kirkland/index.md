@@ -27,5 +27,7 @@ google_review_count: 83
 rating_as_of: "2026-07-13"
 quality_tier: "meets_standard"
 description_full: "A MorningStar Senior Living community in Kirkland offering independent and assisted living with stylish apartments and hospitality-focused amenities. It is very highly rated by residents and families."
+review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/washington/kirkland/morningstar-of-kirkland"}]
+rating_source: "Ultimate Senior Resource"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

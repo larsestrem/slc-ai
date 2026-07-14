@@ -24,6 +24,6 @@ review_note: "4.5/5 average overall experience across 4 reviews on A Place for M
 quality_basis: "Oregon adult foster home (up to 5 residents) included on two positive signals: documented review evidence of 4.5/5 across 4 reviews on A Place for Mom (July 2026), plus aggregator-reported longevity operating under the same owner since 2007."
 quality_tier: "meets_standard"
 description_full: "Heightsview Care Home is a small residential care home in Beaverton operated by the same owner since 2007, with more than 20 years of caregiving experience."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/heightsview-care-home-146456"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/heightsview-adult-care-home-beaverton-or"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/heightsview-care-home-146456"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/heightsview-adult-care-home-beaverton-or"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/heightsview-adult-care-home_18935-sw-heightsview-ct_beaverton_or_97007-635223"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

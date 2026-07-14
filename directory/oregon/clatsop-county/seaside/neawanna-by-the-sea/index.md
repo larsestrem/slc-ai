@@ -27,5 +27,6 @@ review_note: "4.7/5 across 20 reviews on AssistedLivingCenter.com; Google rating
 quality_tier: "meets_standard"
 description_full: "An independent and assisted living community a few blocks from the beach in Seaside, with cottages and apartment-style units plus respite stays. Operated by Eugene-based Compass Senior Living."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/seaside/neawanna-by-the-sea-97138/"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/neawanna-by-the-sea-59828"}]
+rating_source: "AssistedLivingCenter"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

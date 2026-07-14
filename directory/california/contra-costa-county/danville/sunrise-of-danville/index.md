@@ -23,9 +23,8 @@ organization: "sunrise-senior-living"
 organization_name: "Sunrise Senior Living"
 sources: ["https://www.aplaceformom.com/community/sunrise-of-danville-57480", "https://www.yelp.com/biz/sunrise-of-danville-danville"]
 verified_date: "2026-07-12"
-review_note: "4.6/5 across 94 reviews on A Place for Mom; APFM review score 9.8/10 on 29 recent reviews (July 2026)"
-quality_tier: "unrated"
 description_full: "Assisted living and memory care community on Diablo Road in Danville, offering short-term respite stays alongside long-term care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunrise-of-danville-57480"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/sunrise-of-danville-danville"}]
+reviews_search_url: "https://www.google.com/search?q=Sunrise+of+Danville+Danville+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

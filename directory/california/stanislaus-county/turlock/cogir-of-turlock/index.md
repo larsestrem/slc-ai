@@ -23,9 +23,8 @@ organization: "cogir-senior-living"
 organization_name: "Cogir Senior Living"
 sources: ["https://www.aplaceformom.com/community/cogir-of-turlock-147230", "https://www.yelp.com/biz/cogir-of-turlock-turlock"]
 verified_date: "2026-07-12"
-review_note: "4.3/5 across 10 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "Senior living community in Turlock offering independent living, assisted living and memory care on one campus. Residents with Alzheimer's and dementia are served through Cogir's Generations Memory Care program."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cogir-of-turlock-147230"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/cogir-of-turlock-turlock"}]
+reviews_search_url: "https://www.google.com/search?q=Cogir+of+Turlock+Turlock+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

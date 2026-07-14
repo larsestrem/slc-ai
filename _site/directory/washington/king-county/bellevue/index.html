@@ -28,10 +28,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -121,17 +119,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -230,13 +220,6 @@ tbody tr:hover { background: var(--soft); }
 
 
 
-<p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
 <ul class="grid">
   <li class="card">
   <h3><a href="/directory/washington/king-county/bellevue/cascades-adult-family-home/">Cascades Adult Family Home</a></h3>
@@ -262,26 +245,13 @@ We list every community we can verify, not just the highest-rated —
 
   <li class="card">
   <h3><a href="/directory/washington/king-county/bellevue/sunnys-adult-family-home-llc/">Sunny's Adult Family Home LLC</a></h3>
-  <p class="meta">Bellevue, WA · Small home · <span class="stars" role="img" aria-label="4.9 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Bellevue, WA · Small home</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">A 6-bed licensed adult family home in the Lake Sammamish area of Bellevue, owned and operated by a registered nurse, providing 24-hour sp...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/washington/king-county/bellevue/the-bellettini/">The Bellettini</a></h3>
-  <p class="meta">Bellevue, WA · <span class="stars" role="img" aria-label="4.9 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">A luxury independent and assisted living community in downtown Bellevue with 144 apartments, two restaurants, a fitness center and salon,...</p>
 </li>
 
   <li class="card">
@@ -293,6 +263,17 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Assisted living and memory care community in east Bellevue, part of the national Sunrise Senior Living network.</p>
+</li>
+
+  <li class="card">
+  <h3><a href="/directory/washington/king-county/bellevue/the-bellettini/">The Bellettini</a></h3>
+  <p class="meta">Bellevue, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">A luxury independent and assisted living community in downtown Bellevue with 144 apartments, two restaurants, a fitness center and salon,...</p>
 </li>
 
 </ul>

@@ -21,10 +21,8 @@ organization: "fellowship-square-senior-living"
 organization_name: "Fellowship Square Senior Living"
 sources: ["https://reviews.birdeye.com/fellowship-square-surprise-157269842198172", "https://www.caring.com/senior-living/arizona/surprise/fellowship-square-surprise-85374"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.5/5 across 38 reviews on Birdeye (July 2026)"
-quality_tier: "unrated"
 description_full: "Fellowship Square Surprise is a nonprofit senior living community in the West Valley offering independent living, assisted living, and memory care, with costs starting lower than many area competitors."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/fellowship-square-surprise-157269842198172"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/arizona/surprise/fellowship-square-surprise-85374"}]
+reviews_search_url: "https://www.google.com/search?q=Fellowship+Square+Surprise+Surprise+AZ+reviews"
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
 ---

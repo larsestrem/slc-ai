@@ -20,11 +20,9 @@ care_levels: ["skilled-nursing", "respite-care"]
 facility_size: "large"
 capacity: 87
 cms_ccn: "385197"
-cms_rating_overall: 3
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/ashland-post-acute-in-ashland-385197", "https://www.assistedlivingcenter.com/facilities/or/ashland/ashland-post-acute-97520/", "https://ashland-pa.com/"]
 verified_date: "2026-07-11"
-review_note: "4.8/5 across 16 reviews on AssistedLivingCenter.com (July 2026)"
-quality_tier: "meets_standard"
 description_full: "Ashland Post Acute is an 87-bed Medicare- and Medicaid-certified skilled nursing facility near downtown Ashland, set against the Siskiyou Mountains."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/ashland-post-acute-in-ashland-385197"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/ashland/ashland-post-acute-97520/"}]
+reviews_search_url: "https://www.google.com/search?q=Ashland+Post+Acute+Ashland+OR+reviews"
 ---

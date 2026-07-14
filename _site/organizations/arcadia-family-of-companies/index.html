@@ -27,10 +27,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -120,17 +118,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -223,7 +213,7 @@ tbody tr:hover { background: var(--soft); }
   <main id="main" class="wrap">
     <article>
   <h1>Arcadia Family of Companies</h1>
-  <p class="lead">The Arcadia Family of Companies is a Honolulu-based nonprofit senior services organization affiliated with the United Church of Christ, tracing its roots to the 1967 opening of Arcadia Retirement Residence. It operates two continuing care retirement communities in Honolulu — Arcadia Retirement Residence and 15 Craigside — both with CMS 5-star skilled nursing units, along with home care and adult day programs.</p>
+  <p class="lead">The Arcadia Family of Companies is a Honolulu-based nonprofit senior services organization affiliated with the United Church of Christ, tracing its roots to the 1967 opening of Arcadia Retirement Residence. It operates two continuing care retirement communities in Honolulu — Arcadia Retirement Residence and 15 Craigside — along with home care and adult day programs.</p>
   <section class="panel">
     <dl class="kv"><dt>Headquarters</dt><dd>Honolulu, Hawaii</dd><dt>Communities</dt><dd>≈ 2</dd><dt>States</dt><dd>HI</dd><dt>Website</dt><dd><a href="https://arcadia.org" rel="noopener nofollow">arcadia.org</a></dd>
     </dl>
@@ -232,18 +222,10 @@ tbody tr:hover { background: var(--soft); }
   
 
   <h2>Arcadia Family of Companies communities in our directory</h2>
-  <p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/15-craigside/">15 Craigside</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -257,8 +239,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/arcadia-retirement-residence/">Arcadia Retirement Residence</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>

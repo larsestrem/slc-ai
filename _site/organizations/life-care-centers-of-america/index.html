@@ -27,10 +27,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -120,17 +118,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -232,18 +222,10 @@ tbody tr:hover { background: var(--soft); }
   
 
   <h2>Life Care Centers of America communities in our directory</h2>
-  <p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/colorado/arapahoe-county/aurora/garden-terrace-alzheimers-center-of-excellence-at-aurora/">Garden Terrace Alzheimer's Center of Excellence at Aurora</a></h3>
-  <p class="meta">Aurora, CO · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Aurora, CO</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -254,8 +236,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/kapolei/ka-punawai-ola/">Ka Punawai Ola</a></h3>
-  <p class="meta">Kapolei, HI · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Kapolei, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -265,8 +246,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/oregon/coos-county/coos-bay/life-care-center-of-coos-bay/">Life Care Center of Coos Bay</a></h3>
-  <p class="meta">Coos Bay, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Coos Bay, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -277,8 +257,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/hawaii/hawaii-county/hilo/life-care-center-of-hilo/">Life Care Center of Hilo</a></h3>
-  <p class="meta">Hilo, HI · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Hilo, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -288,8 +267,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/idaho/bonneville-county/idaho-falls/life-care-center-of-idaho-falls/">Life Care Center of Idaho Falls</a></h3>
-  <p class="meta">Idaho Falls, ID · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Idaho Falls, ID</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -299,8 +277,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/nevada/clark-county/las-vegas/life-care-center-of-las-vegas/">Life Care Center of Las Vegas</a></h3>
-  <p class="meta">Las Vegas, NV · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Las Vegas, NV</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -310,24 +287,12 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/idaho/kootenai-county/post-falls/life-care-center-of-post-falls/">Life Care Center of Post Falls</a></h3>
-  <p class="meta">Post Falls, ID · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Post Falls, ID</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
-<p class="desc">A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. It holds a CMS overall rating...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/idaho/bonner-county/sandpoint/life-care-center-of-sandpoint/">Life Care Center of Sandpoint</a></h3>
-  <p class="meta">Sandpoint, ID · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">A 124-bed skilled nursing and rehabilitation center in Sandpoint operated by Life Care Centers of America, serving Bonner County and nort...</p>
+<p class="desc">A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. Provides short-term rehab and...</p>
 </li>
 
     <li class="card">
@@ -338,6 +303,16 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Life Care Center of Reno is a 198-bed Medicare- and Medicaid-certified skilled nursing facility in south Reno, operated by Life Care Cent...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/idaho/bonner-county/sandpoint/life-care-center-of-sandpoint/">Life Care Center of Sandpoint</a></h3>
+  <p class="meta">Sandpoint, ID</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">A 124-bed skilled nursing and rehabilitation center in Sandpoint operated by Life Care Centers of America, serving Bonner County and nort...</p>
 </li>
 
   </ul>

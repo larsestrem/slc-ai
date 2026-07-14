@@ -24,10 +24,8 @@ organization: "morningstar-senior-living"
 organization_name: "MorningStar Senior Living"
 sources: ["https://www.aplaceformom.com/community/morning-star-of-arvada-1420361", "https://everyplace.care/facility/morningstar-of-arvada-arvada-co-23t231", "https://www.morningstarseniorliving.com/communities/senior-living-arvada/"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.4/5 average across 61 family reviews on EveryPlace; 19 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "MorningStar of Arvada offers 71 independent living, 41 assisted living, and 29 memory care suites in west Arvada near the foothills."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/morning-star-of-arvada-1420361"}]
+reviews_search_url: "https://www.google.com/search?q=MorningStar+of+Arvada+Arvada+CO+reviews"
 licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
 ---

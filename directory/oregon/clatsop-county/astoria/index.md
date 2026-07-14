@@ -9,6 +9,6 @@ county_name: "Clatsop"
 state_name: "Oregon"
 state_abbrev: "OR"
 facility_count: 1
-facilities: [{"name": "Trustwell Living at Astor Place", "url": "/directory/oregon/clatsop-county/astoria/trustwell-living-at-astor-place/", "city_name": "Astoria", "state_abbrev": "OR", "care_levels": ["assisted-living", "respite-care"], "quality_tier": "unrated", "facility_size": "medium", "description": "A 28-bed assisted living community on Klaskanine Avenue in Astoria, also offering respite and short-term stays. Part of the national Trustwell Living portfolio."}]
+facilities: [{"name": "Trustwell Living at Astor Place", "url": "/directory/oregon/clatsop-county/astoria/trustwell-living-at-astor-place/", "city_name": "Astoria", "state_abbrev": "OR", "care_levels": ["assisted-living", "respite-care"], "serious_concern": false, "facility_size": "medium", "description": "A 28-bed assisted living community on Klaskanine Avenue in Astoria, also offering respite and short-term stays. Part of the national Trustwell Living portfolio."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Clatsop County", "url": "/directory/oregon/clatsop-county/"}, {"name": "Astoria", "url": "/directory/oregon/clatsop-county/astoria/"}]
 ---

@@ -18,12 +18,8 @@ phone: "(253) 565-1960"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 sources: ["https://reviews.birdeye.com/bridgeport-place-assisted-living-157269831319314", "https://www.aplaceformom.com/community/bridgeport-place-95381", "https://www.yelp.com/biz/bridgeport-place-university-place"]
 verified_date: "2026-07-12"
-google_rating: 4.6
-google_review_count: 35
-rating_as_of: "2026-07-12"
-quality_tier: "meets_standard"
 description_full: "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/bridgeport-place-assisted-living-157269831319314"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bridgeport-place-95381"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/bridgeport-place-university-place"}]
-rating_source: "Birdeye"
+reviews_search_url: "https://www.google.com/search?q=Bridgeport+Place+University+Place+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

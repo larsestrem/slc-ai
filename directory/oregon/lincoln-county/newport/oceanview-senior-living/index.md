@@ -21,12 +21,8 @@ organization: "westmont-living"
 organization_name: "Westmont Living"
 sources: ["https://www.aplaceformom.com/community/oceanview-senior-living-60075", "https://westmontliving.com/our-communities/oregon/newport/oceanview-senior-living/", "https://www.yelp.com/biz/oceanview-senior-living-newport"]
 verified_date: "2026-07-11"
-google_rating: 4.8
-rating_as_of: "2026-07-11"
-review_note: "A Place for Mom review score 9.2/10 with 16 reviews on the platform; Google rating 4.8 as cited in listings (July 2026)"
-quality_tier: "meets_standard"
 description_full: "A Westmont Living community on the Central Oregon coast in Newport offering independent living, assisted living, and memory care. Located just north of downtown Newport off Highway 101."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oceanview-senior-living-60075"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oceanview-senior-living-newport"}]
-rating_source: "A Place for Mom"
+reviews_search_url: "https://www.google.com/search?q=Oceanview+Senior+Living+Newport+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -27,10 +27,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -120,17 +118,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -465,8 +455,8 @@ industry insiders. One topic per page, straight answers, no sales pitch.</p>
       <p class="desc">The 10 qualities that actually predict good senior care — stable staff, visible leadership, honest pricing — and how to verify each one on a tour.</p>
     </li>
     <li class="card">
-      <h3><a href="/guides/how-we-list-communities/">Why Every Community Is Listed Here — And What Our Labels Mean</a></h3>
-      <p class="desc">We list every senior living community we can verify, rated honestly and labeled by tier instead of hidden. Here's why, and what each label means.</p>
+      <h3><a href="/guides/how-we-list-communities/">Why We Don't Show Star Ratings — And How to Find the Real Ones</a></h3>
+      <p class="desc">We don't display ratings or scores on this site. Here's why, and how to find a community's real ratings — government, Medicare/Medicaid, and family reviews — in one click from its profile.</p>
     </li>
   </ul>
 </section>

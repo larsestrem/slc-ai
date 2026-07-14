@@ -9,6 +9,6 @@ county_name: "Riverside"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "The Lakes at Banning", "url": "/directory/california/riverside-county/banning/the-lakes-at-banning/", "city_name": "Banning", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "quality_tier": "unrated", "description": "The Lakes at Banning is a senior living community next to the Sun Lakes Country Club offering independent living, assisted living, memory care, and respite care."}]
+facilities: [{"name": "The Lakes at Banning", "url": "/directory/california/riverside-county/banning/the-lakes-at-banning/", "city_name": "Banning", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "serious_concern": false, "description": "The Lakes at Banning is a senior living community next to the Sun Lakes Country Club offering independent living, assisted living, memory care, and respite care."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Riverside County", "url": "/directory/california/riverside-county/"}, {"name": "Banning", "url": "/directory/california/riverside-county/banning/"}]
 ---

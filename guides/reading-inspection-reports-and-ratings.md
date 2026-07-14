@@ -39,11 +39,20 @@ Stars are a screening tool, not a verdict. Use them like this:
 
 Also know the limits: surveys are a snapshot of a few days a year, surveyor strictness varies by state (so don't compare stars across state lines), and Care Compare says nothing about food, activities, or kindness. A facility can pass every inspection and still be a joyless place to live.
 
-## Why we list 3-star facilities, and show you the number
+## Why we list 3-star facilities — and link you straight to the number
 
-Families kept asking a fair question: where are the good, ordinary, mid-rated communities? So we list government-rated nursing homes at **three stars and above** — not just the four- and five-star ones — and we show the rating plainly on every page, along with who assigns it and what it measures. We stop at three because that's the line below which the record, in our reading, tends to show genuine and repeated problems rather than the ordinary bumps every facility has.
+Families kept asking a fair question: where are the good, ordinary, mid-rated communities? So we
+list government-rated nursing homes at **three stars and above** — not just the four- and
+five-star ones. We don't display the rating ourselves (see [why](/guides/how-we-list-communities/)
+— a wrong number is worse than none), but every profile links you directly to that facility's
+current rating on Medicare Care Compare, along with who assigns it and what it measures.
 
-A three-star rating means "average," and average is not a warning label — especially once you know an honest facility can land there for reporting its incidents faithfully. Read a three-star facility the same way you'd read any other: pull its health-inspection sub-rating, read the citations in plain English, check staffing and turnover, ask the administrator what changed after the last survey, and — most of all — visit. The star gets a facility onto your list or off it; your own eyes decide the rest.
+A three-star rating means "average," and average is not a warning label — especially once you know
+an honest facility can land there for reporting its incidents faithfully. Read a three-star
+facility the same way you'd read any other: pull its health-inspection sub-rating, read the
+citations in plain English, check staffing and turnover, ask the administrator what changed after
+the last survey, and — most of all — visit. The rating narrows your list; your own eyes decide the
+rest.
 
 ## Assisted living: state licensing reports
 

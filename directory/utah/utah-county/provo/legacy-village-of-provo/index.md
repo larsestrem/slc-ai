@@ -23,9 +23,8 @@ organization: "legacy-retirement-communities"
 organization_name: "Legacy Retirement Communities"
 sources: ["https://www.aplaceformom.com/community/legacy-village-of-provo-1389670", "https://www.assistedlivingcenter.com/facilities/ut/provo/legacy-village-of-provo-84604/"]
 verified_date: "2026-07-12"
-review_note: "4.5/5 across 18 reviews on SeniorAdvisor and 9.3/10 average rating on FamilyAssets; 42 reviews on AssistedLivingCenter.com (July 2026)"
-quality_tier: "unrated"
 description_full: "Legacy Village of Provo is a 150-bed assisted living and memory care community on University Avenue in north Provo."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/legacy-village-of-provo-1389670"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ut/provo/legacy-village-of-provo-84604/"}]
+reviews_search_url: "https://www.google.com/search?q=Legacy+Village+of+Provo+Provo+UT+reviews"
 licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
 ---

@@ -10,14 +10,16 @@ related:
   - /guides/checking-complaints-and-state-records/
   - /guides/warning-signs-when-choosing-a-facility/
   - /guides/touring-checklist/
-faqs: [{"q": "A facility asked my relative to leave a review. Is that shady?", "a": "No — ethically asking satisfied families for reviews is standard and fair, since angry people review unprompted. What's shady is gating (only steering happy families to public sites), paying for reviews, or pressuring residents."}, {"q": "Two sites show very different ratings for the same community. Which is right?", "a": "Neither is \"right\" — they're different populations of reviewers on platforms with different incentives. Note both, read the text on each, and let the official inspection record be the tiebreaker."}, {"q": "Should I trust a community with no reviews at all?", "a": "Small homes and new communities often have few or none — that's not a red flag by itself, but it shifts all the weight onto the state record, references, and your own visits."}, {"q": "Why do you show review scores on your listings at all?", "a": "Because families use them anyway — so we'd rather show the number with its source, count, and date, alongside the official records, than pretend the stars don't exist. Every community in our directory cleared a review-evidence or CMS-rating standard, and the evidence is printed on the page."}]
+faqs: [{"q": "A facility asked my relative to leave a review. Is that shady?", "a": "No — ethically asking satisfied families for reviews is standard and fair, since angry people review unprompted. What's shady is gating (only steering happy families to public sites), paying for reviews, or pressuring residents."}, {"q": "Two sites show very different ratings for the same community. Which is right?", "a": "Neither is \"right\" — they're different populations of reviewers on platforms with different incentives. Note both, read the text on each, and let the official inspection record be the tiebreaker."}, {"q": "Should I trust a community with no reviews at all?", "a": "Small homes and new communities often have few or none — that's not a red flag by itself, but it shifts all the weight onto the state record, references, and your own visits."}, {"q": "Why don't you show review scores on your listings?", "a": "Because we found we could get a number wrong, and a wrong number here is a real harm, not a cosmetic bug. Every community's profile links directly to each review platform we found, clearly labeled, so you read the real number and the real reviews at the source."}]
 ---
 
 Type any senior community's name into a search engine and you'll get a wall of stars — a 4.6
 here, a 3.9 there, sometimes for the same building. Before you let a number make this decision
 for you, it's worth knowing where each kind of rating comes from, who wrote the reviews, and
-what they can and can't tell you. On our own listings we show review evidence with its source
-and date for exactly this reason — so you know what you're looking at.
+what they can and can't tell you. We don't display those numbers ourselves — every community's
+profile links you directly to each platform's review page instead, clearly labeled, so you read
+the real number at the source rather than a number we've restated (see
+[why](/guides/how-we-list-communities/)).
 
 ## Know your sources — they are not the same thing
 
@@ -149,8 +151,8 @@ tiebreaker.
 Small homes and new communities often have few or none — that's not a red flag by itself,
 but it shifts all the weight onto the state record, references, and your own visits.
 
-**Why do you show review scores on your listings at all?**
-Because families use them anyway — so we'd rather show the number with its source, count, and
-date, alongside the official records, than pretend the stars don't exist. Every community in
-our directory cleared a review-evidence or CMS-rating standard, and the evidence is printed
-on the page.
+**Why don't you show review scores on your listings?**
+Because we found we could get a number wrong, and a wrong number here is a real harm, not a
+cosmetic bug — see [why we link instead of display](/guides/how-we-list-communities/). Every
+community's profile links directly to each review platform we found, clearly labeled, so you read
+the real number and the real reviews at the source.

@@ -8,6 +8,6 @@ headquarters: "Solana Beach, California"
 website: "https://cielseniorliving.com/"
 facility_count_approx: 12
 org_states: ["WA", "CA", "NV", "TX"]
-facilities: [{"name": "Ciel Senior Living of Tri-Cities", "url": "/directory/washington/benton-county/kennewick/ciel-senior-living-of-tri-cities/", "city_name": "Kennewick", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "large", "description": "Ciel Senior Living of Tri-Cities is a multi-building campus in Kennewick offering independent living, assisted living, and a dedicated memory care building on North Young Street."}]
+facilities: [{"name": "Ciel Senior Living of Tri-Cities", "url": "/directory/washington/benton-county/kennewick/ciel-senior-living-of-tri-cities/", "city_name": "Kennewick", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "Ciel Senior Living of Tri-Cities is a multi-building campus in Kennewick offering independent living, assisted living, and a dedicated memory care building on North Young Street."}]
 crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Ciel Senior Living", "url": "/organizations/ciel-senior-living/"}]
 ---

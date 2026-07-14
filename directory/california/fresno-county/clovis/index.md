@@ -9,6 +9,6 @@ county_name: "Fresno"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "Carmel Village at Clovis", "url": "/directory/california/fresno-county/clovis/carmel-village-at-clovis/", "city_name": "Clovis", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "large", "description": "A resort-style senior living community in the heart of Clovis offering independent living, assisted living, and memory care."}]
+facilities: [{"name": "Carmel Village at Clovis", "url": "/directory/california/fresno-county/clovis/carmel-village-at-clovis/", "city_name": "Clovis", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "A resort-style senior living community in the heart of Clovis offering independent living, assisted living, and memory care."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Fresno County", "url": "/directory/california/fresno-county/"}, {"name": "Clovis", "url": "/directory/california/fresno-county/clovis/"}]
 ---

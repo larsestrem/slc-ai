@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Garden Isle Healthcare and Rehabilitation Center — Senior Living in Lihue, HI | Senior Living Community</title>
-<meta name="description" content="A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health. It offers short-term rehabilitat">
+<meta name="description" content="A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health.">
 <link rel="canonical" href="https://senior.living.community/directory/hawaii/kauai-county/lihue/garden-isle-healthcare-and-rehabilitation-center/">
 <meta property="og:site_name" content="Senior Living Community">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Garden Isle Healthcare and Rehabilitation Center — Senior Living in Lihue, HI">
-<meta property="og:description" content="A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health. It offers short-term rehabilitat">
+<meta property="og:description" content="A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health.">
 <meta property="og:url" content="https://senior.living.community/directory/hawaii/kauai-county/lihue/garden-isle-healthcare-and-rehabilitation-center/">
 <meta name="theme-color" content="#0a4aa3">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%230a4aa3'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
@@ -27,10 +27,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -120,17 +118,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -195,40 +185,32 @@ tbody tr:hover { background: var(--soft); }
 .photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
 .claim { border-left: 4px solid var(--accent); }
 
-/* Sidebar rating-at-a-glance */
-.rating-glance .glance-row { display: flex; gap: .55rem; align-items: flex-start; margin: .5rem 0; }
-.rating-glance .glance-row + .glance-row { border-top: 1px solid var(--line); padding-top: .5rem; }
-.rating-glance .glance-row .stars { font-size: 1.15rem; flex: 0 0 auto; line-height: 1.3; }
-.rating-glance .glance-row p { margin: 0; font-size: .92rem; }
-.rating-glance .muted { color: var(--muted); font-size: .82rem; }
+/* Sidebar ratings & reviews panel — links only, no numbers */
+.rating-glance .muted { color: var(--muted); font-size: .88rem; }
+.rating-glance .glance-links { list-style: none; margin: .6rem 0; padding: 0; }
+.rating-glance .glance-links li { margin: .45rem 0; font-size: .92rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
-.rating-glance .glance-flag { flex-direction: column; align-items: flex-start; gap: .3rem; }
-.rating-glance .glance-flag p { color: var(--muted); }
+.rating-glance .glance-flag { display: flex; flex-direction: column; align-items: flex-start; gap: .3rem; margin: .5rem 0 .8rem; padding-bottom: .6rem; border-bottom: 1px solid var(--line); }
+.rating-glance .glance-flag p { margin: 0; color: var(--muted); font-size: .88rem; }
 
-/* Below-stars review caveats */
+/* Review-reading caveats, shown beneath the review platform links */
 .review-caveats { margin: .7rem 0 0; }
 .review-caveats .rc-lead { margin: .2rem 0 .4rem; font-weight: 600; font-size: .95rem; }
 .review-caveats ul { margin: .2rem 0; padding-left: 1.1rem; }
 .review-caveats li { margin: .4rem 0; font-size: .9rem; }
 .review-caveats .rc-foot { margin: .5rem 0 0; font-size: .92rem; }
 
-/* Bottom-of-page ratings section */
-.ratings-block .rating-card { display: flex; gap: 1.1rem; align-items: flex-start; padding: 1rem 0; border-top: 1px solid var(--line); }
+/* Bottom-of-page ratings & records section */
+.ratings-block .rating-card { padding: 1rem 0; border-top: 1px solid var(--line); }
 .ratings-block .rating-card:first-of-type { border-top: 0; padding-top: .4rem; }
-.rating-badge { flex: 0 0 5.5rem; text-align: center; }
-.rating-badge .stars { display: block; font-size: 1.05rem; letter-spacing: .05em; }
-.rating-num { display: inline-block; font-weight: 700; font-size: .95rem; color: var(--ink); line-height: 1.2; }
 .rating-body h3 { margin: 0 0 .3rem; font-size: 1.05rem; padding-top: 0; border-top: 0; }
 .rating-body p { margin: .3rem 0; font-size: .92rem; }
-.cms-components { margin: .3rem 0; padding-left: 1.1rem; font-size: .92rem; }
-.cms-components li { margin: .15rem 0; }
 .cms-currency { color: var(--muted); font-size: .85rem; }
-@media (max-width: 34rem) {
-  .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
-  .rating-badge { text-align: left; flex-basis: auto; }
-}
+.btn-link { display: inline-block; font-weight: 600; }
+.review-link-list { list-style: none; margin: .5rem 0; padding: 0; }
+.review-link-list li { margin: .4rem 0; }
 
-/* Tier-differentiated footer notices */
+/* Confirmed regulatory-flag notice */
 .tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
 .tier-notice-danger a { color: var(--accent); }
 .tnd-head { margin-top: 0; }
@@ -290,7 +272,7 @@ tbody tr:hover { background: var(--soft); }
       </section>
       <section class="prose" aria-labelledby="about-h">
         <h2 id="about-h">About Garden Isle Healthcare and Rehabilitation Center</h2>
-        <p>A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health. It offers short-term rehabilitation with physical, occupational, and speech therapy alongside long-term care, and carries a CMS overall rating of 4 stars (some sources list 5).</p>
+        <p>A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health.</p>
       </section>
 
       <section class="prose" aria-labelledby="care-h">
@@ -319,15 +301,17 @@ tbody tr:hover { background: var(--soft); }
 
     <aside>
       <section class="panel rating-glance" aria-labelledby="glance-h">
-  <h2 id="glance-h">Rating at a glance</h2>
-  <div class="glance-row">
-    <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
+  <h2 id="glance-h">Ratings &amp; reviews</h2>
+  <p class="muted">We don't show a star rating ourselves — find it directly at the source:</p>
 
-    <p><strong>5 of 5 — Medicare rating</strong><br>
-    <span class="muted">A government score, from health inspections and staffing — not customer reviews.</span></p>
-  </div>
+  <ul class="glance-links">
+    <li><a href="https://www.medicare.gov/care-compare/details/nursing-home/125004" rel="noopener">Medicare Care Compare</a> <span class="muted">— federal government rating</span></li>
+    <li><a href="https://health.usnews.com/best-nursing-homes/area/hi/garden-isle-healthcare-and-rehabilitation-center-125004" rel="nofollow noopener">U.S. News</a> <span class="muted">— family &amp; resident reviews</span></li>
+    <li><a href="https://www.nursinghomesite.com/GARDEN_ISLE_HEALTHCARE_AND_REHABILITATION_CENTER_LIHUE_HI" rel="nofollow noopener">NursingHomeSite</a> <span class="muted">— family &amp; resident reviews</span></li>
+    <li><a href="https://www.google.com/search?q=Garden+Isle+Healthcare+and+Rehabilitation+Center+Lihue+HI+reviews" rel="nofollow noopener">Search for more reviews</a> <span class="muted">— Google</span></li>
+  </ul>
 
-  <p class="glance-link"><a href="#ratings-h">What these ratings mean &amp; where they come from &darr;</a></p>
+  <p class="glance-link"><a href="#ratings-h">Full ratings &amp; records section &darr;</a></p>
 </section>
 
 
@@ -356,48 +340,43 @@ tbody tr:hover { background: var(--soft); }
 
   <section class="panel ratings-block" aria-labelledby="ratings-h">
   <h2 id="ratings-h">Ratings &amp; official records</h2>
-  <p>Here is every rating we found for Garden Isle Healthcare and Rehabilitation Center — who assigns each one and what it
-  actually measures — so you can weigh it for what it's worth. No single number decides a good
-  fit; use these to build questions, then trust your own visit.</p>
+  <p>We don't publish a star rating or numeric score for Garden Isle Healthcare and Rehabilitation Center ourselves — ratings
+  change, and a wrong number here would be worse than none. Instead, here's exactly where to find
+  the real ones, straight from the source.</p>
   <div class="rating-card">
-    <div class="rating-badge"><span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
-
-      <span class="rating-num">5 of 5</span>
-    </div>
     <div class="rating-body">
       <h3>Medicare Five-Star Quality Rating</h3>
       <p><strong>Who assigns it:</strong> the federal Centers for Medicare &amp; Medicaid Services
       (CMS), the government agency that certifies nursing homes.
       <strong>What it measures:</strong> independent state health inspections, nurse and aide
-      staffing levels, and clinical quality measures, combined into one overall star. Some of the
-      quality data is reported by the facility itself — which means a community that documents
-      every incident honestly can score lower than one that reports less completely. Read the
-      health-inspection detail, not just the summary star.</p>
-      <p><strong>The overall star is a blend of three component ratings</strong> — read them
-      separately, since a facility can be strong on one and weak on another:</p>
-      <ul class="cms-components"><li>Health inspection: 3 of 5</li><li>Staffing: 5 of 5</li><li>Quality measures: 5 of 5</li>
-      </ul>
-      <p><a href="https://www.medicare.gov/care-compare/details/nursing-home/125004" rel="noopener">See the full federal report on Medicare Care Compare</a> ·
+      staffing levels, and clinical quality measures, combined into one overall star — reported
+      separately too, since a facility can be strong on one and weak on another. Some of the
+      quality data is reported by the facility itself, which means a community that documents
+      every incident honestly can score lower than one that reports less completely.</p>
+      <p><a class="btn-link" href="https://www.medicare.gov/care-compare/details/nursing-home/125004" rel="noopener">See Garden Isle Healthcare and Rehabilitation Center's current rating on Medicare Care Compare &rarr;</a></p>
+      <p class="cms-currency">CMS certification number 125004. CMS refreshes ratings
+      monthly — always check the live number on Care Compare rather than relying on any cached
+      figure, including ones we might have shown in the past.
       <a href="/guides/reading-inspection-reports-and-ratings/">How these stars are calculated, and their limits</a></p>
-      <p class="cms-currency"><strong>CMS certification number:</strong> 125004. Rating current as of CMS's January 2026 data release — CMS refreshes ratings monthly, so confirm the current number on Care Compare above before deciding. Our own record was last checked 2026-07-12, which is not the same as the CMS data date.</p>
     </div>
   </div>
+
   <div class="rating-card">
-    <div class="rating-badge"><span class="rating-num">Family<br>reviews</span>
-    </div>
     <div class="rating-body">
       <h3>Family &amp; resident reviews</h3>
       <p><strong>Who writes it:</strong> families and residents, on public review sites.
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
-      inspections. Read the recent ones and the middle-star ones, not just the average.</p>
-      <p><strong>Read the reviews
-      yourself:</strong> <a href="https://health.usnews.com/best-nursing-homes/area/hi/garden-isle-healthcare-and-rehabilitation-center-125004" rel="nofollow noopener">U.S. News</a> · <a href="https://www.nursinghomesite.com/GARDEN_ISLE_HEALTHCARE_AND_REHABILITATION_CENTER_LIHUE_HI" rel="nofollow noopener">NursingHomeSite</a> — that's where the
-      actual reviews live; we only show the aggregate rating here.</p>
+      inspections.</p>
+      <ul class="review-link-list">
+        <li><a class="btn-link" href="https://health.usnews.com/best-nursing-homes/area/hi/garden-isle-healthcare-and-rehabilitation-center-125004" rel="nofollow noopener">Read Garden Isle Healthcare and Rehabilitation Center's reviews on U.S. News &rarr;</a></li>
+        <li><a class="btn-link" href="https://www.nursinghomesite.com/GARDEN_ISLE_HEALTHCARE_AND_REHABILITATION_CENTER_LIHUE_HI" rel="nofollow noopener">Read Garden Isle Healthcare and Rehabilitation Center's reviews on NursingHomeSite &rarr;</a></li>
+        <li><a class="btn-link" href="https://www.google.com/search?q=Garden+Isle+Healthcare+and+Rehabilitation+Center+Lihue+HI+reviews" rel="nofollow noopener">Search for more reviews of Garden Isle Healthcare and Rehabilitation Center &rarr;</a></li>
+      </ul>
       <div class="review-caveats">
-  <p class="rc-lead">A star average is a starting point, not a verdict. We don't write these reviews,
-  verify what they say, or investigate the community ourselves — we aggregate public ratings and
-  point you to where they live so you can do your own research. Before you weigh a number, know
-  what it can hide:</p>
+  <p class="rc-lead">Whatever star average you find on those sites is a starting point, not a
+  verdict. We don't write these reviews, verify what they say, or investigate the community
+  ourselves — that's exactly why we send you to the source instead of showing you a number. Before
+  you weigh what you find, know what it can hide:</p>
   <ul>
     <li><strong>Who writes them.</strong> Usually adult children, not the resident — so reviews capture communication, billing, and first impressions more than the texture of daily care. <a href="/guides/interpreting-online-reviews/#who-writes-reviews">More&nbsp;&rarr;</a></li>
     <li><strong>Emotion moves the score.</strong> People post when they're delighted or furious; the quietly satisfied middle rarely does, and reviews written in grief, guilt, or relief carry that charge. The calm three-star reviews usually hold the real trade-offs. <a href="/guides/interpreting-online-reviews/#the-emotion-behind-a-review">More&nbsp;&rarr;</a></li>
@@ -410,9 +389,9 @@ tbody tr:hover { background: var(--soft); }
 
     </div>
   </div>
-  <p class="count">This CMS overall rating of 5 of 5 clears the 3-star / 4.2 line we use to sort listings — our own editorial choice, not an independently validated clinical or safety standard. We list every community we
-  can verify, not just the highest-rated ones, and sort by that line instead of hiding what falls
-  short of it. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
+
+  <p class="count">We link you to primary sources instead of showing a rating ourselves —
+  <a href="/guides/how-we-list-communities/">why, and how to use what you find</a>.</p>
 </section>
 
   <section aria-labelledby="nearby-h">

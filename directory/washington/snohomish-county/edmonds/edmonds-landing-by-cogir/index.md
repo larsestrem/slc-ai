@@ -4,7 +4,7 @@ title: "Edmonds Landing by Cogir"
 seo_title: "Edmonds Landing by Cogir — Senior Living in Edmonds, WA"
 description: "Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurants."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Edmonds Landing by Cogir", "url": "/directory/washington/snohomish-county/edmonds/edmonds-landing-by-cogir/"}]
-nearby: [{"name": "Sunrise of Edmonds", "url": "/directory/washington/snohomish-county/edmonds/sunrise-of-edmonds/", "city_name": "Edmonds", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Sunrise of Edmonds provides assisted living and memory care near the Edmonds waterfront in Snohomish County. It was recognized as Best Assisted Living and Best Memory Care in U.S. News & World Report's 2026 Best Senior Living ratings."}]
+nearby: [{"name": "Sunrise of Edmonds", "url": "/directory/washington/snohomish-county/edmonds/sunrise-of-edmonds/", "city_name": "Edmonds", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "description": "Sunrise of Edmonds provides assisted living and memory care near the Edmonds waterfront in Snohomish County. It was recognized as Best Assisted Living and Best Memory Care in U.S. News & World Report's 2026 Best Senior Living ratings."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"
@@ -21,12 +21,8 @@ organization: "cogir-senior-living"
 organization_name: "Cogir Senior Living"
 sources: ["https://ultimateseniorresource.com/states/washington/edmonds/edmonds-landing-by-cogir", "https://cogirusa.com/communities/edmonds-landing/", "https://www.aplaceformom.com/community/edmonds-landing-by-cogir-94862"]
 verified_date: "2026-07-12"
-google_rating: 4.9
-google_review_count: 36
-rating_as_of: "2026-07-12"
-quality_tier: "meets_standard"
 description_full: "Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurants."
 review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/washington/edmonds/edmonds-landing-by-cogir"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/edmonds-landing-by-cogir-94862"}]
-rating_source: "Ultimate Senior Resource"
+reviews_search_url: "https://www.google.com/search?q=Edmonds+Landing+by+Cogir+Edmonds+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

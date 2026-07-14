@@ -22,9 +22,8 @@ organization: "carefield-living"
 organization_name: "Carefield Living"
 sources: ["https://www.aplaceformom.com/community/madonna-gardens-assisted-living-and-memory-care-56884", "https://carefieldliving.com/madonna-gardens-assisted-living-memory-care/"]
 verified_date: "2026-07-12"
-review_note: "4.4/5 across 24 all-time reviews on A Place for Mom; APFM recent review score 9.4/10 (July 2026)"
-quality_tier: "unrated"
 description_full: "Assisted living and memory care community in Salinas known for beautifully landscaped courtyards with water features and a lush interior garden. Amenities include an in-house salon, fitness room, library nook, and elegant dining room, with weekly housekeeping and transportation to medical appointments."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/madonna-gardens-assisted-living-and-memory-care-56884"}]
+reviews_search_url: "https://www.google.com/search?q=Madonna+Gardens+Assisted+Living+and+Memory+Care+Salinas+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

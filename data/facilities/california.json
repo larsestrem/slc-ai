@@ -166,7 +166,7 @@
       "organization_name": "The Ensign Group",
       "cms_ccn": "555545",
       "cms_rating_overall": 5,
-      "description": "The Cove at La Jolla is a 59-bed Medicare-certified skilled nursing facility near the coast in La Jolla. It provides short-term rehabilitation, post-acute care, long-term care, and hospice support, and holds a 5-star overall rating from Medicare. The facility is affiliated with The Ensign Group.",
+      "description": "The Cove at La Jolla is a 59-bed Medicare-certified skilled nursing facility near the coast in La Jolla. The facility is affiliated with The Ensign Group.",
       "sources": [
         "https://thecoveatlajolla.com/",
         "https://health.usnews.com/best-nursing-homes/area/ca/the-cove-at-la-jolla-555545",
@@ -337,7 +337,7 @@
       "organization_name": "ACC Senior Services",
       "cms_ccn": "555261",
       "cms_rating_overall": 4,
-      "description": "ACC Care Center is a nonprofit, 99-bed Medicare- and Medicaid-certified skilled nursing facility in Sacramento's Pocket/Greenhaven area, operated by ACC Senior Services. In 2026 the facility announced a 4-star overall rating from the Centers for Medicare & Medicaid Services, and its nurse staffing hours are above the national average.",
+      "description": "ACC Care Center is a nonprofit, 99-bed Medicare- and Medicaid-certified skilled nursing facility in Sacramento's Pocket/Greenhaven area, operated by ACC Senior Services.",
       "sources": [
         "https://www.accsv.org/locations/care-center/",
         "https://www.accsv.org/acc-care-center-4-stars/",
@@ -605,7 +605,7 @@
       "facility_size": "large",
       "cms_ccn": "555769",
       "cms_rating_overall": 5,
-      "description": "University Retirement Community is a nonprofit continuing care retirement community near UC Davis offering independent living, assisted living, memory care, and a 37-bed Medicare-certified skilled nursing unit. Its skilled nursing facility holds a CMS 5-star overall rating, and the campus includes a pool, gym, and library.",
+      "description": "University Retirement Community is a nonprofit continuing care retirement community near UC Davis offering independent living, assisted living, memory care, and a 37-bed Medicare-certified skilled nursing unit.",
       "review_note": "4.7/5 across 8 reviews on Caring.com; CMS overall rating 5 stars (July 2026)",
       "rating_as_of": "2026-07-12",
       "sources": [
@@ -665,7 +665,7 @@
       "capacity": 150,
       "cms_ccn": "055481",
       "cms_rating_overall": 4,
-      "description": "Vienna Nursing and Rehabilitation Center is a 150-bed Medicare- and Medicaid-certified skilled nursing facility that has served Lodi since 1967, providing skilled nursing, short-term rehabilitation, and hospice services. It holds a CMS 4-star overall rating, with staffing hours of 4.60 per resident daily, well above the national average of 3.89.",
+      "description": "Vienna Nursing and Rehabilitation Center is a 150-bed Medicare- and Medicaid-certified skilled nursing facility that has served Lodi since 1967, providing skilled nursing, short-term rehabilitation, and hospice services.",
       "sources": [
         "https://www.nursinghomesite.com/VIENNA_NURSING_AND_REHABILITATION_CENTER_LODI_CA",
         "https://health.usnews.com/best-nursing-homes/area/ca/vienna-nursing-and-rehabilitation-center-055481",
@@ -996,7 +996,7 @@
       "capacity": 68,
       "cms_ccn": "055684",
       "cms_rating_overall": 5,
-      "description": "Skilled nursing and rehabilitation facility on De La Vina Street that has served the Santa Barbara community since 1963. A CMS 5-star rated, Medicare-certified provider with 68 beds offering short-term rehabilitation and long-term skilled nursing care.",
+      "description": "Skilled nursing and rehabilitation facility on De La Vina Street that has served the Santa Barbara community since 1963.",
       "sources": [
         "https://www.californiancare.com/",
         "https://health.usnews.com/best-nursing-homes/area/ca/the-californian-055684"
@@ -1023,7 +1023,7 @@
       "capacity": 162,
       "cms_ccn": "056189",
       "cms_rating_overall": 5,
-      "description": "Medicare- and Medicaid-certified skilled nursing facility in San Luis Obispo offering short-term rehabilitation and long-term care. Holds a CMS 5-star overall rating, with nursing staff time of 4.85 hours per resident per day, well above the national average of 3.89. The 162-bed facility is among the highest-rated nursing homes on the Central Coast.",
+      "description": "Medicare- and Medicaid-certified skilled nursing facility in San Luis Obispo offering short-term rehabilitation and long-term care. The 162-bed facility is among the highest-rated nursing homes on the Central Coast.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/ca/san-luis-post-acute-center-056189",
         "https://www.medicare.gov/care-compare/details/nursing-home/056189/view-all/?city=San+Luis+Obispo&state=CA&zipcode=93401"
@@ -1391,7 +1391,7 @@
       "capacity": 99,
       "cms_ccn": "055689",
       "cms_rating_overall": 5,
-      "description": "St. Catherine Healthcare is a 99-bed Medicare- and Medicaid-certified skilled nursing facility in Fullerton offering short-term rehabilitation and long-term care. It holds a CMS overall rating of 5 stars, well above the California average of about 3.5 stars.",
+      "description": "St. Catherine Healthcare is a 99-bed Medicare- and Medicaid-certified skilled nursing facility in Fullerton offering short-term rehabilitation and long-term care.",
       "sources": [
         "https://stcatherinehealthcare.com/",
         "https://ourhealthnetwork.com/nursing-home-facility/055689",
@@ -1753,7 +1753,7 @@
       "capacity": 94,
       "cms_ccn": "056125",
       "cms_rating_overall": 4,
-      "description": "94-bed Medicare- and Medicaid-certified skilled nursing facility in the Belmont Heights area of Long Beach offering short-term rehabilitation and long-term care. It holds a 4-star overall rating from Medicare's Care Compare, is rated High Performing by U.S. News for both short-term rehab and long-term care, and per CMS has placed in the top 10% of California facilities on survey results for three consecutive years.",
+      "description": "94-bed Medicare- and Medicaid-certified skilled nursing facility in the Belmont Heights area of Long Beach offering short-term rehabilitation and long-term care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/ca/alamitos-belmont-health-and-rehabilitation-056125",
         "https://www.medicare.gov/care-compare/details/nursing-home/056125/?city=Long+Beach&measure=nursing-home-health-inspections&state=CA&zipcode=90814",
@@ -1812,7 +1812,7 @@
       "capacity": 195,
       "cms_ccn": "055034",
       "cms_rating_overall": 5,
-      "description": "Nonprofit skilled nursing facility on the Motion Picture & Television Fund's Wasserman Campus in Woodland Hills, historically serving entertainment industry members and their families. The 195-bed facility holds a 5-star overall rating from Medicare's Care Compare, with zero reported facility incidents, substantiated complaints, payment denials, or fines in its current CMS record.",
+      "description": "Nonprofit skilled nursing facility on the Motion Picture & Television Fund's Wasserman Campus in Woodland Hills, historically serving entertainment industry members and their families.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/ca/motion-picture-television-hospital-skilled-nursing-facility-055034",
         "https://www.medicare.gov/care-compare/details/nursing-home/055034/view-all/?state=CA",
@@ -1926,7 +1926,7 @@
       "facility_size": "large",
       "cms_ccn": "055115",
       "cms_rating_overall": 4,
-      "description": "Independent nonprofit continuing care retirement community established in 1890, set on eight and a half acres of gardens in the Boyle Heights neighborhood of Los Angeles. Its 106-bed Medicare- and Medicaid-certified skilled nursing facility holds a 4-star overall CMS rating, with nursing staffing of 4.59 hours per resident per day versus a 3.89-hour national average.",
+      "description": "Independent nonprofit continuing care retirement community established in 1890, set on eight and a half acres of gardens in the Boyle Heights neighborhood of Los Angeles.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/ca/hollenbeck-palms-055115",
         "https://www.hollenbeckpalms.com/residency-options/skilled-nursing/",
@@ -2177,7 +2177,7 @@
       "capacity": 94,
       "cms_ccn": "555806",
       "cms_rating_overall": 5,
-      "description": "GlenBrook Health Center is a Medicare-certified skilled nursing facility with 94 certified beds on the La Costa Glen campus in Carlsbad, also offering assisted living, memory care, and short-term rehabilitation. It holds a CMS overall rating of 5 out of 5 stars, with 5-star quality measure and staffing ratings, and is rated High Performing for both short-term rehabilitation and long-term care by U.S. News.",
+      "description": "GlenBrook Health Center is a Medicare-certified skilled nursing facility with 94 certified beds on the La Costa Glen campus in Carlsbad, also offering assisted living, memory care, and short-term rehabilitation.",
       "sources": [
         "https://healthcarecomps.com/nursing-homes/ca/555806/",
         "https://health.usnews.com/best-nursing-homes/area/ca/glenbrook-health-center-555806",
@@ -2303,7 +2303,7 @@
       "facility_size": "large",
       "cms_ccn": "555424",
       "cms_rating_overall": 5,
-      "description": "Seacrest Village at Encinitas is a not-for-profit continuing care retirement community founded in 1944 as the San Diego Hebrew Homes, offering independent living, assisted living, the Katzin Memory Care Suites, and skilled nursing in the 58-bed Dorothy & Joseph Goldberg Healthcare Center. The Medicare-certified healthcare center holds a CMS rating of 5 out of 5 stars and is rated High Performing for short-term rehabilitation and long-term care by U.S. News.",
+      "description": "Seacrest Village at Encinitas is a not-for-profit continuing care retirement community founded in 1944 as the San Diego Hebrew Homes, offering independent living, assisted living, the Katzin Memory Care Suites, and skilled nursing in the 58-bed Dorothy & Joseph Goldberg Healthcare Center.",
       "sources": [
         "https://www.seniorcare.com/nursing-homes/ca/encinitas/the-dorothy-joseph-goldberg-healthcare-center/555424/",
         "https://seacrestvillage.org/services/nursing/",
@@ -2542,7 +2542,7 @@
       "facility_size": "large",
       "cms_ccn": "055466",
       "cms_rating_overall": 5,
-      "description": "Continuing care retirement community on a wooded campus in Portola Valley whose 43-bed skilled nursing facility holds a 5-star overall rating from CMS, with 5-star marks across health inspections, staffing, and quality measures. Both short-term rehabilitation and long-term care are rated High Performing by U.S. News. Residents can move through independent living, assisted living, and skilled nursing on one campus.",
+      "description": "Residents can move through independent living, assisted living, and skilled nursing on one campus.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/ca/the-sequoias-portola-valley-055466",
         "https://www.medicarelist.com/nursing-home/sequoias-the-portola-valley-ca/",
@@ -2638,7 +2638,7 @@
       "cms_ccn": "555835",
       "cms_rating_overall": 5,
       "review_note": "4.6/5 across 19 reviews on AssistedLivingCenter (July 2026), supplementary to the CMS 5-star skilled nursing rating",
-      "description": "Life Plan (continuing care) community on 23 acres of Stanford land on Sand Hill Road, offering independent living, assisted living, memory care, and skilled nursing. Its 44-bed care center holds a 5-star overall CMS rating, with nursing staff time of 5.91 hours per resident per day versus a 3.87-hour national average and no federal penalties in the past three years.",
+      "description": "Life Plan (continuing care) community on 23 acres of Stanford land on Sand Hill Road, offering independent living, assisted living, memory care, and skilled nursing.",
       "sources": [
         "https://www.medicare.gov/care-compare/details/nursing-home/555835/view-all/?state=CA",
         "https://health.usnews.com/best-nursing-homes/area/ca/vi-at-palo-alto-555835",
@@ -2672,7 +2672,7 @@
       "organization_name": "Front Porch",
       "cms_ccn": "555342",
       "cms_rating_overall": 5,
-      "description": "Continuing care retirement community in Cupertino operated by nonprofit Front Porch, offering independent living, assisted living, and on-campus skilled nursing. Its 48-bed skilled nursing facility, Sunny View Manor, holds a 5-star overall CMS rating, placing it in the top tier of facilities nationally, with High Performing marks for both short-term rehabilitation and long-term care.",
+      "description": "Continuing care retirement community in Cupertino operated by nonprofit Front Porch, offering independent living, assisted living, and on-campus skilled nursing.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/ca/sunny-view-manor-555342",
         "https://carelistings.com/skilled-nursing-facilities/cupertino-ca/sunny-view-manor/5ace892f93efd2372f9940c1",
@@ -3113,7 +3113,7 @@
       "capacity": 104,
       "cms_ccn": "055204",
       "cms_rating_overall": 5,
-      "description": "A 104-bed Medicare- and Medicaid-certified skilled nursing facility in Fresno offering short-term rehabilitation, 24-hour skilled nursing, long-term care, complex wound care, and hospice. Recognized by CMS with a 5-star overall rating.",
+      "description": "A 104-bed Medicare- and Medicaid-certified skilled nursing facility in Fresno offering short-term rehabilitation, 24-hour skilled nursing, long-term care, complex wound care, and hospice.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/ca/oakwood-gardens-care-center-055204",
         "https://oakwoodgardenscarecenter.com/"
@@ -3171,7 +3171,7 @@
       "capacity": 99,
       "cms_ccn": "056437",
       "cms_rating_overall": 4,
-      "description": "A 99-bed Medicare- and Medicaid-certified skilled nursing facility in Monterey with a restful, scenic setting and 24-hour licensed nursing. Holds a 4-star CMS overall rating with 5-star quality measures.",
+      "description": "A 99-bed Medicare- and Medicaid-certified skilled nursing facility in Monterey with a restful, scenic setting and 24-hour licensed nursing.",
       "sources": [
         "https://cypressridgecarecenter.com/",
         "https://www.medicare.gov/care-compare/details/nursing-home/056437/view-all/?state=CA"
@@ -3224,7 +3224,7 @@
       "facility_size": "large",
       "organization": "front-porch",
       "organization_name": "Front Porch",
-      "description": "A continuing care retirement community set beside Spring Lake and Annadel State Park in east Santa Rosa, operated by nonprofit Front Porch. Offers independent living, assisted living, and on-site skilled nursing rated High Performing for both short-term rehab and long-term care by U.S. News. Known for its landscaped campus, dining, and extensive resident programming.",
+      "description": "A continuing care retirement community set beside Spring Lake and Annadel State Park in east Santa Rosa, operated by nonprofit Front Porch. Known for its landscaped campus, dining, and extensive resident programming.",
       "review_note": "4.2/5 across 80 reviews on Birdeye (July 2026); U.S. News High Performing ratings for short-term rehab and long-term care",
       "sources": [
         "https://birdeye.com/spring-lake-village-171234798475354",
@@ -3255,7 +3255,7 @@
       "facility_size": "large",
       "organization": "pacific-retirement-services",
       "organization_name": "Pacific Retirement Services",
-      "description": "A nonprofit life plan community in the city of Napa managed by Pacific Retirement Services, offering independent living, assisted living, and skilled nursing on one campus. Its short-term rehabilitation is rated High Performing by U.S. News.",
+      "description": "A nonprofit life plan community in the city of Napa managed by Pacific Retirement Services, offering independent living, assisted living, and skilled nursing on one campus.",
       "review_note": "4.5/5 across 45 reviews on Birdeye (July 2026)",
       "sources": [
         "https://reviews.birdeye.com/the-meadows-of-napa-valley-157269446745602",
@@ -3375,7 +3375,7 @@
       "organization_name": "HumanGood",
       "cms_ccn": "555547",
       "cms_rating_overall": 5,
-      "description": "A HumanGood life plan community on Blossom Hill Road in Los Gatos offering independent living, assisted living, memory care, and a CMS 5-star skilled nursing center. Named a U.S. News Best Senior Living community for independent living, assisted living, and memory care. Residents like the walkable location near Los Gatos shopping and dining.",
+      "description": "Named a U.S. News Best Senior Living community for independent living, assisted living, and memory care. Residents like the walkable location near Los Gatos shopping and dining.",
       "review_note": "4.8/5 across 27 reviews on AssistedLivingCenter.com; CMS 5-star overall skilled nursing rating (July 2026)",
       "sources": [
         "https://www.assistedlivingcenter.com/facilities/ca/los-gatos/terraces-of-los-gatos-95032/",
@@ -3681,7 +3681,7 @@
       "organization_name": "Front Porch",
       "cms_ccn": "055156",
       "cms_rating_overall": 5,
-      "description": "A high-rise life plan community overlooking Lake Merritt in Oakland, operated by nonprofit Front Porch. Offers independent living, assisted living, and an on-site skilled nursing center rated 5 out of 5 overall by U.S. News with High Performing short-term rehab.",
+      "description": "A high-rise life plan community overlooking Lake Merritt in Oakland, operated by nonprofit Front Porch.",
       "review_note": "CMS/U.S. News overall nursing rating 5/5; consumer reviews average 4.4 on Oasis Senior Advisors with 18 additional reviews on Caring.com (July 2026)",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/ca/st-pauls-towers-055156",
@@ -3897,7 +3897,7 @@
       "cms_ccn": "555429",
       "cms_rating_overall": 5,
       "review_note": "Editorial inclusion: CMS 5-star on-site skilled nursing (Villa Gardens Health Center); consumer reviews thinner — 4.1/5 across 6 reviews on A Place for Mom, and Summer House memory care 4.5 stars across 14 reviews on Birdeye (July 2026)",
-      "description": "Nonprofit continuing care retirement community in Pasadena operated by Front Porch, offering independent living, assisted living, memory care, and a CMS 5-star rated skilled nursing health center on one campus. Named Pasadena's best retirement community by local publications multiple years running. Residents cite waitstaff dining, a 24-hour bistro, and a strong fitness program; it is an entrance-fee community at the premium end.",
+      "description": "Named Pasadena's best retirement community by local publications multiple years running. Residents cite waitstaff dining, a 24-hour bistro, and a strong fitness program; it is an entrance-fee community at the premium end.",
       "sources": [
         "https://villagardenshealthcenter.org/",
         "https://www.medicare.gov/care-compare/details/nursing-home/555429/view-all/?state=CA",
@@ -4319,7 +4319,7 @@
       "facility_size": "large",
       "cms_ccn": "555745",
       "cms_rating_overall": 5,
-      "description": "Continuing care retirement community on El Camino Real in Carlsbad combining assisted living, memory care, and a Medicare-certified skilled nursing center with 45 certified beds. The skilled nursing facility holds a CMS 5-star overall rating, with 4 stars for health inspections and 5 stars for quality measures. Offers short-term rehabilitation and long-term care on the same campus, first Medicare-certified in 1999.",
+      "description": "Continuing care retirement community on El Camino Real in Carlsbad combining assisted living, memory care, and a Medicare-certified skilled nursing center with 45 certified beds. Offers short-term rehabilitation and long-term care on the same campus, first Medicare-certified in 1999.",
       "sources": [
         "https://www.medicare.gov/care-compare/details/nursing-home/555745/view-all/?state=CA",
         "https://bayshirecarlsbad.com/contact-us/",
@@ -4831,7 +4831,7 @@
       "cms_rating_overall": 5,
       "review_note": "4.61/5 across 73 ratings on Senior Care Authority; on-site health center holds a CMS 5-star overall rating (July 2026)",
       "rating_as_of": "2026-07-12",
-      "description": "Casa de las Campanas in Rancho Bernardo is the only not-for-profit Type A life plan community in San Diego County, offering independent living, assisted living, memory care, skilled nursing, and rehabilitation. Its health center holds a 5-star overall rating from Medicare, and residents cite the ability to age in place across care levels.",
+      "description": "Casa de las Campanas in Rancho Bernardo is the only not-for-profit Type A life plan community in San Diego County, offering independent living, assisted living, memory care, skilled nursing, and rehabilitation.",
       "sources": [
         "https://www.seniorcareauthority.com/assisted-living/casa-de-las-campanas-in-san-diego-california.html",
         "https://health.usnews.com/best-nursing-homes/area/ca/casa-de-las-campanas-555362"

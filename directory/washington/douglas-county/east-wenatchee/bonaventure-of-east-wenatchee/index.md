@@ -4,7 +4,7 @@ title: "Bonaventure of East Wenatchee"
 seo_title: "Bonaventure of East Wenatchee — Senior Living in East Wenatchee, WA"
 description: "Bonaventure of East Wenatchee is a senior living community in East Wenatchee, in central Washington, offering retirement (independent) living, assisted living"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Bonaventure of East Wenatchee", "url": "/directory/washington/douglas-county/east-wenatchee/bonaventure-of-east-wenatchee/"}]
-nearby: [{"name": "Kadie Glen Assisted Living", "url": "/directory/washington/douglas-county/east-wenatchee/kadie-glen-assisted-living/", "city_name": "East Wenatchee", "state_abbrev": "WA", "care_levels": ["assisted-living"], "quality_tier": "unrated", "facility_size": "medium", "description": "Kadie Glen Assisted Living is an assisted living community at 451 N Baker Ave in East Wenatchee operated by Ridgeline Management Company. It is open 24 hours and licensed by the State of Washington."}]
+nearby: [{"name": "Kadie Glen Assisted Living", "url": "/directory/washington/douglas-county/east-wenatchee/kadie-glen-assisted-living/", "city_name": "East Wenatchee", "state_abbrev": "WA", "care_levels": ["assisted-living"], "serious_concern": false, "facility_size": "medium", "description": "Kadie Glen Assisted Living is an assisted living community at 451 N Baker Ave in East Wenatchee operated by Ridgeline Management Company. It is open 24 hours and licensed by the State of Washington."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"
@@ -21,8 +21,8 @@ organization: "bonaventure-senior-living"
 organization_name: "Bonaventure Senior Living"
 sources: ["https://bonaventuresenior.com/community/bonaventure-of-east-wenatchee/", "https://www.whca.org/facility-finder/bonaventure-of-east-wenatchee/", "https://www.yelp.com/biz/bonaventure-of-east-wenatchee-east-wenatchee"]
 verified_date: "2026-07-11"
-quality_tier: "unrated"
 description_full: "Bonaventure of East Wenatchee is a senior living community in East Wenatchee, in central Washington, offering retirement (independent) living, assisted living, and memory care. It is operated by Bonaventure Senior Living of Salem, Oregon."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/bonaventure-of-east-wenatchee-east-wenatchee"}]
+reviews_search_url: "https://www.google.com/search?q=Bonaventure+of+East+Wenatchee+East+Wenatchee+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

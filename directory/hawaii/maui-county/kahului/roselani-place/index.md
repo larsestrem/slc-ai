@@ -4,7 +4,7 @@ title: "Roselani Place"
 seo_title: "Roselani Place — Senior Living in Kahului, HI"
 description: "Roselani Place in Kahului is Maui's only private-pay independent living, assisted living, and memory care community, licensed for 144 residents and operated b"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Roselani Place", "url": "/directory/hawaii/maui-county/kahului/roselani-place/"}]
-nearby: [{"name": "Myles Care Home", "url": "/directory/hawaii/maui-county/kahului/myles-care-home/", "city_name": "Kahului", "state_abbrev": "HI", "care_levels": ["adult-family-home"], "quality_tier": "meets_standard", "facility_size": "small", "description": "Myles Care Home is a small, state-licensed Adult Residential Care Home (ARCH Level 1) in a residential neighborhood of Kahului, Maui, licensed for 5 residents. It offers individualized assistance with daily living activities."}]
+nearby: [{"name": "Myles Care Home", "url": "/directory/hawaii/maui-county/kahului/myles-care-home/", "city_name": "Kahului", "state_abbrev": "HI", "care_levels": ["adult-family-home"], "serious_concern": false, "facility_size": "small", "description": "Myles Care Home is a small, state-licensed Adult Residential Care Home (ARCH Level 1) in a residential neighborhood of Kahului, Maui, licensed for 5 residents. It offers individualized assistance with daily living activities."}]
 state: "hawaii"
 state_name: "Hawaii"
 state_abbrev: "HI"
@@ -21,9 +21,8 @@ facility_size: "large"
 capacity: 144
 sources: ["https://reviews.birdeye.com/roselani-place-assisted-living-669026496", "https://roselaniplace.com/", "https://www.yelp.com/biz/roselani-place-kahului", "https://www.seniorcareauthority.com/assisted-living/alii-community-care-dba-roselani-place-in-kahului-hawaii.html"]
 verified_date: "2026-07-12"
-review_note: "4.6/5 across 19 reviews on Birdeye (July 2026)"
-quality_tier: "unrated"
 description_full: "Roselani Place in Kahului is Maui's only private-pay independent living, assisted living, and memory care community, licensed for 144 residents and operated by Alii Community Care."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/roselani-place-assisted-living-669026496"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/roselani-place-kahului"}, {"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/alii-community-care-dba-roselani-place-in-kahului-hawaii.html"}]
+reviews_search_url: "https://www.google.com/search?q=Roselani+Place+Kahului+HI+reviews"
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
 ---

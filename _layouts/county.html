@@ -6,7 +6,6 @@ layout: default
 
 {{ content }}
 
-{% include ratings-legend.html %}
 {%- for city in page.cities %}
 <section aria-labelledby="c-{{ city.slug }}">
   <h2 id="c-{{ city.slug }}"><a href="{{ city.url }}">{{ city.name }}, {{ page.state_abbrev }}</a></h2>

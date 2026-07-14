@@ -28,10 +28,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -121,17 +119,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -325,13 +315,6 @@ tbody tr:hover { background: var(--soft); }
   </div>
 
   <div class="state-list" aria-label="Communities in Sacramento & Northern Valley by city">
-    <p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
     <section aria-labelledby="c-carmichael">
       <h2 id="c-carmichael">Carmichael, CA <span class="count">· Sacramento County</span></h2>
       <ul class="grid">
@@ -394,9 +377,19 @@ We list every community we can verify, not just the highest-rated —
       <h2 id="c-davis">Davis, CA <span class="count">· Yolo County</span></h2>
       <ul class="grid">
         <li class="card" data-city="davis">
+  <h3><a href="/directory/california/yolo-county/davis/atria-covell-gardens/">Atria Covell Gardens</a></h3>
+  <p class="meta">Davis, CA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">An assisted living and memory care community in north Davis operated by Atria Senior Living. Cost runs toward the high end for the Davis ...</p>
+</li>
+
+        <li class="card" data-city="davis">
   <h3><a href="/directory/california/yolo-county/davis/university-retirement-community/">University Retirement Community</a></h3>
-  <p class="meta">Davis, CA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Davis, CA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -406,17 +399,6 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
 <p class="desc">University Retirement Community is a nonprofit continuing care retirement community near UC Davis offering independent living, assisted l...</p>
-</li>
-
-        <li class="card" data-city="davis">
-  <h3><a href="/directory/california/yolo-county/davis/atria-covell-gardens/">Atria Covell Gardens</a></h3>
-  <p class="meta">Davis, CA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">An assisted living and memory care community in north Davis operated by Atria Senior Living. Cost runs toward the high end for the Davis ...</p>
 </li>
 
       </ul>
@@ -459,8 +441,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="folsom">
   <h3><a href="/directory/california/sacramento-county/folsom/oakmont-of-folsom/">Oakmont of Folsom</a></h3>
-  <p class="meta">Folsom, CA · <span class="stars" role="img" aria-label="4.7 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Folsom, CA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
@@ -504,8 +485,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="grass-valley">
   <h3><a href="/directory/california/nevada-county/grass-valley/atria-grass-valley/">Atria Grass Valley</a></h3>
-  <p class="meta">Grass Valley, CA · <span class="stars" role="img" aria-label="4.9 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Grass Valley, CA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
@@ -547,18 +527,6 @@ We list every community we can verify, not just the highest-rated —
       <h2 id="c-redding">Redding, CA <span class="count">· Shasta County</span></h2>
       <ul class="grid">
         <li class="card" data-city="redding">
-  <h3><a href="/directory/california/shasta-county/redding/the-vistas-assisted-living-and-memory-care/">The Vistas Assisted Living and Memory Care</a></h3>
-  <p class="meta">Redding, CA · <span class="stars" role="img" aria-label="4.3 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">reviews</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">The Vistas Assisted Living and Memory Care is an assisted living and memory care community in Redding.</p>
-</li>
-
-        <li class="card" data-city="redding">
   <h3><a href="/directory/california/shasta-county/redding/oakmont-of-redding/">Oakmont of Redding</a></h3>
   <p class="meta">Redding, CA</p>
   
@@ -567,6 +535,17 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Oakmont of Redding is a luxury assisted living and memory care community on Bechelli Lane with views of the nearby river and mountains. A...</p>
+</li>
+
+        <li class="card" data-city="redding">
+  <h3><a href="/directory/california/shasta-county/redding/the-vistas-assisted-living-and-memory-care/">The Vistas Assisted Living and Memory Care</a></h3>
+  <p class="meta">Redding, CA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">The Vistas Assisted Living and Memory Care is an assisted living and memory care community in Redding.</p>
 </li>
 
       </ul>
@@ -631,8 +610,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="sacramento">
   <h3><a href="/directory/california/sacramento-county/sacramento/acc-care-center/">ACC Care Center</a></h3>
-  <p class="meta">Sacramento, CA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Sacramento, CA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>

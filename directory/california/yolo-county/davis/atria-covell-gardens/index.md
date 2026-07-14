@@ -5,7 +5,7 @@ title: "Atria Covell Gardens"
 seo_title: "Atria Covell Gardens — Senior Living in Davis, CA"
 description: "An assisted living and memory care community in north Davis operated by Atria Senior Living. Cost runs toward the high end for the Davis area."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Atria Covell Gardens", "url": "/directory/california/yolo-county/davis/atria-covell-gardens/"}]
-nearby: [{"name": "University Retirement Community", "url": "/directory/california/yolo-county/davis/university-retirement-community/", "city_name": "Davis", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "quality_tier": "meets_standard", "facility_size": "large", "cms_rating_overall": 5, "description": "University Retirement Community is a nonprofit continuing care retirement community near UC Davis offering independent living, assisted living, memory care, and a 37-bed Medicare-certified skilled nursing unit. Its skilled nursing facility holds a CMS 5-star overall rating, and the campus includes a pool, gym, and library."}]
+nearby: [{"name": "University Retirement Community", "url": "/directory/california/yolo-county/davis/university-retirement-community/", "city_name": "Davis", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "serious_concern": false, "facility_size": "large", "description": "University Retirement Community is a nonprofit continuing care retirement community near UC Davis offering independent living, assisted living, memory care, and a 37-bed Medicare-certified skilled nursing unit."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"
@@ -21,9 +21,8 @@ organization: "atria-senior-living"
 organization_name: "Atria Senior Living"
 sources: ["https://seniorsite.org/property/show/atria-covell-gardens", "https://www.aplaceformom.com/community/atria-covell-gardens-59108", "https://www.caring.com/senior-living/california/davis/atria-covell-gardens-95616"]
 verified_date: "2026-07-12"
-review_note: "4.2/5 across 18 resident and family reviews on SeniorSite; 35 reviews listed on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "An assisted living and memory care community in north Davis operated by Atria Senior Living. Cost runs toward the high end for the Davis area."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-covell-gardens-59108"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/davis/atria-covell-gardens-95616"}]
+reviews_search_url: "https://www.google.com/search?q=Atria+Covell+Gardens+Davis+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

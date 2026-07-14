@@ -70,7 +70,7 @@ Because a review-count bar would wrongly exclude the best small homes, our [dire
 
 - **The gate is the regulatory record, not review volume.** A small home qualifies when it holds a **current state license in good standing with a clean recent inspection record** — no revoked or restricted license, no admission hold, no substantiated abuse or neglect finding in the recent window.
 - **Plus at least one positive signal of good care:** a strong review reputation *even at low volume*, a state specialty endorsement (such as dementia or diabetic care), or years of stable operation under the same provider.
-- **We show whatever exists, honestly.** If a home has only a few reviews, we show the real number and date and say so, rather than hiding it or pretending the count means quality. If it has none, we lead with the license basis and the specialties the state records.
+- **We link you to whatever exists, honestly.** We don't display a review number ourselves — see [why](/guides/how-we-list-communities/) — but every home's profile links directly to any review platforms we found, so you can read the real count and what families wrote. If a home has only a few reviews, that's exactly what you'll see when you click through, not a hidden or padded number. If a home has none, its profile leads with the license basis and the specialties the state records instead.
 
 The result is a directory where an excellent five-bed home sits alongside a large community on its own merits — which is the whole reason to look at small homes in the first place.
 

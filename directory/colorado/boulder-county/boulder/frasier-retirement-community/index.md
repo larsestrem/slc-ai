@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "Frasier Retirement Community"
 seo_title: "Frasier Retirement Community — Senior Living in Boulder, CO"
-description: "Frasier (Frasier Meadows) has served Boulder seniors since 1960 on a 20-acre campus and is the city's only accredited continuing care retirement community. It"
+description: "Frasier (Frasier Meadows) has served Boulder seniors since 1960 on a 20-acre campus and is the city's only accredited continuing care retirement community."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Frasier Retirement Community", "url": "/directory/colorado/boulder-county/boulder/frasier-retirement-community/"}]
 nearby: []
 state: "colorado"
@@ -20,10 +20,9 @@ website: "https://www.frasiermeadows.org/"
 care_levels: ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"]
 facility_size: "large"
 cms_ccn: "065324"
-cms_rating_overall: 5
 sources: ["https://www.frasiermeadows.org/", "https://health.usnews.com/best-nursing-homes/area/co/frasier-meadows-health-care-center-065324", "https://www.nursinghomesite.com/FRASIER_MEADOWS_HEALTH_CARE_CENTER_BOULDER_CO"]
 verified_date: "2026-07-12"
-quality_tier: "meets_standard"
-description_full: "Frasier (Frasier Meadows) has served Boulder seniors since 1960 on a 20-acre campus and is the city's only accredited continuing care retirement community. Its on-campus Frasier Meadows Health Care Center, a 54-bed nonprofit skilled nursing facility, holds a 5-star overall Medicare rating."
+description_full: "Frasier (Frasier Meadows) has served Boulder seniors since 1960 on a 20-acre campus and is the city's only accredited continuing care retirement community."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/co/frasier-meadows-health-care-center-065324"}, {"name": "NursingHomeSite", "url": "https://www.nursinghomesite.com/FRASIER_MEADOWS_HEALTH_CARE_CENTER_BOULDER_CO"}]
+reviews_search_url: "https://www.google.com/search?q=Frasier+Retirement+Community+Boulder+CO+reviews"
 ---

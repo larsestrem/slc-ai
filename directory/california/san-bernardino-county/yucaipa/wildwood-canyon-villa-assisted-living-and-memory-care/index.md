@@ -18,12 +18,8 @@ zip: "92399"
 care_levels: ["assisted-living", "memory-care"]
 sources: ["https://ultimateseniorresource.com/states/california/yucaipa/wildwood-canyon-villa-assisted-living-and-memory-care", "https://www.aplaceformom.com/community/wildwood-canyon-villa-99857"]
 verified_date: "2026-07-12"
-google_rating: 4.4
-google_review_count: 30
-rating_as_of: "2026-07-12"
-quality_tier: "meets_standard"
 description_full: "Wildwood Canyon Villa is an assisted living and memory care community in the heart of Yucaipa."
 review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/california/yucaipa/wildwood-canyon-villa-assisted-living-and-memory-care"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/wildwood-canyon-villa-99857"}]
-rating_source: "Ultimate Senior Resource"
+reviews_search_url: "https://www.google.com/search?q=Wildwood+Canyon+Villa+Assisted+Living+and+Memory+Care+Yucaipa+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

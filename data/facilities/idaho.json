@@ -171,7 +171,7 @@
       "organization_name": "Life Care Centers of America",
       "cms_ccn": "135091",
       "cms_rating_overall": 5,
-      "description": "Life Care Center of Idaho Falls is a 109-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility on the east side of Idaho Falls. It provides post-acute skilled nursing and short-term rehabilitation, and holds a 5-star overall rating from the Centers for Medicare & Medicaid Services. The facility has participated in Medicare since 1981 and is part of Life Care Centers of America.",
+      "description": "Life Care Center of Idaho Falls is a 109-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility on the east side of Idaho Falls. The facility has participated in Medicare since 1981 and is part of Life Care Centers of America.",
       "sources": [
         "https://lcca.com/locations/id/idaho-falls/",
         "https://health.usnews.com/best-nursing-homes/area/id/life-care-center-of-idaho-falls-135091",
@@ -407,7 +407,7 @@
       "organization_name": "Tanabell Health Services",
       "cms_ccn": "135136",
       "cms_rating_overall": 3,
-      "description": "Quinn Meadows Rehabilitation and Care Center is a 41-bed Medicare- and Medicaid-certified skilled nursing facility in Pocatello offering short-term rehabilitation and long-term care. It holds a CMS overall rating of 5 out of 5 stars and a High Performing short-term rehabilitation rating from U.S. News, and has participated in Medicare since 2009. It is operated by Idaho-based Tanabell Health Services.",
+      "description": "Quinn Meadows Rehabilitation and Care Center is a 41-bed Medicare- and Medicaid-certified skilled nursing facility in Pocatello offering short-term rehabilitation and long-term care. It is operated by Idaho-based Tanabell Health Services.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/quinn-meadows-rehabilitation-and-care-center-135136",
         "https://tanabell.com/quinn-meadows-rehabilitation-and-care/",
@@ -823,7 +823,7 @@
       "organization_name": "HumanGood",
       "cms_ccn": "135141",
       "cms_rating_overall": 4,
-      "description": "A nonprofit continuing care retirement community operated by HumanGood, offering residential/independent living, assisted living, memory care and a 48-bed Medicare-certified skilled nursing unit. The skilled nursing facility carries a CMS overall rating of 4 stars, with strong health-inspection and staffing scores. Set on the east side of Boise along Warm Springs Avenue.",
+      "description": "A nonprofit continuing care retirement community operated by HumanGood, offering residential/independent living, assisted living, memory care and a 48-bed Medicare-certified skilled nursing unit. Set on the east side of Boise along Warm Springs Avenue.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/the-terraces-of-boise-135141",
         "https://www.medicare.gov/care-compare/details/nursing-home/135141"
@@ -852,7 +852,7 @@
       "organization_name": "Idaho Division of Veterans Services",
       "cms_ccn": "135131",
       "cms_rating_overall": 5,
-      "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses, run by the Idaho Division of Veterans Services. The 122-bed facility holds a CMS overall rating of 5 stars. It provides long-term skilled nursing and rehabilitative care in northwest Boise.",
+      "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses, run by the Idaho Division of Veterans Services. It provides long-term skilled nursing and rehabilitative care in northwest Boise.",
       "sources": [
         "https://www.medicare.gov/care-compare/details/nursing-home/135131",
         "https://veterans.idaho.gov/veterans-home/boise/"
@@ -879,7 +879,7 @@
       "capacity": 30,
       "cms_ccn": "135130",
       "cms_rating_overall": 5,
-      "description": "A 30-bed skilled nursing and short-term rehabilitation facility in Meridian focused on post-acute recovery. It holds a CMS overall rating of 5 stars, with high nurse-staffing levels (about 4.7 nursing hours per resident day) and a strong return-to-home rate. Recognized by U.S. News as a Best Nursing Home for short-term rehabilitation.",
+      "description": "A 30-bed skilled nursing and short-term rehabilitation facility in Meridian focused on post-acute recovery. Recognized by U.S. News as a Best Nursing Home for short-term rehabilitation.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/aspen-transitional-rehabilitation-135130",
         "https://www.medicare.gov/care-compare/details/nursing-home/135130"
@@ -908,7 +908,7 @@
       "organization_name": "Cascadia Healthcare",
       "cms_ccn": "135144",
       "cms_rating_overall": 3,
-      "description": "A 99-bed skilled nursing and short-term rehabilitation center in Nampa operated by Cascadia Healthcare. It carries a CMS overall rating of 4 stars, including a 5-star quality-measures score. Offers Medicare- and Medicaid-certified post-acute and long-term care.",
+      "description": "A 99-bed skilled nursing and short-term rehabilitation center in Nampa operated by Cascadia Healthcare. Offers Medicare- and Medicaid-certified post-acute and long-term care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-nampa-135144",
         "https://www.medicare.gov/care-compare/details/nursing-home/135144"
@@ -937,7 +937,7 @@
       "capacity": 116,
       "cms_ccn": "135113",
       "cms_rating_overall": 3,
-      "description": "A senior living campus in Twin Falls with independent living, assisted living and a 116-bed skilled nursing and rehabilitation center. The skilled nursing facility holds a CMS overall rating of 3 stars and was named a U.S. News 2026 Best Nursing Home for short-term rehabilitation. Serves the Magic Valley region.",
+      "description": "A senior living campus in Twin Falls with independent living, assisted living and a 116-bed skilled nursing and rehabilitation center. Serves the Magic Valley region.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/bridgeview-estates-135113",
         "https://www.medicare.gov/care-compare/details/nursing-home/135113"
@@ -966,7 +966,7 @@
       "organization_name": "Life Care Centers of America",
       "cms_ccn": "135135",
       "cms_rating_overall": 5,
-      "description": "A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. It holds a CMS overall rating of 5 stars, with 5-star health-inspection and quality-measure scores, and was named a U.S. News 2026 Best Nursing Home. Provides short-term rehab and long-term skilled care.",
+      "description": "A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. Provides short-term rehab and long-term skilled care.",
       "sources": [
         "https://lcca.com/locations/id/post-falls/",
         "https://www.medicare.gov/care-compare/details/nursing-home/135142"
@@ -993,7 +993,7 @@
       "capacity": 70,
       "cms_ccn": "135007",
       "cms_rating_overall": 5,
-      "description": "A 70-bed hospital-based skilled nursing and rehabilitation center attached to Bingham Memorial Hospital in Blackfoot. Nonprofit-affiliated, it holds a CMS overall rating of 5 stars and a High Performing short-term rehabilitation rating. Its on-campus hospital gives residents ready access to acute care.",
+      "description": "A 70-bed hospital-based skilled nursing and rehabilitation center attached to Bingham Memorial Hospital in Blackfoot. Its on-campus hospital gives residents ready access to acute care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/bingham-memorial-skilled-nursing-rehabilitation-135007",
         "https://www.medicare.gov/care-compare/details/nursing-home/135007"
@@ -1022,7 +1022,7 @@
       "organization_name": "Idaho Division of Veterans Services",
       "cms_ccn": "135132",
       "cms_rating_overall": 4,
-      "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Pocatello, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars with a High Performing long-term care rating. Provides long-term and rehabilitative skilled nursing care.",
+      "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Pocatello, run by the Idaho Division of Veterans Services. Provides long-term and rehabilitative skilled nursing care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/idaho-state-veterans-home-pocatello-135132",
         "https://www.medicare.gov/care-compare/details/nursing-home/135132"
@@ -1049,7 +1049,7 @@
       "capacity": 119,
       "cms_ccn": "135105",
       "cms_rating_overall": 4,
-      "description": "A 119-bed skilled nursing and transitional-care center in Rexburg (formerly Rexburg Care and Rehabilitation Center). It holds a CMS overall rating of 3 stars, with a 5-star quality-measures score and 4-star staffing. Serves Madison County and the eastern Idaho region.",
+      "description": "A 119-bed skilled nursing and transitional-care center in Rexburg (formerly Rexburg Care and Rehabilitation Center). Serves Madison County and the eastern Idaho region.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/rexburg-care-rehabilitation-center-135105",
         "https://www.medicare.gov/care-compare/details/nursing-home/135105"
@@ -1078,7 +1078,7 @@
       "organization_name": "Life Care Centers of America",
       "cms_ccn": "135127",
       "cms_rating_overall": 4,
-      "description": "A 124-bed skilled nursing and rehabilitation center in Sandpoint operated by Life Care Centers of America, serving Bonner County and north Idaho. It holds a CMS overall rating of 4 stars. Provides Medicare- and Medicaid-certified short-term rehab and long-term skilled care.",
+      "description": "A 124-bed skilled nursing and rehabilitation center in Sandpoint operated by Life Care Centers of America, serving Bonner County and north Idaho. Provides Medicare- and Medicaid-certified short-term rehab and long-term skilled care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/life-care-center-of-sandpoint-135127",
         "https://www.medicare.gov/care-compare/details/nursing-home/135127"
@@ -1108,7 +1108,7 @@
       "organization_name": "Idaho Division of Veterans Services",
       "cms_ccn": "135133",
       "cms_rating_overall": 2,
-      "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Lewiston, run by the Idaho Division of Veterans Services. The 66-bed facility holds a CMS overall rating of 5 stars, with 5-star staffing. Provides long-term and rehabilitative skilled nursing care in the Lewiston-Clarkston valley.",
+      "description": "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Lewiston, run by the Idaho Division of Veterans Services. Provides long-term and rehabilitative skilled nursing care in the Lewiston-Clarkston valley.",
       "sources": [
         "https://www.medicare.gov/care-compare/details/nursing-home/135133",
         "https://veterans.idaho.gov/veterans-home/lewiston/"
@@ -1146,7 +1146,7 @@
       "organization_name": "Cascadia Healthcare",
       "cms_ccn": "135145",
       "cms_rating_overall": 4,
-      "description": "A 34-bed skilled nursing and short-term rehabilitation center in Lewiston operated by Cascadia Healthcare, emphasizing private rooms with private baths. It holds a CMS overall rating of 5 stars. Located near St. Joseph Regional Medical Center and Tri-State Memorial Hospital.",
+      "description": "A 34-bed skilled nursing and short-term rehabilitation center in Lewiston operated by Cascadia Healthcare, emphasizing private rooms with private baths. Located near St. Joseph Regional Medical Center and Tri-State Memorial Hospital.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-lewiston-135145",
         "https://www.medicare.gov/care-compare/details/nursing-home/135145"
@@ -1176,7 +1176,7 @@
       "organization_name": "Cascadia Healthcare",
       "cms_ccn": "135116",
       "cms_rating_overall": 4,
-      "description": "A 63-bed skilled nursing and rehabilitation center in Lewiston operated by Cascadia Healthcare. It holds a CMS overall rating of 4 stars, above the state and national averages. Provides Medicare- and Medicaid-certified post-acute and long-term skilled care.",
+      "description": "A 63-bed skilled nursing and rehabilitation center in Lewiston operated by Cascadia Healthcare. Provides Medicare- and Medicaid-certified post-acute and long-term skilled care.",
       "sources": [
         "https://carelistings.com/skilled-nursing-facilities/lewiston-id/royal-plaza-health-and-rehabilitation-of-cascadia/5ace880f93efd2372f97bc4b",
         "https://www.medicare.gov/care-compare/details/nursing-home/135116"
@@ -1206,7 +1206,7 @@
       "organization_name": "Cascadia Healthcare",
       "cms_ccn": "135010",
       "cms_rating_overall": 3,
-      "description": "A 76-bed skilled nursing and rehabilitation center in Weiser operated by Cascadia Healthcare, serving Washington County in western Idaho. It holds a CMS overall rating of 3 stars, including a 4-star quality-measures score. Provides Medicare- and Medicaid-certified post-acute and long-term care.",
+      "description": "A 76-bed skilled nursing and rehabilitation center in Weiser operated by Cascadia Healthcare, serving Washington County in western Idaho. Provides Medicare- and Medicaid-certified post-acute and long-term care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/weiser-care-of-cascadia-135010",
         "https://www.medicare.gov/care-compare/details/nursing-home/135010"
@@ -1507,7 +1507,7 @@
       "cms_ccn": "135146",
       "cms_rating_overall": 2,
       "review_note": "CMS overall star rating: 2 out of 5 (below average). Sub-scores: health inspection 3 stars, staffing 1 star, quality measures 4 stars, as of July 2026 Medicare Care Compare data.",
-      "description": "Cascadia of Boise is a 99-bed Medicare- and Medicaid-certified skilled nursing facility specializing in ventilator and tracheostomy care and rehabilitation. It carries a 2-star overall CMS rating, driven mainly by a 1-star staffing sub-score, even though its quality-measures sub-score is stronger at 4 stars. Families should ask directly about nurse staffing levels per shift.",
+      "description": "Cascadia of Boise is a 99-bed Medicare- and Medicaid-certified skilled nursing facility specializing in ventilator and tracheostomy care and rehabilitation. Families should ask directly about nurse staffing levels per shift.",
       "sources": [
         "https://www.findseniorlivingnow.com/community/cascadia-of-boise-boise-135146",
         "https://www.cascadiaofboise.com/",
@@ -1537,7 +1537,7 @@
       "cms_ccn": "135084",
       "cms_rating_overall": 2,
       "review_note": "CMS overall star rating reported as 2 out of 5 (below average) with sub-scores of health inspection 2 stars, staffing 2 stars, quality measures 4 stars, consistently repeated across multiple nursing-home data aggregators as of July 2026; some third-party sites showed conflicting overall figures (1 or 3), so families should confirm the current rating directly on Medicare Care Compare.",
-      "description": "Oak Creek Rehabilitation Center of Kimberly is a 57-bed Medicare- and Medicaid-certified skilled nursing facility in Kimberly, near Twin Falls, offering short-term rehabilitation and long-term nursing care. Aggregated CMS data most consistently shows a 2-star overall rating with below-average health-inspection and staffing sub-scores. Families should verify the current rating directly with Medicare Care Compare before enrolling.",
+      "description": "Oak Creek Rehabilitation Center of Kimberly is a 57-bed Medicare- and Medicaid-certified skilled nursing facility in Kimberly, near Twin Falls, offering short-term rehabilitation and long-term nursing care. Families should verify the current rating directly with Medicare Care Compare before enrolling.",
       "sources": [
         "https://www.nursinghomesite.com/OAK_CREEK_REHABILITATION_CENTER_OF_KIMBERLY_KIMBERLY_ID",
         "https://www.medicare.gov/care-compare/details/nursing-home/135084/view-all/?state=ID",
@@ -1569,7 +1569,7 @@
       "cms_ccn": "135055",
       "cms_rating_overall": 1,
       "review_note": "CMS overall star rating: 1 out of 5 (much below average). Sub-scores: health inspection 1 star, staffing 4 stars, quality measures 2 stars, as of July 2026 Medicare Care Compare data.",
-      "description": "Valley Vista Care Center of Sandpoint is a 73-bed Medicare- and Medicaid-certified skilled nursing facility in Sandpoint offering short-term rehabilitation and long-term nursing care. It carries a 1-star overall CMS rating, driven by a 1-star health-inspection sub-score, despite a stronger 4-star staffing sub-score.",
+      "description": "Valley Vista Care Center of Sandpoint is a 73-bed Medicare- and Medicaid-certified skilled nursing facility in Sandpoint offering short-term rehabilitation and long-term nursing care.",
       "sources": [
         "https://www.valleyvista.org/facilities/sandpoint/valley-vista-care-center-of-sandpoint/",
         "https://health.usnews.com/best-nursing-homes/area/id/valley-vista-care-center-of-sandpoint-135055",
@@ -1691,7 +1691,7 @@
       "serious_concern_note": "Despite a current 4-star CMS overall rating, federal inspection records document a citation for placing residents in immediate danger from abuse — read the full inspection history, not just the star average.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
       "concern_type": "Federal inspection citation for failure to protect residents from abuse",
-      "concern_status": "The current overall rating is 4 of 5 — this citation is a separate, specific historical inspection finding; confirm current status directly",
+      "concern_status": "This citation is a separate, specific historical inspection finding that can coexist with a generally acceptable current rating; confirm current status directly on Care Compare",
       "concern_source_url": "https://projects.propublica.org/nursing-homes/homes/h-135080"
     },
     {
@@ -2055,7 +2055,7 @@
       "states": [
         "ID"
       ],
-      "description": "The Idaho Division of Veterans Services operates the state's veterans homes, which provide skilled nursing care for eligible Idaho veterans and their spouses. It runs the Idaho State Veterans Homes in Boise, Pocatello, Lewiston and Post Falls. The Boise, Pocatello and Lewiston skilled nursing homes each hold a CMS overall rating of 5 stars.",
+      "description": "The Idaho Division of Veterans Services operates the state's veterans homes, which provide skilled nursing care for eligible Idaho veterans and their spouses. It runs the Idaho State Veterans Homes in Boise, Pocatello, Lewiston and Post Falls.",
       "sources": [
         "https://veterans.idaho.gov/veterans-home/"
       ]

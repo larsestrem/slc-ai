@@ -20,9 +20,8 @@ care_levels: ["independent-living", "assisted-living"]
 facility_size: "medium"
 sources: ["https://seniorsite.org/property/show/magnolia-of-millbrae", "https://www.yelp.com/biz/the-magnolia-of-millbrae-millbrae"]
 verified_date: "2026-07-12"
-review_note: "4.6/5 across 19 resident and family reviews on SeniorSite (July 2026)"
-quality_tier: "unrated"
 description_full: "Full-service retirement and assisted living community on Chadbourne Avenue in Millbrae, on the Peninsula between San Francisco and San Mateo."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/the-magnolia-of-millbrae-millbrae"}]
+reviews_search_url: "https://www.google.com/search?q=The+Magnolia+of+Millbrae+Millbrae+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

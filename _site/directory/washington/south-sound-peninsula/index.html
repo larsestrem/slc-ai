@@ -27,10 +27,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -120,17 +118,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -324,13 +314,6 @@ tbody tr:hover { background: var(--soft); }
   </div>
 
   <div class="state-list" aria-label="Communities in South Sound & Peninsula by city">
-    <p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
     <section aria-labelledby="c-bremerton">
       <h2 id="c-bremerton">Bremerton, WA <span class="count">· Kitsap County</span></h2>
       <ul class="grid">
@@ -394,8 +377,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="gig-harbor">
   <h3><a href="/directory/washington/pierce-county/gig-harbor/harbor-place-at-cottesmore/">Harbor Place at Cottesmore</a></h3>
-  <p class="meta">Gig Harbor, WA · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Gig Harbor, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -424,8 +406,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="lacey">
   <h3><a href="/directory/washington/thurston-county/lacey/panorama/">Panorama</a></h3>
-  <p class="meta">Lacey, WA · <span class="stars" role="img" aria-label="4.6 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Lacey, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -457,9 +438,19 @@ We list every community we can verify, not just the highest-rated —
       <h2 id="c-olympia">Olympia, WA <span class="count">· Thurston County</span></h2>
       <ul class="grid">
         <li class="card" data-city="olympia">
+  <h3><a href="/directory/washington/thurston-county/olympia/fieldstone-cooper-point/">Fieldstone Cooper Point</a></h3>
+  <p class="meta">Olympia, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Fieldstone Cooper Point is a 120-bed independent and assisted living community on Olympia's west side, part of Washington-based Fieldston...</p>
+</li>
+
+        <li class="card" data-city="olympia">
   <h3><a href="/directory/washington/thurston-county/olympia/olympia-transitional-care-and-rehabilitation/">Olympia Transitional Care and Rehabilitation</a></h3>
-  <p class="meta">Olympia, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Olympia, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -491,20 +482,8 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
         <li class="card" data-city="olympia">
-  <h3><a href="/directory/washington/thurston-county/olympia/fieldstone-cooper-point/">Fieldstone Cooper Point</a></h3>
-  <p class="meta">Olympia, WA</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Fieldstone Cooper Point is a 120-bed independent and assisted living community on Olympia's west side, part of Washington-based Fieldston...</p>
-</li>
-
-        <li class="card" data-city="olympia">
   <h3><a href="/directory/washington/thurston-county/olympia/woodard-creek-health-and-rehabilitation/">Woodard Creek Health & Rehabilitation</a></h3>
-  <p class="meta">Olympia, WA · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
+  <p class="meta">Olympia, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -519,8 +498,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="poulsbo">
   <h3><a href="/directory/washington/kitsap-county/poulsbo/liberty-shores-senior-living/">Liberty Shores Senior Living</a></h3>
-  <p class="meta">Poulsbo, WA · <span class="stars" role="img" aria-label="4.2 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Poulsbo, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -578,8 +556,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="shelton">
   <h3><a href="/directory/washington/mason-county/shelton/fir-lane-care/">Fir Lane Care</a></h3>
-  <p class="meta">Shelton, WA · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
+  <p class="meta">Shelton, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -589,8 +566,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="shelton">
   <h3><a href="/directory/washington/mason-county/shelton/shelton-health-and-rehabilitation/">Shelton Health and Rehabilitation</a></h3>
-  <p class="meta">Shelton, WA · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
+  <p class="meta">Shelton, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -606,8 +582,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="silverdale">
   <h3><a href="/directory/washington/kitsap-county/silverdale/northwoods-lodge/">Northwoods Lodge</a></h3>
-  <p class="meta">Silverdale, WA · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Silverdale, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -636,32 +611,6 @@ We list every community we can verify, not just the highest-rated —
       <h2 id="c-tacoma">Tacoma, WA <span class="count">· Pierce County</span></h2>
       <ul class="grid">
         <li class="card" data-city="tacoma">
-  <h3><a href="/directory/washington/pierce-county/tacoma/titlow-adult-family-home/">Titlow Adult Family Home</a></h3>
-  <p class="meta">Tacoma, WA · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Titlow Adult Family Home is a licensed six-bed adult family home in Tacoma's Titlow Park neighborhood, near the beach and walking trails....</p>
-</li>
-
-        <li class="card" data-city="tacoma">
-  <h3><a href="/directory/washington/pierce-county/tacoma/eliseo/">eliseo</a></h3>
-  <p class="meta">Tacoma, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-</ul>
-<p class="desc">Eliseo (formerly Tacoma Lutheran Retirement Community) is a nonprofit continuing-care retirement community on a 20-acre campus offering i...</p>
-</li>
-
-        <li class="card" data-city="tacoma">
   <h3><a href="/directory/washington/pierce-county/tacoma/franke-tobey-jones/">Franke Tobey Jones</a></h3>
   <p class="meta">Tacoma, WA</p>
   
@@ -687,6 +636,17 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
         <li class="card" data-city="tacoma">
+  <h3><a href="/directory/washington/pierce-county/tacoma/titlow-adult-family-home/">Titlow Adult Family Home</a></h3>
+  <p class="meta">Tacoma, WA · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Titlow Adult Family Home is a licensed six-bed adult family home in Tacoma's Titlow Park neighborhood, near the beach and walking trails....</p>
+</li>
+
+        <li class="card" data-city="tacoma">
   <h3><a href="/directory/washington/pierce-county/tacoma/weatherly-inn-tacoma/">Weatherly Inn Tacoma</a></h3>
   <p class="meta">Tacoma, WA</p>
   
@@ -699,6 +659,20 @@ We list every community we can verify, not just the highest-rated —
 <p class="desc">Weatherly Inn Tacoma is a family-operated senior living community in north Tacoma offering independent living, assisted living, memory ca...</p>
 </li>
 
+        <li class="card" data-city="tacoma">
+  <h3><a href="/directory/washington/pierce-county/tacoma/eliseo/">eliseo</a></h3>
+  <p class="meta">Tacoma, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+</ul>
+<p class="desc">Eliseo (formerly Tacoma Lutheran Retirement Community) is a nonprofit continuing-care retirement community on a 20-acre campus offering i...</p>
+</li>
+
       </ul>
     </section>
     <section aria-labelledby="c-university-place">
@@ -706,8 +680,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="university-place">
   <h3><a href="/directory/washington/pierce-county/university-place/bridgeport-place/">Bridgeport Place</a></h3>
-  <p class="meta">University Place, WA · <span class="stars" role="img" aria-label="4.6 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">University Place, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>

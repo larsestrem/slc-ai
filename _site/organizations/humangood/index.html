@@ -27,10 +27,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -120,17 +118,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -232,88 +222,7 @@ tbody tr:hover { background: var(--soft); }
   
 
   <h2>HumanGood communities in our directory</h2>
-  <p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
   <ul class="grid">
-    <li class="card">
-  <h3><a href="/directory/washington/king-county/des-moines/judson-park/">Judson Park</a></h3>
-  <p class="meta">Des Moines, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-</ul>
-<p class="desc">Judson Park is a nonprofit continuing care retirement community overlooking Puget Sound in Des Moines, operated by HumanGood. The campus ...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/california/orange-county/fullerton/morningside-of-fullerton/">Morningside of Fullerton</a></h3>
-  <p class="meta">Fullerton, CA · <span class="stars" role="img" aria-label="4.8 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Morningside of Fullerton is a Life Plan Community (CCRC) set on 33 landscaped acres in north Orange County, offering independent living, ...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/idaho/ada-county/boise/the-terraces-of-boise/">The Terraces of Boise</a></h3>
-  <p class="meta">Boise, ID · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-</ul>
-<p class="desc">A nonprofit continuing care retirement community operated by HumanGood, offering residential/independent living, assisted living, memory ...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/california/santa-clara-county/los-gatos/the-terraces-of-los-gatos/">The Terraces of Los Gatos</a></h3>
-  <p class="meta">Los Gatos, CA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-</ul>
-<p class="desc">A HumanGood life plan community on Blossom Hill Road in Los Gatos offering independent living, assisted living, memory care, and a CMS 5-...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/california/santa-barbara-county/santa-barbara/valle-verde/">Valle Verde</a></h3>
-  <p class="meta">Santa Barbara, CA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
-</ul>
-<p class="desc">A HumanGood nonprofit continuing care retirement community in Santa Barbara offering independent living, assisted living, and skilled nur...</p>
-</li>
-
     <li class="card">
   <h3><a href="/directory/oregon/yamhill-county/mcminnville/hillside-retirement-community/">Hillside Retirement Community</a></h3>
   <p class="meta">McMinnville, OR</p>
@@ -329,6 +238,20 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
     <li class="card">
+  <h3><a href="/directory/washington/king-county/des-moines/judson-park/">Judson Park</a></h3>
+  <p class="meta">Des Moines, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+</ul>
+<p class="desc">Judson Park is a nonprofit continuing care retirement community overlooking Puget Sound in Des Moines, operated by HumanGood. The campus ...</p>
+</li>
+
+    <li class="card">
   <h3><a href="/directory/nevada/clark-county/las-vegas/las-ventanas-at-summerlin/">Las Ventanas at Summerlin</a></h3>
   <p class="meta">Las Vegas, NV</p>
   
@@ -340,6 +263,20 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Las Ventanas at Summerlin is Nevada's only Life Care community (CCRC), operated by the nonprofit HumanGood. The campus offers independent...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/california/orange-county/fullerton/morningside-of-fullerton/">Morningside of Fullerton</a></h3>
+  <p class="meta">Fullerton, CA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Morningside of Fullerton is a Life Plan Community (CCRC) set on 33 landscaped acres in north Orange County, offering independent living, ...</p>
 </li>
 
     <li class="card">
@@ -368,6 +305,47 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
 <p class="desc">The Terraces at San Joaquin Gardens is a continuing care retirement community on North Fresno Street in Fresno. It offers maintenance-fre...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/idaho/ada-county/boise/the-terraces-of-boise/">The Terraces of Boise</a></h3>
+  <p class="meta">Boise, ID</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+</ul>
+<p class="desc">A nonprofit continuing care retirement community operated by HumanGood, offering residential/independent living, assisted living, memory ...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/california/santa-clara-county/los-gatos/the-terraces-of-los-gatos/">The Terraces of Los Gatos</a></h3>
+  <p class="meta">Los Gatos, CA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+</ul>
+<p class="desc">Named a U.S. News Best Senior Living community for independent living, assisted living, and memory care. Residents like the walkable loca...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/california/santa-barbara-county/santa-barbara/valle-verde/">Valle Verde</a></h3>
+  <p class="meta">Santa Barbara, CA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
+</ul>
+<p class="desc">A HumanGood nonprofit continuing care retirement community in Santa Barbara offering independent living, assisted living, and skilled nur...</p>
 </li>
 
   </ul>

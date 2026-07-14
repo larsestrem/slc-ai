@@ -4,7 +4,7 @@ title: "Lacamas Creek Post Acute"
 seo_title: "Lacamas Creek Post Acute — Senior Living in Camas, WA"
 description: "Lacamas Creek Post Acute is an 83-bed Medicare- and Medicaid-certified skilled nursing facility in Camas, Washington, owned by PACS Group. Formerly operated a"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Lacamas Creek Post Acute", "url": "/directory/washington/clark-county/camas/lacamas-creek-post-acute/"}]
-nearby: [{"name": "Camas Hills Care Home", "url": "/directory/washington/clark-county/camas/camas-hills-care-home/", "city_name": "Camas", "state_abbrev": "WA", "care_levels": ["adult-family-home", "memory-care"], "quality_tier": "meets_standard", "facility_size": "small", "google_rating": 5.0, "google_review_count": 2, "description": "Camas Hills Care Home is a licensed 6-bed adult family home in Camas, family-owned and operated since 2010. It offers six private suites with private bathrooms and states specialized training in mental health and dementia, caring for all levels including hospice."}]
+nearby: [{"name": "Camas Hills Care Home", "url": "/directory/washington/clark-county/camas/camas-hills-care-home/", "city_name": "Camas", "state_abbrev": "WA", "care_levels": ["adult-family-home", "memory-care"], "serious_concern": false, "facility_size": "small", "description": "Camas Hills Care Home is a licensed 6-bed adult family home in Camas, family-owned and operated since 2010. It offers six private suites with private bathrooms and states specialized training in mental health and dementia, caring for all levels including hospice."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"
@@ -22,7 +22,7 @@ capacity: 83
 cms_ccn: "505273"
 sources: ["https://lacamascreekpa.com/", "https://www.whca.org/facility-finder/lacamas-creek-post-acute/", "https://health.usnews.com/best-nursing-homes/area/wa/lacamas-creek-post-acute-505273"]
 verified_date: "2026-07-11"
-quality_tier: "unrated"
 description_full: "Lacamas Creek Post Acute is an 83-bed Medicare- and Medicaid-certified skilled nursing facility in Camas, Washington, owned by PACS Group. Formerly operated as Prestige Care and Rehabilitation - Camas, it provides short-term rehabilitation including physical, occupational, and speech therapy, plus wound care and other post-acute services."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/lacamas-creek-post-acute-505273"}]
+reviews_search_url: "https://www.google.com/search?q=Lacamas+Creek+Post+Acute+Camas+WA+reviews"
 ---

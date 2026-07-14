@@ -9,6 +9,6 @@ county_name: "San Joaquin"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "Prestige Assisted Living at Manteca", "url": "/directory/california/san-joaquin-county/manteca/prestige-assisted-living-at-manteca/", "city_name": "Manteca", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "medium", "description": "Assisted living community with a dedicated memory care unit on Empire Avenue in Manteca, operated by Pacific Northwest-based Prestige Care."}]
+facilities: [{"name": "Prestige Assisted Living at Manteca", "url": "/directory/california/san-joaquin-county/manteca/prestige-assisted-living-at-manteca/", "city_name": "Manteca", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "facility_size": "medium", "description": "Assisted living community with a dedicated memory care unit on Empire Avenue in Manteca, operated by Pacific Northwest-based Prestige Care."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Joaquin County", "url": "/directory/california/san-joaquin-county/"}, {"name": "Manteca", "url": "/directory/california/san-joaquin-county/manteca/"}]
 ---

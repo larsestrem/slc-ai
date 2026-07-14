@@ -28,10 +28,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -121,17 +119,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -228,14 +218,6 @@ tbody tr:hover { background: var(--soft); }
 
 
 
-
-<p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
 <section aria-labelledby="c-beaverton">
   <h2 id="c-beaverton"><a href="/directory/oregon/washington-county/beaverton/">Beaverton, OR</a></h2>
   <ul class="grid">
@@ -294,8 +276,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/oregon/washington-county/beaverton/maryville-nursing-home/">Maryville Nursing Home</a></h3>
-  <p class="meta">Beaverton, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Beaverton, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -332,17 +313,6 @@ We list every community we can verify, not just the highest-rated —
   <h2 id="c-forest-grove"><a href="/directory/oregon/washington-county/forest-grove/">Forest Grove, OR</a></h2>
   <ul class="grid">
     <li class="card">
-  <h3><a href="/directory/oregon/washington-county/forest-grove/marquis-forest-grove-post-acute-rehab/">Marquis Forest Grove Post Acute Rehab</a></h3>
-  <p class="meta">Forest Grove, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Marquis Forest Grove Post Acute Rehab is a 63-bed skilled nursing facility in Forest Grove offering short-term rehabilitation and long-te...</p>
-</li>
-
-    <li class="card">
   <h3><a href="/directory/oregon/washington-county/forest-grove/jennings-mccall-center/">Jennings McCall Center</a></h3>
   <p class="meta">Forest Grove, OR</p>
   
@@ -354,6 +324,16 @@ We list every community we can verify, not just the highest-rated —
 <p class="desc">Jennings McCall is an independent nonprofit retirement community on 15 acres in Forest Grove, started by the Masons of Oregon in 1922 and...</p>
 </li>
 
+    <li class="card">
+  <h3><a href="/directory/oregon/washington-county/forest-grove/marquis-forest-grove-post-acute-rehab/">Marquis Forest Grove Post Acute Rehab</a></h3>
+  <p class="meta">Forest Grove, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Marquis Forest Grove Post Acute Rehab is a 63-bed skilled nursing facility in Forest Grove offering short-term rehabilitation and long-te...</p>
+</li>
+
   </ul>
 </section>
 <section aria-labelledby="c-hillsboro">
@@ -361,24 +341,13 @@ We list every community we can verify, not just the highest-rated —
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/oregon/washington-county/hillsboro/avamere-rehabilitation-of-hillsboro/">Avamere Rehabilitation of Hillsboro</a></h3>
-  <p class="meta">Hillsboro, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Hillsboro, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
   <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
 </ul>
 <p class="desc">An 87-bed skilled nursing and rehabilitation center on SE Oak Street in Hillsboro, part of the Oregon-based Avamere family of companies. ...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/oregon/washington-county/hillsboro/regina-adult-foster-home/">Regina Adult Foster Home</a></h3>
-  <p class="meta">Hillsboro, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-</ul>
-<p class="desc">Regina Adult Foster Home is a purpose-built five-bedroom adult foster home in Hillsboro owned and operated by Regina Asare, RN, who has m...</p>
 </li>
 
     <li class="card">
@@ -390,6 +359,16 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
 <p class="desc">A retirement and assisted living residence in central Hillsboro with 75 licensed assisted living beds that also accepts Medicaid.</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/oregon/washington-county/hillsboro/regina-adult-foster-home/">Regina Adult Foster Home</a></h3>
+  <p class="meta">Hillsboro, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+</ul>
+<p class="desc">Regina Adult Foster Home is a purpose-built five-bedroom adult foster home in Hillsboro owned and operated by Regina Asare, RN, who has m...</p>
 </li>
 
     <li class="card">
@@ -450,6 +429,16 @@ We list every community we can verify, not just the highest-rated —
   <h2 id="c-tigard"><a href="/directory/oregon/washington-county/tigard/">Tigard, OR</a></h2>
   <ul class="grid">
     <li class="card">
+  <h3><a href="/directory/oregon/washington-county/tigard/summerfield-estates-retirement-community/">Summerfield Estates Retirement Community</a></h3>
+  <p class="meta">Tigard, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+</ul>
+<p class="desc">Summerfield Estates Retirement Community is an independent living community in Tigard's Summerfield neighborhood.</p>
+</li>
+
+    <li class="card">
   <h3><a href="/directory/oregon/washington-county/tigard/sunrise-adult-foster-home-tigard/">Sunrise Adult Foster Home</a></h3>
   <p class="meta">Tigard, OR · Small home</p>
   
@@ -461,19 +450,8 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
     <li class="card">
-  <h3><a href="/directory/oregon/washington-county/tigard/summerfield-estates-retirement-community/">Summerfield Estates Retirement Community</a></h3>
-  <p class="meta">Tigard, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-</ul>
-<p class="desc">Summerfield Estates Retirement Community is an independent living community in Tigard's Summerfield neighborhood.</p>
-</li>
-
-    <li class="card">
   <h3><a href="/directory/oregon/washington-county/tigard/tigard-rehabilitation-and-care/">Tigard Rehabilitation and Care</a></h3>
-  <p class="meta">Tigard, OR · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
+  <p class="meta">Tigard, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -488,8 +466,7 @@ We list every community we can verify, not just the highest-rated —
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/oregon/washington-county/tualatin/marquis-tualatin/">Marquis Tualatin</a></h3>
-  <p class="meta">Tualatin, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Tualatin, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>

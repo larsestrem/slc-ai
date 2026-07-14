@@ -9,6 +9,6 @@ county_name: "Snohomish"
 state_name: "Washington"
 state_abbrev: "WA"
 facility_count: 1
-facilities: [{"name": "Harbour Pointe Senior Living", "url": "/directory/washington/snohomish-county/mukilteo/harbour-pointe-senior-living/", "city_name": "Mukilteo", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care", "respite-care"], "quality_tier": "unrated", "description": "Harbour Pointe Senior Living offers assisted living, memory care, and respite care in Mukilteo's Harbour Pointe neighborhood."}]
+facilities: [{"name": "Harbour Pointe Senior Living", "url": "/directory/washington/snohomish-county/mukilteo/harbour-pointe-senior-living/", "city_name": "Mukilteo", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care", "respite-care"], "serious_concern": false, "description": "Harbour Pointe Senior Living offers assisted living, memory care, and respite care in Mukilteo's Harbour Pointe neighborhood."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Snohomish County", "url": "/directory/washington/snohomish-county/"}, {"name": "Mukilteo", "url": "/directory/washington/snohomish-county/mukilteo/"}]
 ---

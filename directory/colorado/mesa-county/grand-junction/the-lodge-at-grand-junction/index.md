@@ -22,10 +22,8 @@ organization: "integral-senior-living"
 organization_name: "Integral Senior Living"
 sources: ["https://www.aplaceformom.com/community/the-lodge-at-grand-junction-1437480", "https://thelodgeatgrandjunction.com/our-community/reviews/", "https://thebusinesstimes.com/integral-senior-living-takes-over-management-of-the-lodge-at-grand-junction/"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.5/5 overall across 21 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "The Lodge at Grand Junction provides assisted living, memory care, and respite care in a newer building on Patterson Road, managed by Integral Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-lodge-at-grand-junction-1437480"}]
+reviews_search_url: "https://www.google.com/search?q=The+Lodge+at+Grand+Junction+Grand+Junction+CO+reviews"
 licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
 ---

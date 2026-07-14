@@ -27,10 +27,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -120,17 +118,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -312,13 +302,6 @@ tbody tr:hover { background: var(--soft); }
   </div>
 
   <div class="state-list" aria-label="Communities in Eastern & Central Washington by city">
-    <p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
     <section aria-labelledby="c-east-wenatchee">
       <h2 id="c-east-wenatchee">East Wenatchee, WA <span class="count">· Douglas County</span></h2>
       <ul class="grid">
@@ -367,30 +350,6 @@ We list every community we can verify, not just the highest-rated —
       <h2 id="c-kennewick">Kennewick, WA <span class="count">· Benton County</span></h2>
       <ul class="grid">
         <li class="card" data-city="kennewick">
-  <h3><a href="/directory/washington/benton-county/kennewick/parkview-estates/">Parkview Estates</a></h3>
-  <p class="meta">Kennewick, WA · <span class="stars" role="img" aria-label="4.3 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">reviews</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Parkview Estates is a 120-bed retirement and assisted living community in Kennewick operated by Regency Pacific.</p>
-</li>
-
-        <li class="card" data-city="kennewick">
-  <h3><a href="/directory/washington/benton-county/kennewick/regency-canyon-lakes-rehabilitation-and-nursing-center/">Regency Canyon Lakes Rehabilitation and Nursing Center</a></h3>
-  <p class="meta">Kennewick, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">Regency Canyon Lakes is a 53-bed Medicare- and Medicaid-certified skilled nursing facility in south Kennewick offering short-term rehabil...</p>
-</li>
-
-        <li class="card" data-city="kennewick">
   <h3><a href="/directory/washington/benton-county/kennewick/ciel-senior-living-of-tri-cities/">Ciel Senior Living of Tri-Cities</a></h3>
   <p class="meta">Kennewick, WA</p>
   
@@ -404,13 +363,34 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="kennewick">
   <h3><a href="/directory/washington/benton-county/kennewick/life-care-center-of-kennewick/">Life Care Center of Kennewick</a></h3>
-  <p class="meta">Kennewick, WA · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
+  <p class="meta">Kennewick, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Life Care Center of Kennewick is a 136-bed, for-profit skilled nursing facility at 1508 W 7th Ave in Kennewick, offering short-term rehab...</p>
+</li>
+
+        <li class="card" data-city="kennewick">
+  <h3><a href="/directory/washington/benton-county/kennewick/parkview-estates/">Parkview Estates</a></h3>
+  <p class="meta">Kennewick, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Parkview Estates is a 120-bed retirement and assisted living community in Kennewick operated by Regency Pacific.</p>
+</li>
+
+        <li class="card" data-city="kennewick">
+  <h3><a href="/directory/washington/benton-county/kennewick/regency-canyon-lakes-rehabilitation-and-nursing-center/">Regency Canyon Lakes Rehabilitation and Nursing Center</a></h3>
+  <p class="meta">Kennewick, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">Regency Canyon Lakes is a 53-bed Medicare- and Medicaid-certified skilled nursing facility in south Kennewick offering short-term rehabil...</p>
 </li>
 
       </ul>
@@ -451,41 +431,6 @@ We list every community we can verify, not just the highest-rated —
       <h2 id="c-spokane">Spokane, WA <span class="count">· Spokane County</span></h2>
       <ul class="grid">
         <li class="card" data-city="spokane">
-  <h3><a href="/directory/washington/spokane-county/spokane/providence-adult-family-home-spokane/">Providence Adult Family Home</a></h3>
-  <p class="meta">Spokane, WA · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Providence Adult Family Home is a licensed six-bed adult family home in north Spokane owned and operated by Angela and Vasile Codreanu. I...</p>
-</li>
-
-        <li class="card" data-city="spokane">
-  <h3><a href="/directory/washington/spokane-county/spokane/regency-at-northpointe/">Regency at Northpointe</a></h3>
-  <p class="meta">Spokane, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">A 120-bed skilled nursing and rehabilitation center in north Spokane offering short-term rehab and long-term care. It carries a CMS overa...</p>
-</li>
-
-        <li class="card" data-city="spokane">
-  <h3><a href="/directory/washington/spokane-county/spokane/south-hill-rehabilitation-and-care-center/">South Hill Rehabilitation and Care Center</a></h3>
-  <p class="meta">Spokane, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">A 113-bed nonprofit skilled nursing and rehabilitation center on Spokane's South Hill offering short-term rehab and long-term care, rated...</p>
-</li>
-
-        <li class="card" data-city="spokane">
   <h3><a href="/directory/washington/spokane-county/spokane/aspen-quality-care/">Aspen Quality Care</a></h3>
   <p class="meta">Spokane, WA</p>
   
@@ -518,6 +463,38 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
         <li class="card" data-city="spokane">
+  <h3><a href="/directory/washington/spokane-county/spokane/franklin-hills-health-and-rehab-center/">Franklin Hills Health & Rehab Center</a></h3>
+  <p class="meta">Spokane, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Franklin Hills Health & Rehab Center is a 100-bed, for-profit skilled nursing facility at 6021 N Lidgerwood St in Spokane that has served...</p>
+</li>
+
+        <li class="card" data-city="spokane">
+  <h3><a href="/directory/washington/spokane-county/spokane/providence-adult-family-home-spokane/">Providence Adult Family Home</a></h3>
+  <p class="meta">Spokane, WA · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Providence Adult Family Home is a licensed six-bed adult family home in north Spokane owned and operated by Angela and Vasile Codreanu. I...</p>
+</li>
+
+        <li class="card" data-city="spokane">
+  <h3><a href="/directory/washington/spokane-county/spokane/regency-at-northpointe/">Regency at Northpointe</a></h3>
+  <p class="meta">Spokane, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">A 120-bed skilled nursing and rehabilitation center in north Spokane offering short-term rehab and long-term care.</p>
+</li>
+
+        <li class="card" data-city="spokane">
   <h3><a href="/directory/washington/spokane-county/spokane/rockwood-south-hill/">Rockwood South Hill</a></h3>
   <p class="meta">Spokane, WA</p>
   
@@ -529,6 +506,17 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
 <p class="desc">Rockwood South Hill is a nonprofit continuing care retirement community (CCRC) on Spokane's South Hill, operated by Rockwood Retirement C...</p>
+</li>
+
+        <li class="card" data-city="spokane">
+  <h3><a href="/directory/washington/spokane-county/spokane/south-hill-rehabilitation-and-care-center/">South Hill Rehabilitation and Care Center</a></h3>
+  <p class="meta">Spokane, WA</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">A 113-bed nonprofit skilled nursing and rehabilitation center on Spokane's South Hill offering short-term rehab and long-term care.</p>
 </li>
 
         <li class="card" data-city="spokane">
@@ -545,20 +533,8 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
         <li class="card" data-city="spokane">
-  <h3><a href="/directory/washington/spokane-county/spokane/franklin-hills-health-and-rehab-center/">Franklin Hills Health & Rehab Center</a></h3>
-  <p class="meta">Spokane, WA · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Franklin Hills Health & Rehab Center is a 100-bed, for-profit skilled nursing facility at 6021 N Lidgerwood St in Spokane that has served...</p>
-</li>
-
-        <li class="card" data-city="spokane">
   <h3><a href="/directory/washington/spokane-county/spokane/spokane-health-and-rehabilitation/">Spokane Health & Rehabilitation</a></h3>
-  <p class="meta">Spokane, WA · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-serious_concerns">Serious concerns</span></p>
+  <p class="meta">Spokane, WA · <span class="concern-flag">Regulatory flag — see profile</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -610,8 +586,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="walla-walla">
   <h3><a href="/directory/washington/walla-walla-county/walla-walla/park-manor-rehabilitation-center/">Park Manor Rehabilitation Center</a></h3>
-  <p class="meta">Walla Walla, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Walla Walla, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -621,8 +596,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="walla-walla">
   <h3><a href="/directory/washington/walla-walla-county/walla-walla/wheatland-village/">Wheatland Village</a></h3>
-  <p class="meta">Walla Walla, WA · <span class="stars" role="img" aria-label="4.2 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Walla Walla, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -639,8 +613,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="wenatchee">
   <h3><a href="/directory/washington/chelan-county/wenatchee/wenatchee-senior-living-by-cogir/">Wenatchee Senior Living by Cogir</a></h3>
-  <p class="meta">Wenatchee, WA · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Wenatchee, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -656,8 +629,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="yakima">
   <h3><a href="/directory/washington/yakima-county/yakima/good-samaritan-health-care-center/">Good Samaritan Health Care Center</a></h3>
-  <p class="meta">Yakima, WA · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Yakima, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>

@@ -20,10 +20,9 @@ care_levels: ["skilled-nursing"]
 facility_size: "large"
 capacity: 195
 cms_ccn: "055034"
-cms_rating_overall: 5
 sources: ["https://health.usnews.com/best-nursing-homes/area/ca/motion-picture-television-hospital-skilled-nursing-facility-055034", "https://www.medicare.gov/care-compare/details/nursing-home/055034/view-all/?state=CA", "https://mptf.com/residential/"]
 verified_date: "2026-07-12"
-quality_tier: "meets_standard"
-description_full: "Nonprofit skilled nursing facility on the Motion Picture & Television Fund's Wasserman Campus in Woodland Hills, historically serving entertainment industry members and their families. The 195-bed facility holds a 5-star overall rating from Medicare's Care Compare, with zero reported facility incidents, substantiated complaints, payment denials, or fines in its current CMS record."
+description_full: "Nonprofit skilled nursing facility on the Motion Picture & Television Fund's Wasserman Campus in Woodland Hills, historically serving entertainment industry members and their families."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/motion-picture-television-hospital-skilled-nursing-facility-055034"}]
+reviews_search_url: "https://www.google.com/search?q=Motion+Picture+%26+Television+Hospital+Skilled+Nursing+Facility+Woodland+Hills+CA+reviews"
 ---

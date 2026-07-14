@@ -4,7 +4,7 @@ title: "McKay Creek Assisted Living"
 seo_title: "McKay Creek Assisted Living — Senior Living in Pendleton, OR"
 description: "A 44-unit assisted living community on Southgate Place in Pendleton, also known as McKay Creek Estates. One of the highest-rated senior communities in Umatill"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "McKay Creek Assisted Living", "url": "/directory/oregon/umatilla-county/pendleton/mckay-creek-assisted-living/"}]
-nearby: [{"name": "Willowbrook Post Acute", "url": "/directory/oregon/umatilla-county/pendleton/willowbrook-post-acute/", "city_name": "Pendleton", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "quality_tier": "below_standard", "facility_size": "medium", "cms_rating_overall": 1, "description": "Willowbrook Post Acute is a 59-bed Medicare- and Medicaid-certified skilled nursing facility in Pendleton offering short-term rehabilitation and long-term nursing care."}]
+nearby: [{"name": "Willowbrook Post Acute", "url": "/directory/oregon/umatilla-county/pendleton/willowbrook-post-acute/", "city_name": "Pendleton", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "serious_concern": false, "facility_size": "medium", "description": "Willowbrook Post Acute is a 59-bed Medicare- and Medicaid-certified skilled nursing facility in Pendleton offering short-term rehabilitation and long-term nursing care."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"
@@ -21,9 +21,8 @@ facility_size: "medium"
 capacity: 44
 sources: ["https://reviews.birdeye.com/mckay-creek-estates-173507633638028", "https://mckaycreekal.com/", "https://www.ohca.com/facility-finder/mckay-creek-assisted-living/"]
 verified_date: "2026-07-11"
-review_note: "4.8/5 across 20 reviews on Birdeye (listed as McKay Creek Estates); A Place for Mom review score 8.9/10 with 7 reviews (July 2026)"
-quality_tier: "unrated"
 description_full: "A 44-unit assisted living community on Southgate Place in Pendleton, also known as McKay Creek Estates. One of the highest-rated senior communities in Umatilla County."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/mckay-creek-estates-173507633638028"}]
+reviews_search_url: "https://www.google.com/search?q=McKay+Creek+Assisted+Living+Pendleton+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

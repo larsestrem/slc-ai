@@ -19,13 +19,8 @@ care_levels: ["assisted-living", "memory-care"]
 facility_size: "medium"
 sources: ["https://birdeye.com/vista-pointe-at-lake-havasu-city-173471346973917", "https://www.aplaceformom.com/community/vista-pointe-at-lake-havasu-city-53836"]
 verified_date: "2026-07-12"
-google_rating: 4.6
-google_review_count: 14
-rating_as_of: "2026-07-12"
-review_note: "4.5/5 across 35 reviews on Birdeye; 4.6/5 across 14 Google reviews (July 2026)"
-quality_tier: "meets_standard"
 description_full: "Vista Pointe at Lake Havasu City provides assisted living and memory care near downtown Lake Havasu City."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/vista-pointe-at-lake-havasu-city-173471346973917"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/vista-pointe-at-lake-havasu-city-53836"}]
-rating_source: "Birdeye"
+reviews_search_url: "https://www.google.com/search?q=Vista+Pointe+at+Lake+Havasu+City+Lake+Havasu+City+AZ+reviews"
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
 ---

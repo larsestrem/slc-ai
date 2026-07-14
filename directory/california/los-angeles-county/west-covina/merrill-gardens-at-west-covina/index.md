@@ -21,10 +21,8 @@ organization: "merrill-gardens"
 organization_name: "Merrill Gardens"
 sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-west-covina-1444988", "https://www.yelp.com/biz/merrill-gardens-at-west-covina-west-covina"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.6/5 average across 25 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "Merrill Gardens at West Covina offers independent living, assisted living, and memory care in a modern community next to West Covina's civic center."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-west-covina-1444988"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-west-covina-west-covina"}]
+reviews_search_url: "https://www.google.com/search?q=Merrill+Gardens+at+West+Covina+West+Covina+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

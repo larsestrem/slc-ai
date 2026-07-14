@@ -1,47 +1,40 @@
 {%- comment -%}
-Bottom-of-page ratings section for a facility. For each rating we hold, it shows
-the score, who assigns it, what it measures, and links to the guides that explain
-how the rating is determined.
+Bottom-of-page ratings & records section. We do not display a numeric rating
+or star anywhere on the site — a wrong number is a real liability, and the
+source can change the moment after we check it. Instead, every source we
+found is listed here with a direct, clearly-labeled link and a short
+explanation of who assigns it and what it measures, so a family can read the
+real, current number themselves. See /guides/how-we-list-communities/ for
+the full policy. The one exception is a confirmed regulatory flag (Special
+Focus Facility, a substantiated finding) — that's a sourced fact we report,
+not a rating we compute.
 {%- endcomment -%}
 <section class="panel ratings-block" aria-labelledby="ratings-h">
   <h2 id="ratings-h">Ratings &amp; official records</h2>
-  <p>Here is every rating we found for {{ page.title }} — who assigns each one and what it
-  actually measures — so you can weigh it for what it's worth. No single number decides a good
-  fit; use these to build questions, then trust your own visit.</p>
+  <p>We don't publish a star rating or numeric score for {{ page.title }} ourselves — ratings
+  change, and a wrong number here would be worse than none. Instead, here's exactly where to find
+  the real ones, straight from the source.</p>
 
   {%- if page.cms_ccn %}
   <div class="rating-card">
-    <div class="rating-badge">
-      {%- if page.cms_rating_overall %}{% include stars.html rating=page.cms_rating_overall %}
-      <span class="rating-num">{{ page.cms_rating_overall }} of 5</span>{% else %}<span class="rating-num">Medicare-<br>certified</span>{% endif %}
-    </div>
     <div class="rating-body">
       <h3>Medicare Five-Star Quality Rating</h3>
       <p><strong>Who assigns it:</strong> the federal Centers for Medicare &amp; Medicaid Services
       (CMS), the government agency that certifies nursing homes.
       <strong>What it measures:</strong> independent state health inspections, nurse and aide
-      staffing levels, and clinical quality measures, combined into one overall star. Some of the
-      quality data is reported by the facility itself — which means a community that documents
-      every incident honestly can score lower than one that reports less completely. Read the
-      health-inspection detail, not just the summary star.</p>
-      {%- if page.cms_health_inspection_rating or page.cms_staffing_rating or page.cms_quality_measure_rating %}
-      <p><strong>The overall star is a blend of three component ratings</strong> — read them
-      separately, since a facility can be strong on one and weak on another:</p>
-      <ul class="cms-components">
-        {%- if page.cms_health_inspection_rating %}<li>Health inspection: {{ page.cms_health_inspection_rating }} of 5</li>{% endif %}
-        {%- if page.cms_staffing_rating %}<li>Staffing: {{ page.cms_staffing_rating }} of 5</li>{% endif %}
-        {%- if page.cms_quality_measure_rating %}<li>Quality measures: {{ page.cms_quality_measure_rating }} of 5</li>{% endif %}
-      </ul>
-      {%- endif %}
-      <p><a href="https://www.medicare.gov/care-compare/details/nursing-home/{{ page.cms_ccn }}" rel="noopener">See the full federal report on Medicare Care Compare</a> ·
+      staffing levels, and clinical quality measures, combined into one overall star — reported
+      separately too, since a facility can be strong on one and weak on another. Some of the
+      quality data is reported by the facility itself, which means a community that documents
+      every incident honestly can score lower than one that reports less completely.</p>
+      <p><a class="btn-link" href="https://www.medicare.gov/care-compare/details/nursing-home/{{ page.cms_ccn }}" rel="noopener">See {{ page.title }}'s current rating on Medicare Care Compare &rarr;</a></p>
+      <p class="cms-currency">CMS certification number {{ page.cms_ccn }}. CMS refreshes ratings
+      monthly — always check the live number on Care Compare rather than relying on any cached
+      figure, including ones we might have shown in the past.
       <a href="/guides/reading-inspection-reports-and-ratings/">How these stars are calculated, and their limits</a></p>
-      <p class="cms-currency"><strong>CMS certification number:</strong> {{ page.cms_ccn }}.
-      {%- if page.cms_data_as_of %} Rating current as of CMS's {{ page.cms_data_as_of | date: "%B %Y" }} data release{% else %} We could not confirm the exact CMS data-release date this rating reflects{% endif %} — CMS refreshes ratings monthly, so confirm the current number on Care Compare above before deciding. Our own record was last checked {{ page.verified_date | default: site.data_vintage.last_verified }}, which is not the same as the CMS data date.</p>
     </div>
   </div>
   {%- else %}
   <div class="rating-card">
-    <div class="rating-badge"><span class="rating-num">State-<br>licensed</span></div>
     <div class="rating-body">
       <h3>State license &amp; inspections</h3>
       <p><strong>Who assigns it:</strong> {{ page.state_name }} — not Medicare. Assisted living,
@@ -51,73 +44,52 @@ how the rating is determined.
       {%- if page.specialties and page.specialties.size > 0 %}
       <p><strong>State-recognized specialties:</strong> {{ page.specialties | join: ", " }} — added training or endorsements the state records for this home.</p>
       {%- endif %}
-      <p>{% if page.licensing %}<a href="{{ page.licensing.lookup_url }}" rel="noopener">Look up this community at the {{ page.licensing.agency }}{% if page.license_id %} (license&nbsp;{{ page.license_id }}){% endif %}</a> ·
-      {% endif %}<a href="/guides/checking-complaints-and-state-records/">How to read the record fairly</a></p>
+      {%- if page.licensing %}
+      <p><a class="btn-link" href="{{ page.licensing.lookup_url }}" rel="noopener">Look up {{ page.title }} at the {{ page.licensing.agency }}{% if page.license_id %} (license&nbsp;{{ page.license_id }}){% endif %} &rarr;</a></p>
+      {%- endif %}
+      <p class="cms-currency"><a href="/guides/checking-complaints-and-state-records/">How to read the state record fairly</a></p>
     </div>
   </div>
   {%- endif %}
 
-  {%- if page.google_rating or page.review_note or page.review_links %}
   <div class="rating-card">
-    <div class="rating-badge">
-      {%- if page.google_rating %}{% include stars.html rating=page.google_rating %}<span class="rating-num">{{ page.google_rating }} of 5</span>
-      {%- else %}<span class="rating-num">Family<br>reviews</span>{% endif %}
-    </div>
     <div class="rating-body">
       <h3>Family &amp; resident reviews</h3>
-      <p><strong>Who writes it:</strong> families and residents{% if page.rating_source %}, on {{ page.rating_source }}{% else %}, on public review sites{% endif %}{% if page.google_rating and page.google_review_count %} — {{ page.google_rating }} of 5 across {{ page.google_review_count }} reviews{% if page.rating_as_of %}, retrieved {{ page.rating_as_of | date: "%B %-d, %Y" }}{% endif %}{% endif %}.
+      <p><strong>Who writes it:</strong> families and residents, on public review sites.
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
-      inspections. Read the recent ones and the middle-star ones, not just the average.{% if page.facility_size == 'small' %} A home this small serves only a handful of families at a time, so even a great one collects far fewer reviews than a 100-bed building — <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">judge it by the record and your visit, not the review count</a>.{% endif %}</p>
-      <p>{%- if page.review_links and page.review_links.size > 0 %}<strong>Read the reviews
-      yourself:</strong> {% for rl in page.review_links %}<a href="{{ rl.url }}" rel="nofollow noopener">{{ rl.name }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %} — that's where the
-      actual reviews live; we only show the aggregate rating here.
-      {%- else %}Search the community's name on Google or a senior-living review site to read the
-      actual reviews — we only show the aggregate rating here.{% endif %}</p>
+      inspections.{% if page.facility_size == 'small' %} A home this small serves only a handful of families at a time, so even a great one collects far fewer reviews than a 100-bed building — <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">judge it by the record and your visit, not the review count</a>.{% endif %}</p>
+      <ul class="review-link-list">
+        {%- for rl in page.review_links %}
+        <li><a class="btn-link" href="{{ rl.url }}" rel="nofollow noopener">Read {{ page.title }}'s reviews on {{ rl.name }} &rarr;</a></li>
+        {%- endfor %}
+        <li><a class="btn-link" href="{{ page.reviews_search_url }}" rel="nofollow noopener">Search for more reviews of {{ page.title }} &rarr;</a></li>
+      </ul>
       {%- if page.review_caveat %}
       <p class="notice" style="margin-bottom:0"><strong>Same-campus note:</strong> {{ page.review_caveat }}</p>
       {%- endif %}
       {% include review-caveats.html %}
     </div>
   </div>
-  {%- endif %}
 
-  {%- if page.quality_basis %}
-  <p class="notice" style="margin-bottom:0"><strong>Why this home is listed:</strong> {{ page.quality_basis }}</p>
-  {%- endif %}
-
-  {%- if page.quality_tier == "serious_concerns" %}
+  {%- if page.serious_concern %}
   <div class="notice tier-notice-danger">
-    <p class="tnd-head"><strong>Serious concerns on the official record.</strong></p>
+    <p class="tnd-head"><strong>Confirmed regulatory flag on the official record.</strong></p>
     <dl class="concern-facts">
       {%- if page.concern_regulator %}<dt>Regulator</dt><dd>{{ page.concern_regulator }}</dd>{% endif %}
       {%- if page.concern_type %}<dt>Finding</dt><dd>{{ page.concern_type }}</dd>{% endif %}
       {%- if page.concern_date %}<dt>Date</dt><dd>{{ page.concern_date }}</dd>{% endif %}
       {%- if page.concern_status %}<dt>Status</dt><dd>{{ page.concern_status }}</dd>{% endif %}
     </dl>
-    <p>We publish the regulator's finding and a direct source, not our own account of what
-    happened — that's the regulator's information to describe, not ours to retell.
+    <p>This is a fact we found and sourced, not our own assessment — we publish the regulator's
+    finding and a direct link, not our own account of what happened.
     {%- if page.concern_source_url %} <a href="{{ page.concern_source_url }}" rel="nofollow noopener">Read the source record directly</a>.{% endif %}
     We still list this community: a family searching for it by name deserves the real record, not
     a blank page. Talk to the <a href="/guides/checking-complaints-and-state-records/">long-term
     care ombudsman</a> about what you find before considering it further, and confirm the current
     status yourself — regulatory status can change after our {{ page.verified_date | default: site.data_vintage.last_verified }} check.</p>
   </div>
-  {%- elsif page.quality_tier == "below_standard" %}
-  <p class="count"><strong>{% if page.cms_rating_overall %}This is a CMS overall rating of {{ page.cms_rating_overall }} of 5{% elsif page.google_rating %}This is a public review average of {{ page.google_rating }} of 5{% if page.google_review_count %} across {{ page.google_review_count }} reviews{% endif %}{% else %}This community's rating is lower than most in our directory{% endif %} — below the 3-star / 4.2 line we use to sort listings.</strong> That threshold is our own editorial choice for sorting, not a validated safety or clinical standard, and a lower rating doesn't automatically mean no family should choose it — especially if it's the closest or
-  only realistic option, and frequent visits are possible. See our note on
-  <a href="/guides/how-to-choose-a-senior-care-facility/#step-3-build-a-shortlist">weighing distance against rating</a>.
-  Read the record above closely, ask the community directly about what you find, and compare it
-  against nearby alternatives before deciding.
-  <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
-  {%- elsif page.facility_size == 'small' %}
-  <p class="count">Small care homes are held to a standard built for their size: a current state
-  license in good standing with a clean recent inspection record, plus real evidence of good care
-  — strong reviews even at low volume, a state specialty endorsement, or years of stable
-  operation. We don't demand the review volume only a big building can generate.
-  <a href="/guides/adult-family-homes/#how-we-list-small-homes">How we choose small homes &rarr;</a></p>
-  {%- else %}
-  <p class="count">{% if page.cms_rating_overall %}This CMS overall rating of {{ page.cms_rating_overall }} of 5{% elsif page.google_rating %}This public review average of {{ page.google_rating }} of 5{% if page.google_review_count %} across {{ page.google_review_count }} reviews{% endif %}{% else %}This community's record{% endif %} clears the 3-star / 4.2 line we use to sort listings — our own editorial choice, not an independently validated clinical or safety standard. We list every community we
-  can verify, not just the highest-rated ones, and sort by that line instead of hiding what falls
-  short of it. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
   {%- endif %}
+
+  <p class="count">We link you to primary sources instead of showing a rating ourselves —
+  <a href="/guides/how-we-list-communities/">why, and how to use what you find</a>.</p>
 </section>

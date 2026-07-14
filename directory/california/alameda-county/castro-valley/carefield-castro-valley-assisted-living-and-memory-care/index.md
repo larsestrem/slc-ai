@@ -23,9 +23,8 @@ organization: "carefield-living"
 organization_name: "Carefield Living"
 sources: ["https://www.aplaceformom.com/community/carefield-castro-valley-assisted-living-and-memory-care-102495", "https://www.yelp.com/biz/carefield-castro-valley-assisted-living-and-memory-care-castro-valley-4"]
 verified_date: "2026-07-12"
-review_note: "4.2/5 across 36 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "Assisted living and memory care community in Castro Valley with a dedicated mild-cognitive-focus program bridging assisted living and memory care. Amenities include an in-house salon, fitness room, library nook, gardens, weekly housekeeping and transportation to medical appointments."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/carefield-castro-valley-assisted-living-and-memory-care-102495"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/carefield-castro-valley-assisted-living-and-memory-care-castro-valley-4"}]
+reviews_search_url: "https://www.google.com/search?q=Carefield+Castro+Valley+Assisted+Living+and+Memory+Care+Castro+Valley+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

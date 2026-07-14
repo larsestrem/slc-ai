@@ -19,10 +19,8 @@ care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
 sources: ["https://www.caring.com/senior-living/arizona/glendale/thunderbird-senior-living", "https://www.aplaceformom.com/community/thunderbird-senior-living-53380"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.6/5 across 14 reviews on Caring.com (July 2026)"
-quality_tier: "unrated"
 description_full: "Thunderbird Senior Living is a large retirement community in Glendale offering independent living, assisted living, and memory care."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/arizona/glendale/thunderbird-senior-living"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/thunderbird-senior-living-53380"}]
+reviews_search_url: "https://www.google.com/search?q=Thunderbird+Senior+Living+Glendale+AZ+reviews"
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
 ---

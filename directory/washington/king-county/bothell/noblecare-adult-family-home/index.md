@@ -4,7 +4,7 @@ title: "NobleCare Adult Family Home"
 seo_title: "NobleCare Adult Family Home — Senior Living in Bothell, WA"
 description: "NobleCare Adult Family Home is a six-bed, RN-supported adult family home in Bothell where each private bedroom has its own bathroom and opens onto a shared gr"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "NobleCare Adult Family Home", "url": "/directory/washington/king-county/bothell/noblecare-adult-family-home/"}]
-nearby: [{"name": "Chateau Bothell Landing", "url": "/directory/washington/king-county/bothell/chateau-bothell-landing/", "city_name": "Bothell", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "quality_tier": "meets_standard", "google_rating": 4.5, "google_review_count": 13, "description": "Family-owned senior living community nestled along the Sammamish River Trail in downtown Bothell, offering independent living, assisted living, memory care, and respite care. Part of the locally operated Chateau Retirement Communities group serving the Seattle area."}, {"name": "Elderly Home Care", "url": "/directory/washington/king-county/bothell/elderly-home-care-bothell/", "city_name": "Bothell", "state_abbrev": "WA", "care_levels": ["adult-family-home", "memory-care"], "quality_tier": "meets_standard", "facility_size": "small", "description": "Elderly Home Care is a licensed six-bed adult family home in Bothell owned and operated by Veronica Dudau, a healthcare professional with more than 20 years of long-term care experience. It offers assisted living and memory care with a high caregiver-to-resident ratio."}]
+nearby: [{"name": "Chateau Bothell Landing", "url": "/directory/washington/king-county/bothell/chateau-bothell-landing/", "city_name": "Bothell", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "serious_concern": false, "description": "Family-owned senior living community nestled along the Sammamish River Trail in downtown Bothell, offering independent living, assisted living, memory care, and respite care. Part of the locally operated Chateau Retirement Communities group serving the Seattle area."}, {"name": "Elderly Home Care", "url": "/directory/washington/king-county/bothell/elderly-home-care-bothell/", "city_name": "Bothell", "state_abbrev": "WA", "care_levels": ["adult-family-home", "memory-care"], "serious_concern": false, "facility_size": "small", "description": "Elderly Home Care is a licensed six-bed adult family home in Bothell owned and operated by Veronica Dudau, a healthcare professional with more than 20 years of long-term care experience. It offers assisted living and memory care with a high caregiver-to-resident ratio."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"
@@ -21,12 +21,8 @@ facility_size: "small"
 capacity: 6
 sources: ["https://reviews.birdeye.com/noble-care-170040776562571", "https://noblecareafh.com/", "https://adultfamilyhomecouncil.org/home-finder/755067-noblecare-afh-llc"]
 verified_date: "2026-07-12"
-google_rating: 5.0
-google_review_count: 11
-rating_as_of: "2026-07-12"
-quality_tier: "meets_standard"
 description_full: "NobleCare Adult Family Home is a six-bed, RN-supported adult family home in Bothell where each private bedroom has its own bathroom and opens onto a shared great room."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/noble-care-170040776562571"}]
-rating_source: "Birdeye"
+reviews_search_url: "https://www.google.com/search?q=NobleCare+Adult+Family+Home+Bothell+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

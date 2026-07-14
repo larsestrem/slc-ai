@@ -27,10 +27,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -120,17 +118,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -216,8 +206,10 @@ tbody tr:hover { background: var(--soft); }
   <p>Type any senior community’s name into a search engine and you’ll get a wall of stars — a 4.6
 here, a 3.9 there, sometimes for the same building. Before you let a number make this decision
 for you, it’s worth knowing where each kind of rating comes from, who wrote the reviews, and
-what they can and can’t tell you. On our own listings we show review evidence with its source
-and date for exactly this reason — so you know what you’re looking at.</p>
+what they can and can’t tell you. We don’t display those numbers ourselves — every community’s
+profile links you directly to each platform’s review page instead, clearly labeled, so you read
+the real number at the source rather than a number we’ve restated (see
+<a href="/guides/how-we-list-communities/">why</a>).</p>
 
 <h2 id="know-your-sources--they-are-not-the-same-thing">Know your sources — they are not the same thing</h2>
 
@@ -357,11 +349,11 @@ tiebreaker.</p>
 Small homes and new communities often have few or none — that’s not a red flag by itself,
 but it shifts all the weight onto the state record, references, and your own visits.</p>
 
-<p><strong>Why do you show review scores on your listings at all?</strong>
-Because families use them anyway — so we’d rather show the number with its source, count, and
-date, alongside the official records, than pretend the stars don’t exist. Every community in
-our directory cleared a review-evidence or CMS-rating standard, and the evidence is printed
-on the page.</p>
+<p><strong>Why don’t you show review scores on your listings?</strong>
+Because we found we could get a number wrong, and a wrong number here is a real harm, not a
+cosmetic bug — see <a href="/guides/how-we-list-communities/">why we link instead of display</a>. Every
+community’s profile links directly to each review platform we found, clearly labeled, so you read
+the real number and the real reviews at the source.</p>
 
   
 
@@ -375,7 +367,7 @@ on the page.</p>
 {"@context":"https://schema.org","@type":"Article","headline":"How to Interpret Online Reviews of Senior Care Facilities","description":"Where senior living star ratings actually come from, why review sites disagree, and how to read online reviews without being misled either direction.","dateModified":"2026-07-12","author":{"@type":"Organization","name":"Senior Living Community"},"mainEntityOfPage":"https://senior.living.community/guides/interpreting-online-reviews/"}
 </script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"A facility asked my relative to leave a review. Is that shady?","acceptedAnswer":{"@type":"Answer","text":"No — ethically asking satisfied families for reviews is standard and fair, since angry people review unprompted. What's shady is gating (only steering happy families to public sites), paying for reviews, or pressuring residents."}},{"@type":"Question","name":"Two sites show very different ratings for the same community. Which is right?","acceptedAnswer":{"@type":"Answer","text":"Neither is \"right\" — they're different populations of reviewers on platforms with different incentives. Note both, read the text on each, and let the official inspection record be the tiebreaker."}},{"@type":"Question","name":"Should I trust a community with no reviews at all?","acceptedAnswer":{"@type":"Answer","text":"Small homes and new communities often have few or none — that's not a red flag by itself, but it shifts all the weight onto the state record, references, and your own visits."}},{"@type":"Question","name":"Why do you show review scores on your listings at all?","acceptedAnswer":{"@type":"Answer","text":"Because families use them anyway — so we'd rather show the number with its source, count, and date, alongside the official records, than pretend the stars don't exist. Every community in our directory cleared a review-evidence or CMS-rating standard, and the evidence is printed on the page."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"A facility asked my relative to leave a review. Is that shady?","acceptedAnswer":{"@type":"Answer","text":"No — ethically asking satisfied families for reviews is standard and fair, since angry people review unprompted. What's shady is gating (only steering happy families to public sites), paying for reviews, or pressuring residents."}},{"@type":"Question","name":"Two sites show very different ratings for the same community. Which is right?","acceptedAnswer":{"@type":"Answer","text":"Neither is \"right\" — they're different populations of reviewers on platforms with different incentives. Note both, read the text on each, and let the official inspection record be the tiebreaker."}},{"@type":"Question","name":"Should I trust a community with no reviews at all?","acceptedAnswer":{"@type":"Answer","text":"Small homes and new communities often have few or none — that's not a red flag by itself, but it shifts all the weight onto the state record, references, and your own visits."}},{"@type":"Question","name":"Why don't you show review scores on your listings?","acceptedAnswer":{"@type":"Answer","text":"Because we found we could get a number wrong, and a wrong number here is a real harm, not a cosmetic bug. Every community's profile links directly to each review platform we found, clearly labeled, so you read the real number and the real reviews at the source."}}]}
 </script>
 
   </main>

@@ -4,7 +4,7 @@ title: "Kadie Glen Assisted Living"
 seo_title: "Kadie Glen Assisted Living — Senior Living in East Wenatchee, WA"
 description: "Kadie Glen Assisted Living is an assisted living community at 451 N Baker Ave in East Wenatchee operated by Ridgeline Management Company. It is open 24 hours "
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Kadie Glen Assisted Living", "url": "/directory/washington/douglas-county/east-wenatchee/kadie-glen-assisted-living/"}]
-nearby: [{"name": "Bonaventure of East Wenatchee", "url": "/directory/washington/douglas-county/east-wenatchee/bonaventure-of-east-wenatchee/", "city_name": "East Wenatchee", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Bonaventure of East Wenatchee is a senior living community in East Wenatchee, in central Washington, offering retirement (independent) living, assisted living, and memory care. It is operated by Bonaventure Senior Living of Salem, Oregon."}]
+nearby: [{"name": "Bonaventure of East Wenatchee", "url": "/directory/washington/douglas-county/east-wenatchee/bonaventure-of-east-wenatchee/", "city_name": "East Wenatchee", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "description": "Bonaventure of East Wenatchee is a senior living community in East Wenatchee, in central Washington, offering retirement (independent) living, assisted living, and memory care. It is operated by Bonaventure Senior Living of Salem, Oregon."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"
@@ -20,9 +20,8 @@ care_levels: ["assisted-living"]
 facility_size: "medium"
 sources: ["https://www.caring.com/senior-living/washington/east-wenatchee/kadie-glen-assisted-living-98801", "https://www.seniorly.com/assisted-living/washington/east-wenatchee/kadie-glen-assisted-living"]
 verified_date: "2026-07-13"
-review_note: "Ratings differ sharply by platform: AssistedLivingCenter.com shows 4.7/5, while Seniorly's proprietary score is only 4.5/10 (July 2026). Reviews describe outstanding service and thoughtful amenities alongside separate complaints of uncleaned shared bathrooms and worn furniture. Operated by Ridgeline Management Company."
-quality_tier: "unrated"
 description_full: "Kadie Glen Assisted Living is an assisted living community at 451 N Baker Ave in East Wenatchee operated by Ridgeline Management Company. It is open 24 hours and licensed by the State of Washington."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/east-wenatchee/kadie-glen-assisted-living-98801"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/washington/east-wenatchee/kadie-glen-assisted-living"}]
+reviews_search_url: "https://www.google.com/search?q=Kadie+Glen+Assisted+Living+East+Wenatchee+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -28,10 +28,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -121,17 +119,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -230,13 +220,6 @@ tbody tr:hover { background: var(--soft); }
 
 
 
-<p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
 <ul class="grid">
   <li class="card">
   <h3><a href="/directory/oregon/lane-county/eugene/angels-aisle-adult-foster/">Angels Aisle Adult Foster</a></h3>
@@ -249,36 +232,13 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
   <li class="card">
-  <h3><a href="/directory/oregon/lane-county/eugene/creekside-health-and-rehab-of-cascadia/">Creekside Health and Rehab of Cascadia</a></h3>
-  <p class="meta">Eugene, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">An 87-bed skilled nursing and rehabilitation facility on Hilyard Street in south Eugene, operated by Cascadia Healthcare. It offers short...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/oregon/lane-county/eugene/pine-tree-care-afh/">Pine Tree Care - AFH</a></h3>
-  <p class="meta">Eugene, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Pine Tree Care is an adult foster home in Eugene offering foster care in a home setting with a garden area and comfortable private rooms.</p>
-</li>
-
-  <li class="card">
   <h3><a href="/directory/oregon/lane-county/eugene/avamere-rehabilitation-of-eugene/">Avamere Rehabilitation of Eugene</a></h3>
   <p class="meta">Eugene, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
-<p class="desc">Avamere Rehabilitation of Eugene is a 92-bed skilled nursing and rehabilitation facility in Eugene. It provides short-term post-acute reh...</p>
+<p class="desc">Avamere Rehabilitation of Eugene is a 92-bed skilled nursing and rehabilitation facility in Eugene. CMS closely monitored the facility fo...</p>
 </li>
 
   <li class="card">
@@ -292,6 +252,17 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
 <p class="desc">Cascade Manor is Eugene's only accredited continuing care retirement community, offering independent living, assisted living, and skilled...</p>
+</li>
+
+  <li class="card">
+  <h3><a href="/directory/oregon/lane-county/eugene/creekside-health-and-rehab-of-cascadia/">Creekside Health and Rehab of Cascadia</a></h3>
+  <p class="meta">Eugene, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">An 87-bed skilled nursing and rehabilitation facility on Hilyard Street in south Eugene, operated by Cascadia Healthcare. It offers short...</p>
 </li>
 
   <li class="card">
@@ -323,6 +294,17 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
 <p class="desc">Assisted living and memory care community in northeast Eugene's Willakenzie area, operated by Seattle-based Merrill Gardens. Offers resta...</p>
+</li>
+
+  <li class="card">
+  <h3><a href="/directory/oregon/lane-county/eugene/pine-tree-care-afh/">Pine Tree Care - AFH</a></h3>
+  <p class="meta">Eugene, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Pine Tree Care is an adult foster home in Eugene offering foster care in a home setting with a garden area and comfortable private rooms.</p>
 </li>
 
   <li class="card">

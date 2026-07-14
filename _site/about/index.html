@@ -27,10 +27,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -120,17 +118,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -246,8 +236,9 @@ verification date and sources.</li>
   <li><strong>Corrections welcome.</strong> Communities and families can <a href="/for-communities/">report updates</a> —
 listings improve over time.</li>
   <li><strong>Within what we’ve covered, we list every community we can verify, not just the
-highest-rated ones</strong> — rated honestly and labeled by tier instead of hidden. See
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</li>
+highest-rated ones</strong> — and we don’t display a rating ourselves. Every profile links directly
+to the government rating and review platforms instead, so you see the real, current number.
+See <a href="/guides/how-we-list-communities/">why, and how to find the real ratings</a>.</li>
 </ul>
 
 <p>Facility details change frequently. Always confirm availability, pricing, and services directly
@@ -260,16 +251,19 @@ We don’t provide medical, legal, or financial advice — our guides tell you w
 belongs with a doctor, an elder law attorney, or a benefits counselor, and
 <a href="/guides/government-assistance-programs/">where to find free help</a>.</p>
 
-<h2 id="about-the-ratings-and-reviews-we-show">About the ratings and reviews we show</h2>
+<h2 id="about-ratings-and-reviews--we-link-we-dont-display">About ratings and reviews — we link, we don’t display</h2>
 
-<p>We do not write reviews, and we do not investigate or verify what any review, inspection report,
-or news source says. We aggregate publicly available ratings — Medicare’s government star
-ratings and review scores from public platforms — and show you the number, its source, and its
-date, with a link to where you can read it directly at the source. We do not restate, quote, or
-summarize the contents of individual reviews or incident reports on our own pages; that
-information belongs to the organization that published it. Do your own research: read the full
-record at the source, and always verify directly with the community. See
-<a href="/guides/interpreting-online-reviews/">how to interpret online reviews</a> and
+<p>We do not display a star rating or numeric score anywhere on this site, and we do not write
+reviews or investigate what any review, inspection report, or news source says. Every facility
+profile links directly to Medicare Care Compare, state licensing records, and the review
+platforms we found — clearly labeled — so you read the real, current number at the source instead
+of a figure we’ve restated. We do not restate, quote, or summarize the contents of individual
+reviews or incident reports on our own pages; that information belongs to the organization that
+published it. The one exception is a confirmed regulatory flag (a federal Special Focus Facility
+designation, a substantiated finding) — a sourced fact we report plainly, not a rating we compute.
+Do your own research: read the full record at the source, and always verify directly with the
+community. See <a href="/guides/how-we-list-communities/">why we don’t display ratings</a>,
+<a href="/guides/interpreting-online-reviews/">how to interpret online reviews</a>, and
 <a href="/guides/reading-inspection-reports-and-ratings/">how government ratings work</a>.</p>
 
 <h2 id="advertising">Advertising</h2>

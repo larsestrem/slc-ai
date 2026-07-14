@@ -20,8 +20,7 @@ facility_size: "large"
 cms_ccn: "385039"
 sources: ["https://www.aplaceformom.com/community/baycrest-village-60187", "https://www.mycaringplan.com/senior-living/baycrest-village/", "https://www.healthcare4ppl.com/nursing-home/oregon/north-bend/baycrest-health-center-385039.html"]
 verified_date: "2026-07-11"
-review_note: "20 reviews on A Place for Mom with My Caring Plan aggregate 9.5/10 (highest rated of 3 communities in North Bend) (July 2026)"
-quality_tier: "unrated"
 description_full: "A full-continuum senior campus on 14 acres overlooking the bay in North Bend, offering independent living, assisted living, memory care, and the 84-bed Medicare- and Medicaid-certified Baycrest Health Center skilled nursing facility."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/baycrest-village-60187"}, {"name": "My Caring Plan", "url": "https://www.mycaringplan.com/senior-living/baycrest-village/"}]
+reviews_search_url: "https://www.google.com/search?q=Baycrest+Village+North+Bend+OR+reviews"
 ---

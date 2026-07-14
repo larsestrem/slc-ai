@@ -28,10 +28,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -121,17 +119,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -230,129 +220,7 @@ tbody tr:hover { background: var(--soft); }
 
 
 
-<p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
 <ul class="grid">
-  <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/portland/elder-garden-care-home/">Elder Garden Care Home, LLC</a></h3>
-  <p class="meta">Portland, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Elder Garden Care Home is a small residential care home in the Portland/Gresham area, purpose-built for senior care and operated by a CNA...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/portland/hirity-adult-home/">Hirity Adult Home</a></h3>
-  <p class="meta">Portland, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">A residential care home in outer southeast Portland providing personal care in a small group-home setting, including memory care for resi...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/portland/marquis-centennial-post-acute-rehab/">Marquis Centennial Post Acute Rehab</a></h3>
-  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">An 80-bed skilled nursing and post-acute rehabilitation center in east Portland's Centennial area, part of the Oregon-based Marquis Compa...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/portland/marquis-mill-park/">Marquis Mill Park</a></h3>
-  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">A 77-bed Marquis Companies skilled nursing and rehabilitation center in the Mill Park neighborhood of southeast Portland. It focuses on s...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/portland/marquis-piedmont-post-acute-rehab/">Marquis Piedmont Post Acute Rehab</a></h3>
-  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">A 70-bed Marquis Companies skilled nursing and rehabilitation center in the Piedmont area of north Portland. It provides post-hospital re...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/portland/marquis-vermont-hills/">Marquis Vermont Hills</a></h3>
-  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">A 73-bed skilled nursing and post-acute rehabilitation center in southwest Portland operated by Marquis Companies. Services include rehab...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/portland/orchard-care-home/">Orchard Care Home</a></h3>
-  <p class="meta">Portland, OR · Small home · <span class="stars" role="img" aria-label="5.0 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-</ul>
-<p class="desc">Orchard Care Home is a Class 2 adult foster home in east Portland licensed for 5 residents. The home provides family-style residential ca...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/portland/robison-jewish-health-center/">Robison Jewish Health Center</a></h3>
-  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
-</ul>
-<p class="desc">Robison Jewish Health Center is a skilled nursing facility on the Cedar Sinai Park campus in southwest Portland, offering short-term reha...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/portland/stephenson-adult-care-home/">Stephenson Adult Care Home</a></h3>
-  <p class="meta">Portland, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-</ul>
-<p class="desc">Stephenson Adult Care Home is a residential foster care home in an upscale southwest Portland neighborhood with a view of Mt. Hood, cater...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/portland/west-hills-health-and-rehabilitation/">West Hills Health & Rehabilitation</a></h3>
-  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">West Hills Health & Rehabilitation is a 180-bed skilled nursing facility in southwest Portland that has served the area since 1970, provi...</p>
-</li>
-
   <li class="card">
   <h3><a href="/directory/oregon/multnomah-county/portland/brookdale-oswego-springs-portland/">Brookdale Oswego Springs Portland</a></h3>
   <p class="meta">Portland, OR</p>
@@ -388,6 +256,28 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
   <li class="card">
+  <h3><a href="/directory/oregon/multnomah-county/portland/elder-garden-care-home/">Elder Garden Care Home, LLC</a></h3>
+  <p class="meta">Portland, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Elder Garden Care Home is a small residential care home in the Portland/Gresham area, purpose-built for senior care and operated by a CNA...</p>
+</li>
+
+  <li class="card">
+  <h3><a href="/directory/oregon/multnomah-county/portland/hirity-adult-home/">Hirity Adult Home</a></h3>
+  <p class="meta">Portland, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">A residential care home in outer southeast Portland providing personal care in a small group-home setting, including memory care for resi...</p>
+</li>
+
+  <li class="card">
   <h3><a href="/directory/oregon/multnomah-county/portland/holladay-park-plaza/">Holladay Park Plaza</a></h3>
   <p class="meta">Portland, OR</p>
   
@@ -412,6 +302,50 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
   <li class="card">
+  <h3><a href="/directory/oregon/multnomah-county/portland/marquis-centennial-post-acute-rehab/">Marquis Centennial Post Acute Rehab</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">An 80-bed skilled nursing and post-acute rehabilitation center in east Portland's Centennial area, part of the Oregon-based Marquis Compa...</p>
+</li>
+
+  <li class="card">
+  <h3><a href="/directory/oregon/multnomah-county/portland/marquis-mill-park/">Marquis Mill Park</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">A 77-bed Marquis Companies skilled nursing and rehabilitation center in the Mill Park neighborhood of southeast Portland. It focuses on s...</p>
+</li>
+
+  <li class="card">
+  <h3><a href="/directory/oregon/multnomah-county/portland/marquis-piedmont-post-acute-rehab/">Marquis Piedmont Post Acute Rehab</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">A 70-bed Marquis Companies skilled nursing and rehabilitation center in the Piedmont area of north Portland. It provides post-hospital re...</p>
+</li>
+
+  <li class="card">
+  <h3><a href="/directory/oregon/multnomah-county/portland/marquis-vermont-hills/">Marquis Vermont Hills</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">A 73-bed skilled nursing and post-acute rehabilitation center in southwest Portland operated by Marquis Companies. Services include rehab...</p>
+</li>
+
+  <li class="card">
   <h3><a href="/directory/oregon/multnomah-county/portland/mirabella-portland/">Mirabella Portland</a></h3>
   <p class="meta">Portland, OR</p>
   
@@ -422,6 +356,39 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/ccrc-life-plan-communities/" title="Learn what CCRC / Life Plan means">CCRC / Life Plan</a></li>
 </ul>
 <p class="desc">Mirabella Portland is a high-rise continuing care retirement community in Portland's South Waterfront district, offering independent livi...</p>
+</li>
+
+  <li class="card">
+  <h3><a href="/directory/oregon/multnomah-county/portland/orchard-care-home/">Orchard Care Home</a></h3>
+  <p class="meta">Portland, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+</ul>
+<p class="desc">Orchard Care Home is a Class 2 adult foster home in east Portland licensed for 5 residents. The home provides family-style residential ca...</p>
+</li>
+
+  <li class="card">
+  <h3><a href="/directory/oregon/multnomah-county/portland/portland-health-and-rehabilitation-center/">Portland Health and Rehabilitation Center</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Portland Health and Rehabilitation Center is a 105-bed Medicare- and Medicaid-certified skilled nursing facility in outer Southeast Portl...</p>
+</li>
+
+  <li class="card">
+  <h3><a href="/directory/oregon/multnomah-county/portland/robison-jewish-health-center/">Robison Jewish Health Center</a></h3>
+  <p class="meta">Portland, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
+</ul>
+<p class="desc">Robison Jewish Health Center is a skilled nursing facility on the Cedar Sinai Park campus in southwest Portland, offering short-term reha...</p>
 </li>
 
   <li class="card">
@@ -458,6 +425,16 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
   <li class="card">
+  <h3><a href="/directory/oregon/multnomah-county/portland/stephenson-adult-care-home/">Stephenson Adult Care Home</a></h3>
+  <p class="meta">Portland, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+</ul>
+<p class="desc">Stephenson Adult Care Home is a residential foster care home in an upscale southwest Portland neighborhood with a view of Mt. Hood, cater...</p>
+</li>
+
+  <li class="card">
   <h3><a href="/directory/oregon/multnomah-county/portland/terwilliger-plaza/">Terwilliger Plaza</a></h3>
   <p class="meta">Portland, OR</p>
   
@@ -471,15 +448,13 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
   <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/portland/portland-health-and-rehabilitation-center/">Portland Health and Rehabilitation Center</a></h3>
-  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
+  <h3><a href="/directory/oregon/multnomah-county/portland/west-hills-health-and-rehabilitation/">West Hills Health & Rehabilitation</a></h3>
+  <p class="meta">Portland, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">Portland Health and Rehabilitation Center is a 105-bed Medicare- and Medicaid-certified skilled nursing facility in outer Southeast Portl...</p>
+<p class="desc">West Hills Health & Rehabilitation is a 180-bed skilled nursing facility in southwest Portland that has served the area since 1970, provi...</p>
 </li>
 
 </ul>

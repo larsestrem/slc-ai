@@ -9,6 +9,6 @@ county_name: "Mesa"
 state_name: "Colorado"
 state_abbrev: "CO"
 facility_count: 1
-facilities: [{"name": "The Lodge at Grand Junction", "url": "/directory/colorado/mesa-county/grand-junction/the-lodge-at-grand-junction/", "city_name": "Grand Junction", "state_abbrev": "CO", "care_levels": ["assisted-living", "memory-care", "respite-care"], "quality_tier": "unrated", "description": "The Lodge at Grand Junction provides assisted living, memory care, and respite care in a newer building on Patterson Road, managed by Integral Senior Living."}]
+facilities: [{"name": "The Lodge at Grand Junction", "url": "/directory/colorado/mesa-county/grand-junction/the-lodge-at-grand-junction/", "city_name": "Grand Junction", "state_abbrev": "CO", "care_levels": ["assisted-living", "memory-care", "respite-care"], "serious_concern": false, "description": "The Lodge at Grand Junction provides assisted living, memory care, and respite care in a newer building on Patterson Road, managed by Integral Senior Living."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Mesa County", "url": "/directory/colorado/mesa-county/"}, {"name": "Grand Junction", "url": "/directory/colorado/mesa-county/grand-junction/"}]
 ---

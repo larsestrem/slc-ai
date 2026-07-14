@@ -21,9 +21,8 @@ organization: "atria-senior-living"
 organization_name: "Atria Senior Living"
 sources: ["https://reviews.birdeye.com/atria-tamalpais-creek-157256129499317", "https://www.aplaceformom.com/community/atria-tamalpais-creek-58169", "https://www.atriaseniorliving.com/retirement-communities/atria-tamalpais-creek-novato-ca"]
 verified_date: "2026-07-12"
-review_note: "4.5 stars across 39 reviews on Birdeye; 47 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "Senior residential community near downtown Novato offering independent living, assisted living, and memory care, set among redwood trees with an outdoor garden and fountain. Operated by Atria Senior Living, which runs more than 100 communities nationwide."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/atria-tamalpais-creek-157256129499317"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-tamalpais-creek-58169"}]
+reviews_search_url: "https://www.google.com/search?q=Atria+Tamalpais+Creek+Novato+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

@@ -23,6 +23,7 @@ import json
 import math
 import shutil
 import sys
+from urllib.parse import quote_plus
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -115,51 +116,19 @@ def review_links_from_sources(sources):
     return links
 
 
-def rating_source_label(f):
-    """The specific platform a facility's review-based rating traces to, per its
-    sources — so a number is never shown as generic 'family reviews' when we can
-    name exactly where it came from (see audit finding on review-source disclosure)."""
-    if not f.get("google_rating"):
-        return None
-    links = review_links_from_sources(f.get("sources"))
-    return links[0]["name"] if links else None
-
-
-TIER_RANK = {"meets_standard": 0, "unrated": 1, "below_standard": 2, "serious_concerns": 3}
-
-
-def quality_tier(f):
-    """Comprehensive-listing model (round 6): every verified facility is listed; the
-    RATING is shown honestly and the facility is labeled/sorted by tier instead of
-    being hidden. Computed here, not set by hand, so it always reflects the data."""
-    if f.get("serious_concern") or f.get("special_focus_facility"):
-        return "serious_concerns"
-
-    cms = f.get("cms_rating_overall")
-    if cms is not None:
-        if cms <= 2:
-            return "below_standard"
-        return "meets_standard"
-
-    if f.get("facility_size") == "small":
-        # round-5 small-home model: license-in-good-standing + a positive signal.
-        # A small home with documented negative review evidence still gets flagged.
-        g = f.get("google_rating")
-        if g is not None and g < 4.0:
-            return "below_standard"
-        return "meets_standard"
-
-    g = f.get("google_rating")
-    if g is not None:
-        return "meets_standard" if g >= 4.2 else "below_standard"
-
-    if f.get("review_note"):
-        # Free-text evidence without a parsed number: treat presence of documented
-        # evidence as informative but not gate-worthy either way; leave to a human
-        # reading the note. Default to unrated for sort purposes (neutral placement).
-        return "unrated"
-
-    return "unrated"
+def has_serious_concern(f):
+    """Round-8 no-ratings-on-site model: the site no longer displays any numeric
+    rating or derived quality tier (stars, "meets our standard", etc.) — that
+    turned out to carry real liability when the underlying number was wrong (see
+    the round-7 audit corrections). Instead, every profile links out to the
+    primary sources (Care Compare, state licensing, review platforms) so
+    families see the real numbers themselves. The one thing still asserted on
+    the site is a confirmed, sourced REGULATORY FACT — a Special Focus Facility
+    designation or a substantiated finding — which is not a rating we compute,
+    just a fact we report with its source. Used only to push flagged
+    facilities to the bottom of listings; never used to imply anything about
+    facilities without a flag."""
+    return bool(f.get("serious_concern") or f.get("special_focus_facility"))
 
 
 def county_slug(f):
@@ -171,29 +140,31 @@ def facility_url(f):
 
 
 def card(f):
-    """The subset of fields a facility card include needs."""
+    """The subset of fields a facility card include needs. No numeric rating
+    fields — cards show identity and care info only; ratings live exclusively
+    on the individual facility profile, as labeled outbound links."""
     c = {
         "name": f["name"], "url": facility_url(f),
         "city_name": f["city_name"], "state_abbrev": f["state_abbrev"],
         "care_levels": f.get("care_levels", []),
-        "quality_tier": quality_tier(f),
+        "serious_concern": has_serious_concern(f),
     }
-    for k in ("facility_size", "cms_rating_overall", "google_rating", "google_review_count", "description"):
+    for k in ("facility_size", "description"):
         if f.get(k):
             c[k] = f[k]
     return c
 
 
 def sort_key(f):
-    """Best-first, then alphabetical — the comprehensive-listing model ranks by
-    visible quality tier instead of hiding facilities that don't clear a bar."""
-    return (TIER_RANK[quality_tier(f)], f["name"])
+    """Alphabetical — the site asserts no quality ordering. A confirmed
+    regulatory flag (not a rating) is the one thing that still affects order,
+    pushing that facility to the bottom of its list."""
+    return (1 if has_serious_concern(f) else 0, f["name"])
 
 
 def card_sort_key(c):
-    """Same ordering as sort_key, for lists already reduced to card() dicts
-    (which carry a precomputed quality_tier)."""
-    return (TIER_RANK[c.get("quality_tier", "unrated")], c["name"])
+    """Same ordering as sort_key, for lists already reduced to card() dicts."""
+    return (1 if c.get("serious_concern") else 0, c["name"])
 
 
 def load_geo():
@@ -290,37 +261,33 @@ def gen_facility_page(f, siblings, licensing):
         ],
         "nearby": nearby,
     }
+    # No numeric rating field is passed through — round-8 no-ratings-on-site model.
+    # Profiles link to primary sources instead of asserting a number ourselves.
     passthrough = ("state", "state_name", "state_abbrev", "county", "county_name", "city",
                    "city_name", "address", "zip", "phone", "website", "care_levels",
                    "facility_size", "capacity", "organization", "organization_name",
-                   "cms_ccn", "cms_rating_overall", "cms_health_inspection_rating",
-                   "cms_staffing_rating", "cms_quality_measure_rating", "cms_data_as_of",
-                   "sources", "verified_date",
+                   "cms_ccn", "sources", "verified_date",
                    # lifestyle & services — optional, shown when verified
                    "pets", "couples", "min_age", "transportation",
                    "medical_services", "support_services",
                    # media — photos: [{src, alt, caption}], logo: path
                    "photos", "logo",
-                   # public review reputation (from search, dated)
-                   "google_rating", "google_review_count", "rating_as_of", "review_note",
                    "review_caveat",
-                   # small-home differentiated quality signals (see SPEC small-home model)
-                   "license_id", "licensed_since", "specialties", "quality_basis",
-                   # comprehensive-listing tier flags (see SPEC round-6 policy)
-                   "special_focus_facility", "serious_concern", "serious_concern_note",
+                   # small-home license facts (not a rating — license status, not a score)
+                   "license_id", "licensed_since", "specialties",
+                   # confirmed regulatory flags — a sourced fact, not a computed rating
+                   "special_focus_facility", "serious_concern",
                    "concern_regulator", "concern_type", "concern_date", "concern_status",
                    "concern_source_url")
     for k in passthrough:
         if f.get(k) not in (None, "", []):
             front[k] = f[k]
-    front["quality_tier"] = quality_tier(f)
     front["description_full"] = f.get("description")
     rlinks = f.get("review_links") or review_links_from_sources(f.get("sources"))
     if rlinks:
         front["review_links"] = rlinks
-    rsource = rating_source_label(f)
-    if rsource:
-        front["rating_source"] = rsource
+    search_q = quote_plus(f"{f['name']} {f['city_name']} {f['state_abbrev']} reviews")
+    front["reviews_search_url"] = f"https://www.google.com/search?q={search_q}"
     if not f.get("cms_ccn") and licensing:
         front["licensing"] = {"agency": licensing.get("agency"), "lookup_url": licensing.get("lookup_url")}
     write(DIRECTORY / f["state"] / county_slug(f) / f["city"] / f["slug"] / "index.md", fm(front))

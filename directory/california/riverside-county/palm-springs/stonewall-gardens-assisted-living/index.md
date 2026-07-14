@@ -21,9 +21,8 @@ care_levels: ["assisted-living"]
 facility_size: "medium"
 sources: ["https://www.aplaceformom.com/community/stonewall-gardens-assisted-living-for-lgbt-seniors-and-friends-1376996", "http://www.stonewallgardens.com/", "https://www.yelp.com/biz/stonewall-gardens-assisted-living-palm-springs"]
 verified_date: "2026-07-12"
-review_note: "4.9/5 across 28 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "Boutique assisted living community of roughly two dozen studio and one-bedroom apartments on North Palm Canyon Drive, notable as Southern California's first assisted living community built for LGBT seniors and friends."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/stonewall-gardens-assisted-living-for-lgbt-seniors-and-friends-1376996"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/stonewall-gardens-assisted-living-palm-springs"}]
+reviews_search_url: "https://www.google.com/search?q=Stonewall+Gardens+Assisted+Living+Palm+Springs+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

@@ -19,10 +19,8 @@ website: "http://www.crescendoseniorliving.com/"
 care_levels: ["assisted-living", "memory-care"]
 sources: ["https://www.aplaceformom.com/community/crescendo-senior-living-assisted-living-and-memory-care-56307", "http://www.crescendoseniorliving.com/"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.2/5 average across 32 family reviews on EveryPlace; A Place for Mom review score 9.2/10 on 13 recent reviews (July 2026)"
-quality_tier: "unrated"
 description_full: "Crescendo Senior Living is an assisted living and memory care community in Placentia, in north Orange County."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/crescendo-senior-living-assisted-living-and-memory-care-56307"}]
+reviews_search_url: "https://www.google.com/search?q=Crescendo+Senior+Living+Placentia+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

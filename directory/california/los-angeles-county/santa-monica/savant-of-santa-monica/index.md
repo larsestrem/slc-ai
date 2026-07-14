@@ -22,9 +22,8 @@ organization: "savant-senior-living"
 organization_name: "Savant Senior Living"
 sources: ["https://www.aplaceformom.com/community/savant-of-santa-monica-54271", "https://www.savantseniorliving.com/santamonica", "https://health.usnews.com/best-senior-living/savant-of-santa-monica-19914"]
 verified_date: "2026-07-12"
-review_note: "4.2/5 average overall experience across 35 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "Senior living community on 17th Street in Santa Monica offering independent living, assisted living, memory care, and respite stays."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/savant-of-santa-monica-54271"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/savant-of-santa-monica-19914"}]
+reviews_search_url: "https://www.google.com/search?q=Savant+of+Santa+Monica+Santa+Monica+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

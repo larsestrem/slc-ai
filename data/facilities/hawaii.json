@@ -24,7 +24,7 @@
       "facility_size": "large",
       "cms_ccn": "125055",
       "cms_rating_overall": 5,
-      "description": "Kahala Nui is a nonprofit continuing care retirement community in Honolulu's Kahala neighborhood, offering independent living, the Hi'olani Assisted Living Center (67 licensed beds), memory care, and the 20-bed Hi'olani Care Center skilled nursing unit. The Hi'olani Care Center holds a CMS 5-star overall rating with no fines, complaints, or inspection problems reported in the last three years, and nursing staff time per resident exceeds state and national averages.",
+      "description": "Kahala Nui is a nonprofit continuing care retirement community in Honolulu's Kahala neighborhood, offering independent living, the Hi'olani Assisted Living Center (67 licensed beds), memory care, and the 20-bed Hi'olani Care Center skilled nursing unit.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/hi/hi%CA%BBolani-care-center-at-k%C4%81hala-nui-125055",
         "https://www.nursinghomedatabase.com/home/HI/HONOLULU/96821/hi-olani-care-center-at-kahala-nui",
@@ -59,7 +59,7 @@
       "organization_name": "Arcadia Family of Companies",
       "cms_ccn": "125014",
       "cms_rating_overall": 5,
-      "description": "Arcadia Retirement Residence, established in 1967, is a nonprofit continuing care retirement community affiliated with the United Church of Christ, set on three acres in Honolulu's Makiki neighborhood. It offers independent living apartments, assisted living, memory care, and an on-site skilled nursing unit that holds a CMS 5-star overall rating, with U.S. News marking both short-term rehab and long-term care as High Performing.",
+      "description": "Arcadia Retirement Residence, established in 1967, is a nonprofit continuing care retirement community affiliated with the United Church of Christ, set on three acres in Honolulu's Makiki neighborhood.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/hi/arcadia-retirement-residence-125014",
         "https://www.yelp.com/biz/arcadia-honolulu-3",
@@ -93,7 +93,7 @@
       "organization_name": "Arcadia Family of Companies",
       "cms_ccn": "125063",
       "cms_rating_overall": 5,
-      "description": "15 Craigside is a 13-story nonprofit continuing care retirement community in Honolulu's Nuuanu area, operated by the Arcadia Family of Companies. The tower provides 170 independent living units (140 one-bedroom apartments and 30 studios), assisted living services throughout the building, and a 45-bed skilled nursing unit that holds a CMS 5-star overall rating with a High Performing long-term care designation.",
+      "description": "15 Craigside is a 13-story nonprofit continuing care retirement community in Honolulu's Nuuanu area, operated by the Arcadia Family of Companies.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/hi/15-craigside-125063",
         "https://www.seniorcare.com/nursing-homes/hi/honolulu/15-craigside/125063/",
@@ -122,7 +122,7 @@
       "capacity": 158,
       "cms_ccn": "125009",
       "cms_rating_overall": 5,
-      "description": "Maluhia is a government-operated skilled nursing and intermediate care facility in Honolulu's Kalihi neighborhood, serving Medicare and Medicaid residents since 1967. The 158-bed facility holds a CMS 5-star overall rating, well above the national average, and U.S. News rates its long-term care as High Performing.",
+      "description": "Maluhia is a government-operated skilled nursing and intermediate care facility in Honolulu's Kalihi neighborhood, serving Medicare and Medicaid residents since 1967.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/hi/maluhia-125009",
         "https://www.healthcare4ppl.com/nursing-home/hawaii/honolulu/maluhia-125009.html",
@@ -417,7 +417,7 @@
       "organization_name": "Ohana Pacific Health",
       "cms_ccn": "125056",
       "cms_rating_overall": 5,
-      "description": "A 124-bed skilled nursing facility in Wailuku offering long-term care, short-term rehabilitation, and dementia care, part of the Hale Makua Health Services organization founded on Maui in 1947 and now affiliated with Ohana Pacific Health. Medicare rates the facility 5 stars overall, and U.S. News rates it High Performing for both short-term rehab and long-term care.",
+      "description": "A 124-bed skilled nursing facility in Wailuku offering long-term care, short-term rehabilitation, and dementia care, part of the Hale Makua Health Services organization founded on Maui in 1947 and now affiliated with Ohana Pacific Health.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/hi/hale-makua-health-services-125056",
         "https://www.ohanapacific.com/hale-makua",
@@ -448,7 +448,7 @@
       "organization_name": "Maui Health",
       "cms_ccn": "125003",
       "cms_rating_overall": 4,
-      "description": "A hospital-based skilled nursing and intermediate care facility in upcountry Kula on Maui, operated by Maui Health, with 105 long-term care beds. CMS rates it 4 stars overall with 5-star staffing and 5-star quality measures, and U.S. News has repeatedly named it among the nation's Best Nursing Homes with a High Performing rating.",
+      "description": "A hospital-based skilled nursing and intermediate care facility in upcountry Kula on Maui, operated by Maui Health, with 105 long-term care beds.",
       "sources": [
         "https://www.mauihealth.org/kula-hospital/",
         "https://assistedlivingmagazine.com/nursing-home/kula-hospital/",
@@ -480,7 +480,7 @@
       "organization_name": "Ohana Pacific Health",
       "cms_ccn": "125004",
       "cms_rating_overall": 5,
-      "description": "A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health. It offers short-term rehabilitation with physical, occupational, and speech therapy alongside long-term care, and carries a CMS overall rating of 4 stars (some sources list 5).",
+      "description": "A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health.",
       "sources": [
         "https://www.ohanapacific.com/locations/kauai/lihue/garden-isle-rehabilitation-healthcare-center",
         "https://health.usnews.com/best-nursing-homes/area/hi/garden-isle-healthcare-and-rehabilitation-center-125004",
@@ -515,7 +515,7 @@
       "organization_name": "Life Care Centers of America",
       "cms_ccn": "125051",
       "cms_rating_overall": 4,
-      "description": "A 120-bed skilled nursing and rehabilitation facility in Kapolei operated by Life Care Centers of America; the name is Hawaiian for 'well-spring of health and living waters.' It provides short-term rehabilitation, long-term care, and post-operative recovery, carries a CMS overall rating of 4 stars with 5-star quality measures, and was named a U.S. News 2026 Best Nursing Home with High Performing ratings for both short-term rehab and long-term care.",
+      "description": "A 120-bed skilled nursing and rehabilitation facility in Kapolei operated by Life Care Centers of America; the name is Hawaiian for 'well-spring of health and living waters.' It provides short-term rehabilitation, long-term care, and post-operative recovery.",
       "sources": [
         "https://lcca.com/locations/hi/ka-punawai-ola/",
         "https://health.usnews.com/best-nursing-homes/area/hi/ka-punawai-ola-125051",
@@ -546,7 +546,7 @@
       "organization_name": "Ohana Pacific Health",
       "cms_ccn": "125064",
       "cms_rating_overall": 4,
-      "description": "A 163-bed post-acute care and rehabilitation facility on the St. Francis Kupuna Village campus in Honolulu's Liliha neighborhood, operated by Ohana Pacific Health (formerly the Clarence T.C. Ching Villas at St. Francis). It is an innovative short-stay, high-acuity skilled nursing facility serving patients who need clinical and rehabilitative care before returning home, with a CMS overall rating of 4 stars and a U.S. News High Performing rating for short-term rehab.",
+      "description": "A 163-bed post-acute care and rehabilitation facility on the St. Francis Kupuna Village campus in Honolulu's Liliha neighborhood, operated by Ohana Pacific Health (formerly the Clarence T.C. Ching Villas at St. Francis).",
       "sources": [
         "https://www.ohanapacific.com/the-villas",
         "https://health.usnews.com/best-nursing-homes/area/hi/the-villas-honolulu-125064",
@@ -575,7 +575,7 @@
       "capacity": 100,
       "cms_ccn": "125013",
       "cms_rating_overall": 5,
-      "description": "Honolulu's first not-for-profit skilled nursing facility, open since 1950, sitting atop Wilhelmina Rise in Kaimuki with panoramic views of Diamond Head. The 100-bed 501(c)(3) facility provides long-term care and rehabilitation, and CMS rates it 5 stars overall with 5-star staffing and quality measures.",
+      "description": "Honolulu's first not-for-profit skilled nursing facility, open since 1950, sitting atop Wilhelmina Rise in Kaimuki with panoramic views of Diamond Head.",
       "sources": [
         "https://maunalaninursing.org/about/",
         "https://health.usnews.com/best-nursing-homes/area/hi/maunalani-nursing-and-rehabilitation-center-125013",
@@ -606,7 +606,7 @@
       "organization_name": "Hawaii Health Systems Corporation",
       "cms_ccn": "125010",
       "cms_rating_overall": 5,
-      "description": "Leahi Hospital is a state-government-owned skilled nursing facility in the Kaimuki area of Honolulu, operated by the Hawaii Health Systems Corporation. It provides long-term skilled nursing and rehabilitation care and holds a CMS overall rating of 5 stars. The campus also runs an adult day health center serving the surrounding community.",
+      "description": "Leahi Hospital is a state-government-owned skilled nursing facility in the Kaimuki area of Honolulu, operated by the Hawaii Health Systems Corporation. The campus also runs an adult day health center serving the surrounding community.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/hi/leahi-hospital-125010",
         "https://leahi.hhsc.org/"
@@ -636,7 +636,7 @@
       "organization_name": "Avalon Health Care",
       "cms_ccn": "125020",
       "cms_rating_overall": 3,
-      "description": "Avalon Care Center - Honolulu is a 108-bed skilled nursing and rehabilitation facility operated by Avalon Health Care. It carries a CMS overall rating of 3 stars, with strong quality-measure (5-star) and staffing (4-star) component ratings offset by a lower (2-star) health-inspection rating. It offers short-term rehabilitation and long-term skilled nursing care.",
+      "description": "Avalon Care Center - Honolulu is a 108-bed skilled nursing and rehabilitation facility operated by Avalon Health Care. It offers short-term rehabilitation and long-term skilled nursing care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/hi/avalon-care-center-honolulu-125020",
         "https://avalonhealthcare.com/honolulu/"
@@ -665,7 +665,7 @@
       "organization_name": "Life Care Centers of America",
       "cms_ccn": "125040",
       "cms_rating_overall": 3,
-      "description": "Life Care Center of Hilo is a for-profit skilled nursing and rehabilitation facility on the Big Island, operated by Life Care Centers of America. It holds a CMS overall rating of 3 stars, driven by strong quality measures (5-star) and staffing (4-star) with a weaker health-inspection score (2-star). It provides short-term rehab and long-term skilled nursing care.",
+      "description": "Life Care Center of Hilo is a for-profit skilled nursing and rehabilitation facility on the Big Island, operated by Life Care Centers of America. It provides short-term rehab and long-term skilled nursing care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/hi/life-care-center-of-hilo-125040",
         "https://lcca.com/locations/hi/hilo/"
@@ -693,7 +693,7 @@
       "capacity": 95,
       "cms_ccn": "125058",
       "cms_rating_overall": 3,
-      "description": "Yukio Okutsu State Veterans Home is a 95-bed skilled nursing facility in Hilo serving veterans on the Big Island, affiliated with Hilo Medical Center and the Hawaii Health Systems Corporation. It is Medicare- and Medicaid-certified and holds a CMS overall rating of 3 stars. It provides long-term skilled nursing and rehabilitation care.",
+      "description": "Yukio Okutsu State Veterans Home is a 95-bed skilled nursing facility in Hilo serving veterans on the Big Island, affiliated with Hilo Medical Center and the Hawaii Health Systems Corporation. It provides long-term skilled nursing and rehabilitation care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/hi/yukio-okutsu-state-veterans-home-125058",
         "https://www.hbmc.org/about-us/yukio-okutsu-state-veterans-home/"
@@ -723,7 +723,7 @@
       "capacity": 49,
       "cms_ccn": "125066",
       "cms_rating_overall": 3,
-      "description": "Kalakaua Gardens is a 49-bed senior living community in Honolulu offering skilled nursing alongside assisted living and memory care. Its Medicare-certified skilled nursing unit holds a CMS overall rating of 3 stars. The community provides short-term rehabilitation and long-term care with restaurant-style dining and social programming.",
+      "description": "Kalakaua Gardens is a 49-bed senior living community in Honolulu offering skilled nursing alongside assisted living and memory care. The community provides short-term rehabilitation and long-term care with restaurant-style dining and social programming.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/hi/kal%C4%81kaua-gardens-125066",
         "https://www.kalakauagardens.com/"
@@ -1034,7 +1034,7 @@
       "cms_ccn": "125065",
       "cms_rating_overall": 2,
       "review_note": "Overall two-star ('below average') CMS rating as of the May 2024 Care Compare update, with a breakdown of 3 stars for quality measures, 2 stars for health inspections, and 1 star for staffing (source: Care Changes, citing CMS data, retrieved July 2026).",
-      "description": "Legacy Hilo Rehabilitation & Nursing Center is a 100-bed Medicare- and Medicaid-certified skilled nursing facility on Kaumana Drive in Hilo, part of the Ohana Pacific Health network. It offers short-term rehabilitation and long-term nursing care. Its most recently reported CMS overall star rating is below the Hawaii state average, driven largely by a 1-star staffing score.",
+      "description": "Legacy Hilo Rehabilitation & Nursing Center is a 100-bed Medicare- and Medicaid-certified skilled nursing facility on Kaumana Drive in Hilo, part of the Ohana Pacific Health network. It offers short-term rehabilitation and long-term nursing care.",
       "sources": [
         "https://www.carechanges.com/living-communities/legacy-hilo-rehabilitation-nursing-center_hilo_hawaii/",
         "https://www.medicare.gov/care-compare/details/nursing-home/125065/",
@@ -1063,7 +1063,7 @@
       "cms_ccn": "125050",
       "cms_rating_overall": 1,
       "review_note": "One source (nursinghomesite.com, July 2026) reports a CMS overall rating of 1 star, compared to a Hawaii state average of roughly 4; another source instead cites 3 stars, reflecting different reporting snapshots. For-profit corporation ownership; small facility with 40 beds.",
-      "description": "Hale Malamalama is a small, for-profit, Medicare- and Medicaid-certified skilled nursing facility in the Niu Valley area of Honolulu, licensed for 40 beds. Reported federal CMS star ratings for this facility vary across recent snapshots, with the lowest reported rating well below the state average.",
+      "description": "Hale Malamalama is a small, for-profit, Medicare- and Medicaid-certified skilled nursing facility in the Niu Valley area of Honolulu, licensed for 40 beds.",
       "sources": [
         "https://www.nursinghomesite.com/HALE_MALAMALAMA_HONOLULU_HI",
         "https://health.usnews.com/best-nursing-homes/area/hi/hale-malamalama-125050",
@@ -1093,7 +1093,7 @@
       "cms_ccn": "125042",
       "cms_rating_overall": 3,
       "review_note": "CMS rating data for this facility is unusually inconsistent across aggregator snapshots gathered in July 2026: familyassets.com reports an overall rating of 3.0 (quality 4.0, staffing 2.0); nursinghomedatabase.com and mycaringplan.com also cite 3 stars in some snapshots but 2 stars in others; assistedlivingmagazine.com's page title labels it a '1-Star Nursing Home'; and US News cites a 5-star short-term-rehab distinction (a different, narrower measure than the CMS overall star rating). We report the overall-3 figure as the best-supported current reading but flag this facility's rating history as genuinely conflicting - families should verify current status directly at medicare.gov/care-compare before relying on any single number.",
-      "description": "Oahu Care Facility is an 82-bed Medicare- and Medicaid-certified skilled nursing facility in the Makiki area of Honolulu, offering intermediate and skilled nursing care, post-acute rehabilitation, and physical therapy. It is a for-profit partnership. Its CMS overall star rating has been reported inconsistently across data sources and appears to have fluctuated across recent survey cycles.",
+      "description": "Oahu Care Facility is an 82-bed Medicare- and Medicaid-certified skilled nursing facility in the Makiki area of Honolulu, offering intermediate and skilled nursing care, post-acute rehabilitation, and physical therapy. It is a for-profit partnership.",
       "sources": [
         "https://assistedlivingmagazine.com/nursing-home/oahu-care-facility/",
         "https://www.familyassets.com/nursing-homes/hawaii/honolulu/oahu-care-facility",
@@ -1364,7 +1364,7 @@
       "states": [
         "HI"
       ],
-      "description": "The Arcadia Family of Companies is a Honolulu-based nonprofit senior services organization affiliated with the United Church of Christ, tracing its roots to the 1967 opening of Arcadia Retirement Residence. It operates two continuing care retirement communities in Honolulu — Arcadia Retirement Residence and 15 Craigside — both with CMS 5-star skilled nursing units, along with home care and adult day programs.",
+      "description": "The Arcadia Family of Companies is a Honolulu-based nonprofit senior services organization affiliated with the United Church of Christ, tracing its roots to the 1967 opening of Arcadia Retirement Residence. It operates two continuing care retirement communities in Honolulu — Arcadia Retirement Residence and 15 Craigside — along with home care and adult day programs.",
       "sources": [
         "https://arcadia.org/residences/",
         "https://arcadia.org/skilled-nursing/15-craigside-arcadia/"

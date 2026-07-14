@@ -9,6 +9,6 @@ county_name: "Orange"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "Crescendo Senior Living", "url": "/directory/california/orange-county/placentia/crescendo-senior-living/", "city_name": "Placentia", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Crescendo Senior Living is an assisted living and memory care community in Placentia, in north Orange County."}]
+facilities: [{"name": "Crescendo Senior Living", "url": "/directory/california/orange-county/placentia/crescendo-senior-living/", "city_name": "Placentia", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "description": "Crescendo Senior Living is an assisted living and memory care community in Placentia, in north Orange County."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Orange County", "url": "/directory/california/orange-county/"}, {"name": "Placentia", "url": "/directory/california/orange-county/placentia/"}]
 ---

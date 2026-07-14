@@ -23,9 +23,8 @@ organization: "astoria-senior-living"
 organization_name: "Astoria Senior Living"
 sources: ["https://www.caring.com/senior-living/california/oakdale/astoria-senior-living-oakdale", "https://www.aplaceformom.com/community/astoria-senior-living-oakdale-141515"]
 verified_date: "2026-07-12"
-review_note: "5/5 across 12 reviews on Caring.com; 30 reviews on A Place for Mom (2026)"
-quality_tier: "unrated"
 description_full: "A single-story assisted living and memory care community in Oakdale with cozy lounges, an enclosed courtyard, and a resident chef. Recognized in U.S. News & World Report's 2026 Best Assisted Living."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/oakdale/astoria-senior-living-oakdale"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/astoria-senior-living-oakdale-141515"}]
+reviews_search_url: "https://www.google.com/search?q=Astoria+Senior+Living+%E2%80%93+Oakdale+Oakdale+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

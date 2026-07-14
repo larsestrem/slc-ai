@@ -24,10 +24,8 @@ organization: "morningstar-senior-living"
 organization_name: "MorningStar Senior Living"
 sources: ["https://health.usnews.com/best-senior-living/morningstar-assisted-living-memory-care-of-fort-collins-26319", "https://www.assistedlivingcenter.com/facilities/co/fort-collins/morningstar-of-fort-collins-80525/", "https://www.morningstarseniorliving.com/communities/assisted-living-fort-collins/"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.7 rating on U.S. News-aggregated reviews; 29 reviews on AssistedLivingCenter (July 2026)"
-quality_tier: "unrated"
 description_full: "MorningStar of Fort Collins offers 55 assisted living suites and 24 memory care suites in its Reflections Neighborhood, across from Warren Lake and Collindale Golf Course on the city's southeast side."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/morningstar-assisted-living-memory-care-of-fort-collins-26319"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/co/fort-collins/morningstar-of-fort-collins-80525/"}]
+reviews_search_url: "https://www.google.com/search?q=MorningStar+of+Fort+Collins+Fort+Collins+CO+reviews"
 licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
 ---

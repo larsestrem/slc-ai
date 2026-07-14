@@ -27,10 +27,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -120,17 +118,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -297,20 +287,12 @@ tbody tr:hover { background: var(--soft); }
   </div>
 
   <div class="state-list" aria-label="Communities in Southern Oregon by city">
-    <p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
     <section aria-labelledby="c-ashland">
       <h2 id="c-ashland">Ashland, OR <span class="count">· Jackson County</span></h2>
       <ul class="grid">
         <li class="card" data-city="ashland">
   <h3><a href="/directory/oregon/jackson-county/ashland/ashland-post-acute/">Ashland Post Acute</a></h3>
-  <p class="meta">Ashland, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Ashland, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -325,6 +307,16 @@ We list every community we can verify, not just the highest-rated —
       <h2 id="c-grants-pass">Grants Pass, OR <span class="count">· Josephine County</span></h2>
       <ul class="grid">
         <li class="card" data-city="grants-pass">
+  <h3><a href="/directory/oregon/josephine-county/grants-pass/highland-house-nursing-and-rehabilitation-center/">Highland House Nursing and Rehabilitation Center</a></h3>
+  <p class="meta">Grants Pass, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Highland House Nursing and Rehabilitation Center is a 119-bed Medicare- and Medicaid-certified skilled nursing facility in Grants Pass pr...</p>
+</li>
+
+        <li class="card" data-city="grants-pass">
   <h3><a href="/directory/oregon/josephine-county/grants-pass/the-suites-assisted-living-and-memory-care/">The Suites Assisted Living and Memory Care</a></h3>
   <p class="meta">Grants Pass, OR</p>
   
@@ -335,33 +327,11 @@ We list every community we can verify, not just the highest-rated —
 <p class="desc">The Suites is a combined assisted living and memory care community in Grants Pass with 65 licensed assisted living beds and a 28-bed memo...</p>
 </li>
 
-        <li class="card" data-city="grants-pass">
-  <h3><a href="/directory/oregon/josephine-county/grants-pass/highland-house-nursing-and-rehabilitation-center/">Highland House Nursing and Rehabilitation Center</a></h3>
-  <p class="meta">Grants Pass, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Highland House Nursing and Rehabilitation Center is a 119-bed Medicare- and Medicaid-certified skilled nursing facility in Grants Pass pr...</p>
-</li>
-
       </ul>
     </section>
     <section aria-labelledby="c-klamath-falls">
       <h2 id="c-klamath-falls">Klamath Falls, OR <span class="count">· Klamath County</span></h2>
       <ul class="grid">
-        <li class="card" data-city="klamath-falls">
-  <h3><a href="/directory/oregon/klamath-county/klamath-falls/marquis-plum-ridge-post-acute-rehab/">Marquis Plum Ridge Post Acute Rehab</a></h3>
-  <p class="meta">Klamath Falls, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Marquis Plum Ridge Post Acute Rehab is a skilled nursing facility in Klamath Falls providing post-acute rehabilitation and long-term care...</p>
-</li>
-
         <li class="card" data-city="klamath-falls">
   <h3><a href="/directory/oregon/klamath-county/klamath-falls/crystal-terrace-of-klamath-falls/">Crystal Terrace of Klamath Falls</a></h3>
   <p class="meta">Klamath Falls, OR</p>
@@ -384,6 +354,16 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
 </ul>
 <p class="desc">Klamath Falls Senior Living (formerly Pacifica Senior Living Klamath Falls) is a licensed assisted living community on North Eldorado Ave...</p>
+</li>
+
+        <li class="card" data-city="klamath-falls">
+  <h3><a href="/directory/oregon/klamath-county/klamath-falls/marquis-plum-ridge-post-acute-rehab/">Marquis Plum Ridge Post Acute Rehab</a></h3>
+  <p class="meta">Klamath Falls, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Marquis Plum Ridge Post Acute Rehab is a skilled nursing facility in Klamath Falls providing post-acute rehabilitation and long-term care...</p>
 </li>
 
         <li class="card" data-city="klamath-falls">
@@ -415,8 +395,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="medford">
   <h3><a href="/directory/oregon/jackson-county/medford/avamere-at-three-fountains/">Avamere at Three Fountains</a></h3>
-  <p class="meta">Medford, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Medford, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -425,9 +404,18 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
         <li class="card" data-city="medford">
+  <h3><a href="/directory/oregon/jackson-county/medford/brookdale-medford/">Brookdale Medford</a></h3>
+  <p class="meta">Medford, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+</ul>
+<p class="desc">Brookdale Medford is an assisted living community on Barnett Road in Medford serving up to 95 residents. Part of the national Brookdale S...</p>
+</li>
+
+        <li class="card" data-city="medford">
   <h3><a href="/directory/oregon/jackson-county/medford/farmington-square-medford/">Farmington Square Medford</a></h3>
-  <p class="meta">Medford, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Medford, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
@@ -437,9 +425,19 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
         <li class="card" data-city="medford">
+  <h3><a href="/directory/oregon/jackson-county/medford/prestige-senior-living-arbor-place/">Prestige Senior Living Arbor Place</a></h3>
+  <p class="meta">Medford, OR</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Prestige Senior Living Arbor Place is a 72-apartment assisted living community in Medford with an attached 18-room memory care center. As...</p>
+</li>
+
+        <li class="card" data-city="medford">
   <h3><a href="/directory/oregon/jackson-county/medford/rogue-valley-manor/">Rogue Valley Manor</a></h3>
-  <p class="meta">Medford, OR · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Medford, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -463,27 +461,6 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
         <li class="card" data-city="medford">
-  <h3><a href="/directory/oregon/jackson-county/medford/brookdale-medford/">Brookdale Medford</a></h3>
-  <p class="meta">Medford, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-</ul>
-<p class="desc">Brookdale Medford is an assisted living community on Barnett Road in Medford serving up to 95 residents. Part of the national Brookdale S...</p>
-</li>
-
-        <li class="card" data-city="medford">
-  <h3><a href="/directory/oregon/jackson-county/medford/prestige-senior-living-arbor-place/">Prestige Senior Living Arbor Place</a></h3>
-  <p class="meta">Medford, OR</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Prestige Senior Living Arbor Place is a 72-apartment assisted living community in Medford with an attached 18-room memory care center. As...</p>
-</li>
-
-        <li class="card" data-city="medford">
   <h3><a href="/directory/oregon/jackson-county/medford/the-springs-at-anna-maria/">The Springs at Anna Maria</a></h3>
   <p class="meta">Medford, OR</p>
   
@@ -496,8 +473,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="medford">
   <h3><a href="/directory/oregon/jackson-county/medford/hearthstone-nursing-and-rehabilitation-center/">Hearthstone Nursing and Rehabilitation Center</a></h3>
-  <p class="meta">Medford, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-serious_concerns">Serious concerns</span></p>
+  <p class="meta">Medford, OR · <span class="concern-flag">Regulatory flag — see profile</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -512,8 +488,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="roseburg">
   <h3><a href="/directory/oregon/douglas-county/roseburg/callahan-court-memory-care/">Callahan Court Memory Care</a></h3>
-  <p class="meta">Roseburg, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Roseburg, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>

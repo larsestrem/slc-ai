@@ -17,7 +17,6 @@ layout: default
 
   {%- if page.facilities and page.facilities.size > 0 %}
   <h2>{{ page.title }} communities in our directory</h2>
-  {% include ratings-legend.html %}
   <ul class="grid">
     {%- for f in page.facilities %}
     {% include facility-card.html facility=f %}

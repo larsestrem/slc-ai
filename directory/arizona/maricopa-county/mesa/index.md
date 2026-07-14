@@ -9,6 +9,6 @@ county_name: "Maricopa"
 state_name: "Arizona"
 state_abbrev: "AZ"
 facility_count: 1
-facilities: [{"name": "Fellowship Square Historic Mesa", "url": "/directory/arizona/maricopa-county/mesa/fellowship-square-historic-mesa/", "city_name": "Mesa", "state_abbrev": "AZ", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "large", "description": "Fellowship Square Historic Mesa is a nonprofit faith-based senior living campus in downtown Mesa offering independent living, assisted living, and memory care."}]
+facilities: [{"name": "Fellowship Square Historic Mesa", "url": "/directory/arizona/maricopa-county/mesa/fellowship-square-historic-mesa/", "city_name": "Mesa", "state_abbrev": "AZ", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "Fellowship Square Historic Mesa is a nonprofit faith-based senior living campus in downtown Mesa offering independent living, assisted living, and memory care."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Maricopa County", "url": "/directory/arizona/maricopa-county/"}, {"name": "Mesa", "url": "/directory/arizona/maricopa-county/mesa/"}]
 ---

@@ -23,10 +23,8 @@ organization: "civitas-senior-living"
 organization_name: "Civitas Senior Living"
 sources: ["https://www.aplaceformom.com/community/the-bluffs-of-flagstaff-senior-living-1446128", "https://www.mycaringplan.com/senior-living/the-bluffs-of-flagstaff/"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.4/5 across 26 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "The Bluffs of Flagstaff is the highest-rated senior living community in Flagstaff, offering assisted living and memory care in Arizona's high country."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-bluffs-of-flagstaff-senior-living-1446128"}, {"name": "My Caring Plan", "url": "https://www.mycaringplan.com/senior-living/the-bluffs-of-flagstaff/"}]
+reviews_search_url: "https://www.google.com/search?q=The+Bluffs+of+Flagstaff+Senior+Living+Flagstaff+AZ+reviews"
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
 ---

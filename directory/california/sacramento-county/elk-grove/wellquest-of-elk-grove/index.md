@@ -19,10 +19,8 @@ phone: "(916) 619-3060"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 sources: ["https://birdeye.com/wellquest-of-elk-grove-175296283555792", "https://www.yelp.com/biz/wellquest-of-elk-grove-elk-grove", "https://www.caring.com/senior-living/california/elk-grove/wellquest-of-elk-grove"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.4/5 across 94 reviews on Birdeye (July 2026)"
-quality_tier: "unrated"
 description_full: "WellQuest of Elk Grove is a resort-style senior living community offering independent living, assisted living, and memory care on East Stockton Boulevard. Residents have access to a pool, fitness classes, and restaurant-style dining."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/wellquest-of-elk-grove-175296283555792"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/wellquest-of-elk-grove-elk-grove"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/elk-grove/wellquest-of-elk-grove"}]
+reviews_search_url: "https://www.google.com/search?q=WellQuest+of+Elk+Grove+Elk+Grove+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

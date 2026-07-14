@@ -9,6 +9,6 @@ county_name: "Orange"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "Oakmont of Orange", "url": "/directory/california/orange-county/orange/oakmont-of-orange/", "city_name": "Orange", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "large", "description": "Luxury assisted living and memory care community on The City Drive in Orange, close to UCI Medical Center and the Outlets at Orange. Offers restaurant-style dining and a full amenity package typical of the Oakmont portfolio."}]
+facilities: [{"name": "Oakmont of Orange", "url": "/directory/california/orange-county/orange/oakmont-of-orange/", "city_name": "Orange", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "Luxury assisted living and memory care community on The City Drive in Orange, close to UCI Medical Center and the Outlets at Orange. Offers restaurant-style dining and a full amenity package typical of the Oakmont portfolio."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Orange County", "url": "/directory/california/orange-county/"}, {"name": "Orange", "url": "/directory/california/orange-county/orange/"}]
 ---

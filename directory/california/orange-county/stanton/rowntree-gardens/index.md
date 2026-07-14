@@ -17,13 +17,10 @@ address: "12151 Dale Ave"
 zip: "90680"
 care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"]
 facility_size: "large"
-cms_rating_overall: 5
 sources: ["https://www.assistedlivingcenter.com/facilities/ca/stanton/rowntree-gardens-90680/", "https://www.aplaceformom.com/community/rowntree-gardens-54380"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.7/5 across 47 reviews on AssistedLivingCenter; 73 reviews on A Place for Mom; CMS 5-star rated skilled nursing (July 2026)"
-quality_tier: "meets_standard"
 description_full: "Rowntree Gardens is a licensed not-for-profit continuing care retirement community in Stanton offering independent living, assisted living, memory care, skilled nursing, and rehabilitation."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ca/stanton/rowntree-gardens-90680/"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/rowntree-gardens-54380"}]
+reviews_search_url: "https://www.google.com/search?q=Rowntree+Gardens+Stanton+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

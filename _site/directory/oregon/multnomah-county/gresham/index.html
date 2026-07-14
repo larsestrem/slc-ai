@@ -28,10 +28,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -121,17 +119,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -230,13 +220,6 @@ tbody tr:hover { background: var(--soft); }
 
 
 
-<p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
 <ul class="grid">
   <li class="card">
   <h3><a href="/directory/oregon/multnomah-county/gresham/angels-place-adult-foster-care/">Angels Place Adult Foster Care</a></h3>
@@ -246,17 +229,6 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
 </ul>
 <p class="desc">Angels Place Adult Foster Care is a small residential care home in Gresham offering one-on-one personal care, help with bathing and medic...</p>
-</li>
-
-  <li class="card">
-  <h3><a href="/directory/oregon/multnomah-county/gresham/grace-care-adult-foster-home/">Grace Care Adult Foster Home</a></h3>
-  <p class="meta">Gresham, OR · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Grace Care Adult Foster Home sits in a quiet Gresham neighborhood and houses up to five residents in an open-concept, wheelchair-accessib...</p>
 </li>
 
   <li class="card">
@@ -271,9 +243,19 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
   <li class="card">
+  <h3><a href="/directory/oregon/multnomah-county/gresham/grace-care-adult-foster-home/">Grace Care Adult Foster Home</a></h3>
+  <p class="meta">Gresham, OR · Small home</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+</ul>
+<p class="desc">Grace Care Adult Foster Home sits in a quiet Gresham neighborhood and houses up to five residents in an open-concept, wheelchair-accessib...</p>
+</li>
+
+  <li class="card">
   <h3><a href="/directory/oregon/multnomah-county/gresham/gresham-post-acute-care-and-rehabilitation/">Gresham Post Acute Care and Rehabilitation</a></h3>
-  <p class="meta">Gresham, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
+  <p class="meta">Gresham, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -283,7 +265,7 @@ We list every community we can verify, not just the highest-rated —
 
   <li class="card">
   <h3><a href="/directory/oregon/multnomah-county/gresham/powell-valley-assisted-living-and-memory-care/">Powell Valley Assisted Living and Memory Care</a></h3>
-  <p class="meta">Gresham, OR · <span class="tier-badge tier-serious_concerns">Serious concerns</span></p>
+  <p class="meta">Gresham, OR · <span class="concern-flag">Regulatory flag — see profile</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>

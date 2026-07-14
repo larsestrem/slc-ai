@@ -19,10 +19,8 @@ phone: "(909) 793-8691"
 care_levels: ["independent-living"]
 sources: ["https://www.aplaceformom.com/community/mission-commons-55692", "https://www.yelp.com/biz/mission-commons-redlands-5", "https://www.redlandschamber.org/directory/name/mission-commons-senior-living/", "https://www.seniorly.com/independent-living/california/redlands/mission-commons"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.7/5 rating with 79 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "Mission Commons is an independent living community in Redlands located about a third of a mile from Loma Linda University Heart & Surgical Hospital. Residents receive three chef-prepared meals a day and enjoy a heated pool, library, salon, fitness gym and game rooms; residents needing care can hire outside home-care agencies."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/mission-commons-55692"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/mission-commons-redlands-5"}, {"name": "Seniorly", "url": "https://www.seniorly.com/independent-living/california/redlands/mission-commons"}]
+reviews_search_url: "https://www.google.com/search?q=Mission+Commons+Redlands+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

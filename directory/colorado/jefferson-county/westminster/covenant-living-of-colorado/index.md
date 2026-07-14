@@ -21,10 +21,8 @@ organization: "covenant-living-communities-and-services"
 organization_name: "Covenant Living Communities and Services"
 sources: ["https://birdeye.com/covenant-living-of-colorado-159803556880627", "https://www.yelp.com/biz/covenant-living-of-colorado-westminster", "https://www.caring.com/senior-living/colorado/westminster/covenant-living-of-colorado"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.3/5 across 108 reviews on Birdeye (July 2026)"
-quality_tier: "unrated"
-description_full: "Covenant Living of Colorado is a not-for-profit continuing care retirement community in Westminster offering independent living apartments and cottages, licensed assisted living, a secured memory-support neighborhood, and a skilled nursing center. The campus is CARF-CCAC accredited and rated High Performing by U.S. News for long-term care and short-term rehab."
+description_full: "Covenant Living of Colorado is a not-for-profit continuing care retirement community in Westminster offering independent living apartments and cottages, licensed assisted living, a secured memory-support neighborhood, and a skilled nursing center."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/covenant-living-of-colorado-159803556880627"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/covenant-living-of-colorado-westminster"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/colorado/westminster/covenant-living-of-colorado"}]
+reviews_search_url: "https://www.google.com/search?q=Covenant+Living+of+Colorado+Westminster+CO+reviews"
 licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
 ---

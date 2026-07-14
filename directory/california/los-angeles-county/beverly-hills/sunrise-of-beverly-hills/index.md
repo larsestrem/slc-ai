@@ -22,8 +22,8 @@ organization: "sunrise-senior-living"
 organization_name: "Sunrise Senior Living"
 sources: ["https://www.sunriseseniorliving.com/communities/ca/sunrise-of-beverly-hills", "https://www.yelp.com/biz/sunrise-of-beverly-hills-beverly-hills"]
 verified_date: "2026-07-11"
-quality_tier: "unrated"
 description_full: "Sunrise of Beverly Hills is an assisted living and memory care community on North Crescent Drive in Beverly Hills, operated by Sunrise Senior Living. The community also offers short-term respite stays."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/sunrise-of-beverly-hills-beverly-hills"}]
+reviews_search_url: "https://www.google.com/search?q=Sunrise+of+Beverly+Hills+Beverly+Hills+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

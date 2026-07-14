@@ -21,10 +21,8 @@ organization: "front-porch-communities-and-services"
 organization_name: "Front Porch Communities and Services"
 sources: ["https://birdeye.com/claremont-manor-retirement-community-171234797375055", "https://www.yelp.com/biz/claremont-manor-retirement-community-claremont"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.4/5 across 112 reviews on Birdeye (June 2026)"
-quality_tier: "unrated"
 description_full: "Claremont Manor is a continuing care retirement community operated by the not-for-profit Front Porch organization, blocks from the Claremont Colleges."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/claremont-manor-retirement-community-171234797375055"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/claremont-manor-retirement-community-claremont"}]
+reviews_search_url: "https://www.google.com/search?q=Claremont+Manor+Claremont+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

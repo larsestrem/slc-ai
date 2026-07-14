@@ -22,9 +22,8 @@ organization: "ashford-senior-communities"
 organization_name: "Ashford Senior Communities"
 sources: ["https://reviews.birdeye.com/ashford-assisted-living-memory-care-of-draper-168162533541685", "https://ashfordofdraper.com/"]
 verified_date: "2026-07-12"
-review_note: "4.5/5 across 59 reviews on Birdeye (July 2026)"
-quality_tier: "unrated"
 description_full: "The Ashford of Draper offers independent living, assisted living, and memory care on Bangerter Parkway in Draper, at the south end of the Salt Lake valley."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/ashford-assisted-living-memory-care-of-draper-168162533541685"}]
+reviews_search_url: "https://www.google.com/search?q=Ashford+Assisted+Living+%26+Memory+Care+of+Draper+Draper+UT+reviews"
 licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
 ---

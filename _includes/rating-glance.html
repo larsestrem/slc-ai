@@ -1,63 +1,33 @@
 {%- comment -%}
-Sidebar "rating at a glance" shown near the top of every facility profile, so a
-visitor who lands on the page sees the star rating immediately — with a one-line
-note on who assigns it and where it comes from, and a link to the full explainer.
-Covers the government (Medicare) star and/or the family-review star, plus the
-state-license basis for small homes.
+Sidebar panel near the top of every facility profile. We don't display a
+numeric rating or star anywhere on the site (see /guides/how-we-list-communities/
+for why) — instead this gives a visitor landing on the page an immediate,
+clearly-labeled set of links to where the real ratings and reviews live.
+The one thing we do assert directly is a confirmed regulatory flag, which is
+a sourced fact, not a rating we compute.
 {%- endcomment -%}
 <section class="panel rating-glance" aria-labelledby="glance-h">
-  <h2 id="glance-h">Rating at a glance</h2>
+  <h2 id="glance-h">Ratings &amp; reviews</h2>
+  <p class="muted">We don't show a star rating ourselves — find it directly at the source:</p>
 
-  {%- if page.quality_tier == "serious_concerns" %}
+  {%- if page.serious_concern %}
   <div class="glance-row glance-flag">
-    {% include tier-badge.html tier=page.quality_tier %}
-    <p><span class="muted">{% if page.concern_type %}{{ page.concern_type }}{% if page.concern_regulator %} ({{ page.concern_regulator }}){% endif %} — {% endif %}read the full facts and source below before considering this community further.</span></p>
-  </div>
-  {%- elsif page.quality_tier == "below_standard" %}
-  <div class="glance-row glance-flag">
-    {% include tier-badge.html tier=page.quality_tier %}
-    <p><span class="muted">Below the 3-star / 4.2 line we use to sort listings — our own editorial
-    choice, not a validated standard. We still list it, with its real rating, because it may be
-    the best or only nearby option for some families — see what the rating actually reflects
-    below.</span></p>
+    <span class="concern-flag">Regulatory flag on file</span>
+    <p><span class="muted">{{ page.concern_type }}{% if page.concern_regulator %} ({{ page.concern_regulator }}){% endif %} — see the full facts below before considering this community further.</span></p>
   </div>
   {%- endif %}
 
-  {%- if page.cms_rating_overall %}
-  <div class="glance-row">
-    {% include stars.html rating=page.cms_rating_overall %}
-    <p><strong>{{ page.cms_rating_overall }} of 5 — Medicare rating</strong><br>
-    <span class="muted">A government score, from health inspections and staffing — not customer reviews.</span></p>
-  </div>
-  {%- endif %}
+  <ul class="glance-links">
+    {%- if page.cms_ccn %}
+    <li><a href="https://www.medicare.gov/care-compare/details/nursing-home/{{ page.cms_ccn }}" rel="noopener">Medicare Care Compare</a> <span class="muted">— federal government rating</span></li>
+    {%- elsif page.licensing %}
+    <li><a href="{{ page.licensing.lookup_url }}" rel="noopener">{{ page.licensing.agency }}</a> <span class="muted">— state license &amp; inspections</span></li>
+    {%- endif %}
+    {%- for rl in page.review_links %}
+    <li><a href="{{ rl.url }}" rel="nofollow noopener">{{ rl.name }}</a> <span class="muted">— family &amp; resident reviews</span></li>
+    {%- endfor %}
+    <li><a href="{{ page.reviews_search_url }}" rel="nofollow noopener">Search for more reviews</a> <span class="muted">— Google</span></li>
+  </ul>
 
-  {%- if page.google_rating %}
-  <div class="glance-row">
-    {% include stars.html rating=page.google_rating %}
-    <p><strong>{{ page.google_rating }} of 5{% if page.rating_source %} — {{ page.rating_source }}{% else %} — family reviews{% endif %}</strong>{% if page.google_review_count %} <span class="muted">({{ page.google_review_count }} reviews)</span>{% endif %}<br>
-    <span class="muted">Written by families and residents{% if page.rating_source %}, as reported on {{ page.rating_source }}{% else %} on public review sites{% endif %}.</span></p>
-  </div>
-  {%- elsif page.review_note and page.cms_rating_overall == nil %}
-  <div class="glance-row">
-    <p><strong>Family &amp; resident reviews</strong><br>
-    <span class="muted">See the review evidence, ratings, and sources below.</span></p>
-  </div>
-  {%- endif %}
-
-  {%- if page.facility_size == 'small' %}
-  <div class="glance-row">
-    <p><strong>State-licensed small care home{% if page.licensed_since %} since {{ page.licensed_since }}{% endif %}</strong>{% if page.specialties and page.specialties.size > 0 %}<br><span class="muted">{{ page.specialties | join: ", " }}</span>{% endif %}<br>
-    <span class="muted">Licensed and inspected by {{ page.state_name }} — small homes carry no Medicare star.</span></p>
-  </div>
-  {%- endif %}
-
-  {%- unless page.cms_rating_overall or page.google_rating or page.review_note or page.facility_size == 'small' %}
-  <div class="glance-row">
-    <p><strong>No published rating on file yet</strong><br>
-    <span class="muted">We haven't recorded a Medicare star or a verified review score for this
-    community. Check its official record below and confirm what you find on a visit.</span></p>
-  </div>
-  {%- endunless %}
-
-  <p class="glance-link"><a href="#ratings-h">What these ratings mean &amp; where they come from &darr;</a></p>
+  <p class="glance-link"><a href="#ratings-h">Full ratings &amp; records section &darr;</a></p>
 </section>

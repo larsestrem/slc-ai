@@ -8,6 +8,6 @@ headquarters: "San Diego County, California"
 website: "https://silvergaterr.com/"
 facility_count_approx: 3
 org_states: ["CA"]
-facilities: [{"name": "Silvergate Fallbrook Retirement Residence", "url": "/directory/california/san-diego-county/fallbrook/silvergate-fallbrook-retirement-residence/", "city_name": "Fallbrook", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Silvergate Fallbrook has served North County San Diego seniors for more than 30 years, offering independent living, assisted living, and memory care on a 5-acre walkable campus in the hills of Fallbrook."}]
+facilities: [{"name": "Silvergate Fallbrook Retirement Residence", "url": "/directory/california/san-diego-county/fallbrook/silvergate-fallbrook-retirement-residence/", "city_name": "Fallbrook", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "description": "Silvergate Fallbrook has served North County San Diego seniors for more than 30 years, offering independent living, assisted living, and memory care on a 5-acre walkable campus in the hills of Fallbrook."}]
 crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Silvergate Retirement Residences", "url": "/organizations/silvergate-retirement-residences/"}]
 ---

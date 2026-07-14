@@ -21,9 +21,8 @@ organization: "trustwell-living"
 organization_name: "Trustwell Living"
 sources: ["https://www.aplaceformom.com/community/trustwell-living-at-davenport-place-1370256", "https://www.trustwellliving.com/communities/davenport-place/", "https://www.ohca.com/facility-finder/trustwell-living-at-davenport-place/"]
 verified_date: "2026-07-11"
-review_note: "9.2/10 A Place for Mom review score, with 18 all-time reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "Assisted living community in Silverton, a small Marion County town near Silver Falls State Park, operated by Trustwell Living. It does not offer memory care or skilled nursing on site."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/trustwell-living-at-davenport-place-1370256"}]
+reviews_search_url: "https://www.google.com/search?q=Trustwell+Living+at+Davenport+Place+Silverton+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

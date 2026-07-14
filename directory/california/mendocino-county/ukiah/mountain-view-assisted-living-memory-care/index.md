@@ -21,9 +21,8 @@ care_levels: ["assisted-living", "memory-care"]
 facility_size: "medium"
 sources: ["https://www.aplaceformom.com/community/mountain-view-58987", "https://www.yelp.com/biz/mountain-view-assisted-living-and-memory-care-ukiah-2"]
 verified_date: "2026-07-12"
-review_note: "4.5/5 across 31 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "Assisted living and memory care community on South Dora Street in Ukiah, one of the few licensed communities serving inland Mendocino County. Offers private and semi-private rooms with dedicated dementia-care programming for residents with cognitive impairment."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/mountain-view-58987"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/mountain-view-assisted-living-and-memory-care-ukiah-2"}]
+reviews_search_url: "https://www.google.com/search?q=Mountain+View+Assisted+Living+%26+Memory+Care+Ukiah+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

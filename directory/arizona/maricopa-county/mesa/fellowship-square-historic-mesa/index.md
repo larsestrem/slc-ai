@@ -23,10 +23,8 @@ organization: "fellowship-square-senior-living"
 organization_name: "Fellowship Square Senior Living"
 sources: ["https://www.aplaceformom.com/community/fellowship-square-historic-mesa-100464", "https://www.fellowshipsquareseniorliving.org/campus/az/historic-mesa/"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.4/5 across 188 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "Fellowship Square Historic Mesa is a nonprofit faith-based senior living campus in downtown Mesa offering independent living, assisted living, and memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fellowship-square-historic-mesa-100464"}]
+reviews_search_url: "https://www.google.com/search?q=Fellowship+Square+Historic+Mesa+Mesa+AZ+reviews"
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
 ---

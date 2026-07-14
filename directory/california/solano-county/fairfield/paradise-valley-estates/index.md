@@ -17,12 +17,10 @@ address: "2600 Estates Dr"
 zip: "94533"
 care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"]
 facility_size: "large"
-cms_rating_overall: 5
 sources: ["https://reviews.birdeye.com/paradise-valley-estates-157269446555211", "https://assistedlivingmagazine.com/nursing-home/paradise-valley-estates/", "https://www.caring.com/senior-living/california/fairfield/paradise-valley-estates-94533"]
 verified_date: "2026-07-12"
-review_note: "4.6/5 across 47 reviews on Birdeye; Medicare overall rating 5/5 (July 2026)"
-quality_tier: "meets_standard"
 description_full: "A gated nonprofit life plan community in Fairfield, originally founded by retired military officers, offering independent living, assisted living, memory care, and skilled nursing. Its health center earned a 5-out-of-5 overall Medicare rating."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/paradise-valley-estates-157269446555211"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/fairfield/paradise-valley-estates-94533"}]
+reviews_search_url: "https://www.google.com/search?q=Paradise+Valley+Estates+Fairfield+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

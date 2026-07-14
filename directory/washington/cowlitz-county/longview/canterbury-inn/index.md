@@ -21,12 +21,8 @@ organization: "koelsch-communities"
 organization_name: "Koelsch Communities"
 sources: ["https://assistedlivingmagazine.com/assisted-living/canterbury-inn-assisted-living-community/", "https://www.aplaceformom.com/community/canterbury-inn-71948", "https://koelschseniorcommunities.com/senior-living/wa/longview/independent-assisted-living-memory-care/canterbury-inn/", "https://www.yelp.com/biz/canterbury-inn-longview"]
 verified_date: "2026-07-12"
-google_rating: 4.9
-google_review_count: 111
-rating_as_of: "2026-07-12"
-quality_tier: "meets_standard"
 description_full: "Canterbury Inn is a Koelsch Communities property in Longview offering independent living, assisted living and memory care, with licensed nurses on site around the clock."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/canterbury-inn-71948"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/canterbury-inn-longview"}]
-rating_source: "A Place for Mom"
+reviews_search_url: "https://www.google.com/search?q=Canterbury+Inn+Longview+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

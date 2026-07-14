@@ -18,10 +18,8 @@ zip: "92629"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 sources: ["https://www.caring.com/senior-living/california/dana-point/sea-bluffs", "https://www.aplaceformom.com/community/the-fountains-at-sea-bluffs-73636"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.5/5 average across 59 ratings (SeniorAdvisor/My Caring Plan aggregate, July 2026)"
-quality_tier: "unrated"
 description_full: "Sea Bluffs, formerly The Fountains at Sea Bluffs by Watermark, is a senior living community on a coastal bluff in Dana Point offering independent living, assisted living, and memory care."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/dana-point/sea-bluffs"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-fountains-at-sea-bluffs-73636"}]
+reviews_search_url: "https://www.google.com/search?q=Sea+Bluffs+Dana+Point+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

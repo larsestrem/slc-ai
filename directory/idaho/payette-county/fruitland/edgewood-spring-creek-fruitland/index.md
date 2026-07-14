@@ -20,8 +20,8 @@ organization: "edgewood-healthcare"
 organization_name: "Edgewood Healthcare"
 sources: ["https://carechanges.com/living-communities/edgewood-spring-creek-fruitland_fruitland_idaho/", "https://www.aplaceformom.com/community/edgewood-spring-creek-fruitland-1363294", "https://edgewoodreit.com/properties/edgewood-spring-creek-fruitland/"]
 verified_date: "2026-07-11"
-quality_tier: "unrated"
 description_full: "Edgewood Spring Creek Fruitland is an assisted living community in the small western Idaho town of Fruitland, licensed for traditional assisted living plus a secured memory care neighborhood for residents with Alzheimer's disease or other dementias. Services include 24-hour caregiver coverage, on-call nursing, medication administration, three daily meals, housekeeping, scheduled transportation, and coordination with visiting therapy and hospice teams."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/edgewood-spring-creek-fruitland-1363294"}]
+reviews_search_url: "https://www.google.com/search?q=Edgewood+Spring+Creek+Fruitland+Fruitland+ID+reviews"
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

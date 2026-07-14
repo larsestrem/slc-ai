@@ -21,9 +21,8 @@ organization: "legacy-retirement-communities"
 organization_name: "Legacy Retirement Communities"
 sources: ["https://www.aplaceformom.com/community/legacy-house-of-bountiful-70830", "https://www.familyassets.com/assisted-living/utah/bountiful/legacy-house-of-bountiful"]
 verified_date: "2026-07-12"
-review_note: "9/10 average rating on FamilyAssets; 26 reviews on A Place for Mom and 38 reviews on AssistedLivingCenter.com (July 2026)"
-quality_tier: "unrated"
 description_full: "Legacy House of Bountiful provides assisted living and memory care in downtown Bountiful."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/legacy-house-of-bountiful-70830"}]
+reviews_search_url: "https://www.google.com/search?q=Legacy+House+of+Bountiful+Bountiful+UT+reviews"
 licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
 ---

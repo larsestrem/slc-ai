@@ -2,7 +2,7 @@
 layout: "facility"
 title: "Regency Redmond Rehabilitation and Nursing Center"
 seo_title: "Regency Redmond Rehabilitation and Nursing Center — Senior Living in Redmond, OR"
-description: "Regency Redmond is a Medicare- and Medicaid-certified skilled nursing and rehabilitation center with 50 certified beds, operating since 1992. CMS rates it 4 o"
+description: "Regency Redmond is a Medicare- and Medicaid-certified skilled nursing and rehabilitation center with 50 certified beds, operating since 1992. It is operated b"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Regency Redmond Rehabilitation and Nursing Center", "url": "/directory/oregon/deschutes-county/redmond/regency-redmond-rehabilitation-and-nursing-center/"}]
 nearby: []
 state: "oregon"
@@ -22,10 +22,9 @@ capacity: 50
 organization: "regency-pacific-management"
 organization_name: "Regency Pacific Management"
 cms_ccn: "385230"
-cms_rating_overall: 4
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/regency-redmond-rehabilitation-and-nursing-center-385230", "https://www.nursinghomes.us/facility/regency-redmond-rehabilitation-and-nursing-center-385230", "https://www.regency-pacific.com/senior-living/or/redmond/regency-redmond-rehabilitation-nursing-center/"]
 verified_date: "2026-07-11"
-quality_tier: "meets_standard"
-description_full: "Regency Redmond is a Medicare- and Medicaid-certified skilled nursing and rehabilitation center with 50 certified beds, operating since 1992. CMS rates it 4 of 5 stars overall, with a 5-star quality measures rating and above-average nurse staffing hours. It is operated by Regency Pacific Management."
+description_full: "Regency Redmond is a Medicare- and Medicaid-certified skilled nursing and rehabilitation center with 50 certified beds, operating since 1992. It is operated by Regency Pacific Management."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/regency-redmond-rehabilitation-and-nursing-center-385230"}]
+reviews_search_url: "https://www.google.com/search?q=Regency+Redmond+Rehabilitation+and+Nursing+Center+Redmond+OR+reviews"
 ---

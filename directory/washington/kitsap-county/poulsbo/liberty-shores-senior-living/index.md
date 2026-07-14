@@ -23,13 +23,8 @@ organization: "northwest-care-senior-living"
 organization_name: "Northwest Care Senior Living"
 sources: ["https://www.caring.com/senior-living/washington/poulsbo/liberty-shores-senior-living", "https://reviews.birdeye.com/liberty-shores-assisted-living-148049609718663", "https://northwestcare.com/liberty-shores-assisted-living-poulsbo/", "https://www.yelp.com/biz/liberty-shores-assisted-living-poulsbo"]
 verified_date: "2026-07-12"
-google_rating: 4.2
-google_review_count: 26
-rating_as_of: "2026-07-12"
-review_note: "4.2/5 across 26 Google reviews; 4.3/5 across 28 reviews on Birdeye (July 2026)"
-quality_tier: "meets_standard"
 description_full: "Liberty Shores Senior Living is a 112-bed assisted living community with specialized dementia care on Liberty Bay in Poulsbo, one of the area's few locally owned and managed communities."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/poulsbo/liberty-shores-senior-living"}, {"name": "Birdeye", "url": "https://reviews.birdeye.com/liberty-shores-assisted-living-148049609718663"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/liberty-shores-assisted-living-poulsbo"}]
-rating_source: "Caring.com"
+reviews_search_url: "https://www.google.com/search?q=Liberty+Shores+Senior+Living+Poulsbo+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

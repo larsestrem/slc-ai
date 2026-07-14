@@ -9,6 +9,6 @@ county_name: "Coconino"
 state_name: "Arizona"
 state_abbrev: "AZ"
 facility_count: 1
-facilities: [{"name": "The Bluffs of Flagstaff Senior Living", "url": "/directory/arizona/coconino-county/flagstaff/the-bluffs-of-flagstaff-senior-living/", "city_name": "Flagstaff", "state_abbrev": "AZ", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "large", "description": "The Bluffs of Flagstaff is the highest-rated senior living community in Flagstaff, offering assisted living and memory care in Arizona's high country."}]
+facilities: [{"name": "The Bluffs of Flagstaff Senior Living", "url": "/directory/arizona/coconino-county/flagstaff/the-bluffs-of-flagstaff-senior-living/", "city_name": "Flagstaff", "state_abbrev": "AZ", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "The Bluffs of Flagstaff is the highest-rated senior living community in Flagstaff, offering assisted living and memory care in Arizona's high country."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Coconino County", "url": "/directory/arizona/coconino-county/"}, {"name": "Flagstaff", "url": "/directory/arizona/coconino-county/flagstaff/"}]
 ---

@@ -82,7 +82,7 @@
       "organization": "avamere",
       "organization_name": "Avamere",
       "cms_ccn": "385053",
-      "description": "Avamere Rehabilitation of Eugene is a 92-bed skilled nursing and rehabilitation facility in Eugene. It provides short-term post-acute rehabilitation and long-term nursing care, and holds a 4-star Medicare staffing rating. CMS closely monitored the facility for a period between 2024 and 2025 due to a documented pattern of care concerns.",
+      "description": "Avamere Rehabilitation of Eugene is a 92-bed skilled nursing and rehabilitation facility in Eugene. CMS closely monitored the facility for a period between 2024 and 2025 due to a documented pattern of care concerns.",
       "sources": [
         "https://www.avamere.com/avamere-rehabilitation-of-eugene/",
         "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-eugene-385053",
@@ -544,7 +544,7 @@
       "organization_name": "Regency Pacific Management",
       "cms_ccn": "385230",
       "cms_rating_overall": 4,
-      "description": "Regency Redmond is a Medicare- and Medicaid-certified skilled nursing and rehabilitation center with 50 certified beds, operating since 1992. CMS rates it 4 of 5 stars overall, with a 5-star quality measures rating and above-average nurse staffing hours. It is operated by Regency Pacific Management.",
+      "description": "Regency Redmond is a Medicare- and Medicaid-certified skilled nursing and rehabilitation center with 50 certified beds, operating since 1992. It is operated by Regency Pacific Management.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/regency-redmond-rehabilitation-and-nursing-center-385230",
         "https://www.nursinghomes.us/facility/regency-redmond-rehabilitation-and-nursing-center-385230",
@@ -576,7 +576,7 @@
       "organization_name": "Avamere",
       "cms_ccn": "385253",
       "cms_rating_overall": 5,
-      "description": "Bend Transitional Care is a 54-bed skilled nursing and rehabilitation community in the Avamere family, certified by both Medicare and Medicaid. It focuses on short-term rehabilitation and transitional care after hospital stays, and also offers respite care. The facility has earned 5-star overall, staffing, and quality ratings from Medicare.gov.",
+      "description": "Bend Transitional Care is a 54-bed skilled nursing and rehabilitation community in the Avamere family, certified by both Medicare and Medicaid. It focuses on short-term rehabilitation and transitional care after hospital stays, and also offers respite care.",
       "sources": [
         "https://www.avamere.com/bend-transitional-care/",
         "https://www.medicare.gov/care-compare/details/nursing-home/385253/view-all/?state=OR",
@@ -775,7 +775,7 @@
       "organization_name": "Veterans Care Centers of Oregon",
       "cms_ccn": "385280",
       "cms_rating_overall": 3,
-      "description": "The Edward C. Allworth Veterans' Home is a 154-bed state veterans home on 12 acres in Lebanon, opened in 2014 and owned by the Oregon Department of Veterans' Affairs. The Medicare- and Medicaid-certified skilled nursing facility provides rehabilitation, long-term care, and dementia care for veterans, with a 5-star CMS staffing rating and national quality awards in 2016 and 2019.",
+      "description": "The Edward C. Allworth Veterans' Home is a 154-bed state veterans home on 12 acres in Lebanon, opened in 2014 and owned by the Oregon Department of Veterans' Affairs.",
       "sources": [
         "https://www.oregon.gov/odva/vets-homes/lebanon/pages/default.aspx",
         "https://www.healthcare4ppl.com/nursing-home/oregon/lebanon/lebanon-veterans-home-385280.html",
@@ -866,7 +866,7 @@
       "organization": "marquis-companies",
       "organization_name": "Marquis Companies",
       "cms_ccn": "385260",
-      "description": "Marquis Hope Village is a 50-bed Medicare- and Medicaid-certified skilled nursing facility offering post-hospital rehabilitation and long-term care on the Hope Village retirement campus in Canby. U.S. News rates it High Performing for short-term rehabilitation, and recent CMS star ratings have ranged from four to five stars overall. Marquis also operates the adjacent Marquis at Hope Village assisted living and memory care building at 1589 S Ivy St, giving campus residents a full continuum of care.",
+      "description": "Marquis Hope Village is a 50-bed Medicare- and Medicaid-certified skilled nursing facility offering post-hospital rehabilitation and long-term care on the Hope Village retirement campus in Canby. Marquis also operates the adjacent Marquis at Hope Village assisted living and memory care building at 1589 S Ivy St, giving campus residents a full continuum of care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-hope-village-385260",
         "https://www.marquiscompanies.com/facility/marquis-hope-village/",
@@ -984,7 +984,7 @@
       "facility_size": "large",
       "cms_ccn": "385200",
       "cms_rating_overall": 5,
-      "description": "Founded in 1955, Willamette View was the first continuing care retirement community in the Portland metro area, a nonprofit 501(c)(3) on a 27-acre campus overlooking the Willamette River between Milwaukie and Portland. It offers roughly 140 floor plans from one-bedroom apartments to three-bedroom residences, plus assisted living and the on-campus Willamette View Health Center, a Medicare-certified skilled nursing facility with a 5-star CMS overall rating.",
+      "description": "Founded in 1955, Willamette View was the first continuing care retirement community in the Portland metro area, a nonprofit 501(c)(3) on a 27-acre campus overlooking the Willamette River between Milwaukie and Portland.",
       "sources": [
         "https://www.willametteview.org/about/",
         "https://health.usnews.com/best-nursing-homes/area/or/willamette-view-health-center-385200",
@@ -1189,7 +1189,7 @@
       "organization_name": "Marquis Companies",
       "cms_ccn": "385279",
       "cms_rating_overall": 5,
-      "description": "Marquis Tualatin Post Acute Rehab is a 54-bed Medicare- and Medicaid-certified skilled nursing facility providing post-hospital rehabilitation and long-term care in Tualatin. It holds a 5-star CMS overall rating with a 5-star health inspection rating, and U.S. News rates it High Performing for short-term rehabilitation. A Marquis assisted living community operates on the same Boones Ferry Road campus.",
+      "description": "Marquis Tualatin Post Acute Rehab is a 54-bed Medicare- and Medicaid-certified skilled nursing facility providing post-hospital rehabilitation and long-term care in Tualatin. A Marquis assisted living community operates on the same Boones Ferry Road campus.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-tualatin-post-acute-rehabilitation-385279",
         "https://www.medicare.gov/care-compare/details/nursing-home/385279/view-all/?state=OR",
@@ -2573,7 +2573,7 @@
       "google_rating": 4.1,
       "google_review_count": 51,
       "rating_as_of": "2026-07-11",
-      "description": "Rogue Valley Manor is southern Oregon's only continuing care retirement community and the longest-standing accredited CCRC on the West Coast, open since 1961. The nonprofit campus spans 668 acres in Medford with nearly 1,000 residents, offering independent living through Medicare 5-star-rated skilled nursing, and serves as the flagship of Medford-based Pacific Retirement Services.",
+      "description": "Rogue Valley Manor is southern Oregon's only continuing care retirement community and the longest-standing accredited CCRC on the West Coast, open since 1961.",
       "sources": [
         "https://www.roguevalleymanor.org/",
         "https://health.usnews.com/best-nursing-homes/area/or/rogue-valley-manor-385250",
@@ -2606,7 +2606,7 @@
       "organization_name": "Cedar Sinai Park",
       "cms_ccn": "385145",
       "cms_rating_overall": 4,
-      "description": "Robison Jewish Health Center is a skilled nursing facility on the Cedar Sinai Park campus in southwest Portland, offering short-term rehabilitation, long-term care, and memory care rooted in Jewish cultural values. CMS rates the facility 4 stars overall, with 5-star staffing and 5-star quality measure ratings. The 88-bed home is rated High Performing for both short-term rehabilitation and long-term care by U.S. News.",
+      "description": "Robison Jewish Health Center is a skilled nursing facility on the Cedar Sinai Park campus in southwest Portland, offering short-term rehabilitation, long-term care, and memory care rooted in Jewish cultural values.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/robison-jewish-health-center-385145",
         "https://www.ohca.com/facility-finder/robison-jewish-health-center/",
@@ -2635,7 +2635,7 @@
       "capacity": 180,
       "cms_ccn": "385112",
       "cms_rating_overall": 3,
-      "description": "West Hills Health & Rehabilitation is a 180-bed skilled nursing facility in southwest Portland that has served the area since 1970, providing short-term rehabilitation and long-term care. U.S. News reports a 5-out-of-5 overall CMS rating and a High Performing short-term rehabilitation rating.",
+      "description": "West Hills Health & Rehabilitation is a 180-bed skilled nursing facility in southwest Portland that has served the area since 1970, providing short-term rehabilitation and long-term care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/west-hills-health-rehabilitation-center-portland-385112",
         "https://www.ohca.com/facility-finder/west-hills-health-rehabilitation/",
@@ -2666,7 +2666,7 @@
       "organization_name": "Avamere Family of Companies",
       "cms_ccn": "385126",
       "cms_rating_overall": 5,
-      "description": "Avamere at Three Fountains is a 117-bed skilled nursing and rehabilitation facility in Medford operated by the Oregon-based Avamere Family of Companies. It carries a 5-star overall CMS rating and is rated High Performing for both short-term rehabilitation and long-term care by U.S. News.",
+      "description": "Avamere at Three Fountains is a 117-bed skilled nursing and rehabilitation facility in Medford operated by the Oregon-based Avamere Family of Companies.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/avamere-at-three-fountains-385126",
         "https://www.avamere.com/avamere-at-three-fountains/",
@@ -2697,7 +2697,7 @@
       "organization_name": "Avamere Family of Companies",
       "cms_ccn": "385234",
       "cms_rating_overall": 3,
-      "description": "Salem Transitional Care is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Salem focused on post-acute rehabilitation. It holds a 4-star overall CMS rating, including a 5-star quality measure rating, and is part of the Avamere family of post-acute care providers.",
+      "description": "Salem Transitional Care is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Salem focused on post-acute rehabilitation.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/salem-transitional-care-385234",
         "https://www.avamere.com/salem-transitional-care/rehabilitation",
@@ -2727,7 +2727,7 @@
       "organization_name": "Marquis Companies",
       "cms_ccn": "385137",
       "cms_rating_overall": 4,
-      "description": "Marquis Plum Ridge Post Acute Rehab is a skilled nursing facility in Klamath Falls providing post-acute rehabilitation and long-term care. The facility holds a 4-star overall rating from the Centers for Medicare & Medicaid Services, above the Oregon state average. It is operated by Marquis Companies, a Milwaukie, Oregon-based post-acute care operator.",
+      "description": "Marquis Plum Ridge Post Acute Rehab is a skilled nursing facility in Klamath Falls providing post-acute rehabilitation and long-term care. It is operated by Marquis Companies, a Milwaukie, Oregon-based post-acute care operator.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-plum-ridge-385137",
         "https://www.marquiscompanies.com/cna-class/marquis-plum-ridge-in-klamath-falls/",
@@ -2758,7 +2758,7 @@
       "organization_name": "Marquis Companies",
       "cms_ccn": "385204",
       "cms_rating_overall": 5,
-      "description": "Marquis Forest Grove Post Acute Rehab is a 63-bed skilled nursing facility in Forest Grove offering short-term rehabilitation and long-term care. It received a 5-out-of-5 overall Medicare star rating and is rated High Performing for short-term rehabilitation by U.S. News.",
+      "description": "Marquis Forest Grove Post Acute Rehab is a 63-bed skilled nursing facility in Forest Grove offering short-term rehabilitation and long-term care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-forest-grove-post-acute-rehabilitation-385204",
         "https://www.marquiscompanies.com/facility/marquis-forest-grove/",
@@ -3502,7 +3502,7 @@
       "organization_name": "Life Care Centers of America",
       "cms_ccn": "385157",
       "cms_rating_overall": 3,
-      "description": "A 114-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation center on Ocean Boulevard in Coos Bay, operated by Life Care Centers of America. It provides short-term post-hospital rehabilitation and long-term nursing care. CMS rates it 3 out of 5 stars overall.",
+      "description": "A 114-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation center on Ocean Boulevard in Coos Bay, operated by Life Care Centers of America. It provides short-term post-hospital rehabilitation and long-term nursing care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/life-care-center-of-coos-bay-385157",
         "https://www.medicare.gov/care-compare/details/nursing-home/385157/"
@@ -3532,7 +3532,7 @@
       "organization_name": "Marquis Companies",
       "cms_ccn": "385183",
       "cms_rating_overall": 3,
-      "description": "An 80-bed skilled nursing and post-acute rehabilitation center in east Portland's Centennial area, part of the Oregon-based Marquis Companies. It offers physical, occupational, and speech therapy alongside 24-hour nursing care. CMS rates it 3 out of 5 stars overall.",
+      "description": "An 80-bed skilled nursing and post-acute rehabilitation center in east Portland's Centennial area, part of the Oregon-based Marquis Companies. It offers physical, occupational, and speech therapy alongside 24-hour nursing care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-centennial-post-acute-rehabilitation-385183",
         "https://www.medicare.gov/care-compare/details/nursing-home/385183/"
@@ -3562,7 +3562,7 @@
       "organization_name": "Marquis Companies",
       "cms_ccn": "385214",
       "cms_rating_overall": 5,
-      "description": "A 77-bed Marquis Companies skilled nursing and rehabilitation center in the Mill Park neighborhood of southeast Portland. It focuses on short-stay post-acute rehab and long-term care with high staffing levels. CMS rates it 5 out of 5 stars overall.",
+      "description": "A 77-bed Marquis Companies skilled nursing and rehabilitation center in the Mill Park neighborhood of southeast Portland. It focuses on short-stay post-acute rehab and long-term care with high staffing levels.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-mill-park-385214",
         "https://www.medicare.gov/care-compare/details/nursing-home/385214/"
@@ -3592,7 +3592,7 @@
       "organization_name": "Marquis Companies",
       "cms_ccn": "385218",
       "cms_rating_overall": 5,
-      "description": "A 73-bed skilled nursing and post-acute rehabilitation center in southwest Portland operated by Marquis Companies. Services include rehabilitation therapy, wound care, and long-term nursing. CMS rates it 5 out of 5 stars overall.",
+      "description": "A 73-bed skilled nursing and post-acute rehabilitation center in southwest Portland operated by Marquis Companies. Services include rehabilitation therapy, wound care, and long-term nursing.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-vermont-hills-385218",
         "https://www.medicare.gov/care-compare/details/nursing-home/385218/"
@@ -3623,7 +3623,7 @@
       "organization_name": "Marquis Companies",
       "cms_ccn": "385208",
       "cms_rating_overall": 5,
-      "description": "A 70-bed Marquis Companies skilled nursing and rehabilitation center in the Piedmont area of north Portland. It provides post-hospital rehabilitation and long-term care with above-average nurse staffing. CMS rates it 5 out of 5 stars overall.",
+      "description": "A 70-bed Marquis Companies skilled nursing and rehabilitation center in the Piedmont area of north Portland. It provides post-hospital rehabilitation and long-term care with above-average nurse staffing.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-piedmont-post-acute-rehabilitation-385208",
         "https://www.medicare.gov/care-compare/details/nursing-home/385208/"
@@ -3654,7 +3654,7 @@
       "organization_name": "Cascadia Healthcare",
       "cms_ccn": "385147",
       "cms_rating_overall": 5,
-      "description": "An 87-bed skilled nursing and rehabilitation facility on Hilyard Street in south Eugene, operated by Cascadia Healthcare. It offers short-term rehab and long-term nursing care. CMS rates it 5 out of 5 stars overall.",
+      "description": "An 87-bed skilled nursing and rehabilitation facility on Hilyard Street in south Eugene, operated by Cascadia Healthcare. It offers short-term rehab and long-term nursing care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/creekside-health-and-rehabilitation-of-cascadia-385147",
         "https://www.medicare.gov/care-compare/details/nursing-home/385147/"
@@ -3684,7 +3684,7 @@
       "organization_name": "Marquis Companies",
       "cms_ccn": "385266",
       "cms_rating_overall": 3,
-      "description": "A 50-bed Marquis Companies skilled nursing and post-acute rehabilitation center in Wilsonville, Clackamas County. It emphasizes short-stay rehabilitation after hospital stays alongside long-term nursing care. CMS rates it 3 out of 5 stars overall.",
+      "description": "A 50-bed Marquis Companies skilled nursing and post-acute rehabilitation center in Wilsonville, Clackamas County. It emphasizes short-stay rehabilitation after hospital stays alongside long-term nursing care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-wilsonville-post-acute-rehabilitation-385266",
         "https://www.medicare.gov/care-compare/details/nursing-home/385266/"
@@ -3714,7 +3714,7 @@
       "organization_name": "Avamere",
       "cms_ccn": "385251",
       "cms_rating_overall": 3,
-      "description": "An 87-bed skilled nursing and rehabilitation center on SE Oak Street in Hillsboro, part of the Oregon-based Avamere family of companies. It provides post-acute rehab and long-term nursing care. CMS rates it 3 out of 5 stars overall.",
+      "description": "An 87-bed skilled nursing and rehabilitation center on SE Oak Street in Hillsboro, part of the Oregon-based Avamere family of companies. It provides post-acute rehab and long-term nursing care.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-hillsboro-385251",
         "https://www.medicare.gov/care-compare/details/nursing-home/385251/"
@@ -3745,7 +3745,7 @@
       "organization_name": "Avamere",
       "cms_ccn": "385229",
       "cms_rating_overall": 1,
-      "description": "A 53-bed Avamere skilled nursing and rehabilitation center in Junction City, Lane County. It offers short-term rehabilitation and long-term care, earning a 5-star CMS quality-measure rating. CMS rates it 4 out of 5 stars overall.",
+      "description": "A 53-bed Avamere skilled nursing and rehabilitation center in Junction City, Lane County.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-junction-city-385229",
         "https://www.medicare.gov/care-compare/details/nursing-home/385229/"
@@ -4516,7 +4516,7 @@
       "capacity": 112,
       "cms_ccn": "385272",
       "cms_rating_overall": 2,
-      "description": "Tigard Rehabilitation and Care is a 112-bed Medicare- and Medicaid-certified skilled nursing facility in Tigard offering short-term rehabilitation and long-term nursing care with above-average nursing staff hours per resident.",
+      "description": "Tigard Rehabilitation and Care is a 112-bed Medicare- and Medicaid-certified skilled nursing facility in Tigard offering short-term rehabilitation and long-term nursing care.",
       "sources": [
         "https://www.medicare.gov/care-compare/details/nursing-home/385272/",
         "https://www.nursinghomedatabase.com/snf/385272",
@@ -5074,7 +5074,7 @@
         "CA",
         "NV"
       ],
-      "description": "Marquis Companies is a family-owned senior care company headquartered in the Portland suburb of Milwaukie, Oregon, operating skilled nursing, post-acute rehabilitation, assisted living, and memory care facilities in Oregon, California, and Nevada. Several of its Oregon campuses, including Hope Village in Canby and its Tualatin post-acute center, hold high CMS ratings for short-term rehabilitation. The company also runs Consonus Healthcare, a pharmacy and rehab services affiliate.",
+      "description": "Marquis Companies is a family-owned senior care company headquartered in the Portland suburb of Milwaukie, Oregon, operating skilled nursing, post-acute rehabilitation, assisted living, and memory care facilities in Oregon, California, and Nevada. The company also runs Consonus Healthcare, a pharmacy and rehab services affiliate.",
       "sources": [
         "https://www.marquiscompanies.com/"
       ]

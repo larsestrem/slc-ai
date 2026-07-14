@@ -22,14 +22,9 @@ capacity: 57
 organization: "encore-communities"
 organization_name: "Encore Communities"
 cms_ccn: "505484"
-cms_rating_overall: 3
-cms_health_inspection_rating: 5
-cms_staffing_rating: 5
-cms_quality_measure_rating: 4
-cms_data_as_of: "2026-02-01"
 sources: ["https://www.nursinghomesite.com/NORTHWOODS_LODGE_SILVERDALE_WA", "https://www.seniorcare.com/nursing-homes/wa/silverdale/northwoods-lodge/505484/", "https://encorecommunities.com/northwoods-lodge/", "https://www.yelp.com/biz/northwoods-lodge-silverdale"]
 verified_date: "2026-07-12"
-quality_tier: "meets_standard"
-description_full: "Northwoods Lodge is a 57-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Silverdale, established in 1993 and part of the Encore Communities campus. It specializes in post-hospital rehabilitation with physical, occupational and speech therapy, and its nursing staff hours per resident run well above the national average."
+description_full: "Northwoods Lodge is a 57-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Silverdale, established in 1993 and part of the Encore Communities campus."
 review_links: [{"name": "NursingHomeSite", "url": "https://www.nursinghomesite.com/NORTHWOODS_LODGE_SILVERDALE_WA"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/northwoods-lodge-silverdale"}]
+reviews_search_url: "https://www.google.com/search?q=Northwoods+Lodge+Silverdale+WA+reviews"
 ---

@@ -18,9 +18,8 @@ phone: "(253) 862-1818"
 care_levels: ["assisted-living"]
 sources: ["https://www.senioradvisor.com/local/stafford-suites-sumner-wa", "https://www.aplaceformom.com/community/stafford-suites-sumner-71774", "https://www.yelp.com/biz/stafford-suites-sumner"]
 verified_date: "2026-07-12"
-review_note: "4.5/5 across 16 reviews on SeniorAdvisor (July 2026)"
-quality_tier: "unrated"
 description_full: "Stafford Suites Sumner is an assisted living community in Sumner where staff assist with daily-living needs from medication management to bathing and dressing."
 review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/stafford-suites-sumner-wa"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/stafford-suites-sumner-71774"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/stafford-suites-sumner"}]
+reviews_search_url: "https://www.google.com/search?q=Stafford+Suites+Sumner+Sumner+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

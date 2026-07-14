@@ -4,7 +4,7 @@ title: "Rackleff Place"
 seo_title: "Rackleff Place — Senior Living in Canby, OR"
 description: "A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Rackleff Place", "url": "/directory/oregon/clackamas-county/canby/rackleff-place/"}]
-nearby: [{"name": "Marquis Hope Village", "url": "/directory/oregon/clackamas-county/canby/marquis-hope-village/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "quality_tier": "unrated", "facility_size": "medium", "description": "Marquis Hope Village is a 50-bed Medicare- and Medicaid-certified skilled nursing facility offering post-hospital rehabilitation and long-term care on the Hope Village retirement campus in Canby. U.S. News rates it High Performing for short-term rehabilitation, and recent CMS star ratings have ranged from four to five stars overall. Marquis also operates the adjacent Marquis at Hope Village assisted living and memory care building at 1589 S Ivy St, giving campus residents a full continuum of care."}, {"name": "Hope Village", "url": "/directory/oregon/clackamas-county/canby/hope-village/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["independent-living"], "quality_tier": "below_standard", "facility_size": "large", "google_rating": 4.0, "google_review_count": 23, "description": "Hope Village is a faith-based, not-for-profit retirement community for adults 62 and older on a 56-acre campus in Canby, sponsored by Housing & Outreach Project for the Elderly (HOPE), Inc., a nonprofit founded by nine North Willamette Valley churches. Independent-living options include cottage homes, garden homes, and apartments, including income-qualified units at Cascade House. Assisted living, memory care, and skilled nursing are available on the same campus through Marquis-operated buildings, so residents can age in place within the village."}]
+nearby: [{"name": "Hope Village", "url": "/directory/oregon/clackamas-county/canby/hope-village/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["independent-living"], "serious_concern": false, "facility_size": "large", "description": "Hope Village is a faith-based, not-for-profit retirement community for adults 62 and older on a 56-acre campus in Canby, sponsored by Housing & Outreach Project for the Elderly (HOPE), Inc., a nonprofit founded by nine North Willamette Valley churches. Independent-living options include cottage homes, garden homes, and apartments, including income-qualified units at Cascade House. Assisted living, memory care, and skilled nursing are available on the same campus through Marquis-operated buildings, so residents can age in place within the village."}, {"name": "Marquis Hope Village", "url": "/directory/oregon/clackamas-county/canby/marquis-hope-village/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "serious_concern": false, "facility_size": "medium", "description": "Marquis Hope Village is a 50-bed Medicare- and Medicaid-certified skilled nursing facility offering post-hospital rehabilitation and long-term care on the Hope Village retirement campus in Canby. Marquis also operates the adjacent Marquis at Hope Village assisted living and memory care building at 1589 S Ivy St, giving campus residents a full continuum of care."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"
@@ -20,13 +20,9 @@ facility_size: "medium"
 capacity: 25
 sources: ["https://www.prestigecare.com/locations/rackleff-place/", "https://ultimateseniorresource.com/states/oregon/canby/rackleff-place", "https://ltclicensing.oregon.gov/Facilities/Details/70M075"]
 verified_date: "2026-07-12"
-google_rating: 4.4
-google_review_count: 16
-rating_as_of: "2026-07-12"
 review_caveat: "Rackleff Place shares a campus with the independent-living community Hope Village and the skilled nursing facility Marquis Hope Village, each separately licensed and rated. Check each listing's own rating rather than assuming they're the same."
-quality_tier: "meets_standard"
 description_full: "A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette."
 review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/oregon/canby/rackleff-place"}]
-rating_source: "Ultimate Senior Resource"
+reviews_search_url: "https://www.google.com/search?q=Rackleff+Place+Canby+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

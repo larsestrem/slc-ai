@@ -365,7 +365,7 @@
       "capacity": 188,
       "cms_ccn": "295055",
       "cms_rating_overall": 4,
-      "description": "Medicare- and Medicaid-certified skilled nursing facility in North Las Vegas with 188 beds, offering short-term rehabilitation, long-term care, and hospice care. Holds a 4-star overall rating from the Centers for Medicare and Medicaid Services, well above the Nevada state average for nursing homes.",
+      "description": "Medicare- and Medicaid-certified skilled nursing facility in North Las Vegas with 188 beds, offering short-term rehabilitation, long-term care, and hospice care.",
       "sources": [
         "https://www.medicare.gov/care-compare/details/nursing-home/295055/view-all/",
         "https://health.usnews.com/best-nursing-homes/area/nv/college-park-rehabilitation-center-295055",
@@ -560,7 +560,7 @@
       "capacity": 42,
       "cms_ccn": "295024",
       "cms_rating_overall": 5,
-      "description": "42-bed skilled nursing and residential care community in Winnemucca, operated by the Humboldt General Hospital district. Offers short-term rehabilitation and long-term care and holds a 5-star overall rating from the Centers for Medicare and Medicaid Services, placing it in the top tier of facilities nationwide. It is the primary skilled nursing option for Humboldt County.",
+      "description": "42-bed skilled nursing and residential care community in Winnemucca, operated by the Humboldt General Hospital district. It is the primary skilled nursing option for Humboldt County.",
       "sources": [
         "https://www.nursinghomesite.com/HARMONY_MANOR_SKILLED_NURSING_FACILITY_WINNEMUCCA_NV",
         "https://health.usnews.com/best-nursing-homes/area/nv/harmony-manor-skilled-nursing-facility-295024",
@@ -589,7 +589,7 @@
       "capacity": 42,
       "cms_ccn": "295096",
       "cms_rating_overall": 5,
-      "description": "Advanced Health Care of Reno is a 42-bed Medicare 5-star skilled nursing facility specializing in short-term rehabilitation, with private suites, 24-hour nursing, and inpatient rehab services.",
+      "description": "Advanced Health Care of Reno is a 42-bed Medicare-certified skilled nursing facility specializing in short-term rehabilitation, with private suites, 24-hour nursing, and inpatient rehab services.",
       "sources": [
         "https://www.ahcfacilities.com/reno/",
         "https://www.seniorcare.com/nursing-homes/nv/reno/advanced-health-care-of-reno/295096/"
@@ -647,7 +647,7 @@
       "cms_ccn": "295068",
       "cms_rating_overall": 4,
       "review_note": "CMS overall rating 4 stars in most recent Medicare data (some sources show 5 stars from earlier periods); health inspection 4 stars (July 2026)",
-      "description": "Highland Manor of Mesquite is a 112-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility serving the Mesquite area of Clark County. It holds a 4-star CMS overall rating driven by strong health inspection results, with lower marks in quality-measure and staffing categories.",
+      "description": "Highland Manor of Mesquite is a 112-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility serving the Mesquite area of Clark County.",
       "sources": [
         "https://www.nursinghomesite.com/HIGHLAND_MANOR_OF_MESQUITE_MESQUITE_NV",
         "https://nvhca.org/find-care/highland-manor-of-mesquite/",

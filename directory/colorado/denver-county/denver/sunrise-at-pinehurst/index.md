@@ -5,7 +5,7 @@ title: "Sunrise at Pinehurst"
 seo_title: "Sunrise at Pinehurst — Senior Living in Denver, CO"
 description: "Sunrise at Pinehurst offers assisted living, memory care, and short-term respite stays in southwest Denver near Pinehurst Country Club."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Sunrise at Pinehurst", "url": "/directory/colorado/denver-county/denver/sunrise-at-pinehurst/"}]
-nearby: [{"name": "South Valley Post Acute Rehabilitation", "url": "/directory/colorado/denver-county/denver/south-valley-post-acute-rehabilitation/", "city_name": "Denver", "state_abbrev": "CO", "care_levels": ["skilled-nursing"], "quality_tier": "meets_standard", "facility_size": "large", "cms_rating_overall": 5, "description": "South Valley Post Acute Rehabilitation is a 106-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Denver. It holds a 5-star overall rating from Medicare's Care Compare and provides short-term rehabilitation as well as long-term nursing care."}]
+nearby: [{"name": "South Valley Post Acute Rehabilitation", "url": "/directory/colorado/denver-county/denver/south-valley-post-acute-rehabilitation/", "city_name": "Denver", "state_abbrev": "CO", "care_levels": ["skilled-nursing"], "serious_concern": false, "facility_size": "large", "description": "South Valley Post Acute Rehabilitation is a 106-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Denver."}]
 state: "colorado"
 state_name: "Colorado"
 state_abbrev: "CO"
@@ -21,10 +21,8 @@ organization: "sunrise-senior-living"
 organization_name: "Sunrise Senior Living"
 sources: ["https://www.aplaceformom.com/community/sunrise-of-pinehurst-93447", "https://everyplace.care/facility/sunrise-at-pinehurst-denver-co-23049u", "https://health.usnews.com/best-senior-living/sunrise-at-pinehurst-2589"]
 verified_date: "2026-07-12"
-rating_as_of: "2026-07-12"
-review_note: "4.5/5 average across 78 family reviews on EveryPlace; 49 reviews on A Place for Mom (July 2026)"
-quality_tier: "unrated"
 description_full: "Sunrise at Pinehurst offers assisted living, memory care, and short-term respite stays in southwest Denver near Pinehurst Country Club."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunrise-of-pinehurst-93447"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/sunrise-at-pinehurst-2589"}]
+reviews_search_url: "https://www.google.com/search?q=Sunrise+at+Pinehurst+Denver+CO+reviews"
 licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
 ---

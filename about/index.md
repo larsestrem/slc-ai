@@ -30,8 +30,9 @@ verified and added so far. Coverage is growing state by state.
 - **Corrections welcome.** Communities and families can [report updates](/for-communities/) —
   listings improve over time.
 - **Within what we've covered, we list every community we can verify, not just the
-  highest-rated ones** — rated honestly and labeled by tier instead of hidden. See
-  [why, and what our labels mean](/guides/how-we-list-communities/).
+  highest-rated ones** — and we don't display a rating ourselves. Every profile links directly
+  to the government rating and review platforms instead, so you see the real, current number.
+  See [why, and how to find the real ratings](/guides/how-we-list-communities/).
 
 Facility details change frequently. Always confirm availability, pricing, and services directly
 with a community before making decisions.
@@ -43,16 +44,19 @@ We don't provide medical, legal, or financial advice — our guides tell you whe
 belongs with a doctor, an elder law attorney, or a benefits counselor, and
 [where to find free help](/guides/government-assistance-programs/).
 
-## About the ratings and reviews we show
+## About ratings and reviews — we link, we don't display
 
-We do not write reviews, and we do not investigate or verify what any review, inspection report,
-or news source says. We aggregate publicly available ratings — Medicare's government star
-ratings and review scores from public platforms — and show you the number, its source, and its
-date, with a link to where you can read it directly at the source. We do not restate, quote, or
-summarize the contents of individual reviews or incident reports on our own pages; that
-information belongs to the organization that published it. Do your own research: read the full
-record at the source, and always verify directly with the community. See
-[how to interpret online reviews](/guides/interpreting-online-reviews/) and
+We do not display a star rating or numeric score anywhere on this site, and we do not write
+reviews or investigate what any review, inspection report, or news source says. Every facility
+profile links directly to Medicare Care Compare, state licensing records, and the review
+platforms we found — clearly labeled — so you read the real, current number at the source instead
+of a figure we've restated. We do not restate, quote, or summarize the contents of individual
+reviews or incident reports on our own pages; that information belongs to the organization that
+published it. The one exception is a confirmed regulatory flag (a federal Special Focus Facility
+designation, a substantiated finding) — a sourced fact we report plainly, not a rating we compute.
+Do your own research: read the full record at the source, and always verify directly with the
+community. See [why we don't display ratings](/guides/how-we-list-communities/),
+[how to interpret online reviews](/guides/interpreting-online-reviews/), and
 [how government ratings work](/guides/reading-inspection-reports-and-ratings/).
 
 ## Advertising

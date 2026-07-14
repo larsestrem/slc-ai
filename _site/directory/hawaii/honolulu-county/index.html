@@ -28,10 +28,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -121,17 +119,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -228,14 +218,6 @@ tbody tr:hover { background: var(--soft); }
 
 
 
-
-<p class="ratings-legend notice"><strong>About the stars:</strong> on a nursing home, ★ is its
-<a href="/guides/reading-inspection-reports-and-ratings/">Medicare government rating</a>
-(from inspections and staffing); elsewhere, ★ is a
-<a href="/guides/interpreting-online-reviews/">family-review average</a> (read it with care).
-We list every community we can verify, not just the highest-rated —
-<a href="/guides/how-we-list-communities/">why, and what our labels mean</a>.</p>
-
 <section aria-labelledby="c-aiea">
   <h2 id="c-aiea"><a href="/directory/hawaii/honolulu-county/aiea/">Aiea, HI</a></h2>
   <ul class="grid">
@@ -257,8 +239,7 @@ We list every community we can verify, not just the highest-rated —
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/15-craigside/">15 Craigside</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -272,8 +253,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/arcadia-retirement-residence/">Arcadia Retirement Residence</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -287,13 +267,12 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/avalon-care-center-honolulu/">Avalon Care Center - Honolulu</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
-<p class="desc">Avalon Care Center - Honolulu is a 108-bed skilled nursing and rehabilitation facility operated by Avalon Health Care. It carries a CMS o...</p>
+<p class="desc">Avalon Care Center - Honolulu is a 108-bed skilled nursing and rehabilitation facility operated by Avalon Health Care. It offers short-te...</p>
 </li>
 
     <li class="card">
@@ -318,9 +297,18 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
     <li class="card">
+  <h3><a href="/directory/hawaii/honolulu-county/honolulu/hale-malamalama/">Hale Malamalama</a></h3>
+  <p class="meta">Honolulu, HI</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Hale Malamalama is a small, for-profit, Medicare- and Medicaid-certified skilled nursing facility in the Niu Valley area of Honolulu, lic...</p>
+</li>
+
+    <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/kahala-nui/">Kahala Nui</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -334,21 +322,29 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/kalakaua-gardens/">Kalakaua Gardens</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">Kalakaua Gardens is a 49-bed senior living community in Honolulu offering skilled nursing alongside assisted living and memory care. Its ...</p>
+<p class="desc">Kalakaua Gardens is a 49-bed senior living community in Honolulu offering skilled nursing alongside assisted living and memory care. The ...</p>
+</li>
+
+    <li class="card">
+  <h3><a href="/directory/hawaii/honolulu-county/honolulu/kuakini-geriatric-care/">Kuakini Geriatric Care, Inc.</a></h3>
+  <p class="meta">Honolulu, HI</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Kuakini Geriatric Care, Inc. is a large, nonprofit, Medicare- and Medicaid-certified skilled nursing facility in the Kuakini Medical Cent...</p>
 </li>
 
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/leahi-hospital/">Leahi Hospital</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -358,8 +354,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/maluhia/">Maluhia</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -369,8 +364,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/maunalani-nursing-and-rehabilitation-center/">Maunalani Nursing and Rehabilitation Center</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="5 out of 5 stars">★★★★★</span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -379,36 +373,23 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
     <li class="card">
+  <h3><a href="/directory/hawaii/honolulu-county/honolulu/nuuanu-hale/">Nuuanu Hale</a></h3>
+  <p class="meta">Honolulu, HI</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Nuuanu Hale is a Medicare- and Medicaid-certified skilled nursing facility on Pali Highway in Honolulu, offering short-term rehabilitatio...</p>
+</li>
+
+    <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/oahu-care-facility/">Oahu Care Facility</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
 <p class="desc">Oahu Care Facility is an 82-bed Medicare- and Medicaid-certified skilled nursing facility in the Makiki area of Honolulu, offering interm...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/hawaii/honolulu-county/honolulu/the-villas-honolulu/">The Villas</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">A 163-bed post-acute care and rehabilitation facility on the St. Francis Kupuna Village campus in Honolulu's Liliha neighborhood, operate...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/hawaii/honolulu-county/honolulu/vilmas-adult-care-home/">Vilma's Adult Care Home</a></h3>
-  <p class="meta">Honolulu, HI · Small home</p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
-  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
-</ul>
-<p class="desc">Vilma's Adult Care Home is a small Expanded Adult Residential Care Home in the Liliha/Kalihi area of Honolulu, purpose-built as a care ho...</p>
 </li>
 
     <li class="card">
@@ -435,42 +416,29 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
     <li class="card">
-  <h3><a href="/directory/hawaii/honolulu-county/honolulu/hale-malamalama/">Hale Malamalama</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
+  <h3><a href="/directory/hawaii/honolulu-county/honolulu/the-villas-honolulu/">The Villas</a></h3>
+  <p class="meta">Honolulu, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
 </ul>
-<p class="desc">Hale Malamalama is a small, for-profit, Medicare- and Medicaid-certified skilled nursing facility in the Niu Valley area of Honolulu, lic...</p>
+<p class="desc">A 163-bed post-acute care and rehabilitation facility on the St. Francis Kupuna Village campus in Honolulu's Liliha neighborhood, operate...</p>
 </li>
 
     <li class="card">
-  <h3><a href="/directory/hawaii/honolulu-county/honolulu/kuakini-geriatric-care/">Kuakini Geriatric Care, Inc.</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
+  <h3><a href="/directory/hawaii/honolulu-county/honolulu/vilmas-adult-care-home/">Vilma's Adult Care Home</a></h3>
+  <p class="meta">Honolulu, HI · Small home</p>
   
 <ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+  <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">Kuakini Geriatric Care, Inc. is a large, nonprofit, Medicare- and Medicaid-certified skilled nursing facility in the Kuakini Medical Cent...</p>
-</li>
-
-    <li class="card">
-  <h3><a href="/directory/hawaii/honolulu-county/honolulu/nuuanu-hale/">Nuuanu Hale</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Lower-rated</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Nuuanu Hale is a Medicare- and Medicaid-certified skilled nursing facility on Pali Highway in Honolulu, offering short-term rehabilitatio...</p>
+<p class="desc">Vilma's Adult Care Home is a small Expanded Adult Residential Care Home in the Liliha/Kalihi area of Honolulu, purpose-built as a care ho...</p>
 </li>
 
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/liliha-healthcare-center/">Liliha Healthcare Center</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-serious_concerns">Serious concerns</span></p>
+  <p class="meta">Honolulu, HI · <span class="concern-flag">Regulatory flag — see profile</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -480,8 +448,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/honolulu/the-care-center-of-honolulu/">The Care Center of Honolulu</a></h3>
-  <p class="meta">Honolulu, HI · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-serious_concerns">Serious concerns</span></p>
+  <p class="meta">Honolulu, HI · <span class="concern-flag">Regulatory flag — see profile</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -522,8 +489,7 @@ We list every community we can verify, not just the highest-rated —
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/kaneohe/good-samaritan-society-pohai-nani/">Good Samaritan Society - Pohai Nani</a></h3>
-  <p class="meta">Kaneohe, HI · <span class="stars" role="img" aria-label="4.7 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Kaneohe, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -552,8 +518,7 @@ We list every community we can verify, not just the highest-rated —
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/kapolei/ilima-at-leihano/">'Ilima at Leihano</a></h3>
-  <p class="meta">Kapolei, HI · <span class="stars" role="img" aria-label="4.9 out of 5 stars">★★★★★</span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Kapolei, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
@@ -565,8 +530,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/kapolei/ka-punawai-ola/">Ka Punawai Ola</a></h3>
-  <p class="meta">Kapolei, HI · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Kapolei, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
@@ -596,8 +560,7 @@ We list every community we can verify, not just the highest-rated —
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/hawaii/honolulu-county/pearl-city/the-plaza-at-pearl-city/">The Plaza at Pearl City</a></h3>
-  <p class="meta">Pearl City, HI · <span class="stars" role="img" aria-label="4.2 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">reviews</span></p>
+  <p class="meta">Pearl City, HI</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>

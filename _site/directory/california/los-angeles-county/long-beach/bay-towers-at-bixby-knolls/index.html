@@ -28,10 +28,8 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* rating stars (also aria-labeled) */
+  --gold: #7a5a00;        /* small-home badge accent */
   --danger: #8e2216;
-  --good: #0b5c28;        /* "clears our threshold" tier — 7.6:1 on bg */
-  --warn: #6b3900;        /* "lower-rated" tier — 8.9:1 on bg */
   --radius: 10px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -121,17 +119,9 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Stars (shared: appears in facility cards across many page types) */
-.stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--muted); }
-.rate-src { color: var(--muted); font-size: .8em; }
-.ratings-legend { font-size: .9rem; }
-
-/* Quality-tier badges — visible labeling instead of hiding low-rated facilities */
-.tier-badge { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; }
-.tier-badge.tier-meets_standard { color: var(--good); }
-.tier-badge.tier-below_standard { color: var(--warn); }
-.tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
+/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
+   Appears on cards and the profile sidebar when serious_concern is true. */
+.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -196,40 +186,32 @@ tbody tr:hover { background: var(--soft); }
 .photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
 .claim { border-left: 4px solid var(--accent); }
 
-/* Sidebar rating-at-a-glance */
-.rating-glance .glance-row { display: flex; gap: .55rem; align-items: flex-start; margin: .5rem 0; }
-.rating-glance .glance-row + .glance-row { border-top: 1px solid var(--line); padding-top: .5rem; }
-.rating-glance .glance-row .stars { font-size: 1.15rem; flex: 0 0 auto; line-height: 1.3; }
-.rating-glance .glance-row p { margin: 0; font-size: .92rem; }
-.rating-glance .muted { color: var(--muted); font-size: .82rem; }
+/* Sidebar ratings & reviews panel — links only, no numbers */
+.rating-glance .muted { color: var(--muted); font-size: .88rem; }
+.rating-glance .glance-links { list-style: none; margin: .6rem 0; padding: 0; }
+.rating-glance .glance-links li { margin: .45rem 0; font-size: .92rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
-.rating-glance .glance-flag { flex-direction: column; align-items: flex-start; gap: .3rem; }
-.rating-glance .glance-flag p { color: var(--muted); }
+.rating-glance .glance-flag { display: flex; flex-direction: column; align-items: flex-start; gap: .3rem; margin: .5rem 0 .8rem; padding-bottom: .6rem; border-bottom: 1px solid var(--line); }
+.rating-glance .glance-flag p { margin: 0; color: var(--muted); font-size: .88rem; }
 
-/* Below-stars review caveats */
+/* Review-reading caveats, shown beneath the review platform links */
 .review-caveats { margin: .7rem 0 0; }
 .review-caveats .rc-lead { margin: .2rem 0 .4rem; font-weight: 600; font-size: .95rem; }
 .review-caveats ul { margin: .2rem 0; padding-left: 1.1rem; }
 .review-caveats li { margin: .4rem 0; font-size: .9rem; }
 .review-caveats .rc-foot { margin: .5rem 0 0; font-size: .92rem; }
 
-/* Bottom-of-page ratings section */
-.ratings-block .rating-card { display: flex; gap: 1.1rem; align-items: flex-start; padding: 1rem 0; border-top: 1px solid var(--line); }
+/* Bottom-of-page ratings & records section */
+.ratings-block .rating-card { padding: 1rem 0; border-top: 1px solid var(--line); }
 .ratings-block .rating-card:first-of-type { border-top: 0; padding-top: .4rem; }
-.rating-badge { flex: 0 0 5.5rem; text-align: center; }
-.rating-badge .stars { display: block; font-size: 1.05rem; letter-spacing: .05em; }
-.rating-num { display: inline-block; font-weight: 700; font-size: .95rem; color: var(--ink); line-height: 1.2; }
 .rating-body h3 { margin: 0 0 .3rem; font-size: 1.05rem; padding-top: 0; border-top: 0; }
 .rating-body p { margin: .3rem 0; font-size: .92rem; }
-.cms-components { margin: .3rem 0; padding-left: 1.1rem; font-size: .92rem; }
-.cms-components li { margin: .15rem 0; }
 .cms-currency { color: var(--muted); font-size: .85rem; }
-@media (max-width: 34rem) {
-  .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
-  .rating-badge { text-align: left; flex-basis: auto; }
-}
+.btn-link { display: inline-block; font-weight: 600; }
+.review-link-list { list-style: none; margin: .5rem 0; padding: 0; }
+.review-link-list li { margin: .4rem 0; }
 
-/* Tier-differentiated footer notices */
+/* Confirmed regulatory-flag notice */
 .tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
 .tier-notice-danger a { color: var(--accent); }
 .tnd-head { margin-top: 0; }
@@ -324,13 +306,17 @@ tbody tr:hover { background: var(--soft); }
 
     <aside>
       <section class="panel rating-glance" aria-labelledby="glance-h">
-  <h2 id="glance-h">Rating at a glance</h2>
-  <div class="glance-row">
-    <p><strong>Family &amp; resident reviews</strong><br>
-    <span class="muted">See the review evidence, ratings, and sources below.</span></p>
-  </div>
+  <h2 id="glance-h">Ratings &amp; reviews</h2>
+  <p class="muted">We don't show a star rating ourselves — find it directly at the source:</p>
 
-  <p class="glance-link"><a href="#ratings-h">What these ratings mean &amp; where they come from &darr;</a></p>
+  <ul class="glance-links">
+    <li><a href="https://www.ccld.dss.ca.gov/carefacilitysearch/" rel="noopener">California Department of Social Services, Community Care Licensing Division</a> <span class="muted">— state license &amp; inspections</span></li>
+    <li><a href="https://www.aplaceformom.com/community/bay-towers-at-bixby-knolls-54465" rel="nofollow noopener">A Place for Mom</a> <span class="muted">— family &amp; resident reviews</span></li>
+    <li><a href="https://birdeye.com/bay-towers-at-bixby-knolls-169341834506799" rel="nofollow noopener">Birdeye</a> <span class="muted">— family &amp; resident reviews</span></li>
+    <li><a href="https://www.google.com/search?q=Bay+Towers+at+Bixby+Knolls+Long+Beach+CA+reviews" rel="nofollow noopener">Search for more reviews</a> <span class="muted">— Google</span></li>
+  </ul>
+
+  <p class="glance-link"><a href="#ratings-h">Full ratings &amp; records section &darr;</a></p>
 </section>
 
 
@@ -359,37 +345,37 @@ tbody tr:hover { background: var(--soft); }
 
   <section class="panel ratings-block" aria-labelledby="ratings-h">
   <h2 id="ratings-h">Ratings &amp; official records</h2>
-  <p>Here is every rating we found for Bay Towers at Bixby Knolls — who assigns each one and what it
-  actually measures — so you can weigh it for what it's worth. No single number decides a good
-  fit; use these to build questions, then trust your own visit.</p>
+  <p>We don't publish a star rating or numeric score for Bay Towers at Bixby Knolls ourselves — ratings
+  change, and a wrong number here would be worse than none. Instead, here's exactly where to find
+  the real ones, straight from the source.</p>
   <div class="rating-card">
-    <div class="rating-badge"><span class="rating-num">State-<br>licensed</span></div>
     <div class="rating-body">
       <h3>State license &amp; inspections</h3>
       <p><strong>Who assigns it:</strong> California — not Medicare. Assisted living,
       memory care, and small care homes have no federal star rating; the state licenses and
       inspects them. <strong>What it covers:</strong> license status, inspection findings, and
       substantiated complaints.</p>
-      <p><a href="https://www.ccld.dss.ca.gov/carefacilitysearch/" rel="noopener">Look up this community at the California Department of Social Services, Community Care Licensing Division</a> ·
-      <a href="/guides/checking-complaints-and-state-records/">How to read the record fairly</a></p>
+      <p><a class="btn-link" href="https://www.ccld.dss.ca.gov/carefacilitysearch/" rel="noopener">Look up Bay Towers at Bixby Knolls at the California Department of Social Services, Community Care Licensing Division &rarr;</a></p>
+      <p class="cms-currency"><a href="/guides/checking-complaints-and-state-records/">How to read the state record fairly</a></p>
     </div>
   </div>
+
   <div class="rating-card">
-    <div class="rating-badge"><span class="rating-num">Family<br>reviews</span>
-    </div>
     <div class="rating-body">
       <h3>Family &amp; resident reviews</h3>
       <p><strong>Who writes it:</strong> families and residents, on public review sites.
       <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
-      inspections. Read the recent ones and the middle-star ones, not just the average.</p>
-      <p><strong>Read the reviews
-      yourself:</strong> <a href="https://www.aplaceformom.com/community/bay-towers-at-bixby-knolls-54465" rel="nofollow noopener">A Place for Mom</a> · <a href="https://birdeye.com/bay-towers-at-bixby-knolls-169341834506799" rel="nofollow noopener">Birdeye</a> — that's where the
-      actual reviews live; we only show the aggregate rating here.</p>
+      inspections.</p>
+      <ul class="review-link-list">
+        <li><a class="btn-link" href="https://www.aplaceformom.com/community/bay-towers-at-bixby-knolls-54465" rel="nofollow noopener">Read Bay Towers at Bixby Knolls's reviews on A Place for Mom &rarr;</a></li>
+        <li><a class="btn-link" href="https://birdeye.com/bay-towers-at-bixby-knolls-169341834506799" rel="nofollow noopener">Read Bay Towers at Bixby Knolls's reviews on Birdeye &rarr;</a></li>
+        <li><a class="btn-link" href="https://www.google.com/search?q=Bay+Towers+at+Bixby+Knolls+Long+Beach+CA+reviews" rel="nofollow noopener">Search for more reviews of Bay Towers at Bixby Knolls &rarr;</a></li>
+      </ul>
       <div class="review-caveats">
-  <p class="rc-lead">A star average is a starting point, not a verdict. We don't write these reviews,
-  verify what they say, or investigate the community ourselves — we aggregate public ratings and
-  point you to where they live so you can do your own research. Before you weigh a number, know
-  what it can hide:</p>
+  <p class="rc-lead">Whatever star average you find on those sites is a starting point, not a
+  verdict. We don't write these reviews, verify what they say, or investigate the community
+  ourselves — that's exactly why we send you to the source instead of showing you a number. Before
+  you weigh what you find, know what it can hide:</p>
   <ul>
     <li><strong>Who writes them.</strong> Usually adult children, not the resident — so reviews capture communication, billing, and first impressions more than the texture of daily care. <a href="/guides/interpreting-online-reviews/#who-writes-reviews">More&nbsp;&rarr;</a></li>
     <li><strong>Emotion moves the score.</strong> People post when they're delighted or furious; the quietly satisfied middle rarely does, and reviews written in grief, guilt, or relief carry that charge. The calm three-star reviews usually hold the real trade-offs. <a href="/guides/interpreting-online-reviews/#the-emotion-behind-a-review">More&nbsp;&rarr;</a></li>
@@ -402,9 +388,9 @@ tbody tr:hover { background: var(--soft); }
 
     </div>
   </div>
-  <p class="count">This community's record clears the 3-star / 4.2 line we use to sort listings — our own editorial choice, not an independently validated clinical or safety standard. We list every community we
-  can verify, not just the highest-rated ones, and sort by that line instead of hiding what falls
-  short of it. <a href="/guides/how-we-list-communities/">Why every community is listed, and what our labels mean &rarr;</a></p>
+
+  <p class="count">We link you to primary sources instead of showing a rating ourselves —
+  <a href="/guides/how-we-list-communities/">why, and how to use what you find</a>.</p>
 </section>
 
   <section aria-labelledby="nearby-h">
@@ -412,8 +398,7 @@ tbody tr:hover { background: var(--soft); }
     <ul class="grid">
       <li class="card">
   <h3><a href="/directory/california/los-angeles-county/long-beach/alamitos-belmont-health-and-rehabilitation/">Alamitos Belmont Health and Rehabilitation</a></h3>
-  <p class="meta">Long Beach, CA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
- <span class="rate-src">Medicare</span></p>
+  <p class="meta">Long Beach, CA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>

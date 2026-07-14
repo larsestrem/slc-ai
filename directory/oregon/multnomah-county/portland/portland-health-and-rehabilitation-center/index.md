@@ -18,11 +18,11 @@ phone: "(503) 255-7040"
 care_levels: ["skilled-nursing", "memory-care"]
 facility_size: "large"
 capacity: 105
+cms_ccn: "385228"
 cms_rating_overall: 2
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385228/", "https://www.ohca.com/facility-finder/portland-health-and-rehabilitation-center/", "https://ltclicensing.oregon.gov/Facilities/Details/385228"]
 verified_date: "2026-07-13"
 review_note: "Aggregator sources report a component breakdown of health inspection 2 stars, staffing 4 stars, and quality measures 3 stars (overall 2 stars); the facility has paid 2 fines totaling $63,023 over the last three years. Reviews describe caring individual staff alongside reports of understaffing and slow call-light response. Confirm the current rating at medicare.gov/care-compare (accessed July 2026)."
 quality_tier: "below_standard"
 description_full: "Portland Health and Rehabilitation Center is a 105-bed Medicare- and Medicaid-certified skilled nursing facility in outer Southeast Portland offering short-term rehabilitation, long-term nursing care, and a memory care option."
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

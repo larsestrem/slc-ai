@@ -122,7 +122,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--line); }
+.stars .off { color: var(--muted); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
 
@@ -131,10 +131,6 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .tier-badge.tier-meets_standard { color: var(--good); }
 .tier-badge.tier-below_standard { color: var(--warn); }
 .tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
-.stars .half { color: var(--gold); }
-@supports ((-webkit-background-clip: text) or (background-clip: text)) {
-  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
-}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -322,7 +318,7 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
 </ul>
-<p class="desc">A 28-bed assisted living community on Klaskanine Avenue in Astoria, also offering respite and short-term stays. Reviewers consistently pr...</p>
+<p class="desc">A 28-bed assisted living community on Klaskanine Avenue in Astoria, also offering respite and short-term stays. Part of the national Trus...</p>
 </li>
 
       </ul>
@@ -362,7 +358,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="coos-bay">
   <h3><a href="/directory/oregon/coos-county/coos-bay/life-care-center-of-coos-bay/">Life Care Center of Coos Bay</a></h3>
-  <p class="meta">Coos Bay, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Coos Bay, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -428,7 +424,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="seaside">
   <h3><a href="/directory/oregon/clatsop-county/seaside/neawanna-by-the-sea/">Neawanna by the Sea</a></h3>
-  <p class="meta">Seaside, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+  <p class="meta">Seaside, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">

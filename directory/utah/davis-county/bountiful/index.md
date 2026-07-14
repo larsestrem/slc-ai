@@ -9,6 +9,6 @@ county_name: "Davis"
 state_name: "Utah"
 state_abbrev: "UT"
 facility_count: 1
-facilities: [{"name": "Legacy House of Bountiful", "url": "/directory/utah/davis-county/bountiful/legacy-house-of-bountiful/", "city_name": "Bountiful", "state_abbrev": "UT", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Legacy House of Bountiful provides assisted living and memory care in downtown Bountiful. Reviewers highlight the community feel, activity program, and staff who learn residents' names and offer individualized support."}]
+facilities: [{"name": "Legacy House of Bountiful", "url": "/directory/utah/davis-county/bountiful/legacy-house-of-bountiful/", "city_name": "Bountiful", "state_abbrev": "UT", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Legacy House of Bountiful provides assisted living and memory care in downtown Bountiful."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Davis County", "url": "/directory/utah/davis-county/"}, {"name": "Bountiful", "url": "/directory/utah/davis-county/bountiful/"}]
 ---

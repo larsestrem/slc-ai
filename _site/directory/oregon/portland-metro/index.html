@@ -122,7 +122,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--line); }
+.stars .off { color: var(--muted); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
 
@@ -131,10 +131,6 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .tier-badge.tier-meets_standard { color: var(--good); }
 .tier-badge.tier-below_standard { color: var(--warn); }
 .tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
-.stars .half { color: var(--gold); }
-@supports ((-webkit-background-clip: text) or (background-clip: text)) {
-  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
-}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -398,6 +394,17 @@ We list every community we can verify, not just the highest-rated —
 </li>
 
         <li class="card" data-city="beaverton">
+  <h3><a href="/directory/oregon/washington-county/beaverton/maryville-nursing-home/">Maryville Nursing Home</a></h3>
+  <p class="meta">Beaverton, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
+ <span class="rate-src">Medicare</span></p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+<p class="desc">Maryville Nursing Home is a 165-bed Medicare- and Medicaid-certified skilled nursing facility in Beaverton, sponsored by the Sisters of S...</p>
+</li>
+
+        <li class="card" data-city="beaverton">
   <h3><a href="/directory/oregon/washington-county/beaverton/summer-crest-ach/">Summer Crest A.C.H.</a></h3>
   <p class="meta">Beaverton, OR · Small home</p>
   
@@ -420,17 +427,6 @@ We list every community we can verify, not just the highest-rated —
 <p class="desc">The Springs at Murrayhill, formerly Hearthstone at Murrayhill, is a senior living community in Beaverton's Murrayhill neighborhood servin...</p>
 </li>
 
-        <li class="card" data-city="beaverton">
-  <h3><a href="/directory/oregon/washington-county/beaverton/maryville-nursing-home/">Maryville Nursing Home</a></h3>
-  <p class="meta">Beaverton, OR · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
- <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
-  
-<ul class="badges" aria-label="Care levels offered">
-  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
-</ul>
-<p class="desc">Maryville Nursing Home is a 165-bed Medicare- and Medicaid-certified skilled nursing facility in Beaverton, sponsored by the Sisters of S...</p>
-</li>
-
       </ul>
     </section>
     <section aria-labelledby="c-canby">
@@ -438,7 +434,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="canby">
   <h3><a href="/directory/oregon/clackamas-county/canby/rackleff-place/">Rackleff Place</a></h3>
-  <p class="meta">Canby, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+  <p class="meta">Canby, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -459,7 +455,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="canby">
   <h3><a href="/directory/oregon/clackamas-county/canby/hope-village/">Hope Village</a></h3>
-  <p class="meta">Canby, OR · <span class="stars" role="img" aria-label="4.0 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">Canby, OR · <span class="stars" role="img" aria-label="4.0 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">reviews</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -535,7 +531,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="gresham">
   <h3><a href="/directory/oregon/multnomah-county/gresham/gresham-post-acute-care-and-rehabilitation/">Gresham Post Acute Care and Rehabilitation</a></h3>
-  <p class="meta">Gresham, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">★</span><span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Gresham, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -589,7 +585,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="hillsboro">
   <h3><a href="/directory/oregon/washington-county/hillsboro/avamere-rehabilitation-of-hillsboro/">Avamere Rehabilitation of Hillsboro</a></h3>
-  <p class="meta">Hillsboro, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Hillsboro, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -617,7 +613,7 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
-<p class="desc">A retirement and assisted living residence in central Hillsboro with 75 licensed assisted living beds that also accepts Medicaid. Reviewe...</p>
+<p class="desc">A retirement and assisted living residence in central Hillsboro with 75 licensed assisted living beds that also accepts Medicaid.</p>
 </li>
 
         <li class="card" data-city="hillsboro">
@@ -692,7 +688,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="mcminnville">
   <h3><a href="/directory/oregon/yamhill-county/mcminnville/vineyard-heights-assisted-living-and-retirement-cottages/">Vineyard Heights Assisted Living and Retirement Cottages</a></h3>
-  <p class="meta">McMinnville, OR · <span class="stars" role="img" aria-label="4.2 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">McMinnville, OR · <span class="stars" role="img" aria-label="4.2 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -729,7 +725,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="mcminnville">
   <h3><a href="/directory/oregon/yamhill-county/mcminnville/prestige-post-acute-and-rehabilitation-center-mcminnville/">Prestige Post-Acute and Rehabilitation Center - McMinnville</a></h3>
-  <p class="meta">McMinnville, OR · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">McMinnville, OR · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -874,7 +870,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="portland">
   <h3><a href="/directory/oregon/multnomah-county/portland/marquis-centennial-post-acute-rehab/">Marquis Centennial Post Acute Rehab</a></h3>
-  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -933,7 +929,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="portland">
   <h3><a href="/directory/oregon/multnomah-county/portland/robison-jewish-health-center/">Robison Jewish Health Center</a></h3>
-  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -1084,7 +1080,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="portland">
   <h3><a href="/directory/oregon/multnomah-county/portland/portland-health-and-rehabilitation-center/">Portland Health and Rehabilitation Center</a></h3>
-  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Portland, OR · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -1139,7 +1135,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="tigard">
   <h3><a href="/directory/oregon/washington-county/tigard/tigard-rehabilitation-and-care/">Tigard Rehabilitation and Care</a></h3>
-  <p class="meta">Tigard, OR · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Tigard, OR · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -1171,7 +1167,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="wilsonville">
   <h3><a href="/directory/oregon/clackamas-county/wilsonville/marquis-wilsonville-post-acute-rehab/">Marquis Wilsonville Post Acute Rehab</a></h3>
-  <p class="meta">Wilsonville, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Wilsonville, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">

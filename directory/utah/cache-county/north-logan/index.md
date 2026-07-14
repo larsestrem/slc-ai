@@ -9,6 +9,6 @@ county_name: "Cache"
 state_name: "Utah"
 state_abbrev: "UT"
 facility_count: 1
-facilities: [{"name": "The Gables of North Logan", "url": "/directory/utah/cache-county/north-logan/the-gables-of-north-logan/", "city_name": "North Logan", "state_abbrev": "UT", "care_levels": ["assisted-living", "memory-care", "respite-care"], "quality_tier": "unrated", "facility_size": "medium", "description": "The Gables of North Logan provides assisted living, memory care, and respite care in a small, home-like setting in Cache Valley. Reviewers frequently mention the building's intimate feel and say the small resident count allows for one-on-one attention."}]
+facilities: [{"name": "The Gables of North Logan", "url": "/directory/utah/cache-county/north-logan/the-gables-of-north-logan/", "city_name": "North Logan", "state_abbrev": "UT", "care_levels": ["assisted-living", "memory-care", "respite-care"], "quality_tier": "unrated", "facility_size": "medium", "description": "The Gables of North Logan provides assisted living, memory care, and respite care in a small, home-like setting in Cache Valley."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Cache County", "url": "/directory/utah/cache-county/"}, {"name": "North Logan", "url": "/directory/utah/cache-county/north-logan/"}]
 ---

@@ -5,7 +5,7 @@ title: "Merrill Gardens at Rockridge"
 seo_title: "Merrill Gardens at Rockridge — Senior Living in Oakland, CA"
 description: "Newer senior living community in Oakland's Rockridge neighborhood offering independent living, assisted living, and memory care, with architecture designed to"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Merrill Gardens at Rockridge", "url": "/directory/california/alameda-county/oakland/merrill-gardens-at-rockridge/"}]
-nearby: [{"name": "St. Paul's Towers", "url": "/directory/california/alameda-county/oakland/st-pauls-towers/", "city_name": "Oakland", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "skilled-nursing", "ccrc"], "quality_tier": "meets_standard", "facility_size": "large", "cms_rating_overall": 5, "description": "A high-rise life plan community overlooking Lake Merritt in Oakland, operated by nonprofit Front Porch. Offers independent living, assisted living, and an on-site skilled nursing center rated 5 out of 5 overall by U.S. News with High Performing short-term rehab. Reviewers describe a clean, well-run building with caring staff and highly praised food; pricing runs high for the area."}]
+nearby: [{"name": "St. Paul's Towers", "url": "/directory/california/alameda-county/oakland/st-pauls-towers/", "city_name": "Oakland", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "skilled-nursing", "ccrc"], "quality_tier": "meets_standard", "facility_size": "large", "cms_rating_overall": 5, "description": "A high-rise life plan community overlooking Lake Merritt in Oakland, operated by nonprofit Front Porch. Offers independent living, assisted living, and an on-site skilled nursing center rated 5 out of 5 overall by U.S. News with High Performing short-term rehab."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"
@@ -24,7 +24,7 @@ sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-rockridge-1
 verified_date: "2026-07-12"
 review_note: "4.3/5 overall experience across 18 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Newer senior living community in Oakland's Rockridge neighborhood offering independent living, assisted living, and memory care, with architecture designed to match the classic character of the area. Located close to the dining and retail of College Avenue and BART. Reviewers highlight the bright, modern building, rooftop garden spaces, and active social calendar."
+description_full: "Newer senior living community in Oakland's Rockridge neighborhood offering independent living, assisted living, and memory care, with architecture designed to match the classic character of the area. Located close to the dining and retail of College Avenue and BART."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-rockridge-1400546"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-rockridge-oakland"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

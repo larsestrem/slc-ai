@@ -2,7 +2,7 @@
 layout: "facility"
 title: "Merrill Gardens at Renton Centre"
 seo_title: "Merrill Gardens at Renton Centre — Senior Living in Renton, WA"
-description: "Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care. Winner of the Best of Renton award"
+description: "Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Merrill Gardens at Renton Centre", "url": "/directory/washington/king-county/renton/merrill-gardens-at-renton-centre/"}]
 nearby: [{"name": "Greenlake Senior Living Renton", "url": "/directory/washington/king-county/renton/greenlake-senior-living-renton/", "city_name": "Renton", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "medium", "description": "Greenlake Senior Living Renton (also marketed as Renton Assisted Living) is an assisted living and memory care community at 71 SW Victoria St in Renton, located near the south end of Lake Washington and managed by Brookdale-affiliated ownership. It offers private and companion apartments."}]
 state: "washington"
@@ -22,7 +22,7 @@ sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-renton-cent
 verified_date: "2026-07-12"
 review_note: "9.2/10 A Place for Mom review score with 36 all-time APFM reviews; also 23 reviews on Yelp (July 2026)"
 quality_tier: "unrated"
-description_full: "Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care. Winner of the Best of Renton award for thirteen consecutive years, with reviewers praising the chef-led anytime dining, robust activity calendar, and hotel-like cleanliness."
+description_full: "Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-renton-centre-138586"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-renton-centre-renton-3"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

@@ -9,6 +9,6 @@ county_name: "Placer"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "WellQuest of Granite Bay", "url": "/directory/california/placer-county/granite-bay/wellquest-of-granite-bay/", "city_name": "Granite Bay", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "medium", "description": "Newer assisted living and memory care community on Sierra College Boulevard in Granite Bay. Reviewers highlight the cleanliness, exceptional staff and quality dining, with a wide range of activities keeping residents engaged."}]
+facilities: [{"name": "WellQuest of Granite Bay", "url": "/directory/california/placer-county/granite-bay/wellquest-of-granite-bay/", "city_name": "Granite Bay", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "facility_size": "medium", "description": "Newer assisted living and memory care community on Sierra College Boulevard in Granite Bay."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Placer County", "url": "/directory/california/placer-county/"}, {"name": "Granite Bay", "url": "/directory/california/placer-county/granite-bay/"}]
 ---

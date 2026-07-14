@@ -24,7 +24,7 @@ sources: ["https://www.aplaceformom.com/community/ivy-park-at-huntington-beach-9
 verified_date: "2026-07-12"
 review_note: "4.2/5 across 63 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Assisted living and memory care community on Yorktown Avenue, about two miles from the Huntington Beach shoreline; formerly Sunrise of Huntington Beach and now part of the Ivy Living portfolio. Reviewers highlight the executive director's leadership, attentive med-tech and caregiving staff, and an inviting, recently refreshed interior."
+description_full: "Assisted living and memory care community on Yorktown Avenue, about two miles from the Huntington Beach shoreline; formerly Sunrise of Huntington Beach and now part of the Ivy Living portfolio."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/ivy-park-at-huntington-beach-97674"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/ivy-park-at-huntington-beach-huntington-beach"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

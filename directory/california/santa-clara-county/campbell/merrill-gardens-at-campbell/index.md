@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "Merrill Gardens at Campbell"
 seo_title: "Merrill Gardens at Campbell — Senior Living in Campbell, CA"
-description: "Senior living community in downtown Campbell offering independent living, assisted living, and memory care. Reviewers emphasize the newer, bright, well-mainta"
+description: "Senior living community in downtown Campbell offering independent living, assisted living, and memory care. Rated the highest of the senior communities in Cam"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Merrill Gardens at Campbell", "url": "/directory/california/santa-clara-county/campbell/merrill-gardens-at-campbell/"}]
 nearby: []
 state: "california"
@@ -24,7 +24,7 @@ sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-campbell-13
 verified_date: "2026-07-12"
 review_note: "4.2/5 overall experience across 20 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Senior living community in downtown Campbell offering independent living, assisted living, and memory care. Reviewers emphasize the newer, bright, well-maintained building and spacious apartments, many with full kitchens, in-unit washer/dryers, and walk-in closets. Rated the highest of the senior communities in Campbell by My Caring Plan."
+description_full: "Senior living community in downtown Campbell offering independent living, assisted living, and memory care. Rated the highest of the senior communities in Campbell by My Caring Plan."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-campbell-1353624"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-campbell-campbell-5"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

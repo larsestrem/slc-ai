@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "Fairwinds - Ivey Ranch"
 seo_title: "Fairwinds - Ivey Ranch — Senior Living in Oceanside, CA"
-description: "Fairwinds - Ivey Ranch is a Leisure Care retirement community in Oceanside offering independent living and assisted living. It has been named among U.S. News "
+description: "Fairwinds - Ivey Ranch is a Leisure Care retirement community in Oceanside offering independent living and assisted living. It has been named among U.S."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Fairwinds - Ivey Ranch", "url": "/directory/california/san-diego-county/oceanside/fairwinds-ivey-ranch/"}]
 nearby: []
 state: "california"
@@ -26,7 +26,7 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.3/5 across 25 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Fairwinds - Ivey Ranch is a Leisure Care retirement community in Oceanside offering independent living and assisted living. It has been named among U.S. News & World Report's Best Independent Living and Best Assisted Living communities, with reviewers highlighting attentive staff and quality amenities."
+description_full: "Fairwinds - Ivey Ranch is a Leisure Care retirement community in Oceanside offering independent living and assisted living. It has been named among U.S."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fairwinds-ivey-ranch-97146"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/fairwinds-ivey-ranch-1341"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

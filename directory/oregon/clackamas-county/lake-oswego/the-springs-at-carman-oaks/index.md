@@ -22,7 +22,7 @@ organization_name: "The Springs Living"
 sources: ["https://www.thespringsliving.com/senior-living/lake-oswego/oregon/carman-oaks", "https://www.caring.com/senior-living/oregon/lake-oswego/the-springs-at-carman-oaks-97035", "https://www.aplaceformom.com/community/the-springs-at-carman-oaks-59721"]
 verified_date: "2026-07-11"
 quality_tier: "unrated"
-description_full: "The Springs at Carman Oaks is a resort-style senior living community in Lake Oswego offering independent living, assisted living, and memory care. Amenities include a swimming pool and spa, wellness and fitness center, theater, chef-driven flexible dining, and Fancho's Public House. Reviewers frequently compare the setting to a luxury hotel, though it is priced at the higher end of the local market."
+description_full: "The Springs at Carman Oaks is a resort-style senior living community in Lake Oswego offering independent living, assisted living, and memory care. Amenities include a swimming pool and spa, wellness and fitness center, theater, chef-driven flexible dining, and Fancho's Public House."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/lake-oswego/the-springs-at-carman-oaks-97035"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-springs-at-carman-oaks-59721"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

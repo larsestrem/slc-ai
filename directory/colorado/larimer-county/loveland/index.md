@@ -9,6 +9,6 @@ county_name: "Larimer"
 state_name: "Colorado"
 state_abbrev: "CO"
 facility_count: 1
-facilities: [{"name": "Seven Lakes Memory Care", "url": "/directory/colorado/larimer-county/loveland/seven-lakes-memory-care/", "city_name": "Loveland", "state_abbrev": "CO", "care_levels": ["memory-care"], "quality_tier": "unrated", "description": "Seven Lakes Memory Care is a dedicated memory care community on the shore of Horseshoe Lake in north Loveland, serving residents with Alzheimer's disease and other dementias. Reviewers consistently praise the compassionate staff, home-like environment, and engaging daily activities."}]
+facilities: [{"name": "Seven Lakes Memory Care", "url": "/directory/colorado/larimer-county/loveland/seven-lakes-memory-care/", "city_name": "Loveland", "state_abbrev": "CO", "care_levels": ["memory-care"], "quality_tier": "unrated", "description": "Seven Lakes Memory Care is a dedicated memory care community on the shore of Horseshoe Lake in north Loveland, serving residents with Alzheimer's disease and other dementias."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Larimer County", "url": "/directory/colorado/larimer-county/"}, {"name": "Loveland", "url": "/directory/colorado/larimer-county/loveland/"}]
 ---

@@ -9,6 +9,6 @@ county_name: "Los Angeles"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "Claremont Manor", "url": "/directory/california/los-angeles-county/claremont/claremont-manor/", "city_name": "Claremont", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "quality_tier": "unrated", "facility_size": "large", "description": "Claremont Manor is a continuing care retirement community operated by the not-for-profit Front Porch organization, blocks from the Claremont Colleges. Reviewers highlight its active social and intellectual life, pool and fitness programming, and recently remodeled, resort-like grounds."}]
+facilities: [{"name": "Claremont Manor", "url": "/directory/california/los-angeles-county/claremont/claremont-manor/", "city_name": "Claremont", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "quality_tier": "unrated", "facility_size": "large", "description": "Claremont Manor is a continuing care retirement community operated by the not-for-profit Front Porch organization, blocks from the Claremont Colleges."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Angeles County", "url": "/directory/california/los-angeles-county/"}, {"name": "Claremont", "url": "/directory/california/los-angeles-county/claremont/"}]
 ---

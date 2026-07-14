@@ -2,7 +2,7 @@
 layout: "facility"
 title: "Fairwinds - Brittany Park"
 seo_title: "Fairwinds - Brittany Park — Senior Living in Woodinville, WA"
-description: "Fairwinds - Brittany Park is a Leisure Care retirement community in the heart of Woodinville offering independent living and assisted living. U.S. News named "
+description: "Fairwinds - Brittany Park is a Leisure Care retirement community in the heart of Woodinville offering independent living and assisted living. U.S."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Fairwinds - Brittany Park", "url": "/directory/washington/king-county/woodinville/fairwinds-brittany-park/"}]
 nearby: []
 state: "washington"
@@ -24,7 +24,7 @@ sources: ["https://www.aplaceformom.com/community/fairwinds-brittany-park-71353"
 verified_date: "2026-07-12"
 review_note: "4.7/5 overall experience across 32 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Fairwinds - Brittany Park is a Leisure Care retirement community in the heart of Woodinville offering independent living and assisted living. U.S. News named it a Best Senior Living community for both assisted living and independent living based on resident and family surveys, and reviewers highlight the activity program and attentive staff."
+description_full: "Fairwinds - Brittany Park is a Leisure Care retirement community in the heart of Woodinville offering independent living and assisted living. U.S."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fairwinds-brittany-park-71353"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/fairwinds-brittany-park-1462"}]
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

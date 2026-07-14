@@ -122,7 +122,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--line); }
+.stars .off { color: var(--muted); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
 
@@ -131,10 +131,6 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .tier-badge.tier-meets_standard { color: var(--good); }
 .tier-badge.tier-below_standard { color: var(--warn); }
 .tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
-.stars .half { color: var(--gold); }
-@supports ((-webkit-background-clip: text) or (background-clip: text)) {
-  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
-}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -313,7 +309,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="ashland">
   <h3><a href="/directory/oregon/jackson-county/ashland/ashland-post-acute/">Ashland Post Acute</a></h3>
-  <p class="meta">Ashland, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Ashland, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -341,7 +337,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="grants-pass">
   <h3><a href="/directory/oregon/josephine-county/grants-pass/highland-house-nursing-and-rehabilitation-center/">Highland House Nursing and Rehabilitation Center</a></h3>
-  <p class="meta">Grants Pass, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">★</span><span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Grants Pass, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -357,7 +353,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="klamath-falls">
   <h3><a href="/directory/oregon/klamath-county/klamath-falls/marquis-plum-ridge-post-acute-rehab/">Marquis Plum Ridge Post Acute Rehab</a></h3>
-  <p class="meta">Klamath Falls, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">Klamath Falls, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -430,7 +426,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="medford">
   <h3><a href="/directory/oregon/jackson-county/medford/farmington-square-medford/">Farmington Square Medford</a></h3>
-  <p class="meta">Medford, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+  <p class="meta">Medford, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -500,7 +496,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="medford">
   <h3><a href="/directory/oregon/jackson-county/medford/hearthstone-nursing-and-rehabilitation-center/">Hearthstone Nursing and Rehabilitation Center</a></h3>
-  <p class="meta">Medford, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">★</span><span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Medford, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-serious_concerns">Serious concerns</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -516,7 +512,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="roseburg">
   <h3><a href="/directory/oregon/douglas-county/roseburg/callahan-court-memory-care/">Callahan Court Memory Care</a></h3>
-  <p class="meta">Roseburg, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+  <p class="meta">Roseburg, OR · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">

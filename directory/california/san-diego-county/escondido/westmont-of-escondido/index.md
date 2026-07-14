@@ -25,7 +25,7 @@ sources: ["https://www.aplaceformom.com/community/westmont-of-escondido-55255", 
 verified_date: "2026-07-12"
 review_note: "4.4/5 across 69 reviews on A Place for Mom; A Place for Mom review score 9.6/10 on 26 reviews in the last 2 years (July 2026)"
 quality_tier: "unrated"
-description_full: "Downtown Escondido senior community, long known as Westmont Town Court, offering independent living, assisted living, and memory care. Includes three daily meals, weekly housekeeping, scheduled transportation, and group fitness and music programming. Reviewers describe a clean, friendly, walkable-neighborhood feel and strong value for North County San Diego."
+description_full: "Downtown Escondido senior community, long known as Westmont Town Court, offering independent living, assisted living, and memory care. Includes three daily meals, weekly housekeeping, scheduled transportation, and group fitness and music programming."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/westmont-of-escondido-55255"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/westmont-of-escondido-escondido"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

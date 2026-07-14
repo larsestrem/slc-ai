@@ -123,7 +123,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--line); }
+.stars .off { color: var(--muted); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
 
@@ -132,10 +132,6 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .tier-badge.tier-meets_standard { color: var(--good); }
 .tier-badge.tier-below_standard { color: var(--warn); }
 .tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
-.stars .half { color: var(--gold); }
-@supports ((-webkit-background-clip: text) or (background-clip: text)) {
-  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
-}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -268,7 +264,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/washington/spokane-county/spokane/south-hill-rehabilitation-and-care-center/">South Hill Rehabilitation and Care Center</a></h3>
-  <p class="meta">Spokane, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">Spokane, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -339,7 +335,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/washington/spokane-county/spokane/franklin-hills-health-and-rehab-center/">Franklin Hills Health & Rehab Center</a></h3>
-  <p class="meta">Spokane, WA · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Spokane, WA · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -350,7 +346,7 @@ We list every community we can verify, not just the highest-rated —
 
     <li class="card">
   <h3><a href="/directory/washington/spokane-county/spokane/spokane-health-and-rehabilitation/">Spokane Health & Rehabilitation</a></h3>
-  <p class="meta">Spokane, WA · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Spokane, WA · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -371,7 +367,7 @@ We list every community we can verify, not just the highest-rated —
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
 </ul>
-<p class="desc">Broadway Court Estates is a family-run independent living community in Spokane Valley. Reviewers repeatedly highlight the cleanliness of ...</p>
+<p class="desc">Broadway Court Estates is a family-run independent living community in Spokane Valley.</p>
 </li>
 
     <li class="card">

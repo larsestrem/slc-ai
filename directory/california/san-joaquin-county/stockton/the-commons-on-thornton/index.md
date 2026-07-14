@@ -5,7 +5,7 @@ title: "The Commons on Thornton"
 seo_title: "The Commons on Thornton — Senior Living in Stockton, CA"
 description: "A 128-bed licensed assisted living and memory care community in north Stockton, named Best Assisted Living and Best Memory Care by U.S. News & World Report. O"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Commons on Thornton", "url": "/directory/california/san-joaquin-county/stockton/the-commons-on-thornton/"}]
-nearby: [{"name": "Oakmont of Brookside", "url": "/directory/california/san-joaquin-county/stockton/oakmont-of-brookside/", "city_name": "Stockton", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Oakmont of Brookside provides assisted living and memory care in Stockton's Brookside neighborhood. Reviewers consistently describe a warm, family-like atmosphere, dedicated staff, and a clean, well-maintained building, with dining quality earning special mention."}]
+nearby: [{"name": "Oakmont of Brookside", "url": "/directory/california/san-joaquin-county/stockton/oakmont-of-brookside/", "city_name": "Stockton", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Oakmont of Brookside provides assisted living and memory care in Stockton's Brookside neighborhood."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "Belmont Village Senior Living Burbank"
 seo_title: "Belmont Village Senior Living Burbank — Senior Living in Burbank, CA"
-description: "Assisted living and memory care community in downtown Burbank operated by Belmont Village Senior Living. U.S. News has named it a Best Senior Living community"
+description: "Assisted living and memory care community in downtown Burbank operated by Belmont Village Senior Living. U.S."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Belmont Village Senior Living Burbank", "url": "/directory/california/los-angeles-county/burbank/belmont-village-senior-living-burbank/"}]
 nearby: []
 state: "california"
@@ -24,7 +24,7 @@ sources: ["https://www.aplaceformom.com/community/belmont-village-burbank-96045"
 verified_date: "2026-07-12"
 review_note: "4.6/5 average overall experience across 43 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Assisted living and memory care community in downtown Burbank operated by Belmont Village Senior Living. U.S. News has named it a Best Senior Living community for assisted living and memory care based on resident and family surveys; reviewers consistently praise attentive staff and programming while noting premium pricing, with assisted living studios starting around $6,100 per month."
+description_full: "Assisted living and memory care community in downtown Burbank operated by Belmont Village Senior Living. U.S."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/belmont-village-burbank-96045"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/belmont-village-burbank-1046"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

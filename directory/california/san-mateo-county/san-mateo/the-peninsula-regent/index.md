@@ -20,7 +20,7 @@ sources: ["https://reviews.birdeye.com/the-peninsula-regent-169282299158744", "h
 verified_date: "2026-07-12"
 review_note: "4.4/5 across 25 reviews on Birdeye; 4.5/5 across 54 ratings on Senior Care Authority (July 2026)"
 quality_tier: "unrated"
-description_full: "An owner-occupied independent living community for seniors in downtown San Mateo, steps from shops and restaurants on Baldwin Avenue. Residents own their residences and share amenities including a pool, a gym with personal trainers, and daily dining. Reviewers consistently praise the location, cleanliness, and amenities."
+description_full: "An owner-occupied independent living community for seniors in downtown San Mateo, steps from shops and restaurants on Baldwin Avenue. Residents own their residences and share amenities including a pool, a gym with personal trainers, and daily dining."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/the-peninsula-regent-169282299158744"}, {"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/peninsula-regent-the-in-san-mateo-california.html"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-peninsula-regent-san-mateo"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

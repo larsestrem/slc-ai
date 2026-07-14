@@ -123,7 +123,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--line); }
+.stars .off { color: var(--muted); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
 
@@ -132,10 +132,6 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .tier-badge.tier-meets_standard { color: var(--good); }
 .tier-badge.tier-below_standard { color: var(--warn); }
 .tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
-.stars .half { color: var(--gold); }
-@supports ((-webkit-background-clip: text) or (background-clip: text)) {
-  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
-}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -225,6 +221,9 @@ tbody tr:hover { background: var(--soft); }
 .rating-num { display: inline-block; font-weight: 700; font-size: .95rem; color: var(--ink); line-height: 1.2; }
 .rating-body h3 { margin: 0 0 .3rem; font-size: 1.05rem; padding-top: 0; border-top: 0; }
 .rating-body p { margin: .3rem 0; font-size: .92rem; }
+.cms-components { margin: .3rem 0; padding-left: 1.1rem; font-size: .92rem; }
+.cms-components li { margin: .15rem 0; }
+.cms-currency { color: var(--muted); font-size: .85rem; }
 @media (max-width: 34rem) {
   .ratings-block .rating-card { flex-direction: column; gap: .3rem; }
   .rating-badge { text-align: left; flex-basis: auto; }
@@ -410,7 +409,7 @@ tbody tr:hover { background: var(--soft); }
     <ul class="grid">
       <li class="card">
   <h3><a href="/directory/california/stanislaus-county/modesto/dale-commons/">Dale Commons</a></h3>
-  <p class="meta">Modesto, CA · <span class="stars" role="img" aria-label="4.6 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+  <p class="meta">Modesto, CA · <span class="stars" role="img" aria-label="4.6 out of 5 stars">★★★★★</span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">

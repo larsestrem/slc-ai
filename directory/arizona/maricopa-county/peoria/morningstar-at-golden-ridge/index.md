@@ -25,7 +25,7 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.3/5 across 54 reviews on Birdeye (July 2026)"
 quality_tier: "unrated"
-description_full: "MorningStar at Golden Ridge is a newer senior living campus on 8.8 acres in Peoria, serving the Peoria and Glendale area with independent living, assisted living, and memory care. Independent living includes casita-style individual homes with garages, and reviewers consistently describe the staff as friendly, professional, and genuinely caring."
+description_full: "MorningStar at Golden Ridge is a newer senior living campus on 8.8 acres in Peoria, serving the Peoria and Glendale area with independent living, assisted living, and memory care."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/morningstar-senior-living-at-golden-ridge-173507707537619"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/morning-star-at-golden-ridge-1421351"}]
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
 ---

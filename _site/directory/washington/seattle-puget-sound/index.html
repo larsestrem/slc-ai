@@ -122,7 +122,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--line); }
+.stars .off { color: var(--muted); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
 
@@ -131,10 +131,6 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .tier-badge.tier-meets_standard { color: var(--good); }
 .tier-badge.tier-below_standard { color: var(--warn); }
 .tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
-.stars .half { color: var(--gold); }
-@supports ((-webkit-background-clip: text) or (background-clip: text)) {
-  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
-}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -392,7 +388,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="auburn">
   <h3><a href="/directory/washington/king-county/auburn/merrill-gardens-at-auburn/">Merrill Gardens at Auburn</a></h3>
-  <p class="meta">Auburn, WA · <span class="stars" role="img" aria-label="4.5 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+  <p class="meta">Auburn, WA · <span class="stars" role="img" aria-label="4.5 out of 5 stars">★★★★★</span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -484,7 +480,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="bothell">
   <h3><a href="/directory/washington/king-county/bothell/chateau-bothell-landing/">Chateau Bothell Landing</a></h3>
-  <p class="meta">Bothell, WA · <span class="stars" role="img" aria-label="4.5 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+  <p class="meta">Bothell, WA · <span class="stars" role="img" aria-label="4.5 out of 5 stars">★★★★★</span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -525,7 +521,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="des-moines">
   <h3><a href="/directory/washington/king-county/des-moines/judson-park/">Judson Park</a></h3>
-  <p class="meta">Des Moines, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">Des Moines, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -552,7 +548,7 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
-<p class="desc">Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurant...</p>
+<p class="desc">Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurants.</p>
 </li>
 
         <li class="card" data-city="edmonds">
@@ -599,7 +595,7 @@ We list every community we can verify, not just the highest-rated —
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
 </ul>
-<p class="desc">Solista Everett by Cogir (formerly Holiday Cascadian Place) is an all-inclusive independent living community on Colby Avenue in Everett. ...</p>
+<p class="desc">Solista Everett by Cogir (formerly Holiday Cascadian Place) is an all-inclusive independent living community on Colby Avenue in Everett.</p>
 </li>
 
         <li class="card" data-city="everett">
@@ -615,7 +611,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="everett">
   <h3><a href="/directory/washington/snohomish-county/everett/everett-center/">Everett Center</a></h3>
-  <p class="meta">Everett, WA · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">★</span><span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Everett, WA · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -626,7 +622,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="everett">
   <h3><a href="/directory/washington/snohomish-county/everett/everett-plaza/">Everett Plaza</a></h3>
-  <p class="meta">Everett, WA · <span class="stars" role="img" aria-label="2.9 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Everett, WA · <span class="stars" role="img" aria-label="2.9 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">reviews</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -654,7 +650,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="federal-way">
   <h3><a href="/directory/washington/king-county/federal-way/avalon-care-center-federal-way/">Avalon Care Center - Federal Way</a></h3>
-  <p class="meta">Federal Way, WA · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Federal Way, WA · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -692,7 +688,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="issaquah">
   <h3><a href="/directory/washington/king-county/issaquah/providence-marianwood/">Providence Marianwood</a></h3>
-  <p class="meta">Issaquah, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">Issaquah, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -777,7 +773,7 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
 </ul>
-<p class="desc">A 62+ independent and assisted living community that has been a cornerstone of Kent for over 50 years, now part of Stellar Senior Living....</p>
+<p class="desc">A 62+ independent and assisted living community that has been a cornerstone of Kent for over 50 years, now part of Stellar Senior Living.</p>
 </li>
 
       </ul>
@@ -798,14 +794,14 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="kirkland">
   <h3><a href="/directory/washington/king-county/kirkland/madison-house/">Madison House</a></h3>
-  <p class="meta">Kirkland, WA · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+  <p class="meta">Kirkland, WA · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
-<p class="desc">Independent and assisted living community in Kirkland's Totem Lake area, operated by family-owned Koelsch Communities. Located directly a...</p>
+<p class="desc">Independent and assisted living community in Kirkland's Totem Lake area, operated by family-owned Koelsch Communities.</p>
 </li>
 
         <li class="card" data-city="kirkland">
@@ -865,7 +861,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="marysville">
   <h3><a href="/directory/washington/snohomish-county/marysville/marysville-care-center/">Marysville Care Center</a></h3>
-  <p class="meta">Marysville, WA · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Marysville, WA · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -959,7 +955,7 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
-<p class="desc">Independent and assisted living retirement community on Avondale Road in Redmond, managed by Seattle-based Leisure Care. Amenities includ...</p>
+<p class="desc">Independent and assisted living retirement community on Avondale Road in Redmond, managed by Seattle-based Leisure Care.</p>
 </li>
 
       </ul>
@@ -987,7 +983,7 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care. Winner of the...</p>
+<p class="desc">Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care.</p>
 </li>
 
       </ul>
@@ -1008,7 +1004,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="seattle">
   <h3><a href="/directory/washington/king-county/seattle/columbia-lutheran-home/">Columbia Lutheran Home</a></h3>
-  <p class="meta">Seattle, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">Seattle, WA · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -1075,7 +1071,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="seattle">
   <h3><a href="/directory/washington/king-county/seattle/paramount-rehabilitation-and-nursing/">Paramount Rehabilitation and Nursing</a></h3>
-  <p class="meta">Seattle, WA · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Seattle, WA · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-serious_concerns">Serious concerns</span></p>
   
 <ul class="badges" aria-label="Care levels offered">

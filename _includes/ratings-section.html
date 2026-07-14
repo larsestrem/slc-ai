@@ -24,8 +24,19 @@ how the rating is determined.
       quality data is reported by the facility itself — which means a community that documents
       every incident honestly can score lower than one that reports less completely. Read the
       health-inspection detail, not just the summary star.</p>
+      {%- if page.cms_health_inspection_rating or page.cms_staffing_rating or page.cms_quality_measure_rating %}
+      <p><strong>The overall star is a blend of three component ratings</strong> — read them
+      separately, since a facility can be strong on one and weak on another:</p>
+      <ul class="cms-components">
+        {%- if page.cms_health_inspection_rating %}<li>Health inspection: {{ page.cms_health_inspection_rating }} of 5</li>{% endif %}
+        {%- if page.cms_staffing_rating %}<li>Staffing: {{ page.cms_staffing_rating }} of 5</li>{% endif %}
+        {%- if page.cms_quality_measure_rating %}<li>Quality measures: {{ page.cms_quality_measure_rating }} of 5</li>{% endif %}
+      </ul>
+      {%- endif %}
       <p><a href="https://www.medicare.gov/care-compare/details/nursing-home/{{ page.cms_ccn }}" rel="noopener">See the full federal report on Medicare Care Compare</a> ·
       <a href="/guides/reading-inspection-reports-and-ratings/">How these stars are calculated, and their limits</a></p>
+      <p class="cms-currency"><strong>CMS certification number:</strong> {{ page.cms_ccn }}.
+      {%- if page.cms_data_as_of %} Rating current as of CMS's {{ page.cms_data_as_of | date: "%B %Y" }} data release{% else %} We could not confirm the exact CMS data-release date this rating reflects{% endif %} — CMS refreshes ratings monthly, so confirm the current number on Care Compare above before deciding. Our own record was last checked {{ page.verified_date | default: site.data_vintage.last_verified }}, which is not the same as the CMS data date.</p>
     </div>
   </div>
   {%- else %}

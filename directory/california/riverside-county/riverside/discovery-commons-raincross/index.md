@@ -5,7 +5,7 @@ title: "Discovery Commons Raincross"
 seo_title: "Discovery Commons Raincross — Senior Living in Riverside, CA"
 description: "Assisted living and memory care community in Riverside, formerly Raincross at Riverside under Watermark and now part of Discovery Senior Living. U.S. News has"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Discovery Commons Raincross", "url": "/directory/california/riverside-county/riverside/discovery-commons-raincross/"}]
-nearby: [{"name": "Citrus Place", "url": "/directory/california/riverside-county/riverside/citrus-place/", "city_name": "Riverside", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Citrus Place is an MBK Senior Living community in Riverside offering independent living, assisted living and memory care. Reviewers praise the clean, well-maintained environment, variety of activities, on-site store and quality meals. U.S. News lists it among assisted living communities in the area."}]
+nearby: [{"name": "Citrus Place", "url": "/directory/california/riverside-county/riverside/citrus-place/", "city_name": "Riverside", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "quality_tier": "unrated", "description": "Citrus Place is an MBK Senior Living community in Riverside offering independent living, assisted living and memory care. U.S. News lists it among assisted living communities in the area."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

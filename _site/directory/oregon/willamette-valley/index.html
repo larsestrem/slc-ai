@@ -122,7 +122,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--line); }
+.stars .off { color: var(--muted); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
 
@@ -131,10 +131,6 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .tier-badge.tier-meets_standard { color: var(--good); }
 .tier-badge.tier-below_standard { color: var(--warn); }
 .tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
-.stars .half { color: var(--gold); }
-@supports ((-webkit-background-clip: text) or (background-clip: text)) {
-  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
-}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -431,7 +427,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="corvallis">
   <h3><a href="/directory/oregon/benton-county/corvallis/corvallis-manor/">Corvallis Manor</a></h3>
-  <p class="meta">Corvallis, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">★</span><span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Corvallis, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-serious_concerns">Serious concerns</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -481,7 +477,7 @@ We list every community we can verify, not just the highest-rated —
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
 </ul>
-<p class="desc">Angels Aisle Adult Foster is a small Oregon-licensed adult foster home in Eugene serving up to five residents in a single-family setting....</p>
+<p class="desc">Angels Aisle Adult Foster is a small Oregon-licensed adult foster home in Eugene serving up to five residents in a single-family setting.</p>
 </li>
 
         <li class="card" data-city="eugene">
@@ -504,7 +500,7 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">Pine Tree Care is an adult foster home in Eugene offering foster care in a home setting with a garden area and comfortable private rooms....</p>
+<p class="desc">Pine Tree Care is an adult foster home in Eugene offering foster care in a home setting with a garden area and comfortable private rooms.</p>
 </li>
 
         <li class="card" data-city="eugene">
@@ -547,7 +543,7 @@ We list every community we can verify, not just the highest-rated —
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
 </ul>
-<p class="desc">Holiday Sheldon Oaks is an independent living community in Eugene's Sheldon neighborhood, part of the national Holiday by Atria network. ...</p>
+<p class="desc">Holiday Sheldon Oaks is an independent living community in Eugene's Sheldon neighborhood, part of the national Holiday by Atria network.</p>
 </li>
 
         <li class="card" data-city="eugene">
@@ -591,7 +587,7 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
 </ul>
-<p class="desc">Assisted living and respite care community in Eugene near the Willamette River, operated by Trustwell Living. Reviewers describe the comm...</p>
+<p class="desc">Assisted living and respite care community in Eugene near the Willamette River, operated by Trustwell Living.</p>
 </li>
 
         <li class="card" data-city="eugene">
@@ -603,7 +599,7 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
   <li><a class="badge" href="/guides/respite-care/" title="Learn what Respite Care means">Respite Care</a></li>
 </ul>
-<p class="desc">An assisted living and memory care community beside the Willamette River in Eugene with a gym, pool, and salon. Reviewers praise attentiv...</p>
+<p class="desc">An assisted living and memory care community beside the Willamette River in Eugene with a gym, pool, and salon.</p>
 </li>
 
         <li class="card" data-city="eugene">
@@ -638,7 +634,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="junction-city">
   <h3><a href="/directory/oregon/lane-county/junction-city/avamere-rehabilitation-of-junction-city/">Avamere Rehabilitation of Junction City</a></h3>
-  <p class="meta">Junction City, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">Junction City, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -667,7 +663,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="keizer">
   <h3><a href="/directory/oregon/marion-county/keizer/keizer-nursing-and-rehabilitation/">Keizer Nursing and Rehabilitation</a></h3>
-  <p class="meta">Keizer, OR · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Keizer, OR · <span class="stars" role="img" aria-label="2 out of 5 stars">★★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -683,7 +679,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="lebanon">
   <h3><a href="/directory/oregon/linn-county/lebanon/edward-c-allworth-veterans-home/">Edward C. Allworth Veterans' Home</a></h3>
-  <p class="meta">Lebanon, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Lebanon, OR · <span class="stars" role="img" aria-label="3 out of 5 stars">★★★<span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -742,12 +738,12 @@ We list every community we can verify, not just the highest-rated —
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge small-home" href="/guides/adult-family-homes/" title="Learn what Small Care Home means">Small Care Home</a></li>
 </ul>
-<p class="desc">Golden Nest Adult Foster Home is a Class 2 adult foster home in northeast Salem providing 24-hour residential care in a family home setti...</p>
+<p class="desc">Golden Nest Adult Foster Home is a Class 2 adult foster home in northeast Salem providing 24-hour residential care in a family home setting.</p>
 </li>
 
         <li class="card" data-city="salem">
   <h3><a href="/directory/oregon/marion-county/salem/salem-transitional-care/">Salem Transitional Care</a></h3>
-  <p class="meta">Salem, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">Salem, OR · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -869,7 +865,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="salem">
   <h3><a href="/directory/oregon/marion-county/salem/tierra-rose-care-center/">Tierra Rose Care Center</a></h3>
-  <p class="meta">Salem, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">★</span><span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Salem, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -890,7 +886,7 @@ We list every community we can verify, not just the highest-rated —
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
 </ul>
-<p class="desc">Assisted living community in Silverton, a small Marion County town near Silver Falls State Park, operated by Trustwell Living. Reviewers ...</p>
+<p class="desc">Assisted living community in Silverton, a small Marion County town near Silver Falls State Park, operated by Trustwell Living. It does no...</p>
 </li>
 
       </ul>
@@ -937,7 +933,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="woodburn">
   <h3><a href="/directory/oregon/marion-county/woodburn/french-prairie-nursing-and-rehabilitation-center/">French Prairie Nursing and Rehabilitation Center</a></h3>
-  <p class="meta">Woodburn, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">★</span><span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Woodburn, OR · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-serious_concerns">Serious concerns</span></p>
   
 <ul class="badges" aria-label="Care levels offered">

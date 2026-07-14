@@ -375,7 +375,7 @@
         "memory-care"
       ],
       "facility_size": "medium",
-      "description": "Meadow View Assisted Living and Memory Care is a medium-sized senior living community in Emmett offering assisted living and memory care in a small-town Gem County setting. The community features landscaped gardens with outdoor sitting and walking areas, and reviewers describe caring staff and a clean, cozy facility.",
+      "description": "Meadow View Assisted Living and Memory Care is a medium-sized senior living community in Emmett offering assisted living and memory care in a small-town Gem County setting.",
       "review_note": "4.3/5 average across 11 reviews on A Place for Mom (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/meadow-view-assisted-living-and-memory-care-139508",
@@ -438,7 +438,7 @@
       "facility_size": "large",
       "organization": "stellar-senior-living",
       "organization_name": "Stellar Senior Living",
-      "description": "Lincoln Court is a Stellar Senior Living community in a quiet Idaho Falls neighborhood offering independent living, assisted living, memory care, and respite stays. It is among the highest-reviewed senior living communities in eastern Idaho, with families uniformly praising the friendly, attentive staff and full activity calendar.",
+      "description": "Lincoln Court is a Stellar Senior Living community in a quiet Idaho Falls neighborhood offering independent living, assisted living, memory care, and respite stays.",
       "review_note": "9.8/10 A Place for Mom review score; 79 reviews all-time with 84% 5-star ratings (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/lincoln-court-52696",
@@ -469,7 +469,7 @@
       "facility_size": "large",
       "organization": "morningstar-senior-living",
       "organization_name": "MorningStar Senior Living",
-      "description": "MorningStar of Idaho Falls is a large campus offering independent living cottages and suites, assisted living, and memory care in its dedicated Reflections Neighborhood for residents with Alzheimer's and dementia. Reviewers praise the attentive staff, clean environment, and warmth shown to residents.",
+      "description": "MorningStar of Idaho Falls is a large campus offering independent living cottages and suites, assisted living, and memory care in its dedicated Reflections Neighborhood for residents with Alzheimer's and dementia.",
       "review_note": "9.3/10 A Place for Mom review score; 45 reviews all-time (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/morning-star-of-idaho-falls-155639",
@@ -525,7 +525,7 @@
       ],
       "facility_size": "large",
       "capacity": 78,
-      "description": "Heritage Assisted Living of Twin Falls is a 78-bed community with 62 assisted living beds and 16 dedicated memory care beds, and it accepts a limited number of Medicaid-covered residents. Reviewers highlight the kind, attentive staff, cleanliness, and affordability relative to other Twin Falls communities.",
+      "description": "Heritage Assisted Living of Twin Falls is a 78-bed community with 62 assisted living beds and 16 dedicated memory care beds, and it accepts a limited number of Medicaid-covered residents.",
       "review_note": "4.5/5 average across 12 reviews on A Place for Mom; 9.2/10 review score based on 5 reviews in the last 2 years (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/heritage-assisted-living-of-twin-falls-52653",
@@ -672,7 +672,7 @@
       "organization": "leisure-care",
       "organization_name": "Leisure Care",
       "review_note": "4.8/5 across 44 reviews on AssistedLivingCenter (July 2026); U.S. News Best Senior Living for independent living and assisted living",
-      "description": "Fairwinds - Sand Creek is a Leisure Care retirement community in Idaho Falls offering independent living and assisted living in apartment-style homes. U.S. News named it a Best Senior Living community for both independent and assisted living based on resident and family surveys, and reviewers consistently praise the food, grounds, and friendly caregivers.",
+      "description": "Fairwinds - Sand Creek is a Leisure Care retirement community in Idaho Falls offering independent living and assisted living in apartment-style homes. U.S.",
       "sources": [
         "https://www.assistedlivingcenter.com/facilities/id/idaho-falls/fairwinds-sand-creek-83404/",
         "https://www.leisurecare.com/our-communities/fairwinds-sand-creek/",
@@ -699,7 +699,7 @@
         "assisted-living"
       ],
       "review_note": "5.0/5 from 13 reviews on Caring.com (July 2026)",
-      "description": "Karcher Senior Living (formerly Prestige Senior Living at Karcher Estates) is a retirement and continuing care community in the heart of Nampa offering independent living and assisted living with access to rehabilitation services. Reviewers describe helpful, caring staff, a clean and well-decorated building, and good food.",
+      "description": "Karcher Senior Living (formerly Prestige Senior Living at Karcher Estates) is a retirement and continuing care community in the heart of Nampa offering independent living and assisted living with access to rehabilitation services.",
       "sources": [
         "https://www.caring.com/senior-living/idaho/nampa/karcher-senior-living",
         "https://karchersl.com/contact-us/",
@@ -1803,7 +1803,7 @@
       "facility_size": "medium",
       "capacity": 24,
       "review_note": "3.8/5 across 13 reviews on Birdeye (July 2026); separately 5.0/5 across 2 reviews on SeniorAdvisor and a 5.0-out-of-5 all-time 'overall experience' average across 2 reviews on A Place for Mom. Review volume is thin on the higher-scoring platforms, so the Birdeye figure (more reviews, and below the 4.2 quality-tier threshold) is the more representative signal.",
-      "description": "Lily and Syringa Assisted Living is a 24-unit assisted living and memory care community in Idaho Falls offering furnished and unfurnished private and shared rooms with home-cooked meals. Reviewers frequently praise staff patience with residents who have dementia-related behaviors and communication with families.",
+      "description": "Lily and Syringa Assisted Living is a 24-unit assisted living and memory care community in Idaho Falls offering furnished and unfurnished private and shared rooms with home-cooked meals.",
       "sources": [
         "https://reviews.birdeye.com/lily-and-syringa-assisted-living-157256237448885",
         "https://www.lilyandsyringa.com/",
@@ -1832,7 +1832,7 @@
       "organization": "senior-lifestyle",
       "organization_name": "Senior Lifestyle",
       "review_note": "3.7/5 average 'overall experience' across 37 reviews (all-time) on A Place for Mom (July 2026), below the site's 4.2 quality-tier threshold despite a substantial review count. Reviewers frequently praise attentive memory-care staff but also raise recurring concerns about management communication, staffing shortages, food variety, and transportation reliability.",
-      "description": "Copper Springs Senior Living is an assisted living and memory care community in Meridian operated by Senior Lifestyle, with a dedicated memory-care neighborhood for residents with Alzheimer's disease and other dementias. Reviewers commonly praise the memory-care staff's attentiveness while also citing recurring concerns about management communication and staffing levels.",
+      "description": "Copper Springs Senior Living is an assisted living and memory care community in Meridian operated by Senior Lifestyle, with a dedicated memory-care neighborhood for residents with Alzheimer's disease and other dementias.",
       "sources": [
         "https://www.aplaceformom.com/community/copper-springs-senior-living-52774",
         "https://www.seniorlifestyle.com/property/idaho/copper-springs/"

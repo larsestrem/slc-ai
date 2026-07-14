@@ -25,7 +25,7 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.8/5 across 96 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "McDowell Village is an upscale independent and assisted living community in south Scottsdale, recognized by U.S. News and World Report as a Best Independent Living and Best Assisted Living community. Amenities include a bar, movie theater, pool, gym, salon, and library, and reviewers consistently praise the staff and the smooth transition between independent and assisted living."
+description_full: "McDowell Village is an upscale independent and assisted living community in south Scottsdale, recognized by U.S. News and World Report as a Best Independent Living and Best Assisted Living community."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/mc-dowell-village-138933"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/mcdowell-village-2074"}]
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
 ---

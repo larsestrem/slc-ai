@@ -7,6 +7,6 @@ org_description: "Front Porch is a not-for-profit senior living organization for
 headquarters: "Glendale, California"
 website: "https://frontporch.net/"
 org_states: ["CA"]
-facilities: [{"name": "Claremont Manor", "url": "/directory/california/los-angeles-county/claremont/claremont-manor/", "city_name": "Claremont", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "quality_tier": "unrated", "facility_size": "large", "description": "Claremont Manor is a continuing care retirement community operated by the not-for-profit Front Porch organization, blocks from the Claremont Colleges. Reviewers highlight its active social and intellectual life, pool and fitness programming, and recently remodeled, resort-like grounds."}]
+facilities: [{"name": "Claremont Manor", "url": "/directory/california/los-angeles-county/claremont/claremont-manor/", "city_name": "Claremont", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "quality_tier": "unrated", "facility_size": "large", "description": "Claremont Manor is a continuing care retirement community operated by the not-for-profit Front Porch organization, blocks from the Claremont Colleges."}]
 crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Front Porch Communities and Services", "url": "/organizations/front-porch-communities-and-services/"}]
 ---

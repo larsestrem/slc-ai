@@ -122,7 +122,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--line); }
+.stars .off { color: var(--muted); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
 
@@ -131,10 +131,6 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .tier-badge.tier-meets_standard { color: var(--good); }
 .tier-badge.tier-below_standard { color: var(--warn); }
 .tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
-.stars .half { color: var(--gold); }
-@supports ((-webkit-background-clip: text) or (background-clip: text)) {
-  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
-}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -246,19 +242,19 @@ We list every community we can verify, not just the highest-rated —
   <ul class="grid">
     <li class="card">
   <h3><a href="/directory/california/sacramento-county/folsom/oakmont-of-folsom/">Oakmont of Folsom</a></h3>
-  <p class="meta">Folsom, CA · <span class="stars" role="img" aria-label="4.7 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+  <p class="meta">Folsom, CA · <span class="stars" role="img" aria-label="4.7 out of 5 stars">★★★★★</span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">Oakmont of Folsom is a luxury assisted living and memory care community on Creekside Drive with 73 licensed beds. Reviewers highlight the...</p>
+<p class="desc">Oakmont of Folsom is a luxury assisted living and memory care community on Creekside Drive with 73 licensed beds.</p>
 </li>
 
     <li class="card">
   <h3><a href="/directory/california/sonoma-county/santa-rosa/oakmont-of-varenna/">Oakmont of Varenna</a></h3>
-  <p class="meta">Santa Rosa, CA · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="half" aria-hidden="true">★</span></span>
+  <p class="meta">Santa Rosa, CA · <span class="stars" role="img" aria-label="4.4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">reviews</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -277,7 +273,7 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">Oakmont of Brookside provides assisted living and memory care in Stockton's Brookside neighborhood. Reviewers consistently describe a war...</p>
+<p class="desc">Oakmont of Brookside provides assisted living and memory care in Stockton's Brookside neighborhood.</p>
 </li>
 
     <li class="card">
@@ -310,7 +306,7 @@ We list every community we can verify, not just the highest-rated —
   <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
 </ul>
-<p class="desc">Luxury assisted living and memory care community in east Concord operated by Oakmont Senior Living. Reviewers praise the spacious apartme...</p>
+<p class="desc">Luxury assisted living and memory care community in east Concord operated by Oakmont Senior Living. The campus is large, with landscaped ...</p>
 </li>
 
     <li class="card">

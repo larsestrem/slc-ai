@@ -122,7 +122,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 
 /* Stars (shared: appears in facility cards across many page types) */
 .stars { color: var(--gold); letter-spacing: .1em; font-size: 1rem; }
-.stars .off { color: var(--line); }
+.stars .off { color: var(--muted); }
 .rate-src { color: var(--muted); font-size: .8em; }
 .ratings-legend { font-size: .9rem; }
 
@@ -131,10 +131,6 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .tier-badge.tier-meets_standard { color: var(--good); }
 .tier-badge.tier-below_standard { color: var(--warn); }
 .tier-badge.tier-serious_concerns { color: var(--danger); background: #fbe9e6; }
-.stars .half { color: var(--gold); }
-@supports ((-webkit-background-clip: text) or (background-clip: text)) {
-  .stars .half { background: linear-gradient(90deg, var(--gold) 50%, var(--line) 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
-}
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -348,7 +344,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="coeur-dalene">
   <h3><a href="/directory/idaho/kootenai-county/coeur-dalene/ironwood-rehabilitation-and-care-center/">Ironwood Rehabilitation and Care Center</a></h3>
-  <p class="meta">Coeur d'Alene, ID · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">★</span><span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Coeur d'Alene, ID · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-serious_concerns">Serious concerns</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -386,7 +382,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="lewiston">
   <h3><a href="/directory/idaho/nez-perce-county/lewiston/royal-plaza-health-and-rehabilitation-of-cascadia/">Royal Plaza Health and Rehabilitation of Cascadia</a></h3>
-  <p class="meta">Lewiston, ID · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">Lewiston, ID · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -445,7 +441,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="sandpoint">
   <h3><a href="/directory/idaho/bonner-county/sandpoint/life-care-center-of-sandpoint/">Life Care Center of Sandpoint</a></h3>
-  <p class="meta">Sandpoint, ID · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">★</span></span>
+  <p class="meta">Sandpoint, ID · <span class="stars" role="img" aria-label="4 out of 5 stars">★★★★<span class="off">☆</span></span>
  <span class="rate-src">Medicare</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -466,7 +462,7 @@ We list every community we can verify, not just the highest-rated —
 
         <li class="card" data-city="sandpoint">
   <h3><a href="/directory/idaho/bonner-county/sandpoint/valley-vista-care-center-of-sandpoint/">Valley Vista Care Center of Sandpoint</a></h3>
-  <p class="meta">Sandpoint, ID · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">★</span><span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Sandpoint, ID · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-below_standard">Below our recommended bar</span></p>
   
 <ul class="badges" aria-label="Care levels offered">
@@ -482,7 +478,7 @@ We list every community we can verify, not just the highest-rated —
       <ul class="grid">
         <li class="card" data-city="silverton">
   <h3><a href="/directory/idaho/shoshone-county/silverton/silverton-health-and-rehabilitation-of-cascadia/">Silverton Health and Rehabilitation of Cascadia</a></h3>
-  <p class="meta">Silverton, ID · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">★</span><span class="off">★</span><span class="off">★</span><span class="off">★</span></span>
+  <p class="meta">Silverton, ID · <span class="stars" role="img" aria-label="1 out of 5 stars">★<span class="off">☆</span><span class="off">☆</span><span class="off">☆</span><span class="off">☆</span></span>
  <span class="rate-src">Medicare</span> · <span class="tier-badge tier-serious_concerns">Serious concerns</span></p>
   
 <ul class="badges" aria-label="Care levels offered">

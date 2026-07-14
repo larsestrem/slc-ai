@@ -22,7 +22,7 @@ verified_date: "2026-07-12"
 rating_as_of: "2026-07-12"
 review_note: "4.4/5 across 154 reviews on Birdeye review aggregate (July 2026)"
 quality_tier: "unrated"
-description_full: "A resort-style senior living campus near Mt. Tabor Park in southeast Portland offering independent living, assisted living, and memory care, with the Garden House memory care building at 6323 SE Division St. Reviewers highlight engaging activities, a pet-friendly policy, and caring staff, though some note staff turnover under changing management."
+description_full: "A resort-style senior living campus near Mt. Tabor Park in southeast Portland offering independent living, assisted living, and memory care, with the Garden House memory care building at 6323 SE Division St."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/courtyard-at-mt-tabor-95907"}, {"name": "Birdeye", "url": "https://reviews.birdeye.com/courtyard-at-mt-tabor-park-157256125645130"}]
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

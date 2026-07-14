@@ -279,7 +279,9 @@ def gen_facility_page(f, siblings, licensing):
     passthrough = ("state", "state_name", "state_abbrev", "county", "county_name", "city",
                    "city_name", "address", "zip", "phone", "website", "care_levels",
                    "facility_size", "capacity", "organization", "organization_name",
-                   "cms_ccn", "cms_rating_overall", "sources", "verified_date",
+                   "cms_ccn", "cms_rating_overall", "cms_health_inspection_rating",
+                   "cms_staffing_rating", "cms_quality_measure_rating", "cms_data_as_of",
+                   "sources", "verified_date",
                    # lifestyle & services — optional, shown when verified
                    "pets", "couples", "min_age", "transportation",
                    "medical_services", "support_services",

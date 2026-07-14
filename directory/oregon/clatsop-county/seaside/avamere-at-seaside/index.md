@@ -4,7 +4,7 @@ title: "Avamere at Seaside"
 seo_title: "Avamere at Seaside — Senior Living in Seaside, OR"
 description: "An Oregon-licensed residential care community in Seaside offering assisted living with a dedicated memory care unit and an independent living option. Operated"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Avamere at Seaside", "url": "/directory/oregon/clatsop-county/seaside/avamere-at-seaside/"}]
-nearby: [{"name": "Neawanna by the Sea", "url": "/directory/oregon/clatsop-county/seaside/neawanna-by-the-sea/", "city_name": "Seaside", "state_abbrev": "OR", "care_levels": ["independent-living", "assisted-living", "respite-care"], "quality_tier": "meets_standard", "google_rating": 4.4, "description": "An independent and assisted living community a few blocks from the beach in Seaside, with cottages and apartment-style units plus respite stays. Reviewers describe a vibrant atmosphere, supportive staff, and well-designed community, though several note premium pricing. Operated by Eugene-based Compass Senior Living."}]
+nearby: [{"name": "Neawanna by the Sea", "url": "/directory/oregon/clatsop-county/seaside/neawanna-by-the-sea/", "city_name": "Seaside", "state_abbrev": "OR", "care_levels": ["independent-living", "assisted-living", "respite-care"], "quality_tier": "meets_standard", "google_rating": 4.4, "description": "An independent and assisted living community a few blocks from the beach in Seaside, with cottages and apartment-style units plus respite stays. Operated by Eugene-based Compass Senior Living."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"

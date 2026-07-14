@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "Savant of Santa Monica"
 seo_title: "Savant of Santa Monica — Senior Living in Santa Monica, CA"
-description: "Senior living community on 17th Street in Santa Monica offering independent living, assisted living, memory care, and respite stays. The community has served "
+description: "Senior living community on 17th Street in Santa Monica offering independent living, assisted living, memory care, and respite stays."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Savant of Santa Monica", "url": "/directory/california/los-angeles-county/santa-monica/savant-of-santa-monica/"}]
 nearby: []
 state: "california"
@@ -24,7 +24,7 @@ sources: ["https://www.aplaceformom.com/community/savant-of-santa-monica-54271",
 verified_date: "2026-07-12"
 review_note: "4.2/5 average overall experience across 35 reviews on A Place for Mom (July 2026)"
 quality_tier: "unrated"
-description_full: "Senior living community on 17th Street in Santa Monica offering independent living, assisted living, memory care, and respite stays. The community has served the Santa Monica and West Los Angeles area since 1972, and reviewers highlight an actively involved, caring staff and a lively atmosphere."
+description_full: "Senior living community on 17th Street in Santa Monica offering independent living, assisted living, memory care, and respite stays."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/savant-of-santa-monica-54271"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/savant-of-santa-monica-19914"}]
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

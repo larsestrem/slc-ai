@@ -277,7 +277,7 @@ def gen_facility_page(f, siblings, licensing):
                    "license_id", "licensed_since", "specialties",
                    # community-verified attribution: who provided the claimed
                    # content (name/title) and when — shown on the profile badge
-                   "claimed_by", "claimed_role", "claimed_date",
+                   "claimed_by", "claimed_role", "claimed_date", "contributors",
                    # claimed-profile content sections
                    "community_statement", "care_details", "dining_text",
                    "dining_highlights", "activities_list", "amenities",

@@ -9,11 +9,17 @@ layout: default
   <p class="meta">{% if page.organization %}Part of <a href="/organizations/{{ page.organization }}/">{{ page.organization_name }}</a> · {% endif %}{{ page.city_name }}, {{ page.county_name }} County, {{ page.state_name }}</p>
   {% include care-badges.html levels=page.care_levels %}
 
-  {%- if page.claimed_date %}
-  <p class="claimed-badge">✓ Community-verified profile — the sections marked
+  {%- if page.contributors and page.contributors.size > 0 %}
+  {%- assign c0 = page.contributors[0] %}{% assign c1 = page.contributors[1] %}
+  <p class="claimed-badge">✓ Community-verified profile — sections marked
+  <span class="from-community">From the community</span> were updated by
+  {{ c0.name }} ({{ c0.role }}){% if page.contributors.size == 2 %} and {{ c1.name }} ({{ c1.role }}){% elsif page.contributors.size > 2 %}, {{ c1.name }} ({{ c1.role }}), and <a href="#contributors">{{ page.contributors.size | minus: 2 }} more</a>{% endif %}
+  · <a href="/for-communities/#how-claiming-works">how we verify updaters</a></p>
+  {%- elsif page.claimed_date %}
+  <p class="claimed-badge">✓ Community-verified profile — sections marked
   <span class="from-community">From the community</span> were provided by
-  {% if page.claimed_by %}<strong>{{ page.claimed_by }}</strong>{% if page.claimed_role %}, {{ page.claimed_role }},{% endif %}{% else %}verified staff{% endif %}
-  of {{ page.title }} on {{ page.claimed_date }}. <a href="/for-communities/#how-claiming-works">How we verify who can update a listing</a></p>
+  {% if page.claimed_by %}{{ page.claimed_by }}{% if page.claimed_role %} ({{ page.claimed_role }}){% endif %}{% else %}verified staff{% endif %}
+  on {{ page.claimed_date }} · <a href="/for-communities/#how-claiming-works">how we verify updaters</a></p>
   {%- endif %}
 
   {%- if page.photos and page.photos.size > 0 %}
@@ -203,6 +209,19 @@ layout: default
     they come up</a>. Our questionnaire gives you room to describe your process in your own words.</p>
     <p><a class="btn" href="/for-communities/">Claim &amp; update this listing</a></p>
   </section>
+
+  {%- if page.contributors and page.contributors.size > 0 %}
+  <section id="contributors" class="contributors" aria-labelledby="contrib-h">
+    <h2 id="contrib-h">Community updates to this listing</h2>
+    <ul>
+      {%- for c in page.contributors %}
+      <li>{{ c.name }}, {{ c.role }}{% if c.sections %} — {{ c.sections }}{% endif %} ({{ c.date }})</li>
+      {%- endfor %}
+    </ul>
+    <p>Every update comes from a person we individually verified as staff of this community —
+    <a href="/for-communities/#how-claiming-works">how verification works</a>.</p>
+  </section>
+  {%- endif %}
 
   {% include ratings-section.html %}
 

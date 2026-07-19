@@ -229,25 +229,26 @@ tbody tr:hover { background: var(--soft); }
 
 /* Community-verified profile — hero gallery, provided-content tags, sample banner */
 .sample-banner { border-left: 4px solid var(--accent); font-size: .95rem; }
-.claimed-badge { background: #eaf3ea; border: 1px solid #b9d0b9; border-radius: var(--radius); color: var(--ink); font-size: .92rem; padding: .55rem .8rem; margin: .8rem 0 0; }
+/* Kept deliberately quiet — attribution is a trust signal, not page content. */
+.claimed-badge { background: #eaf3ea; border: 1px solid #b9d0b9; border-radius: var(--radius); color: var(--ink); font-size: .84rem; padding: .35rem .65rem; margin: .8rem 0 0; }
+.contributors { font-size: .88rem; color: var(--muted); margin: 1.6rem 0; }
+.contributors h2 { font-size: 1rem; margin: 0 0 .4rem; }
+.contributors ul { margin: .3rem 0; padding-left: 1.2rem; }
+.contributors li { margin: .2rem 0; }
+.contributors p { margin: .4rem 0 0; font-size: .84rem; }
 .from-community { display: inline-block; background: #eaf3ea; border: 1px solid #b9d0b9; color: #2c5530; border-radius: 99px; padding: .02rem .55rem; font-size: .74rem; font-weight: 600; vertical-align: middle; white-space: nowrap; }
-/* Main photo left, remaining tiles in a 2x2 grid to its right; everything
-   stacks into one column on small screens. */
-.hero-gallery { display: grid; gap: .6rem; grid-template-columns: 1fr; margin: 1.1rem 0 .4rem; }
+/* Main photo left, remaining tiles in a 2x2 grid to its right — the same
+   layout at every screen size, so the gallery never pushes content far below
+   the fold on mobile. Tile captions live in the fullscreen lightbox (visually
+   hidden here, still read by screen readers); the main photo keeps its caption. */
+.hero-gallery { display: grid; gap: clamp(.3rem, 1vw, .6rem); grid-template-columns: 1.7fr 1fr 1fr; grid-auto-rows: minmax(0, 1fr); margin: 1.1rem 0 .4rem; }
 .hero-gallery figure { margin: 0; display: flex; flex-direction: column; min-height: 0; }
 .hero-gallery figure a { flex: 1 1 auto; min-height: 0; }
-@media (min-width: 52rem) {
-  .hero-gallery { grid-template-columns: 1.7fr 1fr 1fr; grid-auto-rows: minmax(0, 1fr); }
-  .hero-gallery .hg-main { grid-column: 1; grid-row: 1 / 3; }
-  .hero-gallery .hg-main img { aspect-ratio: auto; }
-  .hero-gallery img { aspect-ratio: auto; }
-  /* Tile captions live in the lightbox on desktop; only the main image keeps
-     its caption, so the 2x2 tiles stay flush. */
-  .hero-gallery figure:not(.hg-main) figcaption { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
-}
+.hero-gallery .hg-main { grid-column: 1; grid-row: 1 / 3; }
+.hero-gallery figure:not(.hg-main) figcaption { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 .hero-gallery a { display: block; height: 100%; border-radius: var(--radius); }
 .hero-gallery a:hover img, .hero-gallery a:focus-visible img { border-color: var(--accent); }
-.hero-gallery img { width: 100%; height: 100%; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--line); display: block; aspect-ratio: 8 / 5; }
+.hero-gallery img { width: 100%; height: 100%; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
 .hero-gallery figcaption { font-size: .78rem; color: var(--muted); margin-top: .25rem; }
 
 /* CSS-only full-screen lightbox (:target). The whole overlay is the close link. */

@@ -7,6 +7,9 @@ no database, no server-side code.
 
 ## Deploying on Cloudflare Pages
 
+Repository: **github.com/larsestrem/slc-ai** (deployment target is Cloudflare Pages only —
+do not enable GitHub Pages on this repo).
+
 **Zero-config mode (current setup):** the built site (`_site/`) is committed to the repo, and
 `wrangler.toml` tells Pages to publish it (`pages_build_output_dir = "_site"`). No dashboard
 build settings are needed — leave the build command empty. The trade-off: after any content

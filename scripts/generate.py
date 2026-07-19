@@ -282,6 +282,10 @@ def gen_facility_page(f, siblings, licensing):
     for k in passthrough:
         if f.get(k) not in (None, "", []):
             front[k] = f[k]
+    # Templates gate the flag notice on serious_concern; make sure SFF-only
+    # facilities carry the computed flag too, not just their cards.
+    if has_serious_concern(f):
+        front["serious_concern"] = True
     front["description_full"] = f.get("description")
     rlinks = f.get("review_links") or review_links_from_sources(f.get("sources"))
     if rlinks:

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Illustration of the fitness room with exercise equipment and balance bars">
+<rect width="800" height="500" fill="#eef1f6"/>
+<rect y="380" width="800" height="120" fill="#c9b99d"/>
+<rect x="80" y="80" width="240" height="160" rx="6" fill="#dfe9f2" stroke="#c9b99d" stroke-width="5"/>
+<g stroke="#8a6d55" stroke-width="10" fill="none"><line x1="480" y1="250" x2="740" y2="250"/><line x1="500" y1="250" x2="500" y2="400"/><line x1="720" y1="250" x2="720" y2="400"/></g>
+<g><circle cx="160" cy="330" r="44" fill="none" stroke="#0a4aa3" stroke-width="10"/><circle cx="255" cy="330" r="30" fill="none" stroke="#0a4aa3" stroke-width="10"/><line x1="160" y1="330" x2="255" y2="330" stroke="#1b1d21" stroke-width="8"/><line x1="255" y1="330" x2="290" y2="270" stroke="#1b1d21" stroke-width="8"/><rect x="270" y="252" width="46" height="18" rx="8" fill="#5f7d54"/></g>
+<g fill="#8f6fae"><rect x="380" y="330" width="70" height="16" rx="8"/><circle cx="380" cy="338" r="20" fill="#6d5390"/><circle cx="450" cy="338" r="20" fill="#6d5390"/></g>
+<g fill="#e0a33f"><rect x="560" y="300" width="90" height="60" rx="10"/><rect x="580" y="360" width="12" height="40" fill="#b07f24"/><rect x="620" y="360" width="12" height="40" fill="#b07f24"/></g>
+<circle cx="620" cy="120" r="40" fill="#f6e7b2"/>
+</svg>

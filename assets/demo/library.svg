@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Illustration of the community library with bookshelves and armchairs">
+<rect width="800" height="500" fill="#f5efe3"/>
+<rect y="370" width="800" height="130" fill="#d9c8a9"/>
+<rect x="60" y="90" width="300" height="280" rx="6" fill="#8a6d55"/>
+<g fill="#f5efe3"><rect x="80" y="110" width="120" height="60" rx="4"/><rect x="220" y="110" width="120" height="60" rx="4"/><rect x="80" y="190" width="120" height="60" rx="4"/><rect x="220" y="190" width="120" height="60" rx="4"/><rect x="80" y="270" width="120" height="60" rx="4"/><rect x="220" y="270" width="120" height="60" rx="4"/></g>
+<g><rect x="88" y="120" width="14" height="44" fill="#c8556a"/><rect x="106" y="120" width="14" height="44" fill="#5f7d54"/><rect x="124" y="120" width="14" height="44" fill="#e0a33f"/><rect x="142" y="120" width="14" height="44" fill="#8f6fae"/><rect x="160" y="120" width="14" height="44" fill="#0a4aa3"/>
+<rect x="228" y="120" width="14" height="44" fill="#5f7d54"/><rect x="246" y="120" width="14" height="44" fill="#c8556a"/><rect x="264" y="120" width="14" height="44" fill="#0a4aa3"/><rect x="282" y="120" width="14" height="44" fill="#e0a33f"/>
+<rect x="88" y="200" width="14" height="44" fill="#e0a33f"/><rect x="106" y="200" width="14" height="44" fill="#0a4aa3"/><rect x="124" y="200" width="14" height="44" fill="#c8556a"/><rect x="228" y="200" width="14" height="44" fill="#8f6fae"/><rect x="246" y="200" width="14" height="44" fill="#5f7d54"/>
+<rect x="88" y="280" width="14" height="44" fill="#5f7d54"/><rect x="106" y="280" width="14" height="44" fill="#e0a33f"/><rect x="228" y="280" width="14" height="44" fill="#0a4aa3"/><rect x="246" y="280" width="14" height="44" fill="#c8556a"/><rect x="264" y="280" width="14" height="44" fill="#8f6fae"/></g>
+<rect x="500" y="100" width="200" height="150" rx="6" fill="#dfe9f2" stroke="#c9b99d" stroke-width="5"/>
+<g><rect x="450" y="290" width="120" height="80" rx="14" fill="#5f7d54"/><rect x="450" y="270" width="120" height="32" rx="14" fill="#6d8f61"/><rect x="456" y="366" width="14" height="30" fill="#3f5638"/><rect x="550" y="366" width="14" height="30" fill="#3f5638"/></g>
+<g><rect x="610" y="290" width="120" height="80" rx="14" fill="#a3123c" opacity=".75"/><rect x="610" y="270" width="120" height="32" rx="14" fill="#b44560"/><rect x="616" y="366" width="14" height="30" fill="#6d1030"/><rect x="710" y="366" width="14" height="30" fill="#6d1030"/></g>
+<circle cx="590" cy="350" r="24" fill="#fff" stroke="#b9a887" stroke-width="4"/>
+</svg>

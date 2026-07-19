@@ -20,7 +20,7 @@ one page's rules never ship to every other page. {%- endcomment -%}
 {%- if page.layout == 'state' or page.layout == 'region' -%}
 <style>{% capture c %}{% include css/directory.css %}{% endcapture %}{{ c }}</style>
 {%- endif -%}
-{%- if page.layout == 'facility' or page.use_facility_css -%}
+{%- if page.layout == 'facility' or page.layout == 'photos' or page.use_facility_css -%}
 <style>{% capture c %}{% include css/facility.css %}{% endcapture %}{{ c }}</style>
 {%- endif -%}
 {%- if page.css_post -%}

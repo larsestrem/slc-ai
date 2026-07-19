@@ -274,7 +274,14 @@ def gen_facility_page(f, siblings, licensing):
                    "photos", "logo",
                    "review_caveat",
                    # small-home license facts (not a rating — license status, not a score)
-                   "license_id", "licensed_since", "specialties")
+                   "license_id", "licensed_since", "specialties",
+                   # community-verified attribution: who provided the claimed
+                   # content (name/title) and when — shown on the profile badge
+                   "claimed_by", "claimed_role", "claimed_date",
+                   # claimed-profile content sections
+                   "community_statement", "care_details", "dining_text",
+                   "dining_highlights", "activities_list", "amenities",
+                   "rooms_url", "rooms_teaser", "concern_response")
     for k in passthrough:
         if f.get(k) not in (None, "", []):
             front[k] = f[k]
@@ -296,6 +303,24 @@ def gen_facility_page(f, siblings, licensing):
     if not f.get("cms_ccn") and licensing:
         front["licensing"] = {"agency": licensing.get("agency"), "lookup_url": licensing.get("lookup_url")}
     write(DIRECTORY / f["state"] / county_slug(f) / f["city"] / f["slug"] / "index.md", fm(front))
+
+    # More than five photos: the profile's hero gallery shows the first five
+    # and links to a dedicated full-gallery page with every photo.
+    photos = f.get("photos") or []
+    if len(photos) > 5:
+        gallery = {
+            "layout": "photos",
+            "title": f"Photos of {f['name']}",
+            "description": f"All {len(photos)} photos of {f['name']} in {f['city_name']}, {f['state_abbrev']}, provided by the community.",
+            "community_name": f["name"],
+            "profile_url": facility_url(f),
+            "photos": photos,
+            "crumbs": front["crumbs"] + [{"name": "Photos", "url": facility_url(f) + "photos/"}],
+        }
+        for k in ("claimed_by", "claimed_role", "claimed_date"):
+            if f.get(k):
+                gallery[k] = f[k]
+        write(DIRECTORY / f["state"] / county_slug(f) / f["city"] / f["slug"] / "photos" / "index.md", fm(gallery))
 
 
 def gen_city_page(state, cslug, city_facs):

@@ -18,6 +18,8 @@ phone: "(555) 010-0100"
 care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing"]
 facility_size: "large"
 capacity: 142
+claimed_by: "Maria Alvarez"
+claimed_role: "Executive Director"
 claimed_date: "2026-07-01"
 verified_date: "2026-07-01"
 community_statement: "We built Alder Grove around one idea: your parent's day should still feel like their own. Residents keep their routines, their coffee order, and their say — and our job is to quietly make each day easier than the one before."
@@ -37,6 +39,15 @@ photos:
   - src: /assets/demo/activity.svg
     alt: "Illustration of the activity room with art easel, bookshelves, and game table"
     caption: "Activity room (sample illustration)"
+  - src: /assets/demo/library.svg
+    alt: "Illustration of the community library with full bookshelves and two armchairs by a window"
+    caption: "Library and reading corner (sample illustration)"
+  - src: /assets/demo/fitness.svg
+    alt: "Illustration of the fitness room with a recumbent bike, hand weights, and balance bars"
+    caption: "Fitness room with balance bars (sample illustration)"
+  - src: /assets/demo/salon.svg
+    alt: "Illustration of the salon and barber shop with a styling chair and mirror"
+    caption: "Salon and barber shop (sample illustration)"
 care_details:
   - level: independent-living
     units: "48 apartments"

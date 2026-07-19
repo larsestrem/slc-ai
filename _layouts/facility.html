@@ -11,16 +11,19 @@ layout: default
 
   {%- if page.claimed_date %}
   <p class="claimed-badge">✓ Community-verified profile — the sections marked
-  <span class="from-community">From the community</span> were provided by verified staff of
-  {{ page.title }} on {{ page.claimed_date }}. <a href="/for-communities/#how-claiming-works">How we verify who can update a listing</a></p>
+  <span class="from-community">From the community</span> were provided by
+  {% if page.claimed_by %}<strong>{{ page.claimed_by }}</strong>{% if page.claimed_role %}, {{ page.claimed_role }},{% endif %}{% else %}verified staff{% endif %}
+  of {{ page.title }} on {{ page.claimed_date }}. <a href="/for-communities/#how-claiming-works">How we verify who can update a listing</a></p>
   {%- endif %}
 
   {%- if page.photos and page.photos.size > 0 %}
-  {%- comment %} One large photo + tiles in a 2x2 grid beside it (stacked on mobile).
-      Clicking any photo opens it full screen via a CSS-only :target lightbox —
-      no JavaScript; clicking anywhere on the open image closes it. {% endcomment %}
+  {%- comment %} One large photo + up to four tiles in a 2x2 grid beside it
+      (stacked on mobile). More than five photos: the hero shows the first five
+      and links to the full photo gallery page. Clicking any photo opens it full
+      screen via a CSS-only :target lightbox — no JavaScript; clicking anywhere
+      on the open image closes it. {% endcomment %}
   <div class="hero-gallery{% if page.photos.size == 1 %} single{% endif %}" id="gallery">
-    {%- for ph in page.photos %}
+    {%- for ph in page.photos limit: 5 %}
     <figure{% if forloop.first %} class="hg-main"{% endif %}>
       <a href="#photo-{{ forloop.index }}" aria-label="View full screen: {{ ph.alt }}">
         <img src="{{ ph.src }}" alt="{{ ph.alt }}"{% unless forloop.first %} loading="lazy"{% endunless %} decoding="async">
@@ -29,11 +32,14 @@ layout: default
     </figure>
     {%- endfor %}
   </div>
-  {%- for ph in page.photos %}
+  {%- if page.photos.size > 5 %}
+  <p class="gallery-more"><a href="{{ page.url }}photos/">See all {{ page.photos.size }} photos of {{ page.title }} &rarr;</a></p>
+  {%- endif %}
+  {%- for ph in page.photos limit: 5 %}
   <a href="#gallery" class="lightbox" id="photo-{{ forloop.index }}" aria-label="Close full-screen photo">
     <figure>
       <img src="{{ ph.src }}" alt="{{ ph.alt }}" loading="lazy" decoding="async">
-      <figcaption>{{ ph.caption | default: ph.alt }} — click anywhere to close</figcaption>
+      <figcaption>{{ ph.caption | default: ph.alt }}<span class="lb-hint">Click anywhere to close</span></figcaption>
     </figure>
     <span class="lb-close" aria-hidden="true">&times;</span>
   </a>

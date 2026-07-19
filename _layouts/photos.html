@@ -1,0 +1,47 @@
+---
+layout: default
+---
+{%- comment %} Full photo gallery for a community — used when a profile has more
+photos than the hero gallery shows. Every photo opens full screen via the same
+CSS-only :target lightbox, with its description below the image. {% endcomment %}
+<article>
+  {%- if page.sample_notice %}
+  <p class="notice sample-banner"><strong>Sample page.</strong> {{ page.sample_notice }}</p>
+  {%- endif %}
+  <h1>{{ page.title }}</h1>
+  {%- if page.claimed_date %}
+  <p class="claimed-badge">✓ <span class="from-community">From the community</span> — photos
+  provided by {% if page.claimed_by %}{{ page.claimed_by }}{% if page.claimed_role %}, {{ page.claimed_role }},{% endif %}{% else %}verified staff{% endif %}
+  of {{ page.community_name | default: page.title }} on {{ page.claimed_date }}.
+  <a href="/for-communities/#how-claiming-works">How we verify who can update a listing</a></p>
+  {%- endif %}
+
+  <ul class="grid photo-grid gallery-grid">
+    {%- for ph in page.photos %}
+    <li><figure>
+      <a href="#photo-{{ forloop.index }}" aria-label="View full screen: {{ ph.alt }}">
+        <img src="{{ ph.src }}" alt="{{ ph.alt }}" loading="lazy" decoding="async">
+      </a>
+      {%- if ph.caption %}<figcaption>{{ ph.caption }}</figcaption>{% endif %}
+    </figure></li>
+    {%- endfor %}
+  </ul>
+
+  {%- for ph in page.photos %}
+  <a href="#gallery-top" class="lightbox" id="photo-{{ forloop.index }}" aria-label="Close full-screen photo">
+    <figure>
+      <img src="{{ ph.src }}" alt="{{ ph.alt }}" loading="lazy" decoding="async">
+      <figcaption>{{ ph.caption | default: ph.alt }}<span class="lb-hint">Click anywhere to close</span></figcaption>
+    </figure>
+    <span class="lb-close" aria-hidden="true">&times;</span>
+  </a>
+  {%- endfor %}
+
+  {%- if page.profile_url %}
+  <p><a class="btn ghost" href="{{ page.profile_url }}">&larr; Back to the {{ page.community_name | default: "community" }} profile</a></p>
+  {%- endif %}
+
+  <p class="notice">Photos are provided by the community and show the spaces it chooses to
+  share — they're a starting point, not a substitute for
+  <a href="/guides/touring-checklist/">seeing the community in person</a>.</p>
+</article>

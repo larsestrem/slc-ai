@@ -19,8 +19,8 @@ fictional community and these floor plans are illustrative samples — this page
 community's rooms-and-floor-plans page looks once its staff provides the details.
 <a href="/for-communities/example-profile/">Back to the sample profile</a>.</p>
 
-<p><span class="from-community">From the community</span> · provided by verified staff of Alder
-Grove Senior Living, 2026-07-01</p>
+<p><span class="from-community">From the community</span> · provided by Maria Alvarez,
+Executive Director, Alder Grove Senior Living, 2026-07-01</p>
 
 Every apartment includes an emergency call system in the bedroom and bathroom, individually
 controlled heating and cooling, cable and Wi‑Fi, and weekly housekeeping. Residents furnish

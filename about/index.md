@@ -60,7 +60,15 @@ directly with the community. See [why we don't display ratings](/guides/how-we-l
 [how to interpret online reviews](/guides/interpreting-online-reviews/), and
 [how government ratings work](/guides/reading-inspection-reports-and-ratings/).
 
-## Advertising
+## How this site makes money — and what money never buys
 
-This site may show clearly-labeled advertising. Advertisers never influence which communities
-appear in the directory, how they're presented, or what our guides say.
+Listings are free, always. **No community can pay to be listed, ranked, featured, or placed
+above another** — the directory is alphabetical, and no payment of any kind changes what a
+listing says or where it appears. We don't accept referral or placement fees from communities,
+so no commission rides on where your parent moves.
+
+We offer separate, optional [marketing services](/marketing/) (websites, search campaigns,
+nonprofit ad-grant management) that some communities may hire us for. That work never touches
+the directory: a marketing client's listing is written, verified, and ordered exactly like
+every other, and any community with a paid relationship with us will say so plainly on its
+profile. Full details are in our [Terms of Service](/terms/).

@@ -13,11 +13,11 @@ data_vintage:
   cms_note: "Facility details verified against public sources; CMS Care Compare ratings shown where available."
   last_verified: "2026-07-11"
 
-# Monetization — ads are OFF by default. Set enabled: true and your publisher
-# ID to activate the lazy-loaded AdSense slots (see _includes/ad-slot.html).
-ads:
-  enabled: false
-  adsense_publisher: ""
+# Form submissions (community questionnaires) are delivered privately by email
+# via FormSubmit; the endpoint encodes the destination address (base64) so the
+# plain address never appears in page source.
+forms:
+  endpoint: "https://formsubmit.co/bGFyc2VzdHJlbUBnbWFpbC5jb20="
 
 permalink: /news/:year/:month/:title/
 

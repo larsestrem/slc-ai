@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Listing Questionnaire: Care &amp; Services | Senior Living Community</title>
-<meta name="description" content="Short questionnaire for senior living communities: care levels, medical and non-medical services, pets, couples, and age policies. About 10 minutes by email.">
+<meta name="description" content="Short online questionnaire for senior living communities: care levels, medical and non-medical services, pets, couples, and age policies. About 10 minutes — answers are sent privately to our editors.">
 <link rel="canonical" href="https://senior.living.community/for-communities/questionnaire-care/">
 <meta property="og:site_name" content="Senior Living Community">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Listing Questionnaire: Care &amp; Services">
-<meta property="og:description" content="Short questionnaire for senior living communities: care levels, medical and non-medical services, pets, couples, and age policies. About 10 minutes by email.">
+<meta property="og:description" content="Short online questionnaire for senior living communities: care levels, medical and non-medical services, pets, couples, and age policies. About 10 minutes — answers are sent privately to our editors.">
 <meta property="og:url" content="https://senior.living.community/for-communities/questionnaire-care/">
 <meta name="theme-color" content="#0a4aa3">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%230a4aa3'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
@@ -168,9 +168,6 @@ tbody tr:hover { background: var(--soft); }
 .btn.ghost { background: var(--surface); color: var(--accent); border: 1.5px solid var(--accent); }
 .btn.ghost:hover { background: var(--soft); }
 
-/* Ads (lazy) — appears via include across page types */
-.ad-slot { min-height: 100px; margin: 1.6rem 0; display: flex; align-items: center; justify-content: center; background: var(--soft); border: 1px dashed var(--line); border-radius: var(--radius); color: var(--muted); font-size: .75rem; }
-
 /* Footer */
 .site-footer { border-top: 1px solid var(--line); background: var(--surface); margin-top: 2rem; }
 .site-footer .wrap { padding: 1.8rem 1.1rem; display: grid; gap: 1.2rem; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); font-size: .9rem; }
@@ -188,13 +185,35 @@ tbody tr:hover { background: var(--soft); }
 
 /* Print */
 @media print {
-  .site-header, .site-footer, .crumbs, .ad-slot, .nav-toggle, .skip { display: none !important; }
+  .site-header, .site-footer, .crumbs, .nav-toggle, .skip { display: none !important; }
   body { background: #fff; color: #000; font-size: 11pt; }
   a { color: #000; }
   .prose a[href^="/"]::after { content: " (senior.living.community" attr(href) ")"; font-size: 8.5pt; color: #555; }
   .panel, .card, blockquote { border: 1px solid #bbb; break-inside: avoid; }
   .two-col { display: block; }
 }
+
+/* Forms (community questionnaires) */
+.q-form { max-width: var(--prose); }
+.q-form fieldset { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); padding: 1rem 1.2rem 1.2rem; margin: 1.4rem 0; box-shadow: var(--shadow-1); }
+.q-form legend { font-family: var(--serif); font-weight: 700; font-size: 1.12rem; padding: 0 .4rem; }
+.q-form label { display: block; font-weight: 600; font-size: .95rem; margin: 1rem 0 .25rem; }
+.q-form label .opt { font-weight: 400; color: var(--muted); font-size: .85rem; }
+.q-form .hint { font-size: .85rem; color: var(--muted); margin: 0 0 .3rem; }
+.q-form input[type="text"], .q-form input[type="email"], .q-form input[type="tel"],
+.q-form input[type="number"], .q-form select, .q-form textarea {
+  width: 100%; font: inherit; color: var(--ink); background: var(--bg);
+  border: 1px solid var(--line); border-radius: 8px; padding: .5rem .65rem;
+}
+.q-form textarea { min-height: 5.5rem; resize: vertical; }
+.q-form input:focus-visible, .q-form select:focus-visible, .q-form textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.q-form .checks { margin: .3rem 0 0; }
+.q-form .checks label { display: flex; gap: .5rem; align-items: baseline; font-weight: 400; margin: .35rem 0; }
+.q-form .checks input { width: auto; }
+.q-form .consent { display: flex; gap: .6rem; align-items: baseline; font-size: .92rem; margin: 1.2rem 0; }
+.q-form .consent input { width: auto; margin-top: .2rem; }
+.q-form .form-foot { font-size: .85rem; color: var(--muted); margin: .8rem 0 0; }
+.q-form .honey { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
 </style>
   
 </head>
@@ -230,56 +249,126 @@ tbody tr:hover { background: var(--soft); }
   <main id="main" class="wrap">
     <article class="prose">
   <h1>Listing Questionnaire: Care & Services</h1>
-  <p>About 10 minutes. Reply to our email (or write <strong>listings@senior.living.community</strong>) with your
-community name and the numbered answers — skip anything that doesn’t apply. Partial answers
-are welcome.</p>
+  <p>About 10 minutes. Fill in what you can and skip anything that doesn’t apply — partial answers
+are welcome. Your answers are <strong>sent privately to our editors</strong>; nothing is published until
+we’ve verified you with your community.</p>
 
-<h2 id="care-levels">Care levels</h2>
+<form class="q-form" method="POST" action="https://formsubmit.co/bGFyc2VzdHJlbUBnbWFpbC5jb20=" accept-charset="UTF-8">
+  <input type="hidden" name="_subject" value="Listing questionnaire — Care &amp; Services" />
+  <input type="hidden" name="_template" value="table" />
+  <input type="hidden" name="_next" value="https://senior.living.community/for-communities/thank-you/" />
+  <div class="honey" aria-hidden="true"><label>Leave this field empty<input type="text" name="_honey" tabindex="-1" autocomplete="off" /></label></div>
 
-<ol>
-  <li>Which care levels do you offer? (<a href="/guides/independent-living/">independent living</a>, <a href="/guides/assisted-living/">assisted living</a>, <a href="/guides/memory-care/">memory care</a>, <a href="/guides/skilled-nursing/">skilled nursing</a>, respite/short stays)</li>
-  <li>How do care-level assessments work at your community, and how often are residents reassessed?</li>
-  <li>Can a resident age in place as needs grow — and where is the line (what needs would require a move)?</li>
-  <li>Can couples live together when they need different levels of care?</li>
-</ol>
+  <fieldset>
+    <legend>About you &amp; your community</legend>
+    <p class="hint">So we can verify you before anything is published — nothing you submit
+    appears on the site until we've confirmed you with your community.
+    <a href="/for-communities/#how-claiming-works">How verification works</a>.</p>
+    <label for="q-community">Community name <span class="opt">(required)</span></label>
+    <input type="text" id="q-community" name="Community name" required="" autocomplete="organization" />
+    <label for="q-citystate">Community city &amp; state <span class="opt">(required)</span></label>
+    <input type="text" id="q-citystate" name="Community city and state" required="" />
+    <label for="q-name">Your name <span class="opt">(required)</span></label>
+    <input type="text" id="q-name" name="Your name" required="" autocomplete="name" />
+    <label for="q-role">Your title / role <span class="opt">(required)</span></label>
+    <input type="text" id="q-role" name="Your title" required="" autocomplete="organization-title" />
+    <label for="q-email">Your work email <span class="opt">(required — at your community's domain)</span></label>
+    <input type="email" id="q-email" name="Your work email" required="" autocomplete="email" />
+    <label for="q-phone">Community main phone <span class="opt">(we call it to confirm your role)</span></label>
+    <input type="tel" id="q-phone" name="Community main phone" autocomplete="tel" />
+  </fieldset>
 
-<h2 id="medical-support">Medical support</h2>
 
-<ol>
-  <li>Medication management: reminders only, or full administration?</li>
-  <li>Nursing coverage (24/7 RN, daytime RN, LPN, on call)</li>
-  <li>Therapy services available on site (PT / OT / speech) — in-house or visiting?</li>
-  <li>Visiting practitioners (physician, podiatry, dentistry, mental health)?</li>
-  <li>Do you coordinate with <a href="/guides/hospice-and-palliative-care/">hospice</a> for end-of-life care on site?</li>
-  <li>Conditions you routinely support (diabetes/insulin, oxygen, catheter, two-person transfers) — and any you cannot</li>
-</ol>
+  <fieldset>
+    <legend>Care levels</legend>
+    <label>Which care levels do you offer?</label>
+    <div class="checks">
+      <label><input type="checkbox" name="Q1 Care levels" value="Independent living" /> <a href="/guides/independent-living/">Independent living</a></label>
+      <label><input type="checkbox" name="Q1 Care levels" value="Assisted living" /> <a href="/guides/assisted-living/">Assisted living</a></label>
+      <label><input type="checkbox" name="Q1 Care levels" value="Memory care" /> <a href="/guides/memory-care/">Memory care</a></label>
+      <label><input type="checkbox" name="Q1 Care levels" value="Skilled nursing" /> <a href="/guides/skilled-nursing/">Skilled nursing</a></label>
+      <label><input type="checkbox" name="Q1 Care levels" value="Respite / short stays" /> Respite / short stays</label>
+    </div>
+    <label for="c2">How do care-level assessments work at your community, and how often are residents reassessed?</label>
+    <textarea id="c2" name="Q2 Care assessments"></textarea>
+    <label for="c3">Can a resident age in place as needs grow — and where is the line?</label>
+    <p class="hint">What needs would require a move?</p>
+    <textarea id="c3" name="Q3 Aging in place and its limits"></textarea>
+    <label for="c4">Can couples live together when they need different levels of care?</label>
+    <input type="text" id="c4" name="Q4 Couples with different care levels" />
+  </fieldset>
 
-<h2 id="non-medical-services">Non-medical services</h2>
+  <fieldset>
+    <legend>Medical support</legend>
+    <label for="c5">Medication management: reminders only, or full administration?</label>
+    <input type="text" id="c5" name="Q5 Medication management" />
+    <label for="c6">Nursing coverage <span class="opt">(24/7 RN, daytime RN, LPN, on call)</span></label>
+    <input type="text" id="c6" name="Q6 Nursing coverage" />
+    <label for="c7">Therapy services on site <span class="opt">(PT / OT / speech — in-house or visiting?)</span></label>
+    <input type="text" id="c7" name="Q7 Therapy services" />
+    <label for="c8">Visiting practitioners <span class="opt">(physician, podiatry, dentistry, mental health)</span></label>
+    <input type="text" id="c8" name="Q8 Visiting practitioners" />
+    <label for="c9">Do you coordinate with <a href="/guides/hospice-and-palliative-care/">hospice</a> for end-of-life care on site?</label>
+    <input type="text" id="c9" name="Q9 Hospice coordination" />
+    <label for="c10">Conditions you routinely support — and any you cannot</label>
+    <p class="hint">Diabetes/insulin, oxygen, catheter, two-person transfers…</p>
+    <textarea id="c10" name="Q10 Conditions supported and not supported"></textarea>
+  </fieldset>
 
-<ol>
-  <li>What’s included in the base monthly rate (housekeeping frequency, laundry, linens, utilities, cable/internet)?</li>
-  <li>What’s billed separately, and roughly how is it priced (care points/levels, à la carte)?</li>
-  <li>Personal care help available (bathing, dressing, escorts to meals/appointments)</li>
-</ol>
+  <fieldset>
+    <legend>Non-medical services</legend>
+    <label for="c11">What's included in the base monthly rate?</label>
+    <p class="hint">Housekeeping frequency, laundry, linens, utilities, cable/internet…</p>
+    <textarea id="c11" name="Q11 Included in base rate"></textarea>
+    <label for="c12">What's billed separately, and roughly how is it priced?</label>
+    <p class="hint">Care points/levels, à la carte…</p>
+    <textarea id="c12" name="Q12 Billed separately and pricing model"></textarea>
+    <label for="c13">Personal care help available <span class="opt">(bathing, dressing, escorts to meals/appointments)</span></label>
+    <textarea id="c13" name="Q13 Personal care help"></textarea>
+  </fieldset>
 
-<h2 id="who-can-live-here">Who can live here</h2>
+  <fieldset>
+    <legend>Who can live here</legend>
+    <label for="c14">Age requirement <span class="opt">(55+, 62+, none)</span> and any exceptions</label>
+    <p class="hint">Younger spouse, adult disabled child…</p>
+    <input type="text" id="c14" name="Q14 Age requirement and exceptions" />
+    <label for="c15">Pet policy</label>
+    <p class="hint">Allowed? Size/type limits, deposits or fees, and what support exists if a resident can no longer care for the pet.</p>
+    <textarea id="c15" name="Q15 Pet policy"></textarea>
+    <label for="c16">Do you accept <a href="/guides/medicaid-vs-medicare/">Medicaid</a> (directly or after a private-pay period)? Long-term care insurance?</label>
+    <textarea id="c16" name="Q16 Medicaid and LTC insurance"></textarea>
+  </fieldset>
 
-<ol>
-  <li>Age requirement (55+, 62+, none) and any exceptions (younger spouse, adult disabled child)</li>
-  <li>Pet policy: allowed? size/type limits, deposits or fees, and what support exists if a resident can no longer care for the pet</li>
-  <li>Do you accept <a href="/guides/medicaid-vs-medicare/">Medicaid</a> (directly or after a private-pay period)? Long-term care insurance?</li>
-</ol>
+  <fieldset>
+    <legend>Quality &amp; accountability</legend>
+    <p class="hint">Answer these about your general <strong>process</strong>, not any specific
+    incident, resident, or family — we publish policies, not case histories, and we won't
+    print details tied to an individual.</p>
+    <label for="c17">What is your process when a family or resident raises a concern or complaint?</label>
+    <p class="hint">Who receives it, and what's the typical response time?</p>
+    <textarea id="c17" name="Q17 Complaint intake process"></textarea>
+    <label for="c18">How do you investigate and resolve a complaint, and how do you follow up with the family?</label>
+    <textarea id="c18" name="Q18 Investigation and follow-up"></textarea>
+    <label for="c19">How do complaints feed back into how you operate?</label>
+    <p class="hint">Do you track patterns, retrain staff, or change procedures as a result?</p>
+    <textarea id="c19" name="Q19 Complaints feeding back into operations"></textarea>
+  </fieldset>
 
-<h2 id="quality--accountability">Quality &amp; accountability</h2>
 
-<p>Answer these about your general <strong>process</strong>, not any specific incident, resident, or family —
-we publish policies, not case histories, and we won’t print details tied to an individual.</p>
-
-<ol>
-  <li>What is your process when a family or resident raises a concern or complaint — who receives it, and what’s the typical response time?</li>
-  <li>How do you investigate and resolve a complaint, and how do you follow up with the family once it’s addressed?</li>
-  <li>How do complaints feed back into how you operate — do you track patterns, retrain staff, or change procedures as a result?</li>
-</ol>
+  <label class="consent">
+    <input type="checkbox" name="Agreed to listing terms" value="Yes" required="" />
+    <span>I'm authorized to speak for this community, the information I've provided is
+    accurate, and I agree to the <a href="/terms/#5-community-provided-content-and-listing-terms">community
+    listing terms</a> — including that published answers are attributed to me by name, title,
+    and date. <span class="opt">(required)</span></span>
+  </label>
+  <p><button class="btn" type="submit">Send answers privately</button></p>
+  <p class="form-foot">Your answers go privately to our editors by email — nothing is
+  published until we've verified you and prepared your listing with you. Partial answers are
+  welcome; skip anything that doesn't apply, and you can return to any section later.
+  See our <a href="/privacy/">Privacy Policy</a>. Prefer email? Send numbered answers to
+  <strong>listings@senior.living.community</strong> instead.</p>
+</form>
 
 <p>When you’re ready: <strong><a href="/for-communities/questionnaire-daily-life/">Daily life →</a></strong></p>
 
@@ -319,19 +408,21 @@ we publish policies, not case histories, and we won’t print details tied to an
         <li><a href="/about/">About this site</a></li>
         <li><a href="/for-communities/">For senior living communities</a></li>
         <li><a href="/news/">News</a></li>
+        <li><a href="/terms/">Terms of Service</a></li>
+        <li><a href="/privacy/">Privacy Policy</a></li>
       </ul>
     </div>
     <p class="fine">
       Senior Living Community is an independent information resource for families. We are not a referral
       service and do not provide medical, legal, or financial advice — for decisions about care,
       consult the professionals involved. Facility details change; always confirm directly with a
-      community. Last data review: 2026-07-11.
+      community. Listings are never paid placements. Last data review: 2026-07-11.
       Run a senior living community? <a href="/for-communities/">Claim your free listing</a> or
       see our <a href="/marketing/">marketing services for communities</a>.
+      <a href="/terms/">Terms</a> · <a href="/privacy/">Privacy</a>.
     </p>
   </div>
 </footer>
-
 
 </body>
 </html>

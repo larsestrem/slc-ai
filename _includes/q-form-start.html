@@ -1,0 +1,30 @@
+{%- comment %} Shared opening of every questionnaire form: posts to the private
+form-forwarding endpoint (configured in _config.yml; the destination address is
+base64-encoded so it never appears in page source), with the verified-identity
+block every segment needs. Usage:
+  {% include q-form-start.html subject="Listing questionnaire — Basics" %}
+{%- endcomment %}
+<form class="q-form" method="POST" action="{{ site.forms.endpoint }}" accept-charset="UTF-8">
+  <input type="hidden" name="_subject" value="{{ include.subject }}">
+  <input type="hidden" name="_template" value="table">
+  <input type="hidden" name="_next" value="{{ site.url }}/for-communities/thank-you/">
+  <div class="honey" aria-hidden="true"><label>Leave this field empty<input type="text" name="_honey" tabindex="-1" autocomplete="off"></label></div>
+
+  <fieldset>
+    <legend>About you &amp; your community</legend>
+    <p class="hint">So we can verify you before anything is published — nothing you submit
+    appears on the site until we've confirmed you with your community.
+    <a href="/for-communities/#how-claiming-works">How verification works</a>.</p>
+    <label for="q-community">Community name <span class="opt">(required)</span></label>
+    <input type="text" id="q-community" name="Community name" required autocomplete="organization">
+    <label for="q-citystate">Community city &amp; state <span class="opt">(required)</span></label>
+    <input type="text" id="q-citystate" name="Community city and state" required>
+    <label for="q-name">Your name <span class="opt">(required)</span></label>
+    <input type="text" id="q-name" name="Your name" required autocomplete="name">
+    <label for="q-role">Your title / role <span class="opt">(required)</span></label>
+    <input type="text" id="q-role" name="Your title" required autocomplete="organization-title">
+    <label for="q-email">Your work email <span class="opt">(required — at your community's domain)</span></label>
+    <input type="email" id="q-email" name="Your work email" required autocomplete="email">
+    <label for="q-phone">Community main phone <span class="opt">(we call it to confirm your role)</span></label>
+    <input type="tel" id="q-phone" name="Community main phone" autocomplete="tel">
+  </fieldset>

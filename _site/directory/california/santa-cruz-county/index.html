@@ -169,9 +169,6 @@ tbody tr:hover { background: var(--soft); }
 .btn.ghost { background: var(--surface); color: var(--accent); border: 1.5px solid var(--accent); }
 .btn.ghost:hover { background: var(--soft); }
 
-/* Ads (lazy) — appears via include across page types */
-.ad-slot { min-height: 100px; margin: 1.6rem 0; display: flex; align-items: center; justify-content: center; background: var(--soft); border: 1px dashed var(--line); border-radius: var(--radius); color: var(--muted); font-size: .75rem; }
-
 /* Footer */
 .site-footer { border-top: 1px solid var(--line); background: var(--surface); margin-top: 2rem; }
 .site-footer .wrap { padding: 1.8rem 1.1rem; display: grid; gap: 1.2rem; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); font-size: .9rem; }
@@ -189,13 +186,35 @@ tbody tr:hover { background: var(--soft); }
 
 /* Print */
 @media print {
-  .site-header, .site-footer, .crumbs, .ad-slot, .nav-toggle, .skip { display: none !important; }
+  .site-header, .site-footer, .crumbs, .nav-toggle, .skip { display: none !important; }
   body { background: #fff; color: #000; font-size: 11pt; }
   a { color: #000; }
   .prose a[href^="/"]::after { content: " (senior.living.community" attr(href) ")"; font-size: 8.5pt; color: #555; }
   .panel, .card, blockquote { border: 1px solid #bbb; break-inside: avoid; }
   .two-col { display: block; }
 }
+
+/* Forms (community questionnaires) */
+.q-form { max-width: var(--prose); }
+.q-form fieldset { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); padding: 1rem 1.2rem 1.2rem; margin: 1.4rem 0; box-shadow: var(--shadow-1); }
+.q-form legend { font-family: var(--serif); font-weight: 700; font-size: 1.12rem; padding: 0 .4rem; }
+.q-form label { display: block; font-weight: 600; font-size: .95rem; margin: 1rem 0 .25rem; }
+.q-form label .opt { font-weight: 400; color: var(--muted); font-size: .85rem; }
+.q-form .hint { font-size: .85rem; color: var(--muted); margin: 0 0 .3rem; }
+.q-form input[type="text"], .q-form input[type="email"], .q-form input[type="tel"],
+.q-form input[type="number"], .q-form select, .q-form textarea {
+  width: 100%; font: inherit; color: var(--ink); background: var(--bg);
+  border: 1px solid var(--line); border-radius: 8px; padding: .5rem .65rem;
+}
+.q-form textarea { min-height: 5.5rem; resize: vertical; }
+.q-form input:focus-visible, .q-form select:focus-visible, .q-form textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.q-form .checks { margin: .3rem 0 0; }
+.q-form .checks label { display: flex; gap: .5rem; align-items: baseline; font-weight: 400; margin: .35rem 0; }
+.q-form .checks input { width: auto; }
+.q-form .consent { display: flex; gap: .6rem; align-items: baseline; font-size: .92rem; margin: 1.2rem 0; }
+.q-form .consent input { width: auto; margin-top: .2rem; }
+.q-form .form-foot { font-size: .85rem; color: var(--muted); margin: .8rem 0 0; }
+.q-form .honey { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
 </style>
   
 </head>
@@ -280,8 +299,6 @@ tbody tr:hover { background: var(--soft); }
 </section>
 
 
-
-
 <p class="notice">Don't see a community you know of? Coverage grows state by state —
 <a href="/for-communities/">communities can add or update a listing here</a>.</p>
 
@@ -319,19 +336,21 @@ tbody tr:hover { background: var(--soft); }
         <li><a href="/about/">About this site</a></li>
         <li><a href="/for-communities/">For senior living communities</a></li>
         <li><a href="/news/">News</a></li>
+        <li><a href="/terms/">Terms of Service</a></li>
+        <li><a href="/privacy/">Privacy Policy</a></li>
       </ul>
     </div>
     <p class="fine">
       Senior Living Community is an independent information resource for families. We are not a referral
       service and do not provide medical, legal, or financial advice — for decisions about care,
       consult the professionals involved. Facility details change; always confirm directly with a
-      community. Last data review: 2026-07-11.
+      community. Listings are never paid placements. Last data review: 2026-07-11.
       Run a senior living community? <a href="/for-communities/">Claim your free listing</a> or
       see our <a href="/marketing/">marketing services for communities</a>.
+      <a href="/terms/">Terms</a> · <a href="/privacy/">Privacy</a>.
     </p>
   </div>
 </footer>
-
 
 </body>
 </html>

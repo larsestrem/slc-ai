@@ -43,8 +43,10 @@ care about most.
 
 We know facility staff don't have an hour to fill out a giant form. So the questionnaire is
 broken into short topic sections — each takes about 5–10 minutes, and you can answer them in
-any order, one at a time, by replying to our email or sending answers whenever you have a
-moment. Every section you complete makes your listing more useful to families:
+any order, one at a time. **Each section is an online form you can fill out and submit right
+on the page** — answers go privately to our editors, and nothing is published until we've
+verified you. (Prefer email? Numbered answers to listings@senior.living.community work too.)
+Every section you complete makes your listing more useful to families:
 
 - **[The basics](/for-communities/questionnaire-basics/)** — beds, rooms, staff, building, ownership
 - **[Care & services](/for-communities/questionnaire-care/)** — care levels, medical and non-medical services, pets, couples, age requirements, and how you handle complaints

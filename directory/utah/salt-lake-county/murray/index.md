@@ -9,6 +9,6 @@ county_name: "Salt Lake"
 state_name: "Utah"
 state_abbrev: "UT"
 facility_count: 1
-facilities: [{"name": "Aspen Ridge Transitional Rehabilitation", "url": "/directory/utah/salt-lake-county/murray/aspen-ridge-transitional-rehabilitation/", "city_name": "Murray", "state_abbrev": "UT", "care_levels": ["skilled-nursing"], "serious_concern": false, "facility_size": "medium", "description": "Aspen Ridge Transitional Rehabilitation is a 38-bed Medicare-certified skilled nursing facility in Murray focused on short-term rehabilitation after hospital stays."}]
+facilities: [{"name": "Aspen Ridge Transitional Rehabilitation", "url": "/directory/utah/salt-lake-county/murray/aspen-ridge-transitional-rehabilitation/", "city_name": "Murray", "state_abbrev": "UT", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "medium", "description": "Aspen Ridge Transitional Rehabilitation is a 38-bed Medicare-certified skilled nursing facility in Murray focused on short-term rehabilitation after hospital stays."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Salt Lake County", "url": "/directory/utah/salt-lake-county/"}, {"name": "Murray", "url": "/directory/utah/salt-lake-county/murray/"}]
 ---

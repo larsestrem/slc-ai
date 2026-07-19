@@ -10,8 +10,7 @@
 .rating-glance .glance-links { list-style: none; margin: .6rem 0; padding: 0; }
 .rating-glance .glance-links li { margin: .45rem 0; font-size: .92rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
-.rating-glance .glance-flag { display: flex; flex-direction: column; align-items: flex-start; gap: .3rem; margin: .5rem 0 .8rem; padding-bottom: .6rem; border-bottom: 1px solid var(--line); }
-.rating-glance .glance-flag p { margin: 0; color: var(--muted); font-size: .88rem; }
+.rating-glance .records-note { margin: .6rem 0 .8rem; }
 
 /* Review-reading caveats, shown beneath the review platform links */
 .review-caveats { margin: .7rem 0 0; }
@@ -29,11 +28,3 @@
 .btn-link { display: inline-block; font-weight: 600; }
 .review-link-list { list-style: none; margin: .5rem 0; padding: 0; }
 .review-link-list li { margin: .4rem 0; }
-
-/* Confirmed regulatory-flag notice */
-.tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
-.tier-notice-danger a { color: var(--accent); }
-.tnd-head { margin-top: 0; }
-.concern-facts { display: grid; grid-template-columns: auto 1fr; gap: .2rem .8rem; margin: .6rem 0; font-size: .92rem; }
-.concern-facts dt { font-weight: 700; }
-.concern-facts dd { margin: 0; }

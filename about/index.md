@@ -51,11 +51,12 @@ reviews or investigate what any review, inspection report, or news source says. 
 profile links directly to Medicare Care Compare, state licensing records, and the review
 platforms we found — clearly labeled — so you read the real, current number at the source instead
 of a figure we've restated. We do not restate, quote, or summarize the contents of individual
-reviews or incident reports on our own pages; that information belongs to the organization that
-published it. The one exception is a confirmed regulatory flag (a federal Special Focus Facility
-designation, a substantiated finding) — a sourced fact we report plainly, not a rating we compute.
-Do your own research: read the full record at the source, and always verify directly with the
-community. See [why we don't display ratings](/guides/how-we-list-communities/),
+reviews, official records, or incident reports on our own pages — no exceptions; that information
+belongs to the source that published it, and it can change, be disputed, or be resolved after we
+look. On a small number of profiles we add a note encouraging you to read the official record
+and recent reviews especially carefully before deciding — the note says nothing about what the
+record contains. Do your own research: read the full record at the source, and always verify
+directly with the community. See [why we don't display ratings](/guides/how-we-list-communities/),
 [how to interpret online reviews](/guides/interpreting-online-reviews/), and
 [how government ratings work](/guides/reading-inspection-reports-and-ratings/).
 

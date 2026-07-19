@@ -9,6 +9,6 @@ county_name: "Pierce"
 state_name: "Washington"
 state_abbrev: "WA"
 facility_count: 1
-facilities: [{"name": "Bridgeport Place", "url": "/directory/washington/pierce-county/university-place/bridgeport-place/", "city_name": "University Place", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "description": "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma."}]
+facilities: [{"name": "Bridgeport Place", "url": "/directory/washington/pierce-county/university-place/bridgeport-place/", "city_name": "University Place", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Pierce County", "url": "/directory/washington/pierce-county/"}, {"name": "University Place", "url": "/directory/washington/pierce-county/university-place/"}]
 ---

@@ -8,6 +8,6 @@ county_name: "El Paso"
 state_name: "Colorado"
 state_abbrev: "CO"
 facility_count: 1
-cities: [{"slug": "colorado-springs", "name": "Colorado Springs", "url": "/directory/colorado/el-paso-county/colorado-springs/", "facilities": [{"name": "MorningStar at Mountain Shadows", "url": "/directory/colorado/el-paso-county/colorado-springs/morningstar-at-mountain-shadows/", "city_name": "Colorado Springs", "state_abbrev": "CO", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "MorningStar at Mountain Shadows offers 45 assisted living suites and a secure 19-suite Reflections memory care neighborhood on the northwest side of Colorado Springs near Garden of the Gods."}]}]
+cities: [{"slug": "colorado-springs", "name": "Colorado Springs", "url": "/directory/colorado/el-paso-county/colorado-springs/", "facilities": [{"name": "MorningStar at Mountain Shadows", "url": "/directory/colorado/el-paso-county/colorado-springs/morningstar-at-mountain-shadows/", "city_name": "Colorado Springs", "state_abbrev": "CO", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "MorningStar at Mountain Shadows offers 45 assisted living suites and a secure 19-suite Reflections memory care neighborhood on the northwest side of Colorado Springs near Garden of the Gods."}]}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "El Paso County", "url": "/directory/colorado/el-paso-county/"}]
 ---

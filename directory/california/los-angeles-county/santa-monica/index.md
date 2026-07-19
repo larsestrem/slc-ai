@@ -9,6 +9,6 @@ county_name: "Los Angeles"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "Savant of Santa Monica", "url": "/directory/california/los-angeles-county/santa-monica/savant-of-santa-monica/", "city_name": "Santa Monica", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "serious_concern": false, "description": "Senior living community on 17th Street in Santa Monica offering independent living, assisted living, memory care, and respite stays."}]
+facilities: [{"name": "Savant of Santa Monica", "url": "/directory/california/los-angeles-county/santa-monica/savant-of-santa-monica/", "city_name": "Santa Monica", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "records_note": false, "description": "Senior living community on 17th Street in Santa Monica offering independent living, assisted living, memory care, and respite stays."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Angeles County", "url": "/directory/california/los-angeles-county/"}, {"name": "Santa Monica", "url": "/directory/california/los-angeles-county/santa-monica/"}]
 ---

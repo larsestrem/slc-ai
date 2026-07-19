@@ -4,7 +4,7 @@ title: "Ka Punawai Ola"
 seo_title: "Ka Punawai Ola — Senior Living in Kapolei, HI"
 description: "A 120-bed skilled nursing and rehabilitation facility in Kapolei operated by Life Care Centers of America; the name is Hawaiian for 'well-spring of health and"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Ka Punawai Ola", "url": "/directory/hawaii/honolulu-county/kapolei/ka-punawai-ola/"}]
-nearby: [{"name": "'Ilima at Leihano", "url": "/directory/hawaii/honolulu-county/kapolei/ilima-at-leihano/", "city_name": "Kapolei", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "'Ilima at Leihano is a Kisco Senior Living community set on four landscaped acres in the heart of Kapolei, offering independent living, assisted living, and memory care in studio, one-bedroom, and two-bedroom apartments."}]
+nearby: [{"name": "'Ilima at Leihano", "url": "/directory/hawaii/honolulu-county/kapolei/ilima-at-leihano/", "city_name": "Kapolei", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "'Ilima at Leihano is a Kisco Senior Living community set on four landscaped acres in the heart of Kapolei, offering independent living, assisted living, and memory care in studio, one-bedroom, and two-bedroom apartments."}]
 state: "hawaii"
 state_name: "Hawaii"
 state_abbrev: "HI"

@@ -9,6 +9,6 @@ county_name: "Maui"
 state_name: "Hawaii"
 state_abbrev: "HI"
 facility_count: 1
-facilities: [{"name": "Holiday Kalama Heights", "url": "/directory/hawaii/maui-county/kihei/holiday-kalama-heights/", "city_name": "Kihei", "state_abbrev": "HI", "care_levels": ["independent-living"], "serious_concern": false, "facility_size": "large", "description": "A pet-friendly independent senior living community in Kihei on Maui's south shore, minutes from Kamaole Beach Park."}]
+facilities: [{"name": "Holiday Kalama Heights", "url": "/directory/hawaii/maui-county/kihei/holiday-kalama-heights/", "city_name": "Kihei", "state_abbrev": "HI", "care_levels": ["independent-living"], "records_note": false, "facility_size": "large", "description": "A pet-friendly independent senior living community in Kihei on Maui's south shore, minutes from Kamaole Beach Park."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Maui County", "url": "/directory/hawaii/maui-county/"}, {"name": "Kihei", "url": "/directory/hawaii/maui-county/kihei/"}]
 ---

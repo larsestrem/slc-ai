@@ -11,7 +11,7 @@ related:
   - /guides/checking-complaints-and-state-records/
   - /guides/how-to-choose-a-senior-care-facility/
   - /guides/adult-family-homes/
-faqs: [{"q": "Why not just show the star rating you found?", "a": "Because we found out the hard way that we could get it wrong. Ratings come from several different data pipelines, get remapped and re-summarized along the way, and change on their own schedule. A wrong number on a page about your parent's care is a real harm, not a minor bug — so we stopped publishing one and started linking directly to where the real, current number lives."}, {"q": "Isn't it dangerous to list a community with serious problems at all?", "a": "We think it's more dangerous not to. A family that finds nothing when they search a name will assume it isn't in our directory yet, not that we know something troubling. Listing it, with the specific regulatory finding, its source, and its date, gives them the one thing that actually protects them: the truth, in time to act on it."}, {"q": "Is a confirmed regulatory flag the same thing as a rating?", "a": "No. A rating is a number we would have to compute and could get wrong. A regulatory flag — a federal Special Focus Facility designation, a substantiated finding — is a fact we found at a specific government source and report with that source linked, so you can verify it yourself. We publish the fact; we don't compute a score from it."}, {"q": "Why isn't the directory a complete registry?", "a": "Building and verifying each listing takes real research, and we're still working through the states we cover. If a community you're looking for isn't listed yet, that's a gap in our coverage, not a judgment about the community — check the state licensing lookup directly."}]
+faqs: [{"q": "Why not just show the star rating you found?", "a": "Because we found out the hard way that we could get it wrong. Ratings come from several different data pipelines, get remapped and re-summarized along the way, and change on their own schedule. A wrong number on a page about your parent's care is a real harm, not a minor bug — so we stopped publishing one and started linking directly to where the real, current number lives."}, {"q": "Why do some profiles say it's especially important to check the record?", "a": "Every profile links to the official record, and we always recommend reading it. On a small number of profiles we add a note encouraging you to read the record and recent reviews especially carefully before deciding. We don't say what's in any record — records change, entries can be disputed or resolved, and the source is always more current than we are. The note just asks you to look; what you find, you find at the source, today."}, {"q": "Does the note mean a community is bad?", "a": "No. It means the official record is worth your time before you decide — nothing more. Records reflect a moment in time; problems get fixed, findings get challenged, ownership changes. That's exactly why we point you to the live source instead of characterizing it ourselves, and why the community's own response to any issue is worth asking about directly."}, {"q": "Why isn't the directory a complete registry?", "a": "Building and verifying each listing takes real research, and we're still working through the states we cover. If a community you're looking for isn't listed yet, that's a gap in our coverage, not a judgment about the community — check the state licensing lookup directly."}]
 ---
 
 Type a community's name into our directory and, if it's listed, you'll land on its profile —
@@ -58,16 +58,19 @@ government source or a commercial review site — they measure very different th
 [interpreting online reviews](/guides/interpreting-online-reviews/) explain what each one can and
 can't tell you.
 
-## What we still say directly: confirmed regulatory flags
+## When we ask you to look especially carefully
 
-There's one exception to "we don't assert anything ourselves." When we find a **confirmed,
-sourced regulatory flag** — a federal Special Focus Facility (or Candidate) designation, or a
-substantiated abuse or neglect finding — we say so directly on the profile, in plain factual
-language: the regulator, the specific finding, the date when known, its current status, and a
-direct link to the source record. This isn't a rating we compute; it's a fact we found and are
-reporting, the same way we'd report an address or a phone number. We still list these
-communities rather than deleting them — a family searching for that exact name deserves the real
-record, not a blank page — but we say plainly what we found, and point you to verify it yourself. Communities can also [claim their listing](/for-communities/) to add corrections and context, including how they responded — a facility's response to a finding is itself worth judging.
+We don't assert anything about any community's quality — no exceptions. But reading the official
+record matters more for some decisions than others, so on a small number of profiles you'll see
+a short note: **it's important to read this community's official record and recent reviews before
+you decide**, with the official record linked first. That's all the note says, and all it means.
+We never summarize what a record contains — records change, entries can be disputed, corrected,
+or resolved, and the government source is always more current than any restatement of it. The
+note simply asks you to spend the time; what you find, you find at the source, as it stands
+today. Communities can [claim their listing](/for-communities/) to add context in their own
+words, including how they handle concerns — and
+[how a community responds to problems](/guides/why-good-communities-get-complaints/) is often the
+most useful thing to learn.
 
 ## How to judge what you find when you click through
 
@@ -112,17 +115,18 @@ data pipelines, get remapped and re-summarized along the way, and change on thei
 wrong number on a page about your parent's care is a real harm, not a minor bug — so we stopped
 publishing one and started linking directly to where the real, current number lives.
 
-**Isn't it dangerous to list a community with serious problems at all?**
-We think it's more dangerous not to. A family that finds nothing when they search a name will
-assume it isn't in our directory yet, not that we know something troubling. Listing it, with the
-specific regulatory finding, its source, and its date, gives them the one thing that actually
-protects them: the truth, in time to act on it.
+**Why do some profiles say it's especially important to check the record?**
+Every profile links to the official record, and we always recommend reading it. On a small
+number of profiles we add a note encouraging you to read the record and recent reviews
+especially carefully before deciding. We don't say what's in any record — records change,
+entries can be disputed or resolved, and the source is always more current than we are. The
+note just asks you to look; what you find, you find at the source, today.
 
-**Is a confirmed regulatory flag the same thing as a rating?**
-No. A rating is a number we would have to compute and could get wrong. A regulatory flag — a
-federal Special Focus Facility designation, a substantiated finding — is a fact we found at a
-specific government source and report with that source linked, so you can verify it yourself. We
-publish the fact; we don't compute a score from it.
+**Does the note mean a community is bad?**
+No. It means the official record is worth your time before you decide — nothing more. Records
+reflect a moment in time; problems get fixed, findings get challenged, ownership changes. That's
+exactly why we point you to the live source instead of characterizing it ourselves, and why the
+community's own response to any issue is worth asking about directly.
 
 **Why isn't the directory a complete registry?**
 Building and verifying each listing takes real research, and we're still working through the

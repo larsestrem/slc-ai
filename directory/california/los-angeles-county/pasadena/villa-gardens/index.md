@@ -5,7 +5,7 @@ title: "Villa Gardens"
 seo_title: "Villa Gardens — Senior Living in Pasadena, CA"
 description: "Named Pasadena's best retirement community by local publications multiple years running. Residents cite waitstaff dining, a 24-hour bistro, and a strong fitne"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Villa Gardens", "url": "/directory/california/los-angeles-county/pasadena/villa-gardens/"}]
-nearby: [{"name": "MorningStar of Pasadena", "url": "/directory/california/los-angeles-county/pasadena/morningstar-of-pasadena/", "city_name": "Pasadena", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "description": "Assisted living and memory care community on South Fair Oaks Avenue in Pasadena, operated by MorningStar Senior Living."}]
+nearby: [{"name": "MorningStar of Pasadena", "url": "/directory/california/los-angeles-county/pasadena/morningstar-of-pasadena/", "city_name": "Pasadena", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Assisted living and memory care community on South Fair Oaks Avenue in Pasadena, operated by MorningStar Senior Living."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

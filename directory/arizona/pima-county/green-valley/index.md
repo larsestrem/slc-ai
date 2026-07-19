@@ -9,6 +9,6 @@ county_name: "Pima"
 state_name: "Arizona"
 state_abbrev: "AZ"
 facility_count: 1
-facilities: [{"name": "La Posada at Park Centre", "url": "/directory/arizona/pima-county/green-valley/la-posada-at-park-centre/", "city_name": "Green Valley", "state_abbrev": "AZ", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "serious_concern": false, "facility_size": "large", "description": "La Posada at Park Centre is a nonprofit continuing care retirement community set in a pecan orchard in Green Valley, south of Tucson, with garden homes, apartments, assisted living, memory care, and skilled nursing on campus."}]
+facilities: [{"name": "La Posada at Park Centre", "url": "/directory/arizona/pima-county/green-valley/la-posada-at-park-centre/", "city_name": "Green Valley", "state_abbrev": "AZ", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "records_note": false, "facility_size": "large", "description": "La Posada at Park Centre is a nonprofit continuing care retirement community set in a pecan orchard in Green Valley, south of Tucson, with garden homes, apartments, assisted living, memory care, and skilled nursing on campus."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Pima County", "url": "/directory/arizona/pima-county/"}, {"name": "Green Valley", "url": "/directory/arizona/pima-county/green-valley/"}]
 ---

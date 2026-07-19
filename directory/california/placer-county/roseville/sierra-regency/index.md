@@ -5,7 +5,7 @@ title: "Sierra Regency"
 seo_title: "Sierra Regency — Senior Living in Roseville, CA"
 description: "A gated independent retirement community in Roseville, established in 1988, with full-kitchen one- and two-bedroom apartments. Amenities include an indoor hea"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sierra Regency", "url": "/directory/california/placer-county/roseville/sierra-regency/"}]
-nearby: [{"name": "Oakmont of Roseville", "url": "/directory/california/placer-county/roseville/oakmont-of-roseville/", "city_name": "Roseville", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "description": "Oakmont of Roseville is a luxury assisted living and memory care community on Secret Ravine Parkway near Sutter Roseville Medical Center."}]
+nearby: [{"name": "Oakmont of Roseville", "url": "/directory/california/placer-county/roseville/oakmont-of-roseville/", "city_name": "Roseville", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Oakmont of Roseville is a luxury assisted living and memory care community on Secret Ravine Parkway near Sutter Roseville Medical Center."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

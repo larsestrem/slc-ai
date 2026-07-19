@@ -9,6 +9,6 @@ county_name: "Salt Lake"
 state_name: "Utah"
 state_abbrev: "UT"
 facility_count: 1
-facilities: [{"name": "Legacy Village of Sugar House", "url": "/directory/utah/salt-lake-county/salt-lake-city/legacy-village-of-sugar-house/", "city_name": "Salt Lake City", "state_abbrev": "UT", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "Legacy Village of Sugar House offers independent living, assisted living, and memory care in Salt Lake City's Sugar House neighborhood, with views of the city and the Wasatch Mountains."}]
+facilities: [{"name": "Legacy Village of Sugar House", "url": "/directory/utah/salt-lake-county/salt-lake-city/legacy-village-of-sugar-house/", "city_name": "Salt Lake City", "state_abbrev": "UT", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Legacy Village of Sugar House offers independent living, assisted living, and memory care in Salt Lake City's Sugar House neighborhood, with views of the city and the Wasatch Mountains."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Salt Lake County", "url": "/directory/utah/salt-lake-county/"}, {"name": "Salt Lake City", "url": "/directory/utah/salt-lake-county/salt-lake-city/"}]
 ---

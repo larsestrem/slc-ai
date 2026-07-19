@@ -27,8 +27,7 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* small-home badge accent */
-  --danger: #8e2216;
+  --gold: #7a5a00;        /* small-home badge & records-note accent */
   --radius: 12px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -131,9 +130,10 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
-   Appears on cards and the profile sidebar when serious_concern is true. */
-.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
+/* Read-the-record-first note — a neutral nudge, deliberately NOT red and NOT
+   an icon: it asks the reader to check the official record and reviews, and
+   says nothing about what they contain. */
+.records-note { border-left: 4px solid var(--gold); background: #f7f2e4; padding: .7rem .9rem; border-radius: 0 8px 8px 0; font-size: .95rem; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -275,11 +275,12 @@ reviews or investigate what any review, inspection report, or news source says. 
 profile links directly to Medicare Care Compare, state licensing records, and the review
 platforms we found — clearly labeled — so you read the real, current number at the source instead
 of a figure we’ve restated. We do not restate, quote, or summarize the contents of individual
-reviews or incident reports on our own pages; that information belongs to the organization that
-published it. The one exception is a confirmed regulatory flag (a federal Special Focus Facility
-designation, a substantiated finding) — a sourced fact we report plainly, not a rating we compute.
-Do your own research: read the full record at the source, and always verify directly with the
-community. See <a href="/guides/how-we-list-communities/">why we don’t display ratings</a>,
+reviews, official records, or incident reports on our own pages — no exceptions; that information
+belongs to the source that published it, and it can change, be disputed, or be resolved after we
+look. On a small number of profiles we add a note encouraging you to read the official record
+and recent reviews especially carefully before deciding — the note says nothing about what the
+record contains. Do your own research: read the full record at the source, and always verify
+directly with the community. See <a href="/guides/how-we-list-communities/">why we don’t display ratings</a>,
 <a href="/guides/interpreting-online-reviews/">how to interpret online reviews</a>, and
 <a href="/guides/reading-inspection-reports-and-ratings/">how government ratings work</a>.</p>
 

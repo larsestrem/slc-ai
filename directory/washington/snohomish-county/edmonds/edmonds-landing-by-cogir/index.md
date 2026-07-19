@@ -4,7 +4,7 @@ title: "Edmonds Landing by Cogir"
 seo_title: "Edmonds Landing by Cogir — Senior Living in Edmonds, WA"
 description: "Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurants."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Edmonds Landing by Cogir", "url": "/directory/washington/snohomish-county/edmonds/edmonds-landing-by-cogir/"}]
-nearby: [{"name": "Sunrise of Edmonds", "url": "/directory/washington/snohomish-county/edmonds/sunrise-of-edmonds/", "city_name": "Edmonds", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "description": "Sunrise of Edmonds provides assisted living and memory care near the Edmonds waterfront in Snohomish County. It was recognized as Best Assisted Living and Best Memory Care in U.S. News & World Report's 2026 Best Senior Living ratings."}]
+nearby: [{"name": "Sunrise of Edmonds", "url": "/directory/washington/snohomish-county/edmonds/sunrise-of-edmonds/", "city_name": "Edmonds", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Sunrise of Edmonds provides assisted living and memory care near the Edmonds waterfront in Snohomish County. It was recognized as Best Assisted Living and Best Memory Care in U.S. News & World Report's 2026 Best Senior Living ratings."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

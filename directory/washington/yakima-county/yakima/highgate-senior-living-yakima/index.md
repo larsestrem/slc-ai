@@ -4,7 +4,7 @@ title: "Highgate Senior Living - Yakima"
 seo_title: "Highgate Senior Living - Yakima — Senior Living in Yakima, WA"
 description: "Highgate Senior Living - Yakima provides assisted living and a separate secure memory care neighborhood in a quiet residential area on Yakima's west side."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Highgate Senior Living - Yakima", "url": "/directory/washington/yakima-county/yakima/highgate-senior-living-yakima/"}]
-nearby: [{"name": "Good Samaritan Health Care Center", "url": "/directory/washington/yakima-county/yakima/good-samaritan-health-care-center/", "city_name": "Yakima", "state_abbrev": "WA", "care_levels": ["skilled-nursing", "respite-care"], "serious_concern": false, "facility_size": "large", "description": "A 105-bed nonprofit skilled nursing facility in Yakima operated by the Evangelical Lutheran Good Samaritan Society, offering short-term rehab and long-term care."}]
+nearby: [{"name": "Good Samaritan Health Care Center", "url": "/directory/washington/yakima-county/yakima/good-samaritan-health-care-center/", "city_name": "Yakima", "state_abbrev": "WA", "care_levels": ["skilled-nursing", "respite-care"], "records_note": false, "facility_size": "large", "description": "A 105-bed nonprofit skilled nursing facility in Yakima operated by the Evangelical Lutheran Good Samaritan Society, offering short-term rehab and long-term care."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

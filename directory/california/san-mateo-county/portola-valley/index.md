@@ -9,6 +9,6 @@ county_name: "San Mateo"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "The Sequoias Portola Valley", "url": "/directory/california/san-mateo-county/portola-valley/the-sequoias-portola-valley/", "city_name": "Portola Valley", "state_abbrev": "CA", "care_levels": ["ccrc", "independent-living", "assisted-living", "skilled-nursing"], "serious_concern": false, "facility_size": "large", "description": "Residents can move through independent living, assisted living, and skilled nursing on one campus."}]
+facilities: [{"name": "The Sequoias Portola Valley", "url": "/directory/california/san-mateo-county/portola-valley/the-sequoias-portola-valley/", "city_name": "Portola Valley", "state_abbrev": "CA", "care_levels": ["ccrc", "independent-living", "assisted-living", "skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Residents can move through independent living, assisted living, and skilled nursing on one campus."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Mateo County", "url": "/directory/california/san-mateo-county/"}, {"name": "Portola Valley", "url": "/directory/california/san-mateo-county/portola-valley/"}]
 ---

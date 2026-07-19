@@ -4,7 +4,7 @@ title: "Honesty"
 seo_title: "Honesty — Senior Living in Wailuku, HI"
 description: "Honesty is a small, state-licensed 5-bed care home for the elderly in Wailuku, Maui, offering assisted living and memory care services in a residential settin"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Honesty", "url": "/directory/hawaii/maui-county/wailuku/honesty-care-home-wailuku/"}]
-nearby: [{"name": "Hale Makua - Wailuku", "url": "/directory/hawaii/maui-county/wailuku/hale-makua-wailuku/", "city_name": "Wailuku", "state_abbrev": "HI", "care_levels": ["skilled-nursing"], "serious_concern": false, "facility_size": "large", "description": "A 124-bed skilled nursing facility in Wailuku offering long-term care, short-term rehabilitation, and dementia care, part of the Hale Makua Health Services organization founded on Maui in 1947 and now affiliated with Ohana Pacific Health."}]
+nearby: [{"name": "Hale Makua - Wailuku", "url": "/directory/hawaii/maui-county/wailuku/hale-makua-wailuku/", "city_name": "Wailuku", "state_abbrev": "HI", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "A 124-bed skilled nursing facility in Wailuku offering long-term care, short-term rehabilitation, and dementia care, part of the Hale Makua Health Services organization founded on Maui in 1947 and now affiliated with Ohana Pacific Health."}]
 state: "hawaii"
 state_name: "Hawaii"
 state_abbrev: "HI"

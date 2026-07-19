@@ -4,7 +4,7 @@ title: "Greenlake Senior Living Renton"
 seo_title: "Greenlake Senior Living Renton — Senior Living in Renton, WA"
 description: "Greenlake Senior Living Renton (also marketed as Renton Assisted Living) is an assisted living and memory care community at 71 SW Victoria St in Renton, locat"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Greenlake Senior Living Renton", "url": "/directory/washington/king-county/renton/greenlake-senior-living-renton/"}]
-nearby: [{"name": "Merrill Gardens at Renton Centre", "url": "/directory/washington/king-county/renton/merrill-gardens-at-renton-centre/", "city_name": "Renton", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "description": "Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care."}]
+nearby: [{"name": "Merrill Gardens at Renton Centre", "url": "/directory/washington/king-county/renton/merrill-gardens-at-renton-centre/", "city_name": "Renton", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

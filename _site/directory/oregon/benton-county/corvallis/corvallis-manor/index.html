@@ -27,8 +27,7 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* small-home badge accent */
-  --danger: #8e2216;
+  --gold: #7a5a00;        /* small-home badge & records-note accent */
   --radius: 12px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -131,9 +130,10 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
-   Appears on cards and the profile sidebar when serious_concern is true. */
-.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
+/* Read-the-record-first note — a neutral nudge, deliberately NOT red and NOT
+   an icon: it asks the reader to check the official record and reviews, and
+   says nothing about what they contain. */
+.records-note { border-left: 4px solid var(--gold); background: #f7f2e4; padding: .7rem .9rem; border-radius: 0 8px 8px 0; font-size: .95rem; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -207,8 +207,7 @@ tbody tr:hover { background: var(--soft); }
 .rating-glance .glance-links { list-style: none; margin: .6rem 0; padding: 0; }
 .rating-glance .glance-links li { margin: .45rem 0; font-size: .92rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
-.rating-glance .glance-flag { display: flex; flex-direction: column; align-items: flex-start; gap: .3rem; margin: .5rem 0 .8rem; padding-bottom: .6rem; border-bottom: 1px solid var(--line); }
-.rating-glance .glance-flag p { margin: 0; color: var(--muted); font-size: .88rem; }
+.rating-glance .records-note { margin: .6rem 0 .8rem; }
 
 /* Review-reading caveats, shown beneath the review platform links */
 .review-caveats { margin: .7rem 0 0; }
@@ -226,14 +225,6 @@ tbody tr:hover { background: var(--soft); }
 .btn-link { display: inline-block; font-weight: 600; }
 .review-link-list { list-style: none; margin: .5rem 0; padding: 0; }
 .review-link-list li { margin: .4rem 0; }
-
-/* Confirmed regulatory-flag notice */
-.tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
-.tier-notice-danger a { color: var(--accent); }
-.tnd-head { margin-top: 0; }
-.concern-facts { display: grid; grid-template-columns: auto 1fr; gap: .2rem .8rem; margin: .6rem 0; font-size: .92rem; }
-.concern-facts dt { font-weight: 700; }
-.concern-facts dd { margin: 0; }
 </style>
   
 </head>
@@ -320,13 +311,11 @@ tbody tr:hover { background: var(--soft); }
       <section class="panel rating-glance" aria-labelledby="glance-h">
   <h2 id="glance-h">Ratings &amp; reviews</h2>
   <p class="muted">We don't show a star rating ourselves — find it directly at the source:</p>
-  <div class="glance-row glance-flag">
-    <span class="concern-flag">Regulatory flag on file</span>
-    <p><span class="muted">Special Focus Facility (newly designated) (CMS (Centers for Medicare & Medicaid Services)) — see the full facts below before considering this community further.</span></p>
-  </div>
+  <p class="records-note"><strong>Important:</strong> take time to read this community's
+  official record and recent family reviews before you decide — start with the first link below.</p>
 
   <ul class="glance-links">
-    <li><a href="https://www.medicare.gov/care-compare/details/nursing-home/385072" rel="noopener">Medicare Care Compare</a> <span class="muted">— federal government rating</span></li>
+    <li><a href="https://www.medicare.gov/care-compare/details/nursing-home/385072" rel="noopener">Medicare Care Compare</a> <span class="muted">— official federal record &amp; rating</span></li>
     <li><a href="https://health.usnews.com/best-nursing-homes/area/or/corvallis-manor-385072" rel="nofollow noopener">U.S. News</a> <span class="muted">— family &amp; resident reviews</span></li>
     <li><a href="https://www.google.com/search?q=Corvallis+Manor+Corvallis+OR+reviews" rel="nofollow noopener">Search for more reviews</a> <span class="muted">— Google</span></li>
   </ul>
@@ -367,6 +356,13 @@ tbody tr:hover { background: var(--soft); }
   <p>We don't publish a star rating or numeric score for Corvallis Manor ourselves — ratings
   change, and a wrong number here would be worse than none. Instead, here's exactly where to find
   the real ones, straight from the source.</p>
+  <p class="records-note"><strong>Important:</strong> for this community, we especially encourage
+  you to read the official record and recent family reviews below, carefully and in full, before
+  you decide. We don't summarize or interpret any community's record ourselves — what matters is
+  what you find at the source, today. If anything you read concerns you, talk it through with the
+  <a href="/guides/checking-complaints-and-state-records/">long-term care ombudsman</a> — free,
+  independent, and familiar with local communities — and with the community itself:
+  <a href="/guides/why-good-communities-get-complaints/">how they respond tells you a lot</a>.</p>
   <div class="rating-card">
     <div class="rating-body">
       <h3>Medicare Five-Star Quality Rating</h3>
@@ -411,17 +407,6 @@ tbody tr:hover { background: var(--soft); }
 </div>
 
     </div>
-  </div>
-  <div class="notice tier-notice-danger">
-    <p class="tnd-head"><strong>Confirmed regulatory flag on the official record.</strong></p>
-    <dl class="concern-facts"><dt>Regulator</dt><dd>CMS (Centers for Medicare & Medicaid Services)</dd><dt>Finding</dt><dd>Special Focus Facility (newly designated)</dd><dt>Status</dt><dd>Active per CMS's Special Focus Facility tracking list — confirm current status directly</dd>
-    </dl>
-    <p>This is a fact we found and sourced, not our own assessment — we publish the regulator's
-    finding and a direct link, not our own account of what happened. <a href="https://www.cms.gov/files/document/sff-posting-candidate-list-june-2026.pdf" rel="nofollow noopener">Read the source record directly</a>.
-    We still list this community: a family searching for it by name deserves the real record, not
-    a blank page. Talk to the <a href="/guides/checking-complaints-and-state-records/">long-term
-    care ombudsman</a> about what you find before considering it further, and confirm the current
-    status yourself — regulatory status can change after our 2026-07-14 check.</p>
   </div>
 
   <p class="count">We link you to primary sources instead of showing a rating ourselves —
@@ -475,7 +460,7 @@ tbody tr:hover { background: var(--soft); }
 
       <li class="card">
   <h3><a href="/directory/oregon/benton-county/corvallis/willamette-springs-memory-care/">Willamette Springs Memory Care</a></h3>
-  <p class="meta">Corvallis, OR · <span class="concern-flag">Regulatory flag — see profile</span></p>
+  <p class="meta">Corvallis, OR</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>

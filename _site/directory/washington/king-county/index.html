@@ -28,8 +28,7 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* small-home badge accent */
-  --danger: #8e2216;
+  --gold: #7a5a00;        /* small-home badge & records-note accent */
   --radius: 12px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -132,9 +131,10 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
-   Appears on cards and the profile sidebar when serious_concern is true. */
-.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
+/* Read-the-record-first note — a neutral nudge, deliberately NOT red and NOT
+   an icon: it asks the reader to check the official record and reviews, and
+   says nothing about what they contain. */
+.records-note { border-left: 4px solid var(--gold); background: #f7f2e4; padding: .7rem .9rem; border-radius: 0 8px 8px 0; font-size: .95rem; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -748,7 +748,7 @@ tbody tr:hover { background: var(--soft); }
 
     <li class="card">
   <h3><a href="/directory/washington/king-county/seattle/paramount-rehabilitation-and-nursing/">Paramount Rehabilitation and Nursing</a></h3>
-  <p class="meta">Seattle, WA · <span class="concern-flag">Regulatory flag — see profile</span></p>
+  <p class="meta">Seattle, WA</p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>

@@ -5,7 +5,7 @@ title: "Discovery Commons Whittier"
 seo_title: "Discovery Commons Whittier — Senior Living in Whittier, CA"
 description: "Assisted living and memory care community on Burgess Avenue in Whittier, formerly known as Whittier Place Senior Living and now operated by Discovery Senior L"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Discovery Commons Whittier", "url": "/directory/california/los-angeles-county/whittier/discovery-commons-whittier/"}]
-nearby: [{"name": "Oakmont of Whittier", "url": "/directory/california/los-angeles-county/whittier/oakmont-of-whittier/", "city_name": "Whittier", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "Resort-style assisted living and memory care community on Whittier Boulevard, licensed for 97 residents (state license 198603479). Amenities include a movie theater, restaurant-style dining, and a full activity calendar including weekly happy hour."}]
+nearby: [{"name": "Oakmont of Whittier", "url": "/directory/california/los-angeles-county/whittier/oakmont-of-whittier/", "city_name": "Whittier", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Resort-style assisted living and memory care community on Whittier Boulevard, licensed for 97 residents (state license 198603479). Amenities include a movie theater, restaurant-style dining, and a full activity calendar including weekly happy hour."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

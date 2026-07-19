@@ -8,6 +8,6 @@ headquarters: "Taylorsville, Utah"
 website: "https://www.legacyretire.com/"
 facility_count_approx: 20
 org_states: ["UT", "NV", "ID"]
-facilities: [{"name": "Legacy House of Centennial Hills", "url": "/directory/nevada/clark-county/las-vegas/legacy-house-of-centennial-hills/", "city_name": "Las Vegas", "state_abbrev": "NV", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "Legacy House of Centennial Hills is an assisted living and memory care community in northwest Las Vegas, managed by Western States Lodging & Management."}]
+facilities: [{"name": "Legacy House of Centennial Hills", "url": "/directory/nevada/clark-county/las-vegas/legacy-house-of-centennial-hills/", "city_name": "Las Vegas", "state_abbrev": "NV", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Legacy House of Centennial Hills is an assisted living and memory care community in northwest Las Vegas, managed by Western States Lodging & Management."}]
 crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Western States Lodging & Management", "url": "/organizations/western-states-lodging/"}]
 ---

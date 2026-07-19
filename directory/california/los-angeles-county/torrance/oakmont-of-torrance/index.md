@@ -5,7 +5,7 @@ title: "Oakmont of Torrance"
 seo_title: "Oakmont of Torrance — Senior Living in Torrance, CA"
 description: "Modern assisted living and memory care community on Lomita Boulevard near Torrance Memorial Medical Center, licensed for 126 residents. One of the newer luxur"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Oakmont of Torrance", "url": "/directory/california/los-angeles-county/torrance/oakmont-of-torrance/"}]
-nearby: [{"name": "Brookdale South Bay", "url": "/directory/california/los-angeles-county/torrance/brookdale-south-bay/", "city_name": "Torrance", "state_abbrev": "CA", "care_levels": ["independent-living"], "serious_concern": false, "description": "Independent living retirement community on Torrance Boulevard in Torrance, part of the national Brookdale Senior Living network. Amenities include a library, arts and crafts studio, game room, and outdoor putting green, with housekeeping, dining, transportation, and concierge services handled by community staff."}]
+nearby: [{"name": "Brookdale South Bay", "url": "/directory/california/los-angeles-county/torrance/brookdale-south-bay/", "city_name": "Torrance", "state_abbrev": "CA", "care_levels": ["independent-living"], "records_note": false, "description": "Independent living retirement community on Torrance Boulevard in Torrance, part of the national Brookdale Senior Living network. Amenities include a library, arts and crafts studio, game room, and outdoor putting green, with housekeeping, dining, transportation, and concierge services handled by community staff."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

@@ -4,7 +4,7 @@ title: "Country Meadows Village"
 seo_title: "Country Meadows Village — Senior Living in Woodburn, OR"
 description: "Country Meadows Village is a senior living campus in Woodburn, about 35 minutes from downtown Portland, combining independent living apartments, cottage homes"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Country Meadows Village", "url": "/directory/oregon/marion-county/woodburn/country-meadows-village/"}]
-nearby: [{"name": "French Prairie Nursing and Rehabilitation Center", "url": "/directory/oregon/marion-county/woodburn/french-prairie-nursing-and-rehabilitation-center/", "city_name": "Woodburn", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "serious_concern": true, "facility_size": "large", "description": "French Prairie Nursing and Rehabilitation Center is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in Woodburn providing short-term post-acute rehabilitation and long-term custodial nursing care. It is part of the Volare Health group of skilled nursing providers."}]
+nearby: [{"name": "French Prairie Nursing and Rehabilitation Center", "url": "/directory/oregon/marion-county/woodburn/french-prairie-nursing-and-rehabilitation-center/", "city_name": "Woodburn", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "records_note": true, "facility_size": "large", "description": "French Prairie Nursing and Rehabilitation Center is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in Woodburn providing short-term post-acute rehabilitation and long-term custodial nursing care. It is part of the Volare Health group of skilled nursing providers."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"

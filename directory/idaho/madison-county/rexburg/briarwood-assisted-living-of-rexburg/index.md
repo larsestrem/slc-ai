@@ -4,7 +4,7 @@ title: "Briarwood Assisted Living of Rexburg"
 seo_title: "Briarwood Assisted Living of Rexburg — Senior Living in Rexburg, ID"
 description: "Briarwood Assisted Living of Rexburg is a small, home-style assisted living and memory care community described as a warm country home. Services include 24-ho"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Briarwood Assisted Living of Rexburg", "url": "/directory/idaho/madison-county/rexburg/briarwood-assisted-living-of-rexburg/"}]
-nearby: [{"name": "Temple View Transitional Care Center", "url": "/directory/idaho/madison-county/rexburg/temple-view-transitional-care-center/", "city_name": "Rexburg", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "serious_concern": false, "facility_size": "large", "description": "A 119-bed skilled nursing and transitional-care center in Rexburg (formerly Rexburg Care and Rehabilitation Center). Serves Madison County and the eastern Idaho region."}]
+nearby: [{"name": "Temple View Transitional Care Center", "url": "/directory/idaho/madison-county/rexburg/temple-view-transitional-care-center/", "city_name": "Rexburg", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "A 119-bed skilled nursing and transitional-care center in Rexburg (formerly Rexburg Care and Rehabilitation Center). Serves Madison County and the eastern Idaho region."}]
 state: "idaho"
 state_name: "Idaho"
 state_abbrev: "ID"

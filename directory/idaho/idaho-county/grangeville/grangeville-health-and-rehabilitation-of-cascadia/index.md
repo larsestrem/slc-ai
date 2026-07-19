@@ -24,11 +24,7 @@ organization_name: "Cascadia Healthcare"
 cms_ccn: "135080"
 sources: ["https://grangevillehealthandrehab.com/", "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-idaho/", "https://projects.propublica.org/nursing-homes/homes/h-135080", "https://www.medicare.gov/care-compare/details/nursing-home/135080/view-all/?state=ID"]
 verified_date: "2026-07-14"
-serious_concern: true
-concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
-concern_type: "Federal inspection citation for failure to protect residents from abuse"
-concern_status: "This citation is a separate, specific historical inspection finding that can coexist with a generally acceptable current rating; confirm current status directly on Care Compare"
-concern_source_url: "https://projects.propublica.org/nursing-homes/homes/h-135080"
+records_note: true
 description_full: "Grangeville Health and Rehabilitation of Cascadia is a 60-bed Medicare- and Medicaid-certified skilled nursing facility in Grangeville, serving Idaho County, offering short-term rehabilitation and long-term nursing care."
 reviews_search_url: "https://www.google.com/search?q=Grangeville+Health+and+Rehabilitation+of+Cascadia+Grangeville+ID+reviews"
 ---

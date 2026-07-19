@@ -4,7 +4,7 @@ title: "McKay Creek Assisted Living"
 seo_title: "McKay Creek Assisted Living — Senior Living in Pendleton, OR"
 description: "A 44-unit assisted living community on Southgate Place in Pendleton, also known as McKay Creek Estates. One of the highest-rated senior communities in Umatill"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "McKay Creek Assisted Living", "url": "/directory/oregon/umatilla-county/pendleton/mckay-creek-assisted-living/"}]
-nearby: [{"name": "Willowbrook Post Acute", "url": "/directory/oregon/umatilla-county/pendleton/willowbrook-post-acute/", "city_name": "Pendleton", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "serious_concern": false, "facility_size": "medium", "description": "Willowbrook Post Acute is a 59-bed Medicare- and Medicaid-certified skilled nursing facility in Pendleton offering short-term rehabilitation and long-term nursing care."}]
+nearby: [{"name": "Willowbrook Post Acute", "url": "/directory/oregon/umatilla-county/pendleton/willowbrook-post-acute/", "city_name": "Pendleton", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "medium", "description": "Willowbrook Post Acute is a 59-bed Medicare- and Medicaid-certified skilled nursing facility in Pendleton offering short-term rehabilitation and long-term nursing care."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"

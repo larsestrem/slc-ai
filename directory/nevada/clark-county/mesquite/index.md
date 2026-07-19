@@ -9,6 +9,6 @@ county_name: "Clark"
 state_name: "Nevada"
 state_abbrev: "NV"
 facility_count: 1
-facilities: [{"name": "Highland Manor of Mesquite", "url": "/directory/nevada/clark-county/mesquite/highland-manor-of-mesquite/", "city_name": "Mesquite", "state_abbrev": "NV", "care_levels": ["skilled-nursing"], "serious_concern": false, "facility_size": "large", "description": "Highland Manor of Mesquite is a 112-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility serving the Mesquite area of Clark County."}]
+facilities: [{"name": "Highland Manor of Mesquite", "url": "/directory/nevada/clark-county/mesquite/highland-manor-of-mesquite/", "city_name": "Mesquite", "state_abbrev": "NV", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Highland Manor of Mesquite is a 112-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility serving the Mesquite area of Clark County."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Clark County", "url": "/directory/nevada/clark-county/"}, {"name": "Mesquite", "url": "/directory/nevada/clark-county/mesquite/"}]
 ---

@@ -4,7 +4,7 @@ title: "Roselani Place"
 seo_title: "Roselani Place — Senior Living in Kahului, HI"
 description: "Roselani Place in Kahului is Maui's only private-pay independent living, assisted living, and memory care community, licensed for 144 residents and operated b"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Roselani Place", "url": "/directory/hawaii/maui-county/kahului/roselani-place/"}]
-nearby: [{"name": "Myles Care Home", "url": "/directory/hawaii/maui-county/kahului/myles-care-home/", "city_name": "Kahului", "state_abbrev": "HI", "care_levels": ["adult-family-home"], "serious_concern": false, "facility_size": "small", "description": "Myles Care Home is a small, state-licensed Adult Residential Care Home (ARCH Level 1) in a residential neighborhood of Kahului, Maui, licensed for 5 residents. It offers individualized assistance with daily living activities."}]
+nearby: [{"name": "Myles Care Home", "url": "/directory/hawaii/maui-county/kahului/myles-care-home/", "city_name": "Kahului", "state_abbrev": "HI", "care_levels": ["adult-family-home"], "records_note": false, "facility_size": "small", "description": "Myles Care Home is a small, state-licensed Adult Residential Care Home (ARCH Level 1) in a residential neighborhood of Kahului, Maui, licensed for 5 residents. It offers individualized assistance with daily living activities."}]
 state: "hawaii"
 state_name: "Hawaii"
 state_abbrev: "HI"

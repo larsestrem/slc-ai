@@ -8,6 +8,6 @@ county_name: "Mohave"
 state_name: "Arizona"
 state_abbrev: "AZ"
 facility_count: 1
-cities: [{"slug": "lake-havasu-city", "name": "Lake Havasu City", "url": "/directory/arizona/mohave-county/lake-havasu-city/", "facilities": [{"name": "Vista Pointe at Lake Havasu City", "url": "/directory/arizona/mohave-county/lake-havasu-city/vista-pointe-at-lake-havasu-city/", "city_name": "Lake Havasu City", "state_abbrev": "AZ", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "facility_size": "medium", "description": "Vista Pointe at Lake Havasu City provides assisted living and memory care near downtown Lake Havasu City."}]}]
+cities: [{"slug": "lake-havasu-city", "name": "Lake Havasu City", "url": "/directory/arizona/mohave-county/lake-havasu-city/", "facilities": [{"name": "Vista Pointe at Lake Havasu City", "url": "/directory/arizona/mohave-county/lake-havasu-city/vista-pointe-at-lake-havasu-city/", "city_name": "Lake Havasu City", "state_abbrev": "AZ", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "medium", "description": "Vista Pointe at Lake Havasu City provides assisted living and memory care near downtown Lake Havasu City."}]}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Mohave County", "url": "/directory/arizona/mohave-county/"}]
 ---

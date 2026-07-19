@@ -9,6 +9,6 @@ county_name: "Alameda"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "Aegis Living Fremont", "url": "/directory/california/alameda-county/fremont/aegis-living-fremont/", "city_name": "Fremont", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "description": "An assisted living and memory care community on Walnut Avenue in central Fremont, part of the Aegis Living family."}]
+facilities: [{"name": "Aegis Living Fremont", "url": "/directory/california/alameda-county/fremont/aegis-living-fremont/", "city_name": "Fremont", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "An assisted living and memory care community on Walnut Avenue in central Fremont, part of the Aegis Living family."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Alameda County", "url": "/directory/california/alameda-county/"}, {"name": "Fremont", "url": "/directory/california/alameda-county/fremont/"}]
 ---

@@ -9,6 +9,6 @@ county_name: "King"
 state_name: "Washington"
 state_abbrev: "WA"
 facility_count: 1
-facilities: [{"name": "Judson Park", "url": "/directory/washington/king-county/des-moines/judson-park/", "city_name": "Des Moines", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "serious_concern": false, "facility_size": "large", "description": "Judson Park is a nonprofit continuing care retirement community overlooking Puget Sound in Des Moines, operated by HumanGood. The campus offers independent living, assisted living, memory care, and a 96-bed Medicare-certified health center, and holds a three-year CARF accreditation."}]
+facilities: [{"name": "Judson Park", "url": "/directory/washington/king-county/des-moines/judson-park/", "city_name": "Des Moines", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "records_note": false, "facility_size": "large", "description": "Judson Park is a nonprofit continuing care retirement community overlooking Puget Sound in Des Moines, operated by HumanGood. The campus offers independent living, assisted living, memory care, and a 96-bed Medicare-certified health center, and holds a three-year CARF accreditation."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "King County", "url": "/directory/washington/king-county/"}, {"name": "Des Moines", "url": "/directory/washington/king-county/des-moines/"}]
 ---

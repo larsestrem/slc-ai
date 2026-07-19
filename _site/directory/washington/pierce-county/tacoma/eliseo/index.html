@@ -27,8 +27,7 @@
   --on-accent: #ffffff;   /* text on accent — 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
-  --gold: #7a5a00;        /* small-home badge accent */
-  --danger: #8e2216;
+  --gold: #7a5a00;        /* small-home badge & records-note accent */
   --radius: 12px;
   --maxw: 70rem;
   --prose: 46rem;
@@ -131,9 +130,10 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Confirmed-regulatory-flag indicator — a sourced fact, not a computed rating.
-   Appears on cards and the profile sidebar when serious_concern is true. */
-.concern-flag { display: inline-block; padding: .1rem .5rem; border-radius: 999px; font-size: .78rem; font-weight: 700; border: 1px solid currentColor; color: var(--danger); background: #fbe9e6; }
+/* Read-the-record-first note — a neutral nudge, deliberately NOT red and NOT
+   an icon: it asks the reader to check the official record and reviews, and
+   says nothing about what they contain. */
+.records-note { border-left: 4px solid var(--gold); background: #f7f2e4; padding: .7rem .9rem; border-radius: 0 8px 8px 0; font-size: .95rem; }
 
 /* Callouts */
 .ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
@@ -207,8 +207,7 @@ tbody tr:hover { background: var(--soft); }
 .rating-glance .glance-links { list-style: none; margin: .6rem 0; padding: 0; }
 .rating-glance .glance-links li { margin: .45rem 0; font-size: .92rem; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
-.rating-glance .glance-flag { display: flex; flex-direction: column; align-items: flex-start; gap: .3rem; margin: .5rem 0 .8rem; padding-bottom: .6rem; border-bottom: 1px solid var(--line); }
-.rating-glance .glance-flag p { margin: 0; color: var(--muted); font-size: .88rem; }
+.rating-glance .records-note { margin: .6rem 0 .8rem; }
 
 /* Review-reading caveats, shown beneath the review platform links */
 .review-caveats { margin: .7rem 0 0; }
@@ -226,14 +225,6 @@ tbody tr:hover { background: var(--soft); }
 .btn-link { display: inline-block; font-weight: 600; }
 .review-link-list { list-style: none; margin: .5rem 0; padding: 0; }
 .review-link-list li { margin: .4rem 0; }
-
-/* Confirmed regulatory-flag notice */
-.tier-notice-danger { background: #fbe9e6; border-color: var(--danger); color: var(--ink); }
-.tier-notice-danger a { color: var(--accent); }
-.tnd-head { margin-top: 0; }
-.concern-facts { display: grid; grid-template-columns: auto 1fr; gap: .2rem .8rem; margin: .6rem 0; font-size: .92rem; }
-.concern-facts dt { font-weight: 700; }
-.concern-facts dd { margin: 0; }
 </style>
   
 </head>
@@ -330,7 +321,7 @@ tbody tr:hover { background: var(--soft); }
   <p class="muted">We don't show a star rating ourselves — find it directly at the source:</p>
 
   <ul class="glance-links">
-    <li><a href="https://www.medicare.gov/care-compare/details/nursing-home/505435" rel="noopener">Medicare Care Compare</a> <span class="muted">— federal government rating</span></li>
+    <li><a href="https://www.medicare.gov/care-compare/details/nursing-home/505435" rel="noopener">Medicare Care Compare</a> <span class="muted">— official federal record &amp; rating</span></li>
     <li><a href="https://health.usnews.com/best-nursing-homes/area/wa/eliseo-505435" rel="nofollow noopener">U.S. News</a> <span class="muted">— family &amp; resident reviews</span></li>
     <li><a href="https://www.google.com/search?q=eliseo+Tacoma+WA+reviews" rel="nofollow noopener">Search for more reviews</a> <span class="muted">— Google</span></li>
   </ul>

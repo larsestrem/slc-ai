@@ -5,7 +5,7 @@ title: "Oakmont of Roseville"
 seo_title: "Oakmont of Roseville — Senior Living in Roseville, CA"
 description: "Oakmont of Roseville is a luxury assisted living and memory care community on Secret Ravine Parkway near Sutter Roseville Medical Center."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Oakmont of Roseville", "url": "/directory/california/placer-county/roseville/oakmont-of-roseville/"}]
-nearby: [{"name": "Sierra Regency", "url": "/directory/california/placer-county/roseville/sierra-regency/", "city_name": "Roseville", "state_abbrev": "CA", "care_levels": ["independent-living"], "serious_concern": false, "description": "A gated independent retirement community in Roseville, established in 1988, with full-kitchen one- and two-bedroom apartments. Amenities include an indoor heated pool and spa, putting green, chapel, library, Sunday champagne brunch, and 24-hour staffing. Meals, weekly housekeeping, and transportation are bundled into the monthly rate."}]
+nearby: [{"name": "Sierra Regency", "url": "/directory/california/placer-county/roseville/sierra-regency/", "city_name": "Roseville", "state_abbrev": "CA", "care_levels": ["independent-living"], "records_note": false, "description": "A gated independent retirement community in Roseville, established in 1988, with full-kitchen one- and two-bedroom apartments. Amenities include an indoor heated pool and spa, putting green, chapel, library, Sunday champagne brunch, and 24-hour staffing. Meals, weekly housekeeping, and transportation are bundled into the monthly rate."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

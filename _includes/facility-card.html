@@ -1,7 +1,7 @@
 {%- assign f = include.facility -%}
 <li class="card"{% if include.city %} data-city="{{ include.city }}"{% endif %}>
   <h3><a href="{{ f.url }}">{{ f.name }}</a></h3>
-  <p class="meta">{{ f.city_name }}, {{ f.state_abbrev }}{% if f.facility_size == 'small' %} · Small home{% endif %}{% if f.serious_concern %} · <span class="concern-flag">Regulatory flag — see profile</span>{% endif %}</p>
+  <p class="meta">{{ f.city_name }}, {{ f.state_abbrev }}{% if f.facility_size == 'small' %} · Small home{% endif %}</p>
   {% include care-badges.html levels=f.care_levels %}
   {%- if f.description %}<p class="desc">{{ f.description | truncate: 140 }}</p>{% endif %}
 </li>

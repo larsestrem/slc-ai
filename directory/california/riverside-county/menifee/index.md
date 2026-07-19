@@ -9,6 +9,6 @@ county_name: "Riverside"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "Menifee Senior Living", "url": "/directory/california/riverside-county/menifee/menifee-senior-living/", "city_name": "Menifee", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "serious_concern": false, "description": "Menifee Senior Living offers independent living, assisted living, memory care, and respite stays in the Sun City area of Menifee."}]
+facilities: [{"name": "Menifee Senior Living", "url": "/directory/california/riverside-county/menifee/menifee-senior-living/", "city_name": "Menifee", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "records_note": false, "description": "Menifee Senior Living offers independent living, assisted living, memory care, and respite stays in the Sun City area of Menifee."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Riverside County", "url": "/directory/california/riverside-county/"}, {"name": "Menifee", "url": "/directory/california/riverside-county/menifee/"}]
 ---

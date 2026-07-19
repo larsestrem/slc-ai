@@ -4,7 +4,7 @@ title: "Sunrise of Edmonds"
 seo_title: "Sunrise of Edmonds — Senior Living in Edmonds, WA"
 description: "Sunrise of Edmonds provides assisted living and memory care near the Edmonds waterfront in Snohomish County. It was recognized as Best Assisted Living and Bes"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Sunrise of Edmonds", "url": "/directory/washington/snohomish-county/edmonds/sunrise-of-edmonds/"}]
-nearby: [{"name": "Edmonds Landing by Cogir", "url": "/directory/washington/snohomish-county/edmonds/edmonds-landing-by-cogir/", "city_name": "Edmonds", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living"], "serious_concern": false, "description": "Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurants."}]
+nearby: [{"name": "Edmonds Landing by Cogir", "url": "/directory/washington/snohomish-county/edmonds/edmonds-landing-by-cogir/", "city_name": "Edmonds", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living"], "records_note": false, "description": "Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurants."}]
 state: "washington"
 state_name: "Washington"
 state_abbrev: "WA"

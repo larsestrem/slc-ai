@@ -116,18 +116,18 @@ def review_links_from_sources(sources):
     return links
 
 
-def has_serious_concern(f):
-    """Round-8 no-ratings-on-site model: the site no longer displays any numeric
-    rating or derived quality tier (stars, "meets our standard", etc.) — that
-    turned out to carry real liability when the underlying number was wrong (see
-    the round-7 audit corrections). Instead, every profile links out to the
-    primary sources (Care Compare, state licensing, review platforms) so
-    families see the real numbers themselves. The one thing still asserted on
-    the site is a confirmed, sourced REGULATORY FACT — a Special Focus Facility
-    designation or a substantiated finding — which is not a rating we compute,
-    just a fact we report with its source. Used only to push flagged
-    facilities to the bottom of listings; never used to imply anything about
-    facilities without a flag."""
+def records_note(f):
+    """Round-10 model: the site publishes NO findings, flags, or concern
+    language of any kind — not even sourced government facts. The concern_*
+    fields in the data files are INTERNAL ONLY: they record why a facility
+    qualifies for the note (each traces to a government record) and are never
+    written into pages. What the site shows for these facilities is a single
+    neutral nudge — "it's important to read this community's official record
+    and reviews before you decide" — with the official record linked first, so
+    the reader finds whatever is there at the source. Set exclusively from
+    hand-verified, government-sourced entries; never inferred from reviews,
+    ratings, or anything else. Also pushes the facility to the bottom of its
+    (otherwise alphabetical) listings."""
     return bool(f.get("serious_concern") or f.get("special_focus_facility"))
 
 
@@ -147,7 +147,7 @@ def card(f):
         "name": f["name"], "url": facility_url(f),
         "city_name": f["city_name"], "state_abbrev": f["state_abbrev"],
         "care_levels": f.get("care_levels", []),
-        "serious_concern": has_serious_concern(f),
+        "records_note": records_note(f),  # ordering only — never rendered on cards
     }
     for k in ("facility_size", "description"):
         if f.get(k):
@@ -156,15 +156,15 @@ def card(f):
 
 
 def sort_key(f):
-    """Alphabetical — the site asserts no quality ordering. A confirmed
-    regulatory flag (not a rating) is the one thing that still affects order,
-    pushing that facility to the bottom of its list."""
-    return (1 if has_serious_concern(f) else 0, f["name"])
+    """Alphabetical — the site asserts no quality ordering. The one thing that
+    still affects order is the internal records-note marker, which pushes that
+    facility to the bottom of its list."""
+    return (1 if records_note(f) else 0, f["name"])
 
 
 def card_sort_key(c):
     """Same ordering as sort_key, for lists already reduced to card() dicts."""
-    return (1 if c.get("serious_concern") else 0, c["name"])
+    return (1 if c.get("records_note") else 0, c["name"])
 
 
 def load_geo():
@@ -274,18 +274,19 @@ def gen_facility_page(f, siblings, licensing):
                    "photos", "logo",
                    "review_caveat",
                    # small-home license facts (not a rating — license status, not a score)
-                   "license_id", "licensed_since", "specialties",
-                   # confirmed regulatory flags — a sourced fact, not a computed rating
-                   "special_focus_facility", "serious_concern",
-                   "concern_regulator", "concern_type", "concern_date", "concern_status",
-                   "concern_source_url")
+                   "license_id", "licensed_since", "specialties")
     for k in passthrough:
         if f.get(k) not in (None, "", []):
             front[k] = f[k]
-    # Templates gate the flag notice on serious_concern; make sure SFF-only
-    # facilities carry the computed flag too, not just their cards.
-    if has_serious_concern(f):
-        front["serious_concern"] = True
+    # Internal concern_* data NEVER reaches the page. Qualifying facilities get
+    # only a neutral read-the-record-first note; when the facility has no CCN,
+    # the facility-specific state licensing record (a government page) is the
+    # link we ask readers to start with.
+    if records_note(f):
+        front["records_note"] = True
+        src = f.get("concern_source_url") or ""
+        if not f.get("cms_ccn") and "ltclicensing" in src:
+            front["records_url"] = src
     front["description_full"] = f.get("description")
     rlinks = f.get("review_links") or review_links_from_sources(f.get("sources"))
     if rlinks:

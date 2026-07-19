@@ -1,19 +1,29 @@
 {%- comment -%}
-Bottom-of-page ratings & records section. We do not display a numeric rating
-or star anywhere on the site — a wrong number is a real liability, and the
-source can change the moment after we check it. Instead, every source we
-found is listed here with a direct, clearly-labeled link and a short
-explanation of who assigns it and what it measures, so a family can read the
-real, current number themselves. See /guides/how-we-list-communities/ for
-the full policy. The one exception is a confirmed regulatory flag (Special
-Focus Facility, a substantiated finding) — that's a sourced fact we report,
-not a rating we compute.
+Bottom-of-page ratings & records section. We do not display a numeric rating,
+star, flag, or finding anywhere on the site — a wrong or stale statement is a
+real liability, and the source can change the moment after we check it.
+Instead, every source we found is listed here with a direct, clearly-labeled
+link and a short explanation of who assigns it and what it measures, so a
+family can read the real, current record themselves. See
+/guides/how-we-list-communities/ for the full policy. records_note profiles
+get only a neutral read-it-first nudge, with the official record placed
+first — we never say what the record contains.
 {%- endcomment -%}
 <section class="panel ratings-block" aria-labelledby="ratings-h">
   <h2 id="ratings-h">Ratings &amp; official records</h2>
   <p>We don't publish a star rating or numeric score for {{ page.title }} ourselves — ratings
   change, and a wrong number here would be worse than none. Instead, here's exactly where to find
   the real ones, straight from the source.</p>
+
+  {%- if page.records_note %}
+  <p class="records-note"><strong>Important:</strong> for this community, we especially encourage
+  you to read the official record and recent family reviews below, carefully and in full, before
+  you decide. We don't summarize or interpret any community's record ourselves — what matters is
+  what you find at the source, today. If anything you read concerns you, talk it through with the
+  <a href="/guides/checking-complaints-and-state-records/">long-term care ombudsman</a> — free,
+  independent, and familiar with local communities — and with the community itself:
+  <a href="/guides/why-good-communities-get-complaints/">how they respond tells you a lot</a>.</p>
+  {%- endif %}
 
   {%- if page.cms_ccn %}
   <div class="rating-card">
@@ -44,7 +54,9 @@ not a rating we compute.
       {%- if page.specialties and page.specialties.size > 0 %}
       <p><strong>State-recognized specialties:</strong> {{ page.specialties | join: ", " }} — added training or endorsements the state records for this home.</p>
       {%- endif %}
-      {%- if page.licensing %}
+      {%- if page.records_url %}
+      <p><a class="btn-link" href="{{ page.records_url }}" rel="noopener">Read {{ page.title }}'s record at the {{ page.state_name }} licensing site{% if page.license_id %} (license&nbsp;{{ page.license_id }}){% endif %} &rarr;</a></p>
+      {%- elsif page.licensing %}
       <p><a class="btn-link" href="{{ page.licensing.lookup_url }}" rel="noopener">Look up {{ page.title }} at the {{ page.licensing.agency }}{% if page.license_id %} (license&nbsp;{{ page.license_id }}){% endif %} &rarr;</a></p>
       {%- endif %}
       <p class="cms-currency"><a href="/guides/checking-complaints-and-state-records/">How to read the state record fairly</a></p>
@@ -70,25 +82,6 @@ not a rating we compute.
       {% include review-caveats.html %}
     </div>
   </div>
-
-  {%- if page.serious_concern %}
-  <div class="notice tier-notice-danger">
-    <p class="tnd-head"><strong>Confirmed regulatory flag on the official record.</strong></p>
-    <dl class="concern-facts">
-      {%- if page.concern_regulator %}<dt>Regulator</dt><dd>{{ page.concern_regulator }}</dd>{% endif %}
-      {%- if page.concern_type %}<dt>Finding</dt><dd>{{ page.concern_type }}</dd>{% endif %}
-      {%- if page.concern_date %}<dt>Date</dt><dd>{{ page.concern_date }}</dd>{% endif %}
-      {%- if page.concern_status %}<dt>Status</dt><dd>{{ page.concern_status }}</dd>{% endif %}
-    </dl>
-    <p>This is a fact we found and sourced, not our own assessment — we publish the regulator's
-    finding and a direct link, not our own account of what happened.
-    {%- if page.concern_source_url %} <a href="{{ page.concern_source_url }}" rel="nofollow noopener">Read the source record directly</a>.{% endif %}
-    We still list this community: a family searching for it by name deserves the real record, not
-    a blank page. Talk to the <a href="/guides/checking-complaints-and-state-records/">long-term
-    care ombudsman</a> about what you find before considering it further, and confirm the current
-    status yourself — regulatory status can change after our {{ page.verified_date | default: site.data_vintage.last_verified }} check.</p>
-  </div>
-  {%- endif %}
 
   <p class="count">We link you to primary sources instead of showing a rating ourselves —
   <a href="/guides/how-we-list-communities/">why, and how to use what you find</a>.</p>

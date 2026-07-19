@@ -5,7 +5,7 @@ title: "Bay Towers at Bixby Knolls"
 seo_title: "Bay Towers at Bixby Knolls — Senior Living in Long Beach, CA"
 description: "High-rise senior community in Long Beach's Bixby Knolls neighborhood offering independent living, assisted living, and respite stays. Monthly rates start lowe"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Bay Towers at Bixby Knolls", "url": "/directory/california/los-angeles-county/long-beach/bay-towers-at-bixby-knolls/"}]
-nearby: [{"name": "Alamitos Belmont Health and Rehabilitation", "url": "/directory/california/los-angeles-county/long-beach/alamitos-belmont-health-and-rehabilitation/", "city_name": "Long Beach", "state_abbrev": "CA", "care_levels": ["skilled-nursing"], "serious_concern": false, "facility_size": "large", "description": "94-bed Medicare- and Medicaid-certified skilled nursing facility in the Belmont Heights area of Long Beach offering short-term rehabilitation and long-term care."}]
+nearby: [{"name": "Alamitos Belmont Health and Rehabilitation", "url": "/directory/california/los-angeles-county/long-beach/alamitos-belmont-health-and-rehabilitation/", "city_name": "Long Beach", "state_abbrev": "CA", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "94-bed Medicare- and Medicaid-certified skilled nursing facility in the Belmont Heights area of Long Beach offering short-term rehabilitation and long-term care."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

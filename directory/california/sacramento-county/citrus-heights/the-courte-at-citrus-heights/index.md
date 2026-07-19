@@ -5,7 +5,7 @@ title: "Elim Courte Citrus Heights"
 seo_title: "Elim Courte Citrus Heights — Senior Living in Citrus Heights, CA"
 description: "Dedicated memory care community on Sunrise Boulevard in Citrus Heights serving residents with Alzheimer's and other dementias. Care is built around Frontier's"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Elim Courte Citrus Heights", "url": "/directory/california/sacramento-county/citrus-heights/the-courte-at-citrus-heights/"}]
-nearby: [{"name": "Cogir of Stock Ranch Senior Living", "url": "/directory/california/sacramento-county/citrus-heights/cogir-of-stock-ranch-senior-living/", "city_name": "Citrus Heights", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living"], "serious_concern": false, "description": "An assisted living community in Citrus Heights, formerly a Brookdale community and now operated by Cogir Senior Living."}]
+nearby: [{"name": "Cogir of Stock Ranch Senior Living", "url": "/directory/california/sacramento-county/citrus-heights/cogir-of-stock-ranch-senior-living/", "city_name": "Citrus Heights", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living"], "records_note": false, "description": "An assisted living community in Citrus Heights, formerly a Brookdale community and now operated by Cogir Senior Living."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

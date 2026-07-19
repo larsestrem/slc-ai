@@ -5,7 +5,7 @@ title: "The Pines by Cogir"
 seo_title: "The Pines by Cogir — Senior Living in Rocklin, CA"
 description: "An independent living, assisted living, and memory care community in Rocklin, formerly operated as The Pines, A Merrill Gardens Community, and now part of Cog"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Pines by Cogir", "url": "/directory/california/placer-county/rocklin/the-pines-by-cogir/"}]
-nearby: [{"name": "Atria Rocklin", "url": "/directory/california/placer-county/rocklin/atria-rocklin/", "city_name": "Rocklin", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "description": "Atria Rocklin offers independent living, assisted living, and Life Guidance memory care in the hills of Rocklin near the Quarry District and Whitney Oaks Golf Club. The community features upscale amenities, chef-prepared dining, and discreet 24-hour support staff."}]
+nearby: [{"name": "Atria Rocklin", "url": "/directory/california/placer-county/rocklin/atria-rocklin/", "city_name": "Rocklin", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "Atria Rocklin offers independent living, assisted living, and Life Guidance memory care in the hills of Rocklin near the Quarry District and Whitney Oaks Golf Club. The community features upscale amenities, chef-prepared dining, and discreet 24-hour support staff."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

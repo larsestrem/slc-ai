@@ -9,6 +9,6 @@ county_name: "San Diego"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "The Cove at La Jolla", "url": "/directory/california/san-diego-county/la-jolla/the-cove-at-la-jolla/", "city_name": "La Jolla", "state_abbrev": "CA", "care_levels": ["skilled-nursing", "respite-care"], "serious_concern": false, "facility_size": "medium", "description": "The Cove at La Jolla is a 59-bed Medicare-certified skilled nursing facility near the coast in La Jolla. The facility is affiliated with The Ensign Group."}]
+facilities: [{"name": "The Cove at La Jolla", "url": "/directory/california/san-diego-county/la-jolla/the-cove-at-la-jolla/", "city_name": "La Jolla", "state_abbrev": "CA", "care_levels": ["skilled-nursing", "respite-care"], "records_note": false, "facility_size": "medium", "description": "The Cove at La Jolla is a 59-bed Medicare-certified skilled nursing facility near the coast in La Jolla. The facility is affiliated with The Ensign Group."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Diego County", "url": "/directory/california/san-diego-county/"}, {"name": "La Jolla", "url": "/directory/california/san-diego-county/la-jolla/"}]
 ---

@@ -5,7 +5,7 @@ title: "Brookdale Murrieta"
 seo_title: "Brookdale Murrieta — Senior Living in Murrieta, CA"
 description: "Assisted living community on Jackson Avenue in Murrieta, part of the national Brookdale Senior Living network."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Brookdale Murrieta", "url": "/directory/california/riverside-county/murrieta/brookdale-murrieta/"}]
-nearby: [{"name": "WellQuest of Murrieta", "url": "/directory/california/riverside-county/murrieta/wellquest-of-murrieta/", "city_name": "Murrieta", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "serious_concern": false, "description": "WellQuest of Murrieta, formerly Renaissance Village Murrieta, is a senior living community established in 2017 offering independent living, assisted living, memory care and respite care."}]
+nearby: [{"name": "WellQuest of Murrieta", "url": "/directory/california/riverside-county/murrieta/wellquest-of-murrieta/", "city_name": "Murrieta", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "records_note": false, "description": "WellQuest of Murrieta, formerly Renaissance Village Murrieta, is a senior living community established in 2017 offering independent living, assisted living, memory care and respite care."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

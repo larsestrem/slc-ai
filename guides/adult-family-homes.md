@@ -66,11 +66,11 @@ So judge a small home differently:
 
 ## How we list small homes
 
-Because a review-count bar would wrongly exclude the best small homes, our [directory](/directory/) holds small residential care homes to a standard built for their size rather than a big building's:
+Because a review-count bar would wrongly exclude the best small homes, our [directory](/directory/) treats small residential care homes on their own terms rather than a big building's:
 
-- **The gate is the regulatory record, not review volume.** A small home qualifies when it holds a **current state license in good standing with a clean recent inspection record** — no revoked or restricted license, no admission hold, no substantiated abuse or neglect finding in the recent window.
-- **Plus at least one positive signal of good care:** a strong review reputation *even at low volume*, a state specialty endorsement (such as dementia or diabetic care), or years of stable operation under the same provider.
-- **We link you to whatever exists, honestly.** We don't display a review number ourselves — see [why](/guides/how-we-list-communities/) — but every home's profile links directly to any review platforms we found, so you can read the real count and what families wrote. If a home has only a few reviews, that's exactly what you'll see when you click through, not a hidden or padded number. If a home has none, its profile leads with the license basis and the specialties the state records instead.
+- **We never screen by review volume.** A licensed small home we can verify gets listed, whether it has forty reviews or none — a thin review page says nothing about a five-bed home's quality.
+- **The record is yours to read, not ours to grade.** We don't characterize any home's license or inspection history — every profile links to the state licensing record, where you can see the current license status, endorsements, and inspection history for yourself, exactly as the state publishes it today.
+- **We link you to whatever exists, honestly.** We don't display a review number ourselves — see [why](/guides/how-we-list-communities/) — but every home's profile links directly to any review platforms we found, so you can read the real count and what families wrote. If a home has only a few reviews, that's exactly what you'll see when you click through, not a hidden or padded number. If a home has none, its profile leads with the license lookup and the specialties the state records instead.
 
 The result is a directory where an excellent five-bed home sits alongside a large community on its own merits — which is the whole reason to look at small homes in the first place.
 

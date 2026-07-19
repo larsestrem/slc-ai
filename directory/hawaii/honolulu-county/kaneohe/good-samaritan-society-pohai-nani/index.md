@@ -4,7 +4,7 @@ title: "Good Samaritan Society - Pohai Nani"
 seo_title: "Good Samaritan Society - Pohai Nani — Senior Living in Kaneohe, HI"
 description: "Pohai Nani is a continuing care retirement community operated by the nonprofit Good Samaritan Society on a 16-acre campus in Kaneohe, with views of the Ko'ola"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Good Samaritan Society - Pohai Nani", "url": "/directory/hawaii/honolulu-county/kaneohe/good-samaritan-society-pohai-nani/"}]
-nearby: [{"name": "Kina 'Ole Estate", "url": "/directory/hawaii/honolulu-county/kaneohe/kina-ole-estate/", "city_name": "Kaneohe", "state_abbrev": "HI", "care_levels": ["adult-family-home", "memory-care"], "serious_concern": false, "facility_size": "small", "description": "Kina 'Ole Estate is a small windward-Oahu care home in Kaneohe housing up to eight live-in residents, offering assisted living, memory care and expanded care with 24-hour staffing."}]
+nearby: [{"name": "Kina 'Ole Estate", "url": "/directory/hawaii/honolulu-county/kaneohe/kina-ole-estate/", "city_name": "Kaneohe", "state_abbrev": "HI", "care_levels": ["adult-family-home", "memory-care"], "records_note": false, "facility_size": "small", "description": "Kina 'Ole Estate is a small windward-Oahu care home in Kaneohe housing up to eight live-in residents, offering assisted living, memory care and expanded care with 24-hour staffing."}]
 state: "hawaii"
 state_name: "Hawaii"
 state_abbrev: "HI"

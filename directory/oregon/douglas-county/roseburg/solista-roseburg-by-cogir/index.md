@@ -4,7 +4,7 @@ title: "Solista Roseburg by Cogir"
 seo_title: "Solista Roseburg by Cogir — Senior Living in Roseburg, OR"
 description: "Solista Roseburg (formerly Holiday Garden Valley) is an independent living community for older adults in Roseburg operated by Cogir Senior Living. Monthly ren"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Solista Roseburg by Cogir", "url": "/directory/oregon/douglas-county/roseburg/solista-roseburg-by-cogir/"}]
-nearby: [{"name": "Callahan Court Memory Care", "url": "/directory/oregon/douglas-county/roseburg/callahan-court-memory-care/", "city_name": "Roseburg", "state_abbrev": "OR", "care_levels": ["memory-care"], "serious_concern": false, "facility_size": "medium", "description": "Callahan Court Memory Care is a 48-bed licensed residential memory care community in Roseburg specializing in care for people with Alzheimer's disease and other dementias. Services include personal care, medication supervision, meals, and 24-hour supervision, and the community is managed by Eugene-based Compass Senior Living."}]
+nearby: [{"name": "Callahan Court Memory Care", "url": "/directory/oregon/douglas-county/roseburg/callahan-court-memory-care/", "city_name": "Roseburg", "state_abbrev": "OR", "care_levels": ["memory-care"], "records_note": false, "facility_size": "medium", "description": "Callahan Court Memory Care is a 48-bed licensed residential memory care community in Roseburg specializing in care for people with Alzheimer's disease and other dementias. Services include personal care, medication supervision, meals, and 24-hour supervision, and the community is managed by Eugene-based Compass Senior Living."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"

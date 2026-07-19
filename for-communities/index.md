@@ -26,9 +26,18 @@ one comes up.
 1. **Email us** at **listings@senior.living.community** from an address at your community's
    domain, with your name, your role, and your community's name (and the listing URL on this
    site, if it exists).
-2. **We verify** you against your community's state license record — families trust this
-   directory because every change is verified.
+2. **We verify you before anything changes.** No update is ever published from an unverified
+   person. We confirm the community against its state license record, confirm your email is at
+   the community's own domain (or its parent organization's), and call the community's published
+   main phone number to confirm your name and role with management. Listings updated this way
+   carry a **"Community-verified profile"** badge, and every community-provided section is
+   labeled and dated.
 3. **You update** — as little or as much as you have time for.
+
+**Want to see what you're working toward?**
+**[See a complete sample profile →](/for-communities/example-profile/)** — photos, care
+capabilities by level, daily life, floor plans, and your own answer to the question families
+care about most.
 
 ## Answer what you can, when you can
 

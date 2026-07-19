@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Illustration of a senior living community building">
+<rect width="800" height="500" fill="#dfe9f2"/>
+<circle cx="660" cy="90" r="46" fill="#f6e7b2"/>
+<rect y="380" width="800" height="120" fill="#b9cfa4"/>
+<rect x="120" y="180" width="560" height="210" rx="6" fill="#f1e9da"/>
+<polygon points="100,185 400,90 700,185" fill="#8a6d55"/>
+<rect x="370" y="290" width="60" height="100" rx="4" fill="#7a5a3d"/>
+<rect x="385" y="300" width="30" height="45" rx="3" fill="#e8f0f7"/>
+<g fill="#dfe9f2" stroke="#c9b99d" stroke-width="3">
+<rect x="160" y="220" width="52" height="64" rx="4"/><rect x="240" y="220" width="52" height="64" rx="4"/>
+<rect x="508" y="220" width="52" height="64" rx="4"/><rect x="588" y="220" width="52" height="64" rx="4"/>
+<rect x="160" y="310" width="52" height="64" rx="4"/><rect x="240" y="310" width="52" height="64" rx="4"/>
+<rect x="508" y="310" width="52" height="64" rx="4"/><rect x="588" y="310" width="52" height="64" rx="4"/>
+</g>
+<rect x="330" y="240" width="140" height="26" rx="13" fill="#5f7d54"/>
+<g fill="#5f7d54"><circle cx="80" cy="330" r="44"/><rect x="72" y="350" width="16" height="60" fill="#7a5a3d"/></g>
+<g fill="#6d8f61"><circle cx="740" cy="320" r="50"/><rect x="732" y="345" width="16" height="65" fill="#7a5a3d"/></g>
+<path d="M340 500 Q400 430 400 390 L400 390 Q400 430 460 500 Z" fill="#d8cbb2"/>
+<g fill="#c8556a"><circle cx="300" cy="420" r="7"/><circle cx="330" cy="440" r="7"/><circle cx="480" cy="425" r="7"/><circle cx="510" cy="445" r="7"/></g>
+</svg>

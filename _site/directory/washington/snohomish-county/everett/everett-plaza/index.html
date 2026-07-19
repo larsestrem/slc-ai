@@ -225,6 +225,31 @@ tbody tr:hover { background: var(--soft); }
 .btn-link { display: inline-block; font-weight: 600; }
 .review-link-list { list-style: none; margin: .5rem 0; padding: 0; }
 .review-link-list li { margin: .4rem 0; }
+
+/* Community-verified profile — hero gallery, provided-content tags, sample banner */
+.sample-banner { border-left: 4px solid var(--accent); font-size: .95rem; }
+.claimed-badge { background: #eaf3ea; border: 1px solid #b9d0b9; border-radius: var(--radius); color: var(--ink); font-size: .92rem; padding: .55rem .8rem; margin: .8rem 0 0; }
+.from-community { display: inline-block; background: #eaf3ea; border: 1px solid #b9d0b9; color: #2c5530; border-radius: 99px; padding: .02rem .55rem; font-size: .74rem; font-weight: 600; vertical-align: middle; white-space: nowrap; }
+.hero-gallery { display: grid; gap: .6rem; grid-template-columns: repeat(4, 1fr); margin: 1.1rem 0 .4rem; }
+.hero-gallery figure { margin: 0; }
+.hero-gallery .hg-main { grid-column: 1 / -1; }
+@media (min-width: 52rem) {
+  .hero-gallery { grid-template-columns: repeat(3, 1fr) ; }
+  .hero-gallery .hg-main { grid-column: 1 / 3; grid-row: 1 / 3; }
+}
+.hero-gallery img { width: 100%; height: 100%; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--line); display: block; aspect-ratio: 8 / 5; }
+.hero-gallery figcaption { font-size: .78rem; color: var(--muted); margin-top: .25rem; }
+.care-detail-grid { display: grid; gap: .9rem; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); margin: .8rem 0; padding: 0; }
+.care-detail h3 { margin: 0 0 .3rem; font-size: 1.02rem; }
+.care-detail p { font-size: .92rem; margin: .3rem 0; }
+.rooms-teaser { border-left: 4px solid var(--accent); }
+.community-statement { font-family: var(--serif); font-size: 1.05rem; }
+.community-statement .meta { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+.muted-note { color: var(--muted); font-size: .9rem; }
+.floorplan-grid { display: grid; gap: 1.1rem; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); margin: 1.2rem 0; padding: 0; list-style: none; }
+.floorplan-grid figure { margin: 0; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: .8rem; box-shadow: var(--shadow-1); }
+.floorplan-grid img { width: 100%; display: block; }
+.floorplan-grid figcaption { font-size: .88rem; margin-top: .5rem; }
 </style>
   
 </head>
@@ -470,6 +495,7 @@ tbody tr:hover { background: var(--soft); }
 {"@context":"https://schema.org","@type":"LocalBusiness","additionalType":"https://schema.org/HealthAndBeautyBusiness","name":"Everett Plaza","address":{"@type":"PostalAddress","streetAddress":"2204 12th St","addressLocality":"Everett","addressRegion":"WA","postalCode":"98201","addressCountry":"US"},"telephone":"425-258-6408","sameAs":"https://www.carepartnersliving.com/everett-plaza-assisted-living/",
 "url":"https://senior.living.community/directory/washington/snohomish-county/everett/everett-plaza/"}
 </script>
+
 
   </main>
   <footer class="site-footer">

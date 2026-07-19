@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Illustration of an activity room with easel, bookshelves, and game table">
+<rect width="800" height="500" fill="#eef1f6"/>
+<rect y="370" width="800" height="130" fill="#c9b99d"/>
+<g><rect x="80" y="120" width="180" height="230" rx="6" fill="#8a6d55"/><g fill="#f5efe3"><rect x="95" y="140" width="150" height="55" rx="4"/><rect x="95" y="210" width="150" height="55" rx="4"/><rect x="95" y="280" width="150" height="55" rx="4"/></g>
+<g><rect x="100" y="150" width="18" height="40" fill="#c8556a"/><rect x="124" y="150" width="18" height="40" fill="#5f7d54"/><rect x="148" y="150" width="18" height="40" fill="#e0a33f"/><rect x="172" y="150" width="18" height="40" fill="#8f6fae"/><rect x="100" y="220" width="18" height="40" fill="#9fb8d8"/><rect x="124" y="220" width="18" height="40" fill="#c8556a"/><rect x="148" y="220" width="18" height="40" fill="#5f7d54"/></g></g>
+<g><polygon points="560,160 700,160 690,340 570,340" fill="#fff" stroke="#8a6d55" stroke-width="6"/><line x1="590" y1="340" x2="570" y2="420" stroke="#8a6d55" stroke-width="8"/><line x1="670" y1="340" x2="690" y2="420" stroke="#8a6d55" stroke-width="8"/>
+<circle cx="612" cy="220" r="22" fill="#f6e7b2"/><path d="M575 300 Q620 250 685 295" stroke="#5f7d54" stroke-width="10" fill="none"/></g>
+<g><ellipse cx="400" cy="360" rx="95" ry="24" fill="#fff" stroke="#b9a887" stroke-width="4"/><rect x="392" y="382" width="16" height="60" fill="#8a6d55"/>
+<g fill="#0a4aa3"><rect x="352" y="338" width="22" height="22" rx="3"/><rect x="380" y="338" width="22" height="22" rx="3" fill="#c8556a"/><rect x="408" y="338" width="22" height="22" rx="3" fill="#e0a33f"/><rect x="436" y="338" width="22" height="22" rx="3" fill="#5f7d54"/></g></g>
+</svg>

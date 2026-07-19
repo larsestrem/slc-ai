@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><title>Sample Profile — What a Complete Community Listing Looks Like | Senior Living Community</title>
+<meta name="description" content="A sample of a fully completed, community-verified profile — photos, care capabilities, daily life, floor plans, and the community&#39;s own answers.">
+<link rel="canonical" href="https://senior.living.community/for-communities/example-profile/">
+<meta name="robots" content="noindex,follow">
+<meta property="og:site_name" content="Senior Living Community">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Sample Profile — What a Complete Community Listing Looks Like">
+<meta property="og:description" content="A sample of a fully completed, community-verified profile — photos, care capabilities, daily life, floor plans, and the community&#39;s own answers.">
+<meta property="og:url" content="https://senior.living.community/for-communities/example-profile/">
+<meta name="theme-color" content="#0a4aa3">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%230a4aa3'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
+<style>/* senior.living.community — SHARED stylesheet, inlined in <head> on every page.
+   Local only: no webfonts, frameworks, or external requests.
+   Page-specific CSS lives in its own include (css/directory.css, css/facility.css,
+   css/post.css) injected only where needed — see _includes/head.html.
+   Palette is WCAG AAA: every text color clears 7:1 on the off-white background. */
+:root {
+  --bg: #f7f7f5;          /* warm off-white page */
+  --surface: #ffffff;     /* cards / panels */
+  --ink: #1b1d21;         /* body text — 15.7:1 */
+  --muted: #494c52;       /* secondary text — 8.0:1 (AAA at small sizes) */
+  --accent: #0a4aa3;      /* links / primary — 7.8:1 */
+  --accent-strong: #073a82; /* link hover — ~10:1 */
+  --on-accent: #ffffff;   /* text on accent — 8.3:1 */
+  --line: #d6d9de;        /* hairlines / borders (decorative) */
+  --soft: #eef1f6;        /* callout / notice fill */
+  --gold: #7a5a00;        /* small-home badge & records-note accent */
+  --radius: 12px;
+  --maxw: 70rem;
+  --prose: 46rem;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+  --shadow-1: 0 1px 2px rgba(27, 29, 33, .06);
+  --shadow-2: 0 3px 12px rgba(27, 29, 33, .09);
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: clamp(1rem, 0.95rem + 0.25vw, 1.0625rem);
+  line-height: 1.65;
+}
+img { max-width: 100%; height: auto; }
+
+/* Links — underline on hover/focus, blue always */
+a { color: var(--accent); text-decoration: none; }
+a:hover, a:focus { color: var(--accent-strong); text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+
+/* Headings & section breaks */
+h1, h2, h3 { line-height: 1.25; text-wrap: balance; color: var(--ink); font-family: var(--serif); }
+h1 { font-size: clamp(1.7rem, 1.25rem + 1.8vw, 2.6rem); margin: 0 0 .5rem; letter-spacing: -0.015em; }
+h2 { font-size: clamp(1.3rem, 1.12rem + .75vw, 1.6rem); margin: 2.4rem 0 .7rem; }
+h3 { font-size: 1.15rem; margin: 1.6rem 0 .4rem; }
+/* Clear topic breaks in reading content: each section starts with a hairline rule */
+.prose h2 { padding-top: 1.2rem; border-top: 1px solid var(--line); }
+.prose h2:first-of-type { padding-top: 0; border-top: 0; }
+.panel h2, .card h2, .card h3 { padding-top: 0; border-top: 0; }
+
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 1.1rem; }
+main { display: block; padding: 1.6rem 0 3rem; }
+.prose { max-width: var(--prose); }
+.prose li { margin: .3rem 0; }
+.lead { font-size: 1.12em; color: var(--muted); max-width: var(--prose); }
+.post-meta { color: var(--muted); font-size: .9rem; margin: 0 0 1.4rem; }
+.count { color: var(--muted); font-size: .85em; }
+
+/* Header / nav (CSS-only hamburger on mobile) */
+.site-header { background: var(--surface); border-bottom: 1px solid var(--line); box-shadow: var(--shadow-1); }
+.site-header .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem; padding-top: .9rem; padding-bottom: .9rem; }
+.brand { font-weight: 700; font-size: 1.15rem; text-decoration: none; color: var(--ink); letter-spacing: -0.01em; margin-right: auto; }
+.brand:hover { text-decoration: none; }
+.brand em { color: var(--accent); font-style: normal; }
+.nav-toggle-box { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.nav-toggle { display: none; cursor: pointer; font-size: 1.4rem; line-height: 1; color: var(--ink); padding: .2rem .4rem; border-radius: 6px; user-select: none; }
+.nav-toggle .nav-close { display: none; }
+.nav-toggle-box:focus-visible + .nav-toggle { outline: 2px solid var(--accent); outline-offset: 2px; }
+.site-nav { display: flex; flex-wrap: wrap; gap: .2rem .9rem; }
+.site-nav a { text-decoration: none; color: var(--muted); font-weight: 500; padding: .2rem .1rem; }
+.site-nav a:hover, .site-nav a:focus, .site-nav a[aria-current="page"] { color: var(--accent-strong); text-decoration: underline; }
+@media (max-width: 46rem) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; }
+  .nav-toggle-box:checked ~ .site-nav { display: flex; flex-direction: column; flex-basis: 100%; gap: 0; padding: .4rem 0 .2rem; border-top: 1px solid var(--line); margin-top: .5rem; }
+  .nav-toggle-box:checked ~ .site-nav a { padding: .55rem .2rem; font-size: 1.05rem; border-bottom: 1px solid var(--line); }
+  .nav-toggle-box:checked ~ .site-nav a:last-child { border-bottom: 0; }
+  .nav-toggle-box:checked + .nav-toggle .nav-open { display: none; }
+  .nav-toggle-box:checked + .nav-toggle .nav-close { display: block; }
+}
+
+/* Breadcrumbs */
+.crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem 0 0; }
+.crumbs ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem; }
+.crumbs li + li::before { content: "›"; margin-right: .25rem; color: var(--muted); }
+.crumbs a { color: var(--muted); text-decoration: none; }
+.crumbs a:hover { color: var(--accent); text-decoration: underline; }
+
+/* Hero */
+.hero {
+  background:
+    radial-gradient(52rem 26rem at 88% -30%, #dde6f3 0%, rgba(221, 230, 243, 0) 62%),
+    linear-gradient(180deg, var(--soft), var(--bg));
+  border-bottom: 1px solid var(--line);
+}
+.hero .wrap { padding: 3rem 1.1rem 2.5rem; }
+.hero p { max-width: 44rem; }
+
+/* Cards & grids */
+.grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); margin: 1.2rem 0; padding: 0; list-style: none; }
+.card {
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 1rem 1.1rem; box-shadow: var(--shadow-1);
+  transition: box-shadow .15s ease, border-color .15s ease;
+}
+.card:hover { box-shadow: var(--shadow-2); border-color: #b9c2d1; }
+.card h3 { margin: 0 0 .3rem; font-size: 1.05rem; }
+.card h3 a { text-decoration: none; }
+.card h3 a:hover { text-decoration: underline; }
+.card .meta { color: var(--muted); font-size: .88rem; margin: 0; }
+.card .desc { font-size: .92rem; margin: .5rem 0 0; }
+
+/* Badges / chips */
+.badges { display: flex; flex-wrap: wrap; gap: .35rem; margin: .5rem 0; padding: 0; list-style: none; }
+.badge { display: inline-block; background: var(--soft); border: 1px solid var(--line); color: var(--ink); border-radius: 99px; padding: .05rem .6rem; font-size: .78rem; white-space: nowrap; text-decoration: none; }
+.badge:hover { border-color: var(--accent); text-decoration: none; }
+.badge.small-home { border-color: var(--gold); }
+
+/* Read-the-record-first note — a neutral nudge, deliberately NOT red and NOT
+   an icon: it asks the reader to check the official record and reviews, and
+   says nothing about what they contain. */
+.records-note { border-left: 4px solid var(--gold); background: #f7f2e4; padding: .7rem .9rem; border-radius: 0 8px 8px 0; font-size: .95rem; }
+
+/* Callouts */
+.ask, blockquote { border-left: 4px solid var(--accent); background: var(--soft); margin: 1.2rem 0; padding: .8rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; }
+blockquote p { margin: .2rem 0; }
+.notice { background: var(--soft); border: 1px solid var(--line); border-radius: var(--radius); padding: .7rem 1rem; font-size: .88rem; color: var(--muted); margin: 1.2rem 0; }
+.notice a { color: var(--accent); }
+
+/* Definition panels */
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.1rem 1.25rem; margin: 1.1rem 0; box-shadow: var(--shadow-1); }
+.panel h2 { margin-top: 0; font-size: 1.15rem; }
+.kv { display: grid; grid-template-columns: max-content 1fr; gap: .35rem 1.2rem; margin: 0; }
+.kv dt { color: var(--muted); font-weight: 500; }
+.kv dd { margin: 0; overflow-wrap: anywhere; }
+@media (max-width: 34rem) { .kv { grid-template-columns: 1fr; } .kv dd { margin: -0.3rem 0 .4rem; } }
+.two-col { display: grid; gap: 1.1rem; grid-template-columns: 1fr; }
+@media (min-width: 52rem) { .two-col { grid-template-columns: 3fr 2fr; align-items: start; } }
+
+/* Tables */
+table { border-collapse: collapse; width: 100%; margin: 1.2rem 0; font-size: .95rem; }
+.table-scroll { overflow-x: auto; }
+th, td { text-align: left; padding: .5rem .7rem; border-bottom: 1px solid var(--line); }
+th { color: var(--muted); font-weight: 600; font-size: .85rem; }
+tbody tr:hover { background: var(--soft); }
+
+/* Buttons */
+.btn {
+  display: inline-block; background: var(--accent); color: var(--on-accent);
+  border-radius: 8px; padding: .6rem 1.2rem; text-decoration: none; font-weight: 600;
+  box-shadow: var(--shadow-1); transition: background .15s ease, box-shadow .15s ease;
+}
+.btn:hover, .btn:focus { background: var(--accent-strong); color: var(--on-accent); text-decoration: none; box-shadow: var(--shadow-2); }
+.btn.ghost { background: var(--surface); color: var(--accent); border: 1.5px solid var(--accent); }
+.btn.ghost:hover { background: var(--soft); }
+
+/* Ads (lazy) — appears via include across page types */
+.ad-slot { min-height: 100px; margin: 1.6rem 0; display: flex; align-items: center; justify-content: center; background: var(--soft); border: 1px dashed var(--line); border-radius: var(--radius); color: var(--muted); font-size: .75rem; }
+
+/* Footer */
+.site-footer { border-top: 1px solid var(--line); background: var(--surface); margin-top: 2rem; }
+.site-footer .wrap { padding: 1.8rem 1.1rem; display: grid; gap: 1.2rem; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); font-size: .9rem; }
+.site-footer h2 { font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 .5rem; padding-top: 0; border-top: 0; }
+.site-footer ul { list-style: none; margin: 0; padding: 0; }
+.site-footer li { margin: .25rem 0; }
+.site-footer a { color: var(--ink); text-decoration: none; }
+.site-footer a:hover { color: var(--accent); text-decoration: underline; }
+.site-footer .fine { grid-column: 1 / -1; color: var(--muted); font-size: .8rem; border-top: 1px solid var(--line); padding-top: 1rem; }
+
+/* Utility */
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.skip { position: absolute; left: -999px; top: 0; background: var(--surface); padding: .5rem 1rem; z-index: 10; }
+.skip:focus { left: .5rem; top: .5rem; }
+
+/* Print */
+@media print {
+  .site-header, .site-footer, .crumbs, .ad-slot, .nav-toggle, .skip { display: none !important; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  a { color: #000; }
+  .prose a[href^="/"]::after { content: " (senior.living.community" attr(href) ")"; font-size: 8.5pt; color: #555; }
+  .panel, .card, blockquote { border: 1px solid #bbb; break-inside: avoid; }
+  .two-col { display: block; }
+}
+</style><style>/* Page-specific: injected ONLY on facility pages (see head.html).
+   Photo gallery and the claim-your-listing panel accent. */
+.photo-grid figure { margin: 0; }
+.photo-grid img { width: 100%; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
+.photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
+.claim { border-left: 4px solid var(--accent); }
+
+/* Sidebar ratings & reviews panel — links only, no numbers */
+.rating-glance .muted { color: var(--muted); font-size: .88rem; }
+.rating-glance .glance-links { list-style: none; margin: .6rem 0; padding: 0; }
+.rating-glance .glance-links li { margin: .45rem 0; font-size: .92rem; }
+.rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
+.rating-glance .records-note { margin: .6rem 0 .8rem; }
+
+/* Review-reading caveats, shown beneath the review platform links */
+.review-caveats { margin: .7rem 0 0; }
+.review-caveats .rc-lead { margin: .2rem 0 .4rem; font-weight: 600; font-size: .95rem; }
+.review-caveats ul { margin: .2rem 0; padding-left: 1.1rem; }
+.review-caveats li { margin: .4rem 0; font-size: .9rem; }
+.review-caveats .rc-foot { margin: .5rem 0 0; font-size: .92rem; }
+
+/* Bottom-of-page ratings & records section */
+.ratings-block .rating-card { padding: 1rem 0; border-top: 1px solid var(--line); }
+.ratings-block .rating-card:first-of-type { border-top: 0; padding-top: .4rem; }
+.rating-body h3 { margin: 0 0 .3rem; font-size: 1.05rem; padding-top: 0; border-top: 0; }
+.rating-body p { margin: .3rem 0; font-size: .92rem; }
+.cms-currency { color: var(--muted); font-size: .85rem; }
+.btn-link { display: inline-block; font-weight: 600; }
+.review-link-list { list-style: none; margin: .5rem 0; padding: 0; }
+.review-link-list li { margin: .4rem 0; }
+
+/* Community-verified profile — hero gallery, provided-content tags, sample banner */
+.sample-banner { border-left: 4px solid var(--accent); font-size: .95rem; }
+.claimed-badge { background: #eaf3ea; border: 1px solid #b9d0b9; border-radius: var(--radius); color: var(--ink); font-size: .92rem; padding: .55rem .8rem; margin: .8rem 0 0; }
+.from-community { display: inline-block; background: #eaf3ea; border: 1px solid #b9d0b9; color: #2c5530; border-radius: 99px; padding: .02rem .55rem; font-size: .74rem; font-weight: 600; vertical-align: middle; white-space: nowrap; }
+.hero-gallery { display: grid; gap: .6rem; grid-template-columns: repeat(4, 1fr); margin: 1.1rem 0 .4rem; }
+.hero-gallery figure { margin: 0; }
+.hero-gallery .hg-main { grid-column: 1 / -1; }
+@media (min-width: 52rem) {
+  .hero-gallery { grid-template-columns: repeat(3, 1fr) ; }
+  .hero-gallery .hg-main { grid-column: 1 / 3; grid-row: 1 / 3; }
+}
+.hero-gallery img { width: 100%; height: 100%; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--line); display: block; aspect-ratio: 8 / 5; }
+.hero-gallery figcaption { font-size: .78rem; color: var(--muted); margin-top: .25rem; }
+.care-detail-grid { display: grid; gap: .9rem; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); margin: .8rem 0; padding: 0; }
+.care-detail h3 { margin: 0 0 .3rem; font-size: 1.02rem; }
+.care-detail p { font-size: .92rem; margin: .3rem 0; }
+.rooms-teaser { border-left: 4px solid var(--accent); }
+.community-statement { font-family: var(--serif); font-size: 1.05rem; }
+.community-statement .meta { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+.muted-note { color: var(--muted); font-size: .9rem; }
+.floorplan-grid { display: grid; gap: 1.1rem; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); margin: 1.2rem 0; padding: 0; list-style: none; }
+.floorplan-grid figure { margin: 0; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: .8rem; box-shadow: var(--shadow-1); }
+.floorplan-grid img { width: 100%; display: block; }
+.floorplan-grid figcaption { font-size: .88rem; margin-top: .5rem; }
+</style>
+  
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/">senior<em>.living.community</em></a>
+    <input type="checkbox" id="nav-toggle" class="nav-toggle-box">
+    <label for="nav-toggle" class="nav-toggle" aria-label="Menu"><span class="nav-open">&#9776;</span><span class="nav-close">&#10005;</span></label>
+    <nav class="site-nav" aria-label="Main">
+      <a href="/directory/">Directory</a>
+      <a href="/guides/">Guides</a>
+      <a href="/organizations/">Organizations</a>
+      <a href="/news/">News</a>
+    </nav>
+  </div>
+</header>
+
+  
+<nav class="crumbs wrap" aria-label="Breadcrumb">
+  <ol>
+    <li><a href="/">Home</a></li>
+    <li><a href="/for-communities/">For Communities</a></li>
+    <li><span aria-current="page">Sample profile</span></li>
+  </ol>
+</nav>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+  {"@type":"ListItem","position":1,"name":"Home","item":"https://senior.living.community/"},{"@type":"ListItem","position":2,"name":"For Communities","item":"https://senior.living.community/for-communities/"},{"@type":"ListItem","position":3,"name":"Sample profile","item":"https://senior.living.community/for-communities/example-profile/"}]}
+</script>
+
+  <main id="main" class="wrap">
+    <article>
+  <p class="notice sample-banner"><strong>Sample profile.</strong> Alder Grove Senior Living is a fictional community, and every image on this page is an illustration, not a photograph. This page exists to show families and community staff what a fully completed, community-verified listing looks like.</p>
+  <h1>Alder Grove Senior Living</h1>
+  <p class="meta">Rivertown, Example County, Oregon</p>
+  
+<ul class="badges" aria-label="Care levels offered">
+  <li><a class="badge" href="/guides/independent-living/" title="Learn what Independent Living means">Independent Living</a></li>
+  <li><a class="badge" href="/guides/assisted-living/" title="Learn what Assisted Living means">Assisted Living</a></li>
+  <li><a class="badge" href="/guides/memory-care/" title="Learn what Memory Care means">Memory Care</a></li>
+  <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>
+</ul>
+
+  <p class="claimed-badge">✓ Community-verified profile — the sections marked
+  <span class="from-community">From the community</span> were provided by verified staff of
+  Alder Grove Senior Living on 2026-07-01. <a href="/for-communities/#how-claiming-works">How we verify who can update a listing</a></p>
+  <div class="hero-gallery">
+    <figure class="hg-main">
+      <img src="/assets/demo/exterior.svg" alt="Illustration of the front entrance and grounds of Alder Grove Senior Living" decoding="async"><figcaption>Main entrance (sample illustration)</figcaption>
+    </figure>
+    <figure>
+      <img src="/assets/demo/dining.svg" alt="Illustration of the community dining room with tables and large windows" loading="lazy" decoding="async"><figcaption>Dining room (sample illustration)</figcaption>
+    </figure>
+    <figure>
+      <img src="/assets/demo/garden.svg" alt="Illustration of the enclosed garden courtyard with walking path and benches" loading="lazy" decoding="async"><figcaption>Garden courtyard (sample illustration)</figcaption>
+    </figure>
+    <figure>
+      <img src="/assets/demo/room.svg" alt="Illustration of a furnished resident room with bed, chair, and window" loading="lazy" decoding="async"><figcaption>Resident room (sample illustration)</figcaption>
+    </figure>
+    <figure>
+      <img src="/assets/demo/activity.svg" alt="Illustration of the activity room with art easel, bookshelves, and game table" loading="lazy" decoding="async"><figcaption>Activity room (sample illustration)</figcaption>
+    </figure>
+  </div>
+
+  <div class="two-col">
+    <div>
+      <section class="panel" aria-labelledby="contact-h">
+        <h2 id="contact-h">Contact &amp; Location</h2>
+        <dl class="kv">
+          <dt>Address</dt>
+          <dd>1000 Alder Grove Lane, Rivertown, OR 97000
+            · <a href="https://www.google.com/maps/search/?api=1&amp;query=Alder+Grove+Senior+Living+1000+Alder+Grove+Lane+Rivertown+OR" rel="noopener">Map</a></dd><dt>Phone</dt><dd><a href="tel:+15550100100">(555) 010-0100</a></dd><dt>Capacity</dt><dd>142 residents</dd><dt>Community size</dt><dd>Large community</dd>
+        </dl>
+      </section>
+      <section class="prose" aria-labelledby="about-h">
+        <h2 id="about-h">About Alder Grove Senior Living</h2>
+        <p>Alder Grove Senior Living is a fictional 142-resident continuing-care community used to demonstrate what a complete, community-verified profile looks like on this site. It offers independent living, assisted living, memory care, and a small skilled nursing wing on one campus, so residents can move between levels of care without leaving the community.</p>
+        <blockquote class="community-statement"><p>We built Alder Grove around one idea: your parent's day should still feel like their own. Residents keep their routines, their coffee order, and their say — and our job is to quietly make each day easier than the one before.</p>
+        <p class="meta"><span class="from-community">From the community</span></p></blockquote>
+      </section>
+
+      <section class="prose" aria-labelledby="care-h">
+        <h2 id="care-h">Care offered here</h2><p><span class="from-community">From the community</span></p>
+        <div class="care-detail-grid">
+          <div class="card care-detail">
+            <h3>Independent Living <span class="count">· 48 apartments</span></h3>
+            <p>Studio to two-bedroom apartments with full kitchens, weekly housekeeping, and access to all dining and activities — for residents who live on their own and want the community around them.</p>
+            <p class="meta"><a href="/guides/independent-living/">What independent living includes and who it fits &rarr;</a></p>
+          </div>
+          <div class="card care-detail">
+            <h3>Assisted Living <span class="count">· 56 apartments</span></h3>
+            <p>Personal care built around an individual service plan: help with bathing, dressing, and medications, reviewed with the family every 90 days and after any change in health.</p>
+            <p class="meta"><a href="/guides/assisted-living/">What assisted living includes and who it fits &rarr;</a></p>
+          </div>
+          <div class="card care-detail">
+            <h3>Memory Care <span class="count">· 24 suites</span></h3>
+            <p>A dedicated, secured neighborhood with its own dining room and garden, dementia-trained staff on every shift, and programming built around each resident's life story.</p>
+            <p class="meta"><a href="/guides/memory-care/">What memory care includes and who it fits &rarr;</a></p>
+          </div>
+          <div class="card care-detail">
+            <h3>Skilled Nursing <span class="count">· 14 beds</span></h3>
+            <p>Short-term rehabilitation and long-term nursing care with 24-hour licensed nursing, physical and occupational therapy on site, and physician rounds weekly.</p>
+            <p class="meta"><a href="/guides/skilled-nursing/">What skilled nursing includes and who it fits &rarr;</a></p>
+          </div>
+        </div>
+        <p>Care needs usually grow over time. Ask every community what happens when your parent
+        needs more care than their current level — moving twice is hard on everyone.
+        See <a href="/guides/levels-of-care-explained/">levels of care explained</a>.</p>
+      </section>
+      <section class="panel" aria-labelledby="daily-h">
+        <h2 id="daily-h">Daily life at Alder Grove Senior Living <span class="from-community">From the community</span></h2>
+        <h3>Dining</h3>
+        <p>Restaurant-style dining with open seating from 7 a.m. to 7 p.m. — residents eat when they're hungry, not on a bell. Menus rotate over four weeks with a standing everyday menu; low-sodium, diabetic-friendly, and mechanical-soft options are available at every meal. Families are welcome at any meal; guest meals are $8.</p>
+        <ul><li>Private dining room bookable free for family birthdays and holidays</li><li>Resident food council meets monthly with the chef — menus change because of it</li><li>Memory-care neighborhood has its own smaller dining room with a consistent staff team</li></ul>
+        <h3>Activities &amp; engagement</h3>
+        <ul class="badges" aria-label="Regular activities"><li><span class="badge">Daily exercise & balance classes</span></li><li><span class="badge">Art studio & weekly painting group</span></li><li><span class="badge">Garden club (raised beds)</span></li><li><span class="badge">Live music Fridays</span></li><li><span class="badge">Men's coffee hour</span></li><li><span class="badge">Book club & library cart</span></li><li><span class="badge">Worship services</span></li><li><span class="badge">Twice-weekly outings</span></li><li><span class="badge">Intergenerational visits with the elementary school</span></li></ul>
+        <h3>Amenities</h3>
+        <ul class="badges" aria-label="Amenities"><li><span class="badge">Enclosed garden courtyard</span></li><li><span class="badge">Walking paths</span></li><li><span class="badge">Library</span></li><li><span class="badge">Fitness room</span></li><li><span class="badge">Salon & barber</span></li><li><span class="badge">Theater room</span></li><li><span class="badge">Private dining room</span></li><li><span class="badge">Guest suite for visiting family</span></li></ul>
+        <p class="notice" style="margin-bottom:0">Menus, calendars, and amenities change —
+        <a href="/guides/food-and-dining/">judge the dining</a> and
+        <a href="/guides/activities-and-engagement/">the activity program</a> in person on your tour.</p>
+      </section>
+      <section class="panel rooms-teaser" aria-labelledby="rooms-h">
+        <h2 id="rooms-h">Rooms &amp; floor plans <span class="from-community">From the community</span></h2>
+        <p>Four apartment types from a 380 sq ft studio to a 720 sq ft two-bedroom, with sample floor plans, what's included, and questions to ask about each.</p>
+        <p style="margin-bottom:0"><a class="btn ghost" href="/for-communities/example-profile/rooms/">See rooms &amp; floor plans &rarr;</a></p>
+      </section>
+      <section class="panel" aria-labelledby="response-h">
+        <h2 id="response-h">How we handle concerns <span class="from-community">From the community</span></h2>
+        <p class="muted-note">We ask every community that claims its listing to describe — in its own
+        words — its <em>process</em> when a family raises a concern. We ask about process only,
+        never about specific incidents or residents.
+        <a href="/guides/why-good-communities-get-complaints/">Why this answer matters</a>.</p>
+        <blockquote>Any concern — from a missing laundry bag to a care issue — goes first to the shift supervisor, who must respond to the family the same day. Anything touching health or safety goes immediately to our Director of Nursing and is logged in our quality system. We call the family with what we found and what we changed, in writing if they prefer it. Every complaint is reviewed at our monthly quality meeting; last quarter, that's why we changed our evening medication rounds and added a second weekend laundry cycle. If a family isn't satisfied with our answer, we tell them how to reach the state ombudsman — we'd rather be checked than doubted.</blockquote>
+      </section>
+
+      <section class="panel" aria-labelledby="life-h">
+        <h2 id="life-h">Lifestyle &amp; Services</h2>
+        <dl class="kv"><dt>Pets</dt><dd>Cats and dogs up to 30 lbs welcome in independent and assisted living; pet-care support available</dd><dt>Couples</dt><dd>Couples can share any apartment, including when one partner needs a higher level of care</dd><dt>Age requirement</dt><dd>62+</dd><dt>Transportation</dt><dd>Scheduled transportation to medical appointments weekdays; group outings twice weekly</dd>
+        </dl>
+        <h3>Medical support</h3>
+        <ul><li>24-hour licensed nursing (skilled wing); 24-hour care staff community-wide</li><li>Medication management and coordination with outside pharmacies</li><li>On-site physical, occupational, and speech therapy</li><li>Visiting physician, podiatry, and dental services</li></ul>
+        <h3>Non-medical support</h3>
+        <ul><li>Three chef-prepared meals daily with dietitian-reviewed menus</li><li>Weekly housekeeping and linen service</li><li>Salon and barber shop</li><li>Chaplain and interfaith services</li></ul>
+        <p class="notice" style="margin-bottom:0">
+        Every community sets its own rules on <a href="/guides/pets-partners-and-age-requirements/">pets,
+        couples moving in together, and age requirements</a> — and its own menu of
+        <a href="/guides/medical-and-non-medical-services/">medical and non-medical services</a>,
+        including transportation. Ask for the current policies and a full service list in writing;
+        details here can change and anything unlisted should be confirmed on your tour.</p>
+      </section>
+
+      
+
+    </div>
+
+    <aside>
+      <section class="panel rating-glance" aria-labelledby="glance-h">
+  <h2 id="glance-h">Ratings &amp; reviews</h2>
+  <p class="muted">We don't show a star rating ourselves — find it directly at the source:</p>
+
+  <ul class="glance-links">
+    <li><a href="https://ltclicensing.oregon.gov/" rel="noopener">Oregon Department of Human Services, Aging and People with Disabilities</a> <span class="muted">— state license &amp; inspections</span></li>
+    <li><a href="https://www.google.com/search?q=Alder+Grove+Senior+Living+Rivertown+OR+reviews" rel="nofollow noopener">Search for more reviews</a> <span class="muted">— Google</span></li>
+  </ul>
+
+  <p class="glance-link"><a href="#ratings-h">Full ratings &amp; records section &darr;</a></p>
+</section>
+
+
+      <section class="panel" aria-labelledby="tour-h">
+        <h2 id="tour-h">Before you tour</h2>
+        <ul>
+          <li><a href="/guides/finding-help-choosing-a-facility/">Get help with your search</a></li>
+          <li><a href="/guides/touring-checklist/">What to look for on a tour</a></li>
+          <li><a href="/guides/staffing-ratios/">Questions to ask about staffing</a></li>
+          <li><a href="/guides/whats-not-included-hidden-fees/">Fees beyond the monthly rate</a></li>
+          <li><a href="/guides/food-and-dining/">How to judge the food</a></li>
+        </ul>
+      </section>
+    </aside>
+  </div>
+
+  <section class="panel claim" aria-labelledby="claim-h">
+    <h2 id="claim-h">Do you work at Alder Grove Senior Living?</h2>
+    <p>Families make one of their biggest decisions with pages like this one — and nobody can
+    describe your community better than the people who work there. If you're on staff or manage
+    this community, you can update these details, answer short topic-by-topic questionnaires
+    (each takes just a few minutes), and share photos of your community. It's free, and accurate
+    listings help the right families find you.</p>
+    <p>We know how demanding this work is, and this page isn't here to grade you — it's here to
+    connect you with the right families. One thing families consistently want to know:
+    <a href="/guides/why-good-communities-get-complaints/">how a community handles concerns when
+    they come up</a>. Our questionnaire gives you room to describe your process in your own words.</p>
+    <p><a class="btn" href="/for-communities/">Claim &amp; update this listing</a></p>
+  </section>
+
+  <section class="panel ratings-block" aria-labelledby="ratings-h">
+  <h2 id="ratings-h">Ratings &amp; official records</h2>
+  <p>We don't publish a star rating or numeric score for Alder Grove Senior Living ourselves — ratings
+  change, and a wrong number here would be worse than none. Instead, here's exactly where to find
+  the real ones, straight from the source.</p>
+  <div class="rating-card">
+    <div class="rating-body">
+      <h3>State license &amp; inspections</h3>
+      <p><strong>Who assigns it:</strong> Oregon — not Medicare. Assisted living,
+      memory care, and small care homes have no federal star rating; the state licenses and
+      inspects them. <strong>What it covers:</strong> license status, inspection findings, and
+      substantiated complaints.</p>
+      <p><a class="btn-link" href="https://ltclicensing.oregon.gov/" rel="noopener">Look up Alder Grove Senior Living at the Oregon Department of Human Services, Aging and People with Disabilities &rarr;</a></p>
+      <p class="cms-currency"><a href="/guides/checking-complaints-and-state-records/">How to read the state record fairly</a></p>
+    </div>
+  </div>
+
+  <div class="rating-card">
+    <div class="rating-body">
+      <h3>Family &amp; resident reviews</h3>
+      <p><strong>Who writes it:</strong> families and residents, on public review sites.
+      <strong>What it reflects:</strong> day-to-day life — food, friendliness, communication — not
+      inspections.</p>
+      <ul class="review-link-list">
+        <li><a class="btn-link" href="https://www.google.com/search?q=Alder+Grove+Senior+Living+Rivertown+OR+reviews" rel="nofollow noopener">Search for more reviews of Alder Grove Senior Living &rarr;</a></li>
+      </ul>
+      <div class="review-caveats">
+  <p class="rc-lead">Whatever star average you find on those sites is a starting point, not a
+  verdict. We don't write these reviews, verify what they say, or investigate the community
+  ourselves — that's exactly why we send you to the source instead of showing you a number. Before
+  you weigh what you find, know what it can hide:</p>
+  <ul>
+    <li><strong>Who writes them.</strong> Usually adult children, not the resident — so reviews capture communication, billing, and first impressions more than the texture of daily care. <a href="/guides/interpreting-online-reviews/#who-writes-reviews">More&nbsp;&rarr;</a></li>
+    <li><strong>Emotion moves the score.</strong> People post when they're delighted or furious; the quietly satisfied middle rarely does, and reviews written in grief, guilt, or relief carry that charge. The calm three-star reviews usually hold the real trade-offs. <a href="/guides/interpreting-online-reviews/#the-emotion-behind-a-review">More&nbsp;&rarr;</a></li>
+    <li><strong>Reviews can be solicited or self-reported.</strong> A community can fairly ask happy families to post — or cross the line by gating out unhappy ones, pressuring residents, or paying. A burst of five-star reviews in a single week is a flag, not a triumph. <a href="/guides/interpreting-online-reviews/#solicited-and-self-reported-reviews">More&nbsp;&rarr;</a></li>
+    <li><strong>Counts and dates matter.</strong> A 5.0 from three reviews is a coin flip, and new management makes a 2019 review irrelevant. Small homes gather few reviews by nature — lean on the state record and your own visit. <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">Small homes&nbsp;&rarr;</a></li>
+    <li><strong>Government stars are a different thing.</strong> Medicare's nursing-home stars aren't reviews at all — they come from inspections, staffing, and clinical data. <a href="/guides/reading-inspection-reports-and-ratings/">How those work&nbsp;&rarr;</a></li>
+  </ul>
+  <p class="rc-foot"><a href="/guides/interpreting-online-reviews/">Read the full guide to reading reviews without being misled &rarr;</a></p>
+</div>
+
+    </div>
+  </div>
+
+  <p class="count">We link you to primary sources instead of showing a rating ourselves —
+  <a href="/guides/how-we-list-communities/">why, and how to use what you find</a>.</p>
+</section>
+
+
+  <p class="notice">
+    Details verified against public sources on 2026-07-01.
+    Availability, pricing, and services change — always confirm directly with the community.
+  </p>
+</article>
+
+  </main>
+  <footer class="site-footer">
+  <div class="wrap">
+    <div>
+      <h2>Directory</h2>
+      <ul>
+        <li><a href="/directory/idaho/">Idaho senior living</a></li>
+        <li><a href="/directory/oregon/">Oregon senior living</a></li>
+        <li><a href="/directory/washington/">Washington senior living</a></li>
+        <li><a href="/directory/hawaii/">Hawaii senior living</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>Start here</h2>
+      <ul>
+        <li><a href="/guides/signs-your-parent-needs-help/">Does your parent need help?</a></li>
+        <li><a href="/guides/how-to-choose-a-senior-care-facility/">How to choose a facility</a></li>
+        <li><a href="/guides/finding-help-choosing-a-facility/">Finding help with the search</a></li>
+        <li><a href="/guides/in-home-care-explained/">In-home care explained</a></li>
+        <li><a href="/guides/levels-of-care-explained/">Levels of care explained</a></li>
+        <li><a href="/guides/cost-of-senior-living/">What senior living costs</a></li>
+        <li><a href="/guides/paying-for-senior-care/">How to pay for care</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>Site</h2>
+      <ul>
+        <li><a href="/tools/cost-calculator/">Cost calculator</a></li>
+        <li><a href="/tools/comparison-worksheet/">Comparison worksheet</a></li>
+        <li><a href="/tools/budget-worksheet/">Budget worksheet</a></li>
+        <li><a href="/guides/glossary/">Senior care glossary</a></li>
+        <li><a href="/about/">About this site</a></li>
+        <li><a href="/for-communities/">For senior living communities</a></li>
+        <li><a href="/news/">News</a></li>
+      </ul>
+    </div>
+    <p class="fine">
+      Senior Living Community is an independent information resource for families. We are not a referral
+      service and do not provide medical, legal, or financial advice — for decisions about care,
+      consult the professionals involved. Facility details change; always confirm directly with a
+      community. Last data review: 2026-07-11.
+      Run a senior living community? <a href="/for-communities/">Claim your free listing</a> or
+      see our <a href="/marketing/">marketing services for communities</a>.
+    </p>
+  </div>
+</footer>
+
+
+</body>
+</html>

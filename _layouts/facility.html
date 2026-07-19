@@ -2,9 +2,29 @@
 layout: default
 ---
 <article>
+  {%- if page.sample_notice %}
+  <p class="notice sample-banner"><strong>Sample profile.</strong> {{ page.sample_notice }}</p>
+  {%- endif %}
   <h1>{{ page.title }}</h1>
   <p class="meta">{% if page.organization %}Part of <a href="/organizations/{{ page.organization }}/">{{ page.organization_name }}</a> · {% endif %}{{ page.city_name }}, {{ page.county_name }} County, {{ page.state_name }}</p>
   {% include care-badges.html levels=page.care_levels %}
+
+  {%- if page.claimed_date %}
+  <p class="claimed-badge">✓ Community-verified profile — the sections marked
+  <span class="from-community">From the community</span> were provided by verified staff of
+  {{ page.title }} on {{ page.claimed_date }}. <a href="/for-communities/#how-claiming-works">How we verify who can update a listing</a></p>
+  {%- endif %}
+
+  {%- if page.photos and page.photos.size > 0 %}
+  <div class="hero-gallery{% if page.photos.size == 1 %} single{% endif %}">
+    {%- for ph in page.photos %}
+    <figure{% if forloop.first %} class="hg-main"{% endif %}>
+      <img src="{{ ph.src }}" alt="{{ ph.alt }}"{% unless forloop.first %} loading="lazy"{% endunless %} decoding="async">
+      {%- if ph.caption %}<figcaption>{{ ph.caption }}</figcaption>{% endif %}
+    </figure>
+    {%- endfor %}
+  </div>
+  {%- endif %}
 
   <div class="two-col">
     <div>
@@ -28,21 +48,82 @@ layout: default
       <section class="prose" aria-labelledby="about-h">
         <h2 id="about-h">About {{ page.title }}</h2>
         <p>{{ about }}</p>
+        {%- if page.community_statement %}
+        <blockquote class="community-statement"><p>{{ page.community_statement }}</p>
+        <p class="meta"><span class="from-community">From the community</span></p></blockquote>
+        {%- endif %}
       </section>
       {%- endif %}
 
       <section class="prose" aria-labelledby="care-h">
         <h2 id="care-h">Care offered here</h2>
+        {%- if page.care_details %}
+        {%- if page.claimed_date %}<p><span class="from-community">From the community</span></p>{% endif %}
+        <div class="care-detail-grid">
+          {%- for cd in page.care_details %}
+          {%- assign info = site.data.care_levels[cd.level] %}
+          <div class="card care-detail">
+            <h3>{{ info.label }}{% if cd.units %} <span class="count">· {{ cd.units }}</span>{% endif %}</h3>
+            <p>{{ cd.description }}</p>
+            <p class="meta"><a href="{{ info.guide }}">What {{ info.label | downcase }} includes and who it fits &rarr;</a></p>
+          </div>
+          {%- endfor %}
+        </div>
+        {%- else %}
         <ul>
           {%- for lv in page.care_levels %}
           {%- assign info = site.data.care_levels[lv] %}
           <li><strong>{{ info.label }}</strong> — <a href="{{ info.guide }}">what {{ info.label | downcase }} includes and who it fits</a></li>
           {%- endfor %}
         </ul>
+        {%- endif %}
         <p>Care needs usually grow over time. Ask every community what happens when your parent
         needs more care than their current level — moving twice is hard on everyone.
         See <a href="/guides/levels-of-care-explained/">levels of care explained</a>.</p>
       </section>
+
+      {%- if page.dining_text or page.activities_list or page.amenities %}
+      <section class="panel" aria-labelledby="daily-h">
+        <h2 id="daily-h">Daily life at {{ page.title }}{% if page.claimed_date %} <span class="from-community">From the community</span>{% endif %}</h2>
+        {%- if page.dining_text %}
+        <h3>Dining</h3>
+        <p>{{ page.dining_text }}</p>
+        {%- if page.dining_highlights %}
+        <ul>{% for d in page.dining_highlights %}<li>{{ d }}</li>{% endfor %}</ul>
+        {%- endif %}
+        {%- endif %}
+        {%- if page.activities_list %}
+        <h3>Activities &amp; engagement</h3>
+        <ul class="badges" aria-label="Regular activities">{% for a in page.activities_list %}<li><span class="badge">{{ a }}</span></li>{% endfor %}</ul>
+        {%- endif %}
+        {%- if page.amenities %}
+        <h3>Amenities</h3>
+        <ul class="badges" aria-label="Amenities">{% for a in page.amenities %}<li><span class="badge">{{ a }}</span></li>{% endfor %}</ul>
+        {%- endif %}
+        <p class="notice" style="margin-bottom:0">Menus, calendars, and amenities change —
+        <a href="/guides/food-and-dining/">judge the dining</a> and
+        <a href="/guides/activities-and-engagement/">the activity program</a> in person on your tour.</p>
+      </section>
+      {%- endif %}
+
+      {%- if page.rooms_url %}
+      <section class="panel rooms-teaser" aria-labelledby="rooms-h">
+        <h2 id="rooms-h">Rooms &amp; floor plans{% if page.claimed_date %} <span class="from-community">From the community</span>{% endif %}</h2>
+        <p>{{ page.rooms_teaser | default: "Apartment types, sample floor plans, and what's included in each." }}</p>
+        <p style="margin-bottom:0"><a class="btn ghost" href="{{ page.rooms_url }}">See rooms &amp; floor plans &rarr;</a></p>
+      </section>
+      {%- endif %}
+
+      {%- if page.concern_response %}
+      <section class="panel" aria-labelledby="response-h">
+        <h2 id="response-h">How we handle concerns <span class="from-community">From the community</span></h2>
+        <p class="muted-note">We ask every community that claims its listing to describe — in its own
+        words — its <em>process</em> when a family raises a concern. We ask about process only,
+        never about specific incidents or residents.
+        <a href="/guides/why-good-communities-get-complaints/">Why this answer matters</a>.</p>
+        <blockquote>{{ page.concern_response }}</blockquote>
+      </section>
+      {%- endif %}
 
       <section class="panel" aria-labelledby="life-h">
         <h2 id="life-h">Lifestyle &amp; Services</h2>
@@ -89,20 +170,6 @@ layout: default
     </aside>
   </div>
 
-  {%- if page.photos and page.photos.size > 0 %}
-  <section aria-labelledby="photos-h">
-    <h2 id="photos-h">Photos of {{ page.title }}</h2>
-    <ul class="grid photo-grid">
-      {%- for ph in page.photos %}
-      <li><figure>
-        <img src="{{ ph.src }}" alt="{{ ph.alt }}" loading="lazy" decoding="async">
-        {%- if ph.caption %}<figcaption>{{ ph.caption }}</figcaption>{% endif %}
-      </figure></li>
-      {%- endfor %}
-    </ul>
-  </section>
-  {%- endif %}
-
   <section class="panel claim" aria-labelledby="claim-h">
     <h2 id="claim-h">Do you work at {{ page.title }}?</h2>
     <p>Families make one of their biggest decisions with pages like this one — and nobody can
@@ -136,6 +203,7 @@ layout: default
     Availability, pricing, and services change — always confirm directly with the community.
   </p>
 </article>
+{%- unless page.sample_notice %}
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"LocalBusiness","additionalType":"https://schema.org/HealthAndBeautyBusiness","name":{{ page.title | jsonify }},
 {%- if page.address %}"address":{"@type":"PostalAddress","streetAddress":{{ page.address | jsonify }},"addressLocality":{{ page.city_name | jsonify }},"addressRegion":"{{ page.state_abbrev }}"{% if page.zip %},"postalCode":"{{ page.zip }}"{% endif %},"addressCountry":"US"},{% endif %}
@@ -143,3 +211,4 @@ layout: default
 {%- if page.website %}"sameAs":{{ page.website | jsonify }},{% endif %}
 "url":"{{ page.url | absolute_url }}"}
 </script>
+{% endunless %}

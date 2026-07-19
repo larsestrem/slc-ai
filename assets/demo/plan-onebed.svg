@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" role="img" aria-label="Sample one-bedroom floor plan, approximately 560 square feet">
+<rect width="600" height="440" fill="#ffffff"/>
+<g fill="none" stroke="#1b1d21" stroke-width="6">
+<rect x="30" y="40" width="540" height="360"/>
+<line x1="300" y1="40" x2="300" y2="250"/><line x1="300" y1="320" x2="300" y2="400"/>
+<line x1="300" y1="250" x2="440" y2="250"/><line x1="510" y1="250" x2="570" y2="250"/>
+</g>
+<g fill="#dfe9f2" stroke="#494c52" stroke-width="3">
+<rect x="60" y="70" width="160" height="110"/><rect x="340" y="80" width="140" height="90"/><rect x="330" y="300" width="90" height="70"/>
+</g>
+<rect x="120" y="50" width="120" height="10" fill="#9fb8d8"/><rect x="400" y="50" width="120" height="10" fill="#9fb8d8"/>
+<g font-family="Georgia, serif" font-size="22" fill="#1b1d21">
+<text x="70" y="230">Bedroom</text><text x="345" y="205">Living room</text>
+<text x="330" y="345" font-size="18">Bath</text><text x="60" y="330" font-size="18">Closet</text>
+<text x="440" y="285" font-size="16" fill="#494c52">Kitchenette</text>
+</g>
+<text x="30" y="430" font-family="Georgia, serif" font-size="16" fill="#494c52">One-bedroom — approx. 560 sq ft (sample layout)</text>
+</svg>

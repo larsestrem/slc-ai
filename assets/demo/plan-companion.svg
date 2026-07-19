@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 440" role="img" aria-label="Sample companion suite floor plan, approximately 480 square feet shared">
+<rect width="600" height="440" fill="#ffffff"/>
+<g fill="none" stroke="#1b1d21" stroke-width="6">
+<rect x="30" y="40" width="540" height="360"/>
+<line x1="300" y1="40" x2="300" y2="180"/><line x1="300" y1="260" x2="300" y2="290"/>
+<line x1="200" y1="290" x2="400" y2="290"/><line x1="200" y1="290" x2="200" y2="400"/><line x1="400" y1="290" x2="400" y2="400"/>
+</g>
+<g fill="#dfe9f2" stroke="#494c52" stroke-width="3">
+<rect x="60" y="70" width="150" height="100"/><rect x="390" y="70" width="150" height="100"/><rect x="230" y="320" width="140" height="60"/>
+</g>
+<rect x="110" y="50" width="110" height="10" fill="#9fb8d8"/><rect x="380" y="50" width="110" height="10" fill="#9fb8d8"/>
+<g font-family="Georgia, serif" font-size="20" fill="#1b1d21">
+<text x="70" y="205">Resident A</text><text x="395" y="205">Resident B</text>
+<text x="240" y="355" font-size="18">Shared bath</text>
+<text x="70" y="330" font-size="16" fill="#494c52">Entry</text><text x="440" y="330" font-size="16" fill="#494c52">Closets</text>
+</g>
+<text x="30" y="430" font-family="Georgia, serif" font-size="16" fill="#494c52">Companion suite — approx. 480 sq ft shared (sample layout)</text>
+</svg>

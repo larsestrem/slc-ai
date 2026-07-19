@@ -231,15 +231,33 @@ tbody tr:hover { background: var(--soft); }
 .sample-banner { border-left: 4px solid var(--accent); font-size: .95rem; }
 .claimed-badge { background: #eaf3ea; border: 1px solid #b9d0b9; border-radius: var(--radius); color: var(--ink); font-size: .92rem; padding: .55rem .8rem; margin: .8rem 0 0; }
 .from-community { display: inline-block; background: #eaf3ea; border: 1px solid #b9d0b9; color: #2c5530; border-radius: 99px; padding: .02rem .55rem; font-size: .74rem; font-weight: 600; vertical-align: middle; white-space: nowrap; }
-.hero-gallery { display: grid; gap: .6rem; grid-template-columns: repeat(4, 1fr); margin: 1.1rem 0 .4rem; }
-.hero-gallery figure { margin: 0; }
-.hero-gallery .hg-main { grid-column: 1 / -1; }
+/* Main photo left, remaining tiles in a 2x2 grid to its right; everything
+   stacks into one column on small screens. */
+.hero-gallery { display: grid; gap: .6rem; grid-template-columns: 1fr; margin: 1.1rem 0 .4rem; }
+.hero-gallery figure { margin: 0; display: flex; flex-direction: column; min-height: 0; }
+.hero-gallery figure a { flex: 1 1 auto; min-height: 0; }
 @media (min-width: 52rem) {
-  .hero-gallery { grid-template-columns: repeat(3, 1fr) ; }
-  .hero-gallery .hg-main { grid-column: 1 / 3; grid-row: 1 / 3; }
+  .hero-gallery { grid-template-columns: 1.7fr 1fr 1fr; grid-auto-rows: minmax(0, 1fr); }
+  .hero-gallery .hg-main { grid-column: 1; grid-row: 1 / 3; }
+  .hero-gallery .hg-main img { aspect-ratio: auto; }
+  .hero-gallery img { aspect-ratio: auto; }
+  /* Tile captions live in the lightbox on desktop; only the main image keeps
+     its caption, so the 2x2 tiles stay flush. */
+  .hero-gallery figure:not(.hg-main) figcaption { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 }
+.hero-gallery a { display: block; height: 100%; border-radius: var(--radius); }
+.hero-gallery a:hover img, .hero-gallery a:focus-visible img { border-color: var(--accent); }
 .hero-gallery img { width: 100%; height: 100%; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--line); display: block; aspect-ratio: 8 / 5; }
 .hero-gallery figcaption { font-size: .78rem; color: var(--muted); margin-top: .25rem; }
+
+/* CSS-only full-screen lightbox (:target). The whole overlay is the close link. */
+.lightbox { display: none; position: fixed; inset: 0; z-index: 100; background: rgba(20, 22, 26, .93); padding: 1.2rem; align-items: center; justify-content: center; cursor: zoom-out; }
+.lightbox:target { display: flex; }
+.lightbox figure { margin: 0; text-align: center; max-width: 100%; }
+.lightbox img { max-width: min(94vw, 68rem); max-height: 84vh; width: auto; height: auto; border-radius: 8px; background: #fff; border: 0; }
+.lightbox figcaption { color: #e8eaee; font-size: .9rem; margin-top: .6rem; }
+.lightbox .lb-close { position: fixed; top: .6rem; right: 1rem; color: #e8eaee; font-size: 2.2rem; line-height: 1; }
+.lightbox:hover { text-decoration: none; }
 .care-detail-grid { display: grid; gap: .9rem; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); margin: .8rem 0; padding: 0; }
 .care-detail h3 { margin: 0 0 .3rem; font-size: 1.02rem; }
 .care-detail p { font-size: .92rem; margin: .3rem 0; }
@@ -299,23 +317,68 @@ tbody tr:hover { background: var(--soft); }
   <p class="claimed-badge">✓ Community-verified profile — the sections marked
   <span class="from-community">From the community</span> were provided by verified staff of
   Alder Grove Senior Living on 2026-07-01. <a href="/for-communities/#how-claiming-works">How we verify who can update a listing</a></p>
-  <div class="hero-gallery">
+  <div class="hero-gallery" id="gallery">
     <figure class="hg-main">
-      <img src="/assets/demo/exterior.svg" alt="Illustration of the front entrance and grounds of Alder Grove Senior Living" decoding="async"><figcaption>Main entrance (sample illustration)</figcaption>
+      <a href="#photo-1" aria-label="View full screen: Illustration of the front entrance and grounds of Alder Grove Senior Living">
+        <img src="/assets/demo/exterior.svg" alt="Illustration of the front entrance and grounds of Alder Grove Senior Living" decoding="async">
+      </a><figcaption>Main entrance (sample illustration)</figcaption>
     </figure>
     <figure>
-      <img src="/assets/demo/dining.svg" alt="Illustration of the community dining room with tables and large windows" loading="lazy" decoding="async"><figcaption>Dining room (sample illustration)</figcaption>
+      <a href="#photo-2" aria-label="View full screen: Illustration of the community dining room with tables and large windows">
+        <img src="/assets/demo/dining.svg" alt="Illustration of the community dining room with tables and large windows" loading="lazy" decoding="async">
+      </a><figcaption>Dining room (sample illustration)</figcaption>
     </figure>
     <figure>
-      <img src="/assets/demo/garden.svg" alt="Illustration of the enclosed garden courtyard with walking path and benches" loading="lazy" decoding="async"><figcaption>Garden courtyard (sample illustration)</figcaption>
+      <a href="#photo-3" aria-label="View full screen: Illustration of the enclosed garden courtyard with walking path and benches">
+        <img src="/assets/demo/garden.svg" alt="Illustration of the enclosed garden courtyard with walking path and benches" loading="lazy" decoding="async">
+      </a><figcaption>Garden courtyard (sample illustration)</figcaption>
     </figure>
     <figure>
-      <img src="/assets/demo/room.svg" alt="Illustration of a furnished resident room with bed, chair, and window" loading="lazy" decoding="async"><figcaption>Resident room (sample illustration)</figcaption>
+      <a href="#photo-4" aria-label="View full screen: Illustration of a furnished resident room with bed, chair, and window">
+        <img src="/assets/demo/room.svg" alt="Illustration of a furnished resident room with bed, chair, and window" loading="lazy" decoding="async">
+      </a><figcaption>Resident room (sample illustration)</figcaption>
     </figure>
     <figure>
-      <img src="/assets/demo/activity.svg" alt="Illustration of the activity room with art easel, bookshelves, and game table" loading="lazy" decoding="async"><figcaption>Activity room (sample illustration)</figcaption>
+      <a href="#photo-5" aria-label="View full screen: Illustration of the activity room with art easel, bookshelves, and game table">
+        <img src="/assets/demo/activity.svg" alt="Illustration of the activity room with art easel, bookshelves, and game table" loading="lazy" decoding="async">
+      </a><figcaption>Activity room (sample illustration)</figcaption>
     </figure>
   </div>
+  <a href="#gallery" class="lightbox" id="photo-1" aria-label="Close full-screen photo">
+    <figure>
+      <img src="/assets/demo/exterior.svg" alt="Illustration of the front entrance and grounds of Alder Grove Senior Living" loading="lazy" decoding="async">
+      <figcaption>Main entrance (sample illustration) — click anywhere to close</figcaption>
+    </figure>
+    <span class="lb-close" aria-hidden="true">&times;</span>
+  </a>
+  <a href="#gallery" class="lightbox" id="photo-2" aria-label="Close full-screen photo">
+    <figure>
+      <img src="/assets/demo/dining.svg" alt="Illustration of the community dining room with tables and large windows" loading="lazy" decoding="async">
+      <figcaption>Dining room (sample illustration) — click anywhere to close</figcaption>
+    </figure>
+    <span class="lb-close" aria-hidden="true">&times;</span>
+  </a>
+  <a href="#gallery" class="lightbox" id="photo-3" aria-label="Close full-screen photo">
+    <figure>
+      <img src="/assets/demo/garden.svg" alt="Illustration of the enclosed garden courtyard with walking path and benches" loading="lazy" decoding="async">
+      <figcaption>Garden courtyard (sample illustration) — click anywhere to close</figcaption>
+    </figure>
+    <span class="lb-close" aria-hidden="true">&times;</span>
+  </a>
+  <a href="#gallery" class="lightbox" id="photo-4" aria-label="Close full-screen photo">
+    <figure>
+      <img src="/assets/demo/room.svg" alt="Illustration of a furnished resident room with bed, chair, and window" loading="lazy" decoding="async">
+      <figcaption>Resident room (sample illustration) — click anywhere to close</figcaption>
+    </figure>
+    <span class="lb-close" aria-hidden="true">&times;</span>
+  </a>
+  <a href="#gallery" class="lightbox" id="photo-5" aria-label="Close full-screen photo">
+    <figure>
+      <img src="/assets/demo/activity.svg" alt="Illustration of the activity room with art easel, bookshelves, and game table" loading="lazy" decoding="async">
+      <figcaption>Activity room (sample illustration) — click anywhere to close</figcaption>
+    </figure>
+    <span class="lb-close" aria-hidden="true">&times;</span>
+  </a>
 
   <div class="two-col">
     <div>

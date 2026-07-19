@@ -16,14 +16,28 @@ layout: default
   {%- endif %}
 
   {%- if page.photos and page.photos.size > 0 %}
-  <div class="hero-gallery{% if page.photos.size == 1 %} single{% endif %}">
+  {%- comment %} One large photo + tiles in a 2x2 grid beside it (stacked on mobile).
+      Clicking any photo opens it full screen via a CSS-only :target lightbox —
+      no JavaScript; clicking anywhere on the open image closes it. {% endcomment %}
+  <div class="hero-gallery{% if page.photos.size == 1 %} single{% endif %}" id="gallery">
     {%- for ph in page.photos %}
     <figure{% if forloop.first %} class="hg-main"{% endif %}>
-      <img src="{{ ph.src }}" alt="{{ ph.alt }}"{% unless forloop.first %} loading="lazy"{% endunless %} decoding="async">
+      <a href="#photo-{{ forloop.index }}" aria-label="View full screen: {{ ph.alt }}">
+        <img src="{{ ph.src }}" alt="{{ ph.alt }}"{% unless forloop.first %} loading="lazy"{% endunless %} decoding="async">
+      </a>
       {%- if ph.caption %}<figcaption>{{ ph.caption }}</figcaption>{% endif %}
     </figure>
     {%- endfor %}
   </div>
+  {%- for ph in page.photos %}
+  <a href="#gallery" class="lightbox" id="photo-{{ forloop.index }}" aria-label="Close full-screen photo">
+    <figure>
+      <img src="{{ ph.src }}" alt="{{ ph.alt }}" loading="lazy" decoding="async">
+      <figcaption>{{ ph.caption | default: ph.alt }} — click anywhere to close</figcaption>
+    </figure>
+    <span class="lb-close" aria-hidden="true">&times;</span>
+  </a>
+  {%- endfor %}
   {%- endif %}
 
   <div class="two-col">

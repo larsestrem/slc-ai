@@ -15,9 +15,11 @@ city: "san-mateo"
 city_name: "San Mateo"
 address: "1 Baldwin Ave"
 zip: "94401"
+phone: "(650) 579-5500"
+website: "https://www.peninsularegent.org/"
 care_levels: ["independent-living"]
 sources: ["https://reviews.birdeye.com/the-peninsula-regent-169282299158744", "https://www.seniorcareauthority.com/assisted-living/peninsula-regent-the-in-san-mateo-california.html", "https://www.yelp.com/biz/the-peninsula-regent-san-mateo"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "An owner-occupied independent living community for seniors in downtown San Mateo, steps from shops and restaurants on Baldwin Avenue. Residents own their residences and share amenities including a pool, a gym with personal trainers, and daily dining."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/the-peninsula-regent-169282299158744"}, {"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/peninsula-regent-the-in-san-mateo-california.html"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-peninsula-regent-san-mateo"}]
 reviews_search_url: "https://www.google.com/search?q=The+Peninsula+Regent+San+Mateo+CA+reviews"

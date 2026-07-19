@@ -16,12 +16,13 @@ city_name: "Walnut Creek"
 address: "1700 Tice Valley Blvd"
 zip: "94595"
 phone: "(925) 937-1700"
+website: "https://www.kiscoseniorliving.com/senior-living/ca/walnut-creek/byron-park/"
 care_levels: ["independent-living", "assisted-living"]
 facility_size: "large"
 organization: "kisco-senior-living"
 organization_name: "Kisco Senior Living"
 sources: ["https://everyplace.care/facility/byron-park-walnut-creek-ca-079201218", "https://www.aplaceformom.com/community/byron-park-57886", "https://www.yelp.com/biz/byron-park-walnut-creek"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Independent living and assisted living community in Walnut Creek's Tice Valley area, operating since 1991 as part of Kisco Senior Living. Residents compare the well-kept grounds, courtyard gardens, and pool to a boutique hotel, and the community runs a busy calendar of exercise classes, live music, and cultural outings with scheduled daily transportation."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/byron-park-57886"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/byron-park-walnut-creek"}]
 reviews_search_url: "https://www.google.com/search?q=Byron+Park+Walnut+Creek+CA+reviews"

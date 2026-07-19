@@ -22,7 +22,7 @@ facility_size: "large"
 capacity: 188
 cms_ccn: "295055"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/295055/view-all/", "https://health.usnews.com/best-nursing-homes/area/nv/college-park-rehabilitation-center-295055", "https://collegeparkrehabc.com/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Medicare- and Medicaid-certified skilled nursing facility in North Las Vegas with 188 beds, offering short-term rehabilitation, long-term care, and hospice care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/nv/college-park-rehabilitation-center-295055"}]
 reviews_search_url: "https://www.google.com/search?q=College+Park+Rehabilitation+Center+North+Las+Vegas+NV+reviews"

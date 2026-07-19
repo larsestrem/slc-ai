@@ -20,7 +20,7 @@ website: "https://vacavillememorycare.com/"
 care_levels: ["memory-care"]
 facility_size: "medium"
 sources: ["https://birdeye.com/vacaville-memory-care-169341830339637", "https://www.yelp.com/biz/vacaville-memory-care-vacaville"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Stand-alone memory care community on Nut Tree Road in Vacaville dedicated to residents living with Alzheimer's disease and other dementias."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/vacaville-memory-care-169341830339637"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/vacaville-memory-care-vacaville"}]
 reviews_search_url: "https://www.google.com/search?q=Vacaville+Memory+Care+Vacaville+CA+reviews"

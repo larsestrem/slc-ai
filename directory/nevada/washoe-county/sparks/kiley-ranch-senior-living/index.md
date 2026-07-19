@@ -5,7 +5,7 @@ title: "Kiley Ranch Senior Living"
 seo_title: "Kiley Ranch Senior Living — Senior Living in Sparks, NV"
 description: "Assisted living and memory care community in the Kiley Ranch area of Sparks, built in 2022. The single-story campus features a gym, mini golf, and outdoor cou"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Kiley Ranch Senior Living", "url": "/directory/nevada/washoe-county/sparks/kiley-ranch-senior-living/"}]
-nearby: [{"name": "Cascades of the Sierra", "url": "/directory/nevada/washoe-county/sparks/cascades-of-the-sierra/", "city_name": "Sparks", "state_abbrev": "NV", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "Cascades of the Sierra is a large senior living campus in the Spanish Springs area of Sparks, opened in 2009, offering independent living, assisted living, and memory care."}, {"name": "MorningStar Senior Living of Sparks", "url": "/directory/nevada/washoe-county/sparks/morningstar-senior-living-of-sparks/", "city_name": "Sparks", "state_abbrev": "NV", "care_levels": ["assisted-living", "memory-care"], "serious_concern": false, "description": "MorningStar Senior Living of Sparks is an assisted living and memory care community in the Wingfield Hills area of Sparks, north of Reno. It is operated by Denver-based MorningStar Senior Living, which runs communities across the western United States."}]
+nearby: [{"name": "Cascades of the Sierra", "url": "/directory/nevada/washoe-county/sparks/cascades-of-the-sierra/", "city_name": "Sparks", "state_abbrev": "NV", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "facility_size": "large", "description": "Cascades of the Sierra is a large senior living campus in the Spanish Springs area of Sparks, opened in 2009, offering independent living, assisted living, and memory care."}, {"name": "MorningStar Senior Living of Sparks", "url": "/directory/nevada/washoe-county/sparks/morningstar-senior-living-of-sparks/", "city_name": "Sparks", "state_abbrev": "NV", "care_levels": ["independent-living", "assisted-living", "memory-care"], "serious_concern": false, "description": "MorningStar Senior Living of Sparks is an assisted living and memory care community in the Wingfield Hills area of Sparks, north of Reno. It is operated by Denver-based MorningStar Senior Living, which runs communities across the western United States."}]
 state: "nevada"
 state_name: "Nevada"
 state_abbrev: "NV"
@@ -16,9 +16,10 @@ city_name: "Sparks"
 address: "6300 David Allen Pkwy"
 zip: "89436"
 phone: "(775) 387-3700"
+website: "https://kileyranchseniorliving.com/"
 care_levels: ["assisted-living", "memory-care"]
 sources: ["https://www.aplaceformom.com/community/kiley-ranch-1451350", "https://www.caring.com/senior-living/nevada/sparks/kiley-ranch-senior-living", "https://www.yelp.com/biz/kiley-ranch-senior-living-sparks-3"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community in the Kiley Ranch area of Sparks, built in 2022. The single-story campus features a gym, mini golf, and outdoor courtyards, and is recognized for providing quality care at competitive prices for the Reno-Sparks market."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/kiley-ranch-1451350"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/nevada/sparks/kiley-ranch-senior-living"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/kiley-ranch-senior-living-sparks-3"}]
 reviews_search_url: "https://www.google.com/search?q=Kiley+Ranch+Senior+Living+Sparks+NV+reviews"

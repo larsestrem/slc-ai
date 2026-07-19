@@ -15,13 +15,14 @@ city: "peoria"
 city_name: "Peoria"
 address: "6735 W Golden Ln"
 zip: "85345"
+phone: "(623) 307-9420"
 website: "https://www.morningstarseniorliving.com/communities/senior-living-peoria-golden-ridge/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
 organization: "morningstar-senior-living"
 organization_name: "MorningStar Senior Living"
 sources: ["https://reviews.birdeye.com/morningstar-senior-living-at-golden-ridge-173507707537619", "https://www.aplaceformom.com/community/morning-star-at-golden-ridge-1421351"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "MorningStar at Golden Ridge is a newer senior living campus on 8.8 acres in Peoria, serving the Peoria and Glendale area with independent living, assisted living, and memory care."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/morningstar-senior-living-at-golden-ridge-173507707537619"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/morning-star-at-golden-ridge-1421351"}]
 reviews_search_url: "https://www.google.com/search?q=MorningStar+at+Golden+Ridge+Peoria+AZ+reviews"

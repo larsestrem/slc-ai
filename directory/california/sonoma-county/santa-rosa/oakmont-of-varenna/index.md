@@ -16,13 +16,14 @@ city_name: "Santa Rosa"
 address: "1401 Fountaingrove Parkway"
 zip: "95403"
 phone: "(707) 526-1226"
+website: "https://oakmontseniorliving.com/varenna/"
 care_levels: ["ccrc", "independent-living", "assisted-living"]
 facility_size: "large"
 capacity: 162
 organization: "oakmont-senior-living"
 organization_name: "Oakmont Senior Living"
 sources: ["https://www.aplaceformom.com/community/oakmont-of-varenna-a-ccrc-1370191", "https://www.seniorcare.com/assisted-living/ca/santa-rosa/varenna-at-fountaingrove/10409/", "https://www.yelp.com/biz/varenna-oakmont-santa-rosa"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Luxury continuing care retirement community in Santa Rosa's Fountaingrove area, set on 30 acres overlooking a lake with 162 apartment and casita homes. Also known as Varenna at Fountaingrove, the community offers resort-style amenities including pools, a fitness center, a wine cave, and multiple dining venues. Operated by Oakmont Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-varenna-a-ccrc-1370191"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/varenna-oakmont-santa-rosa"}]
 reviews_search_url: "https://www.google.com/search?q=Oakmont+of+Varenna+Santa+Rosa+CA+reviews"

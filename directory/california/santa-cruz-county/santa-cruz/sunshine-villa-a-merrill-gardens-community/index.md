@@ -22,7 +22,7 @@ facility_size: "medium"
 organization: "merrill-gardens"
 organization_name: "Merrill Gardens"
 sources: ["https://www.aplaceformom.com/community/sunshine-villa-a-merrill-gardens-community-99920", "https://www.yelp.com/biz/sunshine-villa-a-merrill-gardens-community-santa-cruz"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community in a landmark Victorian-style building within walking distance of the Santa Cruz Wharf, beach and boardwalk."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunshine-villa-a-merrill-gardens-community-99920"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/sunshine-villa-a-merrill-gardens-community-santa-cruz"}]
 reviews_search_url: "https://www.google.com/search?q=Sunshine+Villa%2C+A+Merrill+Gardens+Community+Santa+Cruz+CA+reviews"

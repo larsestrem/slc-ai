@@ -15,13 +15,14 @@ city: "concord"
 city_name: "Concord"
 address: "4756 Clayton Rd"
 zip: "94521"
+phone: "(925) 856-4260"
 website: "https://oakmontseniorliving.com/montecito/"
 care_levels: ["assisted-living", "memory-care"]
 facility_size: "large"
 organization: "oakmont-senior-living"
 organization_name: "Oakmont Senior Living"
 sources: ["https://www.aplaceformom.com/community/oakmont-of-montecito-102138", "https://oakmontseniorliving.com/montecito/", "https://www.yelp.com/biz/oakmont-of-montecito-concord"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Luxury assisted living and memory care community in east Concord operated by Oakmont Senior Living. The campus is large, with landscaped courtyards and resort-style common areas."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-montecito-102138"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-montecito-concord"}]
 reviews_search_url: "https://www.google.com/search?q=Oakmont+of+Montecito+Concord+CA+reviews"

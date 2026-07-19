@@ -15,9 +15,11 @@ city: "yucaipa"
 city_name: "Yucaipa"
 address: "33951 Colorado St"
 zip: "92399"
+phone: "(909) 500-2347"
+website: "https://compass-living.com/community/wildwood-canyon-villa-assisted-living-and-memory-care/"
 care_levels: ["assisted-living", "memory-care"]
 sources: ["https://ultimateseniorresource.com/states/california/yucaipa/wildwood-canyon-villa-assisted-living-and-memory-care", "https://www.aplaceformom.com/community/wildwood-canyon-villa-99857"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Wildwood Canyon Villa is an assisted living and memory care community in the heart of Yucaipa."
 review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/california/yucaipa/wildwood-canyon-villa-assisted-living-and-memory-care"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/wildwood-canyon-villa-99857"}]
 reviews_search_url: "https://www.google.com/search?q=Wildwood+Canyon+Villa+Assisted+Living+and+Memory+Care+Yucaipa+CA+reviews"

@@ -14,13 +14,14 @@ county_name: "San Francisco"
 city: "san-francisco"
 city_name: "San Francisco"
 address: "1661 Pine Street"
+zip: "94109"
 phone: "(415) 776-0500"
 website: "https://covia.org/san-francisco-towers/"
 care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"]
 organization: "front-porch"
 organization_name: "Front Porch"
 sources: ["https://covia.org/san-francisco-towers/contact/", "https://www.yelp.com/biz/san-francisco-towers-san-francisco"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-19"
 description_full: "San Francisco Towers is a nonprofit continuing care retirement community on Pine Street in San Francisco. It brings independent living apartments, assisted living suites, a memory-support neighborhood, and a Medicare-certified skilled nursing and rehabilitation center together on one site. It is operated by Front Porch (formerly Covia Communities)."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/san-francisco-towers-san-francisco"}]
 reviews_search_url: "https://www.google.com/search?q=San+Francisco+Towers+San+Francisco+CA+reviews"

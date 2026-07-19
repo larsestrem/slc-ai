@@ -15,11 +15,13 @@ city: "fremont"
 city_name: "Fremont"
 address: "3850 Walnut Ave"
 zip: "94538"
+phone: "(510) 584-9526"
+website: "https://www.aegisliving.com/locations/aegis-living-fremont-ca/"
 care_levels: ["assisted-living", "memory-care"]
 organization: "aegis-living"
 organization_name: "Aegis Living"
 sources: ["https://reviews.birdeye.com/aegis-living-fremont-790936640", "https://www.yelp.com/biz/aegis-living-fremont-fremont", "https://www.caring.com/senior-living/california/fremont/aegis-living-fremont-94538"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "An assisted living and memory care community on Walnut Avenue in central Fremont, part of the Aegis Living family."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/aegis-living-fremont-790936640"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/aegis-living-fremont-fremont"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/fremont/aegis-living-fremont-94538"}]
 reviews_search_url: "https://www.google.com/search?q=Aegis+Living+Fremont+Fremont+CA+reviews"

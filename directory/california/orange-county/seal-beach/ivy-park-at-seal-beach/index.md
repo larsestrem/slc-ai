@@ -15,9 +15,11 @@ city: "seal-beach"
 city_name: "Seal Beach"
 address: "3850 Lampson Ave"
 zip: "90740"
+phone: "(562) 594-5788"
+website: "https://ivyliving.com/sealbeach/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 sources: ["https://ultimateseniorresource.com/states/california/seal-beach/ivy-park-at-seal-beach", "https://www.caring.com/senior-living/california/seal-beach/ivy-park-at-seal-beach"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Ivy Park at Seal Beach (formerly Sunrise of Seal Beach) offers independent living, assisted living, and memory care near Old Ranch Country Club."
 review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/california/seal-beach/ivy-park-at-seal-beach"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/seal-beach/ivy-park-at-seal-beach"}]
 reviews_search_url: "https://www.google.com/search?q=Ivy+Park+at+Seal+Beach+Seal+Beach+CA+reviews"

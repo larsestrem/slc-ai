@@ -21,7 +21,7 @@ care_levels: ["memory-care"]
 organization: "silverado"
 organization_name: "Silverado"
 sources: ["https://www.silverado.com/locations/beverly-place/", "https://www.yelp.com/biz/silverado-beverly-place-memory-care-community-los-angeles"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-19"
 description_full: "Silverado Beverly Place is a specialized memory care community in Los Angeles dedicated to residents living with Alzheimer's disease and other dementias. It is centrally located near Beverly Hills and West Hollywood and is operated by memory care specialist Silverado."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/silverado-beverly-place-memory-care-community-los-angeles"}]
 reviews_search_url: "https://www.google.com/search?q=Silverado+Beverly+Place+Memory+Care+Community+Los+Angeles+CA+reviews"

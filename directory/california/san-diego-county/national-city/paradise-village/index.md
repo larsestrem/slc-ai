@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "generations-senior-living"
 organization_name: "Generations Senior Living"
 sources: ["https://www.aplaceformom.com/community/paradise-village-153205", "https://www.generationsllc.com/communities/paradise-village/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Paradise Village is a resort-style senior community on 12 acres in National City, just south of San Diego, offering independent living, assisted living, and memory care. Amenities include a large indoor pool, a 212-seat theater, more than 200 monthly activities, and over 20 resident-run clubs."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/paradise-village-153205"}]
 reviews_search_url: "https://www.google.com/search?q=Paradise+Village+National+City+CA+reviews"

@@ -16,12 +16,13 @@ city_name: "Napa"
 address: "1800 Atrium Pkwy"
 zip: "94559"
 phone: "(707) 257-7885"
-care_levels: ["independent-living", "assisted-living", "skilled-nursing", "ccrc"]
+website: "https://www.meadowsofnapavalley.org/"
+care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"]
 facility_size: "large"
 organization: "pacific-retirement-services"
 organization_name: "Pacific Retirement Services"
 sources: ["https://reviews.birdeye.com/the-meadows-of-napa-valley-157269446745602", "https://health.usnews.com/best-senior-living/the-meadows-of-napa-valley-18840", "https://www.yelp.com/biz/the-meadows-of-napa-valley-napa"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "A nonprofit life plan community in the city of Napa managed by Pacific Retirement Services, offering independent living, assisted living, and skilled nursing on one campus."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/the-meadows-of-napa-valley-157269446745602"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-meadows-of-napa-valley-18840"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-meadows-of-napa-valley-napa"}]
 reviews_search_url: "https://www.google.com/search?q=The+Meadows+of+Napa+Valley+Napa+CA+reviews"

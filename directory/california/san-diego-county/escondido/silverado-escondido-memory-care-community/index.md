@@ -16,13 +16,14 @@ city_name: "Escondido"
 address: "1500 Borden Rd"
 zip: "92026"
 phone: "(760) 737-7900"
+website: "https://www.silverado.com/locations/escondido/"
 care_levels: ["memory-care"]
 facility_size: "large"
 capacity: 104
 organization: "silverado"
 organization_name: "Silverado"
 sources: ["https://carelistings.com/assisted-living-homes/escondido-ca/silverado-escondido-memory-care-community/5acd01bca71d8c15cf685b6e", "https://www.yelp.com/biz/silverado-escondido-memory-care-community-escondido"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Silverado Escondido is a dedicated memory care community licensed for 104 beds in north Escondido. Part of the national Silverado memory care organization, it provides personal care, meals, medication management, and 24-hour supervision for residents living with Alzheimer's disease and other dementias."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/escondido-ca/silverado-escondido-memory-care-community/5acd01bca71d8c15cf685b6e"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/silverado-escondido-memory-care-community-escondido"}]
 reviews_search_url: "https://www.google.com/search?q=Silverado+Escondido+Memory+Care+Community+Escondido+CA+reviews"

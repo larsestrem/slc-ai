@@ -26,7 +26,7 @@
         "https://www.yelp.com/biz/atria-seville-las-vegas",
         "https://nvhca.org/find-care/atria-seville/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Las Ventanas at Summerlin",
@@ -58,7 +58,7 @@
         "https://www.seniorlivingguide.com/communities/las-ventanas-at-summerlin-10401-w-charleston-blvd-las-vegas-nv-89135/",
         "https://health.usnews.com/best-senior-living/las-ventanas-628"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Life Care Center of Las Vegas",
@@ -89,7 +89,7 @@
         "https://www.healthcare4ppl.com/nursing-home/nevada/las-vegas/life-care-center-of-las-vegas-295052.html",
         "https://health.usnews.com/best-nursing-homes/area/nv/life-care-center-of-las-vegas-295052"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Golden Villa Care Home",
@@ -116,7 +116,7 @@
         "https://seniorcarehomes.com/assisted-living/nevada/las-vegas-nv/golden-villa-care-home/",
         "https://nvhca.org/find-care/golden-villa-care-home/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Sunrise of Henderson",
@@ -145,7 +145,7 @@
         "https://www.yelp.com/biz/sunrise-of-henderson-henderson",
         "https://health.usnews.com/best-senior-living/sunrise-of-henderson-1770"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Brookdale Reno",
@@ -174,7 +174,7 @@
         "https://www.seniorlivingguide.com/communities/brookdale-reno-3105-plumas-street-reno-nv-89509/",
         "https://www.aplaceformom.com/community/brookdale-reno-94411"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Life Care Center of Reno",
@@ -186,7 +186,7 @@
       "county_name": "Washoe",
       "city": "reno",
       "city_name": "Reno",
-      "address": "445 W. Holcomb Lane",
+      "address": "445 W Holcomb Ranch Ln",
       "zip": "89511",
       "phone": "(775) 851-0123",
       "website": "https://lcca.com/locations/nv/reno/",
@@ -204,7 +204,7 @@
         "https://www.healthcare4ppl.com/nursing-home/nevada/reno/life-care-center-of-reno-295050.html",
         "https://health.usnews.com/best-nursing-homes/area/nv/life-care-center-of-reno-295050"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "MorningStar Senior Living of Sparks",
@@ -219,8 +219,9 @@
       "address": "2360 Wingfield Hills Rd",
       "zip": "89436",
       "phone": "(775) 626-5665",
-      "website": "https://www.morningstarseniorliving.com/",
+      "website": "https://www.morningstarseniorliving.com/communities/senior-living-sparks/",
       "care_levels": [
+        "independent-living",
         "assisted-living",
         "memory-care"
       ],
@@ -232,7 +233,7 @@
         "https://www.yelp.com/biz/morningstar-senior-living-of-sparks-sparks-2",
         "https://www.seniorlivingguide.com/communities/morningstar-of-sparks-2360-wingfield-hills-rd-sparks-nv-89436/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Lodge Assisted Living and Memory Care Community",
@@ -256,7 +257,7 @@
         "https://www.yelp.com/biz/the-lodge-assisted-living-and-memory-care-carson-city",
         "https://nvhca.org/find-care/the-lodge-assisted-living-memory-care-community/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Oakmont of Las Vegas",
@@ -284,7 +285,8 @@
         "https://www.caring.com/senior-living/nevada/las-vegas/oakmont-of-las-vegas",
         "https://www.yelp.com/biz/oakmont-of-las-vegas-las-vegas"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://oakmontseniorliving.com/lasvegas/"
     },
     {
       "name": "Oakmont of the Lakes",
@@ -311,7 +313,9 @@
         "https://www.caring.com/senior-living/nevada/las-vegas/oakmont-of-the-lakes",
         "https://www.yelp.com/biz/oakmont-of-the-lakes-las-vegas"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(702) 256-6500",
+      "website": "https://oakmontseniorliving.com/thelakes/"
     },
     {
       "name": "Vista Pointe at Mira Loma",
@@ -342,7 +346,7 @@
         "https://www.aplaceformom.com/community/vista-pointe-at-mira-loma-71029",
         "https://www.vistapointeatmiraloma.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "College Park Rehabilitation Center",
@@ -371,7 +375,7 @@
         "https://health.usnews.com/best-nursing-homes/area/nv/college-park-rehabilitation-center-295055",
         "https://collegeparkrehabc.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Lakeview Terrace of Boulder City",
@@ -401,7 +405,7 @@
         "https://www.caring.com/senior-living/nevada/boulder-city/lakeview-terrace-of-boulder-city",
         "https://www.lvterrace.com/senior-living/nv/boulder-city/reviews"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Inspirations Senior Living",
@@ -430,7 +434,7 @@
         "https://www.aplaceformom.com/community/inspirations-senior-living-1357554",
         "https://www.inspirationsseniorliving.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Summerset Senior Living Reno",
@@ -459,7 +463,8 @@
         "https://www.yelp.com/biz/summerset-senior-living-reno-3",
         "https://www.seniorliving.org/assisted-living/nevada/reno/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://summersetseniorliving.com/reno/"
     },
     {
       "name": "Kiley Ranch Senior Living",
@@ -485,7 +490,8 @@
         "https://www.caring.com/senior-living/nevada/sparks/kiley-ranch-senior-living",
         "https://www.yelp.com/biz/kiley-ranch-senior-living-sparks-3"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://kileyranchseniorliving.com/"
     },
     {
       "name": "Sierra Place Senior Living",
@@ -510,7 +516,9 @@
         "https://www.seniorly.com/assisted-living/nevada/carson-city/sierra-place-senior-living",
         "https://www.aplaceformom.com/community/sierra-place-retirement-community-94431"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(775) 841-4111",
+      "website": "https://www.cascadeliving.com/community/sierra-place/"
     },
     {
       "name": "Valage Senior Living at Carson Valley",
@@ -537,7 +545,7 @@
         "https://www.aplaceformom.com/community/valage-senior-living-at-carson-valley-1483659",
         "https://valageatcarsonvalley.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Harmony Manor Skilled Nursing Facility",
@@ -566,7 +574,7 @@
         "https://health.usnews.com/best-nursing-homes/area/nv/harmony-manor-skilled-nursing-facility-295024",
         "https://www.hghospital.org/locations/harmony-manor-skilled-nursing-and-residential-care-community/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Advanced Health Care of Reno",
@@ -594,7 +602,7 @@
         "https://www.ahcfacilities.com/reno/",
         "https://www.seniorcare.com/nursing-homes/nv/reno/advanced-health-care-of-reno/295096/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Legacy House of Centennial Hills",
@@ -624,7 +632,7 @@
         "https://www.legacyretire.com/communities/legacy-house-of-centennial-hills/amenities/",
         "https://www.yelp.com/biz/legacy-house-centennial-hills-las-vegas-3"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Highland Manor of Mesquite",
@@ -653,7 +661,7 @@
         "https://nvhca.org/find-care/highland-manor-of-mesquite/",
         "https://health.usnews.com/best-nursing-homes/area/nv/highland-manor-of-mesquite-295068"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Atria Summit Ridge",
@@ -684,7 +692,7 @@
         "https://www.yelp.com/biz/atria-summit-ridge-reno",
         "https://www.atriaseniorliving.com/retirement-communities/atria-summit-ridge-reno-nv/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Cascades of the Sierra",
@@ -715,7 +723,7 @@
         "https://www.yelp.com/biz/cascades-of-the-sierra-sparks",
         "https://www.cascadeliving.com/community/cascades-of-the-sierra/independent-living/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     }
   ],
   "organizations": [

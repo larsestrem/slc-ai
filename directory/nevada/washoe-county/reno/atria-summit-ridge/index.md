@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "atria-senior-living"
 organization_name: "Atria Senior Living"
 sources: ["https://reviews.birdeye.com/atria-summit-ridge-157255800247550", "https://www.yelp.com/biz/atria-summit-ridge-reno", "https://www.atriaseniorliving.com/retirement-communities/atria-summit-ridge-reno-nv/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Atria Summit Ridge is a senior living community in northwest Reno offering independent living, assisted living, and memory care. News has rated it a Best Senior Living community based on resident and family surveys."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/atria-summit-ridge-157255800247550"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/atria-summit-ridge-reno"}]
 reviews_search_url: "https://www.google.com/search?q=Atria+Summit+Ridge+Reno+NV+reviews"

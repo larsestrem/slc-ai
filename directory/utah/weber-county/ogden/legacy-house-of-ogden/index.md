@@ -16,11 +16,12 @@ city_name: "Ogden"
 address: "5526 South Adams Avenue"
 zip: "84405"
 phone: "(801) 476-7111"
+website: "https://www.legacyretire.com/communities/legacy-house-of-ogden/"
 care_levels: ["assisted-living", "memory-care"]
 organization: "legacy-retirement-communities"
 organization_name: "Legacy Retirement Communities"
 sources: ["https://www.assistedlivingcenter.com/facilities/ut/ogden/legacy-house-of-ogden-84405/", "https://www.caring.com/senior-living/utah/ogden/legacy-house-of-ogden-84405"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Legacy House of Ogden offers assisted living and memory care across the street from Ogden Regional Medical Center in south Ogden."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ut/ogden/legacy-house-of-ogden-84405/"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/utah/ogden/legacy-house-of-ogden-84405"}]
 reviews_search_url: "https://www.google.com/search?q=Legacy+House+of+Ogden+Ogden+UT+reviews"

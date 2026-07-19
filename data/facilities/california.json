@@ -26,7 +26,7 @@
         "https://www.sunriseseniorliving.com/communities/ca/sunrise-of-beverly-hills",
         "https://www.yelp.com/biz/sunrise-of-beverly-hills-beverly-hills"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Silverado Beverly Place Memory Care Community",
@@ -52,10 +52,10 @@
         "https://www.silverado.com/locations/beverly-place/",
         "https://www.yelp.com/biz/silverado-beverly-place-memory-care-community-los-angeles"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
-      "name": "Brookdale Camarillo",
+      "name": "Camarillo Senior Living",
       "slug": "brookdale-camarillo",
       "state": "california",
       "state_name": "California",
@@ -66,8 +66,8 @@
       "city_name": "Camarillo",
       "address": "6000 Santa Rosa Road",
       "zip": "93012",
-      "phone": "(805) 892-8032",
-      "website": "https://www.brookdale.com/en/communities/brookdale-camarillo.html",
+      "phone": "(805) 388-8086",
+      "website": "https://www.seniorlivingcamarillo.com/",
       "care_levels": [
         "assisted-living",
         "memory-care"
@@ -79,7 +79,7 @@
         "https://www.yelp.com/biz/brookdale-camarillo-camarillo",
         "https://seniorcarehomes.com/assisted-living/california/camarillo-ca/brookdale-camarillo/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Belmont Village Sabre Springs",
@@ -109,7 +109,7 @@
         "https://www.yelp.com/biz/belmont-village-senior-living-sabre-springs-san-diego-2",
         "https://carelistings.com/assisted-living-homes/san-diego-ca/belmont-village-sabre-springs/5acd01bca71d8c15cf685bb5"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Vi at La Jolla Village",
@@ -140,7 +140,7 @@
         "https://www.viliving.com/locations/ca/san-diego-la-jolla/contact",
         "https://www.yelp.com/biz/vi-at-la-jolla-village-san-diego"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Cove at La Jolla",
@@ -172,7 +172,7 @@
         "https://health.usnews.com/best-nursing-homes/area/ca/the-cove-at-la-jolla-555545",
         "https://www.yelp.com/biz/the-cove-at-la-jolla-la-jolla-2"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "San Francisco Towers",
@@ -201,7 +201,8 @@
         "https://covia.org/san-francisco-towers/contact/",
         "https://www.yelp.com/biz/san-francisco-towers-san-francisco"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19",
+      "zip": "94109"
     },
     {
       "name": "San Francisco Campus for Jewish Living",
@@ -229,7 +230,7 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/055169/view-all/?city=San+Francisco&state=CA&zipcode=94112",
         "https://www.yelp.com/biz/san-francisco-campus-for-jewish-living-san-francisco"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Oakmont of Mariner Point",
@@ -256,7 +257,7 @@
         "https://oakmontseniorliving.com/marinerpoint/",
         "https://www.assistedlivingcenter.com/facilities/ca/alameda/oakmont-of-mariner-point-94501/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Eskaton Land Park",
@@ -284,7 +285,7 @@
         "https://www.yelp.com/biz/eskaton-land-park-sacramento",
         "https://www.aplaceformom.com/community/eskaton-land-park-59311"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Atria Carmichael Oaks",
@@ -312,7 +313,7 @@
         "https://www.atriaseniorliving.com/retirement-communities/atria-carmichael-oaks-carmichael-ca/",
         "https://www.yelp.com/biz/atria-carmichael-oaks-carmichael"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "ACC Care Center",
@@ -343,7 +344,7 @@
         "https://www.accsv.org/acc-care-center-4-stars/",
         "https://www.medicare.gov/care-compare/details/nursing-home/555261/view-all/?city=Sacramento&state=CA"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Terraces at San Joaquin Gardens",
@@ -374,7 +375,7 @@
         "https://www.yelp.com/biz/the-terraces-at-san-joaquin-gardens-fresno-2",
         "https://www.aplaceformom.com/community/the-terraces-at-san-joaquin-gardens-a-ccrc-56811"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Oakmont of Fresno",
@@ -402,7 +403,7 @@
         "https://www.yelp.com/biz/oakmont-of-fresno-fresno",
         "https://www.seniorlivingguide.com/communities/oakmont-of-fresno-5605-n-gates-avenue-fresno-ca-93722/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Oaks at Paso Robles",
@@ -431,7 +432,7 @@
         "https://www.yelp.com/biz/the-oaks-at-paso-robles-paso-robles",
         "https://www.aplaceformom.com/community/the-oaks-at-paso-robles-1445088"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Care Home by RNs",
@@ -458,7 +459,7 @@
         "https://carehomebyrns.com/sacramento/",
         "https://carehomebyrns.com/contact-us/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "WellQuest of Elk Grove",
@@ -486,7 +487,8 @@
         "https://www.yelp.com/biz/wellquest-of-elk-grove-elk-grove",
         "https://www.caring.com/senior-living/california/elk-grove/wellquest-of-elk-grove"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://wellquesteg.com/"
     },
     {
       "name": "Oakmont of Roseville",
@@ -516,7 +518,7 @@
         "https://www.yelp.com/biz/oakmont-of-roseville-roseville",
         "https://www.caring.com/senior-living/california/roseville/oakmont-of-roseville-95661"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Atria Rocklin",
@@ -547,7 +549,7 @@
         "https://www.aplaceformom.com/community/atria-rocklin-95337",
         "https://www.caring.com/senior-living/california/rocklin/atria-rocklin"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Oakmont of Folsom",
@@ -579,7 +581,8 @@
         "https://carelistings.com/assisted-living-homes/folsom-ca/oakmont-of-folsom/5acd01b3a71d8c15cf68501f",
         "https://www.caring.com/senior-living/california/folsom/oakmont-of-folsom-95630"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://oakmontseniorliving.com/folsom/"
     },
     {
       "name": "University Retirement Community",
@@ -613,7 +616,7 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/555769/view-all/?state=CA",
         "https://hcai.ca.gov/facility/university-retirement-community-at-davis/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Oakmont of Brookside",
@@ -642,7 +645,8 @@
         "https://www.aplaceformom.com/community/oakmont-of-brookside-58610",
         "https://www.yelp.com/biz/oakmont-of-brookside-stockton-3"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://oakmontseniorliving.com/brookside/"
     },
     {
       "name": "Vienna Nursing and Rehabilitation Center",
@@ -671,7 +675,7 @@
         "https://health.usnews.com/best-nursing-homes/area/ca/vienna-nursing-and-rehabilitation-center-055481",
         "https://www.yelp.com/biz/vienna-nursing-and-rehabilitation-center-lodi"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Dale Commons",
@@ -701,7 +705,8 @@
         "https://www.caring.com/senior-living/california/modesto/dale-commons-assisted-living-community-95356",
         "https://www.seniorcareauthority.com/assisted-living/dale-commons/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://dalecommons.com/"
     },
     {
       "name": "Merced Senior Living",
@@ -732,7 +737,8 @@
         "https://www.aplaceformom.com/community/merced-senior-living-96941",
         "https://www.yelp.com/biz/merced-senior-living-merced-2"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://mercedseniorliving.com/"
     },
     {
       "name": "Quail Park on Cypress",
@@ -746,7 +752,7 @@
       "city_name": "Visalia",
       "address": "4250 W Cypress Ave",
       "zip": "93277",
-      "phone": "(559) 697-0345",
+      "phone": "(559) 624-3500",
       "website": "https://www.livingcarelifestyles.com/quail-park-cypress-visalia/",
       "care_levels": [
         "independent-living",
@@ -763,7 +769,7 @@
         "https://birdeye.com/quail-park-on-cypress-171380378697619",
         "https://www.caring.com/senior-living/california/visalia/quail-park-on-cypress"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Bayshire Riverwalk Senior Living",
@@ -798,7 +804,7 @@
         "https://bayshireriverwalk.com/",
         "https://www.senioradvisor.com/local/brookdale-riverwalk-bakersfield-ca"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Sycamore Glen",
@@ -815,8 +821,7 @@
       "phone": "(530) 894-0384",
       "website": "https://sycamoreglen.com/",
       "care_levels": [
-        "independent-living",
-        "assisted-living"
+        "independent-living"
       ],
       "description": "Sycamore Glen is an active senior community in Chico that is also licensed for assisted living, with staff available to support activities of daily living such as bathing, dressing, and mobility.",
       "review_note": "4.8/5 rating with 34 reviews on Caring.com (July 2026)",
@@ -826,7 +831,7 @@
         "https://sycamoreglen.com/",
         "https://www.aplaceformom.com/community/sycamore-glen-retirement-59542"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Oakmont of Redding",
@@ -855,7 +860,8 @@
         "https://www.aplaceformom.com/community/oakmont-of-redding-1400682",
         "https://www.caring.com/senior-living/california/redding/oakmont-of-redding"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://oakmontseniorliving.com/redding/"
     },
     {
       "name": "The Palms at Bonaventure",
@@ -881,7 +887,7 @@
         "https://www.senioradvisor.com/local/the-palms-at-bonaventure-ventura-ca",
         "https://www.aplaceformom.com/community/palms-at-bonaventure-140876"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Belmont Village Thousand Oaks",
@@ -913,7 +919,7 @@
         "https://www.aplaceformom.com/community/belmont-village-thousand-oaks-1337106",
         "https://www.belmontvillage.com/locations/thousand-oaks-california/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Maravilla",
@@ -927,7 +933,7 @@
       "city_name": "Santa Barbara",
       "address": "5486 Calle Real",
       "zip": "93111",
-      "phone": "(805) 308-9585",
+      "phone": "(805) 723-3309",
       "website": "https://www.srgseniorliving.com/santa-barbara-ca-maravilla/",
       "care_levels": [
         "independent-living",
@@ -945,7 +951,7 @@
         "https://www.seniorly.com/assisted-living/california/santa-barbara/maravilla",
         "https://www.caring.com/senior-living/california/santa-barbara/maravilla-93111"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Merrill Gardens at Santa Maria",
@@ -959,7 +965,7 @@
       "city_name": "Santa Maria",
       "address": "1220 Suey Road",
       "zip": "93454",
-      "phone": "(805) 928-2662",
+      "phone": "(805) 310-4102",
       "website": "https://www.merrillgardens.com/senior-living/ca/santa-maria/merrill-gardens-at-santa-maria/",
       "care_levels": [
         "independent-living",
@@ -974,7 +980,7 @@
         "https://www.aplaceformom.com/community/merrill-gardens-at-santa-maria-56629",
         "https://www.caring.com/senior-living/california/santa-maria/merrill-gardens-at-santa-maria-93454"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Californian",
@@ -1001,7 +1007,8 @@
         "https://www.californiancare.com/",
         "https://health.usnews.com/best-nursing-homes/area/ca/the-californian-055684"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(805) 682-1355"
     },
     {
       "name": "San Luis Post Acute Center",
@@ -1028,7 +1035,7 @@
         "https://health.usnews.com/best-nursing-homes/area/ca/san-luis-post-acute-center-056189",
         "https://www.medicare.gov/care-compare/details/nursing-home/056189/view-all/?city=San+Luis+Obispo&state=CA&zipcode=93401"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Park Lane",
@@ -1059,7 +1066,7 @@
         "https://www.aplaceformom.com/community/the-park-lane-56928",
         "https://montereyparklane.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Cottages of Carmel",
@@ -1084,7 +1091,8 @@
         "https://www.aplaceformom.com/community/the-cottages-of-carmel-1333863",
         "https://www.yelp.com/biz/the-cottages-of-carmel-carmel-by-the-sea"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://ivyliving.com/carmel/"
     },
     {
       "name": "Madonna Gardens Assisted Living and Memory Care",
@@ -1112,7 +1120,7 @@
         "https://www.aplaceformom.com/community/madonna-gardens-assisted-living-and-memory-care-56884",
         "https://carefieldliving.com/madonna-gardens-assisted-living-memory-care/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Aegis Living Aptos",
@@ -1140,7 +1148,7 @@
         "https://www.caring.com/senior-living/california/aptos/aegis-of-aptos-95003",
         "https://www.aegisliving.com/locations/aegis-living-aptos-ca/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Sequoia Springs Senior Living Community",
@@ -1167,7 +1175,7 @@
         "https://www.aplaceformom.com/community/sequoia-springs-assisted-living-and-memory-care-97906",
         "https://www.sequoiasprings-sl.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Atria Golden Creek",
@@ -1200,7 +1208,7 @@
         "https://www.aplaceformom.com/community/atria-golden-creek-55914",
         "https://health.usnews.com/best-senior-living/atria-golden-creek-16902"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Walnut Village",
@@ -1235,7 +1243,7 @@
         "https://frontporch.net/community/walnut-village/",
         "https://www.aplaceformom.com/community/walnut-village-56155"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Huntington Terrace",
@@ -1267,7 +1275,7 @@
         "https://www.mbkseniorliving.com/senior-living/ca/huntington-beach/huntington-terrace/",
         "https://www.aplaceformom.com/community/huntington-terrace-55979"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Morningside of Fullerton",
@@ -1303,7 +1311,7 @@
         "https://www.caring.com/senior-living/california/fullerton/morningside-of-fullerton",
         "https://health.usnews.com/best-senior-living/morningside-of-fullerton-4146"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Atria Del Sol",
@@ -1335,7 +1343,7 @@
         "https://www.caring.com/senior-living/california/mission-viejo/atria-del-sol-92692",
         "https://www.atriaseniorliving.com/retirement-communities/atria-del-sol-mission-viejo-ca"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Crestavilla",
@@ -1368,7 +1376,8 @@
         "https://www.senioradvisor.com/local/crestavilla-laguna-niguel-ca",
         "https://health.usnews.com/best-senior-living/crestavilla-26766"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.kiscoseniorliving.com/signature/crestavilla/"
     },
     {
       "name": "St. Catherine Healthcare",
@@ -1398,7 +1407,7 @@
         "https://health.usnews.com/best-nursing-homes/area/ca/st-catherine-healthcare-fullerton-055689",
         "https://www.yelp.com/biz/st-catherine-healthcare-fullerton"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Citrus Place",
@@ -1430,7 +1439,7 @@
         "https://www.mbkseniorliving.com/senior-living/ca/riverside/citrus-place/",
         "https://health.usnews.com/best-senior-living/citrus-place-1889"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Estancia del Sol",
@@ -1465,7 +1474,7 @@
         "https://www.mbkseniorliving.com/senior-living/ca/corona/estancia-del-sol/",
         "https://www.caring.com/senior-living/california/corona/estancia-del-sol-92881"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Vineyard Ranch at Temecula",
@@ -1496,7 +1505,7 @@
         "https://vineyardranchseniorliving.com/",
         "https://health.usnews.com/best-senior-living/vineyard-ranch-at-temecula-2524"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "WellQuest of Murrieta",
@@ -1528,7 +1537,8 @@
         "https://www.aplaceformom.com/community/well-quest-of-murrieta-1403853",
         "https://www.yelp.com/biz/renaissance-village-murrieta-murrieta"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(951) 319-8243"
     },
     {
       "name": "Atria Rancho Mirage",
@@ -1560,7 +1570,7 @@
         "https://www.atriaseniorliving.com/retirement-communities/atria-rancho-mirage-rancho-mirage-ca",
         "https://health.usnews.com/best-senior-living/atria-rancho-mirage-17838"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Mission Commons",
@@ -1587,7 +1597,8 @@
         "https://www.redlandschamber.org/directory/name/mission-commons-senior-living/",
         "https://www.seniorly.com/independent-living/california/redlands/mission-commons"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.missioncommonssl.com/"
     },
     {
       "name": "Ivy Park at Alta Loma",
@@ -1615,7 +1626,9 @@
         "https://www.caring.com/senior-living/california/rancho-cucamonga/ivy-park-at-alta-loma",
         "https://health.usnews.com/best-senior-living/ivy-park-at-alta-loma-36207"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(909) 941-3001",
+      "website": "https://ivyliving.com/altaloma/"
     },
     {
       "name": "MorningStar of Pasadena",
@@ -1644,7 +1657,7 @@
         "https://www.morningstarseniorliving.com/communities/senior-living-pasadena/",
         "https://www.caring.com/senior-living/california/pasadena/morningstar-of-pasadena"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Sparr Heights Estates Senior Living",
@@ -1654,8 +1667,8 @@
       "state_abbrev": "CA",
       "county": "los-angeles",
       "county_name": "Los Angeles",
-      "city": "glendale",
-      "city_name": "Glendale",
+      "city": "montrose",
+      "city_name": "Montrose",
       "address": "2640 Honolulu Ave",
       "zip": "91020",
       "phone": "(818) 248-6737",
@@ -1673,7 +1686,7 @@
         "https://sinceriseniorliving.com/sparr-heights-estates/",
         "https://www.assistedliving.org/california/glendale/sparr-heights-estates-senior-living/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Belmont Village Senior Living Burbank",
@@ -1702,7 +1715,7 @@
         "https://www.belmontvillage.com/locations/burbank-california/",
         "https://health.usnews.com/best-senior-living/belmont-village-burbank-1046"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Brookdale South Bay",
@@ -1714,7 +1727,7 @@
       "county_name": "Los Angeles",
       "city": "torrance",
       "city_name": "Torrance",
-      "address": "5481 Torrance Blvd",
+      "address": "5481 W Torrance Blvd",
       "zip": "90503",
       "phone": "(310) 543-1174",
       "website": "https://www.brookdale.com/en/communities/brookdale-south-bay-ca.html",
@@ -1730,7 +1743,7 @@
         "https://www.brookdale.com/en/communities/brookdale-south-bay-ca.html",
         "https://www.seniorly.com/independent-living/california/torrance/brookdale-south-bay-torrance-5481-w-torrance-blvd-torrance-ca-90503"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Alamitos Belmont Health and Rehabilitation",
@@ -1759,7 +1772,7 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/056125/?city=Long+Beach&measure=nursing-home-health-inspections&state=CA&zipcode=90814",
         "https://alamitosbelmontrehab.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Savant of Santa Monica",
@@ -1790,7 +1803,7 @@
         "https://www.savantseniorliving.com/santamonica",
         "https://health.usnews.com/best-senior-living/savant-of-santa-monica-19914"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Motion Picture & Television Hospital Skilled Nursing Facility",
@@ -1818,7 +1831,8 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/055034/view-all/?state=CA",
         "https://mptf.com/residential/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(818) 876-1888"
     },
     {
       "name": "Northridge Valley Senior Living",
@@ -1845,7 +1859,7 @@
         "https://northridgevalleyseniorliving.com/",
         "https://birdeye.com/pacifica-senior-living-northridge-169341833988214"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Discovery Commons Whittier",
@@ -1874,7 +1888,7 @@
         "https://discoverycommonswhittier.com/",
         "https://www.seniorly.com/assisted-living/california/whittier/whittier-place-senior-living"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Bellamar Lancaster",
@@ -1901,7 +1915,7 @@
         "https://bellamarlancaster.com/",
         "https://www.prestigecare.com/press/prestige-assisted-living-at-lancaster-receives-top-marks-for-quality-and-safety/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Hollenbeck Palms",
@@ -1932,7 +1946,7 @@
         "https://www.hollenbeckpalms.com/residency-options/skilled-nursing/",
         "https://www.medicare.gov/care-compare/details/nursing-home/055115/view-all/?state=CA"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Solheim Senior Community",
@@ -1964,7 +1978,7 @@
         "https://solheimsenior.org/",
         "https://www.caring.com/senior-living/california/los-angeles"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Silverado Escondido Memory Care Community",
@@ -1994,7 +2008,8 @@
         "https://carelistings.com/assisted-living-homes/escondido-ca/silverado-escondido-memory-care-community/5acd01bca71d8c15cf685b6e",
         "https://www.yelp.com/biz/silverado-escondido-memory-care-community-escondido"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.silverado.com/locations/escondido/"
     },
     {
       "name": "Westmont at San Miguel Ranch",
@@ -2026,7 +2041,7 @@
         "https://www.yelp.com/biz/westmont-at-san-miguel-ranch-chula-vista-2",
         "https://westmontliving.com/our-communities/california/chula-vista/westmont-at-san-miguel-ranch/contact/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Fairwinds - Ivey Ranch",
@@ -2057,7 +2072,7 @@
         "https://www.leisurecare.com/our-communities/fairwinds-ivey-ranch/",
         "https://health.usnews.com/best-senior-living/fairwinds-ivey-ranch-1341"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "La Vida Real",
@@ -2091,7 +2106,7 @@
         "https://www.srgseniorliving.com/rancho-san-diego-ca-la-vida-real/",
         "https://www.yelp.com/biz/la-vida-real-el-cajon"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Poway Gardens Senior Living",
@@ -2124,7 +2139,8 @@
         "https://www.aplaceformom.com/community/poway-gardens-senior-living-94871",
         "https://www.yelp.com/biz/poway-gardens-senior-living-poway"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://sinceriseniorliving.com/poway-gardens/"
     },
     {
       "name": "Alta Vista Senior Living",
@@ -2153,7 +2169,7 @@
         "https://www.senioradvisor.com/local/alta-vista-senior-living-vista-ca",
         "https://altavistaseniorliving.com/contact-us/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "GlenBrook Health Center",
@@ -2183,7 +2199,8 @@
         "https://health.usnews.com/best-nursing-homes/area/ca/glenbrook-health-center-555806",
         "https://www.yelp.com/biz/glenbrook-health-center-carlsbad-2"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://visitglenbrook.com/"
     },
     {
       "name": "The Glen at Scripps Ranch",
@@ -2215,7 +2232,7 @@
         "https://theglenatscrippsranch.com/contact-us/",
         "https://health.usnews.com/best-senior-living/the-glen-at-scripps-ranch-ccrc-31323"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Merrill Gardens at Bankers Hill",
@@ -2247,7 +2264,7 @@
         "https://www.merrillgardens.com/senior-living/ca/san-diego/merrill-gardens-at-bankers-hill/",
         "https://www.caring.com/senior-living/california/san-diego/merrill-gardens-at-bankers-hill-92103"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Westmont of Encinitas",
@@ -2261,7 +2278,7 @@
       "city_name": "Encinitas",
       "address": "1920 S El Camino Real",
       "zip": "92024",
-      "phone": "(858) 729-6720",
+      "phone": "(760) 452-6037",
       "care_levels": [
         "independent-living",
         "assisted-living"
@@ -2277,7 +2294,8 @@
         "https://www.senioradvisor.com/local/westmont-of-encinitas-encinitas-ca",
         "https://carelistings.com/assisted-living-homes/encinitas-ca/westmont-of-encinitas/62f5e9e02da9b02713ae8239"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://westmontliving.com/our-communities/california/encinitas/westmont-of-encinitas/"
     },
     {
       "name": "Seacrest Village at Encinitas",
@@ -2309,7 +2327,7 @@
         "https://seacrestvillage.org/services/nursing/",
         "https://health.usnews.com/best-nursing-homes/area/ca/the-dorothy-joseph-goldberg-healthcare-center-555424"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Coterie Cathedral Hill",
@@ -2342,7 +2360,7 @@
         "https://www.yelp.com/biz/coterie-cathedral-hill-san-francisco",
         "https://luriegroup.com/developments/1001-van-ness-ave"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Merrill Gardens at Rockridge",
@@ -2372,7 +2390,7 @@
         "https://www.yelp.com/biz/merrill-gardens-at-rockridge-oakland",
         "https://www.merrillgardens.com/senior-living/ca/oakland/merrill-gardens-at-rockridge/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Belmont Village Albany",
@@ -2404,7 +2422,7 @@
         "https://www.belmontvillage.com/locations/albany-berkeley-california",
         "https://www.yelp.com/biz/belmont-village-senior-living-albany-albany"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Oakmont of Montecito",
@@ -2433,7 +2451,8 @@
         "https://oakmontseniorliving.com/montecito/",
         "https://www.yelp.com/biz/oakmont-of-montecito-concord"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(925) 856-4260"
     },
     {
       "name": "Byron Park",
@@ -2462,7 +2481,8 @@
         "https://www.aplaceformom.com/community/byron-park-57886",
         "https://www.yelp.com/biz/byron-park-walnut-creek"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.kiscoseniorliving.com/senior-living/ca/walnut-creek/byron-park/"
     },
     {
       "name": "Atria Tamalpais Creek",
@@ -2491,7 +2511,8 @@
         "https://www.aplaceformom.com/community/atria-tamalpais-creek-58169",
         "https://www.atriaseniorliving.com/retirement-communities/atria-tamalpais-creek-novato-ca"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(415) 892-0944"
     },
     {
       "name": "Burlingame Senior Living",
@@ -2520,7 +2541,9 @@
         "https://www.aplaceformom.com/community/burlingame-senior-living-56962",
         "https://aging.networkofcare.org/SanMateo/services/agency?pid=AtriaBurlingame_44_1_0"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(650) 910-1945",
+      "website": "https://burlingameseniorliving.com/"
     },
     {
       "name": "The Sequoias Portola Valley",
@@ -2548,7 +2571,10 @@
         "https://www.medicarelist.com/nursing-home/sequoias-the-portola-valley-ca/",
         "https://carelistings.com/skilled-nursing-facilities/portola-valley-ca/the-sequoias/5ace87cd93efd2372f9763f5"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(650) 851-1501",
+      "website": "https://sequoialiving.org/portola-valley/",
+      "zip": "94028"
     },
     {
       "name": "Merrill Gardens at Campbell",
@@ -2578,7 +2604,7 @@
         "https://www.merrillgardens.com/senior-living/ca/campbell/merrill-gardens-at-campbell/",
         "https://www.yelp.com/biz/merrill-gardens-at-campbell-campbell-5"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Atria Willow Glen",
@@ -2609,7 +2635,7 @@
         "https://www.aplaceformom.com/community/atria-willow-glen-58456",
         "https://www.atriaseniorliving.com/retirement-communities/atria-willow-glen-san-jose-ca"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Vi at Palo Alto",
@@ -2645,7 +2671,7 @@
         "https://www.yelp.com/biz/vi-at-palo-alto-palo-alto",
         "https://www.viliving.com/locations/ca/palo-alto/contact"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Sunny View Retirement Community",
@@ -2678,7 +2704,7 @@
         "https://carelistings.com/skilled-nursing-facilities/cupertino-ca/sunny-view-manor/5ace892f93efd2372f9940c1",
         "https://frontporch.net/community/sunny-view/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Oakmont of Varenna",
@@ -2711,7 +2737,8 @@
         "https://www.seniorcare.com/assisted-living/ca/santa-rosa/varenna-at-fountaingrove/10409/",
         "https://www.yelp.com/biz/varenna-oakmont-santa-rosa"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://oakmontseniorliving.com/varenna/"
     },
     {
       "name": "Nazareth Rose Garden of Napa",
@@ -2739,7 +2766,7 @@
         "https://www.senior-living-directory.com/california/napa/assisted-living-facility/nazareth-rose-garden-of-napa",
         "https://www.seniorly.com/assisted-living/california/napa/nazareth-rose-garden-of-napa"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Carmel Village at Clovis",
@@ -2769,7 +2796,7 @@
         "https://www.aplaceformom.com/community/carmel-village-at-clovis-senior-living-1368455",
         "https://www.generationsllc.com/communities/carmel-village/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Marbella Visalia",
@@ -2784,7 +2811,7 @@
       "address": "3120 W Caldwell Ave",
       "zip": "93277",
       "phone": "(559) 735-0828",
-      "website": "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497",
+      "website": "https://marbellavisalia.com/",
       "care_levels": [
         "assisted-living",
         "memory-care"
@@ -2796,7 +2823,7 @@
         "https://www.caring.com/senior-living/california/visalia/prestige-assisted-living-at-visalia-93278",
         "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Atria Las Posas",
@@ -2825,7 +2852,7 @@
         "https://www.aplaceformom.com/community/atria-las-posas-56350",
         "https://www.atriaseniorliving.com/retirement-communities/atria-las-posas-camarillo-ca"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "AlmaVia of Camarillo",
@@ -2840,7 +2867,7 @@
       "address": "2500 N Ponderosa Dr",
       "zip": "93010",
       "phone": "(805) 388-5277",
-      "website": "https://www.senioradvisor.com/local/almavia-of-camarillo-camarillo-ca",
+      "website": "https://eldercarealliance.org/our-communities/almavia-of-camarillo/",
       "care_levels": [
         "assisted-living",
         "memory-care"
@@ -2855,7 +2882,7 @@
         "https://www.aplaceformom.com/community/alma-via-of-camarillo-95421",
         "https://www.caring.com/senior-living/california/camarillo/almavia-of-camarillo-93010"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Eskaton Village Grass Valley",
@@ -2868,10 +2895,12 @@
       "city": "grass-valley",
       "city_name": "Grass Valley",
       "zip": "95945",
-      "website": "https://www.aplaceformom.com/community/eskaton-village-grass-valley-98679",
+      "website": "https://www.eskaton.org/eskaton-village-grass-valley-assisted-living",
       "care_levels": [
+        "independent-living",
         "assisted-living",
-        "memory-care"
+        "memory-care",
+        "respite-care"
       ],
       "facility_size": "large",
       "organization": "eskaton",
@@ -2881,7 +2910,9 @@
       "sources": [
         "https://www.aplaceformom.com/community/eskaton-village-grass-valley-98679"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "address": "625 Eskaton Cir",
+      "phone": "(530) 273-1778"
     },
     {
       "name": "Atria Grass Valley",
@@ -2894,8 +2925,9 @@
       "city": "grass-valley",
       "city_name": "Grass Valley",
       "zip": "95945",
-      "website": "https://www.aplaceformom.com/community/atria-grass-valley-59472",
+      "website": "https://www.atriaseniorliving.com/retirement-communities/atria-grass-valley-grass-valley-ca/",
       "care_levels": [
+        "independent-living",
         "assisted-living",
         "memory-care"
       ],
@@ -2911,7 +2943,9 @@
         "https://www.aplaceformom.com/community/atria-grass-valley-59472",
         "https://www.caring.com/senior-living/california/grass-valley/atria-grass-valley-95945"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "address": "150 Sutton Way",
+      "phone": "(530) 272-1055"
     },
     {
       "name": "Valle Verde",
@@ -2943,7 +2977,8 @@
         "https://www.caring.com/senior-living/california/santa-barbara/valle-verde-93105",
         "https://health.usnews.com/best-senior-living/valle-verde-1900"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(805) 883-4000"
     },
     {
       "name": "Cypress Place",
@@ -2973,7 +3008,7 @@
         "https://www.aplaceformom.com/community/cypress-place-100577",
         "https://www.assistedliving.org/california/ventura/cypress-place-assisted-living/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Astoria Senior Living – Oakdale",
@@ -3002,7 +3037,7 @@
         "https://www.caring.com/senior-living/california/oakdale/astoria-senior-living-oakdale",
         "https://www.aplaceformom.com/community/astoria-senior-living-oakdale-141515"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Ventura Townehouse",
@@ -3015,8 +3050,9 @@
       "city": "ventura",
       "city_name": "Ventura",
       "zip": "93003",
-      "website": "https://www.aplaceformom.com/community/ventura-townehouse-73413",
+      "website": "https://www.venturatownehouse.com/",
       "care_levels": [
+        "independent-living",
         "assisted-living",
         "memory-care"
       ],
@@ -3026,7 +3062,9 @@
       "sources": [
         "https://www.aplaceformom.com/community/ventura-townehouse-73413"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "address": "4900 Telegraph Rd",
+      "phone": "(805) 642-3263"
     },
     {
       "name": "The Reserve at Thousand Oaks",
@@ -3059,7 +3097,7 @@
         "https://www.mbkseniorliving.com/senior-living/ca/thousand-oaks/reserve-at-thousand-oaks/",
         "https://www.aplaceformom.com/community/the-reserve-at-thousand-oaks-54776"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "University Village Thousand Oaks",
@@ -3073,7 +3111,7 @@
       "city_name": "Thousand Oaks",
       "address": "3415 Campus Dr",
       "zip": "91360",
-      "website": "https://health.usnews.com/best-senior-living/university-village-thousand-oaks-15541",
+      "website": "https://uvto.com/",
       "care_levels": [
         "independent-living",
         "assisted-living",
@@ -3089,7 +3127,8 @@
         "https://health.usnews.com/best-senior-living/university-village-thousand-oaks-15541",
         "https://www.yelp.com/biz/university-village-thousand-oaks-thousand-oaks-3"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(805) 241-3000"
     },
     {
       "name": "Oakwood Gardens Care Center",
@@ -3118,7 +3157,7 @@
         "https://health.usnews.com/best-nursing-homes/area/ca/oakwood-gardens-care-center-055204",
         "https://oakwoodgardenscarecenter.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Vistas Assisted Living and Memory Care",
@@ -3132,7 +3171,7 @@
       "city_name": "Redding",
       "address": "3030 Heritagetown Dr",
       "zip": "96002",
-      "website": "https://www.caring.com/senior-living/california/redding/the-vistas-assisted-living-and-memory-care",
+      "website": "https://www.vistasalf.com/",
       "care_levels": [
         "assisted-living",
         "memory-care"
@@ -3147,7 +3186,8 @@
         "https://www.caring.com/senior-living/california/redding/the-vistas-assisted-living-and-memory-care",
         "https://health.usnews.com/best-senior-living/the-vistas-assisted-living-memory-care-15817"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(530) 710-9369"
     },
     {
       "name": "Cypress Ridge Care Center",
@@ -3176,7 +3216,7 @@
         "https://cypressridgecarecenter.com/",
         "https://www.medicare.gov/care-compare/details/nursing-home/056437/view-all/?state=CA"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Heritage Downtown",
@@ -3201,7 +3241,8 @@
         "https://theheritagedowntown.com/best-of-senior-living-award/",
         "https://www.yelp.com/biz/the-heritage-downtown-walnut-creek"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(925) 943-7427"
     },
     {
       "name": "Spring Lake Village",
@@ -3231,7 +3272,9 @@
         "https://health.usnews.com/best-nursing-homes/area/ca/spring-lake-village-555268",
         "https://www.caring.com/senior-living/california/santa-rosa/spring-lake-village-95409-1"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(707) 538-8400",
+      "website": "https://frontporch.net/community/spring-lake-village/"
     },
     {
       "name": "The Meadows of Napa Valley",
@@ -3249,6 +3292,7 @@
       "care_levels": [
         "independent-living",
         "assisted-living",
+        "memory-care",
         "skilled-nursing",
         "ccrc"
       ],
@@ -3262,7 +3306,8 @@
         "https://health.usnews.com/best-senior-living/the-meadows-of-napa-valley-18840",
         "https://www.yelp.com/biz/the-meadows-of-napa-valley-napa"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.meadowsofnapavalley.org/"
     },
     {
       "name": "Stoneridge Creek",
@@ -3296,7 +3341,8 @@
         "https://www.seniorly.com/continuing-care-retirement-community/california/pleasanton/stoneridge-creek",
         "https://www.yelp.com/biz/stoneridge-creek-pleasanton-3"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://stoneridgecreek.com/"
     },
     {
       "name": "Heritage Estates",
@@ -3322,7 +3368,9 @@
         "https://health.usnews.com/best-senior-living/heritage-estates-2733",
         "https://www.caring.com/senior-living/california/livermore/heritage-estates-94550"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(925) 373-3636",
+      "website": "https://heritageestatesretirement.com/"
     },
     {
       "name": "Kensington Place Redwood City",
@@ -3349,7 +3397,8 @@
         "https://kensingtonplaceredwoodcity.com/",
         "https://www.seniorly.com/memory-care/california/redwood-city/kensington-place-redwood-city"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(650) 363-9200"
     },
     {
       "name": "The Terraces of Los Gatos",
@@ -3382,7 +3431,8 @@
         "https://www.nursinghomedatabase.com/snf/555547",
         "https://health.usnews.com/best-senior-living/the-terraces-of-los-gatos-2769"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.humangood.org/the-terraces-of-los-gatos"
     },
     {
       "name": "Paradise Valley Estates",
@@ -3412,7 +3462,9 @@
         "https://assistedlivingmagazine.com/nursing-home/paradise-valley-estates/",
         "https://www.caring.com/senior-living/california/fairfield/paradise-valley-estates-94533"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(707) 862-5135",
+      "website": "https://www.pvestates.com/"
     },
     {
       "name": "Prairie City Landing",
@@ -3441,7 +3493,8 @@
         "https://www.aplaceformom.com/community/prairie-city-landing-1394710",
         "https://www.seniorly.com/assisted-living/california/folsom/prairie-city-landing"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://prairiecitylanding.com/"
     },
     {
       "name": "Aegis Living Fremont",
@@ -3468,7 +3521,9 @@
         "https://www.yelp.com/biz/aegis-living-fremont-fremont",
         "https://www.caring.com/senior-living/california/fremont/aegis-living-fremont-94538"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(510) 584-9526",
+      "website": "https://www.aegisliving.com/locations/aegis-living-fremont-ca/"
     },
     {
       "name": "Channing House",
@@ -3496,7 +3551,9 @@
         "https://everyplace.care/facility/channing-house-palo-alto-ca-430700136",
         "https://www.caring.com/senior-living/california/palo-alto/channing-house-94301"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(650) 327-0950",
+      "website": "https://channinghouse.org/"
     },
     {
       "name": "Sierra Regency",
@@ -3520,7 +3577,9 @@
         "https://www.assistedlivingcenter.com/facilities/ca/roseville/sierra-regency-95661/",
         "https://www.caring.com/senior-living/california/roseville/sierra-regency-95661"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(916) 786-3173",
+      "website": "https://sierraregency.com/"
     },
     {
       "name": "The Pines by Cogir",
@@ -3550,7 +3609,7 @@
         "https://cogirusa.com/communities/the-pines-by-cogir/",
         "https://www.caring.com/senior-living/california/rocklin/the-pines-a-merrill-gardens-community-95765"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Atria Covell Gardens",
@@ -3578,7 +3637,8 @@
         "https://www.aplaceformom.com/community/atria-covell-gardens-59108",
         "https://www.caring.com/senior-living/california/davis/atria-covell-gardens-95616"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.atriaseniorliving.com/retirement-communities/atria-covell-gardens-davis-ca"
     },
     {
       "name": "Sunrise of Fair Oaks",
@@ -3606,7 +3666,8 @@
         "https://www.sunriseseniorliving.com/communities/ca/sunrise-of-fair-oaks",
         "https://www.caring.com/senior-living/california/fair-oaks/sunrise-of-fair-oaks-ca-95628"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(916) 863-1499"
     },
     {
       "name": "Cogir of Stock Ranch Senior Living",
@@ -3621,6 +3682,7 @@
       "address": "7418 Stock Ranch Rd",
       "zip": "95621",
       "care_levels": [
+        "independent-living",
         "assisted-living"
       ],
       "organization": "cogir-senior-living",
@@ -3632,7 +3694,8 @@
         "https://reviews.birdeye.com/cogir-of-stock-ranch-175372187838655",
         "https://health.usnews.com/best-senior-living/cogir-of-stock-ranch-16647"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://cogirusa.com/communities/cogir-of-stock-ranch/"
     },
     {
       "name": "The Peninsula Regent",
@@ -3656,7 +3719,9 @@
         "https://www.seniorcareauthority.com/assisted-living/peninsula-regent-the-in-san-mateo-california.html",
         "https://www.yelp.com/biz/the-peninsula-regent-san-mateo"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(650) 579-5500",
+      "website": "https://www.peninsularegent.org/"
     },
     {
       "name": "St. Paul's Towers",
@@ -3673,6 +3738,7 @@
       "care_levels": [
         "independent-living",
         "assisted-living",
+        "memory-care",
         "skilled-nursing",
         "ccrc"
       ],
@@ -3688,7 +3754,9 @@
         "https://www.caring.com/senior-living/california/oakland/st-pauls-towers-94610-2",
         "https://www.oasissenioradvisors.com/community-guide/california/oakland/st-pauls-towers/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(510) 835-4700",
+      "website": "https://frontporch.net/community/st-pauls-towers/"
     },
     {
       "name": "The Commons on Thornton",
@@ -3718,7 +3786,9 @@
         "https://everyplace.care/facility/commons-on-thornton-the-stockton-ca-392700368",
         "https://www.aplaceformom.com/community/the-commons-on-thornton-137847"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(209) 476-1500",
+      "website": "https://www.mbkseniorliving.com/senior-living/ca/stockton/commons-on-thornton/"
     },
     {
       "name": "Oakmont of Santa Clarita",
@@ -3748,7 +3818,7 @@
         "https://www.aplaceformom.com/community/oakmont-of-santa-clarita-1384020",
         "https://www.yelp.com/biz/oakmont-of-santa-clarita-santa-clarita"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Oakmont of Whittier",
@@ -3779,7 +3849,7 @@
         "https://assistedlivingmapper.com/california/whittier/oakmont-of-whittier",
         "https://www.yelp.com/biz/oakmont-of-whittier-whittier"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Oakmont of Torrance",
@@ -3813,7 +3883,7 @@
         "https://www.aplaceformom.com/community/oakmont-of-torrance-1441304",
         "https://www.yelp.com/biz/oakmont-of-torrance-torrance"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Bay Towers at Bixby Knolls",
@@ -3842,7 +3912,7 @@
         "https://birdeye.com/bay-towers-at-bixby-knolls-169341834506799",
         "https://baytowersatbixbyknolls.com/contact-us/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Scholl Canyon Estates",
@@ -3868,7 +3938,8 @@
         "https://www.caring.com/senior-living/california/glendale/scholl-canyon-estates-gracious-retirement-living",
         "https://www.yelp.com/biz/scholl-canyon-estates-gracious-retirement-living-glendale"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://seniorlivinginstyle.com/scholl-canyon-estates/"
     },
     {
       "name": "Villa Gardens",
@@ -3882,7 +3953,7 @@
       "city_name": "Pasadena",
       "address": "842 E Villa St",
       "zip": "91101",
-      "phone": "(626) 463-5350",
+      "phone": "(626) 463-5300",
       "website": "https://frontporch.net/community/villa-gardens/",
       "care_levels": [
         "independent-living",
@@ -3904,7 +3975,7 @@
         "https://frontporch.net/community/villa-gardens/",
         "https://www.aplaceformom.com/community/villa-gardens-94566"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Vivante on the Coast",
@@ -3919,8 +3990,9 @@
       "address": "1640 Monrovia Ave",
       "zip": "92627",
       "phone": "(949) 629-2100",
-      "website": "https://vivanteliving.com/senior-living/costa-mesa/",
+      "website": "https://vivanteliving.com/costa-mesa/",
       "care_levels": [
+        "independent-living",
         "assisted-living",
         "memory-care"
       ],
@@ -3934,7 +4006,7 @@
         "https://vivanteliving.com/senior-living/costa-mesa/",
         "https://health.usnews.com/best-assisted-living/vivante-on-the-coast-47350"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Emerald Court",
@@ -3965,7 +4037,7 @@
         "https://www.kiscoseniorliving.com/senior-living/ca/anaheim/emerald-court/contact/",
         "https://www.yelp.com/biz/emerald-court-anaheim"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Ivy Park at Huntington Beach",
@@ -3994,7 +4066,7 @@
         "https://ivyliving.com/huntingtonbeach/",
         "https://www.yelp.com/biz/ivy-park-at-huntington-beach-huntington-beach"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Atria Newport Beach",
@@ -4025,7 +4097,7 @@
         "https://www.atriaseniorliving.com/retirement-communities/atria-newport-beach-newport-beach-ca",
         "https://www.yelp.com/biz/atria-newport-beach-2"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Regents Point",
@@ -4058,7 +4130,7 @@
         "https://www.aplaceformom.com/community/regents-point-1356836",
         "https://health.usnews.com/best-senior-living/regents-point-2006"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Oakmont of Orange",
@@ -4088,7 +4160,7 @@
         "https://www.yelp.com/biz/oakmont-of-orange-orange",
         "https://oakmontseniorliving.com/orange/contact/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Everest at The Groves of Tustin",
@@ -4115,7 +4187,7 @@
         "https://everestatgrovesoftustin.com/",
         "https://www.seniorlivingguide.com/communities/everest-at-the-groves-of-tustin-1262-bryan-ave-tustin-ca-92780/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Discovery Commons Raincross",
@@ -4146,7 +4218,7 @@
         "https://discoverycommonsraincross.com/",
         "https://www.yelp.com/biz/raincross-at-riverside-riverside-6"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Stonewall Gardens Assisted Living",
@@ -4173,7 +4245,7 @@
         "http://www.stonewallgardens.com/",
         "https://www.yelp.com/biz/stonewall-gardens-assisted-living-palm-springs"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Atria Park of Vintage Hills",
@@ -4204,7 +4276,7 @@
         "https://www.atriaseniorliving.com/retirement-communities/atria-vintage-hills-temecula-ca",
         "https://www.yelp.com/biz/atria-park-of-vintage-hills-temecula"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Brookdale Murrieta",
@@ -4232,7 +4304,7 @@
         "https://www.brookdale.com/en/communities/brookdale-murrieta/assisted-living.html",
         "https://www.yelp.com/biz/brookdale-murrieta-murrieta"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Westmont of Escondido",
@@ -4263,7 +4335,7 @@
         "https://westmontliving.com/our-communities/california/escondido/westmont-of-escondido/",
         "https://www.yelp.com/biz/westmont-of-escondido-escondido"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Pasea Senior Living",
@@ -4294,7 +4366,7 @@
         "https://www.aplaceformom.com/community/the-pasea-1381678",
         "https://www.yelp.com/biz/the-pasea-chula-vista-2"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Bayshire Carlsbad",
@@ -4311,6 +4383,7 @@
       "phone": "(760) 720-9898",
       "website": "https://bayshirecarlsbad.com/",
       "care_levels": [
+        "independent-living",
         "assisted-living",
         "memory-care",
         "skilled-nursing",
@@ -4325,7 +4398,7 @@
         "https://bayshirecarlsbad.com/contact-us/",
         "https://health.usnews.com/best-nursing-homes/area/ca/bayshire-carlsbad-555745"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Belmont Village Encino",
@@ -4356,7 +4429,8 @@
         "https://carelistings.com/assisted-living-homes/sherman-oaks-ca/belmont-village-encino/5acd0191a71d8c15cf682646",
         "https://www.belmontvillage.com/locations/encino-california/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(818) 788-8870"
     },
     {
       "name": "Harbor Terrace Retirement Community",
@@ -4381,7 +4455,9 @@
         "https://www.aplaceformom.com/community/harbor-terrace-retirement-community-54408",
         "https://www.yelp.com/biz/harbor-terrace-retirement-community-san-pedro"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(310) 547-0090",
+      "website": "https://harborterraceretirement.com/"
     },
     {
       "name": "Mt. San Antonio Gardens",
@@ -4413,7 +4489,7 @@
         "https://reviews.birdeye.com/mtsan-antonio-gardens-157270026951999",
         "https://www.yelp.com/biz/mt-san-antonio-gardens-pomona-2"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Hillcrest - A Remarkable Retirement Community",
@@ -4442,7 +4518,9 @@
         "https://reviews.birdeye.com/hillcrest-a-remarkable-retirement-community-157255147753502",
         "https://www.yelp.com/biz/hillcrest-la-verne-4"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(909) 392-4111",
+      "website": "https://www.livingathillcrest.org/"
     },
     {
       "name": "Claremont Manor",
@@ -4473,7 +4551,9 @@
         "https://birdeye.com/claremont-manor-retirement-community-171234797375055",
         "https://www.yelp.com/biz/claremont-manor-retirement-community-claremont"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(909) 626-1227",
+      "website": "https://frontporch.net/community/claremont-manor/"
     },
     {
       "name": "The Kensington Sierra Madre",
@@ -4501,7 +4581,8 @@
         "https://www.seniorly.com/assisted-living/california/sierra-madre/the-kensington-sierra-madre",
         "https://thekensingtonsierramadre.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(626) 355-5700"
     },
     {
       "name": "Merrill Gardens at West Covina",
@@ -4530,7 +4611,8 @@
         "https://www.aplaceformom.com/community/merrill-gardens-at-west-covina-1444988",
         "https://www.yelp.com/biz/merrill-gardens-at-west-covina-west-covina"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(626) 251-4002"
     },
     {
       "name": "Crescendo Senior Living",
@@ -4556,7 +4638,8 @@
         "https://www.aplaceformom.com/community/crescendo-senior-living-assisted-living-and-memory-care-56307",
         "http://www.crescendoseniorliving.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(714) 528-4990"
     },
     {
       "name": "Rowntree Gardens",
@@ -4586,7 +4669,9 @@
         "https://www.assistedlivingcenter.com/facilities/ca/stanton/rowntree-gardens-90680/",
         "https://www.aplaceformom.com/community/rowntree-gardens-54380"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(714) 530-9100",
+      "website": "https://rowntreegardens.org/"
     },
     {
       "name": "Ivy Park at Seal Beach",
@@ -4613,7 +4698,9 @@
         "https://ultimateseniorresource.com/states/california/seal-beach/ivy-park-at-seal-beach",
         "https://www.caring.com/senior-living/california/seal-beach/ivy-park-at-seal-beach"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(562) 594-5788",
+      "website": "https://ivyliving.com/sealbeach/"
     },
     {
       "name": "Sea Bluffs",
@@ -4639,7 +4726,9 @@
         "https://www.caring.com/senior-living/california/dana-point/sea-bluffs",
         "https://www.aplaceformom.com/community/the-fountains-at-sea-bluffs-73636"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(949) 234-3000",
+      "website": "https://ivyliving.com/seabluffs/"
     },
     {
       "name": "San Clemente Villas by the Sea",
@@ -4668,7 +4757,8 @@
         "https://www.aplaceformom.com/community/san-clemente-villas-73644",
         "https://www.yelp.com/biz/san-clemente-villas-san-clemente"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.sanclementevillas.com/"
     },
     {
       "name": "Menifee Senior Living",
@@ -4697,7 +4787,7 @@
         "https://www.aplaceformom.com/community/menifee-senior-living-55902",
         "https://www.yelp.com/biz/menifee-senior-living-menifee"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Lakes at Banning",
@@ -4725,7 +4815,8 @@
         "https://www.assistedlivingcenter.com/facilities/ca/banning/lakes-banning-assisted-living-92220/",
         "https://www.thelakesatbanning.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(951) 845-2220"
     },
     {
       "name": "Wildwood Canyon Villa Assisted Living and Memory Care",
@@ -4751,7 +4842,9 @@
         "https://ultimateseniorresource.com/states/california/yucaipa/wildwood-canyon-villa-assisted-living-and-memory-care",
         "https://www.aplaceformom.com/community/wildwood-canyon-villa-99857"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(909) 500-2347",
+      "website": "https://compass-living.com/community/wildwood-canyon-villa-assisted-living-and-memory-care/"
     },
     {
       "name": "Sterling Inn",
@@ -4776,7 +4869,9 @@
         "https://birdeye.com/sterling-inn-assisted-living-community-173462361966732",
         "https://www.aplaceformom.com/community/sterling-inn-55721"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(760) 245-2999",
+      "website": "https://koelschseniorcommunities.com/senior-living/ca/victorville/assisted-living/sterling-inn/"
     },
     {
       "name": "Merrill Gardens at Rancho Cucamonga",
@@ -4805,7 +4900,8 @@
         "https://www.aplaceformom.com/community/merrill-gardens-at-rancho-cucamonga-1414684",
         "https://www.merrillgardens.com/senior-living/ca/rancho-cucamonga/merrill-gardens-at-rancho-cucamonga/reviews"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(909) 218-3705"
     },
     {
       "name": "Casa de las Campanas",
@@ -4836,7 +4932,9 @@
         "https://www.seniorcareauthority.com/assisted-living/casa-de-las-campanas-in-san-diego-california.html",
         "https://health.usnews.com/best-nursing-homes/area/ca/casa-de-las-campanas-555362"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(858) 746-4618",
+      "website": "https://casadelascampanas.com/"
     },
     {
       "name": "Paradise Village",
@@ -4867,7 +4965,7 @@
         "https://www.aplaceformom.com/community/paradise-village-153205",
         "https://www.generationsllc.com/communities/paradise-village/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Silvergate Fallbrook Retirement Residence",
@@ -4897,7 +4995,7 @@
         "https://www.aplaceformom.com/community/silvergate-retirement-residence-fallbrook-55288",
         "https://silvergaterr.com/locations/fallbrook"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Sunrise of Danville",
@@ -4927,7 +5025,7 @@
         "https://www.aplaceformom.com/community/sunrise-of-danville-57480",
         "https://www.yelp.com/biz/sunrise-of-danville-danville"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "San Leandro Senior Living",
@@ -4953,7 +5051,7 @@
         "https://www.aplaceformom.com/community/san-leandro-senior-living-57776",
         "https://www.yelp.com/biz/san-leandro-senior-living-san-leandro"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Carefield Castro Valley Assisted Living and Memory Care",
@@ -4968,7 +5066,7 @@
       "address": "19960 Santa Maria Ave",
       "zip": "94546",
       "phone": "(510) 582-2765",
-      "website": "https://carefieldliving.com/communities/castro-valley/",
+      "website": "https://carefieldliving.com/castro-valley-assisted-living-memory-care/",
       "care_levels": [
         "assisted-living",
         "memory-care"
@@ -4982,10 +5080,10 @@
         "https://www.aplaceformom.com/community/carefield-castro-valley-assisted-living-and-memory-care-102495",
         "https://www.yelp.com/biz/carefield-castro-valley-assisted-living-and-memory-care-castro-valley-4"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
-      "name": "The Courte at Citrus Heights",
+      "name": "Elim Courte Citrus Heights",
       "slug": "the-courte-at-citrus-heights",
       "state": "california",
       "state_name": "California",
@@ -4997,7 +5095,6 @@
       "address": "6825 Sunrise Blvd",
       "zip": "95610",
       "phone": "(916) 721-0644",
-      "website": "https://frontiermgmt.com/communities/courte-at-citrus-heights/",
       "care_levels": [
         "memory-care"
       ],
@@ -5010,7 +5107,7 @@
         "https://www.aplaceformom.com/community/the-courte-at-citrus-heights-1398128",
         "https://www.yelp.com/biz/the-courte-at-citrus-heights-citrus-heights"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Vacaville Memory Care",
@@ -5036,7 +5133,7 @@
         "https://birdeye.com/vacaville-memory-care-169341830339637",
         "https://www.yelp.com/biz/vacaville-memory-care-vacaville"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Cogir of Turlock",
@@ -5066,7 +5163,7 @@
         "https://www.aplaceformom.com/community/cogir-of-turlock-147230",
         "https://www.yelp.com/biz/cogir-of-turlock-turlock"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Sunshine Villa, A Merrill Gardens Community",
@@ -5095,7 +5192,7 @@
         "https://www.aplaceformom.com/community/sunshine-villa-a-merrill-gardens-community-99920",
         "https://www.yelp.com/biz/sunshine-villa-a-merrill-gardens-community-santa-cruz"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Watermark at Almaden",
@@ -5125,7 +5222,7 @@
         "https://www.aplaceformom.com/community/the-watermark-at-almaden-1445139",
         "https://www.watermarkcommunities.com/our-communities/california/san-jose/the-watermark-at-almaden/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Mountain View Assisted Living & Memory Care",
@@ -5152,7 +5249,7 @@
         "https://www.aplaceformom.com/community/mountain-view-58987",
         "https://www.yelp.com/biz/mountain-view-assisted-living-and-memory-care-ukiah-2"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "WellQuest of Granite Bay",
@@ -5169,6 +5266,7 @@
       "phone": "(916) 864-9800",
       "website": "https://wellquestgb.com/",
       "care_levels": [
+        "independent-living",
         "assisted-living",
         "memory-care"
       ],
@@ -5181,7 +5279,7 @@
         "https://birdeye.com/wellquest-of-granite-bay-175296294625579",
         "https://www.yelp.com/biz/wellquest-of-granite-bay-granite-bay"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Belmont Village San Jose",
@@ -5210,7 +5308,7 @@
         "https://www.aplaceformom.com/community/belmont-village-san-jose-96571",
         "https://www.yelp.com/biz/belmont-village-senior-living-san-jose-2"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Blossom Vale Senior Living",
@@ -5237,7 +5335,7 @@
         "https://www.aplaceformom.com/community/blossom-vale-senior-living-59201",
         "https://blossomvaleseniorliving.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Ridge at Healdsburg",
@@ -5264,7 +5362,7 @@
         "https://www.aplaceformom.com/community/the-ridge-at-healdsburg-101863",
         "https://theridgeseniorlife.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Casa de Modesto Retirement Center",
@@ -5292,7 +5390,7 @@
         "https://www.aplaceformom.com/community/casa-de-modesto-58712",
         "https://casademodesto.org/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Park at Modesto",
@@ -5320,7 +5418,7 @@
         "https://www.aplaceformom.com/community/the-park-at-modesto-1395437",
         "https://koelschseniorcommunities.com/senior-living/ca/modesto/independent-living/the-park-at-modesto/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Truewood by Merrill, Modesto",
@@ -5348,10 +5446,10 @@
         "https://www.aplaceformom.com/community/truewood-by-merrill-modesto-58724",
         "https://www.merrillgardens.com/senior-living/ca/modesto/shawnee-drive/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
-      "name": "Prestige Assisted Living at Manteca",
+      "name": "Manteca Assisted Living & Memory Care",
       "slug": "prestige-assisted-living-at-manteca",
       "state": "california",
       "state_name": "California",
@@ -5362,7 +5460,7 @@
       "city_name": "Manteca",
       "address": "1130 Empire Ave",
       "zip": "95336",
-      "phone": "(209) 239-4531",
+      "phone": "(209) 399-1635",
       "care_levels": [
         "assisted-living",
         "memory-care"
@@ -5376,7 +5474,8 @@
         "https://www.seniorcareauthority.com/assisted-living/prestige-assisted-living-at-manteca-in-manteca-california.html",
         "https://www.senior-living-directory.com/california/manteca/assisted-living-facility/prestige-assisted-living-at-manteca"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://mantecaal.com/"
     },
     {
       "name": "Dominican Oaks",
@@ -5403,7 +5502,7 @@
         "https://www.seniorcareauthority.com/assisted-living/dominican-oaks-in-santa-cruz-california.html",
         "https://www.dominicanoaks.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Magnolia of Millbrae",
@@ -5429,7 +5528,8 @@
         "https://seniorsite.org/property/show/magnolia-of-millbrae",
         "https://www.yelp.com/biz/the-magnolia-of-millbrae-millbrae"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.themagnolia.com/"
     }
   ],
   "organizations": [

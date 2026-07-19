@@ -16,11 +16,12 @@ city_name: "Denver"
 address: "5195 West Quincy Avenue"
 zip: "80236"
 phone: "(303) 984-1431"
+website: "https://www.sunriseseniorliving.com/communities/co/sunrise-at-pinehurst"
 care_levels: ["assisted-living", "memory-care", "respite-care"]
 organization: "sunrise-senior-living"
 organization_name: "Sunrise Senior Living"
 sources: ["https://www.aplaceformom.com/community/sunrise-of-pinehurst-93447", "https://everyplace.care/facility/sunrise-at-pinehurst-denver-co-23049u", "https://health.usnews.com/best-senior-living/sunrise-at-pinehurst-2589"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Sunrise at Pinehurst offers assisted living, memory care, and short-term respite stays in southwest Denver near Pinehurst Country Club."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunrise-of-pinehurst-93447"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/sunrise-at-pinehurst-2589"}]
 reviews_search_url: "https://www.google.com/search?q=Sunrise+at+Pinehurst+Denver+CO+reviews"

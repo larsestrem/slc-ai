@@ -15,11 +15,13 @@ city: "burlingame"
 city_name: "Burlingame"
 address: "250 Myrtle Road"
 zip: "94010"
+phone: "(650) 910-1945"
+website: "https://burlingameseniorliving.com/"
 care_levels: ["independent-living", "assisted-living", "memory-care", "respite-care"]
 facility_size: "large"
 capacity: 90
 sources: ["https://birdeye.com/burlingame-senior-living-169203903187358", "https://www.aplaceformom.com/community/burlingame-senior-living-56962", "https://aging.networkofcare.org/SanMateo/services/agency?pid=AtriaBurlingame_44_1_0"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "A 90-bed community across the street from Washington Park in Burlingame, formerly operated as Atria Burlingame, offering independent living, assisted living, memory care, and respite stays. Nearly every apartment has scenic views, and the location is walkable to downtown Burlingame shops and restaurants."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/burlingame-senior-living-169203903187358"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/burlingame-senior-living-56962"}]
 reviews_search_url: "https://www.google.com/search?q=Burlingame+Senior+Living+Burlingame+CA+reviews"

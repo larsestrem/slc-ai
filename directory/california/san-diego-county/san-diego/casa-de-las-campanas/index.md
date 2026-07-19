@@ -15,11 +15,13 @@ city: "san-diego"
 city_name: "San Diego"
 address: "18655 W Bernardo Dr"
 zip: "92127"
+phone: "(858) 746-4618"
+website: "https://casadelascampanas.com/"
 care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"]
 facility_size: "large"
 cms_ccn: "555362"
 sources: ["https://www.seniorcareauthority.com/assisted-living/casa-de-las-campanas-in-san-diego-california.html", "https://health.usnews.com/best-nursing-homes/area/ca/casa-de-las-campanas-555362"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Casa de las Campanas in Rancho Bernardo is the only not-for-profit Type A life plan community in San Diego County, offering independent living, assisted living, memory care, skilled nursing, and rehabilitation."
 review_links: [{"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/casa-de-las-campanas-in-san-diego-california.html"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/casa-de-las-campanas-555362"}]
 reviews_search_url: "https://www.google.com/search?q=Casa+de+las+Campanas+San+Diego+CA+reviews"

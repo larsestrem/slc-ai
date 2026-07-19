@@ -21,7 +21,7 @@ care_levels: ["assisted-living", "memory-care"]
 organization: "oakmont-senior-living"
 organization_name: "Oakmont Senior Living"
 sources: ["https://www.aplaceformom.com/community/oakmont-of-roseville-1358370", "https://www.yelp.com/biz/oakmont-of-roseville-roseville", "https://www.caring.com/senior-living/california/roseville/oakmont-of-roseville-95661"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Oakmont of Roseville is a luxury assisted living and memory care community on Secret Ravine Parkway near Sutter Roseville Medical Center."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-roseville-1358370"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-roseville-roseville"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/roseville/oakmont-of-roseville-95661"}]
 reviews_search_url: "https://www.google.com/search?q=Oakmont+of+Roseville+Roseville+CA+reviews"

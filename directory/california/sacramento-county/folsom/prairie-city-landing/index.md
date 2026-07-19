@@ -16,11 +16,12 @@ city_name: "Folsom"
 address: "645 Willard Dr"
 zip: "95630"
 phone: "(916) 458-0303"
+website: "https://prairiecitylanding.com/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
 capacity: 200
 sources: ["https://reviews.birdeye.com/prairie-city-landing-157269507317537", "https://www.aplaceformom.com/community/prairie-city-landing-1394710", "https://www.seniorly.com/assisted-living/california/folsom/prairie-city-landing"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "A 200-bed community in Folsom offering independent living, assisted living, and memory care."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/prairie-city-landing-157269507317537"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/prairie-city-landing-1394710"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/california/folsom/prairie-city-landing"}]
 reviews_search_url: "https://www.google.com/search?q=Prairie+City+Landing+Folsom+CA+reviews"

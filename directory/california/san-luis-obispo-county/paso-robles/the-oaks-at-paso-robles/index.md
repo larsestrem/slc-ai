@@ -21,7 +21,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "westmont-living"
 organization_name: "Westmont Living"
 sources: ["https://westmontliving.com/our-communities/california/paso-robles/the-oaks-at-paso-robles/", "https://www.yelp.com/biz/the-oaks-at-paso-robles-paso-robles", "https://www.aplaceformom.com/community/the-oaks-at-paso-robles-1445088"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-19"
 description_full: "The Oaks at Paso Robles is a senior living community on South River Road in Paso Robles, in San Luis Obispo County wine country. It offers independent living, assisted living, and memory care, and is operated by Westmont Living."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/the-oaks-at-paso-robles-paso-robles"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-oaks-at-paso-robles-1445088"}]
 reviews_search_url: "https://www.google.com/search?q=The+Oaks+at+Paso+Robles+Paso+Robles+CA+reviews"

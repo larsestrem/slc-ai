@@ -15,11 +15,12 @@ city: "sierra-vista"
 city_name: "Sierra Vista"
 address: "4400 Avenida Cochise"
 zip: "85635"
+phone: "(520) 452-1402"
 website: "https://www.vistapointeatsierravista.com/"
 care_levels: ["assisted-living", "memory-care"]
 facility_size: "medium"
 sources: ["https://birdeye.com/vista-pointe-at-sierra-vista-173471338079109", "https://www.aplaceformom.com/community/vista-pointe-at-sierra-vista-53553"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Vista Pointe at Sierra Vista offers assisted living and memory care in Cochise County's largest city."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/vista-pointe-at-sierra-vista-173471338079109"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/vista-pointe-at-sierra-vista-53553"}]
 reviews_search_url: "https://www.google.com/search?q=Vista+Pointe+at+Sierra+Vista+Sierra+Vista+AZ+reviews"

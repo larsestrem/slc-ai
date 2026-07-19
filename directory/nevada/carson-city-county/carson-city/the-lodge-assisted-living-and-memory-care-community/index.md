@@ -18,7 +18,7 @@ zip: "89706"
 phone: "(775) 283-9888"
 care_levels: ["assisted-living", "memory-care"]
 sources: ["https://www.yelp.com/biz/the-lodge-assisted-living-and-memory-care-carson-city", "https://nvhca.org/find-care/the-lodge-assisted-living-memory-care-community/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-19"
 description_full: "The Lodge Assisted Living and Memory Care Community serves seniors in Carson City, Nevada's capital, which is an independent city that functions as its own county-equivalent. The community provides assisted living and dedicated memory care."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/the-lodge-assisted-living-and-memory-care-carson-city"}]
 reviews_search_url: "https://www.google.com/search?q=The+Lodge+Assisted+Living+and+Memory+Care+Community+Carson+City+NV+reviews"

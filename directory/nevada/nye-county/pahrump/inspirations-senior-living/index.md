@@ -19,7 +19,7 @@ phone: "(775) 751-2300"
 website: "https://www.inspirationsseniorliving.com/"
 care_levels: ["independent-living", "assisted-living", "memory-care", "respite-care"]
 sources: ["https://www.senioradvisor.com/local/inspirations-senior-living-pahrump-nv-pahrump-nv", "https://www.aplaceformom.com/community/inspirations-senior-living-1357554", "https://www.inspirationsseniorliving.com/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Spanish-style senior living community in Pahrump with views of the Nopah Mountain Range, offering independent living, assisted living, memory care, and short-term respite stays. Known for all-inclusive restaurant-style dining, an active social calendar, and attentive staff."
 review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/inspirations-senior-living-pahrump-nv-pahrump-nv"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/inspirations-senior-living-1357554"}]
 reviews_search_url: "https://www.google.com/search?q=Inspirations+Senior+Living+Pahrump+NV+reviews"

@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "mbk-senior-living"
 organization_name: "MBK Senior Living"
 sources: ["https://www.senioradvisor.com/local/huntington-terrace-huntington-beach-ca", "https://www.caring.com/senior-living/california/huntington-beach/huntington-terrace-92648", "https://www.mbkseniorliving.com/senior-living/ca/huntington-beach/huntington-terrace/", "https://www.aplaceformom.com/community/huntington-terrace-55979"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Huntington Terrace is an MBK Senior Living community on a 3.5-acre campus in Huntington Beach offering assisted living and memory care. The community has served Huntington Beach families for over 30 years and provides 12-16 hour nursing, 24-hour supervision and a secure memory care neighborhood. U.S. News has rated it a Best Senior Living community for assisted living."
 review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/huntington-terrace-huntington-beach-ca"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/huntington-beach/huntington-terrace-92648"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/huntington-terrace-55979"}]
 reviews_search_url: "https://www.google.com/search?q=Huntington+Terrace+Huntington+Beach+CA+reviews"

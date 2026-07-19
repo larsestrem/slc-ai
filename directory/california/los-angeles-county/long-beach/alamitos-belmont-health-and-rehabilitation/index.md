@@ -22,7 +22,7 @@ facility_size: "large"
 capacity: 94
 cms_ccn: "056125"
 sources: ["https://health.usnews.com/best-nursing-homes/area/ca/alamitos-belmont-health-and-rehabilitation-056125", "https://www.medicare.gov/care-compare/details/nursing-home/056125/?city=Long+Beach&measure=nursing-home-health-inspections&state=CA&zipcode=90814", "https://alamitosbelmontrehab.com/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "94-bed Medicare- and Medicaid-certified skilled nursing facility in the Belmont Heights area of Long Beach offering short-term rehabilitation and long-term care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/alamitos-belmont-health-and-rehabilitation-056125"}]
 reviews_search_url: "https://www.google.com/search?q=Alamitos+Belmont+Health+and+Rehabilitation+Long+Beach+CA+reviews"

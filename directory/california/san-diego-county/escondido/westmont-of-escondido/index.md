@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "westmont-living"
 organization_name: "Westmont Living"
 sources: ["https://www.aplaceformom.com/community/westmont-of-escondido-55255", "https://westmontliving.com/our-communities/california/escondido/westmont-of-escondido/", "https://www.yelp.com/biz/westmont-of-escondido-escondido"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Downtown Escondido senior community, long known as Westmont Town Court, offering independent living, assisted living, and memory care. Includes three daily meals, weekly housekeeping, scheduled transportation, and group fitness and music programming."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/westmont-of-escondido-55255"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/westmont-of-escondido-escondido"}]
 reviews_search_url: "https://www.google.com/search?q=Westmont+of+Escondido+Escondido+CA+reviews"

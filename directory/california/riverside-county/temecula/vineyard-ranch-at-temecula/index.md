@@ -21,7 +21,7 @@ care_levels: ["assisted-living", "memory-care"]
 organization: "northstar-senior-living"
 organization_name: "Northstar Senior Living"
 sources: ["https://www.aplaceformom.com/community/vineyard-ranch-at-temecula-1394869", "https://www.yelp.com/biz/vineyard-ranch-at-temecula-temecula-2", "https://vineyardranchseniorliving.com/", "https://health.usnews.com/best-senior-living/vineyard-ranch-at-temecula-2524"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Vineyard Ranch at Temecula is an assisted living and memory care community in the Temecula wine country area, owned by Northstar Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/vineyard-ranch-at-temecula-1394869"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/vineyard-ranch-at-temecula-temecula-2"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/vineyard-ranch-at-temecula-2524"}]
 reviews_search_url: "https://www.google.com/search?q=Vineyard+Ranch+at+Temecula+Temecula+CA+reviews"

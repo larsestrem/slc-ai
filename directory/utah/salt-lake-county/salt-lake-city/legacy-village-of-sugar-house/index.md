@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "legacy-retirement-communities"
 organization_name: "Legacy Retirement Communities"
 sources: ["https://www.aplaceformom.com/community/legacy-village-of-sugar-house-1396388", "https://www.legacyretire.com/communities/legacy-village-of-sugar-house/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Legacy Village of Sugar House offers independent living, assisted living, and memory care in Salt Lake City's Sugar House neighborhood, with views of the city and the Wasatch Mountains."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/legacy-village-of-sugar-house-1396388"}]
 reviews_search_url: "https://www.google.com/search?q=Legacy+Village+of+Sugar+House+Salt+Lake+City+UT+reviews"

@@ -24,7 +24,7 @@ organization: "life-care-centers-of-america"
 organization_name: "Life Care Centers of America"
 cms_ccn: "065266"
 sources: ["https://lcca.com/locations/co/gt-aurora/", "https://health.usnews.com/best-nursing-homes/area/co/garden-terrace-alzheimers-center-of-excellence-aurora-065266", "https://www.cohca.org/consumers/find-care/garden-terrace-alzheimers-center-of-excellence/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Garden Terrace is a 120-bed skilled nursing facility devoted entirely to the care of people with Alzheimer's disease and other dementias, located across the street from the Medical Center of Aurora."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/co/garden-terrace-alzheimers-center-of-excellence-aurora-065266"}]
 reviews_search_url: "https://www.google.com/search?q=Garden+Terrace+Alzheimer%27s+Center+of+Excellence+at+Aurora+Aurora+CO+reviews"

@@ -21,7 +21,7 @@ care_levels: ["assisted-living", "memory-care"]
 organization: "oakmont-senior-living"
 organization_name: "Oakmont Senior Living"
 sources: ["https://oakmontseniorliving.com/fresno/contact/", "https://www.yelp.com/biz/oakmont-of-fresno-fresno", "https://www.seniorlivingguide.com/communities/oakmont-of-fresno-5605-n-gates-avenue-fresno-ca-93722/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-19"
 description_full: "Oakmont of Fresno is an assisted living and memory care community on North Gates Avenue in northwest Fresno. It is operated by Oakmont Senior Living, a California-based operator of luxury senior living communities."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-fresno-fresno"}]
 reviews_search_url: "https://www.google.com/search?q=Oakmont+of+Fresno+Fresno+CA+reviews"

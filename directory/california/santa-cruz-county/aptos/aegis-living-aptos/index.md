@@ -21,7 +21,7 @@ care_levels: ["assisted-living", "memory-care"]
 organization: "aegis-living"
 organization_name: "Aegis Living"
 sources: ["https://www.caring.com/senior-living/california/aptos/aegis-of-aptos-95003", "https://www.aegisliving.com/locations/aegis-living-aptos-ca/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community in Aptos, just south of Santa Cruz, operated by West Coast senior living company Aegis Living."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/aptos/aegis-of-aptos-95003"}]
 reviews_search_url: "https://www.google.com/search?q=Aegis+Living+Aptos+Aptos+CA+reviews"

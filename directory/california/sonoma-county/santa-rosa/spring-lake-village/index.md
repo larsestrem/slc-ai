@@ -15,12 +15,14 @@ city: "santa-rosa"
 city_name: "Santa Rosa"
 address: "5555 Montgomery Dr"
 zip: "95409"
+phone: "(707) 538-8400"
+website: "https://frontporch.net/community/spring-lake-village/"
 care_levels: ["independent-living", "assisted-living", "skilled-nursing", "ccrc"]
 facility_size: "large"
 organization: "front-porch"
 organization_name: "Front Porch"
 sources: ["https://birdeye.com/spring-lake-village-171234798475354", "https://health.usnews.com/best-nursing-homes/area/ca/spring-lake-village-555268", "https://www.caring.com/senior-living/california/santa-rosa/spring-lake-village-95409-1"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "A continuing care retirement community set beside Spring Lake and Annadel State Park in east Santa Rosa, operated by nonprofit Front Porch. Known for its landscaped campus, dining, and extensive resident programming."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/spring-lake-village-171234798475354"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/spring-lake-village-555268"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/santa-rosa/spring-lake-village-95409-1"}]
 reviews_search_url: "https://www.google.com/search?q=Spring+Lake+Village+Santa+Rosa+CA+reviews"

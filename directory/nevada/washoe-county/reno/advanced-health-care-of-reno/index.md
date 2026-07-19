@@ -22,7 +22,7 @@ facility_size: "medium"
 capacity: 42
 cms_ccn: "295096"
 sources: ["https://www.ahcfacilities.com/reno/", "https://www.seniorcare.com/nursing-homes/nv/reno/advanced-health-care-of-reno/295096/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-19"
 description_full: "Advanced Health Care of Reno is a 42-bed Medicare-certified skilled nursing facility specializing in short-term rehabilitation, with private suites, 24-hour nursing, and inpatient rehab services."
 reviews_search_url: "https://www.google.com/search?q=Advanced+Health+Care+of+Reno+Reno+NV+reviews"
 ---

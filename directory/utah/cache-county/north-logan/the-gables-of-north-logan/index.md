@@ -22,7 +22,7 @@ facility_size: "medium"
 organization: "the-gables-assisted-living"
 organization_name: "The Gables Assisted Living and Memory Care"
 sources: ["https://www.assistedlivingcenter.com/facilities/ut/north-logan/the-gables-of-north-logan-memory-care-84341/", "https://thegablesfamily.com/locations/logan-assisted-living-and-memory-care/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "The Gables of North Logan provides assisted living, memory care, and respite care in a small, home-like setting in Cache Valley."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ut/north-logan/the-gables-of-north-logan-memory-care-84341/"}]
 reviews_search_url: "https://www.google.com/search?q=The+Gables+of+North+Logan+North+Logan+UT+reviews"

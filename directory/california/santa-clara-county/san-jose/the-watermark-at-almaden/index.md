@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "watermark-retirement-communities"
 organization_name: "Watermark Retirement Communities"
 sources: ["https://www.aplaceformom.com/community/the-watermark-at-almaden-1445139", "https://www.watermarkcommunities.com/our-communities/california/san-jose/the-watermark-at-almaden/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Assisted living, memory care and short-term-stay community in the Almaden Valley area of south San Jose."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-watermark-at-almaden-1445139"}]
 reviews_search_url: "https://www.google.com/search?q=The+Watermark+at+Almaden+San+Jose+CA+reviews"

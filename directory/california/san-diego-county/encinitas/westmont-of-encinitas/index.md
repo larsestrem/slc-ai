@@ -15,13 +15,14 @@ city: "encinitas"
 city_name: "Encinitas"
 address: "1920 S El Camino Real"
 zip: "92024"
-phone: "(858) 729-6720"
+phone: "(760) 452-6037"
+website: "https://westmontliving.com/our-communities/california/encinitas/westmont-of-encinitas/"
 care_levels: ["independent-living", "assisted-living"]
 facility_size: "large"
 organization: "westmont-living"
 organization_name: "Westmont Living"
 sources: ["https://reviews.birdeye.com/westmont-of-encinitas-168200184032640", "https://www.senioradvisor.com/local/westmont-of-encinitas-encinitas-ca", "https://carelistings.com/assisted-living-homes/encinitas-ca/westmont-of-encinitas/62f5e9e02da9b02713ae8239"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Westmont of Encinitas is a Westmont Living community offering independent living and assisted living with individualized care plans, a few minutes from the North County coast."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/westmont-of-encinitas-168200184032640"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/westmont-of-encinitas-encinitas-ca"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/encinitas-ca/westmont-of-encinitas/62f5e9e02da9b02713ae8239"}]
 reviews_search_url: "https://www.google.com/search?q=Westmont+of+Encinitas+Encinitas+CA+reviews"

@@ -28,7 +28,7 @@
         "https://www.aplaceformom.com/community/legacy-village-of-sugar-house-1396388",
         "https://www.legacyretire.com/communities/legacy-village-of-sugar-house/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Sunrise of Sandy",
@@ -57,7 +57,7 @@
         "https://www.aplaceformom.com/community/sunrise-of-sandy-142617",
         "https://www.sunriseseniorliving.com/communities/ut/sunrise-of-sandy"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Sagewood at Daybreak",
@@ -84,7 +84,8 @@
         "https://www.aplaceformom.com/community/sagewood-at-daybreak-1381079",
         "https://www.assistedlivingcenter.com/facilities/ut/south-jordan/sagewood-at-daybreak-84009/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.kiscoseniorliving.com/senior-living/ut/south-jordan/sagewood-at-daybreak/"
     },
     {
       "name": "Ashford Assisted Living & Memory Care of Draper",
@@ -113,7 +114,7 @@
         "https://reviews.birdeye.com/ashford-assisted-living-memory-care-of-draper-168162533541685",
         "https://ashfordofdraper.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Aspen Ridge Transitional Rehabilitation",
@@ -140,7 +141,7 @@
         "https://health.usnews.com/best-nursing-homes/area/ut/aspen-ridge-transitional-rehabilitation-465159",
         "https://www.nursinghomedatabase.com/snf/465159"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Legacy House of Bountiful",
@@ -167,7 +168,8 @@
         "https://www.aplaceformom.com/community/legacy-house-of-bountiful-70830",
         "https://www.familyassets.com/assisted-living/utah/bountiful/legacy-house-of-bountiful"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.legacyretire.com/communities/legacy-house-of-bountiful/"
     },
     {
       "name": "Fairfield Village of Layton",
@@ -197,7 +199,7 @@
         "https://reviews.birdeye.com/fairfield-village-of-layton-assisted-living-157255453027130",
         "https://www.generationsllc.com/communities/fairfield-village/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Legacy House of Ogden",
@@ -224,7 +226,8 @@
         "https://www.assistedlivingcenter.com/facilities/ut/ogden/legacy-house-of-ogden-84405/",
         "https://www.caring.com/senior-living/utah/ogden/legacy-house-of-ogden-84405"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.legacyretire.com/communities/legacy-house-of-ogden/"
     },
     {
       "name": "Treeo Orem",
@@ -252,7 +255,7 @@
         "https://www.assistedlivingcenter.com/facilities/ut/orem/treeo-orem-84057/",
         "https://www.leisurecare.com/our-communities/treeo-orem/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Legacy Village of Provo",
@@ -266,7 +269,7 @@
       "city_name": "Provo",
       "address": "4146 N University Avenue",
       "zip": "84604",
-      "phone": "(801) 374-3384",
+      "phone": "(385) 412-7140",
       "care_levels": [
         "assisted-living",
         "memory-care"
@@ -281,7 +284,8 @@
         "https://www.aplaceformom.com/community/legacy-village-of-provo-1389670",
         "https://www.assistedlivingcenter.com/facilities/ut/provo/legacy-village-of-provo-84604/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.legacyretire.com/communities/legacy-village-of-provo/"
     },
     {
       "name": "Legacy Village of St. George",
@@ -310,7 +314,8 @@
         "https://www.aplaceformom.com/community/legacy-village-of-st-george-1454104",
         "https://www.familyassets.com/assisted-living/utah/saint-george/legacy-village-of-st-george"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.legacyretire.com/communities/legacy-village-of-st-george/"
     },
     {
       "name": "The Gables of North Logan",
@@ -340,7 +345,7 @@
         "https://www.assistedlivingcenter.com/facilities/ut/north-logan/the-gables-of-north-logan-memory-care-84341/",
         "https://thegablesfamily.com/locations/logan-assisted-living-and-memory-care/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Legacy House of Logan",
@@ -367,7 +372,8 @@
         "https://www.assistedlivingcenter.com/facilities/ut/logan/legacy-house-of-logan-84341/",
         "https://www.aplaceformom.com/community/legacy-house-of-logan-97535"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.legacyretire.com/communities/legacy-house-of-logan/"
     }
   ],
   "organizations": [

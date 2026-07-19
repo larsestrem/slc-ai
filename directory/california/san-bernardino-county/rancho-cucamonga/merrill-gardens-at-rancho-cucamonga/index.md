@@ -15,12 +15,13 @@ city: "rancho-cucamonga"
 city_name: "Rancho Cucamonga"
 address: "9942 Highland Ave"
 zip: "91737"
+phone: "(909) 218-3705"
 website: "https://www.merrillgardens.com/senior-living/ca/rancho-cucamonga/merrill-gardens-at-rancho-cucamonga/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "merrill-gardens"
 organization_name: "Merrill Gardens"
 sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-rancho-cucamonga-1414684", "https://www.merrillgardens.com/senior-living/ca/rancho-cucamonga/merrill-gardens-at-rancho-cucamonga/reviews"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Merrill Gardens at Rancho Cucamonga offers independent living, assisted living, and memory care below the San Gabriel foothills."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-rancho-cucamonga-1414684"}]
 reviews_search_url: "https://www.google.com/search?q=Merrill+Gardens+at+Rancho+Cucamonga+Rancho+Cucamonga+CA+reviews"

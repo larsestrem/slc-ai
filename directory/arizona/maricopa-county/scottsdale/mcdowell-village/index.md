@@ -15,13 +15,14 @@ city: "scottsdale"
 city_name: "Scottsdale"
 address: "8300 E McDowell Rd"
 zip: "85257"
+phone: "(480) 970-6400"
 website: "https://www.mbkseniorliving.com/senior-living/az/scottsdale/mcdowell-village/"
 care_levels: ["independent-living", "assisted-living"]
 facility_size: "large"
 organization: "mbk-senior-living"
 organization_name: "MBK Senior Living"
 sources: ["https://www.aplaceformom.com/community/mc-dowell-village-138933", "https://health.usnews.com/best-senior-living/mcdowell-village-2074"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "McDowell Village is an upscale independent and assisted living community in south Scottsdale, recognized by U.S. News and World Report as a Best Independent Living and Best Assisted Living community."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/mc-dowell-village-138933"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/mcdowell-village-2074"}]
 reviews_search_url: "https://www.google.com/search?q=McDowell+Village+Scottsdale+AZ+reviews"

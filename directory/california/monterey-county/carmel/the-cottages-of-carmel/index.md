@@ -16,9 +16,10 @@ city_name: "Carmel"
 address: "26245 Carmel Rancho Blvd"
 zip: "93923"
 phone: "(831) 620-1800"
+website: "https://ivyliving.com/carmel/"
 care_levels: ["assisted-living", "memory-care"]
 sources: ["https://www.aplaceformom.com/community/the-cottages-of-carmel-1333863", "https://www.yelp.com/biz/the-cottages-of-carmel-carmel-by-the-sea"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community on Carmel Rancho Boulevard near Carmel-by-the-Sea. Costs start around $6,120 per month."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-cottages-of-carmel-1333863"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-cottages-of-carmel-carmel-by-the-sea"}]
 reviews_search_url: "https://www.google.com/search?q=The+Cottages+of+Carmel+Carmel+CA+reviews"

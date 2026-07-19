@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "leisure-care"
 organization_name: "Leisure Care"
 sources: ["https://www.aplaceformom.com/community/fairwinds-ivey-ranch-97146", "https://www.leisurecare.com/our-communities/fairwinds-ivey-ranch/", "https://health.usnews.com/best-senior-living/fairwinds-ivey-ranch-1341"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Fairwinds - Ivey Ranch is a Leisure Care retirement community in Oceanside offering independent living and assisted living. It has been named among U.S."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fairwinds-ivey-ranch-97146"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/fairwinds-ivey-ranch-1341"}]
 reviews_search_url: "https://www.google.com/search?q=Fairwinds+-+Ivey+Ranch+Oceanside+CA+reviews"

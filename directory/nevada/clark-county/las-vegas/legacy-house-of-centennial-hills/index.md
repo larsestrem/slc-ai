@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "western-states-lodging"
 organization_name: "Western States Lodging & Management"
 sources: ["https://www.aplaceformom.com/community/legacy-house-of-centennial-hills-1396389", "https://www.legacyretire.com/communities/legacy-house-of-centennial-hills/amenities/", "https://www.yelp.com/biz/legacy-house-centennial-hills-las-vegas-3"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Legacy House of Centennial Hills is an assisted living and memory care community in northwest Las Vegas, managed by Western States Lodging & Management."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/legacy-house-of-centennial-hills-1396389"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/legacy-house-centennial-hills-las-vegas-3"}]
 reviews_search_url: "https://www.google.com/search?q=Legacy+House+of+Centennial+Hills+Las+Vegas+NV+reviews"

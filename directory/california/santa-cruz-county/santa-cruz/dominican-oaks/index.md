@@ -20,7 +20,7 @@ website: "https://www.dominicanoaks.com/"
 care_levels: ["independent-living", "assisted-living"]
 facility_size: "large"
 sources: ["https://www.seniorcareauthority.com/assisted-living/dominican-oaks-in-santa-cruz-california.html", "https://www.dominicanoaks.com/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Retirement community on Paul Sweet Road adjacent to Dominican Hospital in Santa Cruz, offering independent and assisted living."
 review_links: [{"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/dominican-oaks-in-santa-cruz-california.html"}]
 reviews_search_url: "https://www.google.com/search?q=Dominican+Oaks+Santa+Cruz+CA+reviews"

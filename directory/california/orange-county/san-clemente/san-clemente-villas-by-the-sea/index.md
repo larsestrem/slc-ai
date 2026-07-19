@@ -16,11 +16,12 @@ city_name: "San Clemente"
 address: "660 Camino de los Mares"
 zip: "92673"
 phone: "(949) 489-3400"
+website: "https://www.sanclementevillas.com/"
 care_levels: ["assisted-living", "memory-care", "respite-care"]
 organization: "mbk-senior-living"
 organization_name: "MBK Senior Living"
 sources: ["https://www.aplaceformom.com/community/san-clemente-villas-73644", "https://www.yelp.com/biz/san-clemente-villas-san-clemente"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "San Clemente Villas by the Sea is an MBK Senior Living community offering assisted living, memory care, and short-term respite stays near the coast in San Clemente."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/san-clemente-villas-73644"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/san-clemente-villas-san-clemente"}]
 reviews_search_url: "https://www.google.com/search?q=San+Clemente+Villas+by+the+Sea+San+Clemente+CA+reviews"

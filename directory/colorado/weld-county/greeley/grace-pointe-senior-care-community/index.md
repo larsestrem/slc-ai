@@ -16,10 +16,11 @@ city_name: "Greeley"
 address: "1919 68th Ave"
 zip: "80634"
 phone: "(970) 304-1919"
+website: "https://gracepointegreeley.com/"
 care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing"]
 facility_size: "large"
 sources: ["https://www.aplaceformom.com/community/grace-pointe-150813", "https://assistedlivingmagazine.com/nursing-home/grace-pointe-senior-care-community/", "https://www.seniorly.com/continuing-care-retirement-community/colorado/greeley/grace-pointe-senior-care-community"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Grace Pointe is a Greeley family-owned continuing care campus offering independent living, assisted living, memory care, skilled nursing, and rehabilitation in one location."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/grace-pointe-150813"}, {"name": "Seniorly", "url": "https://www.seniorly.com/continuing-care-retirement-community/colorado/greeley/grace-pointe-senior-care-community"}]
 reviews_search_url: "https://www.google.com/search?q=Grace+Pointe+Senior+Care+Community+Greeley+CO+reviews"

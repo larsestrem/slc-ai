@@ -23,7 +23,7 @@ organization: "front-porch"
 organization_name: "Front Porch"
 cms_ccn: "555342"
 sources: ["https://health.usnews.com/best-nursing-homes/area/ca/sunny-view-manor-555342", "https://carelistings.com/skilled-nursing-facilities/cupertino-ca/sunny-view-manor/5ace892f93efd2372f9940c1", "https://frontporch.net/community/sunny-view/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Continuing care retirement community in Cupertino operated by nonprofit Front Porch, offering independent living, assisted living, and on-campus skilled nursing."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/sunny-view-manor-555342"}, {"name": "CareListings", "url": "https://carelistings.com/skilled-nursing-facilities/cupertino-ca/sunny-view-manor/5ace892f93efd2372f9940c1"}]
 reviews_search_url: "https://www.google.com/search?q=Sunny+View+Retirement+Community+Cupertino+CA+reviews"

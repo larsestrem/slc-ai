@@ -15,10 +15,11 @@ city: "walnut-creek"
 city_name: "Walnut Creek"
 address: "1785 Shuey Ave"
 zip: "94596"
+phone: "(925) 943-7427"
 website: "https://theheritagedowntown.com"
 care_levels: ["independent-living"]
 sources: ["https://www.aplaceformom.com/community/the-heritage-downtown-57903", "https://theheritagedowntown.com/best-of-senior-living-award/", "https://www.yelp.com/biz/the-heritage-downtown-walnut-creek"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "An active-adult luxury independent living community in downtown Walnut Creek, within walking distance of shops and restaurants. Residents get restaurant-style dining at the on-site Newton's restaurant, a pool, gym, library, and movie theater. Winner of A Place for Mom's Best of Senior Living award four years running (2023-2026)."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-heritage-downtown-57903"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-heritage-downtown-walnut-creek"}]
 reviews_search_url: "https://www.google.com/search?q=The+Heritage+Downtown+Walnut+Creek+CA+reviews"

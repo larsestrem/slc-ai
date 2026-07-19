@@ -21,7 +21,7 @@ care_levels: ["assisted-living"]
 facility_size: "small"
 capacity: 6
 sources: ["https://carehomebyrns.com/", "https://carehomebyrns.com/sacramento/", "https://carehomebyrns.com/contact-us/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-19"
 description_full: "Care Home by RNs is a small residential care facility for the elderly (RCFE) in Sacramento, licensed by the State of California to care for six residents in private room settings. The registered-nurse-operated board and care home also runs sister homes in Lincoln, California."
 reviews_search_url: "https://www.google.com/search?q=Care+Home+by+RNs+Sacramento+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

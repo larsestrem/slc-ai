@@ -15,11 +15,12 @@ city: "thousand-oaks"
 city_name: "Thousand Oaks"
 address: "3415 Campus Dr"
 zip: "91360"
-website: "https://health.usnews.com/best-senior-living/university-village-thousand-oaks-15541"
+phone: "(805) 241-3000"
+website: "https://uvto.com/"
 care_levels: ["independent-living", "assisted-living", "memory-care", "ccrc"]
 facility_size: "large"
 sources: ["https://health.usnews.com/best-senior-living/university-village-thousand-oaks-15541", "https://www.yelp.com/biz/university-village-thousand-oaks-thousand-oaks-3"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "A continuing care retirement community in Thousand Oaks offering independent living, assisted living, and memory care with 24-hour care, dining, and medication management on a large campus."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/university-village-thousand-oaks-15541"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/university-village-thousand-oaks-thousand-oaks-3"}]
 reviews_search_url: "https://www.google.com/search?q=University+Village+Thousand+Oaks+Thousand+Oaks+CA+reviews"

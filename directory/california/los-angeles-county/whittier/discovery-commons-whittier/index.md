@@ -21,7 +21,7 @@ care_levels: ["assisted-living", "memory-care"]
 organization: "discovery-senior-living"
 organization_name: "Discovery Senior Living"
 sources: ["https://www.aplaceformom.com/community/discovery-commons-whittier-72850", "https://discoverycommonswhittier.com/", "https://www.seniorly.com/assisted-living/california/whittier/whittier-place-senior-living"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community on Burgess Avenue in Whittier, formerly known as Whittier Place Senior Living and now operated by Discovery Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/discovery-commons-whittier-72850"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/california/whittier/whittier-place-senior-living"}]
 reviews_search_url: "https://www.google.com/search?q=Discovery+Commons+Whittier+Whittier+CA+reviews"

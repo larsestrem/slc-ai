@@ -17,12 +17,12 @@ address: "9747 Sierra College Blvd"
 zip: "95746"
 phone: "(916) 864-9800"
 website: "https://wellquestgb.com/"
-care_levels: ["assisted-living", "memory-care"]
+care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "medium"
 organization: "wellquest-living"
 organization_name: "WellQuest Living"
 sources: ["https://birdeye.com/wellquest-of-granite-bay-175296294625579", "https://www.yelp.com/biz/wellquest-of-granite-bay-granite-bay"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Newer assisted living and memory care community on Sierra College Boulevard in Granite Bay."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/wellquest-of-granite-bay-175296294625579"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/wellquest-of-granite-bay-granite-bay"}]
 reviews_search_url: "https://www.google.com/search?q=WellQuest+of+Granite+Bay+Granite+Bay+CA+reviews"

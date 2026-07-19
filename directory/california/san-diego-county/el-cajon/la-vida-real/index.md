@@ -23,7 +23,7 @@ capacity: 177
 organization: "senior-resource-group"
 organization_name: "Senior Resource Group"
 sources: ["https://carelistings.com/assisted-living-homes/el-cajon-ca/la-vida-real/5acd01bda71d8c15cf685ca8", "https://www.srgseniorliving.com/rancho-san-diego-ca-la-vida-real/", "https://www.yelp.com/biz/la-vida-real-el-cajon"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "La Vida Real is a Spanish-style senior living community on 11 landscaped acres in the Rancho San Diego area of El Cajon, licensed for 177 beds. It offers independent living, assisted living, and memory care, plus The Club program for early- to mid-stage memory loss, and is the only CARF-accredited senior living community in East County San Diego."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/el-cajon-ca/la-vida-real/5acd01bda71d8c15cf685ca8"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/la-vida-real-el-cajon"}]
 reviews_search_url: "https://www.google.com/search?q=La+Vida+Real+El+Cajon+CA+reviews"

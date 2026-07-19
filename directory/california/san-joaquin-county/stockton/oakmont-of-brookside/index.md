@@ -16,11 +16,12 @@ city_name: "Stockton"
 address: "3318 Brookside Rd"
 zip: "95219"
 phone: "(209) 396-7823"
+website: "https://oakmontseniorliving.com/brookside/"
 care_levels: ["assisted-living", "memory-care"]
 organization: "oakmont-senior-living"
 organization_name: "Oakmont Senior Living"
 sources: ["https://reviews.birdeye.com/oakmont-of-brookside-167370767401978", "https://www.aplaceformom.com/community/oakmont-of-brookside-58610", "https://www.yelp.com/biz/oakmont-of-brookside-stockton-3"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Oakmont of Brookside provides assisted living and memory care in Stockton's Brookside neighborhood."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/oakmont-of-brookside-167370767401978"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-brookside-58610"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-brookside-stockton-3"}]
 reviews_search_url: "https://www.google.com/search?q=Oakmont+of+Brookside+Stockton+CA+reviews"

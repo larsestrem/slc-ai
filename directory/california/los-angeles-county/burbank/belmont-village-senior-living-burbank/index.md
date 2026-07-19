@@ -21,7 +21,7 @@ care_levels: ["assisted-living", "memory-care"]
 organization: "belmont-village-senior-living"
 organization_name: "Belmont Village Senior Living"
 sources: ["https://www.aplaceformom.com/community/belmont-village-burbank-96045", "https://www.belmontvillage.com/locations/burbank-california/", "https://health.usnews.com/best-senior-living/belmont-village-burbank-1046"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community in downtown Burbank operated by Belmont Village Senior Living. U.S."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/belmont-village-burbank-96045"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/belmont-village-burbank-1046"}]
 reviews_search_url: "https://www.google.com/search?q=Belmont+Village+Senior+Living+Burbank+Burbank+CA+reviews"

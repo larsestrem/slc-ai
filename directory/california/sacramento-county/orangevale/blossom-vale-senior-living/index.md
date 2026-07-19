@@ -20,7 +20,7 @@ website: "https://blossomvaleseniorliving.com/"
 care_levels: ["assisted-living", "memory-care"]
 facility_size: "medium"
 sources: ["https://www.aplaceformom.com/community/blossom-vale-senior-living-59201", "https://blossomvaleseniorliving.com/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community on Hazel Avenue in Orangevale, about 25 miles northeast of downtown Sacramento."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/blossom-vale-senior-living-59201"}]
 reviews_search_url: "https://www.google.com/search?q=Blossom+Vale+Senior+Living+Orangevale+CA+reviews"

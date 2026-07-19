@@ -15,10 +15,12 @@ city: "lake-havasu-city"
 city_name: "Lake Havasu City"
 address: "90 S Smoketree Ave"
 zip: "86403"
+phone: "(928) 680-1818"
+website: "https://www.vistapointeatlakehavasucity.com/"
 care_levels: ["assisted-living", "memory-care"]
 facility_size: "medium"
 sources: ["https://birdeye.com/vista-pointe-at-lake-havasu-city-173471346973917", "https://www.aplaceformom.com/community/vista-pointe-at-lake-havasu-city-53836"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Vista Pointe at Lake Havasu City provides assisted living and memory care near downtown Lake Havasu City."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/vista-pointe-at-lake-havasu-city-173471346973917"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/vista-pointe-at-lake-havasu-city-53836"}]
 reviews_search_url: "https://www.google.com/search?q=Vista+Pointe+at+Lake+Havasu+City+Lake+Havasu+City+AZ+reviews"

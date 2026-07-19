@@ -19,7 +19,7 @@ phone: "(818) 435-4676"
 website: "https://northridgevalleyseniorliving.com/"
 care_levels: ["assisted-living", "memory-care"]
 sources: ["https://www.aplaceformom.com/community/northridge-valley-senior-living-141076", "https://northridgevalleyseniorliving.com/", "https://birdeye.com/pacifica-senior-living-northridge-169341833988214"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community on Lindley Avenue in the Northridge neighborhood of the San Fernando Valley, formerly known as Pacifica Senior Living Northridge."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/northridge-valley-senior-living-141076"}, {"name": "Birdeye", "url": "https://birdeye.com/pacifica-senior-living-northridge-169341833988214"}]
 reviews_search_url: "https://www.google.com/search?q=Northridge+Valley+Senior+Living+Northridge+CA+reviews"

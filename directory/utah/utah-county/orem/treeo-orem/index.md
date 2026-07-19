@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "leisure-care"
 organization_name: "Leisure Care"
 sources: ["https://www.assistedlivingcenter.com/facilities/ut/orem/treeo-orem-84057/", "https://www.leisurecare.com/our-communities/treeo-orem/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Treeo Orem is an independent living community in central Orem managed by Seattle-based Leisure Care. News & World Report."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ut/orem/treeo-orem-84057/"}]
 reviews_search_url: "https://www.google.com/search?q=Treeo+Orem+Orem+UT+reviews"

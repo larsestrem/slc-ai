@@ -15,7 +15,7 @@ city: "arvada"
 city_name: "Arvada"
 address: "17351 West 64th Ave."
 zip: "80007"
-phone: "(720) 924-9165"
+phone: "(720) 547-2385"
 website: "https://www.morningstarseniorliving.com/communities/senior-living-arvada/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
@@ -23,7 +23,7 @@ capacity: 141
 organization: "morningstar-senior-living"
 organization_name: "MorningStar Senior Living"
 sources: ["https://www.aplaceformom.com/community/morning-star-of-arvada-1420361", "https://everyplace.care/facility/morningstar-of-arvada-arvada-co-23t231", "https://www.morningstarseniorliving.com/communities/senior-living-arvada/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "MorningStar of Arvada offers 71 independent living, 41 assisted living, and 29 memory care suites in west Arvada near the foothills."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/morning-star-of-arvada-1420361"}]
 reviews_search_url: "https://www.google.com/search?q=MorningStar+of+Arvada+Arvada+CO+reviews"

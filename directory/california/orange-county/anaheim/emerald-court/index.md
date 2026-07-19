@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "kisco-senior-living"
 organization_name: "Kisco Senior Living"
 sources: ["https://www.aplaceformom.com/community/emerald-court-56137", "https://www.kiscoseniorliving.com/senior-living/ca/anaheim/emerald-court/contact/", "https://www.yelp.com/biz/emerald-court-anaheim"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Kisco Senior Living community in west Anaheim offering independent living, assisted living, and memory care near Anaheim Medical Center. U.S. News has rated it a Best Senior Living community across all three care levels."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/emerald-court-56137"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/emerald-court-anaheim"}]
 reviews_search_url: "https://www.google.com/search?q=Emerald+Court+Anaheim+CA+reviews"

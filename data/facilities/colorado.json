@@ -28,7 +28,8 @@
         "https://everyplace.care/facility/sunrise-at-pinehurst-denver-co-23049u",
         "https://health.usnews.com/best-senior-living/sunrise-at-pinehurst-2589"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://www.sunriseseniorliving.com/communities/co/sunrise-at-pinehurst"
     },
     {
       "name": "South Valley Post Acute Rehabilitation",
@@ -57,7 +58,7 @@
         "https://www.medicarelist.com/nursing-home/jewell-care-center-of-denver-denver-co/",
         "https://southvalleypostacute.com/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Garden Terrace Alzheimer's Center of Excellence at Aurora",
@@ -89,7 +90,7 @@
         "https://health.usnews.com/best-nursing-homes/area/co/garden-terrace-alzheimers-center-of-excellence-aurora-065266",
         "https://www.cohca.org/consumers/find-care/garden-terrace-alzheimers-center-of-excellence/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Cherry Creek Retirement Village",
@@ -121,7 +122,7 @@
         "https://www.centurypa.com/senior-living/cherry-creek-retirement/",
         "https://www.caring.com/senior-living/colorado/aurora/cherry-creek-retirement-village-80014"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "MorningStar of Arvada",
@@ -135,7 +136,7 @@
       "city_name": "Arvada",
       "address": "17351 West 64th Ave.",
       "zip": "80007",
-      "phone": "(720) 924-9165",
+      "phone": "(720) 547-2385",
       "website": "https://www.morningstarseniorliving.com/communities/senior-living-arvada/",
       "care_levels": [
         "independent-living",
@@ -154,7 +155,7 @@
         "https://everyplace.care/facility/morningstar-of-arvada-arvada-co-23t231",
         "https://www.morningstarseniorliving.com/communities/senior-living-arvada/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Covenant Living of Colorado",
@@ -186,7 +187,9 @@
         "https://www.yelp.com/biz/covenant-living-of-colorado-westminster",
         "https://www.caring.com/senior-living/colorado/westminster/covenant-living-of-colorado"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(303) 424-4828",
+      "website": "https://www.covlivingcolorado.org/"
     },
     {
       "name": "Holly Creek Retirement Community",
@@ -220,7 +223,7 @@
         "https://hollycreekcommunity.com/",
         "https://www.caring.com/senior-living/colorado/centennial/holly-creek-80121"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Frasier Retirement Community",
@@ -252,7 +255,7 @@
         "https://health.usnews.com/best-nursing-homes/area/co/frasier-meadows-health-care-center-065324",
         "https://www.nursinghomesite.com/FRASIER_MEADOWS_HEALTH_CARE_CENTER_BOULDER_CO"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "AltaVita Memory Care Centre",
@@ -285,7 +288,7 @@
         "https://www.altavitaliving.com/livingoptions/altavita-memory-care-centre/",
         "https://www.seniorlivingfacilities.net/facility/altavita-memory-care-centre-longmont-co.html"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Seven Lakes Memory Care",
@@ -314,7 +317,7 @@
         "https://www.caring.com/senior-living/colorado/loveland/seven-lakes-memory-care-80538",
         "https://www.mbkseniorliving.com/senior-living/co/loveland/seven-lakes-memory-care/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Grace Pointe Senior Care Community",
@@ -344,7 +347,8 @@
         "https://assistedlivingmagazine.com/nursing-home/grace-pointe-senior-care-community/",
         "https://www.seniorly.com/continuing-care-retirement-community/colorado/greeley/grace-pointe-senior-care-community"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "website": "https://gracepointegreeley.com/"
     },
     {
       "name": "MorningStar at Mountain Shadows",
@@ -376,7 +380,7 @@
         "https://www.aplaceformom.com/community/morning-star-at-mountain-shadows-1361214",
         "https://www.morningstarseniorliving.com/communities/assisted-living-colorado-springs-mountain-shadows/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Villa Pueblo Senior Living Community",
@@ -406,7 +410,7 @@
         "https://villapueblo.com/",
         "https://www.senioradvisor.com/local/villa-pueblo-pueblo-co"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Lodge at Grand Junction",
@@ -437,7 +441,7 @@
         "https://thelodgeatgrandjunction.com/our-community/reviews/",
         "https://thebusinesstimes.com/integral-senior-living-takes-over-management-of-the-lodge-at-grand-junction/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Cottonwood Rehabilitation and Healthcare Center",
@@ -466,7 +470,7 @@
         "https://www.cottonwoodrhc.com/news",
         "https://www.nursinghomes.com/co/durango/cottonwood-inn-rehab-and-extended-care-center/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "MorningStar of Fort Collins",
@@ -498,7 +502,7 @@
         "https://www.assistedlivingcenter.com/facilities/co/fort-collins/morningstar-of-fort-collins-80525/",
         "https://www.morningstarseniorliving.com/communities/assisted-living-fort-collins/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     }
   ],
   "organizations": [

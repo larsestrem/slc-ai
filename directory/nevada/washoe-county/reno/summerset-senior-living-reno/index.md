@@ -16,11 +16,12 @@ city_name: "Reno"
 address: "6215 Sharlands Ave"
 zip: "89523"
 phone: "(775) 440-3200"
+website: "https://summersetseniorliving.com/reno/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "summerset-senior-living"
 organization_name: "Summerset Senior Living"
 sources: ["https://reviews.birdeye.com/summerset-senior-living-168034736591325", "https://www.yelp.com/biz/summerset-senior-living-reno-3", "https://www.seniorliving.org/assisted-living/nevada/reno/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Independent and assisted living community in northwest Reno, with a companion memory care and adaptive care building next door at 6205 Sharlands Avenue. Convenient to shopping, parks, and medical offices."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/summerset-senior-living-168034736591325"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/summerset-senior-living-reno-3"}]
 reviews_search_url: "https://www.google.com/search?q=Summerset+Senior+Living+Reno+Reno+NV+reviews"

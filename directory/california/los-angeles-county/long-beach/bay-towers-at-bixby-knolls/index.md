@@ -20,7 +20,7 @@ website: "https://baytowersatbixbyknolls.com/"
 care_levels: ["independent-living", "assisted-living", "respite-care"]
 facility_size: "large"
 sources: ["https://www.aplaceformom.com/community/bay-towers-at-bixby-knolls-54465", "https://birdeye.com/bay-towers-at-bixby-knolls-169341834506799", "https://baytowersatbixbyknolls.com/contact-us/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "High-rise senior community in Long Beach's Bixby Knolls neighborhood offering independent living, assisted living, and respite stays. Monthly rates start lower than most coastal Los Angeles County communities, with chef-prepared meals, a fitness center, complimentary transportation, and organized outings."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bay-towers-at-bixby-knolls-54465"}, {"name": "Birdeye", "url": "https://birdeye.com/bay-towers-at-bixby-knolls-169341834506799"}]
 reviews_search_url: "https://www.google.com/search?q=Bay+Towers+at+Bixby+Knolls+Long+Beach+CA+reviews"

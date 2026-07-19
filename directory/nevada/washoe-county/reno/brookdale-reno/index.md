@@ -23,7 +23,7 @@ capacity: 56
 organization: "brookdale-senior-living"
 organization_name: "Brookdale Senior Living"
 sources: ["https://www.brookdale.com/en/communities/brookdale-reno.html", "https://www.seniorlivingguide.com/communities/brookdale-reno-3105-plumas-street-reno-nv-89509/", "https://www.aplaceformom.com/community/brookdale-reno-94411"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-19"
 description_full: "Brookdale Reno is a 56-bed memory care community in a quiet residential neighborhood of Reno, operated by Brookdale Senior Living. It uses Brookdale's Clare Bridge dementia care program for residents with Alzheimer's disease and other forms of dementia."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/brookdale-reno-94411"}]
 reviews_search_url: "https://www.google.com/search?q=Brookdale+Reno+Reno+NV+reviews"

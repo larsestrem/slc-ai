@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "atria-senior-living"
 organization_name: "Atria Senior Living"
 sources: ["https://www.aplaceformom.com/community/atria-park-of-vintage-hills-55910", "https://www.atriaseniorliving.com/retirement-communities/atria-vintage-hills-temecula-ca", "https://www.yelp.com/biz/atria-park-of-vintage-hills-temecula"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Retirement community in the Temecula wine country foothills offering independent living, assisted living, and memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-park-of-vintage-hills-55910"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/atria-park-of-vintage-hills-temecula"}]
 reviews_search_url: "https://www.google.com/search?q=Atria+Park+of+Vintage+Hills+Temecula+CA+reviews"

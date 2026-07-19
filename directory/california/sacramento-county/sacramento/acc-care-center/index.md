@@ -24,7 +24,7 @@ organization: "acc-senior-services"
 organization_name: "ACC Senior Services"
 cms_ccn: "555261"
 sources: ["https://www.accsv.org/locations/care-center/", "https://www.accsv.org/acc-care-center-4-stars/", "https://www.medicare.gov/care-compare/details/nursing-home/555261/view-all/?city=Sacramento&state=CA"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-19"
 description_full: "ACC Care Center is a nonprofit, 99-bed Medicare- and Medicaid-certified skilled nursing facility in Sacramento's Pocket/Greenhaven area, operated by ACC Senior Services."
 reviews_search_url: "https://www.google.com/search?q=ACC+Care+Center+Sacramento+CA+reviews"
 ---

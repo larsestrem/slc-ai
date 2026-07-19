@@ -22,7 +22,7 @@ facility_size: "large"
 capacity: 96
 cms_ccn: "035295"
 sources: ["https://www.nursinghomedatabase.com/snf/035295", "https://health.usnews.com/best-nursing-homes/area/az/the-center-at-tucson-035295"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "The Center at Tucson is a 96-bed Medicare-certified skilled nursing and short-term rehabilitation facility."
 review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/035295"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/az/the-center-at-tucson-035295"}]
 reviews_search_url: "https://www.google.com/search?q=The+Center+at+Tucson+Tucson+AZ+reviews"

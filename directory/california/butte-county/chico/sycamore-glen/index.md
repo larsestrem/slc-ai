@@ -17,9 +17,9 @@ address: "1199 Diablo Ave"
 zip: "95973"
 phone: "(530) 894-0384"
 website: "https://sycamoreglen.com/"
-care_levels: ["independent-living", "assisted-living"]
+care_levels: ["independent-living"]
 sources: ["https://www.caring.com/senior-living/california/chico/sycamore-glen-senior-community-95973", "https://sycamoreglen.com/", "https://www.aplaceformom.com/community/sycamore-glen-retirement-59542"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Sycamore Glen is an active senior community in Chico that is also licensed for assisted living, with staff available to support activities of daily living such as bathing, dressing, and mobility."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/chico/sycamore-glen-senior-community-95973"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sycamore-glen-retirement-59542"}]
 reviews_search_url: "https://www.google.com/search?q=Sycamore+Glen+Chico+CA+reviews"

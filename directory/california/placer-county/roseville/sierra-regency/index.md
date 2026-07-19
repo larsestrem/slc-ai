@@ -15,9 +15,11 @@ city: "roseville"
 city_name: "Roseville"
 address: "1015 Madden Ln"
 zip: "95661"
+phone: "(916) 786-3173"
+website: "https://sierraregency.com/"
 care_levels: ["independent-living"]
 sources: ["https://www.aplaceformom.com/community/sierra-regency-59191", "https://www.assistedlivingcenter.com/facilities/ca/roseville/sierra-regency-95661/", "https://www.caring.com/senior-living/california/roseville/sierra-regency-95661"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "A gated independent retirement community in Roseville, established in 1988, with full-kitchen one- and two-bedroom apartments. Amenities include an indoor heated pool and spa, putting green, chapel, library, Sunday champagne brunch, and 24-hour staffing. Meals, weekly housekeeping, and transportation are bundled into the monthly rate."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sierra-regency-59191"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ca/roseville/sierra-regency-95661/"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/roseville/sierra-regency-95661"}]
 reviews_search_url: "https://www.google.com/search?q=Sierra+Regency+Roseville+CA+reviews"

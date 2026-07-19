@@ -21,7 +21,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "merrill-gardens"
 organization_name: "Merrill Gardens"
 sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-campbell-1353624", "https://www.merrillgardens.com/senior-living/ca/campbell/merrill-gardens-at-campbell/", "https://www.yelp.com/biz/merrill-gardens-at-campbell-campbell-5"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Senior living community in downtown Campbell offering independent living, assisted living, and memory care. Rated the highest of the senior communities in Campbell by My Caring Plan."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-campbell-1353624"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-campbell-campbell-5"}]
 reviews_search_url: "https://www.google.com/search?q=Merrill+Gardens+at+Campbell+Campbell+CA+reviews"

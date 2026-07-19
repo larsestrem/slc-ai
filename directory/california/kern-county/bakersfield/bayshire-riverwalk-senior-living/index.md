@@ -23,7 +23,7 @@ capacity: 376
 organization: "bayshire-senior-communities"
 organization_name: "Bayshire Senior Communities"
 sources: ["https://www.aplaceformom.com/community/bayshire-riverwalk-senior-living-56567", "https://bayshireriverwalk.com/", "https://www.senioradvisor.com/local/brookdale-riverwalk-bakersfield-ca"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Bayshire Riverwalk Senior Living (formerly Brookdale Riverwalk) is a full-service continuing care retirement community near Bakersfield's Riverwalk with capacity for 376 residents, offering independent living, assisted living, memory care, and skilled nursing."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bayshire-riverwalk-senior-living-56567"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/brookdale-riverwalk-bakersfield-ca"}]
 reviews_search_url: "https://www.google.com/search?q=Bayshire+Riverwalk+Senior+Living+Bakersfield+CA+reviews"

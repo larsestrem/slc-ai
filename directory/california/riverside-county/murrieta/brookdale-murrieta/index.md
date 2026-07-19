@@ -21,7 +21,7 @@ care_levels: ["assisted-living"]
 organization: "brookdale-senior-living"
 organization_name: "Brookdale Senior Living"
 sources: ["https://www.aplaceformom.com/community/brookdale-murrieta-55884", "https://www.brookdale.com/en/communities/brookdale-murrieta/assisted-living.html", "https://www.yelp.com/biz/brookdale-murrieta-murrieta"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Assisted living community on Jackson Avenue in Murrieta, part of the national Brookdale Senior Living network."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/brookdale-murrieta-55884"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/brookdale-murrieta-murrieta"}]
 reviews_search_url: "https://www.google.com/search?q=Brookdale+Murrieta+Murrieta+CA+reviews"

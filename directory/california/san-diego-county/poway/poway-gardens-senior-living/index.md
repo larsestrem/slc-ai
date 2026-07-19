@@ -16,13 +16,14 @@ city_name: "Poway"
 address: "12695 Monte Vista Rd"
 zip: "92064"
 phone: "(858) 674-1255"
+website: "https://sinceriseniorliving.com/poway-gardens/"
 care_levels: ["assisted-living", "memory-care"]
 facility_size: "large"
 capacity: 86
 organization: "sinceri-senior-living"
 organization_name: "Sinceri Senior Living"
 sources: ["https://carelistings.com/assisted-living-homes/poway-ca/poway-gardens-senior-living/5acd01b9a71d8c15cf6857c5", "https://www.aplaceformom.com/community/poway-gardens-senior-living-94871", "https://www.yelp.com/biz/poway-gardens-senior-living-poway"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Poway Gardens Senior Living is a memory-care-focused campus of seven independently licensed buildings, including five six-bed ranch-style Garden Villas and two larger residences, totaling 86 beds."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/poway-ca/poway-gardens-senior-living/5acd01b9a71d8c15cf6857c5"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/poway-gardens-senior-living-94871"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/poway-gardens-senior-living-poway"}]
 reviews_search_url: "https://www.google.com/search?q=Poway+Gardens+Senior+Living+Poway+CA+reviews"

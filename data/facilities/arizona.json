@@ -31,7 +31,8 @@
         "https://health.usnews.com/best-senior-living/sagewood-13568",
         "https://www.seniorly.com/continuing-care-retirement-community/arizona/phoenix/sagewood-phoenix"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(480) 384-5800"
     },
     {
       "name": "McDowell Village",
@@ -60,7 +61,8 @@
         "https://www.aplaceformom.com/community/mc-dowell-village-138933",
         "https://health.usnews.com/best-senior-living/mcdowell-village-2074"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(480) 970-6400"
     },
     {
       "name": "Blue Lakes Assisted Living",
@@ -86,7 +88,9 @@
         "https://reviews.birdeye.com/blue-lakes-assisted-living-157255769796954",
         "https://www.bbb.org/us/az/scottsdale/profile/adult-family-homes/blue-lakes-assisted-living-1126-1000046468"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(602) 686-9619",
+      "website": "https://bluelakesassistedliving.com/"
     },
     {
       "name": "Plaza Healthcare",
@@ -114,7 +118,7 @@
         "https://www.plazahealthcare.com/",
         "https://www.nursinghomedatabase.com/snf/035084"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Fellowship Square Historic Mesa",
@@ -145,7 +149,7 @@
         "https://www.aplaceformom.com/community/fellowship-square-historic-mesa-100464",
         "https://www.fellowshipsquareseniorliving.org/campus/az/historic-mesa/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Clarendale of Chandler",
@@ -173,7 +177,8 @@
         "https://www.aplaceformom.com/community/clarendale-of-chandler-1413611",
         "https://health.usnews.com/best-senior-living/clarendale-of-chandler-5575"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(480) 630-1515"
     },
     {
       "name": "Savanna House",
@@ -199,7 +204,9 @@
         "https://reviews.birdeye.com/savanna-house-assisted-living-memory-care-157255417251611",
         "https://www.aplaceformom.com/community/savanna-house-1393853"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(480) 900-6815",
+      "website": "https://savannahouseseniorliving.com/"
     },
     {
       "name": "Thunderbird Senior Living",
@@ -226,7 +233,9 @@
         "https://www.caring.com/senior-living/arizona/glendale/thunderbird-senior-living",
         "https://www.aplaceformom.com/community/thunderbird-senior-living-53380"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(602) 938-0414",
+      "website": "https://stellarliving.com/communities/thunderbird-senior-assisted-living-glendale-az/"
     },
     {
       "name": "MorningStar at Golden Ridge",
@@ -256,7 +265,8 @@
         "https://reviews.birdeye.com/morningstar-senior-living-at-golden-ridge-173507707537619",
         "https://www.aplaceformom.com/community/morning-star-at-golden-ridge-1421351"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(623) 307-9420"
     },
     {
       "name": "Fellowship Square Surprise",
@@ -285,7 +295,9 @@
         "https://reviews.birdeye.com/fellowship-square-surprise-157269842198172",
         "https://www.caring.com/senior-living/arizona/surprise/fellowship-square-surprise-85374"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(623) 900-1077",
+      "website": "https://www.fellowshipsquareseniorliving.org/campus/az/surprise/"
     },
     {
       "name": "The Fountains at La Cholla",
@@ -316,7 +328,7 @@
         "https://www.aplaceformom.com/community/the-fountains-at-la-cholla-95234",
         "https://www.watermarkcommunities.com/our-communities/arizona/tucson/the-fountains-at-la-cholla/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Center at Tucson",
@@ -344,7 +356,7 @@
         "https://www.nursinghomedatabase.com/snf/035295",
         "https://health.usnews.com/best-nursing-homes/area/az/the-center-at-tucson-035295"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "La Posada at Park Centre",
@@ -375,7 +387,7 @@
         "https://www.caring.com/senior-living/arizona/green-valley/la-posada-at-park-center",
         "https://laposadagreenvalley.org/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Touchmark at The Ranch",
@@ -406,7 +418,7 @@
         "https://reviews.birdeye.com/touchmark-at-the-ranch-157269633967274",
         "https://www.bbb.org/us/az/prescott/profile/assisted-living-facilities/touchmark-at-the-ranch-1126-1000087729"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "The Bluffs of Flagstaff Senior Living",
@@ -423,6 +435,7 @@
       "phone": "(928) 291-2710",
       "website": "https://www.civitasseniorliving.com/the-bluffs-of-flagstaff/",
       "care_levels": [
+        "independent-living",
         "assisted-living",
         "memory-care"
       ],
@@ -436,7 +449,7 @@
         "https://www.aplaceformom.com/community/the-bluffs-of-flagstaff-senior-living-1446128",
         "https://www.mycaringplan.com/senior-living/the-bluffs-of-flagstaff/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19"
     },
     {
       "name": "Emerald Springs Senior Living",
@@ -463,7 +476,9 @@
         "https://www.aplaceformom.com/community/emerald-springs-senior-living-53437",
         "https://www.bbb.org/us/az/yuma/profile/retirement-communities/emerald-springs-retirement-assisted-living-community-1126-1000062819"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(928) 329-7707",
+      "website": "https://emeraldsprings.org/"
     },
     {
       "name": "Vista Pointe at Lake Havasu City",
@@ -491,7 +506,9 @@
         "https://birdeye.com/vista-pointe-at-lake-havasu-city-173471346973917",
         "https://www.aplaceformom.com/community/vista-pointe-at-lake-havasu-city-53836"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(928) 680-1818",
+      "website": "https://www.vistapointeatlakehavasucity.com/"
     },
     {
       "name": "Vista Pointe at Sierra Vista",
@@ -518,7 +535,8 @@
         "https://birdeye.com/vista-pointe-at-sierra-vista-173471338079109",
         "https://www.aplaceformom.com/community/vista-pointe-at-sierra-vista-53553"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-19",
+      "phone": "(520) 452-1402"
     }
   ],
   "organizations": [

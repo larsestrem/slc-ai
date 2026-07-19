@@ -22,7 +22,7 @@ facility_size: "large"
 organization: "mbk-senior-living"
 organization_name: "MBK Senior Living"
 sources: ["https://www.mbkseniorliving.com/senior-living/ca/thousand-oaks/reserve-at-thousand-oaks/", "https://www.aplaceformom.com/community/the-reserve-at-thousand-oaks-54776"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "An MBK Senior Living community in Thousand Oaks offering independent living, assisted living, memory care, and respite care. Amenities include on-site therapy, a fitness center, restaurant-style dining, and landscaped walking paths."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-reserve-at-thousand-oaks-54776"}]
 reviews_search_url: "https://www.google.com/search?q=The+Reserve+at+Thousand+Oaks+Thousand+Oaks+CA+reviews"

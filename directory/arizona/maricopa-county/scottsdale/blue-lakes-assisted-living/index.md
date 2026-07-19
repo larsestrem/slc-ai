@@ -15,11 +15,13 @@ city: "scottsdale"
 city_name: "Scottsdale"
 address: "9815 N 96th Pl"
 zip: "85258"
+phone: "(602) 686-9619"
+website: "https://bluelakesassistedliving.com/"
 care_levels: ["assisted-living"]
 facility_size: "small"
 capacity: 10
 sources: ["https://reviews.birdeye.com/blue-lakes-assisted-living-157255769796954", "https://www.bbb.org/us/az/scottsdale/profile/adult-family-homes/blue-lakes-assisted-living-1126-1000046468"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Blue Lakes Assisted Living is a 10-bed residential assisted living home in a Scottsdale neighborhood, licensed to provide supervisory, personal, and directed care."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/blue-lakes-assisted-living-157255769796954"}]
 reviews_search_url: "https://www.google.com/search?q=Blue+Lakes+Assisted+Living+Scottsdale+AZ+reviews"

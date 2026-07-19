@@ -16,11 +16,11 @@ city_name: "Visalia"
 address: "3120 W Caldwell Ave"
 zip: "93277"
 phone: "(559) 735-0828"
-website: "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497"
+website: "https://marbellavisalia.com/"
 care_levels: ["assisted-living", "memory-care"]
 facility_size: "medium"
 sources: ["https://www.caring.com/senior-living/california/visalia/prestige-assisted-living-at-visalia-93278", "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "An assisted living and memory care community in Visalia (formerly Prestige Assisted Living at Visalia)."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/visalia/prestige-assisted-living-at-visalia-93278"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497"}]
 reviews_search_url: "https://www.google.com/search?q=Marbella+Visalia+Visalia+CA+reviews"

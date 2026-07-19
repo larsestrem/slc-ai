@@ -15,11 +15,12 @@ city: "redding"
 city_name: "Redding"
 address: "3030 Heritagetown Dr"
 zip: "96002"
-website: "https://www.caring.com/senior-living/california/redding/the-vistas-assisted-living-and-memory-care"
+phone: "(530) 710-9369"
+website: "https://www.vistasalf.com/"
 care_levels: ["assisted-living", "memory-care"]
 facility_size: "medium"
 sources: ["https://www.caring.com/senior-living/california/redding/the-vistas-assisted-living-and-memory-care", "https://health.usnews.com/best-senior-living/the-vistas-assisted-living-memory-care-15817"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "The Vistas Assisted Living and Memory Care is an assisted living and memory care community in Redding."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/redding/the-vistas-assisted-living-and-memory-care"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-vistas-assisted-living-memory-care-15817"}]
 reviews_search_url: "https://www.google.com/search?q=The+Vistas+Assisted+Living+and+Memory+Care+Redding+CA+reviews"

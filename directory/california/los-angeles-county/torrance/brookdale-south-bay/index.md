@@ -13,7 +13,7 @@ county: "los-angeles"
 county_name: "Los Angeles"
 city: "torrance"
 city_name: "Torrance"
-address: "5481 Torrance Blvd"
+address: "5481 W Torrance Blvd"
 zip: "90503"
 phone: "(310) 543-1174"
 website: "https://www.brookdale.com/en/communities/brookdale-south-bay-ca.html"
@@ -21,7 +21,7 @@ care_levels: ["independent-living"]
 organization: "brookdale-senior-living"
 organization_name: "Brookdale Senior Living"
 sources: ["https://www.aplaceformom.com/community/brookdale-south-bay-138837", "https://www.brookdale.com/en/communities/brookdale-south-bay-ca.html", "https://www.seniorly.com/independent-living/california/torrance/brookdale-south-bay-torrance-5481-w-torrance-blvd-torrance-ca-90503"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Independent living retirement community on Torrance Boulevard in Torrance, part of the national Brookdale Senior Living network. Amenities include a library, arts and crafts studio, game room, and outdoor putting green, with housekeeping, dining, transportation, and concierge services handled by community staff."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/brookdale-south-bay-138837"}, {"name": "Seniorly", "url": "https://www.seniorly.com/independent-living/california/torrance/brookdale-south-bay-torrance-5481-w-torrance-blvd-torrance-ca-90503"}]
 reviews_search_url: "https://www.google.com/search?q=Brookdale+South+Bay+Torrance+CA+reviews"

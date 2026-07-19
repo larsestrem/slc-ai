@@ -21,7 +21,7 @@ care_levels: ["independent-living", "assisted-living", "skilled-nursing", "ccrc"
 facility_size: "large"
 cms_ccn: "055115"
 sources: ["https://health.usnews.com/best-nursing-homes/area/ca/hollenbeck-palms-055115", "https://www.hollenbeckpalms.com/residency-options/skilled-nursing/", "https://www.medicare.gov/care-compare/details/nursing-home/055115/view-all/?state=CA"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Independent nonprofit continuing care retirement community established in 1890, set on eight and a half acres of gardens in the Boyle Heights neighborhood of Los Angeles."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/hollenbeck-palms-055115"}]
 reviews_search_url: "https://www.google.com/search?q=Hollenbeck+Palms+Los+Angeles+CA+reviews"

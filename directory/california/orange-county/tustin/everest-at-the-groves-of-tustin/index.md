@@ -19,7 +19,7 @@ phone: "(800) 805-3621"
 website: "https://everestatgrovesoftustin.com/"
 care_levels: ["assisted-living", "memory-care"]
 sources: ["https://www.aplaceformom.com/community/everest-at-the-groves-of-tustin-147249", "https://everestatgrovesoftustin.com/", "https://www.seniorlivingguide.com/communities/everest-at-the-groves-of-tustin-1262-bryan-ave-tustin-ca-92780/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community on Bryan Avenue in Tustin, long known locally as The Groves of Tustin and now operated by Everest Senior Living. Offers studio and one-bedroom apartments plus a dedicated Generations memory care neighborhood with its own dining room, living room, and patio."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/everest-at-the-groves-of-tustin-147249"}]
 reviews_search_url: "https://www.google.com/search?q=Everest+at+The+Groves+of+Tustin+Tustin+CA+reviews"

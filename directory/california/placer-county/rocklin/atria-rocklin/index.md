@@ -21,7 +21,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "atria-senior-living"
 organization_name: "Atria Senior Living"
 sources: ["https://reviews.birdeye.com/atria-rocklin-157255677435762", "https://www.aplaceformom.com/community/atria-rocklin-95337", "https://www.caring.com/senior-living/california/rocklin/atria-rocklin"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Atria Rocklin offers independent living, assisted living, and Life Guidance memory care in the hills of Rocklin near the Quarry District and Whitney Oaks Golf Club. The community features upscale amenities, chef-prepared dining, and discreet 24-hour support staff."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/atria-rocklin-157255677435762"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-rocklin-95337"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/rocklin/atria-rocklin"}]
 reviews_search_url: "https://www.google.com/search?q=Atria+Rocklin+Rocklin+CA+reviews"

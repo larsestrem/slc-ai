@@ -14,11 +14,14 @@ county_name: "San Mateo"
 city: "portola-valley"
 city_name: "Portola Valley"
 address: "501 Portola Road"
+zip: "94028"
+phone: "(650) 851-1501"
+website: "https://sequoialiving.org/portola-valley/"
 care_levels: ["ccrc", "independent-living", "assisted-living", "skilled-nursing"]
 facility_size: "large"
 cms_ccn: "055466"
 sources: ["https://health.usnews.com/best-nursing-homes/area/ca/the-sequoias-portola-valley-055466", "https://www.medicarelist.com/nursing-home/sequoias-the-portola-valley-ca/", "https://carelistings.com/skilled-nursing-facilities/portola-valley-ca/the-sequoias/5ace87cd93efd2372f9763f5"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Residents can move through independent living, assisted living, and skilled nursing on one campus."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/the-sequoias-portola-valley-055466"}, {"name": "CareListings", "url": "https://carelistings.com/skilled-nursing-facilities/portola-valley-ca/the-sequoias/5ace87cd93efd2372f9763f5"}]
 reviews_search_url: "https://www.google.com/search?q=The+Sequoias+Portola+Valley+Portola+Valley+CA+reviews"

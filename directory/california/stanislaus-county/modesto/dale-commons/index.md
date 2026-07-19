@@ -16,11 +16,12 @@ city_name: "Modesto"
 address: "3900 Dale Rd"
 zip: "95356"
 phone: "(209) 526-2053"
+website: "https://dalecommons.com/"
 care_levels: ["independent-living", "assisted-living"]
 organization: "mbk-senior-living"
 organization_name: "MBK Senior Living"
 sources: ["https://www.aplaceformom.com/community/dale-commons-98673", "https://www.caring.com/senior-living/california/modesto/dale-commons-assisted-living-community-95356", "https://www.seniorcareauthority.com/assisted-living/dale-commons/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Dale Commons is an MBK Senior Living community in north Modesto offering independent living and assisted living with 24/7 residential care and support with daily activities."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/dale-commons-98673"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/modesto/dale-commons-assisted-living-community-95356"}, {"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/dale-commons/"}]
 reviews_search_url: "https://www.google.com/search?q=Dale+Commons+Modesto+CA+reviews"

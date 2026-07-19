@@ -15,10 +15,12 @@ city: "la-verne"
 city_name: "La Verne"
 address: "2705 Mountain View Dr"
 zip: "91750"
+phone: "(909) 392-4111"
+website: "https://www.livingathillcrest.org/"
 care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"]
 facility_size: "large"
 sources: ["https://reviews.birdeye.com/hillcrest-a-remarkable-retirement-community-157255147753502", "https://www.yelp.com/biz/hillcrest-la-verne-4"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Hillcrest (Brethren Hillcrest Homes) is a not-for-profit continuing care retirement community in La Verne with Craftsman-inspired architecture on a large foothill campus. Residents have access to a fitness center, aquatic center, and library, with independent living through skilled nursing all on site."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/hillcrest-a-remarkable-retirement-community-157255147753502"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/hillcrest-la-verne-4"}]
 reviews_search_url: "https://www.google.com/search?q=Hillcrest+-+A+Remarkable+Retirement+Community+La+Verne+CA+reviews"

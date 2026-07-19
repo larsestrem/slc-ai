@@ -15,13 +15,13 @@ city: "santa-maria"
 city_name: "Santa Maria"
 address: "1220 Suey Road"
 zip: "93454"
-phone: "(805) 928-2662"
+phone: "(805) 310-4102"
 website: "https://www.merrillgardens.com/senior-living/ca/santa-maria/merrill-gardens-at-santa-maria/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "merrill-gardens"
 organization_name: "Merrill Gardens"
 sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-santa-maria-56629", "https://www.caring.com/senior-living/california/santa-maria/merrill-gardens-at-santa-maria-93454"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Independent living, assisted living, and memory care community in northeast Santa Maria operated by family-owned Merrill Gardens. Property features include a swimming pool, communal dining room, on-site restaurant, and library."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-santa-maria-56629"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/santa-maria/merrill-gardens-at-santa-maria-93454"}]
 reviews_search_url: "https://www.google.com/search?q=Merrill+Gardens+at+Santa+Maria+Santa+Maria+CA+reviews"

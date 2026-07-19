@@ -16,11 +16,12 @@ city_name: "Davis"
 address: "1111 Alvarado Ave"
 zip: "95616"
 phone: "(530) 756-0700"
+website: "https://www.atriaseniorliving.com/retirement-communities/atria-covell-gardens-davis-ca"
 care_levels: ["assisted-living", "memory-care"]
 organization: "atria-senior-living"
 organization_name: "Atria Senior Living"
 sources: ["https://seniorsite.org/property/show/atria-covell-gardens", "https://www.aplaceformom.com/community/atria-covell-gardens-59108", "https://www.caring.com/senior-living/california/davis/atria-covell-gardens-95616"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "An assisted living and memory care community in north Davis operated by Atria Senior Living. Cost runs toward the high end for the Davis area."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-covell-gardens-59108"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/davis/atria-covell-gardens-95616"}]
 reviews_search_url: "https://www.google.com/search?q=Atria+Covell+Gardens+Davis+CA+reviews"

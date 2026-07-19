@@ -15,6 +15,7 @@ city: "santa-barbara"
 city_name: "Santa Barbara"
 address: "900 Calle De Los Amigos"
 zip: "93105"
+phone: "(805) 883-4000"
 website: "https://www.humangood.org/valle-verde"
 care_levels: ["independent-living", "assisted-living", "skilled-nursing", "ccrc"]
 facility_size: "large"
@@ -22,7 +23,7 @@ organization: "humangood"
 organization_name: "HumanGood"
 cms_ccn: "055733"
 sources: ["https://www.caring.com/senior-living/california/santa-barbara/valle-verde-93105", "https://health.usnews.com/best-senior-living/valle-verde-1900"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "A HumanGood nonprofit continuing care retirement community in Santa Barbara offering independent living, assisted living, and skilled nursing on beautiful grounds. Named a U.S. News Best Senior Living community for assisted and independent living."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/santa-barbara/valle-verde-93105"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/valle-verde-1900"}]
 reviews_search_url: "https://www.google.com/search?q=Valle+Verde+Santa+Barbara+CA+reviews"

@@ -15,9 +15,11 @@ city: "carson-city"
 city_name: "Carson City"
 address: "1111 W College Pkwy"
 zip: "89703"
+phone: "(775) 841-4111"
+website: "https://www.cascadeliving.com/community/sierra-place/"
 care_levels: ["independent-living", "assisted-living"]
 sources: ["https://www.caring.com/senior-living/nevada/carson-city/sierra-place-senior-living", "https://www.seniorly.com/assisted-living/nevada/carson-city/sierra-place-senior-living", "https://www.aplaceformom.com/community/sierra-place-retirement-community-94431"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-19"
 description_full: "Independent and assisted living community in Carson City, recently renovated with spacious rooms and a pleasant outdoor area."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/nevada/carson-city/sierra-place-senior-living"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/nevada/carson-city/sierra-place-senior-living"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sierra-place-retirement-community-94431"}]
 reviews_search_url: "https://www.google.com/search?q=Sierra+Place+Senior+Living+Carson+City+NV+reviews"

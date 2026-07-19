@@ -52,6 +52,15 @@ Every section you complete makes your listing more useful to families:
 - **[Care & services](/for-communities/questionnaire-care/)** — care levels, medical and non-medical services, pets, couples, age requirements, and how you handle complaints
 - **[Daily life](/for-communities/questionnaire-daily-life/)** — dining, activities, fitness, entertainment, outings, transportation
 
+**Our recommendation: gather widely, submit from the top.** Every submission is published
+with the submitter's name and title, right at the top of your profile — it's the first
+credibility signal a family sees. Your team's knowledge is exactly what these questionnaires
+are after (nobody describes the dining program like your chef), so collect answers from
+whoever knows each area best — but have your **Executive Director or another member of
+executive leadership review and make the final submission**. A profile that says "provided by
+the Executive Director" tells families your community's leadership stands behind every word,
+and that respect carries through everything they read on your listing.
+
 ## Share photos
 
 Families consistently say photos help more than anything else. We're starting simple —

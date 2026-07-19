@@ -88,9 +88,15 @@ Community Content, you (and the community you represent) agree that:
 - **Process, not incidents.** Where we ask about complaint handling, we ask about your
   process only. Do not submit details about any specific incident, resident, family, or
   employee; we will not publish them.
-- **We may edit for format and clarity, decline, or remove** any Community Content at our
-  discretion — for example, content that is promotional to the point of being misleading,
-  disparages others, or describes individuals.
+- **Your content follows our [Content Guidelines](/for-communities/content-guidelines/)** —
+  no specific incidents, complaints, or individuals; no comparisons to or denigration of
+  other communities; specific, honest descriptions of what your community does.
+- **We may edit for format, clarity, and guideline compliance, decline, or remove** any
+  Community Content or image at our discretion. We show you what we plan to publish before
+  it goes live.
+- **Listing management is currently free.** We may introduce a charge for the editorial work
+  in the future; if we do, it will never buy placement, ranking, or favorable treatment (see
+  Section 6), and we'll tell claimed communities before any change.
 
 ## 6. Placement is never paid — and paid relationships are disclosed
 

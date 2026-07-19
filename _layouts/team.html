@@ -1,0 +1,45 @@
+---
+layout: default
+---
+{%- comment %} Individual profiles for a community's leadership team — role,
+tenure, and background in their own words. Community-provided content, subject
+to the content guidelines, attributed like everything else. {% endcomment %}
+<article>
+  {%- if page.sample_notice %}
+  <p class="notice sample-banner"><strong>Sample page.</strong> {{ page.sample_notice }}</p>
+  {%- endif %}
+  <h1>{{ page.title }}</h1>
+  {%- if page.claimed_date %}
+  <p class="claimed-badge">✓ <span class="from-community">From the community</span> — team
+  profiles provided by {% if page.claimed_by %}{{ page.claimed_by }}{% if page.claimed_role %} ({{ page.claimed_role }}){% endif %}{% else %}verified staff{% endif %}
+  of {{ page.community_name | default: page.title }} on {{ page.claimed_date }} ·
+  <a href="/for-communities/#how-claiming-works">how we verify updaters</a></p>
+  {%- endif %}
+
+  <p class="lead">The people who run a community shape everything families experience there.
+  These profiles are written by the community itself — role, experience, and background —
+  so you can know who's accountable before you ever tour.</p>
+
+  <div class="team-list">
+    {%- for m in page.members %}
+    <section class="panel team-member" id="{{ m.name | slugify }}">
+      {%- if m.photo %}
+      <img class="team-photo" src="{{ m.photo }}" alt="{{ m.name }}, {{ m.role }}" loading="lazy" decoding="async">
+      {%- endif %}
+      <div class="team-body">
+        <h2>{{ m.name }}</h2>
+        <p class="team-role">{{ m.role }}{% if m.since %} · with the community since {{ m.since }}{% endif %}{% if m.credentials %} · {{ m.credentials }}{% endif %}</p>
+        <p>{{ m.bio }}</p>
+      </div>
+    </section>
+    {%- endfor %}
+  </div>
+
+  {%- if page.profile_url %}
+  <p><a class="btn ghost" href="{{ page.profile_url }}">&larr; Back to the {{ page.community_name | default: "community" }} profile</a></p>
+  {%- endif %}
+
+  <p class="notice">Team profiles are provided by the community under our
+  <a href="/for-communities/content-guidelines/">content guidelines</a>. Staff change —
+  confirm who you'll be working with when you tour.</p>
+</article>

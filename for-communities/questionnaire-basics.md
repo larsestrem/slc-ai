@@ -25,6 +25,10 @@ you with your community.
     <label for="b3">Ownership</label>
     <p class="hint">Independent, family-owned, non-profit, or part of an organization — and which one?</p>
     <input type="text" id="b3" name="Q3 Ownership">
+    <label for="b3b">When did the current management team take over?</label>
+    <p class="hint">Month/year your current Executive Director or management group began.
+    Families weigh this — a community can change a lot under new leadership, for better or worse.</p>
+    <input type="text" id="b3b" name="Q3b Current management since">
     <label for="b4">State license number(s) and license type(s)</label>
     <input type="text" id="b4" name="Q4 License numbers and types">
   </fieldset>

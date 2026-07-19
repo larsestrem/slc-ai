@@ -47,7 +47,9 @@ planning a photo session:
   senior care marketing — your administrator will know). Photos with no people are always safe.
 - JPG or PNG, at least 1200px wide, no heavy filters or stock photography — families can tell,
   and authentic beats polished.
-- We may crop or resize for layout, and we'll never alter what a photo shows.
+- We may crop or resize for layout, and we'll never alter what a photo shows. We may decline
+  to publish any image that doesn't meet these requirements or our
+  [content guidelines](/for-communities/content-guidelines/).
 
 **A bonus for your first photo:** the first image you send becomes your community's thumbnail
 on directory and city pages — listings with a photo (and a named profile manager) stand out

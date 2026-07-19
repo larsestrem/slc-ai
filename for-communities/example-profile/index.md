@@ -18,6 +18,17 @@ phone: "(555) 010-0100"
 care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing"]
 facility_size: "large"
 capacity: 142
+management_since: "March 2021"
+team_url: /for-communities/example-profile/team/
+team_preview:
+  - name: "Maria Alvarez"
+    role: "Executive Director"
+  - name: "Daniel Reyes"
+    role: "Director of Nursing"
+  - name: "James Okafor"
+    role: "Dining Services Director"
+  - name: "Priya Nair"
+    role: "Life Enrichment Coordinator"
 claimed_by: "Maria Alvarez"
 claimed_role: "Executive Director"
 claimed_date: "2026-07-01"

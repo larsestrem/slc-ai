@@ -292,7 +292,8 @@ def gen_facility_page(f, siblings, licensing):
                    # claimed-profile content sections
                    "community_statement", "care_details", "dining_text",
                    "dining_highlights", "activities_list", "amenities",
-                   "rooms_url", "rooms_teaser", "concern_response")
+                   "rooms_url", "rooms_teaser", "concern_response",
+                   "management_since")
     for k in passthrough:
         if f.get(k) not in (None, "", []):
             front[k] = f[k]
@@ -314,6 +315,26 @@ def gen_facility_page(f, siblings, licensing):
     if not f.get("cms_ccn") and licensing:
         front["licensing"] = {"agency": licensing.get("agency"), "lookup_url": licensing.get("lookup_url")}
     write(DIRECTORY / f["state"] / county_slug(f) / f["city"] / f["slug"] / "index.md", fm(front))
+
+    # Leadership team profiles (claimed listings): a dedicated /team/ page with
+    # individual bios, and a teaser on the main profile.
+    team = f.get("team") or []
+    if team:
+        front["team_url"] = facility_url(f) + "team/"
+        front["team_preview"] = [{"name": m["name"], "role": m.get("role", "")} for m in team]
+        tpage = {
+            "layout": "team",
+            "title": f"The Team at {f['name']}",
+            "description": f"Leadership team profiles for {f['name']} in {f['city_name']}, {f['state_abbrev']} — roles, experience, and background, provided by the community.",
+            "community_name": f["name"],
+            "profile_url": facility_url(f),
+            "members": team,
+            "crumbs": front["crumbs"] + [{"name": "Team", "url": facility_url(f) + "team/"}],
+        }
+        for k in ("claimed_by", "claimed_role", "claimed_date"):
+            if f.get(k):
+                tpage[k] = f[k]
+        write(DIRECTORY / f["state"] / county_slug(f) / f["city"] / f["slug"] / "team" / "index.md", fm(tpage))
 
     # More than five photos: the profile's hero gallery shows the first five
     # and links to a dedicated full-gallery page with every photo.

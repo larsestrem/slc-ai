@@ -63,12 +63,37 @@ executive leadership review and make the final submission**. A profile that says
 the Executive Director" tells families your community's leadership stands behind every word,
 and that respect carries through everything they read on your listing.
 
+All published content follows our **[content guidelines](/for-communities/content-guidelines/)**
+— the short version: describe what you do, specifically and honestly; no incident details, no
+comparisons to other communities. We review everything before it goes live and show you what
+we plan to publish.
+
 ## Share photos
 
 Families consistently say photos help more than anything else. We're starting simple —
 **a photo of the front of your community and your logo** — and growing from there.
 See **[photo guidelines](/for-communities/photos/)** for what to send and the rights/consent
 rules.
+
+## Introduce your leadership team
+
+Families choose people, not buildings. Claimed listings can include a **team page** —
+individual profiles for your Executive Director, Director of Nursing, head chef, activities
+director, community relations staff, and anyone else who shapes daily life — with each
+person's role, experience, and background, in their own words. It's one of the most
+persuasive things a listing can carry: a family that recognizes the Director of Nursing's
+name on move-in day already trusts you a little. See the
+[sample team page](/for-communities/example-profile/team/), then email us short bios
+(a few sentences each: role, years in senior care, what they're known for at your community).
+
+## Free now — and what happens if that changes
+
+Claiming and updating your listing is **free**. At some point we may charge for the editorial
+work involved — verifying updaters, editing, and maintaining listings takes real time — but
+we won't introduce any charge until this directory is sending communities significant traffic
+that justifies it. And whatever happens with pricing, one thing never changes:
+**payment will never buy placement, ranking, or favorable treatment** — see
+[our promise](#our-promise) below.
 
 ## Our promise
 

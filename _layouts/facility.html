@@ -65,6 +65,7 @@ layout: default
           {%- if page.phone %}<dt>Phone</dt><dd><a href="tel:+1{{ page.phone | remove: '(' | remove: ')' | remove: '-' | remove: ' ' | remove: '.' }}">{{ page.phone }}</a></dd>{% endif %}
           {%- if page.website %}<dt>Website</dt><dd><a href="{{ page.website }}" rel="noopener nofollow">{{ page.website | remove: 'https://' | remove: 'http://' | remove: 'www.' | split: '/' | first }}</a></dd>{% endif %}
           {%- if page.capacity %}<dt>Capacity</dt><dd>{{ page.capacity }} residents</dd>{% endif %}
+          {%- if page.management_since %}<dt>Current management</dt><dd>Since {{ page.management_since }} <span class="count">(<a href="/guides/warning-signs-when-choosing-a-facility/">why leadership tenure matters</a>)</span></dd>{% endif %}
           {%- if page.facility_size %}<dt>Community size</dt><dd>{% if page.facility_size == 'small' %}Small residential care home — <a href="/guides/adult-family-homes/">what that means</a>{% elsif page.facility_size == 'medium' %}Mid-size community{% else %}Large community{% endif %}</dd>{% endif %}
         </dl>
       </section>
@@ -129,6 +130,18 @@ layout: default
         <p class="notice" style="margin-bottom:0">Menus, calendars, and amenities change —
         <a href="/guides/food-and-dining/">judge the dining</a> and
         <a href="/guides/activities-and-engagement/">the activity program</a> in person on your tour.</p>
+      </section>
+      {%- endif %}
+
+      {%- if page.team_url %}
+      <section class="panel team-teaser" aria-labelledby="team-h">
+        <h2 id="team-h">The people who run {{ page.title }} <span class="from-community">From the community</span></h2>
+        <ul>
+          {%- for m in page.team_preview %}
+          <li><a href="{{ page.team_url }}#{{ m.name | slugify }}">{{ m.name }}</a> <span class="role">— {{ m.role }}</span></li>
+          {%- endfor %}
+        </ul>
+        <p style="margin-bottom:0"><a class="btn ghost" href="{{ page.team_url }}">Meet the team — experience &amp; background &rarr;</a></p>
       </section>
       {%- endif %}
 

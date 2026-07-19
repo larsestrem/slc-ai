@@ -311,6 +311,15 @@ tbody tr:hover { background: var(--soft); }
 .gallery-grid figure { margin: 0; }
 .gallery-grid figcaption { font-size: .85rem; color: var(--muted); margin-top: .35rem; }
 .lightbox .lb-hint { display: block; font-size: .78rem; color: #b9bec7; margin-top: .3rem; }
+
+/* Team pages & profile teaser */
+.team-member { display: flex; gap: 1.1rem; align-items: flex-start; }
+.team-photo { width: 6.5rem; height: 6.5rem; object-fit: cover; border-radius: 50%; border: 1px solid var(--line); flex: none; }
+.team-body h2 { margin: 0 0 .15rem; font-size: 1.2rem; }
+.team-role { color: var(--muted); font-size: .9rem; margin: 0 0 .5rem; }
+.team-teaser ul { list-style: none; margin: .4rem 0 .8rem; padding: 0; }
+.team-teaser li { margin: .3rem 0; font-size: .95rem; }
+.team-teaser .role { color: var(--muted); font-size: .88rem; }
 </style>
   
 </head>
@@ -431,7 +440,7 @@ tbody tr:hover { background: var(--soft); }
         <dl class="kv">
           <dt>Address</dt>
           <dd>1000 Alder Grove Lane, Rivertown, OR 97000
-            · <a href="https://www.google.com/maps/search/?api=1&amp;query=Alder+Grove+Senior+Living+1000+Alder+Grove+Lane+Rivertown+OR" rel="noopener">Map</a></dd><dt>Phone</dt><dd><a href="tel:+15550100100">(555) 010-0100</a></dd><dt>Capacity</dt><dd>142 residents</dd><dt>Community size</dt><dd>Large community</dd>
+            · <a href="https://www.google.com/maps/search/?api=1&amp;query=Alder+Grove+Senior+Living+1000+Alder+Grove+Lane+Rivertown+OR" rel="noopener">Map</a></dd><dt>Phone</dt><dd><a href="tel:+15550100100">(555) 010-0100</a></dd><dt>Capacity</dt><dd>142 residents</dd><dt>Current management</dt><dd>Since March 2021 <span class="count">(<a href="/guides/warning-signs-when-choosing-a-facility/">why leadership tenure matters</a>)</span></dd><dt>Community size</dt><dd>Large community</dd>
         </dl>
       </section>
       <section class="prose" aria-labelledby="about-h">
@@ -481,6 +490,16 @@ tbody tr:hover { background: var(--soft); }
         <p class="notice" style="margin-bottom:0">Menus, calendars, and amenities change —
         <a href="/guides/food-and-dining/">judge the dining</a> and
         <a href="/guides/activities-and-engagement/">the activity program</a> in person on your tour.</p>
+      </section>
+      <section class="panel team-teaser" aria-labelledby="team-h">
+        <h2 id="team-h">The people who run Alder Grove Senior Living <span class="from-community">From the community</span></h2>
+        <ul>
+          <li><a href="/for-communities/example-profile/team/#maria-alvarez">Maria Alvarez</a> <span class="role">— Executive Director</span></li>
+          <li><a href="/for-communities/example-profile/team/#daniel-reyes">Daniel Reyes</a> <span class="role">— Director of Nursing</span></li>
+          <li><a href="/for-communities/example-profile/team/#james-okafor">James Okafor</a> <span class="role">— Dining Services Director</span></li>
+          <li><a href="/for-communities/example-profile/team/#priya-nair">Priya Nair</a> <span class="role">— Life Enrichment Coordinator</span></li>
+        </ul>
+        <p style="margin-bottom:0"><a class="btn ghost" href="/for-communities/example-profile/team/">Meet the team — experience &amp; background &rarr;</a></p>
       </section>
       <section class="panel rooms-teaser" aria-labelledby="rooms-h">
         <h2 id="rooms-h">Rooms &amp; floor plans <span class="from-community">From the community</span></h2>

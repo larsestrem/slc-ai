@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 640" role="img" aria-label="Illustrated portrait of James Okafor">
+<rect width="480" height="640" fill="#e9ecdf"/>
+<path d="M60 640 C60 480 150 440 240 440 C330 440 420 480 420 640 Z" fill="#f5efe3"/>
+<path d="M60 640 C60 500 140 455 200 445 L280 445 C340 455 420 500 420 640 Z" fill="#fff" opacity=".9"/>
+<path d="M200 430 L280 430 L280 500 L200 500 Z" fill="#8a5a3b"/>
+<circle cx="240" cy="270" r="100" fill="#8a5a3b"/>
+<path d="M150 240 C160 150 220 130 240 130 C260 130 320 150 330 240 C330 260 150 260 150 240 Z" fill="#1f1a16"/>
+<circle cx="205" cy="275" r="9" fill="#171310"/><circle cx="275" cy="275" r="9" fill="#171310"/>
+<path d="M210 335 Q240 355 270 335" stroke="#5c3a24" stroke-width="7" fill="none" stroke-linecap="round"/>
+<rect x="215" y="98" width="50" height="26" rx="6" fill="#fff"/><path d="M205 124 L275 124 L268 98 L212 98 Z" fill="#fff"/>
+</svg>

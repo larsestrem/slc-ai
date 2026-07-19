@@ -312,9 +312,12 @@ tbody tr:hover { background: var(--soft); }
 .gallery-grid figcaption { font-size: .85rem; color: var(--muted); margin-top: .35rem; }
 .lightbox .lb-hint { display: block; font-size: .78rem; color: #b9bec7; margin-top: .3rem; }
 
-/* Team pages & profile teaser */
+/* Team pages & profile teaser. Headshots are PORTRAIT (3:4) — the one
+   orientation exception to the landscape photo rule; a neutral placeholder
+   fills the frame until the community sends one. */
 .team-member { display: flex; gap: 1.1rem; align-items: flex-start; }
-.team-photo { width: 6.5rem; height: 6.5rem; object-fit: cover; border-radius: 50%; border: 1px solid var(--line); flex: none; }
+.team-photo { width: clamp(5.5rem, 22vw, 8rem); aspect-ratio: 3 / 4; height: auto; object-fit: cover; border-radius: 10px; border: 1px solid var(--line); flex: none; }
+.team-photo.placeholder { opacity: .9; }
 .team-body h2 { margin: 0 0 .15rem; font-size: 1.2rem; }
 .team-role { color: var(--muted); font-size: .9rem; margin: 0 0 .5rem; }
 .team-teaser ul { list-style: none; margin: .4rem 0 .8rem; padding: 0; }
@@ -369,6 +372,7 @@ tbody tr:hover { background: var(--soft); }
 
   <div class="team-list">
     <section class="panel team-member" id="maria-alvarez">
+      <img class="team-photo" src="/assets/demo/headshot-1.svg" alt="Maria Alvarez, Executive Director" loading="lazy" decoding="async">
       <div class="team-body">
         <h2>Maria Alvarez</h2>
         <p class="team-role">Executive Director · with the community since March 2021 · Licensed Nursing Home Administrator</p>
@@ -376,6 +380,7 @@ tbody tr:hover { background: var(--soft); }
       </div>
     </section>
     <section class="panel team-member" id="daniel-reyes">
+      <img class="team-photo placeholder" src="/assets/img/placeholder-headshot.svg" alt="" aria-hidden="true" loading="lazy" decoding="async">
       <div class="team-body">
         <h2>Daniel Reyes</h2>
         <p class="team-role">Director of Nursing · with the community since 2019 · RN, BSN</p>
@@ -383,6 +388,7 @@ tbody tr:hover { background: var(--soft); }
       </div>
     </section>
     <section class="panel team-member" id="james-okafor">
+      <img class="team-photo" src="/assets/demo/headshot-2.svg" alt="James Okafor, Dining Services Director" loading="lazy" decoding="async">
       <div class="team-body">
         <h2>James Okafor</h2>
         <p class="team-role">Dining Services Director · with the community since 2022</p>
@@ -390,6 +396,7 @@ tbody tr:hover { background: var(--soft); }
       </div>
     </section>
     <section class="panel team-member" id="priya-nair">
+      <img class="team-photo placeholder" src="/assets/img/placeholder-headshot.svg" alt="" aria-hidden="true" loading="lazy" decoding="async">
       <div class="team-body">
         <h2>Priya Nair</h2>
         <p class="team-role">Life Enrichment Coordinator · with the community since 2020 · Certified Dementia Practitioner</p>

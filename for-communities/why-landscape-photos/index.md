@@ -62,6 +62,11 @@ reads as carefully maintained, and that trust reflects on every community in it.
    make it the shot of your entrance you'd put on a brochure.
 5. Skip filters, skip stock photos. Authentic beats polished — families can tell.
 
+**The one exception: team headshots.** Individual photos for your
+[team page](/for-communities/example-profile/team/) are the opposite — **portrait**, roughly
+3:4, shoulders-up on a plain background — because they sit in an upright frame beside each
+person's profile. Everything else you send: landscape.
+
 Full details, including rights and consent rules, are in the
 **[photo guidelines](/for-communities/photos/)**. Ready to send? Email your photos with your
 community name to **listings@senior.living.community**.

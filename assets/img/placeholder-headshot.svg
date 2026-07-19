@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 640" role="img" aria-label="No photo provided yet">
+<rect width="480" height="640" fill="#eef1f6"/>
+<circle cx="240" cy="250" r="95" fill="#c6cede"/>
+<path d="M80 640 C80 480 160 430 240 430 C320 430 400 480 400 640 Z" fill="#c6cede"/>
+<text x="240" y="600" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#494c52">Photo coming</text>
+</svg>

@@ -22,6 +22,7 @@ members:
     role: "Executive Director"
     since: "March 2021"
     credentials: "Licensed Nursing Home Administrator"
+    photo: /assets/demo/headshot-1.svg
     bio: "Maria has spent 18 years in senior living, starting as an activities assistant while finishing her degree in healthcare administration. She holds a state Nursing Home Administrator license and came to Alder Grove in 2021 after seven years administering a skilled nursing community. She leads our weekly all-department standup, reviews every family concern personally, and keeps open office hours on Tuesday afternoons — residents and families can walk in without an appointment."
   - name: "Daniel Reyes"
     role: "Director of Nursing"
@@ -31,6 +32,7 @@ members:
   - name: "James Okafor"
     role: "Dining Services Director"
     since: "2022"
+    photo: /assets/demo/headshot-2.svg
     bio: "James trained in restaurant kitchens for a decade before bringing his cooking to senior living twelve years ago. He plans our four-week rotating menu around resident requests collected at the monthly food council, cooks the daily everyday-menu alternatives himself most mornings, and personally reviews every therapeutic diet with our consulting dietitian. Ask him about the Sunday roast — it has its own following."
   - name: "Priya Nair"
     role: "Life Enrichment Coordinator"

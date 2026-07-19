@@ -25,6 +25,8 @@ to the content guidelines, attributed like everything else. {% endcomment %}
     <section class="panel team-member" id="{{ m.name | slugify }}">
       {%- if m.photo %}
       <img class="team-photo" src="{{ m.photo }}" alt="{{ m.name }}, {{ m.role }}" loading="lazy" decoding="async">
+      {%- else %}
+      <img class="team-photo placeholder" src="/assets/img/placeholder-headshot.svg" alt="" aria-hidden="true" loading="lazy" decoding="async">
       {%- endif %}
       <div class="team-body">
         <h2>{{ m.name }}</h2>

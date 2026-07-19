@@ -40,6 +40,12 @@ planning a photo session:
   photo frame on your listing (the profile gallery, the photo page, the thumbnail on
   directory pages) is built landscape, and a portrait photo gets cropped in ways you won't
   like. [Why we require landscape photos →](/for-communities/why-landscape-photos/)
+- **The one exception: team headshots are portrait** — taller than wide, roughly 3:4
+  (a standard phone photo held upright), shoulders-up, plain background, one person per
+  photo. These appear beside each profile on your
+  [team page](/for-communities/example-profile/team/); until you send one, a neutral
+  placeholder holds the spot. Written consent rules below apply — headshots are identifiable
+  people by definition.
 - **You must own the rights** to every image you send (you took it, or your community did),
   and by sending it you give us permission to publish it on your listing.
 - **No identifiable people without written consent.** For any photo showing a resident, family

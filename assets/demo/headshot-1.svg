@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 640" role="img" aria-label="Illustrated portrait of Maria Alvarez">
+<rect width="480" height="640" fill="#dde6f3"/>
+<path d="M60 640 C60 480 150 440 240 440 C330 440 420 480 420 640 Z" fill="#0a4aa3"/>
+<path d="M200 430 L280 430 L280 500 L200 500 Z" fill="#e8b48f"/>
+<circle cx="240" cy="270" r="100" fill="#e8b48f"/>
+<path d="M140 260 C140 160 200 130 240 130 C280 130 340 160 340 260 C340 300 330 330 320 300 C320 220 280 200 240 200 C200 200 160 220 160 300 C150 330 140 300 140 260 Z" fill="#4a3428"/>
+<path d="M150 270 C140 380 190 420 240 420 C290 420 340 380 330 270" fill="none"/>
+<circle cx="205" cy="270" r="9" fill="#2e2620"/><circle cx="275" cy="270" r="9" fill="#2e2620"/>
+<path d="M215 330 Q240 348 265 330" stroke="#a05c46" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M330 500 L360 640 L120 640 L150 500" fill="none"/>
+<circle cx="240" cy="520" r="10" fill="#f6e7b2"/>
+</svg>

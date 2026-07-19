@@ -2,8 +2,8 @@
 layout: "organization"
 title: "Edgewood Healthcare"
 seo_title: "Edgewood Healthcare — Senior Living Communities & Locations"
-description: "Edgewood Healthcare, headquartered in Grand Forks, North Dakota, is the leading operator of senior living communities in the upper Midwest. The company owns a"
-org_description: "Edgewood Healthcare, headquartered in Grand Forks, North Dakota, is the leading operator of senior living communities in the upper Midwest. The company owns and/or operates 64 independent living, assisted living, and memory care communities with over 4,100 beds across seven states, including several Spring Creek communities in Idaho's Treasure Valley and western Idaho."
+description: "Edgewood Healthcare, headquartered in Grand Forks, North Dakota, is one of the largest operators of senior living communities in the upper Midwest. The compan"
+org_description: "Edgewood Healthcare, headquartered in Grand Forks, North Dakota, is one of the largest operators of senior living communities in the upper Midwest. The company owns and/or operates 64 independent living, assisted living, and memory care communities with over 4,100 beds across seven states, including several Spring Creek communities in Idaho's Treasure Valley and western Idaho."
 headquarters: "Grand Forks, North Dakota"
 website: "https://www.edgewoodhealthcare.com/"
 facility_count_approx: 64

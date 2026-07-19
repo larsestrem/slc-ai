@@ -2,8 +2,8 @@
 layout: "organization"
 title: "Era Living"
 seo_title: "Era Living — Senior Living Communities & Locations"
-description: "Era Living is a private, Seattle-based company founded by Eli and Rebecca Almo that opened its first retirement community in 1987. It manages eight premier re"
-org_description: "Era Living is a private, Seattle-based company founded by Eli and Rebecca Almo that opened its first retirement community in 1987. It manages eight premier retirement communities in the greater Seattle area, including University House Wallingford (1997), Ida Culver House Broadview (1990), and The Lakeshore (1995). The company partners with the University of Washington Retirement Association."
+description: "Era Living is a private, Seattle-based company founded by Eli and Rebecca Almo that opened its first retirement community in 1987. It manages eight retirement"
+org_description: "Era Living is a private, Seattle-based company founded by Eli and Rebecca Almo that opened its first retirement community in 1987. It manages eight retirement communities in the greater Seattle area, including University House Wallingford (1997), Ida Culver House Broadview (1990), and The Lakeshore (1995). The company partners with the University of Washington Retirement Association."
 headquarters: "Seattle, Washington"
 website: "https://www.eraliving.com/"
 facility_count_approx: 8

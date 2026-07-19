@@ -24,4 +24,4 @@ If you are choosing an assisted living residence in Massachusetts, these rules g
 
 The story matters outside Massachusetts, too. Assisted living is regulated state by state, and Massachusetts is part of a broader wave of states tightening oversight. Wherever you live, use these rules as a checklist when touring communities: What exactly is included in the monthly fee? How much notice will we get before a price increase? What nursing care is available on site, and at what hours? Under what circumstances can a resident be asked to leave?
 
-A community that answers those questions clearly and in writing is showing you how it will treat your family later. One that will not is telling you something important before you ever sign.
+A community that answers those questions clearly and in writing is showing you how it will treat your family later. If one won't, keep pressing for written answers before you sign — you're entitled to them.

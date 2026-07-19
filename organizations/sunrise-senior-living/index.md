@@ -3,7 +3,7 @@ layout: "organization"
 title: "Sunrise Senior Living"
 seo_title: "Sunrise Senior Living — Senior Living Communities & Locations"
 description: "Sunrise Senior Living is one of the largest senior living providers in North America, operating roughly 235 communities across the United States, Canada, and "
-org_description: "Sunrise Senior Living is one of the largest senior living providers in North America, operating roughly 235 communities across the United States, Canada, and the United Kingdom. Founded in 1981, Sunrise focuses on assisted living and its Reminiscence memory care neighborhoods, and its communities have earned more than 280 National Quality Awards."
+org_description: "Sunrise Senior Living is one of the largest senior living providers in North America, operating roughly 235 communities across the United States, Canada, and the United Kingdom. Founded in 1981, Sunrise focuses on assisted living and its Reminiscence memory care neighborhoods, and many of its communities have earned National Quality Awards."
 headquarters: "McLean, Virginia"
 website: "https://www.sunriseseniorliving.com/"
 facility_count_approx: 240

@@ -15,12 +15,13 @@ city_name: "Keizer"
 address: "4062 Arleta Ave NE"
 zip: "97303"
 phone: "(503) 390-2271"
+website: "https://www.volarehcm.com/locations/keizer-nursing-rehabilitation-center/"
 care_levels: ["skilled-nursing"]
 facility_size: "medium"
 capacity: 49
 cms_ccn: "385241"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385241/", "https://www.ohca.com/facility-finder/keizer-nursing-and-rehabilitation/", "https://ltclicensing.oregon.gov/Facilities/Details/385241"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Keizer Nursing and Rehabilitation is a 49-bed Medicare- and Medicaid-certified skilled nursing facility in Keizer offering short-term rehabilitation and long-term nursing care."
 reviews_search_url: "https://www.google.com/search?q=Keizer+Nursing+and+Rehabilitation+Keizer+OR+reviews"
 ---

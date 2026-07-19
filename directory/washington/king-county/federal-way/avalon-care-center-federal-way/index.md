@@ -15,12 +15,13 @@ city_name: "Federal Way"
 address: "135 S 336th Street"
 zip: "98003"
 phone: "(253) 835-7453"
+website: "https://avalonhealthcare.com/federalway/"
 care_levels: ["skilled-nursing", "respite-care"]
 facility_size: "large"
 capacity: 120
 cms_ccn: "505510"
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/avalon-care-center-federal-way-505510", "https://everlighthealth.org/avalon-care-center-federal-way-federal-way-wa-505510/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A 120-bed skilled nursing and rehabilitation center in Federal Way offering short-term rehab and long-term care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/avalon-care-center-federal-way-505510"}]
 reviews_search_url: "https://www.google.com/search?q=Avalon+Care+Center+-+Federal+Way+Federal+Way+WA+reviews"

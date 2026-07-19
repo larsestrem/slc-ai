@@ -15,6 +15,7 @@ city_name: "Grants Pass"
 address: "2201 NW Highland Ave"
 zip: "97526"
 phone: "(541) 474-1901"
+website: "https://www.volarehcm.com/locations/highland-house-nursing-and-rehabilitation-center/"
 care_levels: ["skilled-nursing"]
 facility_size: "large"
 capacity: 119
@@ -22,7 +23,7 @@ organization: "volare-health"
 organization_name: "Volare Health"
 cms_ccn: "385149"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385149/", "https://www.volarehcm.com/locations/highland-house-nursing-and-rehabilitation-center/", "https://ltclicensing.oregon.gov/Facilities/Details/385149"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Highland House Nursing and Rehabilitation Center is a 119-bed Medicare- and Medicaid-certified skilled nursing facility in Grants Pass providing short-term rehabilitation and long-term nursing care. It is operated by Volare Health."
 reviews_search_url: "https://www.google.com/search?q=Highland+House+Nursing+and+Rehabilitation+Center+Grants+Pass+OR+reviews"
 ---

@@ -12,14 +12,15 @@ county: "multnomah"
 county_name: "Multnomah"
 city: "portland"
 city_name: "Portland"
-address: "3550 SW Bond Ave"
+address: "3550 S Bond Ave"
 zip: "97239"
 phone: "(503) 688-6400"
-care_levels: ["independent-living", "assisted-living", "skilled-nursing", "ccrc"]
+website: "https://www.mirabellaportland.org/"
+care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"]
 organization: "pacific-retirement-services"
 organization_name: "Pacific Retirement Services"
 sources: ["https://www.aplaceformom.com/community/mirabella-portland-ccrc-1336580", "https://www.yelp.com/biz/mirabella-portland-portland", "https://www.assistedlivingcenter.com/facilities/or/portland/mirabella-at-south-waterfront-ccrc-97239/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Mirabella Portland is a high-rise continuing care retirement community in Portland's South Waterfront district, offering independent living, assisted living, and skilled nursing in one building. It is affiliated with Pacific Retirement Services, a nonprofit senior living organization headquartered in Medford, Oregon."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/mirabella-portland-ccrc-1336580"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/mirabella-portland-portland"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/portland/mirabella-at-south-waterfront-ccrc-97239/"}]
 reviews_search_url: "https://www.google.com/search?q=Mirabella+Portland+Portland+OR+reviews"

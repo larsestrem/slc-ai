@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care", "respite-c
 organization: "grace-assisted-living"
 organization_name: "Grace Assisted Living"
 sources: ["https://graceseniorcommunity.com/nampa-assisted-living/", "https://www.yelp.com/biz/grace-independent-and-assisted-living-nampa-nampa-4", "https://www.senioradvice.com/providers/view/grace-assisted-living-grace-at-sunny-ridge-nampa-id"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Grace Assisted Living in Nampa offers independent retirement living and assisted living, plus Assist Plus memory care, respite day care, and hospice support, on Sunny Ridge Road overlooking Liberty Park. Care staff are available 24 hours a day under the supervision of a facility RN. Amenities include a hair salon, library, outdoor garden, communal dining hall, and swimming pool."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/grace-independent-and-assisted-living-nampa-nampa-4"}, {"name": "SeniorAdvice", "url": "https://www.senioradvice.com/providers/view/grace-assisted-living-grace-at-sunny-ridge-nampa-id"}]
 reviews_search_url: "https://www.google.com/search?q=Grace+Assisted+Living+-+Nampa+Nampa+ID+reviews"

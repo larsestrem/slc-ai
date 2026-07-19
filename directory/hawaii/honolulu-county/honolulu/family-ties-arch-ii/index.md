@@ -14,12 +14,12 @@ city: "honolulu"
 city_name: "Honolulu"
 address: "1103-A Kahauiki Place"
 zip: "96819"
-phone: "(808) 386-3033"
+phone: "(808) 841-1674"
 care_levels: ["adult-family-home"]
 facility_size: "small"
 capacity: 5
 sources: ["https://www.aplaceformom.com/community/family-ties-arch-ii-1348473", "https://www.senioradvisor.com/local/family-ties-honolulu-hi"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Family Ties ARCH II is a small adult residential care home in the Kalihi area of Honolulu, listed as a Type I Expanded Adult Residential Care Home licensed for up to five residents."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/family-ties-arch-ii-1348473"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/family-ties-honolulu-hi"}]
 reviews_search_url: "https://www.google.com/search?q=Family+Ties+ARCH+II+Honolulu+HI+reviews"

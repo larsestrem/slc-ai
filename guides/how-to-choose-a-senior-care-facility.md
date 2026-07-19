@@ -34,7 +34,7 @@ Someone who is mostly independent but lonely may only need [independent living](
 
 ## Step 2: Set a realistic budget
 
-Senior care is expensive, and most of it is paid out of pocket. As of 2025-2026, national medians run roughly $5,500-6,000 per month for assisted living, $7,000-8,500 for memory care, and $10,000-12,000 for a private nursing home room — with wide variation by region. See [what senior living really costs](/guides/cost-of-senior-living/) for details.
+Senior care is expensive, and most of it is paid out of pocket. As of 2025-2026, industry cost surveys put national medians roughly at $5,500-6,000 per month for assisted living, $7,000-8,500 for memory care, and $10,000-12,000 for a private nursing home room — with wide variation by region. See [what senior living really costs](/guides/cost-of-senior-living/) for details.
 
 Map out what you can sustain for three to five years, not just year one:
 
@@ -45,7 +45,7 @@ Map out what you can sustain for three to five years, not just year one:
 
 Read [paying for senior care](/guides/paying-for-senior-care/) before you tour, because base rent is not the whole story — care charges and [hidden fees](/guides/whats-not-included-hidden-fees/) can add thousands per month.
 
-> **Ask this:** "If my parent outlives their savings, can they stay here on Medicaid — and how many Medicaid beds do you actually have?" Many communities quietly discharge residents who run out of money.
+> **Ask this:** "If my parent outlives their savings, can they stay here on Medicaid — and how many Medicaid beds do you actually have?" Most admission agreements allow discharge when funds run out — ask how it's handled before signing.
 
 ## Step 3: Build a shortlist
 
@@ -81,7 +81,7 @@ Our guide to [reading inspection reports and ratings](/guides/reading-inspection
 
 Tour your top three in person. Take the scheduled tour, then come back unannounced at a different time — dinner hour or a weekend evening, when staffing is thinnest. Watch how staff talk to residents, smell the hallways, look at whether residents are engaged or parked in front of a TV, and study the [food](/guides/food-and-dining/) and [activity calendar](/guides/activities-and-engagement/).
 
-Bring our full [touring checklist](/guides/touring-checklist/) with you, including the questions about [staffing ratios](/guides/staffing-ratios/) and turnover that marketing staff hope you won't ask. Also think through [shared versus private rooms](/guides/shared-vs-private-rooms/) — the price difference is large, and so is the quality-of-life difference for some people.
+Bring our full [touring checklist](/guides/touring-checklist/) with you, including the questions about [staffing ratios](/guides/staffing-ratios/) and turnover that tours don't usually cover. Also think through [shared versus private rooms](/guides/shared-vs-private-rooms/) — the price difference is large, and so is the quality-of-life difference for some people.
 
 > **Ask this:** "Can I have lunch here with the residents, and can you connect me with two current families I can call?" A confident facility says yes to both.
 
@@ -102,7 +102,7 @@ Before signing, read the admission agreement carefully — fees, discharge trigg
 - Schedule the required medical assessment and paperwork early; it can take weeks.
 - Furnish the room with familiar things — their own quilt, photos, chair — before they arrive.
 - Visit often in the first month, but let staff build their own relationship with your parent.
-- Introduce yourself to the direct-care staff by name. Families who are known, and kind, get better care. That's an uncomfortable truth, but it's true.
+- Introduce yourself to the direct-care staff by name. Familiar families communicate more easily, hear about small things sooner, and can raise concerns before they grow.
 
 Expect an adjustment period of one to three months, with some tearful phone calls. Most residents settle in; if things haven't improved by month three, talk to the administrator and the ombudsman.
 

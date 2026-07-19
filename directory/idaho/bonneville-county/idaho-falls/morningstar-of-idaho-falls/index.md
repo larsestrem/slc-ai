@@ -21,7 +21,7 @@ facility_size: "large"
 organization: "morningstar-senior-living"
 organization_name: "MorningStar Senior Living"
 sources: ["https://www.aplaceformom.com/community/morning-star-of-idaho-falls-155639", "https://www.morningstarseniorliving.com/communities/senior-living-idaho-falls/memory-care-idaho-falls/", "https://www.yelp.com/biz/morningstar-senior-living-idaho-falls-idaho-falls-2"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "MorningStar of Idaho Falls is a large campus offering independent living cottages and suites, assisted living, and memory care in its dedicated Reflections Neighborhood for residents with Alzheimer's and dementia."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/morning-star-of-idaho-falls-155639"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/morningstar-senior-living-idaho-falls-idaho-falls-2"}]
 reviews_search_url: "https://www.google.com/search?q=MorningStar+of+Idaho+Falls+Idaho+Falls+ID+reviews"

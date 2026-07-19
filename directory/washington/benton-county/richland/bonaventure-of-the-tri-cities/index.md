@@ -22,7 +22,7 @@ capacity: 123
 organization: "bonaventure-senior-living"
 organization_name: "Bonaventure Senior Living"
 sources: ["https://www.aplaceformom.com/community/bonaventure-tri-cities-153656", "https://bonaventuresenior.com/community/bonaventure-of-the-tri-cities/", "https://carelistings.com/assisted-living-homes/richland-wa/bonaventure-of-the-tri-cities/5acd0285a71d8c15cf695586"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Bonaventure of the Tri-Cities is a 123-bed independent living, assisted living, and memory care community in Richland's Bellerive area. The campus features a swimming pool, walking paths, landscaped grounds, and a salon."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bonaventure-tri-cities-153656"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/richland-wa/bonaventure-of-the-tri-cities/5acd0285a71d8c15cf695586"}]
 reviews_search_url: "https://www.google.com/search?q=Bonaventure+of+the+Tri-Cities+Richland+WA+reviews"

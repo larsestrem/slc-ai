@@ -18,7 +18,7 @@ Here's the honest truth up front: senior living pricing is often structured so t
 
 ## Community fees and move-in fees
 
-Most communities charge a one-time, non-refundable "community fee" at move-in — commonly one-half to two times the monthly rent, so often $2,500 to $12,000. It's sometimes framed as covering apartment prep or "administration." In practice, it's revenue.
+Most communities charge a one-time, non-refundable "community fee" at move-in — commonly one-half to two times the monthly rent, so often $2,500 to $12,000. It's usually described as covering apartment prep or "administration"; in practice it functions largely as an upfront charge — which is also why it's often negotiable.
 
 What insiders know: this fee is the single most negotiable charge in senior living. Communities with vacancies waive or cut it routinely, especially near month-end. Ask directly, in a matter-of-fact tone: "Are you waiving community fees for move-ins this month?"
 
@@ -75,7 +75,7 @@ Every licensed community has a complete fee schedule. You are entitled to see it
 
 Then build a realistic first-year total: (base rent + care level + recurring extras) × 12, plus one-time fees, plus an assumed 5-8% increase partway through. Compare communities on *that* number. Bring this list on tours along with our [touring checklist](/guides/touring-checklist/).
 
-One more insider note: sales staff are trained to keep conversations on lifestyle and away from itemized costs. That's not evil — it's sales. But a community that gets vague or irritated when you push for numbers in writing is showing you how it will handle billing disputes later. If the total is beyond reach, don't stretch silently; read [paying for senior care](/guides/paying-for-senior-care/) for the full funding toolkit.
+One more note: sales conversations naturally center on lifestyle rather than itemized costs — steering the conversation back to numbers is your job. A community that gets vague or irritated when you push for numbers in writing is showing you how it will handle billing disputes later. If the total is beyond reach, don't stretch silently; read [paying for senior care](/guides/paying-for-senior-care/) for the full funding toolkit.
 
 ## Common questions
 

@@ -20,7 +20,7 @@ care_levels: ["adult-family-home"]
 facility_size: "small"
 capacity: 6
 sources: ["https://afhbestcare.com/", "https://www.yelp.com/biz/best-care-adult-family-home-vancouver", "https://www.myafh.com/adult-family-home-vancouver-98664-6/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Best Care Adult Family Home is a Washington state-licensed, 6-bed adult family home in Vancouver offering residential senior care in a home setting. Private rooms and semi-private rooms with a private bathroom are available."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/best-care-adult-family-home-vancouver"}]
 reviews_search_url: "https://www.google.com/search?q=Best+Care+Adult+Family+Home+Vancouver+WA+reviews"

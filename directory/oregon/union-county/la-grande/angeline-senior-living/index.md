@@ -19,7 +19,7 @@ care_levels: ["assisted-living"]
 facility_size: "medium"
 capacity: 15
 sources: ["https://reviews.birdeye.com/angeline-senior-living-157271060160698", "https://carelistings.com/assisted-living-homes/la-grande-or/angeline-senior-living-llc/5acd025fa71d8c15cf6925e2", "https://www.aplaceformom.com/community/angeline-senior-living-140719"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "A 15-bed licensed residential care facility in downtown La Grande providing assisted living in a small, home-like setting."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/angeline-senior-living-157271060160698"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/la-grande-or/angeline-senior-living-llc/5acd025fa71d8c15cf6925e2"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/angeline-senior-living-140719"}]
 reviews_search_url: "https://www.google.com/search?q=Angeline+Senior+Living+La+Grande+OR+reviews"

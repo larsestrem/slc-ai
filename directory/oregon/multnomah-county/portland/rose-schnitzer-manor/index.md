@@ -14,13 +14,14 @@ city: "portland"
 city_name: "Portland"
 address: "6140 SW Boundary St"
 zip: "97221"
+phone: "(503) 535-4000"
 website: "https://cedarsinaipark.org/rose-schnitzer-manor/"
 care_levels: ["assisted-living"]
 facility_size: "large"
 organization: "cedar-sinai-park"
 organization_name: "Cedar Sinai Park"
 sources: ["https://www.caring.com/senior-living/oregon/portland/rose-schnitzer-manor-97221", "https://cedarsinaipark.org/rose-schnitzer-manor/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A residential care and assisted living community on the Cedar Sinai Park campus in southwest Portland, rooted in Jewish tradition and open to residents of all faiths. It offers apartments, kosher dining, and a full activities program adjacent to the campus's skilled nursing center."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/portland/rose-schnitzer-manor-97221"}]
 reviews_search_url: "https://www.google.com/search?q=Rose+Schnitzer+Manor+Portland+OR+reviews"

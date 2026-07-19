@@ -18,7 +18,7 @@ phone: "(503) 259-2627"
 care_levels: ["adult-family-home"]
 facility_size: "small"
 sources: ["https://reviews.birdeye.com/eden-adult-foster-home-llc-169865927243603", "https://www.carechanges.com/living-communities/eden-adult-foster-home-llc_beaverton_oregon/", "https://www.familyassets.com/assisted-living/oregon/beaverton/eden-adult-foster-home-llc"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Eden Adult Foster Home is a licensed adult foster home in a quiet residential Beaverton neighborhood, providing a warm, home-like environment for seniors who need personalized care and support."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/eden-adult-foster-home-llc-169865927243603"}]
 reviews_search_url: "https://www.google.com/search?q=Eden+Adult+Foster+Home+LLC+Beaverton+OR+reviews"

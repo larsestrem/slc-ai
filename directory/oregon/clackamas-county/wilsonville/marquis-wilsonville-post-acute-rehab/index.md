@@ -14,6 +14,7 @@ city: "wilsonville"
 city_name: "Wilsonville"
 address: "30900 SW Parkway Ave"
 zip: "97070"
+phone: "(503) 682-2840"
 website: "https://www.marquiscompanies.com/facility/marquis-wilsonville/"
 care_levels: ["skilled-nursing", "respite-care"]
 facility_size: "medium"
@@ -22,7 +23,7 @@ organization: "marquis-companies"
 organization_name: "Marquis Companies"
 cms_ccn: "385266"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-wilsonville-post-acute-rehabilitation-385266", "https://www.medicare.gov/care-compare/details/nursing-home/385266/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A 50-bed Marquis Companies skilled nursing and post-acute rehabilitation center in Wilsonville, Clackamas County. It emphasizes short-stay rehabilitation after hospital stays alongside long-term nursing care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/marquis-wilsonville-post-acute-rehabilitation-385266"}]
 reviews_search_url: "https://www.google.com/search?q=Marquis+Wilsonville+Post+Acute+Rehab+Wilsonville+OR+reviews"

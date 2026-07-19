@@ -15,13 +15,14 @@ city_name: "Bellevue"
 address: "1115 108th Avenue NE"
 zip: "98004"
 phone: "(425) 450-0800"
+website: "https://www.mbkseniorliving.com/senior-living/wa/bellevue/the-bellettini/"
 care_levels: ["independent-living", "assisted-living"]
 facility_size: "large"
 capacity: 144
 organization: "mbk-senior-living"
 organization_name: "MBK Senior Living"
 sources: ["https://www.aplaceformom.com/community/the-bellettini-101653", "https://ultimateseniorresource.com/states/washington/bellevue/the-bellettini"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A luxury independent and assisted living community in downtown Bellevue with 144 apartments, two restaurants, a fitness center and salon, operated by MBK Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-bellettini-101653"}, {"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/washington/bellevue/the-bellettini"}]
 reviews_search_url: "https://www.google.com/search?q=The+Bellettini+Bellevue+WA+reviews"

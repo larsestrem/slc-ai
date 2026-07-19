@@ -15,11 +15,12 @@ city_name: "Spokane"
 address: "1617 N Calispel St"
 zip: "99205"
 phone: "(509) 325-7339"
-care_levels: ["assisted-living"]
+website: "https://www.fairviewassistedliving.com/"
+care_levels: ["assisted-living", "memory-care"]
 facility_size: "large"
 capacity: 64
 sources: ["https://www.caring.com/senior-living/washington/spokane/fairview-assisted-living-inc-99205", "https://www.seniorcareauthority.com/assisted-living/fairview-assisted-living-inc-in-spokane-washington.html"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Fairview Assisted Living Inc is a 64-resident assisted living facility at 1617 N Calispel St in Spokane, licensed by the State of Washington. It offers personal care, meals, and daily activities including a barber/beauty shop and library."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/spokane/fairview-assisted-living-inc-99205"}, {"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/fairview-assisted-living-inc-in-spokane-washington.html"}]
 reviews_search_url: "https://www.google.com/search?q=Fairview+Assisted+Living+Inc+Spokane+WA+reviews"

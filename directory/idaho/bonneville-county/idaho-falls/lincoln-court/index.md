@@ -21,7 +21,7 @@ facility_size: "large"
 organization: "stellar-senior-living"
 organization_name: "Stellar Senior Living"
 sources: ["https://www.aplaceformom.com/community/lincoln-court-52696", "https://stellarliving.com/communities/lincoln-court-assisted-senior-living-idaho-falls-id/", "https://www.yelp.com/biz/lincoln-court-retirement-community-idaho-falls-2"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Lincoln Court is a Stellar Senior Living community in a quiet Idaho Falls neighborhood offering independent living, assisted living, memory care, and respite stays."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/lincoln-court-52696"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/lincoln-court-retirement-community-idaho-falls-2"}]
 reviews_search_url: "https://www.google.com/search?q=Lincoln+Court+Idaho+Falls+ID+reviews"

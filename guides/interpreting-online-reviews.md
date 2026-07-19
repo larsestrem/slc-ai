@@ -6,6 +6,7 @@ permalink: /guides/interpreting-online-reviews/
 topic_group: quality
 updated: 2026-07-12
 related:
+  - /guides/why-good-communities-get-complaints/
   - /guides/reading-inspection-reports-and-ratings/
   - /guides/checking-complaints-and-state-records/
   - /guides/warning-signs-when-choosing-a-facility/
@@ -32,8 +33,8 @@ curate, recency is visible. Weaknesses: no verification, and both extremes are o
 are paid by facilities for placements. The reviews themselves are often collected from
 families the platform referred, which skews toward people who just moved in — the honeymoon
 period — and the platform has a business relationship with the community being reviewed. Use
-the text; hold the stars loosely. A 2024 Washington Post analysis found top-recommended
-facilities on the largest platform coexisting with substandard-care citations.
+the text; hold the stars loosely. Journalists examining the referral industry (including a 2024 Washington Post analysis) have
+found platform-recommended facilities coexisting with substandard-care citations.
 
 **Facility-website testimonials** are marketing. Real quotes, hand-picked. Fine to read,
 meaningless as evidence.
@@ -75,7 +76,9 @@ Two habits protect you here. First, **read the three- and four-star reviews most
 tend to come from the most level-headed reviewers and contain the actual trade-offs you'll live
 with. Second, when a review is all feeling and no specifics ("this place is a godsend" / "they're
 monsters"), treat it as a mood, not evidence; look for the reviews that name a specific caregiver,
-a specific incident, a specific fix.
+a specific incident, a specific fix. And remember the other side of the same coin: running a
+senior care community is genuinely hard work, and even good ones accumulate hard reviews — what
+separates them is [how they respond to complaints](/guides/why-good-communities-get-complaints/).
 
 ## Solicited and self-reported reviews
 
@@ -124,7 +127,8 @@ Two more distortions, on top of who writes and how they feel:
    call-light response is signal. One furious essay about a billing dispute is a data point.
 3. **Read the management responses.** Specific, non-defensive replies to criticism are one
    of the best cheap indicators of a well-run building. Copy-paste apologies — or silence —
-   tell you something too.
+   tell you something too. This is a small window into the thing that matters most:
+   [how the community handles complaints](/guides/why-good-communities-get-complaints/).
 4. **Discount the extremes, mine the middle.** Three-star reviews are usually written by the
    most honest reviewers; they contain the trade-offs you'll actually live with.
 5. **Then verify against the official record.** Reviews are impressions;

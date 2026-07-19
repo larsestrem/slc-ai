@@ -14,12 +14,14 @@ city: "eugene"
 city_name: "Eugene"
 address: "1282 Goodpasture Island Rd"
 zip: "97401"
+phone: "(541) 246-2828"
+website: "https://www.thespringsliving.com/senior-living/eugene/oregon/greer-gardens"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
 organization: "the-springs-living"
 organization_name: "The Springs Living"
 sources: ["https://www.assistedlivingcenter.com/facilities/or/eugene/the-springs-at-greer-gardens-97401/", "https://www.caring.com/senior-living/oregon/eugene/the-springs-at-greer-gardens-97401", "https://health.usnews.com/best-senior-living/the-springs-at-greer-gardens-5369"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Independent living, assisted living, and memory care community on a 14-acre property built on the site of Eugene's former Greer Gardens nursery. Operated by Oregon-based The Springs Living, the campus is known for its gardens and grounds."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/eugene/the-springs-at-greer-gardens-97401/"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/the-springs-at-greer-gardens-97401"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-springs-at-greer-gardens-5369"}]
 reviews_search_url: "https://www.google.com/search?q=The+Springs+at+Greer+Gardens+Eugene+OR+reviews"

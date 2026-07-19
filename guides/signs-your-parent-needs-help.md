@@ -42,7 +42,7 @@ The house often tells the truth before your parent will:
 
 ## Signs in safety
 
-- **Falls or near-falls.** Any fall is a medical event worth reporting to a doctor, and unexplained bruises — especially on arms, hips, or head — often mean falls your parent isn't mentioning. One in four older adults falls each year, and a fall is the single most common event that forces a rushed care decision.
+- **Falls or near-falls.** Any fall is a medical event worth reporting to a doctor, and unexplained bruises — especially on arms, hips, or head — often mean falls your parent isn't mentioning. Per the CDC, about one in four older adults falls each year, and a fall is the single most common event that forces a rushed care decision.
 - **Driving scares.** New dents and scrapes on the car or garage, getting lost on familiar routes, or friends quietly declining rides.
 - **Wandering or disorientation.** Getting lost in the neighborhood, confusion about time or place, or leaving doors unlocked and appliances on. These signs point toward a memory evaluation — see our [memory care guide](/guides/memory-care/).
 
@@ -71,7 +71,7 @@ Here's the insider insight: **IADLs almost always go first.** A parent who can s
 
 ## The honest truth about waiting
 
-Most families don't act on these signs. They wait — out of respect, uncertainty, or hope — until a crisis decides for them: a fall, a hospitalization, a kitchen fire. This is the most common path, and it is the worst one. Crisis decisions are made in days instead of months, from a hospital discharge list instead of a researched shortlist, at whatever facility has a bed instead of the right one, and often at higher cost. Families who [choose a facility](/guides/how-to-choose-a-senior-care-facility/) or arrange home care *before* the crisis get better care for less money and far less trauma. Acting on early signs isn't overreacting. It's the only way to keep the choices in your family's hands.
+Most families don't act on these signs. They wait — out of respect, uncertainty, or hope — until a crisis decides for them: a fall, a hospitalization, a kitchen fire. This is the most common path, and it is the worst one. Crisis decisions are made in days instead of months, from a hospital discharge list instead of a researched shortlist, at whatever facility has a bed instead of the right one, and often at higher cost. Families who [choose a facility](/guides/how-to-choose-a-senior-care-facility/) or arrange home care *before* the crisis are far more likely to get better care, at lower cost, with less trauma. Acting on early signs isn't overreacting. It's the only way to keep the choices in your family's hands.
 
 ## Common questions
 

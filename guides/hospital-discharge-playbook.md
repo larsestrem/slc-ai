@@ -49,7 +49,7 @@ When people say "Medicare covers 100 days of rehab," here's the fine print, brie
 - Days 1-20 are covered in full (traditional Medicare, after a qualifying stay).
 - Days 21-100 carry a daily coinsurance of roughly $200+ — a good Medigap policy usually picks this up.
 - Coverage lasts only while your parent needs **daily skilled care** — most rehab stays run 20-40 days, not 100.
-- If the facility says coverage is ending and you disagree, that decision can be appealed too. "She's plateaued" is not a legally valid reason to cut coverage.
+- If the facility says coverage is ending and you disagree, that decision can be appealed too. "She's plateaued" is not a valid reason to cut coverage under Medicare policy (per the Jimmo v. Sebelius settlement) — your SHIP counselor can help you appeal.
 
 ## Step 5: Vet the list in one evening
 

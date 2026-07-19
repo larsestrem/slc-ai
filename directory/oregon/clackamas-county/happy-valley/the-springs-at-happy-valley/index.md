@@ -14,13 +14,14 @@ city: "happy-valley"
 city_name: "Happy Valley"
 address: "13160 SE 172nd Ave"
 zip: "97086"
+phone: "(503) 658-8484"
 website: "https://www.thespringsliving.com/senior-living/happy-valley/oregon/happy-valley"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
 organization: "the-springs-living"
 organization_name: "The Springs Living"
 sources: ["https://www.thespringsliving.com/senior-living/happy-valley/oregon/happy-valley", "https://health.usnews.com/best-senior-living/the-springs-at-happy-valley-29485", "https://www.seniorly.com/assisted-living/oregon/happy-valley/the-springs-at-happy-valley"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "The Springs at Happy Valley is a newer-built senior living campus offering independent living, assisted living, and memory care in fast-growing Happy Valley, southeast of Portland. The community features spacious apartments, many with decks and territorial views, plus a gym, pool and hot tub, salon, art studio, and movie theater."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-springs-at-happy-valley-29485"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/oregon/happy-valley/the-springs-at-happy-valley"}]
 reviews_search_url: "https://www.google.com/search?q=The+Springs+at+Happy+Valley+Happy+Valley+OR+reviews"

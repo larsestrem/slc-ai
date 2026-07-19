@@ -15,9 +15,10 @@ city_name: "Hillsboro"
 address: "2550 SE Century Blvd"
 zip: "97123"
 phone: "(503) 259-8999"
+website: "https://www.rosewoodmemorycare.com/"
 care_levels: ["memory-care", "respite-care"]
 sources: ["https://www.aplaceformom.com/community/rosewood-memory-care-95940", "https://www.caring.com/senior-living/oregon/hillsboro/rosewood-memory-care-hillsboro", "https://www.yelp.com/biz/rosewood-memory-care-hillsboro"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Rosewood Memory Care is a dedicated memory care community in Hillsboro serving residents with Alzheimer's disease and other forms of dementia, with respite stays also available."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/rosewood-memory-care-95940"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/hillsboro/rosewood-memory-care-hillsboro"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/rosewood-memory-care-hillsboro"}]
 reviews_search_url: "https://www.google.com/search?q=Rosewood+Memory+Care+Hillsboro+OR+reviews"

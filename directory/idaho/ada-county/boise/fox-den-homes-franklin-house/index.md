@@ -20,7 +20,7 @@ facility_size: "small"
 organization: "fox-den-homes"
 organization_name: "Fox Den Homes"
 sources: ["https://seniorsbluebook.com/senior-housing/fox-den-homes-franklin-house", "https://www.foxdenidaho.com/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Fox Den Homes Franklin House is a small residential care home in Boise specializing in memory care for individuals with Alzheimer's and dementia. It is part of the Fox Den Homes group, which operates several nurse-run small homes across the Treasure Valley emphasizing personalized care and a home-like setting."
 reviews_search_url: "https://www.google.com/search?q=Fox+Den+Homes+Franklin+House+Boise+ID+reviews"
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}

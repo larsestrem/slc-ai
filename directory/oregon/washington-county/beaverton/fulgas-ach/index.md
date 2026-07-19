@@ -12,13 +12,14 @@ county: "washington"
 county_name: "Washington"
 city: "beaverton"
 city_name: "Beaverton"
+address: "16584 SW Hart Rd"
 zip: "97007"
 phone: "(503) 752-7742"
 care_levels: ["adult-family-home", "memory-care", "respite-care"]
 facility_size: "small"
 capacity: 5
 sources: ["https://www.aplaceformom.com/community/fulgas-ach-151085", "https://www.care.com/b/l/fulga-s-adult-care-home-inc/beaverton-or"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Fulga's Adult Care Home is a small Beaverton adult care home specializing in memory, diabetic, and incontinence care, with skilled nursing on site and both hospice and respite options. The owner has been a caregiver for over fourteen years and a nurse for over eight."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fulgas-ach-151085"}]
 reviews_search_url: "https://www.google.com/search?q=Fulga%27s+ACH+Beaverton+OR+reviews"

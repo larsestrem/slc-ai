@@ -20,7 +20,7 @@ care_levels: ["assisted-living"]
 organization: "avista-senior-living"
 organization_name: "Avista Senior Living"
 sources: ["https://www.aplaceformom.com/community/avista-twin-falls-52648", "https://avistaseniorliving.com/twin-falls/", "https://health.usnews.com/best-senior-living/avista-twin-falls-2367"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Avista Twin Falls is an assisted living community that earned a Gold Award in Idaho's Residential Assisted Living Facility Program with zero citations, placing it among the top tier of senior living communities nationwide."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/avista-twin-falls-52648"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/avista-twin-falls-2367"}]
 reviews_search_url: "https://www.google.com/search?q=Avista+Twin+Falls+Twin+Falls+ID+reviews"

@@ -1,6 +1,6 @@
 ---
 layout: "state"
-care_level_counts: [{"slug": "assisted-living", "count": 76}, {"slug": "memory-care", "count": 72}, {"slug": "independent-living", "count": 59}, {"slug": "skilled-nursing", "count": 37}, {"slug": "adult-family-home", "count": 28}, {"slug": "respite-care", "count": 16}, {"slug": "ccrc", "count": 7}]
+care_level_counts: [{"slug": "assisted-living", "count": 75}, {"slug": "memory-care", "count": 73}, {"slug": "independent-living", "count": 60}, {"slug": "skilled-nursing", "count": 37}, {"slug": "adult-family-home", "count": 28}, {"slug": "respite-care", "count": 16}, {"slug": "ccrc", "count": 7}]
 title: "Washington Senior Living"
 seo_title: "Senior Living in Washington — Assisted Living, Memory Care & Nursing Homes"
 description: "Find senior living in Washington: 138 communities across 53 cities, organized by region with care levels and inspection links."

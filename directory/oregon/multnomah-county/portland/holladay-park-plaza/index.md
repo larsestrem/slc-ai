@@ -14,11 +14,12 @@ city: "portland"
 city_name: "Portland"
 address: "1300 NE 16th Ave"
 zip: "97232"
+phone: "(503) 288-6671"
 website: "https://www.holladayparkplaza.org/"
 care_levels: ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"]
 facility_size: "large"
 sources: ["https://www.holladayparkplaza.org/", "https://www.carechanges.com/living-communities/holladay-park-plazacontinuing-care-retirement-com_portland_oregon/", "https://health.usnews.com/best-senior-living/holladay-park-plaza-29272"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Holladay Park Plaza is a nonprofit continuing care retirement community in Portland's Lloyd District, affiliated with Pacific Retirement Services. It offers independent living across more than 30 floor plans in three buildings, plus residential (assisted) living, memory care, and on-site skilled nursing. Residents are steps from the MAX light rail, Lloyd Center, and downtown Portland."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/holladay-park-plaza-29272"}]
 reviews_search_url: "https://www.google.com/search?q=Holladay+Park+Plaza+Portland+OR+reviews"

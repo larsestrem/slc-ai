@@ -19,7 +19,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["https://www.aplaceformom.com/community/divine-home-health-adult-family-home-98163", "https://www.senioradvice.com/providers/view/divine-home-health-adult-family-home-bellevue-wa"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 specialties: ["Dementia"]
 description_full: "Divine Home Health Adult Family Home is a six-bed licensed adult family home near Lake Sammamish in Bellevue, with six private bedrooms and private bathrooms. It offers memory care and 24-hour care in a home-like setting. The provider has more than a decade of caregiving experience."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/divine-home-health-adult-family-home-98163"}, {"name": "SeniorAdvice", "url": "https://www.senioradvice.com/providers/view/divine-home-health-adult-family-home-bellevue-wa"}]

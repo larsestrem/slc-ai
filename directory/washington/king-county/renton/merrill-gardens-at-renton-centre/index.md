@@ -14,12 +14,13 @@ city: "renton"
 city_name: "Renton"
 address: "104 Burnett Ave S"
 zip: "98057"
+phone: "(425) 272-1193"
 website: "https://www.merrillgardens.com/senior-living/wa/renton/merrill-gardens-at-renton-centre/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "merrill-gardens"
 organization_name: "Merrill Gardens"
 sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-renton-centre-138586", "https://www.merrillgardens.com/senior-living/wa/renton/merrill-gardens-at-renton-centre/", "https://www.yelp.com/biz/merrill-gardens-at-renton-centre-renton-3"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-renton-centre-138586"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-renton-centre-renton-3"}]
 reviews_search_url: "https://www.google.com/search?q=Merrill+Gardens+at+Renton+Centre+Renton+WA+reviews"

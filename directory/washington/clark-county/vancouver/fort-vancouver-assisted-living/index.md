@@ -18,7 +18,7 @@ phone: "(360) 256-2980"
 care_levels: ["assisted-living"]
 facility_size: "medium"
 sources: ["https://www.aplaceformom.com/community/fort-vancouver-assisted-living-71980", "https://www.senioradvisor.com/local/park-lido-inc-vancouver-wa", "https://www.caring.com/senior-living/washington/vancouver/fort-vancouver-assisted-living"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Fort Vancouver Assisted Living is an assisted living community at 8422 NE 8th Way in Vancouver. It is licensed by the State of Washington."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fort-vancouver-assisted-living-71980"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/park-lido-inc-vancouver-wa"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/vancouver/fort-vancouver-assisted-living"}]
 reviews_search_url: "https://www.google.com/search?q=Fort+Vancouver+Assisted+Living+Vancouver+WA+reviews"

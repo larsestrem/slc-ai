@@ -19,7 +19,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["https://www.aplaceformom.com/community/ravancho-afh-147057", "https://www.seniorhousingnet.com/seniorliving-detail/ravancho-afh_1130-canna-ct-se_olympia_wa_98513-637248"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 specialties: ["Dementia"]
 description_full: "Ravancho AFH is a licensed six-bed adult family home in Olympia providing Alzheimer's care and assisted living across a range of care levels. It offers a small, home-like setting with 24-hour care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/ravancho-afh-147057"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/ravancho-afh_1130-canna-ct-se_olympia_wa_98513-637248"}]

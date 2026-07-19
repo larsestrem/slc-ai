@@ -15,10 +15,11 @@ city_name: "Milwaukie"
 address: "13505 SE River Rd"
 zip: "97222"
 phone: "(503) 654-3171"
+website: "https://www.rosevilla.org/"
 care_levels: ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"]
 facility_size: "large"
 sources: ["https://www.caring.com/senior-living/oregon/portland/rose-villa-97222", "https://health.usnews.com/best-senior-living/rose-villa-13456", "https://www.familyassets.com/continuing-care-retirement-communities/oregon/portland/rose-villa-senior-living-community"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "A nonprofit, single-site continuing care retirement community on 22 acres on a bluff above the Willamette River, offering cottage homes and a full continuum from independent living through 24-hour nursing care. Amenities include a pool, spa, gym, library, and rentable artist studios."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/portland/rose-villa-97222"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/rose-villa-13456"}]
 reviews_search_url: "https://www.google.com/search?q=Rose+Villa+Senior+Living+Community+Milwaukie+OR+reviews"

@@ -14,13 +14,13 @@ city: "honolulu"
 city_name: "Honolulu"
 address: "918 Lunalilo St"
 zip: "96822"
-website: "https://www.theplazaassistedliving.com"
-care_levels: ["independent-living", "assisted-living"]
+website: "https://www.theplazaassistedliving.com/location/punchbowl/"
+care_levels: ["independent-living", "assisted-living", "memory-care", "respite-care"]
 facility_size: "large"
 organization: "the-plaza-assisted-living"
 organization_name: "The Plaza Assisted Living"
 sources: ["https://www.seniorcareauthority.com/assisted-living/the-plaza-at-punchbowl-in-honolulu-the-plaza-at-punchbowl.html", "https://www.assistedlivingcenter.com/facilities/hi/honolulu/the-plaza-at-punchbowl-96822/", "https://www.yelp.com/biz/the-plaza-at-punchbowl-honolulu-2", "https://www.caring.com/senior-living/hawaii/honolulu/the-plaza-at-punchbowl"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "The Plaza at Punchbowl is a multistory senior living community near downtown Honolulu operated by Hawaii-based The Plaza Assisted Living, offering independent living and assisted living."
 review_links: [{"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/the-plaza-at-punchbowl-in-honolulu-the-plaza-at-punchbowl.html"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/hi/honolulu/the-plaza-at-punchbowl-96822/"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-plaza-at-punchbowl-honolulu-2"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/honolulu/the-plaza-at-punchbowl"}]
 reviews_search_url: "https://www.google.com/search?q=The+Plaza+at+Punchbowl+Honolulu+HI+reviews"

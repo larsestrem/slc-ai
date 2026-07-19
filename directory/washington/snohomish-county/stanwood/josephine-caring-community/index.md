@@ -15,12 +15,13 @@ city_name: "Stanwood"
 address: "9901 272nd Place NW"
 zip: "98292"
 phone: "(360) 629-2126"
+website: "https://www.josephinecc.com/"
 care_levels: ["assisted-living", "memory-care", "skilled-nursing"]
 facility_size: "large"
 capacity: 160
 cms_ccn: "505465"
 sources: ["https://www.nursinghomedatabase.com/snf/505465", "https://www.seniorcare.com/nursing-homes/wa/stanwood/josephine-caring-community/505465/", "https://health.usnews.com/best-nursing-homes/area/wa/josephine-caring-community-505465"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Josephine Caring Community is a nonprofit senior care campus in Stanwood offering skilled nursing, short-term rehabilitation, memory care, and assisted living."
 review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/505465"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/josephine-caring-community-505465"}]
 reviews_search_url: "https://www.google.com/search?q=Josephine+Caring+Community+Stanwood+WA+reviews"

@@ -19,7 +19,7 @@ care_levels: ["adult-family-home"]
 facility_size: "small"
 capacity: 5
 sources: ["https://www.assistedlivingcenter.com/facilities/or/hillsboro/regina-adult-foster-home-97123/", "https://www.senioradvisor.com/local/regina-adult-foster-home-hillsboro-or", "https://www.seniorhousingnet.com/seniorliving-detail/regina-adult-foster-home_7061-se-borwick-st_hillsboro_or_97123-630453"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Regina Adult Foster Home is a purpose-built five-bedroom adult foster home in Hillsboro owned and operated by Regina Asare, RN, who has more than 15 years of general and geriatric nursing experience."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/hillsboro/regina-adult-foster-home-97123/"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/regina-adult-foster-home-hillsboro-or"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/regina-adult-foster-home_7061-se-borwick-st_hillsboro_or_97123-630453"}]
 reviews_search_url: "https://www.google.com/search?q=Regina+Adult+Foster+Home+Hillsboro+OR+reviews"

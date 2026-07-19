@@ -23,7 +23,7 @@ organization: "cascadia-healthcare"
 organization_name: "Cascadia Healthcare"
 cms_ccn: "135014"
 sources: ["https://www.healthcare4ppl.com/nursing-home/idaho/caldwell/caldwell-care-of-cascadia-135014.html", "https://www.caldwellcareofcascadia.com/", "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-idaho/", "https://www.medicare.gov/care-compare/details/nursing-home/135014/view-all/?state=ID"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 serious_concern: true
 concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
 concern_type: "Federal fine (approximately $114,000) tied to a complaint investigation"

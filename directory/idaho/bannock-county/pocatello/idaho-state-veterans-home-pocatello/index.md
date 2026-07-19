@@ -14,6 +14,7 @@ city: "pocatello"
 city_name: "Pocatello"
 address: "1957 Alvin Ricken Dr"
 zip: "83201"
+phone: "(208) 235-7800"
 website: "https://veterans.idaho.gov/veterans-home/pocatello/"
 care_levels: ["skilled-nursing"]
 facility_size: "large"
@@ -22,7 +23,7 @@ organization: "idaho-division-of-veterans-services"
 organization_name: "Idaho Division of Veterans Services"
 cms_ccn: "135132"
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/idaho-state-veterans-home-pocatello-135132", "https://www.medicare.gov/care-compare/details/nursing-home/135132"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Pocatello, run by the Idaho Division of Veterans Services. Provides long-term and rehabilitative skilled nursing care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/idaho-state-veterans-home-pocatello-135132"}]
 reviews_search_url: "https://www.google.com/search?q=Idaho+State+Veterans+Home+-+Pocatello+Pocatello+ID+reviews"

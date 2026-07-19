@@ -49,7 +49,7 @@ Be clear-eyed about one thing: hospice does not provide 24-hour caregiving at ho
 
 ## The insider truth: almost everyone starts too late
 
-Hospice teams and bereaved families say the same thing with remarkable consistency: *we should have called sooner.* Roughly half of hospice patients nationally are enrolled for under three weeks, and many for just days — which means families exhaust themselves managing pain, panic, and 2 a.m. crises alone for months, then finally get a full support team in the last week of life.
+Hospice teams and bereaved families say the same thing with remarkable consistency: *we should have called sooner.* National hospice data (NHPCO) has found roughly half of hospice patients enrolled for under three weeks, and many for just days — which means families exhaust themselves managing pain, panic, and 2 a.m. crises alone for months, then finally get a full support team in the last week of life.
 
 Months of hospice buys pain that's actually controlled, a nurse who knows your parent, time for real conversations, and a family that isn't running on fumes. Days of hospice buys a hurried crisis response. Starting early doesn't hasten anything — research suggests hospice patients often live as long or longer than similar patients pursuing aggressive treatment, likely because comfort, monitoring, and fewer hospitalizations are their own medicine.
 

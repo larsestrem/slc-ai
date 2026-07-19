@@ -18,7 +18,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["https://www.aplaceformom.com/community/camas-hills-care-home-1378934", "https://carelistings.com/assisted-living-homes/camas-wa/camas-hills-care-home/5acd0290a71d8c15cf696338"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 licensed_since: 2010
 description_full: "Camas Hills Care Home is a licensed 6-bed adult family home in Camas, family-owned and operated since 2010. It offers six private suites with private bathrooms and states specialized training in mental health and dementia, caring for all levels including hospice."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/camas-hills-care-home-1378934"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/camas-wa/camas-hills-care-home/5acd0290a71d8c15cf696338"}]

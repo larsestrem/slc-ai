@@ -12,12 +12,13 @@ county: "honolulu"
 county_name: "Honolulu"
 city: "waipahu"
 city_name: "Waipahu"
+address: "94-559 Apii Place"
 zip: "96797"
 care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 5
 sources: ["https://www.aplaceformom.com/community/serenity-hawaii-care-home-1402839", "https://www.caring.com/senior-living/hawaii/waipahu/serenity-hawaii-care-home"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Serenity Hawaii Care Home is a small Adult Residential Care Home (Level 1) in a residential Waipahu neighborhood near Pearl Harbor, hosting up to five residents. The operator is described as experienced and specialized in Alzheimer's care and rehabilitation."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/serenity-hawaii-care-home-1402839"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/waipahu/serenity-hawaii-care-home"}]
 reviews_search_url: "https://www.google.com/search?q=Serenity+Hawaii+Care+Home+Waipahu+HI+reviews"

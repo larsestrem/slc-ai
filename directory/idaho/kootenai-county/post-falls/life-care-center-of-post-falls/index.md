@@ -14,6 +14,7 @@ city: "post-falls"
 city_name: "Post Falls"
 address: "460 N Garden Plaza Ct"
 zip: "83854"
+phone: "(208) 777-0318"
 website: "https://lcca.com/locations/id/post-falls/"
 care_levels: ["skilled-nursing"]
 facility_size: "large"
@@ -22,7 +23,7 @@ organization: "life-care-centers-of-america"
 organization_name: "Life Care Centers of America"
 cms_ccn: "135135"
 sources: ["https://lcca.com/locations/id/post-falls/", "https://www.medicare.gov/care-compare/details/nursing-home/135142"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. Provides short-term rehab and long-term skilled care."
 reviews_search_url: "https://www.google.com/search?q=Life+Care+Center+of+Post+Falls+Post+Falls+ID+reviews"
 ---

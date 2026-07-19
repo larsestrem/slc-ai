@@ -15,9 +15,10 @@ city_name: "University Place"
 address: "5250 Bridgeport Way W"
 zip: "98467"
 phone: "(253) 565-1960"
+website: "https://www.bridgeport.place/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 sources: ["https://reviews.birdeye.com/bridgeport-place-assisted-living-157269831319314", "https://www.aplaceformom.com/community/bridgeport-place-95381", "https://www.yelp.com/biz/bridgeport-place-university-place"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/bridgeport-place-assisted-living-157269831319314"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bridgeport-place-95381"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/bridgeport-place-university-place"}]
 reviews_search_url: "https://www.google.com/search?q=Bridgeport+Place+University+Place+WA+reviews"

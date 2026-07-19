@@ -22,7 +22,7 @@ capacity: 28
 organization: "trustwell-living"
 organization_name: "Trustwell Living"
 sources: ["https://www.aplaceformom.com/community/trustwell-living-at-astor-place-59779", "https://www.ohca.com/facility-finder/trustwell-living-at-astor-place/", "https://www.trustwellliving.com/communities/astor-place/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "A 28-bed assisted living community on Klaskanine Avenue in Astoria, also offering respite and short-term stays. Part of the national Trustwell Living portfolio."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/trustwell-living-at-astor-place-59779"}]
 reviews_search_url: "https://www.google.com/search?q=Trustwell+Living+at+Astor+Place+Astoria+OR+reviews"

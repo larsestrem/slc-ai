@@ -21,7 +21,7 @@ facility_size: "large"
 organization: "good-samaritan-society"
 organization_name: "Good Samaritan Society"
 sources: ["https://www.good-sam.com/locations/pohai-nani", "https://olera.care/provider/good-samaritan-society-pohai-nani", "https://www.yelp.com/biz/good-samaritan-society-kaneohe", "https://www.seniorly.com/continuing-care-retirement-community/hawaii/kaneohe/good-samaritan-society-pohai-nani"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Pohai Nani is a continuing care retirement community operated by the nonprofit Good Samaritan Society on a 16-acre campus in Kaneohe, with views of the Ko'olau Mountains and Kaneohe Bay."
 review_links: [{"name": "Olera", "url": "https://olera.care/provider/good-samaritan-society-pohai-nani"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/good-samaritan-society-kaneohe"}, {"name": "Seniorly", "url": "https://www.seniorly.com/continuing-care-retirement-community/hawaii/kaneohe/good-samaritan-society-pohai-nani"}]
 reviews_search_url: "https://www.google.com/search?q=Good+Samaritan+Society+-+Pohai+Nani+Kaneohe+HI+reviews"

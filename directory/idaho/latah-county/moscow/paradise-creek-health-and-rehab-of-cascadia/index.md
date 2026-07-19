@@ -22,12 +22,12 @@ capacity: 64
 organization: "cascadia-healthcare"
 organization_name: "Cascadia Healthcare"
 sources: ["https://www.paradisecreekofcascadia.com/", "https://health.usnews.com/best-nursing-homes/area/id/paradise-creek-health-and-rehab-of-cascadia-135067", "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-idaho/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 serious_concern: true
 concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
-concern_type: "Pattern of federal fines since 2023 tied to quality-of-life and abuse/neglect-prevention deficiencies"
+concern_type: "A pattern of federal enforcement fines in recent years, per CMS enforcement records"
 concern_status: "Confirm current enforcement status directly"
-concern_source_url: "https://health.usnews.com/best-nursing-homes/area/id/paradise-creek-health-and-rehab-of-cascadia-135067"
+concern_source_url: "https://projects.propublica.org/nursing-homes/homes/h-135067"
 description_full: "Paradise Creek Health and Rehab of Cascadia is a 64-bed Medicare- and Medicaid-certified skilled nursing facility in Moscow, offering short-term rehabilitation and long-term nursing care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/paradise-creek-health-and-rehab-of-cascadia-135067"}]
 reviews_search_url: "https://www.google.com/search?q=Paradise+Creek+Health+and+Rehab+of+Cascadia+Moscow+ID+reviews"

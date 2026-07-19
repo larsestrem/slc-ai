@@ -15,11 +15,12 @@ city_name: "Oregon City"
 address: "148 Hood Street"
 zip: "97045"
 phone: "(503) 656-4035"
+website: "https://rivercrestpa.com/"
 care_levels: ["skilled-nursing"]
 facility_size: "medium"
 capacity: 53
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385245/", "https://www.nursinghomedatabase.com/snf/385245", "https://ltclicensing.oregon.gov/Facilities/Details/385245"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Rivercrest Post Acute is a 53-bed Medicare- and Medicaid-certified skilled nursing facility in Oregon City offering short-term rehabilitation and long-term nursing care."
 review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/385245"}]
 reviews_search_url: "https://www.google.com/search?q=Rivercrest+Post+Acute+Oregon+City+OR+reviews"

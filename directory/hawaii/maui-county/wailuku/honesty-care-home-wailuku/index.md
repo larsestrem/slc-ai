@@ -12,13 +12,13 @@ county: "maui"
 county_name: "Maui"
 city: "wailuku"
 city_name: "Wailuku"
-address: "775 South Analio Street"
+address: "775 Analio Street"
 zip: "96793"
 care_levels: ["adult-family-home", "assisted-living", "memory-care"]
 facility_size: "small"
 capacity: 5
 sources: ["https://health.hawaii.gov/ohca/files/2024/10/Honesty-SODPOC-10.10.2024.pdf", "https://www.seniorly.com/assisted-living/hawaii/wailuku/honesty"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Honesty is a small, state-licensed 5-bed care home for the elderly in Wailuku, Maui, offering assisted living and memory care services in a residential setting. It has an official Hawaii DOH Office of Health Care Assurance survey record on file."
 review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/wailuku/honesty"}]
 reviews_search_url: "https://www.google.com/search?q=Honesty+Wailuku+HI+reviews"

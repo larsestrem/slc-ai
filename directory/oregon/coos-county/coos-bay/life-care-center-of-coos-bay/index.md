@@ -14,7 +14,8 @@ city: "coos-bay"
 city_name: "Coos Bay"
 address: "2890 Ocean Blvd"
 zip: "97420"
-website: "https://www.lifecarecenterofcoosbay.com/"
+phone: "(541) 267-5433"
+website: "https://lcca.com/locations/or/coos-bay/"
 care_levels: ["skilled-nursing", "respite-care"]
 facility_size: "large"
 capacity: 114
@@ -22,7 +23,7 @@ organization: "life-care-centers-of-america"
 organization_name: "Life Care Centers of America"
 cms_ccn: "385157"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/life-care-center-of-coos-bay-385157", "https://www.medicare.gov/care-compare/details/nursing-home/385157/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A 114-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation center on Ocean Boulevard in Coos Bay, operated by Life Care Centers of America. It provides short-term post-hospital rehabilitation and long-term nursing care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/life-care-center-of-coos-bay-385157"}]
 reviews_search_url: "https://www.google.com/search?q=Life+Care+Center+of+Coos+Bay+Coos+Bay+OR+reviews"

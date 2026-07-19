@@ -23,7 +23,7 @@ organization: "sisters-of-st-mary-of-oregon"
 organization_name: "Sisters of St. Mary of Oregon"
 cms_ccn: "385166"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385166/", "https://ssmo.org/maryville/", "https://ltclicensing.oregon.gov/Facilities/Details/385166"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Maryville Nursing Home is a 165-bed Medicare- and Medicaid-certified skilled nursing facility in Beaverton, sponsored by the Sisters of St. Mary of Oregon, offering short-term rehabilitation and long-term nursing care."
 reviews_search_url: "https://www.google.com/search?q=Maryville+Nursing+Home+Beaverton+OR+reviews"
 ---

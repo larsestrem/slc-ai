@@ -20,7 +20,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["https://www.aplaceformom.com/community/a-serenity-adult-family-home-139217", "https://adultfamilyhomecouncil.org/home-finder/757831-at-serenity-afh-llc", "https://www.atserenityafh.com/contact.html"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 license_id: "757831"
 licensed_since: 2005
 specialties: ["Dementia", "Mental Health"]

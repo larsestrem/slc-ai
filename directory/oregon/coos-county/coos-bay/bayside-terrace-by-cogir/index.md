@@ -20,7 +20,7 @@ care_levels: ["assisted-living", "memory-care"]
 organization: "cogir-senior-living"
 organization_name: "Cogir Senior Living"
 sources: ["https://cogirusa.com/communities/bayside-terrace/", "https://ultimateseniorresource.com/states/oregon/coos-bay/bayside-terrace-by-cogir", "https://www.aplaceformom.com/community/bayside-terrace-by-cogir-60158"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Bayside Terrace by Cogir is an assisted living and memory care community in Coos Bay offering studio, one-bedroom, and two-bedroom apartments."
 review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/oregon/coos-bay/bayside-terrace-by-cogir"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bayside-terrace-by-cogir-60158"}]
 reviews_search_url: "https://www.google.com/search?q=Bayside+Terrace+by+Cogir+Coos+Bay+OR+reviews"

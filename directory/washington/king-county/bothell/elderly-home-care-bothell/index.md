@@ -14,13 +14,13 @@ city: "bothell"
 city_name: "Bothell"
 address: "15018 Simonds Rd NE"
 zip: "98011"
-phone: "(425) 286-6938"
+phone: "(425) 443-8254"
 website: "https://www.elderlyhomecareafh.com/"
 care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["https://www.aplaceformom.com/community/elderly-home-care-99483", "https://www.elderlyhomecareafh.com/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 specialties: ["Dementia"]
 description_full: "Elderly Home Care is a licensed six-bed adult family home in Bothell owned and operated by Veronica Dudau, a healthcare professional with more than 20 years of long-term care experience. It offers assisted living and memory care with a high caregiver-to-resident ratio."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/elderly-home-care-99483"}]

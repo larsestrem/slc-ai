@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living"]
 organization: "leisure-care"
 organization_name: "Leisure Care"
 sources: ["https://www.aplaceformom.com/community/washington-oakes-71517", "https://www.leisurecare.com/our-communities/washington-oakes/", "https://www.senioradvisor.com/local/washington-oakes-retirement-community-everett-wa"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Independent and assisted living community in downtown Everett managed by Leisure Care, voted Best Independent Living and Best Assisted Living by U.S. News resident and family surveys."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/washington-oakes-71517"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/washington-oakes-retirement-community-everett-wa"}]
 reviews_search_url: "https://www.google.com/search?q=Washington+Oakes+Everett+WA+reviews"

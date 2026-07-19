@@ -15,13 +15,13 @@ city_name: "Portland"
 address: "10606 SW Capitol Hwy"
 zip: "97219"
 phone: "(503) 244-9500"
-website: "https://www.koelschcommunities.com/community/markham-house/"
+website: "https://markhamsl.com/"
 care_levels: ["assisted-living"]
 facility_size: "medium"
 organization: "koelsch-communities"
 organization_name: "Koelsch Communities"
 sources: ["https://www.aplaceformom.com/community/markham-house-assisted-living-59897", "https://www.koelschcommunities.com/community/markham-house/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A Koelsch Communities assisted living community on SW Capitol Highway in southwest Portland's Multnomah Village area. It provides personalized assisted living with dining, activities, and 24-hour care staff in a homelike setting."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/markham-house-assisted-living-59897"}]
 reviews_search_url: "https://www.google.com/search?q=Markham+House+Portland+OR+reviews"

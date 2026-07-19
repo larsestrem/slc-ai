@@ -14,6 +14,7 @@ city: "portland"
 city_name: "Portland"
 address: "6010 SW Shattuck Rd"
 zip: "97221"
+phone: "(503) 246-8811"
 website: "https://www.marquiscompanies.com/facility/marquis-vermont-hills/"
 care_levels: ["skilled-nursing", "respite-care"]
 facility_size: "large"
@@ -22,7 +23,7 @@ organization: "marquis-companies"
 organization_name: "Marquis Companies"
 cms_ccn: "385218"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-vermont-hills-385218", "https://www.medicare.gov/care-compare/details/nursing-home/385218/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A 73-bed skilled nursing and post-acute rehabilitation center in southwest Portland operated by Marquis Companies. Services include rehabilitation therapy, wound care, and long-term nursing."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/marquis-vermont-hills-385218"}]
 reviews_search_url: "https://www.google.com/search?q=Marquis+Vermont+Hills+Portland+OR+reviews"

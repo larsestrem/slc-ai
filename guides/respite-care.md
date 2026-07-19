@@ -31,7 +31,7 @@ Stays typically run from a few days to about a month. Some communities set a min
 
 ## Using respite to test-drive your shortlist
 
-Here's what insiders know: a tour shows you the lobby; a respite stay shows you the community. If you've narrowed your search to two or three communities, ask each whether they offer respite. A stay reveals the things tours hide — how fast staff answer the call button at 2 a.m., whether the food is good on a random Tuesday, whether residents seem happy, whether your parent clicks with anyone.
+Here's what insiders know: a tour shows you the lobby; a respite stay shows you the community. If you've narrowed your search to two or three communities, ask each whether they offer respite. A stay reveals the things a tour can't show you — how fast staff answer the call button at 2 a.m., whether the food is good on a random Tuesday, whether residents seem happy, whether your parent clicks with anyone.
 
 Many communities will apply some or all of the respite fees toward the move-in fee if your parent converts to permanent residency. Ask up front. And frame the stay honestly with your parent: this is a visit with a return ticket. That return ticket is exactly what makes it emotionally possible to say yes.
 

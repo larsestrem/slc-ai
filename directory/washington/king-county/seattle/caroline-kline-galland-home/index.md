@@ -22,7 +22,7 @@ organization: "kline-galland"
 organization_name: "Kline Galland"
 cms_ccn: "505442"
 sources: ["https://www.klinegalland.org/", "https://www.nursinghomedatabase.com/snf/505442", "https://health.usnews.com/best-nursing-homes/area/wa/caroline-kline-galland-home-505442"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Nonprofit Jewish-heritage skilled nursing and rehabilitation campus on the shores of Lake Washington in Seward Park, serving Seattle since 1914."
 review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/505442"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/caroline-kline-galland-home-505442"}]
 reviews_search_url: "https://www.google.com/search?q=Caroline+Kline+Galland+Home+Seattle+WA+reviews"

@@ -68,7 +68,7 @@ This is the honest truth behind the "we can handle anything" tour promise: assis
 
 ## Aging in place: the limits and the discharge triggers
 
-Marketing says "age in place." Contracts say otherwise — and this is the fine print families miss most often. Every assisted living agreement lists conditions under which the community can require a move-out, typically with 30 days' notice. Common triggers:
+Marketing says "age in place." Contracts often say otherwise — and this is the fine print families miss most often. Every assisted living agreement lists conditions under which the community can require a move-out, typically with 30 days' notice. Common triggers:
 
 - Care needs that exceed what the state license or the building's staffing allows (often: two-person transfers, or being unable to bear weight).
 - Wandering or exit-seeking behavior in a building that isn't secured for dementia.

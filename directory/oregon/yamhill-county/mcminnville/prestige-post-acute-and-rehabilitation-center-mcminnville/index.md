@@ -22,7 +22,7 @@ organization: "prestige-care"
 organization_name: "Prestige Care"
 cms_ccn: "385225"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385225/", "https://www.mycaringplan.com/senior-living/prestige-post-acute-and-rehabilitation-center-mcminnville/", "https://ltclicensing.oregon.gov/Facilities/Details/385225"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Prestige Post-Acute and Rehabilitation Center - McMinnville is a 96-bed Medicare- and Medicaid-certified skilled nursing facility operated by Prestige Care, offering short-term rehabilitation and long-term nursing care."
 review_links: [{"name": "My Caring Plan", "url": "https://www.mycaringplan.com/senior-living/prestige-post-acute-and-rehabilitation-center-mcminnville/"}]
 reviews_search_url: "https://www.google.com/search?q=Prestige+Post-Acute+and+Rehabilitation+Center+-+McMinnville+McMinnville+OR+reviews"

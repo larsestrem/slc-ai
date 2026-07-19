@@ -19,7 +19,7 @@ care_levels: ["adult-family-home"]
 facility_size: "small"
 capacity: 6
 sources: ["https://carelistings.com/assisted-living-homes/kent-wa/namaste-adult-family-home/5acd0296a71d8c15cf696b5a", "https://adultfamilyhomecouncil.org/home-finder/753668-namaste-adult-family-home-llc"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 license_id: "753668"
 description_full: "Namaste Adult Family Home is a licensed six-bed adult family home in Kent, family-owned and operated by a husband-and-wife team. It provides personal care, medication management, meals and 24-hour supervision in a home-like setting."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/kent-wa/namaste-adult-family-home/5acd0296a71d8c15cf696b5a"}]

@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "merrill-gardens"
 organization_name: "Merrill Gardens"
 sources: ["https://www.merrillgardens.com/senior-living/wa/auburn/merrill-gardens-at-auburn/", "https://www.aplaceformom.com/community/merrill-gardens-at-auburn-1398129", "https://www.yelp.com/biz/merrill-gardens-at-auburn-auburn"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Merrill Gardens at Auburn sits in downtown Auburn steps from shops and transit, offering independent living, assisted living, and memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-auburn-1398129"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-auburn-auburn"}]
 reviews_search_url: "https://www.google.com/search?q=Merrill+Gardens+at+Auburn+Auburn+WA+reviews"

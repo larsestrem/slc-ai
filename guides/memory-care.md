@@ -28,7 +28,7 @@ Memory care exists as secured wings inside assisted living communities, standalo
 
 ## What distinguishes good memory care
 
-Here's the uncomfortable truth: "memory care" is mostly a marketing term, not a separately regulated standard in many states. Some communities charge a memory care premium for what is essentially assisted living behind a locked door. The differences that matter are invisible on a brochure:
+Here's what surprises families: in many states, "memory care" is not a separately regulated standard — so the label alone guarantees little, and what sits behind it varies widely from one community to the next. The differences that matter are invisible on a brochure:
 
 - **Staff training depth.** Ask how many hours of dementia-specific training caregivers get at hire and each year, and who delivers it. "Our staff are trained" with no numbers is a non-answer.
 - **Staff consistency.** Dementia care runs on familiarity. Heavy use of agency (temp) staff is a genuine red flag in memory care specifically — a stranger giving a shower is terrifying to someone with dementia.
@@ -51,7 +51,7 @@ Families usually wait too long — not from neglect, but because decline is grad
 - **Wandering or exit-seeking.** Once your parent tries to leave or gets lost, an unsecured building is a safety emergency, not a lifestyle choice.
 - **Care refusal that staff can't work around.** Regular assisted living staff often lack the training to bathe or medicate someone who resists out of fear.
 - **Rising anxiety, agitation, or sundowning** that the current setting makes worse — big dining rooms and busy hallways can be overwhelming.
-- **Isolation.** When your parent can no longer follow activities or conversations, they often withdraw to their room. A good memory care program meets them at their level; assisted living quietly leaves them behind.
+- **Isolation.** When your parent can no longer follow activities or conversations, they often withdraw to their room. A good memory care program meets them at their level; a general assisted living program often isn't equipped to.
 - **The community tells you.** Most assisted living agreements let the facility require a move when needs exceed the license or staffing. Better to choose the memory care unit on your timeline than theirs, in a rush, after an incident.
 
 One insider insight: a move done earlier, while your parent can still form new routines and staff can learn who they are, almost always goes better than a move forced by crisis. "Not yet" often means "harder later."

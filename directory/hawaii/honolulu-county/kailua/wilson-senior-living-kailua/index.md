@@ -14,11 +14,13 @@ city: "kailua"
 city_name: "Kailua"
 address: "96 Kaneohe Bay Drive"
 zip: "96734"
+phone: "(808) 596-4486"
+website: "https://wilsoncare.com/long-term-stay/"
 care_levels: ["assisted-living"]
 facility_size: "medium"
 capacity: 19
 sources: ["https://www.aplaceformom.com/community/wilson-senior-living-kailua-1364767", "https://www.caring.com/senior-living/hawaii/kailua/wilson-senior-living-kailua-hawaii", "https://www.assistedlivingcenter.com/facilities/hi/kailua/wilson-senior-living-kailua-96734/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Wilson Senior Living Kailua is a newer adult residential care home in the Aikahi area of Kailua, Oahu, with 19 private, ADA-compliant rooms. It offers assisted living-level care and services."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/wilson-senior-living-kailua-1364767"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/kailua/wilson-senior-living-kailua-hawaii"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/hi/kailua/wilson-senior-living-kailua-96734/"}]
 reviews_search_url: "https://www.google.com/search?q=Wilson+Senior+Living+Kailua+Kailua+HI+reviews"

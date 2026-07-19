@@ -20,7 +20,7 @@ care_levels: ["adult-family-home"]
 facility_size: "small"
 capacity: 5
 sources: ["https://carelistings.com/assisted-living-homes/portland-or/orchard-care-home/5acd0265a71d8c15cf692e2a", "https://careavailability.com/provider/orchard-adult-care-home/", "https://orchardach.com"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Orchard Care Home is a Class 2 adult foster home in east Portland licensed for 5 residents. The home provides family-style residential care with medication management, home-cooked meals, housekeeping, and personalized attention in a single-family neighborhood setting."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/portland-or/orchard-care-home/5acd0265a71d8c15cf692e2a"}]
 reviews_search_url: "https://www.google.com/search?q=Orchard+Care+Home+Portland+OR+reviews"

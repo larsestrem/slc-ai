@@ -22,7 +22,7 @@ capacity: 115
 organization: "hawthorn-senior-living"
 organization_name: "Hawthorn Senior Living"
 sources: ["https://seniorlivinginstyle.com/stoneybrook-lodge/", "https://www.caring.com/senior-living/oregon/corvallis/stoneybrook-lodge-gracious-retirement-living", "https://graciousretirementliving.com/corvallis"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Stoneybrook Lodge is an all-inclusive independent living community in south Corvallis that opened in 1999 with 115 apartments. Monthly rent bundles three chef-prepared meals daily, weekly housekeeping, transportation, and activities, and live-in managers are on site. It operates under Hawthorn Senior Living's Gracious Retirement Living brand."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/corvallis/stoneybrook-lodge-gracious-retirement-living"}]
 reviews_search_url: "https://www.google.com/search?q=Stoneybrook+Lodge+Corvallis+OR+reviews"

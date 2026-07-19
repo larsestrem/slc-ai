@@ -34,7 +34,7 @@ You cannot be the only set of eyes. Recruit several, so no one person carries it
 
 The single most powerful tool in long-distance caregiving is a **geriatric care manager** (also called an aging life care professional) — a nurse or social worker, local to your parent, who works for your family. They can do a professional in-home assessment, arrange and supervise [in-home care](/guides/in-home-care-explained/), attend doctor appointments and report back, respond in person when something goes wrong at 2 a.m. their time, and give you an unvarnished read no phone call can.
 
-Expect roughly $100–$250 an hour depending on the market, with an initial assessment often a few hundred dollars — and here's what insiders know: **most families use one for just a few hours a month**, not full-time, which makes it far more affordable than it sounds. For a distant family, it is consistently rated the best money spent. Find one at aginglifecare.org.
+Expect roughly $100–$250 an hour depending on the market, with an initial assessment often a few hundred dollars — and here's what insiders know: **most families use one for just a few hours a month**, not full-time, which makes it far more affordable than it sounds. Many distant families tell us it was the best money they spent. Find one at aginglifecare.org.
 
 > **Ask this:** When interviewing a care manager, ask: "If my mother fell on a Saturday night, what exactly would happen?" You want a concrete answer — who gets called, who shows up, how you're informed. Their emergency protocol is the product you're buying.
 

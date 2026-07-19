@@ -22,7 +22,7 @@ capacity: 93
 organization: "compass-senior-living"
 organization_name: "Compass Senior Living"
 sources: ["https://www.aplaceformom.com/community/the-suites-assisted-living-and-memory-care-60265", "https://www.ohca.com/facility-finder/suites-assisted-living-community-the/", "https://www.compass-living.com/community/the-suites-assisted-living-and-memory-care/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "The Suites is a combined assisted living and memory care community in Grants Pass with 65 licensed assisted living beds and a 28-bed memory care neighborhood. It is operated by Eugene-based Compass Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-suites-assisted-living-and-memory-care-60265"}]
 reviews_search_url: "https://www.google.com/search?q=The+Suites+Assisted+Living+and+Memory+Care+Grants+Pass+OR+reviews"

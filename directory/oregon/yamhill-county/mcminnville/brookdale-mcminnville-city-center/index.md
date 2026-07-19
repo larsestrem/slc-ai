@@ -15,12 +15,12 @@ city_name: "McMinnville"
 address: "721 NE 27th St"
 zip: "97128"
 phone: "(503) 435-0100"
-website: "https://www.brookdale.com"
+website: "https://www.brookdale.com/en/communities/brookdale-mcminnville-city-center.html"
 care_levels: ["assisted-living", "memory-care"]
 organization: "brookdale-senior-living"
 organization_name: "Brookdale Senior Living"
 sources: ["https://www.senioradvisor.com/local/brookdale-mcminnville-city-center-mcminnville-or", "https://www.assistedlivingcenter.com/facilities/or/mcminnville/brookdale-mcminnville-city-center-97128/", "https://www.ohca.com/facility-finder/brookdale-mcminnville-city-center/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Brookdale McMinnville City Center is an assisted living and memory care community near downtown McMinnville, part of the national Brookdale Senior Living network."
 review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/brookdale-mcminnville-city-center-mcminnville-or"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/mcminnville/brookdale-mcminnville-city-center-97128/"}]
 reviews_search_url: "https://www.google.com/search?q=Brookdale+McMinnville+City+Center+McMinnville+OR+reviews"

@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "guardian-angel-homes"
 organization_name: "Guardian Angel Homes"
 sources: ["https://www.aplaceformom.com/community/guardian-angel-homes-post-falls-102162", "https://gahangel.com/locations/post-falls/", "https://member.postfallschamber.org/members/member/guardian-angel-homes-118"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Guardian Angel Homes Post Falls is a campus of smaller residential-style homes — including the Tudor House, Timber House, The Cottage, and The Craftsman for residents with advanced Alzheimer's and dementia — plus The Inn, which offers larger suites for a more independent lifestyle. The Pacific Northwest operator provides care ranging from minimal assistance to specialized memory support."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/guardian-angel-homes-post-falls-102162"}]
 reviews_search_url: "https://www.google.com/search?q=Guardian+Angel+Homes+Post+Falls+Post+Falls+ID+reviews"

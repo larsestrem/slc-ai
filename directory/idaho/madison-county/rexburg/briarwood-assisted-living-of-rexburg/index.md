@@ -18,7 +18,7 @@ phone: "(208) 356-7668"
 care_levels: ["adult-family-home", "assisted-living", "memory-care"]
 facility_size: "small"
 sources: ["https://www.caring.com/senior-living/idaho/rexburg/briarwood-assisted-living-of-rexburg", "https://www.seniorly.com/assisted-living/idaho/rexburg/briarwood-assisted-living-rexburg", "https://www.senior-living-directory.com/idaho/rexburg/assisted-living-facility/briarwood-assisted-living"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Briarwood Assisted Living of Rexburg is a small, home-style assisted living and memory care community described as a warm country home. Services include 24-hour trained and certified staff, an on-site nurse, medication assistance, a secured yard, and home health and hospice support."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/rexburg/briarwood-assisted-living-of-rexburg"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/idaho/rexburg/briarwood-assisted-living-rexburg"}]
 reviews_search_url: "https://www.google.com/search?q=Briarwood+Assisted+Living+of+Rexburg+Rexburg+ID+reviews"

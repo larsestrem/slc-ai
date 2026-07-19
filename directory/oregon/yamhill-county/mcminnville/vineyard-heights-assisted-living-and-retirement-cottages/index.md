@@ -15,11 +15,12 @@ city_name: "McMinnville"
 address: "345 SW Hill Rd"
 zip: "97128"
 phone: "(503) 435-1000"
+website: "https://compass-living.com/community/vineyard-heights-assisted-living/"
 care_levels: ["independent-living", "assisted-living"]
 facility_size: "large"
 capacity: 97
 sources: ["https://carelistings.com/assisted-living-homes/mcminnville-or/vineyard-heights-assisted-living-and-retirement-cottages/5acd0268a71d8c15cf6931a8", "https://www.compass-living.com/community/vineyard-heights-assisted-living/", "https://ltclicensing.oregon.gov/Facilities/Details/70A267"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "An assisted living and independent living community in McMinnville wine country with 81 assisted living apartments and 16 retirement cottages, two miles from historic downtown."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/mcminnville-or/vineyard-heights-assisted-living-and-retirement-cottages/5acd0268a71d8c15cf6931a8"}]
 reviews_search_url: "https://www.google.com/search?q=Vineyard+Heights+Assisted+Living+and+Retirement+Cottages+McMinnville+OR+reviews"

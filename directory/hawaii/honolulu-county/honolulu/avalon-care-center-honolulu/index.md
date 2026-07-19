@@ -23,7 +23,7 @@ organization: "avalon-health-care"
 organization_name: "Avalon Health Care"
 cms_ccn: "125020"
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/avalon-care-center-honolulu-125020", "https://avalonhealthcare.com/honolulu/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Avalon Care Center - Honolulu is a 108-bed skilled nursing and rehabilitation facility operated by Avalon Health Care. It offers short-term rehabilitation and long-term skilled nursing care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/avalon-care-center-honolulu-125020"}]
 reviews_search_url: "https://www.google.com/search?q=Avalon+Care+Center+-+Honolulu+Honolulu+HI+reviews"

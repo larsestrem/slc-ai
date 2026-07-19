@@ -17,7 +17,7 @@ zip: "96797"
 care_levels: ["adult-family-home"]
 facility_size: "small"
 sources: ["https://www.seniorly.com/assisted-living/hawaii/waipahu/charity-adult-residential-care-home", "https://assistedlivingmagazine.com/nursing-home/charity-adult-residential-care/", "https://health.hawaii.gov/ohca/files/2026/04/Combined-ARCH-Expanded-ARCH-Vacancy-Report-By-Alpha-4-2026.pdf"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Charity Adult Residential Care Home is a small, state-licensed adult residential care home in Waipahu, Oahu, offering 24-hour supervision and assistance with daily living activities, including medication management."
 review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/waipahu/charity-adult-residential-care-home"}]
 reviews_search_url: "https://www.google.com/search?q=Charity+Adult+Residential+Care+Home+Waipahu+HI+reviews"

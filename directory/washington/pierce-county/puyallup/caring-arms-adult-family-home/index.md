@@ -20,7 +20,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["http://caringarmsafh.com/", "https://www.aplaceformom.com/community/caring-arms-adult-family-home-151103"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 specialties: ["Dementia"]
 description_full: "Caring Arms Adult Family Home is a licensed six-bed adult family home in the South Hill area of Puyallup, offering six private rooms in a newly remodeled house. It provides assisted living and Alzheimer's care and accepts Medicaid and Veteran benefits."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/caring-arms-adult-family-home-151103"}]

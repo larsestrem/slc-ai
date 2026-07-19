@@ -21,7 +21,7 @@ facility_size: "medium"
 capacity: 49
 cms_ccn: "125066"
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/kal%C4%81kaua-gardens-125066", "https://www.kalakauagardens.com/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Kalakaua Gardens is a 49-bed senior living community in Honolulu offering skilled nursing alongside assisted living and memory care. The community provides short-term rehabilitation and long-term care with restaurant-style dining and social programming."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/kal%C4%81kaua-gardens-125066"}]
 reviews_search_url: "https://www.google.com/search?q=Kalakaua+Gardens+Honolulu+HI+reviews"

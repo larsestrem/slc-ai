@@ -14,6 +14,7 @@ city: "portland"
 city_name: "Portland"
 address: "1475 SE 100th Ave"
 zip: "97216"
+phone: "(503) 262-6000"
 website: "https://www.marquiscompanies.com/facility/marquis-mill-park/"
 care_levels: ["skilled-nursing", "respite-care"]
 facility_size: "large"
@@ -22,7 +23,7 @@ organization: "marquis-companies"
 organization_name: "Marquis Companies"
 cms_ccn: "385214"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-mill-park-385214", "https://www.medicare.gov/care-compare/details/nursing-home/385214/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A 77-bed Marquis Companies skilled nursing and rehabilitation center in the Mill Park neighborhood of southeast Portland. It focuses on short-stay post-acute rehab and long-term care with high staffing levels."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/marquis-mill-park-385214"}]
 reviews_search_url: "https://www.google.com/search?q=Marquis+Mill+Park+Portland+OR+reviews"

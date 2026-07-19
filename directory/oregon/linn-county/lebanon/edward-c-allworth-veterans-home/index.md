@@ -23,7 +23,7 @@ organization: "veterans-care-centers-of-oregon"
 organization_name: "Veterans Care Centers of Oregon"
 cms_ccn: "385280"
 sources: ["https://www.oregon.gov/odva/vets-homes/lebanon/pages/default.aspx", "https://www.healthcare4ppl.com/nursing-home/oregon/lebanon/lebanon-veterans-home-385280.html", "https://nasvh.org/veterans-homes/edward-c-allworth-oregon-veterans-home/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "The Edward C. Allworth Veterans' Home is a 154-bed state veterans home on 12 acres in Lebanon, opened in 2014 and owned by the Oregon Department of Veterans' Affairs."
 reviews_search_url: "https://www.google.com/search?q=Edward+C.+Allworth+Veterans%27+Home+Lebanon+OR+reviews"
 ---

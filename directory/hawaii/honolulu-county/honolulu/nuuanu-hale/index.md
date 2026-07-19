@@ -20,7 +20,7 @@ facility_size: "large"
 capacity: 75
 cms_ccn: "125024"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/125024/view-all/?state=HI", "https://projects.propublica.org/nursing-homes/homes/h-125024/", "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-hawaii/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Nuuanu Hale is a Medicare- and Medicaid-certified skilled nursing facility on Pali Highway in Honolulu, offering short-term rehabilitation and long-term nursing care. The 75-bed facility is operated as a for-profit corporation."
 reviews_search_url: "https://www.google.com/search?q=Nuuanu+Hale+Honolulu+HI+reviews"
 ---

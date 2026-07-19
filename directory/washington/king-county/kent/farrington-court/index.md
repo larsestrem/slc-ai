@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living", "respite-care"]
 organization: "stellar-senior-living"
 organization_name: "Stellar Senior Living"
 sources: ["https://www.aplaceformom.com/community/farrington-court-71286", "https://stellarliving.com/communities/farrington-court-assisted-senior-living-kent-wa/", "https://www.caring.com/senior-living/washington/kent/farrington-court-kent-washington"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "A 62+ independent and assisted living community that has been a cornerstone of Kent for over 50 years, now part of Stellar Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/farrington-court-71286"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/kent/farrington-court-kent-washington"}]
 reviews_search_url: "https://www.google.com/search?q=Farrington+Court+Kent+WA+reviews"

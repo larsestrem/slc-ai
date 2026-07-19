@@ -15,13 +15,14 @@ city_name: "Springfield"
 address: "3491 Game Farm Rd"
 zip: "97477"
 phone: "(541) 515-6032"
+website: "https://www.onelifeseniorliving.com/communities/the-rawlin-memory-care"
 care_levels: ["memory-care"]
 facility_size: "large"
 capacity: 72
 organization: "onelife-senior-living"
 organization_name: "OneLife Senior Living"
 sources: ["https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/", "https://www.onelifeseniorliving.com/communities/the-rawlin-memory-care", "https://www.aplaceformom.com/community/the-rawlin-at-riverbend-memory-care-1402203"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "The Rawlin at Riverbend Memory Care is a 72-bed memory care community in Springfield serving residents with Alzheimer's disease and other forms of dementia, open 24 hours with on-site nursing oversight."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-rawlin-at-riverbend-memory-care-1402203"}]
 reviews_search_url: "https://www.google.com/search?q=The+Rawlin+at+Riverbend+Memory+Care+Springfield+OR+reviews"

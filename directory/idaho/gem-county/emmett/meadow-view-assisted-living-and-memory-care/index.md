@@ -19,7 +19,7 @@ website: "https://www.meadowviewal.com/"
 care_levels: ["assisted-living", "memory-care"]
 facility_size: "medium"
 sources: ["https://www.aplaceformom.com/community/meadow-view-assisted-living-and-memory-care-139508", "https://www.meadowviewal.com/", "https://www.caring.com/senior-living/idaho/emmett/meadow-view-assisted-living-and-memory-care"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Meadow View Assisted Living and Memory Care is a medium-sized senior living community in Emmett offering assisted living and memory care in a small-town Gem County setting."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/meadow-view-assisted-living-and-memory-care-139508"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/emmett/meadow-view-assisted-living-and-memory-care"}]
 reviews_search_url: "https://www.google.com/search?q=Meadow+View+Assisted+Living+and+Memory+Care+Emmett+ID+reviews"

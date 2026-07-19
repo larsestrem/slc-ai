@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "merrill-gardens"
 organization_name: "Merrill Gardens"
 sources: ["https://www.aplaceformom.com/community/merrill-gardens-at-wright-park-1453598", "https://www.merrillgardens.com/senior-living/wa/tacoma/south-g-street/", "https://www.yelp.com/biz/merrill-gardens-at-wright-park-tacoma"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Merrill Gardens at Wright Park offers independent living, assisted living and memory care in Tacoma's Stadium District, next door to Wright Park. Opened in 2022, the community is known for its rooftop Sky Deck with views of Puget Sound, hospitality-style dining and strong social programming."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-wright-park-1453598"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-wright-park-tacoma"}]
 reviews_search_url: "https://www.google.com/search?q=Merrill+Gardens+at+Wright+Park+Tacoma+WA+reviews"

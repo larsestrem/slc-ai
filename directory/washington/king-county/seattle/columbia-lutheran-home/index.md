@@ -14,13 +14,14 @@ city: "seattle"
 city_name: "Seattle"
 address: "4700 Phinney Avenue North"
 zip: "98103"
+phone: "(206) 632-7400"
 website: "https://columbialutheranhome.org/"
 care_levels: ["skilled-nursing"]
 facility_size: "large"
 capacity: 116
 cms_ccn: "505470"
 sources: ["https://columbialutheranhome.org/", "https://www.senioradvice.com/providers/view/columbia-lutheran-home-seattle-wa", "https://www.seniorcare.com/nursing-homes/wa/seattle/columbia-lutheran-home/505470/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "One of the Pacific Northwest's longest-operating standalone not-for-profit nursing homes, located in Seattle's Phinney Ridge neighborhood."
 review_links: [{"name": "SeniorAdvice", "url": "https://www.senioradvice.com/providers/view/columbia-lutheran-home-seattle-wa"}]
 reviews_search_url: "https://www.google.com/search?q=Columbia+Lutheran+Home+Seattle+WA+reviews"

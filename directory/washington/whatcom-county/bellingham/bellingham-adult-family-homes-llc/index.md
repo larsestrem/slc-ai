@@ -19,7 +19,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["https://reviews.birdeye.com/bellingham-adult-family-homes-llc-168146154660823", "https://carelistings.com/assisted-living-homes/bellingham-wa/bellingham-adult-family-homes/67f376b2a073024f4eb57189", "https://adultfamilyhomecouncil.org/home-finder/754749-bellingham-adult-family-homes"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Bellingham Adult Family Homes LLC is a licensed 6-bed adult family home in Bellingham owned by Tony and Claudia Anton, located near Bloedel Donovan and Whatcom Falls parks. Listings note specialized behavior support and services for mental health and dementia."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/bellingham-adult-family-homes-llc-168146154660823"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/bellingham-wa/bellingham-adult-family-homes/67f376b2a073024f4eb57189"}]
 reviews_search_url: "https://www.google.com/search?q=Bellingham+Adult+Family+Homes+LLC+Bellingham+WA+reviews"

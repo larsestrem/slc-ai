@@ -22,7 +22,7 @@ capacity: 57
 organization: "avamere-family-of-companies"
 organization_name: "Avamere Family of Companies"
 sources: ["https://www.assistedlivingcenter.com/facilities/or/hermiston/avamere-at-hermiston-97838/", "https://www.mycaringplan.com/senior-living/avamere-at-hermiston/", "https://avamereathermiston.com/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "A 57-room assisted living community in Hermiston offering round-the-clock caregiving, medication management, and respite stays in studio and one-bedroom apartments. Operated by Oregon-based Avamere."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/hermiston/avamere-at-hermiston-97838/"}, {"name": "My Caring Plan", "url": "https://www.mycaringplan.com/senior-living/avamere-at-hermiston/"}]
 reviews_search_url: "https://www.google.com/search?q=Avamere+at+Hermiston+Hermiston+OR+reviews"

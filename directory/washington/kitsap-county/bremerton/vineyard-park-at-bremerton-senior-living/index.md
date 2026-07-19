@@ -19,7 +19,7 @@ website: "https://carepartnersliving.com/vineyard-park-of-bremerton/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
 sources: ["https://www.aplaceformom.com/community/vineyard-park-at-bremerton-senior-living-71675", "https://carepartnersliving.com/vineyard-park-of-bremerton/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Vineyard Park at Bremerton Senior Living is a senior living campus at 2707 Clare Ave in Bremerton offering independent living, assisted living, and memory care, serving the Bremerton, Silverdale, Poulsbo, and Port Orchard area since 1984. It is currently managed by CarePartners Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/vineyard-park-at-bremerton-senior-living-71675"}]
 reviews_search_url: "https://www.google.com/search?q=Vineyard+Park+at+Bremerton+Senior+Living+Bremerton+WA+reviews"

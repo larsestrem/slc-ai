@@ -19,7 +19,7 @@ care_levels: ["assisted-living"]
 facility_size: "medium"
 capacity: 60
 sources: ["https://www.yelp.com/biz/timberhill-place-barber-and-beauty-salon-corvallis", "https://www.senioradvice.com/providers/view/timberhill-place-corvallis-or", "https://www.aplaceformom.com/community/timberhill-place-60047"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Timberhill Place is a privately owned assisted living community in north Corvallis with 60 apartments, within walking distance of grocery stores, clinics, restaurants, and the Osborn Aquatic Center."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/timberhill-place-barber-and-beauty-salon-corvallis"}, {"name": "SeniorAdvice", "url": "https://www.senioradvice.com/providers/view/timberhill-place-corvallis-or"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/timberhill-place-60047"}]
 reviews_search_url: "https://www.google.com/search?q=Timberhill+Place+Corvallis+OR+reviews"

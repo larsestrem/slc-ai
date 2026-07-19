@@ -20,7 +20,7 @@ facility_size: "large"
 capacity: 92
 cms_ccn: "125041"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/125041/view-all/?state=HI", "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-hawaii/", "https://www.seniorcare.com/nursing-homes/hi/honolulu/liliha-healthcare-center/125041/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 serious_concern: true
 concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
 concern_type: "Federal enforcement action — fines and a period of Medicare payment suspension"

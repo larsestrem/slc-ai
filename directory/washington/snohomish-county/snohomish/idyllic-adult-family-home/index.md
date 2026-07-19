@@ -19,7 +19,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["https://www.aplaceformom.com/community/idyllic-adult-family-home-149868", "https://adultfamilyhomecouncil.org/home-finder/756732-idyllic-adult-family-home-llc"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Idyllic Adult Family Home is a licensed 6-bed adult family home in Snohomish offering private rooms and 24-hour awake CNA staffing. Listings describe a care focus on mental health and dementia, with nutritious meals and recreational activities."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/idyllic-adult-family-home-149868"}]
 reviews_search_url: "https://www.google.com/search?q=Idyllic+Adult+Family+Home+Snohomish+WA+reviews"

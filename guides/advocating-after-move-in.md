@@ -6,11 +6,12 @@ permalink: /guides/advocating-after-move-in/
 topic_group: emotional
 updated: 2026-07-12
 related:
+  - /guides/why-good-communities-get-complaints/
   - /guides/coping-with-the-decision/
   - /guides/checking-complaints-and-state-records/
   - /guides/reading-inspection-reports-and-ratings/
   - /guides/glossary/
-faqs: [{"q": "Will complaining make staff treat my parent worse?", "a": "Retaliation is illegal, and with reasonable, documented families it's rare — visible, engaged families typically see *better* care, not worse. If you genuinely fear it, that fear is itself important information; call the ombudsman, who can act without identifying you."}, {"q": "How often should I visit?", "a": "Rhythm beats volume: a predictable weekly visit at varying hours does more than a monthly marathon. If you're far away, schedule video calls, join care conferences by phone, and recruit a local friend or a paid geriatric care manager as eyes on the ground."}, {"q": "What exactly does the ombudsman do?", "a": "Every state runs a Long-Term Care Ombudsman program under federal law: trained advocates who work only for residents — never for facilities — in nursing homes and, in most states, assisted living. They visit communities, resolve complaints, explain your rights, and it's free and confidential. Their contact info must be posted in the building."}, {"q": "My parent complains constantly, but the staff seem fine. Who do I believe?", "a": "Verify, don't dismiss. Show up unannounced at the times the complaints describe, check the specifics (Is the food cold? Is call-light response slow?), and treat patterns — same complaint, same details, different days — as signal."}]
+faqs: [{"q": "Will complaining make staff treat my parent worse?", "a": "Retaliation is prohibited for licensed facilities, and with reasonable, documented families it's rare — visible, engaged families typically see *better* care, not worse. If you genuinely fear it, that fear is itself important information; call the ombudsman, who can act without identifying you."}, {"q": "How often should I visit?", "a": "Rhythm beats volume: a predictable weekly visit at varying hours does more than a monthly marathon. If you're far away, schedule video calls, join care conferences by phone, and recruit a local friend or a paid geriatric care manager as eyes on the ground."}, {"q": "What exactly does the ombudsman do?", "a": "Every state runs a Long-Term Care Ombudsman program under federal law: trained advocates who work only for residents — never for facilities — in nursing homes and, in most states, assisted living. They visit communities, resolve complaints, explain your rights, and it's free and confidential. Their contact info must be posted in the building."}, {"q": "My parent complains constantly, but the staff seem fine. Who do I believe?", "a": "Verify, don't dismiss. Show up unannounced at the times the complaints describe, check the specifics (Is the food cold? Is call-light response slow?), and treat patterns — same complaint, same details, different days — as signal."}]
 ---
 
 You did the research, made the decision, and moved your parent in — and it turns out the job isn't over; it changed. In any senior living community, the residents who do best are the ones whose families stay engaged, visible, and constructively firm. This page is your manual for that new role: what's normal, how to raise concerns so they get fixed, and who backs you up when they don't.
@@ -74,7 +75,7 @@ Part of your job is watching for the mismatch between your parent's needs and th
 ## Common questions
 
 **Will complaining make staff treat my parent worse?**
-Retaliation is illegal, and with reasonable, documented families it's rare — visible, engaged families typically see *better* care, not worse. If you genuinely fear it, that fear is itself important information; call the ombudsman, who can act without identifying you.
+Retaliation is prohibited for licensed facilities, and with reasonable, documented families it's rare — visible, engaged families typically see *better* care, not worse. If you genuinely fear it, that fear is itself important information; call the ombudsman, who can act without identifying you.
 
 **How often should I visit?**
 Rhythm beats volume: a predictable weekly visit at varying hours does more than a monthly marathon. If you're far away, schedule video calls, join care conferences by phone, and recruit a local friend or a paid geriatric care manager as eyes on the ground.

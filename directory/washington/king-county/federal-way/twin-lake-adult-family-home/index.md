@@ -20,7 +20,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["https://www.aplaceformom.com/community/twin-lake-adult-family-home-1453915", "https://www.twinlakeafh.com/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 specialties: ["Dementia"]
 description_full: "Twin Lake Adult Family Home is a licensed six-bed adult family home in Federal Way, set beside a golf course. It offers memory care and personal care in a small, home-like setting with hands-on daily involvement from the owner and caregivers."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/twin-lake-adult-family-home-1453915"}]

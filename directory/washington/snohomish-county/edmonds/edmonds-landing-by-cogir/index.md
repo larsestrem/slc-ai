@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living"]
 organization: "cogir-senior-living"
 organization_name: "Cogir Senior Living"
 sources: ["https://ultimateseniorresource.com/states/washington/edmonds/edmonds-landing-by-cogir", "https://cogirusa.com/communities/edmonds-landing/", "https://www.aplaceformom.com/community/edmonds-landing-by-cogir-94862"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Independent and assisted living community two blocks from the waterfront in downtown Edmonds, steps from the ferry, shops, and restaurants."
 review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/washington/edmonds/edmonds-landing-by-cogir"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/edmonds-landing-by-cogir-94862"}]
 reviews_search_url: "https://www.google.com/search?q=Edmonds+Landing+by+Cogir+Edmonds+WA+reviews"

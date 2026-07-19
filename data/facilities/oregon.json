@@ -28,7 +28,7 @@
         "https://www.seniorlivingguide.com/communities/bonaventure-of-salem-3411-boone-road-se-salem-or-97317/",
         "https://www.ohca.com/facility-finder/bonaventure-of-salem-assisted-living/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Prestige Senior Living Orchard Heights",
@@ -58,7 +58,7 @@
         "https://www.caring.com/senior-living/oregon/salem/prestige-senior-living-at-orchard-heights-97304",
         "https://www.ohca.com/facility-finder/prestige-senior-living-orchard-heights/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Avamere Rehabilitation of Eugene",
@@ -88,7 +88,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-eugene-385053",
         "https://www.ohca.com/facility-finder/avamere-rehabilitation-of-eugene/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Cascade Manor",
@@ -118,7 +118,7 @@
         "https://findcontinuingcare.com/community/or/eugene/cascade-manor-c01396",
         "https://www.aplaceformom.com/community/cascade-manor-ccrc-60130"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Brookdale Oswego Springs Portland",
@@ -145,7 +145,7 @@
         "https://www.aplaceformom.com/community/brookdale-oswego-springs-portland-102302",
         "https://www.familyassets.com/assisted-living/oregon/portland/brookdale-oswego-springs"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Mirabella Portland",
@@ -157,12 +157,13 @@
       "county_name": "Multnomah",
       "city": "portland",
       "city_name": "Portland",
-      "address": "3550 SW Bond Ave",
+      "address": "3550 S Bond Ave",
       "zip": "97239",
       "phone": "(503) 688-6400",
       "care_levels": [
         "independent-living",
         "assisted-living",
+        "memory-care",
         "skilled-nursing",
         "ccrc"
       ],
@@ -174,7 +175,8 @@
         "https://www.yelp.com/biz/mirabella-portland-portland",
         "https://www.assistedlivingcenter.com/facilities/or/portland/mirabella-at-south-waterfront-ccrc-97239/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "website": "https://www.mirabellaportland.org/"
     },
     {
       "name": "Touchmark at Mount Bachelor Village",
@@ -188,7 +190,7 @@
       "city_name": "Bend",
       "address": "19800 SW Touchmark Way",
       "zip": "97702",
-      "phone": "(541) 316-8445",
+      "phone": "(541) 383-1414",
       "website": "https://www.touchmark.com/senior-living/or/bend/mount-bachelor-village/",
       "care_levels": [
         "independent-living",
@@ -203,7 +205,7 @@
         "https://www.ohca.com/facility-finder/touchmark-at-mount-bachelor-village/",
         "https://www.yelp.com/biz/touchmark-at-mount-bachelor-village-bend-2"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Prestige Senior Living High Desert",
@@ -220,8 +222,7 @@
       "phone": "(541) 312-2003",
       "website": "https://www.prestigecare.com/locations/prestige-senior-living-high-desert/",
       "care_levels": [
-        "assisted-living",
-        "memory-care"
+        "assisted-living"
       ],
       "facility_size": "large",
       "capacity": 75,
@@ -234,7 +235,7 @@
         "https://newlifestyles.com/listings/prestige-senior-living-high-desert-118593-bend-or",
         "https://www.aplaceformom.com/community/prestige-senior-living-high-desert-98106"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Willow Place",
@@ -260,7 +261,7 @@
         "https://www.caring.com/senior-living/oregon/newberg/willow-place-97132",
         "https://www.ohca.com/facility-finder/willow-place/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Mt. Angel Health and Rehabilitation",
@@ -289,7 +290,7 @@
         "https://www.ohca.com/facility-finder/mt-angel-health-and-rehabilitation/",
         "https://careavailability.com/provider/providence-benedictine-nursing-center/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Prestige Senior Living Arbor Place",
@@ -319,7 +320,7 @@
         "https://www.aplaceformom.com/community/prestige-senior-living-arbor-place-98105",
         "https://www.ohca.com/facility-finder/prestige-senior-living-arbor-place/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Felicity Haven Adult Foster Home",
@@ -345,7 +346,7 @@
         "https://www.seniorhousingnet.com/seniorliving-detail/felicity-haven-adult-foster-home_2676-tahoe-ave-se_salem_or_97306-623974",
         "https://www.seniorhomes.com/oregon/salem/felicity-haven-adult-foster-home"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Fox Hollow Independent and Assisted Living",
@@ -376,7 +377,7 @@
         "https://www.yelp.com/biz/fox-hollow-independent-and-assisted-living-bend",
         "https://seniorcarehomes.com/assisted-living/oregon/bend-or/fox-hollow-independent-assisted-living-community/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Whispering Winds Retirement",
@@ -403,7 +404,7 @@
         "https://www.yelp.com/biz/whispering-winds-retirement-bend",
         "https://assistedlivingmagazine.com/independent-living/whispering-winds/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Brookdale Bend",
@@ -420,7 +421,6 @@
       "phone": "(541) 385-4717",
       "website": "https://www.brookdale.com/en/communities/brookdale-bend.html",
       "care_levels": [
-        "assisted-living",
         "memory-care"
       ],
       "facility_size": "medium",
@@ -433,7 +433,7 @@
         "https://assistedlivingmagazine.com/nursing-home/brookdale-bend/",
         "https://www.aplaceformom.com/community/brookdale-bend-72412"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Cascades of Bend",
@@ -463,7 +463,7 @@
         "https://www.yelp.com/biz/cascades-of-bend-retirement-community-bend-2",
         "https://www.aplaceformom.com/community/cascades-of-bend-101679"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Prairie House Assisted Living and Memory Care",
@@ -492,10 +492,10 @@
         "https://www.yelp.com/biz/prairie-house-assisted-living-and-memory-care-la-pine",
         "https://www.ohca.com/facility-finder/prairie-house-assisted-living-community/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
-      "name": "Ochoco Village Assisted Living",
+      "name": "Regency Village at Prineville",
       "slug": "ochoco-village-assisted-living",
       "state": "oregon",
       "state_name": "Oregon",
@@ -507,7 +507,7 @@
       "address": "830 NE Elm St",
       "zip": "97754",
       "phone": "(541) 416-3600",
-      "website": "http://www.ochocovillage.com",
+      "website": "https://www.regency-pacific.com/senior-living/or/prineville/regency-village-prineville/",
       "care_levels": [
         "assisted-living"
       ],
@@ -519,7 +519,7 @@
         "http://www.prineville.org/hospital-medical-clinic/ochoco-village-assisted-living/",
         "https://www.assistedliving.com/oregon/prineville/ochoco-village-assisted-living/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Regency Redmond Rehabilitation and Nursing Center",
@@ -550,7 +550,7 @@
         "https://www.nursinghomes.us/facility/regency-redmond-rehabilitation-and-nursing-center-385230",
         "https://www.regency-pacific.com/senior-living/or/redmond/regency-redmond-rehabilitation-nursing-center/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Bend Transitional Care",
@@ -565,7 +565,7 @@
       "address": "900 NE 27th St",
       "zip": "97701",
       "phone": "(541) 382-0479",
-      "website": "https://www.avamere.com/bend-transitional-care/",
+      "website": "https://www.bendtransitionalcare.com/",
       "care_levels": [
         "skilled-nursing",
         "respite-care"
@@ -582,7 +582,7 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/385253/view-all/?state=OR",
         "https://www.healthcare4ppl.com/nursing-home/oregon/bend/bend-transitional-care-385253.html"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Stoneybrook Lodge",
@@ -611,7 +611,7 @@
         "https://www.caring.com/senior-living/oregon/corvallis/stoneybrook-lodge-gracious-retirement-living",
         "https://graciousretirementliving.com/corvallis"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Timberhill Place",
@@ -637,7 +637,7 @@
         "https://www.senioradvice.com/providers/view/timberhill-place-corvallis-or",
         "https://www.aplaceformom.com/community/timberhill-place-60047"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Regent Court",
@@ -664,7 +664,8 @@
         "https://encorecommunities.com/regent-court/",
         "https://www.aplaceformom.com/community/regent-court-96870"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "website": "https://encorecommunities.com/regent-court/"
     },
     {
       "name": "Mennonite Village",
@@ -694,7 +695,7 @@
         "https://findcontinuingcare.com/community/or/albany/mennonite-village-c00453",
         "https://www.carechanges.com/living-communities/mennonite-village_albany_oregon/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Brookdale Grand Prairie",
@@ -711,8 +712,7 @@
       "phone": "(541) 928-9536",
       "website": "https://www.brookdale.com/en/communities/brookdale-grand-prairie-or.html",
       "care_levels": [
-        "independent-living",
-        "assisted-living"
+        "independent-living"
       ],
       "organization": "brookdale-senior-living",
       "organization_name": "Brookdale Senior Living",
@@ -722,7 +722,7 @@
         "https://www.aplaceformom.com/community/brookdale-grand-prairie-60028",
         "https://www.caring.com/senior-living/oregon/albany/brookdale-grand-prairie-or"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "The Oaks at Lebanon",
@@ -749,7 +749,7 @@
         "https://seniorhomes.net/communities/oaks-at-lebanon-lebanon-or-1879",
         "https://www.aplaceformom.com/community/the-oaks-at-lebanon-95216"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Edward C. Allworth Veterans' Home",
@@ -781,7 +781,7 @@
         "https://www.healthcare4ppl.com/nursing-home/oregon/lebanon/lebanon-veterans-home-385280.html",
         "https://nasvh.org/veterans-homes/edward-c-allworth-oregon-veterans-home/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Dallas Retirement Village",
@@ -795,7 +795,7 @@
       "city_name": "Dallas",
       "address": "377 NW Jasper St",
       "zip": "97338",
-      "phone": "(503) 623-9211",
+      "phone": "(503) 623-5581",
       "website": "https://www.dallasretirementvillage.com/",
       "care_levels": [
         "ccrc",
@@ -811,7 +811,7 @@
         "https://www.seniorlivingguide.com/communities/dallas-retirement-village-377-n-w-jasper-street-dallas-or-97338/",
         "https://findcontinuingcare.com/community/or/dallas/dallas-retirement-village-c00455"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Hope Village",
@@ -841,7 +841,7 @@
         "https://www.yelp.com/biz/hope-village-canby",
         "https://reviews.birdeye.com/hope-village-senior-living-community-168154464620059"
       ],
-      "verified_date": "2026-07-11",
+      "verified_date": "2026-07-14",
       "review_caveat": "This community shares a campus with separately licensed Marquis Hope Village (skilled nursing) and Rackleff Place (assisted living). Its review sources reference the 'Hope Village' name broadly and may reflect experiences across the shared campus, not only the independent-living community itself — check the other two listings' own ratings separately."
     },
     {
@@ -872,7 +872,7 @@
         "https://www.marquiscompanies.com/facility/marquis-hope-village/",
         "https://www.yelp.com/biz/marquis-hope-village-post-acute-rehab-canby-2"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Terwilliger Plaza",
@@ -901,7 +901,8 @@
         "https://www.caring.com/senior-living/oregon/portland/terwilliger-plaza-97201",
         "https://www.familyassets.com/continuing-care-retirement-communities/oregon/portland/terwilliger-plaza"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 299-4911"
     },
     {
       "name": "Holladay Park Plaza",
@@ -930,7 +931,8 @@
         "https://www.carechanges.com/living-communities/holladay-park-plazacontinuing-care-retirement-com_portland_oregon/",
         "https://health.usnews.com/best-senior-living/holladay-park-plaza-29272"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 288-6671"
     },
     {
       "name": "Russellville Park",
@@ -960,7 +962,8 @@
         "https://health.usnews.com/best-senior-living/russellville-park-1380",
         "https://www.caring.com/senior-living/oregon/portland/russellville-park-97216"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 254-5900"
     },
     {
       "name": "Willamette View",
@@ -990,7 +993,8 @@
         "https://health.usnews.com/best-nursing-homes/area/or/willamette-view-health-center-385200",
         "https://www.caring.com/senior-living/oregon/portland/willamette-view-97222"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 654-6581"
     },
     {
       "name": "Mary's Woods",
@@ -1018,7 +1022,8 @@
         "https://health.usnews.com/best-senior-living/marys-woods-at-marylhurst-11459",
         "https://www.yelp.com/biz/marys-woods-lake-oswego-2"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 635-7381"
     },
     {
       "name": "The Springs at Carman Oaks",
@@ -1047,7 +1052,8 @@
         "https://www.caring.com/senior-living/oregon/lake-oswego/the-springs-at-carman-oaks-97035",
         "https://www.aplaceformom.com/community/the-springs-at-carman-oaks-59721"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 636-3800"
     },
     {
       "name": "The Springs at Happy Valley",
@@ -1076,7 +1082,8 @@
         "https://health.usnews.com/best-senior-living/the-springs-at-happy-valley-29485",
         "https://www.seniorly.com/assisted-living/oregon/happy-valley/the-springs-at-happy-valley"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 658-8484"
     },
     {
       "name": "Courtyard Fountains",
@@ -1105,7 +1112,7 @@
         "https://www.aplaceformom.com/community/courtyard-fountains-95280",
         "https://www.yelp.com/biz/courtyard-fountains-gresham"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "The Springs at Murrayhill",
@@ -1120,7 +1127,7 @@
       "address": "10880 SW Davies Rd",
       "zip": "97008",
       "phone": "(503) 521-3000",
-      "website": "https://www.thespringsliving.com/senior-living/beaverton/oregon/hearthstone",
+      "website": "https://www.thespringsliving.com/senior-living/beaverton/oregon/murrayhill",
       "care_levels": [
         "independent-living",
         "assisted-living",
@@ -1135,7 +1142,7 @@
         "https://www.thespringsliving.com/blog/the-springs-at-beaverton-press-release",
         "https://www.caring.com/senior-living/oregon/beaverton/hearthstone-at-murrayhill-97008"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "The Springs at Tanasbourne",
@@ -1165,7 +1172,8 @@
         "https://www.miradorliving.com/assisted-living/oregon/hillsboro/the-springs-at-tanasbourne",
         "https://health.usnews.com/best-senior-living/springs-at-tanasbourne-18160"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 629-5500"
     },
     {
       "name": "Marquis Tualatin",
@@ -1195,7 +1203,8 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/385279/view-all/?state=OR",
         "https://www.marquiscompanies.com/facility/marquis-tualatin/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 612-5400"
     },
     {
       "name": "SpringRidge at Charbonneau",
@@ -1225,7 +1234,8 @@
         "https://www.caring.com/senior-living/oregon/wilsonville/springridge-charbonneau-97070",
         "https://www.aplaceformom.com/community/spring-ridge-at-charbonneau-96853"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 694-2700"
     },
     {
       "name": "Merrill Gardens at Sherwood",
@@ -1254,7 +1264,8 @@
         "https://www.sherwoodsun.org/merrill-gardens-senior-living-under-new-ownership/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70A340"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 862-8671"
     },
     {
       "name": "Friendsview Retirement Community",
@@ -1266,7 +1277,7 @@
       "county_name": "Yamhill",
       "city": "newberg",
       "city_name": "Newberg",
-      "address": "1301 Fulton St",
+      "address": "1301 E Fulton St",
       "zip": "97132",
       "website": "https://www.friendsview.org/",
       "care_levels": [
@@ -1283,7 +1294,8 @@
         "https://www.greystonecommunities.com/insights/friendsview-to-break-ground-on-124-million-campus-expansion-in-july",
         "https://ltclicensing.oregon.gov/Facilities/Details/50R040"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 538-3144"
     },
     {
       "name": "Hillside Retirement Community",
@@ -1315,7 +1327,7 @@
         "https://health.usnews.com/best-senior-living/hillside-retirement-communities-2478",
         "https://www.caring.com/senior-living/oregon/mcminnville/hillside-mcminnville-or"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Jennings McCall Center",
@@ -1343,7 +1355,7 @@
         "https://www.caring.com/senior-living/oregon/forest-grove/jennings-mccall-97116",
         "https://discoverforestgrove.org/locations/jennings-mccall-retirement-community/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Country Meadows Village",
@@ -1370,7 +1382,7 @@
         "https://www.caring.com/senior-living/oregon/woodburn/country-meadows-village-97071",
         "https://www.aplaceformom.com/community/country-meadows-village-97485"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "The Ridge at Oregon City",
@@ -1398,7 +1410,7 @@
         "https://www.aplaceformom.com/community/the-ridge-at-oregon-city-59729",
         "https://www.seniorly.com/independent-living/oregon/oregon-city/the-ridge-at-oregon-city"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Merrill Gardens at Sheldon Park",
@@ -1427,7 +1439,7 @@
         "https://www.caring.com/senior-living/oregon/eugene/merrill-gardens-at-sheldon-park",
         "https://www.merrillgardens.com/senior-living/or/eugene/merrill-gardens-at-sheldon-park/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Trustwell Living at River Run Place",
@@ -1455,7 +1467,7 @@
         "https://www.trustwellliving.com/communities/river-run-place/",
         "https://www.caring.com/senior-living/oregon/eugene/trustwell-living-at-river-run-place"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Willamette Oaks",
@@ -1482,7 +1494,7 @@
         "https://www.caring.com/senior-living/oregon/eugene/willamette-oaks-97401",
         "https://www.aplaceformom.com/community/willamette-oaks-60116"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Garden Way Retirement Community",
@@ -1511,7 +1523,7 @@
         "https://www.aplaceformom.com/community/garden-way-retirement-community-145001",
         "https://www.sunshineretirementliving.com/eugene-retirement-living/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "The Springs at Greer Gardens",
@@ -1540,7 +1552,9 @@
         "https://www.caring.com/senior-living/oregon/eugene/the-springs-at-greer-gardens-97401",
         "https://health.usnews.com/best-senior-living/the-springs-at-greer-gardens-5369"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(541) 246-2828",
+      "website": "https://www.thespringsliving.com/senior-living/eugene/oregon/greer-gardens"
     },
     {
       "name": "Sweetbriar Villa",
@@ -1572,7 +1586,7 @@
         "https://sweetbriarvilla.com/",
         "https://www.ohca.com/facility-finder/sweetbriar-villa/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Redwood Heights by Cogir",
@@ -1602,7 +1616,7 @@
         "https://www.ohca.com/facility-finder/redwood-heights-retirement-assisted-living-community/",
         "https://www.caring.com/senior-living/oregon/salem/redwood-heights-assisted-living-97302"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Capital Manor",
@@ -1634,10 +1648,10 @@
         "https://www.lcsliving.com/location-finder/oregon/salem/capital-manor/",
         "https://www.caring.com/senior-living/oregon/salem/capital-manor-97304"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
-      "name": "The Ridge at Madrona Hills",
+      "name": "Holiday Madrona Hills",
       "slug": "the-ridge-at-madrona-hills",
       "state": "oregon",
       "state_name": "Oregon",
@@ -1660,7 +1674,9 @@
         "https://seniorhomes.net/communities/ridge-at-madrona-hills-salem-or-1892",
         "https://www.assistedlivingcenter.com/facilities/or/salem/holiday-madrona-hills-97302/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 966-9100",
+      "website": "https://www.holidayseniorliving.com/retirement-communities/holiday-madrona-hills-salem-or"
     },
     {
       "name": "Trustwell Living at Davenport Place",
@@ -1688,7 +1704,7 @@
         "https://www.trustwellliving.com/communities/davenport-place/",
         "https://www.ohca.com/facility-finder/trustwell-living-at-davenport-place/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Farmington Square Medford",
@@ -1721,7 +1737,7 @@
         "https://www.seniorly.com/memory-care/oregon/medford/farmington-square-medford",
         "https://www.caring.com/senior-living/oregon/medford/farmington-square-medford"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Brookdale Medford",
@@ -1749,7 +1765,9 @@
         "https://www.caring.com/senior-living/oregon/medford/brookdale-medford",
         "https://health.usnews.com/best-senior-living/brookdale-medford-1800"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "phone": "(541) 776-7600",
+      "website": "https://www.brookdale.com/en/communities/brookdale-medford.html"
     },
     {
       "name": "The Springs at Anna Maria",
@@ -1779,7 +1797,7 @@
         "https://www.aplaceformom.com/community/the-springs-at-anna-maria-60232",
         "https://www.caring.com/senior-living/oregon/medford/the-springs-at-anna-maria-medford"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Ashland Post Acute",
@@ -1810,7 +1828,7 @@
         "https://www.assistedlivingcenter.com/facilities/or/ashland/ashland-post-acute-97520/",
         "https://ashland-pa.com/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "The Suites Assisted Living and Memory Care",
@@ -1841,7 +1859,7 @@
         "https://www.ohca.com/facility-finder/suites-assisted-living-community-the/",
         "https://www.compass-living.com/community/the-suites-assisted-living-and-memory-care/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Solista Roseburg by Cogir",
@@ -1870,7 +1888,7 @@
         "https://www.caring.com/senior-living/oregon/roseburg/solista-roseburg-by-cogir",
         "https://cogirusa.com/communities/solista-roseburg/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Crystal Terrace of Klamath Falls",
@@ -1901,7 +1919,7 @@
         "https://www.aplaceformom.com/community/crystal-terrace-of-klamath-falls-60277",
         "https://www.seniorly.com/assisted-living/oregon/klamath-falls/crystal-terrace-of-klamath-falls"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Pelican Pointe by Cogir",
@@ -1931,7 +1949,7 @@
         "https://cogirusa.com/communities/pelican-pointe/",
         "https://www.ohca.com/facility-finder/pelican-pointe-assisted-living-community/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Klamath Falls Senior Living",
@@ -1945,7 +1963,7 @@
       "city_name": "Klamath Falls",
       "address": "2130 N Eldorado Ave",
       "zip": "97601",
-      "phone": "(541) 882-4830",
+      "phone": "(541) 237-7025",
       "website": "https://klamathfallsseniorliving.com/",
       "care_levels": [
         "independent-living",
@@ -1961,7 +1979,7 @@
         "https://www.aplaceformom.com/community/klamath-falls-senior-living-60278",
         "https://www.trustedlivingcare.com/item/pacifica-senior-living-klamath-falls/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Trustwell Living at Astor Place",
@@ -1992,7 +2010,7 @@
         "https://www.ohca.com/facility-finder/trustwell-living-at-astor-place/",
         "https://www.trustwellliving.com/communities/astor-place/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Avamere at Seaside",
@@ -2022,7 +2040,7 @@
         "https://avamereatseaside.com/contact/",
         "https://ltclicensing.oregon.gov/Facilities/Details/50R296"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Neawanna by the Sea",
@@ -2054,7 +2072,7 @@
         "https://www.aplaceformom.com/community/neawanna-by-the-sea-59828",
         "https://www.compass-living.com/community/neawanna-by-the-sea/independent-living/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Oceanview Senior Living",
@@ -2086,7 +2104,7 @@
         "https://westmontliving.com/our-communities/oregon/newport/oceanview-senior-living/",
         "https://www.yelp.com/biz/oceanview-senior-living-newport"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Shorewood Senior Living",
@@ -2116,7 +2134,7 @@
         "https://www.mycaringplan.com/senior-living/shorewood-senior-living/",
         "https://www.compass-living.com/community/shorewood-senior-living/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Ocean Ridge by Cogir",
@@ -2146,7 +2164,7 @@
         "https://www.mycaringplan.com/senior-living/ocean-ridge/",
         "https://cogirusa.com/communities/ocean-ridge/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Baycrest Village",
@@ -2177,7 +2195,8 @@
         "https://www.mycaringplan.com/senior-living/baycrest-village/",
         "https://www.healthcare4ppl.com/nursing-home/oregon/north-bend/baycrest-health-center-385039.html"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14",
+      "website": "https://baycrest-village.com/"
     },
     {
       "name": "Sea View Senior Living Community",
@@ -2208,7 +2227,7 @@
         "https://www.aplaceformom.com/community/sea-view-senior-living-community-157843",
         "https://www.seaviewseniorliving.com/senior-living/or/brookings/contact/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Providence Down Manor",
@@ -2238,7 +2257,7 @@
         "https://www.providence.org/locations/or/down-manor",
         "https://www.seniorhousingnet.com/seniorliving-detail/down-manor_1950-sterling-pl_hood-river_or_97031-627954"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "McKay Creek Assisted Living",
@@ -2266,7 +2285,7 @@
         "https://mckaycreekal.com/",
         "https://www.ohca.com/facility-finder/mckay-creek-assisted-living/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Avamere at Hermiston",
@@ -2297,7 +2316,7 @@
         "https://www.mycaringplan.com/senior-living/avamere-at-hermiston/",
         "https://avamereathermiston.com/"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Angeline Senior Living",
@@ -2324,7 +2343,7 @@
         "https://carelistings.com/assisted-living-homes/la-grande-or/angeline-senior-living-llc/5acd025fa71d8c15cf6925e2",
         "https://www.aplaceformom.com/community/angeline-senior-living-140719"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Orchard Care Home",
@@ -2354,7 +2373,7 @@
         "https://careavailability.com/provider/orchard-adult-care-home/",
         "https://orchardach.com"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Elder Garden Care Home, LLC",
@@ -2381,7 +2400,7 @@
         "https://www.seniorhousingnet.com/seniorliving-detail/elder-garden-care-home-llc_4-ne-202nd-ave_portland_or_97230-631722",
         "https://www.senioradvisor.com/local/elder-garden-care-home-llc-portland-or"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Angels Place Adult Foster Care",
@@ -2407,7 +2426,7 @@
         "https://www.senioradvisor.com/local/angels-place-adult-foster-care-gresham-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/angels-place-adult-foster-care_1535-se-evelyn-ct_gresham_or_97080-637213"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Atrium Adult Care Home, LLC",
@@ -2433,7 +2452,7 @@
         "https://www.senioradvisor.com/local/atrium-adult-care-home-llc-oregon-city-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/atrium-adult-care-home-llc_212-amanda-ct_oregon-city_or_97045-633086"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Eden Adult Foster Home LLC",
@@ -2459,7 +2478,7 @@
         "https://www.carechanges.com/living-communities/eden-adult-foster-home-llc_beaverton_oregon/",
         "https://www.familyassets.com/assisted-living/oregon/beaverton/eden-adult-foster-home-llc"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Golden Nest Adult Foster Home",
@@ -2485,7 +2504,7 @@
         "https://www.myseniorcarefinder.com/salem-or/golden-nest-afh",
         "https://www.chamberofcommerce.com/business-directory/oregon/salem/adult-foster-care-service/2015103318-golden-nest-adult-foster-home"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Valley View II Manor Care Home",
@@ -2512,7 +2531,7 @@
         "https://www.senioradvisor.com/local/valley-view-ii-manor-care-home-salem-or",
         "https://www.familyassets.com/assisted-living/oregon/salem/valley-view-ii-manor-care-home"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "High Lakes Care Homes LLC",
@@ -2542,7 +2561,7 @@
         "https://reviews.birdeye.com/high-lakes-care-homes-llc-168190963114408",
         "https://www.yelp.com/biz/high-lakes-care-homes-sisters"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Rogue Valley Manor",
@@ -2579,7 +2598,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/rogue-valley-manor-385250",
         "https://www.caring.com/senior-living/oregon/medford/rogue-valley-manor-97504"
       ],
-      "verified_date": "2026-07-11"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Robison Jewish Health Center",
@@ -2612,7 +2631,7 @@
         "https://www.ohca.com/facility-finder/robison-jewish-health-center/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385145"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "West Hills Health & Rehabilitation",
@@ -2641,7 +2660,7 @@
         "https://www.ohca.com/facility-finder/west-hills-health-rehabilitation/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385112"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Avamere at Three Fountains",
@@ -2672,7 +2691,7 @@
         "https://www.avamere.com/avamere-at-three-fountains/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385126"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Salem Transitional Care",
@@ -2703,7 +2722,7 @@
         "https://www.avamere.com/salem-transitional-care/rehabilitation",
         "https://ltclicensing.oregon.gov/Facilities/Details/385234"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Marquis Plum Ridge Post Acute Rehab",
@@ -2718,7 +2737,7 @@
       "address": "1401 Bryant Williams Dr",
       "zip": "97601",
       "phone": "(541) 882-6691",
-      "website": "https://www.marquiscompanies.com",
+      "website": "https://www.marquiscompanies.com/facility/marquis-plum-ridge/",
       "care_levels": [
         "skilled-nursing"
       ],
@@ -2733,7 +2752,7 @@
         "https://www.marquiscompanies.com/cna-class/marquis-plum-ridge-in-klamath-falls/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385137"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Marquis Forest Grove Post Acute Rehab",
@@ -2764,7 +2783,7 @@
         "https://www.marquiscompanies.com/facility/marquis-forest-grove/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385204"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Quail Crest Memory Care",
@@ -2793,7 +2812,7 @@
         "https://www.quailcresteugene.com/",
         "https://www.caring.com/senior-living/oregon/eugene/quail-crest-memory-care"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Hawks Ridge Assisted Living",
@@ -2825,7 +2844,7 @@
         "https://compass-living.com/community/hawks-ridge-assisted-living/",
         "https://www.caring.com/senior-living/oregon/hood-river/hawks-ridge-assisted-living-hood-river"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Bayside Terrace by Cogir",
@@ -2856,7 +2875,7 @@
         "https://ultimateseniorresource.com/states/oregon/coos-bay/bayside-terrace-by-cogir",
         "https://www.aplaceformom.com/community/bayside-terrace-by-cogir-60158"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Callahan Court Memory Care",
@@ -2887,7 +2906,8 @@
         "https://www.compass-living.com/community/callahan-court-memory-care/",
         "https://www.ohca.com/facility-finder/callahan-court-memory-care-community/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14",
+      "zip": "97471"
     },
     {
       "name": "Summerfield Estates Retirement Community",
@@ -2913,7 +2933,8 @@
         "https://www.aplaceformom.com/community/summerfield-estates-retirement-community-59931",
         "https://business.tigardchamber.org/list/member/summerfield-estates-retirement-community-2737"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14",
+      "website": "https://www.sunshineretirementliving.com/tigard-retirement-living/"
     },
     {
       "name": "Rosewood Memory Care",
@@ -2940,7 +2961,8 @@
         "https://www.caring.com/senior-living/oregon/hillsboro/rosewood-memory-care-hillsboro",
         "https://www.yelp.com/biz/rosewood-memory-care-hillsboro"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14",
+      "website": "https://www.rosewoodmemorycare.com/"
     },
     {
       "name": "Brookdale McMinnville City Center",
@@ -2955,7 +2977,7 @@
       "address": "721 NE 27th St",
       "zip": "97128",
       "phone": "(503) 435-0100",
-      "website": "https://www.brookdale.com",
+      "website": "https://www.brookdale.com/en/communities/brookdale-mcminnville-city-center.html",
       "care_levels": [
         "assisted-living",
         "memory-care"
@@ -2970,7 +2992,7 @@
         "https://www.assistedlivingcenter.com/facilities/or/mcminnville/brookdale-mcminnville-city-center-97128/",
         "https://www.ohca.com/facility-finder/brookdale-mcminnville-city-center/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Holiday Sheldon Oaks",
@@ -2999,7 +3021,7 @@
         "https://www.holidayseniorliving.com/retirement-communities/holiday-sheldon-oaks-eugene-or",
         "https://www.caring.com/senior-living/oregon/eugene/holiday-sheldon-oaks"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "CherryWood Village",
@@ -3031,7 +3053,7 @@
         "https://www.generationsllc.com/communities/cherrywood-village/",
         "https://www.caring.com/senior-living/oregon/portland/cherrywood-village"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Stone Lodge Gracious Retirement Living",
@@ -3058,7 +3080,7 @@
         "https://seniorlivinginstyle.com/stone-lodge/",
         "https://www.caring.com/senior-living/oregon/bend/stone-lodge"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Sellwood Senior Living",
@@ -3086,7 +3108,8 @@
         "https://birdeye.com/sellwood-senior-living-169341826349454",
         "https://ltclicensing.oregon.gov/Facilities/Details/70A295"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 542-4800"
     },
     {
       "name": "Hirity Adult Home",
@@ -3114,7 +3137,7 @@
         "https://www.miradorliving.com/memory-care/oregon/gresham",
         "https://www.seniorhousingnet.com/seniorliving-detail/hirity-adult-home_1214-se-144th-ave_portland_or_97233-571385"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Courtyard at Mt. Tabor",
@@ -3143,7 +3166,8 @@
         "https://reviews.birdeye.com/courtyard-at-mt-tabor-park-157256125645130",
         "https://www.ohca.com/facility-finder/courtyard-at-mt-tabor/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14",
+      "website": "https://www.mbkseniorliving.com/senior-living/or/portland/courtyard-mt-tabor/"
     },
     {
       "name": "Rose Villa Senior Living Community",
@@ -3174,7 +3198,8 @@
         "https://health.usnews.com/best-senior-living/rose-villa-13456",
         "https://www.familyassets.com/continuing-care-retirement-communities/oregon/portland/rose-villa-senior-living-community"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14",
+      "website": "https://www.rosevilla.org/"
     },
     {
       "name": "Homewoods on the Willamette",
@@ -3202,7 +3227,7 @@
         "https://www.seniorhomes.com/oregon/milwaukie/homewoods-on-the-willamette",
         "https://www.aplaceformom.com/community/homewoods-on-the-willamette-59982"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Rackleff Place",
@@ -3231,7 +3256,7 @@
         "https://ultimateseniorresource.com/states/oregon/canby/rackleff-place",
         "https://ltclicensing.oregon.gov/Facilities/Details/70M075"
       ],
-      "verified_date": "2026-07-12",
+      "verified_date": "2026-07-14",
       "review_caveat": "Rackleff Place shares a campus with the independent-living community Hope Village and the skilled nursing facility Marquis Hope Village, each separately licensed and rated. Check each listing's own rating rather than assuming they're the same."
     },
     {
@@ -3262,7 +3287,7 @@
         "https://cornell-estates.com/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70M015"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Vineyard Heights Assisted Living and Retirement Cottages",
@@ -3292,7 +3317,8 @@
         "https://www.compass-living.com/community/vineyard-heights-assisted-living/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70A267"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14",
+      "website": "https://compass-living.com/community/vineyard-heights-assisted-living/"
     },
     {
       "name": "Bonaventure at Keizer Station",
@@ -3323,7 +3349,8 @@
         "https://www.assistedlivingcenter.com/facilities/or/keizer/bonaventure-at-keizer-station-97303/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70A328"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14",
+      "website": "https://bonaventuresenior.com/community/bonaventure-at-keizer-station/"
     },
     {
       "name": "The Springs at Sunnyview",
@@ -3338,7 +3365,7 @@
       "address": "1950 45th Ave NE",
       "zip": "97305",
       "phone": "(503) 589-1200",
-      "website": "https://www.thespringsliving.com/senior-living/or/salem/45th-ave-ne/independent-living",
+      "website": "https://www.thespringsliving.com/senior-living/salem/oregon/sunnyview",
       "organization": "the-springs-living",
       "organization_name": "The Springs Living",
       "care_levels": [
@@ -3353,7 +3380,7 @@
         "https://www.thespringsliving.com/senior-living/or/salem/45th-ave-ne/independent-living",
         "https://www.caring.com/senior-living/oregon/salem/the-springs-at-sunnyview-97305"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Battle Creek Memory Care",
@@ -3384,7 +3411,7 @@
         "https://www.onelifeseniorliving.com/blog/battle-creek-memory-care-businessrate-best-of-2026",
         "https://ltclicensing.oregon.gov/Facilities/Details/50R480"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Waterford Grand",
@@ -3416,7 +3443,7 @@
         "https://www.cascadeliving.com/community/waterford-grand/",
         "https://ltclicensing.oregon.gov/Facilities/Details/50R411"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Awbrey Place Assisted Living and Memory Care",
@@ -3446,7 +3473,7 @@
         "https://caringplaces.com/communities/awbrey-place/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70M008"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Trustwell Living at Rogue River Place",
@@ -3477,7 +3504,7 @@
         "https://www.trustwellliving.com/communities/rogue-river-place/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70M054"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Life Care Center of Coos Bay",
@@ -3491,7 +3518,7 @@
       "city_name": "Coos Bay",
       "address": "2890 Ocean Blvd",
       "zip": "97420",
-      "website": "https://www.lifecarecenterofcoosbay.com/",
+      "website": "https://lcca.com/locations/or/coos-bay/",
       "care_levels": [
         "skilled-nursing",
         "respite-care"
@@ -3507,7 +3534,8 @@
         "https://health.usnews.com/best-nursing-homes/area/or/life-care-center-of-coos-bay-385157",
         "https://www.medicare.gov/care-compare/details/nursing-home/385157/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "phone": "(541) 267-5433"
     },
     {
       "name": "Marquis Centennial Post Acute Rehab",
@@ -3537,7 +3565,8 @@
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-centennial-post-acute-rehabilitation-385183",
         "https://www.medicare.gov/care-compare/details/nursing-home/385183/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 665-3118"
     },
     {
       "name": "Marquis Mill Park",
@@ -3567,7 +3596,8 @@
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-mill-park-385214",
         "https://www.medicare.gov/care-compare/details/nursing-home/385214/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 262-6000"
     },
     {
       "name": "Marquis Vermont Hills",
@@ -3597,7 +3627,8 @@
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-vermont-hills-385218",
         "https://www.medicare.gov/care-compare/details/nursing-home/385218/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 246-8811"
     },
     {
       "name": "Marquis Piedmont Post Acute Rehab",
@@ -3628,7 +3659,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-piedmont-post-acute-rehabilitation-385208",
         "https://www.medicare.gov/care-compare/details/nursing-home/385208/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Creekside Health and Rehab of Cascadia",
@@ -3659,7 +3690,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/creekside-health-and-rehabilitation-of-cascadia-385147",
         "https://www.medicare.gov/care-compare/details/nursing-home/385147/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Marquis Wilsonville Post Acute Rehab",
@@ -3689,7 +3720,8 @@
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-wilsonville-post-acute-rehabilitation-385266",
         "https://www.medicare.gov/care-compare/details/nursing-home/385266/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 682-2840"
     },
     {
       "name": "Avamere Rehabilitation of Hillsboro",
@@ -3719,7 +3751,8 @@
         "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-hillsboro-385251",
         "https://www.medicare.gov/care-compare/details/nursing-home/385251/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 648-8588"
     },
     {
       "name": "Avamere Rehabilitation of Junction City",
@@ -3750,15 +3783,10 @@
         "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-junction-city-385229",
         "https://www.medicare.gov/care-compare/details/nursing-home/385229/"
       ],
-      "verified_date": "2026-07-13",
+      "verified_date": "2026-07-14",
       "cms_health_inspection_rating": 1,
       "cms_staffing_rating": 1,
-      "cms_quality_measure_rating": 2,
-      "serious_concern": true,
-      "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
-      "concern_type": "Federal enforcement fine (approximately $158,000 over three years)",
-      "concern_status": "Confirm current enforcement status directly on Care Compare",
-      "concern_source_url": "https://www.nursinghomesite.com/AVAMERE_REHABILITATION_OF_JUNCTION_CITY_JUNCTION_CITY_OR"
+      "cms_quality_measure_rating": 2
     },
     {
       "name": "Cedar Village by Cogir",
@@ -3786,7 +3814,8 @@
         "https://cogirusa.com/communities/cedar-village/",
         "https://www.aplaceformom.com/community/cedar-village-by-cogir-60019"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 390-9600"
     },
     {
       "name": "Rose Schnitzer Manor",
@@ -3813,7 +3842,8 @@
         "https://www.caring.com/senior-living/oregon/portland/rose-schnitzer-manor-97221",
         "https://cedarsinaipark.org/rose-schnitzer-manor/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 535-4000"
     },
     {
       "name": "The Ackerly at Reed's Crossing",
@@ -3843,7 +3873,7 @@
         "https://www.leisurecare.com/our-communities/ackerly-reeds-crossing/",
         "https://reviews.birdeye.com/the-ackerly-at-reeds-crossing-168152394386829"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Markham House",
@@ -3858,7 +3888,7 @@
       "address": "10606 SW Capitol Hwy",
       "zip": "97219",
       "phone": "(503) 244-9500",
-      "website": "https://www.koelschcommunities.com/community/markham-house/",
+      "website": "https://markhamsl.com/",
       "care_levels": [
         "assisted-living"
       ],
@@ -3871,7 +3901,7 @@
         "https://www.aplaceformom.com/community/markham-house-assisted-living-59897",
         "https://www.koelschcommunities.com/community/markham-house/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Angels Aisle Adult Foster",
@@ -3898,7 +3928,7 @@
         "https://www.caring.com/senior-living/oregon/eugene/angels-aisle-adult-foster",
         "https://health.usnews.com/best-senior-living/angels-aisle-adult-foster-C146096"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Bethany Adult Care",
@@ -3927,36 +3957,7 @@
         "https://www.seniorhousingnet.com/seniorliving-detail/bethany-adult-care_3070-nw-nyssa-ct_beaverton_or_97006-632689",
         "https://www.senioradvisor.com/local/bethany-adult-care-beaverton-or"
       ],
-      "verified_date": "2026-07-13"
-    },
-    {
-      "name": "Shalom Adult Foster Care Home",
-      "slug": "shalom-adult-foster-care-home",
-      "state": "oregon",
-      "state_name": "Oregon",
-      "state_abbrev": "OR",
-      "county": "jackson",
-      "county_name": "Jackson",
-      "city": "medford",
-      "city_name": "Medford",
-      "address": "2342 Roberts Rd",
-      "zip": "97504",
-      "phone": "(541) 772-0755",
-      "care_levels": [
-        "adult-family-home",
-        "memory-care"
-      ],
-      "facility_size": "small",
-      "capacity": 5,
-      "description": "Shalom Adult Foster Care Home is a five-resident adult foster home in an east Medford neighborhood. Registered nurses are available day and night for medication administration, blood-glucose monitoring, transfers, and memory care for Alzheimer's and dementia.",
-      "review_note": "4.9/5 across 20 reviews on Assisted Living Center (July 2026)",
-      "quality_basis": "Oregon adult foster home (up to 5 residents) included on documented review evidence: 4.9/5 across 20 reviews on Assisted Living Center (July 2026).",
-      "sources": [
-        "https://www.assistedlivingcenter.com/facilities/or/medford/shalom-adult-foster-care-home-97504/",
-        "https://www.seniorhousingnet.com/seniorliving-detail/shalom-adult-foster-care-home_2342-roberts-rd_medford_or_97504-633643",
-        "https://www.aplaceformom.com/community/shalom-adult-foster-care-home-1361440"
-      ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Sunrise Adult Foster Home",
@@ -3984,7 +3985,7 @@
         "https://www.senioradvisor.com/local/sunrise-adult-foster-home-tigard-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/sunrise-adult-foster-home_11400-sw-90th-ave_tigard_or_97223-621806"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Grace Care Adult Foster Home",
@@ -4012,36 +4013,7 @@
         "https://www.aplaceformom.com/community/grace-care-adult-foster-home-137835",
         "https://www.senioradvisor.com/local/grace-care-adult-foster-home-gresham-or"
       ],
-      "verified_date": "2026-07-13"
-    },
-    {
-      "name": "Anice Place Adult Foster Home, LLC",
-      "slug": "anice-place-adult-foster-home",
-      "state": "oregon",
-      "state_name": "Oregon",
-      "state_abbrev": "OR",
-      "county": "linn",
-      "county_name": "Linn",
-      "city": "albany",
-      "city_name": "Albany",
-      "address": "2454 Lyon St SE",
-      "zip": "97322",
-      "phone": "(541) 248-3514",
-      "care_levels": [
-        "adult-family-home",
-        "memory-care"
-      ],
-      "facility_size": "small",
-      "capacity": 5,
-      "description": "Anice Place Adult Foster Home is a small memory-care and residential care home in a quiet residential neighborhood of Albany, serving up to five residents.",
-      "review_note": "5.0/5 average overall experience across 3 reviews on A Place for Mom (July 2026)",
-      "quality_basis": "Oregon adult foster home (up to 5 residents) included on documented review evidence: 5.0/5 across 3 reviews on A Place for Mom (July 2026).",
-      "sources": [
-        "https://www.aplaceformom.com/community/anice-place-adult-foster-home-llc-1365974",
-        "https://www.senioradvisor.com/local/anice-place-adult-foster-home-llc-albany-or",
-        "https://www.assistedlivingcenter.com/facilities/or/albany/anice-place-adult-foster-home-llc-97322/"
-      ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Skyline Manor Care Home",
@@ -4069,7 +4041,7 @@
         "https://www.senioradvisor.com/local/skyline-manor-care-home-salem-or",
         "https://www.aplaceformom.com/community/skyline-manor-care-home-1365985"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Stephenson Adult Care Home",
@@ -4096,7 +4068,8 @@
         "https://www.aplaceformom.com/community/stephenson-adult-care-home-96664",
         "https://www.bbb.org/us/or/portland/profile/adult-family-homes/stephenson-adult-care-home-1296-22037490"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "phone": "(503) 245-9800"
     },
     {
       "name": "Holistic Hands Care",
@@ -4124,7 +4097,7 @@
         "https://www.aplaceformom.com/community/holistic-hands-care-1362858",
         "https://www.senioradvisor.com/local/holistic-hands-care-corvallis-or"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Fulga's ACH",
@@ -4152,7 +4125,8 @@
         "https://www.aplaceformom.com/community/fulgas-ach-151085",
         "https://www.care.com/b/l/fulga-s-adult-care-home-inc/beaverton-or"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "address": "16584 SW Hart Rd"
     },
     {
       "name": "Regina Adult Foster Home",
@@ -4180,7 +4154,7 @@
         "https://www.senioradvisor.com/local/regina-adult-foster-home-hillsboro-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/regina-adult-foster-home_7061-se-borwick-st_hillsboro_or_97123-630453"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Guardian Angel ACH",
@@ -4207,7 +4181,7 @@
         "https://www.aplaceformom.com/community/guardian-angel-ach-96025",
         "https://www.seniorhousingnet.com/seniorliving-detail/guardian-angel-ach_7659-sw-aldrich-ct_beaverton_or_97007-623351"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Summer Crest A.C.H.",
@@ -4236,7 +4210,7 @@
         "https://www.senioradvisor.com/local/summer-crest-a-dot-c-h-beaverton-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/summer-crest-ach_8263-sw-168th-ave_beaverton_or_97007-622192"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Pine Tree Care - AFH",
@@ -4264,7 +4238,7 @@
         "https://www.aplaceformom.com/community/pine-tree-care-afh-1365964",
         "https://www.senioradvice.com/providers/view/pine-tree-care-adult-foster-home-eugene-or"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Heightsview Care Home",
@@ -4292,7 +4266,7 @@
         "https://www.senioradvisor.com/local/heightsview-adult-care-home-beaverton-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/heightsview-adult-care-home_18935-sw-heightsview-ct_beaverton_or_97007-635223"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Corvallis Manor",
@@ -4322,13 +4296,13 @@
         "https://health.usnews.com/best-nursing-homes/area/or/corvallis-manor-385072",
         "https://ltclicensing.oregon.gov/Facilities/Details/385072"
       ],
-      "verified_date": "2026-07-13",
+      "verified_date": "2026-07-14",
       "special_focus_facility": true,
       "serious_concern_note": "A federal CMS Special Focus Facility (newly designated) — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
       "concern_type": "Special Focus Facility (newly designated)",
       "concern_status": "Active per CMS's Special Focus Facility tracking list — confirm current status directly",
-      "concern_source_url": "https://getstarpro.com/sff-list"
+      "concern_source_url": "https://www.cms.gov/files/document/sff-posting-candidate-list-june-2026.pdf"
     },
     {
       "name": "French Prairie Nursing and Rehabilitation Center",
@@ -4360,13 +4334,13 @@
         "https://www.volarehcm.com/locations/french-prairie-nursing-and-rehabilitation-center/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385117"
       ],
-      "verified_date": "2026-07-13",
+      "verified_date": "2026-07-14",
       "serious_concern": true,
       "serious_concern_note": "CMS Special Focus Facility Candidate — on the federal list of nursing homes with a documented pattern of serious quality problems, one tier below active Special Focus Facility status.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
       "concern_type": "Special Focus Facility Candidate",
       "concern_status": "Candidate status — one tier below active Special Focus Facility — confirm current status directly",
-      "concern_source_url": "https://getstarpro.com/sff-list"
+      "concern_source_url": "https://www.cms.gov/files/document/sff-posting-candidate-list-june-2026.pdf"
     },
     {
       "name": "Gresham Post Acute Care and Rehabilitation",
@@ -4394,7 +4368,7 @@
         "https://www.ohca.com/facility-finder/gresham-post-acute-care-and-rehabilitation/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385190"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Hearthstone Nursing and Rehabilitation Center",
@@ -4426,14 +4400,15 @@
         "https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/",
         "https://www.volarehcm.com/locations/hearthstone-nursing-rehabilitation-center/"
       ],
-      "verified_date": "2026-07-13",
+      "verified_date": "2026-07-14",
       "serious_concern": true,
       "serious_concern_note": "Carried a CMS special-focus-pattern designation and an active federal abuse citation flag during 2024-2025 inspections.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services) and Oregon DHS",
       "concern_type": "CMS abuse-citation flag; named on Oregon's public 'additional oversight' list",
       "concern_date": "Reported November 2024; CMS inspection window August 2024 – July 2025",
       "concern_status": "Confirm current status directly — the reported oversight window has since passed",
-      "concern_source_url": "https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/"
+      "concern_source_url": "https://www.medicare.gov/care-compare/details/nursing-home/385091",
+      "website": "https://www.volarehcm.com/locations/hearthstone-nursing-rehabilitation-center/"
     },
     {
       "name": "Highland House Nursing and Rehabilitation Center",
@@ -4464,7 +4439,8 @@
         "https://www.volarehcm.com/locations/highland-house-nursing-and-rehabilitation-center/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385149"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://www.volarehcm.com/locations/highland-house-nursing-and-rehabilitation-center/"
     },
     {
       "name": "Tierra Rose Care Center",
@@ -4494,10 +4470,10 @@
         "https://www.tierrarose.com/tierra-rose-care-center",
         "https://ltclicensing.oregon.gov/Facilities/Details/38E075"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
-      "name": "Tigard Rehabilitation and Care",
+      "name": "Sapphire at Tigard Rehabilitation Center",
       "slug": "tigard-rehabilitation-and-care",
       "state": "oregon",
       "state_name": "Oregon",
@@ -4522,7 +4498,8 @@
         "https://www.nursinghomedatabase.com/snf/385272",
         "https://ltclicensing.oregon.gov/Facilities/Details/38L600"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://sapphireattigardrehab.com/"
     },
     {
       "name": "Keizer Nursing and Rehabilitation",
@@ -4550,7 +4527,8 @@
         "https://www.ohca.com/facility-finder/keizer-nursing-and-rehabilitation/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385241"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://www.volarehcm.com/locations/keizer-nursing-rehabilitation-center/"
     },
     {
       "name": "Portland Health and Rehabilitation Center",
@@ -4579,8 +4557,9 @@
         "https://www.ohca.com/facility-finder/portland-health-and-rehabilitation-center/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385228"
       ],
-      "verified_date": "2026-07-13",
-      "cms_ccn": "385228"
+      "verified_date": "2026-07-14",
+      "cms_ccn": "385228",
+      "website": "https://evergreenhcg.com/locations/portland-health-and-rehab/"
     },
     {
       "name": "Willamette Springs Memory Care",
@@ -4610,14 +4589,15 @@
         "https://www.aplaceformom.com/community/willamette-springs-memory-care-1389904",
         "https://ltclicensing.oregon.gov/Facilities/Details/50M436"
       ],
-      "verified_date": "2026-07-13",
+      "verified_date": "2026-07-14",
       "serious_concern": true,
       "serious_concern_note": "State inspectors substantiated roughly 50 abuse citations over two years, and the state proposed non-renewal of its license in 2024; the facility passed a later re-inspection and remains open.",
       "concern_regulator": "Oregon Department of Human Services",
       "concern_type": "State-substantiated abuse findings",
       "concern_date": "Reported December 2024, covering roughly the prior two years",
       "concern_status": "Oregon DHS proposed non-renewal of the facility's license in 2024; the facility passed a subsequent re-inspection and remained licensed as of the report — confirm current status directly",
-      "concern_source_url": "https://www.opb.org/article/2024/12/13/willamette-springs-memory-care/"
+      "concern_source_url": "https://ltclicensing.oregon.gov/Facilities/Details/50M436",
+      "website": "https://mosaicms.com/community/willamette-springs-memory-care/"
     },
     {
       "name": "Powell Valley Assisted Living and Memory Care",
@@ -4646,14 +4626,14 @@
         "https://powellvalley.net/",
         "https://ltclicensing.oregon.gov/Facilities/Details/5MA213"
       ],
-      "verified_date": "2026-07-13",
+      "verified_date": "2026-07-14",
       "serious_concern": true,
       "serious_concern_note": "State inspectors substantiated an abuse finding connected to a resident's death after a wrongful eviction; the incident is the subject of a $14 million lawsuit.",
       "concern_regulator": "Oregon licensing authorities",
-      "concern_type": "State-substantiated finding related to resident care and safety",
-      "concern_date": "Reported March 2024",
-      "concern_status": "Subject of related litigation as of the source's reporting — confirm current status directly",
-      "concern_source_url": "https://www.wweek.com/news/courts/2024/03/28/a-wrongful-eviction-from-gresham-nursing-home-led-to-former-residents-death-lawsuit-alleges/"
+      "concern_type": "Multiple state-substantiated neglect findings with fines (2020-2022) and a substantiated abuse finding (2023) in Oregon DHS licensing records",
+      "concern_date": "2020-2023",
+      "concern_status": "The facility remains licensed and operating — confirm current status in the state licensing record directly",
+      "concern_source_url": "https://ltclicensing.oregon.gov/Facilities/Details/70M073?activeTab=inspectionsTab"
     },
     {
       "name": "Brookdale Geary Street",
@@ -4683,7 +4663,8 @@
         "https://www.brookdale.com/en/communities/brookdale-geary-street.html",
         "https://www.aplaceformom.com/community/brookdale-geary-street-60029"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://www.brookdale.com/en/communities/brookdale-geary-street.html"
     },
     {
       "name": "The Rawlin at Riverbend Memory Care",
@@ -4712,7 +4693,8 @@
         "https://www.onelifeseniorliving.com/communities/the-rawlin-memory-care",
         "https://www.aplaceformom.com/community/the-rawlin-at-riverbend-memory-care-1402203"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://www.onelifeseniorliving.com/communities/the-rawlin-memory-care"
     },
     {
       "name": "Wildflower Lodge",
@@ -4742,7 +4724,8 @@
         "https://www.compass-living.com/senior-living/or/la-grande/wildflower-lodge/",
         "https://www.caring.com/senior-living/oregon/la-grande/wildflower-lodge-senior-living"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://compass-living.com/community/wildflower-lodge/"
     },
     {
       "name": "Sunnyside Meadows Memory Care",
@@ -4771,7 +4754,8 @@
         "https://ltclicensing.oregon.gov/Facilities/Details/50R443",
         "https://www.aplaceformom.com/community/sunnyside-meadows-memory-care-1393470"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://www.sunnysidemeadows.com/"
     },
     {
       "name": "Maryville Nursing Home",
@@ -4801,7 +4785,7 @@
         "https://ssmo.org/maryville/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385166"
       ],
-      "verified_date": "2026-07-13",
+      "verified_date": "2026-07-14",
       "cms_health_inspection_rating": 2,
       "cms_staffing_rating": 5,
       "cms_quality_measure_rating": 5,
@@ -4834,7 +4818,8 @@
         "https://www.nursinghomedatabase.com/snf/385201",
         "https://ltclicensing.oregon.gov/Facilities/Details/385201"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://willowbrookpa.com/"
     },
     {
       "name": "Prestige Post-Acute and Rehabilitation Center - McMinnville",
@@ -4865,7 +4850,7 @@
         "https://www.mycaringplan.com/senior-living/prestige-post-acute-and-rehabilitation-center-mcminnville/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385225"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Rivercrest Post Acute",
@@ -4892,7 +4877,8 @@
         "https://www.nursinghomedatabase.com/snf/385245",
         "https://ltclicensing.oregon.gov/Facilities/Details/385245"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://rivercrestpa.com/"
     },
     {
       "name": "Pilot Butte Rehabilitation Center",
@@ -4920,7 +4906,8 @@
         "https://www.nursinghomedatabase.com/snf/385138",
         "https://ltclicensing.oregon.gov/Facilities/Details/385138"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://www.regency-pacific.com/senior-living/or/bend/pilot-butte-rehabilitation-center/"
     }
   ],
   "organizations": [

@@ -20,7 +20,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 8
 sources: ["https://www.aplaceformom.com/community/kina-ole-estate-1349354", "https://www.yelp.com/biz/kina-ole-estate-kaneohe-2", "https://kinaoleestate.com/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Kina 'Ole Estate is a small windward-Oahu care home in Kaneohe housing up to eight live-in residents, offering assisted living, memory care and expanded care with 24-hour staffing."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/kina-ole-estate-1349354"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/kina-ole-estate-kaneohe-2"}]
 reviews_search_url: "https://www.google.com/search?q=Kina+%27Ole+Estate+Kaneohe+HI+reviews"

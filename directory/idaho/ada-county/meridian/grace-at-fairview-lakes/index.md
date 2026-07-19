@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "grace-assisted-living"
 organization_name: "Grace Assisted Living"
 sources: ["https://www.assistedlivingcenter.com/facilities/id/meridian/grace-at-fairview-lakes-83646/", "https://www.caring.com/senior-living/idaho/meridian/grace-assisted-living-fairview-lakes", "https://graceseniorcommunity.com/assisted-living-meridian-id/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Grace at Fairview Lakes is a Grace Assisted Living community in Meridian offering independent living, assisted living, and a dedicated memory care unit."
 review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/id/meridian/grace-at-fairview-lakes-83646/"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/meridian/grace-assisted-living-fairview-lakes"}]
 reviews_search_url: "https://www.google.com/search?q=Grace+at+Fairview+Lakes+Meridian+ID+reviews"

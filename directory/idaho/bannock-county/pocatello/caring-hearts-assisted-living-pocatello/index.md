@@ -20,7 +20,7 @@ care_levels: ["assisted-living"]
 facility_size: "small"
 capacity: 15
 sources: ["https://www.caring.com/senior-living/idaho/pocatello/caring-hearts-assisted-living-83201", "https://caringheartsonthehill.com/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Caring Hearts Assisted Living is a small, 15-resident assisted living home in Pocatello offering one-on-one personal care."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/pocatello/caring-hearts-assisted-living-83201"}]
 reviews_search_url: "https://www.google.com/search?q=Caring+Hearts+Assisted+Living+Pocatello+ID+reviews"

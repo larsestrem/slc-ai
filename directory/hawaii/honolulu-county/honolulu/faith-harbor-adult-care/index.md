@@ -18,7 +18,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["https://www.aplaceformom.com/community/faith-harbor-adult-care-1366758", "https://www.senioradvisor.com/local/faith-harbor-adult-care-honolulu-hi"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Faith Harbor Adult Care is a small residential care home in East Honolulu (Aina Haina area) licensed for up to six residents, offering memory care in a home-like setting."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/faith-harbor-adult-care-1366758"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/faith-harbor-adult-care-honolulu-hi"}]
 reviews_search_url: "https://www.google.com/search?q=Faith+Harbor+Adult+Care+Honolulu+HI+reviews"

@@ -19,7 +19,7 @@ care_levels: ["adult-family-home"]
 facility_size: "small"
 capacity: 3
 sources: ["https://carelistings.com/assisted-living-homes/kent-wa/always-with-love-care/5acd028ca71d8c15cf695e51", "https://www.senioradvice.com/providers/view/always-with-love-care-kent-wa"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Always With Love Care is a licensed three-bed adult family home in Kent offering personal care, medication management, meals and 24-hour supervision in an intimate home setting."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/kent-wa/always-with-love-care/5acd028ca71d8c15cf695e51"}, {"name": "SeniorAdvice", "url": "https://www.senioradvice.com/providers/view/always-with-love-care-kent-wa"}]
 reviews_search_url: "https://www.google.com/search?q=Always+With+Love+Care+Kent+WA+reviews"

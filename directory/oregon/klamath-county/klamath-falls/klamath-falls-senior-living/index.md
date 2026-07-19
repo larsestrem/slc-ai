@@ -14,13 +14,13 @@ city: "klamath-falls"
 city_name: "Klamath Falls"
 address: "2130 N Eldorado Ave"
 zip: "97601"
-phone: "(541) 882-4830"
+phone: "(541) 237-7025"
 website: "https://klamathfallsseniorliving.com/"
 care_levels: ["independent-living", "assisted-living", "respite-care"]
 facility_size: "large"
 capacity: 70
 sources: ["https://klamathfallsseniorliving.com/", "https://www.aplaceformom.com/community/klamath-falls-senior-living-60278", "https://www.trustedlivingcare.com/item/pacifica-senior-living-klamath-falls/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Klamath Falls Senior Living (formerly Pacifica Senior Living Klamath Falls) is a licensed assisted living community on North Eldorado Avenue with a maximum capacity of 70 residents, also offering independent living and short-term respite stays. Apartments include studio, one-bedroom, and two-bedroom floor plans with kitchenettes and wheelchair-accessible showers."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/klamath-falls-senior-living-60278"}]
 reviews_search_url: "https://www.google.com/search?q=Klamath+Falls+Senior+Living+Klamath+Falls+OR+reviews"

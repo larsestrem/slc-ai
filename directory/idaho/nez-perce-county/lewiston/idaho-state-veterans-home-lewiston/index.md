@@ -23,12 +23,12 @@ organization: "idaho-division-of-veterans-services"
 organization_name: "Idaho Division of Veterans Services"
 cms_ccn: "135133"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/135133", "https://veterans.idaho.gov/veterans-home/lewiston/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 serious_concern: true
 concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
 concern_type: "Special Focus Facility"
-concern_status: "Active per current CMS data — the facility was previously shown with an incorrect 5-star overall rating on this site; confirm current status directly on Care Compare"
-concern_source_url: "https://www.nursinghomesite.com/IDAHO_STATE_VETERANS_HOME_-_LEWISTON_LEWISTON_ID"
+concern_status: "Active per current CMS data — confirm current status directly"
+concern_source_url: "https://www.cms.gov/files/document/sff-posting-candidate-list-june-2026.pdf"
 description_full: "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Lewiston, run by the Idaho Division of Veterans Services. Provides long-term and rehabilitative skilled nursing care in the Lewiston-Clarkston valley."
 reviews_search_url: "https://www.google.com/search?q=Idaho+State+Veterans+Home+-+Lewiston+Lewiston+ID+reviews"
 ---

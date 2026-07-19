@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care", "respite-c
 organization: "weatherly-inn"
 organization_name: "Weatherly Inn"
 sources: ["https://www.aplaceformom.com/community/weatherly-inn-tacoma-71800", "https://birdeye.com/weatherly-inn-tacoma-173895761106360", "https://www.yelp.com/biz/weatherly-inn-tacoma-4", "https://www.weatherlyinn.com/senior-living/tacoma-assisted-living/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Weatherly Inn Tacoma is a family-operated senior living community in north Tacoma offering independent living, assisted living, memory care, adult day stay and respite care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/weatherly-inn-tacoma-71800"}, {"name": "Birdeye", "url": "https://birdeye.com/weatherly-inn-tacoma-173895761106360"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/weatherly-inn-tacoma-4"}]
 reviews_search_url: "https://www.google.com/search?q=Weatherly+Inn+Tacoma+Tacoma+WA+reviews"

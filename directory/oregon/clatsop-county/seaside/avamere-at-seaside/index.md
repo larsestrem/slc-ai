@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "avamere-family-of-companies"
 organization_name: "Avamere Family of Companies"
 sources: ["https://www.aplaceformom.com/community/avamere-at-seaside-96454", "https://avamereatseaside.com/contact/", "https://ltclicensing.oregon.gov/Facilities/Details/50R296"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "An Oregon-licensed residential care community in Seaside offering assisted living with a dedicated memory care unit and an independent living option. Operated by Oregon-based Avamere."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/avamere-at-seaside-96454"}]
 reviews_search_url: "https://www.google.com/search?q=Avamere+at+Seaside+Seaside+OR+reviews"

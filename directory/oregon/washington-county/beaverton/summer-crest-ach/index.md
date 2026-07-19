@@ -19,7 +19,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 5
 sources: ["https://www.aplaceformom.com/community/summer-crest-a-c-h-1358479", "https://www.senioradvisor.com/local/summer-crest-a-dot-c-h-beaverton-or", "https://www.seniorhousingnet.com/seniorliving-detail/summer-crest-ach_8263-sw-168th-ave_beaverton_or_97007-622192"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Summer Crest A.C.H. is an Oregon state-licensed adult care home in Beaverton offering 24-hour private care for up to five residents, with a focus on memory care and a registered nurse available around the clock."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/summer-crest-a-c-h-1358479"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/summer-crest-a-dot-c-h-beaverton-or"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/summer-crest-ach_8263-sw-168th-ave_beaverton_or_97007-622192"}]
 reviews_search_url: "https://www.google.com/search?q=Summer+Crest+A.C.H.+Beaverton+OR+reviews"

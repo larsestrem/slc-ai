@@ -19,7 +19,7 @@ care_levels: ["adult-family-home"]
 facility_size: "small"
 capacity: 5
 sources: ["https://www.aplaceformom.com/community/guardian-angel-ach-96025", "https://www.seniorhousingnet.com/seniorliving-detail/guardian-angel-ach_7659-sw-aldrich-ct_beaverton_or_97007-623351"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Guardian Angel ACH is a five-bed adult care home in Beaverton offering assistance with the activities of daily living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/guardian-angel-ach-96025"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/guardian-angel-ach_7659-sw-aldrich-ct_beaverton_or_97007-623351"}]
 reviews_search_url: "https://www.google.com/search?q=Guardian+Angel+ACH+Beaverton+OR+reviews"

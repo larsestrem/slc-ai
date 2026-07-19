@@ -15,12 +15,13 @@ city_name: "Portland"
 address: "12441 SE Stark St"
 zip: "97233"
 phone: "(503) 255-7040"
+website: "https://evergreenhcg.com/locations/portland-health-and-rehab/"
 care_levels: ["skilled-nursing", "memory-care"]
 facility_size: "large"
 capacity: 105
 cms_ccn: "385228"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385228/", "https://www.ohca.com/facility-finder/portland-health-and-rehabilitation-center/", "https://ltclicensing.oregon.gov/Facilities/Details/385228"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Portland Health and Rehabilitation Center is a 105-bed Medicare- and Medicaid-certified skilled nursing facility in outer Southeast Portland offering short-term rehabilitation, long-term nursing care, and a memory care option."
 reviews_search_url: "https://www.google.com/search?q=Portland+Health+and+Rehabilitation+Center+Portland+OR+reviews"
 ---

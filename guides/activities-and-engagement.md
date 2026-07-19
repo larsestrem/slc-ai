@@ -53,7 +53,7 @@ Then verify on your [tour](/guides/touring-checklist/):
 
 - **Show up during a scheduled activity — unannounced if possible.** Is it happening? How many residents are there? Is the person leading it engaged, or scrolling a phone while residents sit?
 - Ask to see **last month's** calendar, not next month's. Ask which events actually ran and how many attended.
-- Ask how many activity staff hours the building has per week, and whether the activity director position is currently filled. Activity staff are often the first cut when budgets tighten, and the position sits vacant in many buildings.
+- Ask how many activity staff hours the building has per week, and whether the activity director position is currently filled. The activity role can be an early casualty when budgets tighten, so ask whether it's filled right now.
 - Ask how residents who can't or won't leave their rooms get engagement. The residents most at risk of isolation are the ones the calendar never reaches — good programs do one-on-one room visits.
 - Look at the bulletin-board photos: are they recent, and do they show the same three residents at every event?
 
@@ -61,7 +61,7 @@ Then verify on your [tour](/guides/touring-checklist/):
 
 ## Memory care engagement is a different discipline
 
-In [memory care](/guides/memory-care/), engagement isn't entertainment — it's the primary therapy. A person with dementia who is engaged is calmer, sleeps better, and needs fewer sedating medications; a bored, anxious one paces, cries out, or is drugged into stillness. Good memory care engagement looks different:
+In [memory care](/guides/memory-care/), engagement isn't entertainment — it's the primary therapy. A person with dementia who is engaged is calmer, sleeps better, and needs fewer sedating medications; a bored, anxious one paces, cries out, and may end up on more sedating medication than necessary. Good memory care engagement looks different:
 
 - **Failure-free activities** — folding towels, sorting objects, music, gardening, sensory bins — with no wrong answers and no score.
 - **Small groups or one-on-one**, not a room of twenty. Short sessions matched to short attention spans, repeated across the day.

@@ -21,7 +21,7 @@ facility_size: "large"
 organization: "sunshine-retirement-living"
 organization_name: "Sunshine Retirement Living"
 sources: ["https://reviews.birdeye.com/garden-way-retirement-community-157269666364288", "https://www.aplaceformom.com/community/garden-way-retirement-community-145001", "https://www.sunshineretirementliving.com/eugene-retirement-living/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Independent living community for adults 55+ established in 2010, set on landscaped grounds in east Eugene near shopping, dining, and medical facilities. Operated by Bend-based Sunshine Retirement Living, it offers all-day restaurant-style dining, salon services, free transportation, and a full activity calendar."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/garden-way-retirement-community-157269666364288"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/garden-way-retirement-community-145001"}]
 reviews_search_url: "https://www.google.com/search?q=Garden+Way+Retirement+Community+Eugene+OR+reviews"

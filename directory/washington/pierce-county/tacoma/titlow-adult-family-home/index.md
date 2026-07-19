@@ -19,7 +19,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["https://www.aplaceformom.com/community/titlow-adult-family-home-1403030", "https://www.seniorhousingnet.com/seniorliving-detail/titlow-adult-family-home_8388-6th-ave_tacoma_wa_98465-631395", "https://www.senioradvisor.com/local/golden-age-adult-family-home-tacoma-wa"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 specialties: ["Dementia"]
 description_full: "Titlow Adult Family Home is a licensed six-bed adult family home in Tacoma's Titlow Park neighborhood, near the beach and walking trails. It provides memory care and personal care services in a small residential setting. The owner is noted by families for attentive, hands-on involvement with each resident."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/titlow-adult-family-home-1403030"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/titlow-adult-family-home_8388-6th-ave_tacoma_wa_98465-631395"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/golden-age-adult-family-home-tacoma-wa"}]

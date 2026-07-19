@@ -20,7 +20,7 @@ care_levels: ["independent-living"]
 organization: "holiday-by-atria"
 organization_name: "Holiday by Atria"
 sources: ["https://seniorsite.org/property/show/sheldon-oaks", "https://www.holidayseniorliving.com/retirement-communities/holiday-sheldon-oaks-eugene-or", "https://www.caring.com/senior-living/oregon/eugene/holiday-sheldon-oaks"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Holiday Sheldon Oaks is an independent living community in Eugene's Sheldon neighborhood, part of the national Holiday by Atria network."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/holiday-sheldon-oaks"}]
 reviews_search_url: "https://www.google.com/search?q=Holiday+Sheldon+Oaks+Eugene+OR+reviews"

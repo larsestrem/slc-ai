@@ -20,7 +20,7 @@ care_levels: ["assisted-living", "memory-care"]
 organization: "the-gables-assisted-living"
 organization_name: "The Gables Assisted Living"
 sources: ["https://www.aplaceformom.com/community/the-gables-of-idaho-falls-assisted-living-52699", "https://thegablesfamily.com/locations/idaho-falls-assisted-living/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "The Gables of Idaho Falls Assisted Living & Memory Care is a community in Idaho Falls offering both assisted living and dedicated memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-gables-of-idaho-falls-assisted-living-52699"}]
 reviews_search_url: "https://www.google.com/search?q=The+Gables+of+Idaho+Falls+Assisted+Living+%26+Memory+Care+Idaho+Falls+ID+reviews"

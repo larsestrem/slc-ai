@@ -20,7 +20,7 @@ care_levels: ["assisted-living", "memory-care"]
 organization: "senior-lifestyle"
 organization_name: "Senior Lifestyle"
 sources: ["https://www.aplaceformom.com/community/copper-springs-senior-living-52774", "https://www.seniorlifestyle.com/property/idaho/copper-springs/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Copper Springs Senior Living is an assisted living and memory care community in Meridian operated by Senior Lifestyle, with a dedicated memory-care neighborhood for residents with Alzheimer's disease and other dementias."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/copper-springs-senior-living-52774"}]
 reviews_search_url: "https://www.google.com/search?q=Copper+Springs+Senior+Living+Meridian+ID+reviews"

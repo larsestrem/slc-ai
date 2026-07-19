@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "bonaventure-senior-living"
 organization_name: "Bonaventure Senior Living"
 sources: ["https://bonaventuresenior.com/community/bonaventure-of-vancouver/", "https://www.whca.org/facility-finder/bonaventure-of-vancouver/", "https://www.yelp.com/biz/bonaventure-of-vancouver-vancouver-3"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Bonaventure of Vancouver is a senior living community in Vancouver, Washington offering retirement (independent) living, assisted living, and memory care. It is operated by Bonaventure Senior Living, a family-owned company based in Salem, Oregon."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/bonaventure-of-vancouver-vancouver-3"}]
 reviews_search_url: "https://www.google.com/search?q=Bonaventure+of+Vancouver+Vancouver+WA+reviews"

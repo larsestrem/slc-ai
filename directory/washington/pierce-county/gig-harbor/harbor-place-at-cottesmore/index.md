@@ -14,13 +14,13 @@ city: "gig-harbor"
 city_name: "Gig Harbor"
 address: "1016 29th St NW"
 zip: "98335"
-phone: "(564) 237-2900"
+phone: "(253) 853-3354"
 website: "https://www.centurypa.com/senior-living/harbor-place-cottesmore/"
 care_levels: ["independent-living", "assisted-living"]
 facility_size: "large"
 capacity: 100
 sources: ["https://ultimateseniorresource.com/states/washington/gig-harbor/harbor-place-at-cottesmore", "https://www.centurypa.com/senior-living/harbor-place-cottesmore/", "https://www.gigharborchamber.net/list/member/harbor-place-at-cottesmore-219"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Harbor Place at Cottesmore offers 40 independent retirement apartments and 60 assisted living apartments on a Gig Harbor campus shared with a skilled nursing and rehab center, giving residents a continuum of care in one place. Serving seniors since 2006, it was named a 2025 U.S. News Best Assisted and Independent Living community."
 review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/washington/gig-harbor/harbor-place-at-cottesmore"}]
 reviews_search_url: "https://www.google.com/search?q=Harbor+Place+at+Cottesmore+Gig+Harbor+WA+reviews"

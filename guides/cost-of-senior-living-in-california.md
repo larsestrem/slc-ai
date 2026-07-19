@@ -33,7 +33,7 @@ Costs kept rising after that survey — nationally, assisted living climbed anot
 
 The regional spread is the single biggest lever California families have. Industry listing data from 2025-2026 (estimates, not survey medians) put Bay Area assisted living around $8,400/month and often $9,000+ in San Francisco and Marin, while Fresno, Bakersfield, and the Inland Empire run closer to $6,000-$6,500/month. San Diego and Orange County sit in between; Sacramento is usually a step below the coast.
 
-The insider truth: many families move a parent 90 minutes inland and fund an extra two to three years of care with the same savings. A community in Stockton or Fresno with strong reviews is not "lesser care" — staff wages are lower there, and that's most of what you're paying for.
+The insider truth: many families move a parent 90 minutes inland and fund an extra two to three years of care with the same savings. A community in Stockton or Fresno with a clean state record is not "lesser care" — staff wages are lower there, and that's most of what you're paying for.
 
 > **Ask this:** "What is your all-in monthly rate at my parent's assessed care level — base rent, care points, medication management, incontinence care — and how much did rates rise each of the last two years?"
 
@@ -45,7 +45,7 @@ Note that even when the ALW pays for care, you still owe room and board. Eligibi
 
 ## How to stretch your budget in California
 
-- **Look at small board-and-care homes (RCFEs with six beds).** California licenses thousands of six-bed [residential care homes](/guides/adult-family-homes/), often in ordinary houses. Prices commonly run $1,500-$3,000/month below big-brand communities in the same ZIP code, with better staff-to-resident ratios. Compare them in our [California directory](/directory/california/).
+- **Look at small board-and-care homes (RCFEs with six beds).** California licenses thousands of six-bed [residential care homes](/guides/adult-family-homes/), often in ordinary houses. Prices commonly run $1,500-$3,000/month below big-brand communities in the same ZIP code, often with fewer residents per caregiver. Compare them in our [California directory](/directory/california/).
 - **Use the inland arbitrage deliberately.** If family visits monthly rather than daily, Fresno, Modesto, or Riverside instead of the coast can save $20,000+ a year at similar quality.
 - **Start with adult day health care.** At roughly $1,950/month it can delay a residential move by a year or more when a parent lives with family.
 - **Get three quotes and negotiate move-in month.** California occupancy varies; communities with empty rooms quietly waive community fees or freeze first-year rates. Our [paying for senior care](/guides/paying-for-senior-care/) guide covers the tactics.

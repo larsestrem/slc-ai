@@ -15,10 +15,11 @@ city_name: "Everett"
 address: "2204 12th St"
 zip: "98201"
 phone: "425-258-6408"
+website: "https://www.carepartnersliving.com/everett-plaza-assisted-living/"
 care_levels: ["independent-living", "assisted-living"]
 facility_size: "medium"
 sources: ["https://www.yelp.com/biz/everett-plaza-assisted-living-community-everett", "https://www.caring.com/senior-living/washington/everett/everett-plaza-everett", "https://reviews.birdeye.com/everett-plaza-assisted-living-community-148049409088751"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Everett Plaza is an independent and assisted living community at 2204 12th St in Everett offering 24-hour caregiver support."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/everett-plaza-assisted-living-community-everett"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/everett/everett-plaza-everett"}, {"name": "Birdeye", "url": "https://reviews.birdeye.com/everett-plaza-assisted-living-community-148049409088751"}]
 reviews_search_url: "https://www.google.com/search?q=Everett+Plaza+Everett+WA+reviews"

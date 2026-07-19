@@ -14,12 +14,13 @@ city: "portland"
 city_name: "Portland"
 address: "2545 SW Terwilliger Blvd"
 zip: "97201"
+phone: "(503) 299-4911"
 website: "https://www.terwilligerplaza.com/"
 care_levels: ["ccrc", "independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
 capacity: 305
 sources: ["https://www.terwilligerplaza.com/", "https://www.caring.com/senior-living/oregon/portland/terwilliger-plaza-97201", "https://www.familyassets.com/continuing-care-retirement-communities/oregon/portland/terwilliger-plaza"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Terwilliger Plaza is a stand-alone nonprofit continuing care retirement community founded in 1962, located just south of downtown Portland. The community offers about 245 independent-living apartments plus 60 assisted-living beds, with 24/7 on-site licensed nurses and memory support services. Amenities include an aquatic center, wellness center, restaurant dining, and transportation."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/portland/terwilliger-plaza-97201"}]
 reviews_search_url: "https://www.google.com/search?q=Terwilliger+Plaza+Portland+OR+reviews"

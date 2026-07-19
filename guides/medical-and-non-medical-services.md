@@ -62,11 +62,11 @@ The pattern, by care type:
 - **[Memory care](/guides/memory-care/):** more services are bundled (supervision, structured programming, usually most personal care), which is part of why it runs roughly $7,000-$8,500 per month nationally.
 - **Skilled nursing:** essentially all-inclusive medically, at roughly $10,000-$12,000 per month for a private room.
 
-The honest truth: communities know families compare advertised base rates, so services migrate out of "included" and into "care charges" where they're invisible until after assessment. Our [hidden fees guide](/guides/whats-not-included-hidden-fees/) walks through forcing the full picture into the open.
+The practical reality: unbundled pricing is standard in this industry — base rates cover housing and hospitality, while care services are priced after an assessment — so the advertised rate rarely reflects the real monthly total. Our [hidden fees guide](/guides/whats-not-included-hidden-fees/) walks through forcing the full picture into the open.
 
 ## How to compare two communities fairly
 
-Brochure-to-brochure comparison is impossible by design. Do this instead:
+Brochure-to-brochure comparison is impossible from the brochures alone. Do this instead:
 
 1. Ask each community for its **complete service list and fee schedule in writing** — every service, marked included or extra, with prices.
 2. Have each community **assess your parent before you sign** and quote the specific care level and monthly total for *their* needs — not the base rate.

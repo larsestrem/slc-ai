@@ -18,7 +18,7 @@ phone: "(503) 515-5079"
 care_levels: ["adult-family-home"]
 facility_size: "small"
 sources: ["https://www.aplaceformom.com/community/angels-place-adult-foster-care-160284", "https://www.senioradvisor.com/local/angels-place-adult-foster-care-gresham-or", "https://www.seniorhousingnet.com/seniorliving-detail/angels-place-adult-foster-care_1535-se-evelyn-ct_gresham_or_97080-637213"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Angels Place Adult Foster Care is a small residential care home in Gresham offering one-on-one personal care, help with bathing and medication management, and home-cooked meals tailored to residents' preferences."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/angels-place-adult-foster-care-160284"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/angels-place-adult-foster-care-gresham-or"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/angels-place-adult-foster-care_1535-se-evelyn-ct_gresham_or_97080-637213"}]
 reviews_search_url: "https://www.google.com/search?q=Angels+Place+Adult+Foster+Care+Gresham+OR+reviews"

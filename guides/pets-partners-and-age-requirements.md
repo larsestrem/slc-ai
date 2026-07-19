@@ -18,7 +18,7 @@ Families spend weeks comparing care levels and prices, then discover on move-in 
 
 ## Can the dog or cat come?
 
-For many older adults, the pet is the deal-breaker — and honestly, that's reasonable. A dog or cat is often the last daily companion left, and research on this is clear: pets reduce loneliness. The good news is that most [independent living](/guides/independent-living/) and [assisted living](/guides/assisted-living/) communities now accept pets. The details, though, vary a lot.
+For many older adults, the pet is the deal-breaker — and honestly, that's reasonable. A dog or cat is often the last daily companion left, and studies consistently suggest pets reduce loneliness. The good news is that most [independent living](/guides/independent-living/) and [assisted living](/guides/assisted-living/) communities now accept pets. The details, though, vary a lot.
 
 Ask about each of these specifically:
 

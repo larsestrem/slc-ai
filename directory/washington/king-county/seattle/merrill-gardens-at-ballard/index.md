@@ -14,13 +14,13 @@ city: "seattle"
 city_name: "Seattle"
 address: "2418 NW 56th St"
 zip: "98107"
-phone: "(206) 838-8555"
+phone: "(206) 965-9370"
 website: "https://www.merrillgardens.com/senior-living/wa/seattle/merrill-gardens-at-ballard/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 organization: "merrill-gardens"
 organization_name: "Merrill Gardens"
 sources: ["https://www.merrillgardens.com/senior-living/wa/seattle/merrill-gardens-at-ballard/", "https://www.yelp.com/biz/merrill-gardens-at-ballard-seattle", "https://www.aplaceformom.com/community/merrill-gardens-at-ballard-1395594"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Merrill Gardens at Ballard is a senior living community in the heart of Seattle's Ballard neighborhood offering independent living, assisted living, and memory care. It is operated by Merrill Gardens, a Seattle-based senior living company, and is located near Ballard's shopping, dining, and medical facilities."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-ballard-seattle"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-ballard-1395594"}]
 reviews_search_url: "https://www.google.com/search?q=Merrill+Gardens+at+Ballard+Seattle+WA+reviews"

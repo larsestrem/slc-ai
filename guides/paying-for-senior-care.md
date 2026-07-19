@@ -80,7 +80,7 @@ The essentials: Medicaid has strict income and asset limits, a **five-year look-
 
 ## Get professional help early
 
-This is the one area of senior care where paying for advice reliably pays for itself. An **elder law attorney** (find one via the National Academy of Elder Law Attorneys) can structure the house, savings, and any gifts to fund good care while protecting a healthy spouse — legally and ethically. A fee-only financial advisor can model how long the money lasts. Rules on Medicaid, taxes, and VA benefits vary significantly by state, and nothing on this page is legal or financial advice.
+This is the area of senior care where paying for advice most often pays for itself. An **elder law attorney** (find one via the National Academy of Elder Law Attorneys) can structure the house, savings, and any gifts to fund good care while protecting a healthy spouse — legally and ethically. A fee-only financial advisor can model how long the money lasts. Rules on Medicaid, taxes, and VA benefits vary significantly by state, and nothing on this page is legal or financial advice.
 
 ## Common questions
 

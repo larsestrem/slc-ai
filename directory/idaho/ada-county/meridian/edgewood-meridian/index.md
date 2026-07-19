@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care", "respite-c
 organization: "edgewood-healthcare"
 organization_name: "Edgewood Healthcare"
 sources: ["https://www.edgewoodhealthcare.com/community/meridian/", "https://www.aplaceformom.com/community/edgewood-spring-creek-meridian-llc-140006", "https://www.carechanges.com/living-communities/edgewood-meridian_meridian_idaho/"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Edgewood Meridian (licensed as Edgewood Spring Creek Meridian) offers independent living, assisted living, secured memory care, and short-term stays near Ten Mile Creek in Meridian. The state-licensed assisted living facility maintains 24-hour staffing, medication management, and on-site coordination of physical, occupational, and speech therapy. Its memory care neighborhood serves residents with Alzheimer's disease and other dementias, with secured, alarmed doors and a fenced outdoor area."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/edgewood-spring-creek-meridian-llc-140006"}]
 reviews_search_url: "https://www.google.com/search?q=Edgewood+Meridian+Meridian+ID+reviews"

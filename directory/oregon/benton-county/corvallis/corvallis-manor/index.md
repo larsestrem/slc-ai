@@ -20,12 +20,12 @@ facility_size: "large"
 capacity: 135
 cms_ccn: "385072"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385072/", "https://getstarpro.com/sff-list", "https://health.usnews.com/best-nursing-homes/area/or/corvallis-manor-385072", "https://ltclicensing.oregon.gov/Facilities/Details/385072"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 special_focus_facility: true
 concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
 concern_type: "Special Focus Facility (newly designated)"
 concern_status: "Active per CMS's Special Focus Facility tracking list — confirm current status directly"
-concern_source_url: "https://getstarpro.com/sff-list"
+concern_source_url: "https://www.cms.gov/files/document/sff-posting-candidate-list-june-2026.pdf"
 description_full: "Corvallis Manor is a Medicare- and Medicaid-certified skilled nursing facility in Corvallis offering short-term rehabilitation and long-term nursing care. The facility has 135 certified beds. It is regulated by CMS and the Oregon Department of Human Services long-term care licensing program."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/corvallis-manor-385072"}]
 reviews_search_url: "https://www.google.com/search?q=Corvallis+Manor+Corvallis+OR+reviews"

@@ -33,7 +33,7 @@ If you're choosing what fits a shared room versus a private one, our guide to [s
 
 This list matters as much as the first one:
 
-- **Valuables and heirlooms.** Jewelry, cash, irreplaceable items. Communities are not banks, rooms are not vaults, and staff turnover is real. Bring costume jewelry if jewelry matters; keep the real pieces with family.
+- **Valuables and heirlooms.** Jewelry, cash, irreplaceable items. Communities are not banks, and many people pass through a busy building — small valuables get lost. Bring costume jewelry if jewelry matters; keep the real pieces with family.
 - **Too much.** The most common move-in mistake is overfilling the room. Clutter is a fall hazard, makes housekeeping harder, and makes the room feel chaotic instead of homey. When in doubt, leave it out — you can always bring more later, and "later" almost never comes.
 - **Furniture that doesn't fit the floor plan.** Measure first. Walkers and wheelchairs need clear paths. If sorting a whole house down to one room feels impossible, that's exactly the job a [senior move manager](/guides/senior-move-managers/) does professionally — including drawing the floor plan before moving day so nothing arrives that won't fit.
 - **Anything the community prohibits.** Space heaters, extension cords, throw rugs, and sometimes candles or certain appliances are commonly banned for safety. Ask for the list in advance rather than getting flagged on day one.
@@ -70,7 +70,7 @@ Phone calls follow the same logic. A predictable rhythm — say, a call every ev
 
 ## The guilt that shows up that first night
 
-You will probably drive home, sit down, and feel awful. Almost everyone does. The empty passenger seat, the voice saying *you left them there.* Hear this: that feeling is grief and love wearing a guilt costume, not evidence you did the wrong thing. You moved your parent somewhere they are safe, fed, and cared for around the clock — and you get to go back to being their child instead of their exhausted nurse. If the guilt lingers or gets loud, our guide to [coping with the decision](/guides/coping-with-the-decision/) was written for exactly this night. And if you're still second-guessing the choice itself, revisit [how to choose a senior care facility](/guides/how-to-choose-a-senior-care-facility/) — you'll likely find you did the homework right.
+You will probably drive home, sit down, and feel awful. Almost everyone does. The empty passenger seat, the voice saying *you left them there.* Hear this: that feeling is grief and love wearing a guilt costume, not evidence you did the wrong thing. You moved your parent somewhere you chose carefully so they can be safe, fed, and cared for around the clock — and you get to go back to being their child instead of their exhausted nurse. If the guilt lingers or gets loud, our guide to [coping with the decision](/guides/coping-with-the-decision/) was written for exactly this night. And if you're still second-guessing the choice itself, revisit [how to choose a senior care facility](/guides/how-to-choose-a-senior-care-facility/) — you'll likely find you did the homework right.
 
 ## Common questions
 

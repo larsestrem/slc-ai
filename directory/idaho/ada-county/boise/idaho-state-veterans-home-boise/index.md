@@ -14,6 +14,7 @@ city: "boise"
 city_name: "Boise"
 address: "320 Collins Rd"
 zip: "83702"
+phone: "(208) 780-1600"
 website: "https://veterans.idaho.gov/veterans-home/boise/"
 care_levels: ["skilled-nursing"]
 facility_size: "large"
@@ -22,7 +23,7 @@ organization: "idaho-division-of-veterans-services"
 organization_name: "Idaho Division of Veterans Services"
 cms_ccn: "135131"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/135131", "https://veterans.idaho.gov/veterans-home/boise/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A state-operated skilled nursing home for eligible Idaho veterans and their spouses, run by the Idaho Division of Veterans Services. It provides long-term skilled nursing and rehabilitative care in northwest Boise."
 reviews_search_url: "https://www.google.com/search?q=Idaho+State+Veterans+Home+-+Boise+Boise+ID+reviews"
 ---

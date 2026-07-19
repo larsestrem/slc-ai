@@ -23,7 +23,7 @@ organization: "life-care-centers-of-america"
 organization_name: "Life Care Centers of America"
 cms_ccn: "135091"
 sources: ["https://lcca.com/locations/id/idaho-falls/", "https://health.usnews.com/best-nursing-homes/area/id/life-care-center-of-idaho-falls-135091", "https://www.mycaringplan.com/senior-living/life-care-center-of-idaho-falls/", "https://carelistings.com/skilled-nursing-facilities/idaho-falls-id/life-care-center-of-idaho-falls/5ace880f93efd2372f97bc1e"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Life Care Center of Idaho Falls is a 109-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility on the east side of Idaho Falls. The facility has participated in Medicare since 1981 and is part of Life Care Centers of America."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/life-care-center-of-idaho-falls-135091"}, {"name": "My Caring Plan", "url": "https://www.mycaringplan.com/senior-living/life-care-center-of-idaho-falls/"}, {"name": "CareListings", "url": "https://carelistings.com/skilled-nursing-facilities/idaho-falls-id/life-care-center-of-idaho-falls/5ace880f93efd2372f97bc1e"}]
 reviews_search_url: "https://www.google.com/search?q=Life+Care+Center+of+Idaho+Falls+Idaho+Falls+ID+reviews"

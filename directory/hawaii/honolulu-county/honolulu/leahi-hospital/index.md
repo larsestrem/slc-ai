@@ -23,7 +23,7 @@ organization: "hawaii-health-systems-corporation"
 organization_name: "Hawaii Health Systems Corporation"
 cms_ccn: "125010"
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/leahi-hospital-125010", "https://leahi.hhsc.org/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Leahi Hospital is a state-government-owned skilled nursing facility in the Kaimuki area of Honolulu, operated by the Hawaii Health Systems Corporation. The campus also runs an adult day health center serving the surrounding community."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/leahi-hospital-125010"}]
 reviews_search_url: "https://www.google.com/search?q=Leahi+Hospital+Honolulu+HI+reviews"

@@ -19,7 +19,7 @@ website: "https://www.willametteoaks.com/"
 care_levels: ["independent-living"]
 facility_size: "large"
 sources: ["https://reviews.birdeye.com/willamette-oaks-a-lifeminded-residence-senior-housing-eugene-157256464716654", "https://www.caring.com/senior-living/oregon/eugene/willamette-oaks-97401", "https://www.aplaceformom.com/community/willamette-oaks-60116"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Independent living retirement community on an 11-acre riverfront property beside the Willamette River in Eugene. Its signature LifeMinded program lets residents build a personalized wellness plan, with exercise and yoga classes, garden spaces, and evening outings."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/willamette-oaks-a-lifeminded-residence-senior-housing-eugene-157256464716654"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/willamette-oaks-97401"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/willamette-oaks-60116"}]
 reviews_search_url: "https://www.google.com/search?q=Willamette+Oaks+Eugene+OR+reviews"

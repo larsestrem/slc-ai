@@ -14,6 +14,7 @@ city: "wilsonville"
 city_name: "Wilsonville"
 address: "32200 SW French Prairie Rd"
 zip: "97070"
+phone: "(503) 694-2700"
 website: "https://www.srgseniorliving.com/portland-or-springridge-at-charbonneau/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
@@ -21,7 +22,7 @@ capacity: 264
 organization: "senior-resource-group"
 organization_name: "Senior Resource Group"
 sources: ["https://www.srgseniorliving.com/portland-or-springridge-at-charbonneau/", "https://www.caring.com/senior-living/oregon/wilsonville/springridge-charbonneau-97070", "https://www.aplaceformom.com/community/spring-ridge-at-charbonneau-96853"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "SpringRidge at Charbonneau is an award-winning 264-unit senior living campus offering independent living, assisted living, and memory care inside Wilsonville's 477-acre master-planned Charbonneau community, which surrounds a 27-hole golf course. The pet-friendly campus features walking paths, varied floor plans, and an active social calendar. It is operated by Senior Resource Group (SRG)."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/wilsonville/springridge-charbonneau-97070"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/spring-ridge-at-charbonneau-96853"}]
 reviews_search_url: "https://www.google.com/search?q=SpringRidge+at+Charbonneau+Wilsonville+OR+reviews"

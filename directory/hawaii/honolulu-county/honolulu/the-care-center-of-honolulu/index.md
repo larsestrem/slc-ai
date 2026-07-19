@@ -21,7 +21,7 @@ facility_size: "large"
 capacity: 182
 cms_ccn: "125019"
 sources: ["https://projects.propublica.org/nursing-homes/homes/h-125019", "https://www.nursinghomedatabase.com/snf/125019", "https://www.thecareratings.com/all-states/hawaii/honolulu/the-care-center-of-honolulu-96817/", "https://www.medicare.gov/care-compare/details/nursing-home/125019/view-all/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 serious_concern: true
 concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
 concern_type: "CMS close-monitoring flag and federal fines"

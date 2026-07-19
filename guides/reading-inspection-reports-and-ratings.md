@@ -72,7 +72,7 @@ State standards for assisted living vary enormously — what earns a citation in
 
 Inspections are scheduled snapshots; complaints show what happened in between. Every state licensing agency logs complaints against facilities and investigates the credible ones — substantiated complaints usually appear alongside inspection results.
 
-A large facility will accumulate some complaints over the years; that alone isn't disqualifying. What matters is volume compared to similar facilities, whether complaints were substantiated, and whether the same issue keeps appearing. You can also ask the licensing agency for a facility's complaint history directly.
+A large facility will accumulate some complaints over the years; that alone isn't disqualifying. What matters is volume compared to similar facilities, whether complaints were substantiated, whether the same issue keeps appearing — and whether the facility's plan of correction actually fixed it. A facility that owns and corrects its problems is often a safer bet than one with a thin record and a defensive posture; see [judging a community by its complaint response](/guides/why-good-communities-get-complaints/). You can also ask the licensing agency for a facility's complaint history directly.
 
 ## The long-term care ombudsman: your inside source
 

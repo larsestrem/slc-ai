@@ -67,7 +67,7 @@ language: the regulator, the specific finding, the date when known, its current 
 direct link to the source record. This isn't a rating we compute; it's a fact we found and are
 reporting, the same way we'd report an address or a phone number. We still list these
 communities rather than deleting them — a family searching for that exact name deserves the real
-record, not a blank page — but we say plainly what we found, and point you to verify it yourself.
+record, not a blank page — but we say plainly what we found, and point you to verify it yourself. Communities can also [claim their listing](/for-communities/) to add corrections and context, including how they responded — a facility's response to a finding is itself worth judging.
 
 ## How to judge what you find when you click through
 
@@ -86,6 +86,10 @@ Whatever rating or review you find at the source, a few things are worth keeping
 - **Government and review-site numbers measure different things**, and shouldn't be read as
   interchangeable — a federal inspection score reflects staffing and clinical data; a review
   average reflects families' day-to-day experience.
+- **Every community gets complaints — the response is the signal.** Running a senior care
+  community is genuinely hard work, and even excellent ones accumulate hard reviews and the
+  occasional citation. What separates them is
+  [how they handle complaints and what changes afterward](/guides/why-good-communities-get-complaints/).
 
 None of this replaces reading the real numbers yourself at the source, and your own visit still
 tells you more than any number can.

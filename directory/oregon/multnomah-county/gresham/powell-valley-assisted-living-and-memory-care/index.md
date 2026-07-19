@@ -20,13 +20,13 @@ care_levels: ["assisted-living", "memory-care"]
 facility_size: "large"
 capacity: 115
 sources: ["https://www.wweek.com/news/courts/2024/03/28/a-wrongful-eviction-from-gresham-nursing-home-led-to-former-residents-death-lawsuit-alleges/", "https://powellvalley.net/", "https://ltclicensing.oregon.gov/Facilities/Details/5MA213"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 serious_concern: true
 concern_regulator: "Oregon licensing authorities"
-concern_type: "State-substantiated finding related to resident care and safety"
-concern_date: "Reported March 2024"
-concern_status: "Subject of related litigation as of the source's reporting — confirm current status directly"
-concern_source_url: "https://www.wweek.com/news/courts/2024/03/28/a-wrongful-eviction-from-gresham-nursing-home-led-to-former-residents-death-lawsuit-alleges/"
+concern_type: "Multiple state-substantiated neglect findings with fines (2020-2022) and a substantiated abuse finding (2023) in Oregon DHS licensing records"
+concern_date: "2020-2023"
+concern_status: "The facility remains licensed and operating — confirm current status in the state licensing record directly"
+concern_source_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M073?activeTab=inspectionsTab"
 description_full: "Powell Valley Assisted Living and Memory Care is a 115-bed licensed assisted living and memory care community on a four-acre campus in Gresham, offering studio, one-bedroom, and two-bedroom units."
 reviews_search_url: "https://www.google.com/search?q=Powell+Valley+Assisted+Living+and+Memory+Care+Gresham+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}

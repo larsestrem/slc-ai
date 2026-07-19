@@ -21,7 +21,7 @@ facility_size: "large"
 organization: "cascade-living-group"
 organization_name: "Cascade Living Group"
 sources: ["https://www.aplaceformom.com/community/waterford-grand-1376064", "https://www.cascadeliving.com/community/waterford-grand/", "https://ltclicensing.oregon.gov/Facilities/Details/50R411"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "An assisted living and memory care community beside the Willamette River in Eugene with a gym, pool, and salon."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/waterford-grand-1376064"}]
 reviews_search_url: "https://www.google.com/search?q=Waterford+Grand+Eugene+OR+reviews"

@@ -29,7 +29,7 @@ This is enormously useful to you. There's no velvet rope, no gatekeeping. You ca
 
 ## The honest flip side: a warm welcome is not the same as good care
 
-Now the uncomfortable truth, and the rule this site is built on: **a beautiful lobby and a friendly tour prove marketing skill, not care quality.** The chandelier and the fresh-baked cookies are aimed at you, the adult child writing the check — not at the daily life of the resident. Some communities pour money into curb appeal while running short-staffed on the care floors. Our promise is to point families toward communities that care about residents' quality of life, not just their census numbers — and to teach you to tell the difference yourself.
+Now the uncomfortable truth, and the rule this site is built on: **a beautiful lobby and a friendly tour prove marketing skill, not care quality.** The chandelier and the fresh-baked cookies are aimed at you, the adult child writing the check — not at the daily life of the resident. Some communities pour money into curb appeal while running short-staffed on the care floors. Our goal is to teach you to tell the difference yourself — using public records, unhurried visits, and the questions in this guide, not the lobby.
 
 So flip their eagerness to your advantage:
 
@@ -37,14 +37,14 @@ So flip their eagerness to your advantage:
 - **Eat the food.** More than once. Food quality and mealtime atmosphere are where budgets and culture show first.
 - **Book a respite stay** before any permanent decision. A week living there tells you more than five tours.
 - **Watch the staff with current residents, not with you.** Do they know residents by name? Crouch to eye level? Knock before entering? Do residents look engaged or parked? How staff treat the residents they already have is exactly how they'll treat your parent.
-- **Talk to residents and visiting families** out of earshot of the marketing director. Ask what they'd change.
+- **Talk to residents and visiting families** out of earshot of the marketing director. Ask what they'd change — and how management responded when they raised it; every community has problems, and the good ones fix them.
 - **Verify with the paper trail.** Every state inspects these communities, and complaints and violations are public. Our guide to [reading inspection reports and ratings](/guides/reading-inspection-reports-and-ratings/) shows you where to look; our [touring checklist](/guides/touring-checklist/) covers what to observe on site.
 
 > **Ask this:** On the tour, ask: "What's your caregiver staffing at 2 a.m., and what was your staff turnover last year?" A confident, specific answer is a green flag. Vagueness, or a pivot back to the salt-water pool, tells you where their priorities live.
 
 ## What actually happens to people after the move
 
-Here's what the research consistently shows, and what surprises almost every reluctant family: **many older adults become less lonely and more active after moving to senior living, not more.** It makes sense once you see the "before" clearly. The parent defending their independence at home is often spending their days alone — no longer driving, friends gone or homebound, world shrunk to a few rooms and a TV. That's not independence; it's isolation with a familiar wallpaper.
+Here's what surprises almost every reluctant family — and what many families report and some research supports: **many older adults become less lonely and more active after moving to senior living, not more.** It makes sense once you see the "before" clearly. The parent defending their independence at home is often spending their days alone — no longer driving, friends gone or homebound, world shrunk to a few rooms and a TV. That's not independence; it's isolation with a familiar wallpaper.
 
 After a move, the ingredients of a social life come back within walking distance: neighbors their own age, shared meals, clubs, exercise classes, transportation to outings. Studies of new residents repeatedly find reduced loneliness, more social engagement, and more physical activity within months of moving — and families report something simpler: Mom has stories to tell again. Loneliness isn't just sad, either; chronic isolation is linked to higher risks of depression, heart disease, and dementia. For many people, the move is a health intervention, not a surrender.
 

@@ -16,12 +16,12 @@ address: "11729 NE 118th Street"
 zip: "98034"
 phone: "(425) 437-3662"
 website: "https://morningstarkirkland.com/"
-care_levels: ["independent-living", "assisted-living"]
+care_levels: ["independent-living"]
 facility_size: "large"
 organization: "morningstar-senior-living"
 organization_name: "MorningStar Senior Living"
 sources: ["https://ultimateseniorresource.com/states/washington/kirkland/morningstar-of-kirkland", "https://morningstarkirkland.com/contact-us/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A MorningStar Senior Living community in Kirkland offering independent and assisted living with stylish apartments and hospitality-focused amenities."
 review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/washington/kirkland/morningstar-of-kirkland"}]
 reviews_search_url: "https://www.google.com/search?q=MorningStar+of+Kirkland+Kirkland+WA+reviews"

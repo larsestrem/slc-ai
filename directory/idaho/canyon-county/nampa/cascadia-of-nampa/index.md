@@ -14,7 +14,8 @@ city: "nampa"
 city_name: "Nampa"
 address: "900 N Happy Valley Rd"
 zip: "83687"
-website: "https://www.cascadiahc.com/our-facilities/"
+phone: "(208) 401-9639"
+website: "https://www.cascadiaofnampa.com/"
 care_levels: ["skilled-nursing"]
 facility_size: "large"
 capacity: 99
@@ -22,7 +23,7 @@ organization: "cascadia-healthcare"
 organization_name: "Cascadia Healthcare"
 cms_ccn: "135144"
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-nampa-135144", "https://www.medicare.gov/care-compare/details/nursing-home/135144"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A 99-bed skilled nursing and short-term rehabilitation center in Nampa operated by Cascadia Healthcare. Offers Medicare- and Medicaid-certified post-acute and long-term care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-nampa-135144"}]
 reviews_search_url: "https://www.google.com/search?q=Cascadia+of+Nampa+Nampa+ID+reviews"

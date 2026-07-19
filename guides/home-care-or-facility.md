@@ -17,7 +17,7 @@ faqs: [{"q": "Is in-home care or a facility better for dementia?", "a": "Early o
 
 ## When in-home care works beautifully
 
-Home is the right answer more often than the senior-living industry would have you believe. It tends to work best when most of these are true:
+Home is the right answer more often than many families assume. It tends to work best when most of these are true:
 
 - **Care needs are moderate.** Help is needed for hours a day, not around the clock — bathing, meals, medications, rides. This is the zone where [in-home care](/guides/in-home-care-explained/) is both effective and affordable.
 - **There's a real social world.** A spouse, nearby kids, neighbors who drop by, a church community, longtime friends. The aide supplements a life; it isn't the whole life.
@@ -45,7 +45,7 @@ Stairs that can't be bypassed, a bathroom that can't fit a wheelchair, a rural l
 
 ### The one families underestimate: loneliness
 
-Here's the insight that surprises people most. Staying home is usually framed as preserving your parent's life — but if the friends have died or moved, the neighborhood has turned over, and driving is done, "home" can shrink to four walls and a television. **A senior alone at home with an aide can be more isolated than they'd ever be in a community.** An aide is one person, often rotating; a decent community offers dozens of faces, shared meals, and something happening down the hall. Chronic loneliness is a genuine health risk — comparable in its effects to smoking — and families routinely discover that a parent who "never wanted to move" blossoms in a community within months.
+Here's the insight that surprises people most. Staying home is usually framed as preserving your parent's life — but if the friends have died or moved, the neighborhood has turned over, and driving is done, "home" can shrink to four walls and a television. **A senior alone at home with an aide can be more isolated than they'd ever be in a community.** An aide is one person, often rotating; a decent community offers dozens of faces, shared meals, and something happening down the hall. Chronic loneliness is a genuine health risk — research on loneliness has compared its health effects to smoking — and families routinely discover that a parent who "never wanted to move" blossoms in a community within months.
 
 Ask yourself honestly: on an average day, how many people does your parent actually talk to?
 

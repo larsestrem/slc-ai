@@ -20,7 +20,7 @@ care_levels: ["independent-living", "assisted-living"]
 organization: "prestige-care"
 organization_name: "Prestige Care"
 sources: ["https://www.prestigecare.com/locations/prestige-senior-living-bridgewood/", "https://www.aplaceformom.com/community/prestige-senior-living-bridgewood-97217", "https://www.yelp.com/biz/prestige-senior-living-bridgewood-vancouver"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Prestige Senior Living Bridgewood is an independent and assisted living community in a park-like setting in east Vancouver, Washington, near I-205 between SR-500 and Mill Plain Boulevard. It is operated by Prestige Care, a senior care company headquartered in Vancouver, Washington."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/prestige-senior-living-bridgewood-97217"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/prestige-senior-living-bridgewood-vancouver"}]
 reviews_search_url: "https://www.google.com/search?q=Prestige+Senior+Living+Bridgewood+Vancouver+WA+reviews"

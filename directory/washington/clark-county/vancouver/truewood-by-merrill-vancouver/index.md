@@ -21,7 +21,7 @@ facility_size: "large"
 organization: "merrill-gardens"
 organization_name: "Merrill Gardens"
 sources: ["https://www.merrillgardens.com/senior-living/wa/vancouver/mcgillivray-blvd/", "https://www.aplaceformom.com/community/truewood-by-merrill-vancouver-72680", "https://www.caring.com/senior-living/washington/vancouver/truewood-by-merrill-vancouver"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Truewood by Merrill, Vancouver is a pet-friendly independent living community in the Cascade Park area of east Vancouver, offering studio, one-, and two-bedroom apartments. Amenities include a swimming pool, fitness area, theater, billiard lounge, salon, and library."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/truewood-by-merrill-vancouver-72680"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/vancouver/truewood-by-merrill-vancouver"}]
 reviews_search_url: "https://www.google.com/search?q=Truewood+by+Merrill%2C+Vancouver+Vancouver+WA+reviews"

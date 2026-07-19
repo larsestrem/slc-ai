@@ -54,7 +54,7 @@ Because almost no one can pay that indefinitely, **Medicaid is the largest payer
 
 - Most nursing homes are Medicaid-certified, but some limit Medicaid beds. Ask up front whether your parent could stay if they convert to Medicaid later.
 - Medicaid has a **five-year look-back** on asset transfers, spousal protections that shield some income and assets for a husband or wife at home, and **[estate recovery](/guides/medicaid-estate-recovery/)** rules that can reach a home after death. This is exactly where an **elder law attorney** earns their fee — talk to one before moving money, not after.
-- The uncomfortable truth: facilities know private-pay residents are more profitable, and admissions offices favor them. A year or two of private-pay runway makes your parent a more welcome applicant almost everywhere. It isn't fair; it is real.
+- What ombudsmen and placement professionals widely report: private-pay residents are easier for facilities to accept financially — Medicaid reimbursement often sits below the cost of care — so a year or two of private-pay runway tends to make your parent a more welcome applicant.
 
 ## The Five-Star system — and its limits
 
@@ -77,7 +77,7 @@ Here's the scenario nobody warns you about: mom is in the hospital, and on a Tue
 - **Send a scout.** Have a family member walk through the top choice that same day — smell the halls, look at residents' faces mid-morning, ask how many therapy hours per day rehab patients actually get.
 - **Think one move ahead.** If there's any chance rehab becomes a long-term stay, pick a facility you'd accept for the long term — and confirm it takes Medicaid.
 
-> **Ask this:** "How many minutes of therapy per day will my mother actually receive, five or seven days a week — and who decides when it stops?" The answer separates real rehab programs from buildings that mostly warehouse.
+> **Ask this:** "How many minutes of therapy per day will my mother actually receive, five or seven days a week — and who decides when it stops?" The answer separates strong rehab programs from ones that deliver little actual therapy.
 
 ## Common questions
 

@@ -15,12 +15,13 @@ city_name: "Shelton"
 address: "153 Johns Ct"
 zip: "98584"
 phone: "(360) 427-2575"
+website: "https://evergreenhcg.com/locations/shelton-health-and-rehab/"
 care_levels: ["skilled-nursing", "memory-care"]
 facility_size: "large"
 capacity: 76
 cms_ccn: "505507"
 sources: ["https://www.nursinghomedatabase.com/snf/505507", "https://www.king5.com/article/news/20-of-the-nations-worst-rated-nursing-homes-are-in-washington-state/281-aaee92e9-25f1-4168-9e7b-97d9d32f458e"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Shelton Health and Rehabilitation is a 76-bed skilled nursing facility at 153 Johns Ct in Shelton offering 24-hour skilled nursing, long-term residential care, short-term rehabilitation, and memory-care programming. It is Medicare- and Medicaid-certified."
 review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/505507"}]
 reviews_search_url: "https://www.google.com/search?q=Shelton+Health+and+Rehabilitation+Shelton+WA+reviews"

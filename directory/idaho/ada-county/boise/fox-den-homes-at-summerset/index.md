@@ -21,7 +21,7 @@ capacity: 9
 organization: "fox-den-homes"
 organization_name: "Fox Den Homes"
 sources: ["https://www.oasissenioradvisors.com/community-guide/idaho/boise/fox-den-homes-at-summerset/", "https://www.foxdenidaho.com/", "https://www.mycaringplan.com/senior-living/fox-den-homes-bannock-house/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Fox Den Homes at Summerset is a 9-bed residential assisted living home in Boise owned and operated by a nurse, part of the Fox Den Homes group of small dementia-capable care homes in the Treasure Valley. The small-home model provides a high caregiver-to-resident ratio in a home setting."
 review_links: [{"name": "My Caring Plan", "url": "https://www.mycaringplan.com/senior-living/fox-den-homes-bannock-house/"}]
 reviews_search_url: "https://www.google.com/search?q=Fox+Den+Homes+at+Summerset+Boise+ID+reviews"

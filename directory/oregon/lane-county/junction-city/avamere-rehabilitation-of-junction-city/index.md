@@ -23,12 +23,7 @@ organization: "avamere"
 organization_name: "Avamere"
 cms_ccn: "385229"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-junction-city-385229", "https://www.medicare.gov/care-compare/details/nursing-home/385229/"]
-verified_date: "2026-07-13"
-serious_concern: true
-concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
-concern_type: "Federal enforcement fine (approximately $158,000 over three years)"
-concern_status: "Confirm current enforcement status directly on Care Compare"
-concern_source_url: "https://www.nursinghomesite.com/AVAMERE_REHABILITATION_OF_JUNCTION_CITY_JUNCTION_CITY_OR"
+verified_date: "2026-07-14"
 description_full: "A 53-bed Avamere skilled nursing and rehabilitation center in Junction City, Lane County."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-junction-city-385229"}]
 reviews_search_url: "https://www.google.com/search?q=Avamere+Rehabilitation+of+Junction+City+Junction+City+OR+reviews"

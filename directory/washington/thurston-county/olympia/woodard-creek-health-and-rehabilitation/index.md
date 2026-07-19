@@ -14,13 +14,14 @@ city: "olympia"
 city_name: "Olympia"
 address: "3333 Ensign Rd NE"
 zip: "98506"
-phone: "(360) 455-4500"
+phone: "(360) 493-4900"
+website: "https://woodardcreek.com/"
 care_levels: ["skilled-nursing"]
 facility_size: "large"
 capacity: 152
 cms_ccn: "505387"
 sources: ["https://assistedlivingmagazine.com/nursing-home/woodard-creek-health-rehabilitation/", "https://health.usnews.com/best-nursing-homes/area/wa/woodard-creek-health-rehabilitation-505387"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Woodard Creek Health & Rehabilitation is a 152-bed skilled nursing facility at 3333 Ensign Rd NE in Olympia, offering short-term rehabilitation and long-term nursing care. It is Medicare- and Medicaid-certified."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/woodard-creek-health-rehabilitation-505387"}]
 reviews_search_url: "https://www.google.com/search?q=Woodard+Creek+Health+%26+Rehabilitation+Olympia+WA+reviews"

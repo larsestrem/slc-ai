@@ -20,7 +20,7 @@ care_levels: ["adult-family-home"]
 facility_size: "small"
 capacity: 6
 sources: ["https://reviews.birdeye.com/noble-care-170040776562571", "https://noblecareafh.com/", "https://adultfamilyhomecouncil.org/home-finder/755067-noblecare-afh-llc"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "NobleCare Adult Family Home is a six-bed, RN-supported adult family home in Bothell where each private bedroom has its own bathroom and opens onto a shared great room."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/noble-care-170040776562571"}]
 reviews_search_url: "https://www.google.com/search?q=NobleCare+Adult+Family+Home+Bothell+WA+reviews"

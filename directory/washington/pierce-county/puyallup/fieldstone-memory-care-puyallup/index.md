@@ -20,7 +20,7 @@ care_levels: ["memory-care"]
 organization: "fieldstone-communities"
 organization_name: "Fieldstone Communities"
 sources: ["https://insights.illuminage.com/fieldstone-memory-care-puyallup-174855049546340", "https://www.aplaceformom.com/community/fieldstone-memory-care-puyallup-1376754", "https://www.yelp.com/biz/fieldstone-puyallup", "https://fieldstonecommunities.com/puyallupmemorycare/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Fieldstone Memory Care Puyallup is a dedicated memory care community on South Meridian in Puyallup, operated by Washington-based Fieldstone Communities."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fieldstone-memory-care-puyallup-1376754"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/fieldstone-puyallup"}]
 reviews_search_url: "https://www.google.com/search?q=Fieldstone+Memory+Care+Puyallup+Puyallup+WA+reviews"

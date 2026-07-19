@@ -19,7 +19,7 @@ care_levels: ["adult-family-home"]
 facility_size: "small"
 capacity: 5
 sources: ["https://www.caring.com/senior-living/oregon/eugene/angels-aisle-adult-foster", "https://health.usnews.com/best-senior-living/angels-aisle-adult-foster-C146096"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Angels Aisle Adult Foster is a small Oregon-licensed adult foster home in Eugene serving up to five residents in a single-family setting."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/angels-aisle-adult-foster"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/angels-aisle-adult-foster-C146096"}]
 reviews_search_url: "https://www.google.com/search?q=Angels+Aisle+Adult+Foster+Eugene+OR+reviews"

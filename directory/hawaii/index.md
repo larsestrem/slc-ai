@@ -1,6 +1,6 @@
 ---
 layout: "state"
-care_level_counts: [{"slug": "skilled-nursing", "count": 24}, {"slug": "memory-care", "count": 16}, {"slug": "assisted-living", "count": 14}, {"slug": "adult-family-home", "count": 12}, {"slug": "independent-living", "count": 11}, {"slug": "ccrc", "count": 4}, {"slug": "respite-care", "count": 2}]
+care_level_counts: [{"slug": "skilled-nursing", "count": 24}, {"slug": "memory-care", "count": 17}, {"slug": "assisted-living", "count": 14}, {"slug": "adult-family-home", "count": 12}, {"slug": "independent-living", "count": 11}, {"slug": "ccrc", "count": 4}, {"slug": "respite-care", "count": 3}]
 title: "Hawaii Senior Living"
 seo_title: "Senior Living in Hawaii — Assisted Living, Memory Care & Nursing Homes"
 description: "Find senior living in Hawaii: 45 communities across 15 cities, organized by region with care levels and inspection links."

@@ -31,7 +31,7 @@
         "https://www.yelp.com/biz/kahala-nui-honolulu-2",
         "https://carelistings.com/assisted-living-homes/kahala-hi/hiolani-assisted-living-center-at-kahala-nui/5acd01fba71d8c15cf68ab0b"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Arcadia Retirement Residence",
@@ -66,7 +66,7 @@
         "https://arcadia.org/residences/",
         "https://www.seniorhousingnet.com/seniorliving-detail/arcadia-retirement-residence_1434-punahou-st_honolulu_hi_96822-543255"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "15 Craigside",
@@ -80,7 +80,7 @@
       "city_name": "Honolulu",
       "address": "15 Craigside Pl",
       "zip": "96817",
-      "website": "https://arcadia.org/skilled-nursing/15-craigside-arcadia/",
+      "website": "https://arcadia.org/15-craigside/",
       "care_levels": [
         "independent-living",
         "assisted-living",
@@ -100,7 +100,8 @@
         "https://arcadia.org/skilled-nursing/15-craigside-arcadia/",
         "https://www.yelp.com/biz/15-craigside-honolulu-5"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14",
+      "phone": "(808) 523-7000"
     },
     {
       "name": "Maluhia",
@@ -129,7 +130,7 @@
         "https://www.hcoahawaii.org/AGISModules/ProviderSearch/ProviderDetails.aspx?OrgID=549947&mid=411&pageid=371&letter=M&state=HI",
         "https://www.yelp.com/biz/maluhia-honolulu"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "The Plaza at Pearl City",
@@ -165,7 +166,7 @@
         "https://www.theplazaassistedliving.com/location/pearl-city/",
         "https://www.caring.com/senior-living/hawaii/pearl-city/the-plaza-at-pearl-city"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "The Plaza at Punchbowl",
@@ -179,10 +180,12 @@
       "city_name": "Honolulu",
       "address": "918 Lunalilo St",
       "zip": "96822",
-      "website": "https://www.theplazaassistedliving.com",
+      "website": "https://www.theplazaassistedliving.com/location/punchbowl/",
       "care_levels": [
         "independent-living",
-        "assisted-living"
+        "assisted-living",
+        "memory-care",
+        "respite-care"
       ],
       "facility_size": "large",
       "organization": "the-plaza-assisted-living",
@@ -195,7 +198,7 @@
         "https://www.yelp.com/biz/the-plaza-at-punchbowl-honolulu-2",
         "https://www.caring.com/senior-living/hawaii/honolulu/the-plaza-at-punchbowl"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Good Samaritan Society - Pohai Nani",
@@ -230,7 +233,7 @@
         "https://www.yelp.com/biz/good-samaritan-society-kaneohe",
         "https://www.seniorly.com/continuing-care-retirement-community/hawaii/kaneohe/good-samaritan-society-pohai-nani"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "'Ilima at Leihano",
@@ -264,7 +267,7 @@
         "https://www.yelp.com/biz/ilima-at-leihano-kapolei",
         "https://www.aplaceformom.com/community/ilima-at-leihano-143199"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Roselani Place",
@@ -295,7 +298,7 @@
         "https://www.yelp.com/biz/roselani-place-kahului",
         "https://www.seniorcareauthority.com/assisted-living/alii-community-care-dba-roselani-place-in-kahului-hawaii.html"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Regency at Puakea",
@@ -329,7 +332,7 @@
         "https://www.yelp.com/biz/regency-at-puakea-retirement-and-assisted-living-lihue-2",
         "https://www.assistedlivingcenter.com/facilities/hi/lihue/regency-at-puakea-96766/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "The Ivy at Hawaii Kai",
@@ -362,7 +365,7 @@
         "https://ivyliving.com/theivyhawaiikai/",
         "https://www.assistedliving.org/hawaii/honolulu/the-ivy-at-hawaii-kai/"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Holiday Kalama Heights",
@@ -392,7 +395,7 @@
         "https://www.holidayseniorliving.com/retirement-communities/holiday-kalama-heights-kihei-hi",
         "https://www.aplaceformom.com/community/holiday-kalama-heights-73307"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Hale Makua - Wailuku",
@@ -423,7 +426,7 @@
         "https://www.ohanapacific.com/hale-makua",
         "https://everyplace.care/facility/hale-makua-wailuku-wailuku-hi-nf-125056"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Kula Hospital",
@@ -448,14 +451,14 @@
       "organization_name": "Maui Health",
       "cms_ccn": "125003",
       "cms_rating_overall": 4,
-      "description": "A hospital-based skilled nursing and intermediate care facility in upcountry Kula on Maui, operated by Maui Health, with 105 long-term care beds.",
+      "description": "A hospital-based skilled nursing and intermediate care facility in upcountry Kula on Maui, operated by Maui Health, with 105 long-term care beds. Note: the facility, including its skilled nursing unit, has been temporarily closed since storm flooding in March 2026, with long-term-care residents relocated and no announced reopening date — confirm current status with Maui Health directly before planning care.",
       "sources": [
         "https://www.mauihealth.org/kula-hospital/",
         "https://assistedlivingmagazine.com/nursing-home/kula-hospital/",
         "https://www.mauihealth.org/news/releases/kula-hospital-best-nursing-home-award-2024/",
         "https://www.healthcare4ppl.com/nursing-home/hawaii/kula/kula-hospital-125003.html"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Garden Isle Healthcare and Rehabilitation Center",
@@ -486,7 +489,7 @@
         "https://health.usnews.com/best-nursing-homes/area/hi/garden-isle-healthcare-and-rehabilitation-center-125004",
         "https://www.nursinghomesite.com/GARDEN_ISLE_HEALTHCARE_AND_REHABILITATION_CENTER_LIHUE_HI"
       ],
-      "verified_date": "2026-07-12",
+      "verified_date": "2026-07-14",
       "cms_health_inspection_rating": 3,
       "cms_staffing_rating": 5,
       "cms_quality_measure_rating": 5,
@@ -521,7 +524,7 @@
         "https://health.usnews.com/best-nursing-homes/area/hi/ka-punawai-ola-125051",
         "https://www.nursinghomedatabase.com/snf/125051"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "The Villas",
@@ -552,7 +555,7 @@
         "https://health.usnews.com/best-nursing-homes/area/hi/the-villas-honolulu-125064",
         "https://www.nursinghomedatabase.com/snf/125064"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Maunalani Nursing and Rehabilitation Center",
@@ -581,7 +584,7 @@
         "https://health.usnews.com/best-nursing-homes/area/hi/maunalani-nursing-and-rehabilitation-center-125013",
         "https://www.nursinghomesite.com/MAUNALANI_NURSING_AND_REHABILITATION_CENTER_HONOLULU_HI"
       ],
-      "verified_date": "2026-07-12"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Leahi Hospital",
@@ -611,7 +614,7 @@
         "https://health.usnews.com/best-nursing-homes/area/hi/leahi-hospital-125010",
         "https://leahi.hhsc.org/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Avalon Care Center - Honolulu",
@@ -641,7 +644,7 @@
         "https://health.usnews.com/best-nursing-homes/area/hi/avalon-care-center-honolulu-125020",
         "https://avalonhealthcare.com/honolulu/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Life Care Center of Hilo",
@@ -670,7 +673,7 @@
         "https://health.usnews.com/best-nursing-homes/area/hi/life-care-center-of-hilo-125040",
         "https://lcca.com/locations/hi/hilo/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Yukio Okutsu State Veterans Home",
@@ -698,7 +701,7 @@
         "https://health.usnews.com/best-nursing-homes/area/hi/yukio-okutsu-state-veterans-home-125058",
         "https://www.hbmc.org/about-us/yukio-okutsu-state-veterans-home/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Kalakaua Gardens",
@@ -728,7 +731,7 @@
         "https://health.usnews.com/best-nursing-homes/area/hi/kal%C4%81kaua-gardens-125066",
         "https://www.kalakauagardens.com/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Faith Harbor Adult Care",
@@ -755,7 +758,7 @@
         "https://www.aplaceformom.com/community/faith-harbor-adult-care-1366758",
         "https://www.senioradvisor.com/local/faith-harbor-adult-care-honolulu-hi"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Family Ties ARCH II",
@@ -769,7 +772,7 @@
       "city_name": "Honolulu",
       "address": "1103-A Kahauiki Place",
       "zip": "96819",
-      "phone": "(808) 386-3033",
+      "phone": "(808) 841-1674",
       "care_levels": [
         "adult-family-home"
       ],
@@ -782,7 +785,7 @@
         "https://www.aplaceformom.com/community/family-ties-arch-ii-1348473",
         "https://www.senioradvisor.com/local/family-ties-honolulu-hi"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Vilma's Adult Care Home",
@@ -809,7 +812,7 @@
         "https://www.aplaceformom.com/community/vilmas-adult-care-home-1368136",
         "https://www.senioradvisor.com/local/vilmas-adult-care-home-honolulu-hi"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Kina 'Ole Estate",
@@ -839,7 +842,7 @@
         "https://www.yelp.com/biz/kina-ole-estate-kaneohe-2",
         "https://kinaoleestate.com/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Kina 'Ole Estate Elima",
@@ -867,7 +870,8 @@
         "https://www.caring.com/senior-living/hawaii/kailua/kina-ole-estate-elima",
         "https://www.seniorly.com/assisted-living/hawaii/kailua/kina-ole-estate-elima"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "phone": "(808) 233-4455"
     },
     {
       "name": "Serenity Hawaii Care Home",
@@ -893,7 +897,8 @@
         "https://www.aplaceformom.com/community/serenity-hawaii-care-home-1402839",
         "https://www.caring.com/senior-living/hawaii/waipahu/serenity-hawaii-care-home"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "address": "94-559 Apii Place"
     },
     {
       "name": "Prime Health Services Care Home",
@@ -918,7 +923,8 @@
       "sources": [
         "https://www.aplaceformom.com/community/prime-health-services-care-home-1369023"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "address": "98-209 Kanuku Street"
     },
     {
       "name": "Nuuanu Hale",
@@ -947,7 +953,7 @@
         "https://projects.propublica.org/nursing-homes/homes/h-125024/",
         "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-hawaii/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Kuakini Geriatric Care, Inc.",
@@ -976,7 +982,7 @@
         "https://projects.propublica.org/nursing-homes/homes/h-125026",
         "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-hawaii/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Liliha Healthcare Center",
@@ -1005,7 +1011,7 @@
         "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-hawaii/",
         "https://www.seniorcare.com/nursing-homes/hi/honolulu/liliha-healthcare-center/125041/"
       ],
-      "verified_date": "2026-07-13",
+      "verified_date": "2026-07-14",
       "serious_concern": true,
       "serious_concern_note": "CMS records show roughly $161,000 in federal fines and a period of Medicare payment suspension tied to documented quality problems.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
@@ -1040,7 +1046,8 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/125065/",
         "https://www.ohanapacific.com/legacyhilo"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://www.ohanapacific.com/legacyhilo"
     },
     {
       "name": "Hale Malamalama",
@@ -1069,7 +1076,8 @@
         "https://health.usnews.com/best-nursing-homes/area/hi/hale-malamalama-125050",
         "https://www.healthcare4ppl.com/nursing-home/hawaii/honolulu/hale-malamalama-125050.html"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://www.hmnursing.com/"
     },
     {
       "name": "Oahu Care Facility",
@@ -1100,7 +1108,7 @@
         "https://www.nursinghomedatabase.com/snf/125042",
         "https://www.medicare.gov/care-compare/details/nursing-home/125042/view-all/?state=HI"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "The Care Center of Honolulu",
@@ -1131,7 +1139,7 @@
         "https://www.thecareratings.com/all-states/hawaii/honolulu/the-care-center-of-honolulu-96817/",
         "https://www.medicare.gov/care-compare/details/nursing-home/125019/view-all/"
       ],
-      "verified_date": "2026-07-13",
+      "verified_date": "2026-07-14",
       "serious_concern": true,
       "serious_concern_note": "CMS flagged a documented pattern of poor care warranting close monitoring, alongside roughly $35,000 in recent federal fines.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
@@ -1166,7 +1174,8 @@
         "https://www.caring.com/senior-living/hawaii/kailua-kona/life-care-center-of-kona-96740",
         "https://health.usnews.com/best-nursing-homes/area/hi/life-care-center-of-kona-125052"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://lcca.com/locations/hi/kona/"
     },
     {
       "name": "Domingo's Care Home",
@@ -1194,7 +1203,7 @@
         "https://carelistings.com/assisted-living-homes/kailua-kona-hi/domingos-care-home/5acd01fca71d8c15cf68ac2c",
         "https://www.seniorly.com/assisted-living/hawaii/kailua-kona/domingo-s-care-home"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Myles Care Home",
@@ -1220,7 +1229,7 @@
         "https://www.seniorly.com/assisted-living/hawaii/kahului/myles-care-home",
         "https://carelistings.com/assisted-living-homes/kahului-hi/myles-care-home/5acd01fba71d8c15cf68ab35"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Charity Adult Residential Care Home",
@@ -1245,7 +1254,7 @@
         "https://assistedlivingmagazine.com/nursing-home/charity-adult-residential-care/",
         "https://health.hawaii.gov/ohca/files/2026/04/Combined-ARCH-Expanded-ARCH-Vacancy-Report-By-Alpha-4-2026.pdf"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Honesty",
@@ -1257,7 +1266,7 @@
       "county_name": "Maui",
       "city": "wailuku",
       "city_name": "Wailuku",
-      "address": "775 South Analio Street",
+      "address": "775 Analio Street",
       "zip": "96793",
       "care_levels": [
         "adult-family-home",
@@ -1272,7 +1281,7 @@
         "https://health.hawaii.gov/ohca/files/2024/10/Honesty-SODPOC-10.10.2024.pdf",
         "https://www.seniorly.com/assisted-living/hawaii/wailuku/honesty"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     },
     {
       "name": "Mililani Care Home",
@@ -1299,7 +1308,8 @@
         "https://www.mililanicarehome.com/",
         "https://carelistings.com/assisted-living-homes/mililani-hi/mililani-care-home-llc/5acd01fda71d8c15cf68ad9d"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "website": "https://www.mililanicarehome.com/"
     },
     {
       "name": "Wilson Senior Living Kailua",
@@ -1325,7 +1335,9 @@
         "https://www.caring.com/senior-living/hawaii/kailua/wilson-senior-living-kailua-hawaii",
         "https://www.assistedlivingcenter.com/facilities/hi/kailua/wilson-senior-living-kailua-96734/"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14",
+      "phone": "(808) 596-4486",
+      "website": "https://wilsoncare.com/long-term-stay/"
     },
     {
       "name": "Ruth's House",
@@ -1339,7 +1351,6 @@
       "city_name": "Kailua-Kona",
       "address": "73-4318 Keokeo Street",
       "zip": "96740",
-      "website": "https://ruthshouseonline.com",
       "care_levels": [
         "assisted-living"
       ],
@@ -1351,7 +1362,7 @@
         "https://seniorcarehomes.com/assisted-living-facilities/hawaii/kailua-kona/ruths-house-l-l-c/",
         "https://ruthshouseonline.com/contact-us"
       ],
-      "verified_date": "2026-07-13"
+      "verified_date": "2026-07-14"
     }
   ],
   "organizations": [

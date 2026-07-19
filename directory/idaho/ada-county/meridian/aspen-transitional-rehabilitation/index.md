@@ -14,13 +14,14 @@ city: "meridian"
 city_name: "Meridian"
 address: "2867 E Copper Point Dr"
 zip: "83642"
+phone: "(208) 401-9100"
 website: "https://www.medicare.gov/care-compare/details/nursing-home/135130"
 care_levels: ["skilled-nursing"]
 facility_size: "medium"
 capacity: 30
 cms_ccn: "135130"
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/aspen-transitional-rehabilitation-135130", "https://www.medicare.gov/care-compare/details/nursing-home/135130"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A 30-bed skilled nursing and short-term rehabilitation facility in Meridian focused on post-acute recovery. Recognized by U.S. News as a Best Nursing Home for short-term rehabilitation."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/aspen-transitional-rehabilitation-135130"}]
 reviews_search_url: "https://www.google.com/search?q=Aspen+Transitional+Rehabilitation+Meridian+ID+reviews"

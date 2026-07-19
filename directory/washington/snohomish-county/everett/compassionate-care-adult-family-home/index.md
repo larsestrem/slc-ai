@@ -15,11 +15,12 @@ city_name: "Everett"
 address: "1504 50th Street SE"
 zip: "98203"
 phone: "(425) 374-3741"
+website: "https://www.compassionatecareadultfamilyhome.com/"
 care_levels: ["adult-family-home"]
 facility_size: "small"
 capacity: 6
 sources: ["https://reviews.birdeye.com/compassionate-care-adult-family-home-168183026085483", "https://adultfamilyhomecouncil.org/home-finder/755099-compassionate-care-adult-family-home-llc", "https://carelistings.com/assisted-living-homes/everett-wa/compassionate-care-adult-family-home-llc/67f3774da073024f4eb57356"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "State-licensed six-bed adult family home in south Everett providing 24-hour residential care in a home setting."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/compassionate-care-adult-family-home-168183026085483"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/everett-wa/compassionate-care-adult-family-home-llc/67f3774da073024f4eb57356"}]
 reviews_search_url: "https://www.google.com/search?q=Compassionate+Care+Adult+Family+Home+LLC+Everett+WA+reviews"

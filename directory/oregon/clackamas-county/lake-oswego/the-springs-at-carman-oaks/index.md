@@ -14,13 +14,14 @@ city: "lake-oswego"
 city_name: "Lake Oswego"
 address: "3800 Carman Dr"
 zip: "97035"
+phone: "(503) 636-3800"
 website: "https://www.thespringsliving.com/senior-living/lake-oswego/oregon/carman-oaks"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
 organization: "the-springs-living"
 organization_name: "The Springs Living"
 sources: ["https://www.thespringsliving.com/senior-living/lake-oswego/oregon/carman-oaks", "https://www.caring.com/senior-living/oregon/lake-oswego/the-springs-at-carman-oaks-97035", "https://www.aplaceformom.com/community/the-springs-at-carman-oaks-59721"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "The Springs at Carman Oaks is a resort-style senior living community in Lake Oswego offering independent living, assisted living, and memory care. Amenities include a swimming pool and spa, wellness and fitness center, theater, chef-driven flexible dining, and Fancho's Public House."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/lake-oswego/the-springs-at-carman-oaks-97035"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-springs-at-carman-oaks-59721"}]
 reviews_search_url: "https://www.google.com/search?q=The+Springs+at+Carman+Oaks+Lake+Oswego+OR+reviews"

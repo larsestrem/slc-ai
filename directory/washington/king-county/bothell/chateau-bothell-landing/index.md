@@ -14,13 +14,13 @@ city: "bothell"
 city_name: "Bothell"
 address: "17543 102nd Ave NE"
 zip: "98011"
-phone: "(425) 201-4345"
+phone: "(425) 485-1155"
 website: "https://www.chateauretirement.com/communities/bothell-landing/"
 care_levels: ["independent-living", "assisted-living", "memory-care", "respite-care"]
 organization: "chateau-retirement-communities"
 organization_name: "Chateau Retirement Communities"
 sources: ["https://ultimateseniorresource.com/states/washington/bothell/chateau-bothell-landing", "https://www.chateauretirement.com/communities/bothell-landing/", "https://www.aplaceformom.com/community/chateau-bothell-landing-95415"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Family-owned senior living community nestled along the Sammamish River Trail in downtown Bothell, offering independent living, assisted living, memory care, and respite care. Part of the locally operated Chateau Retirement Communities group serving the Seattle area."
 review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/washington/bothell/chateau-bothell-landing"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/chateau-bothell-landing-95415"}]
 reviews_search_url: "https://www.google.com/search?q=Chateau+Bothell+Landing+Bothell+WA+reviews"

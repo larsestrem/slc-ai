@@ -15,10 +15,11 @@ city_name: "Portland"
 address: "6125 SE Division St"
 zip: "97206"
 phone: "(503) 788-0896"
+website: "https://www.mbkseniorliving.com/senior-living/or/portland/courtyard-mt-tabor/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
 sources: ["https://www.aplaceformom.com/community/courtyard-at-mt-tabor-95907", "https://reviews.birdeye.com/courtyard-at-mt-tabor-park-157256125645130", "https://www.ohca.com/facility-finder/courtyard-at-mt-tabor/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "A resort-style senior living campus near Mt. Tabor Park in southeast Portland offering independent living, assisted living, and memory care, with the Garden House memory care building at 6323 SE Division St."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/courtyard-at-mt-tabor-95907"}, {"name": "Birdeye", "url": "https://reviews.birdeye.com/courtyard-at-mt-tabor-park-157256125645130"}]
 reviews_search_url: "https://www.google.com/search?q=Courtyard+at+Mt.+Tabor+Portland+OR+reviews"

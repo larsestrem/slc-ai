@@ -15,13 +15,14 @@ city_name: "La Grande"
 address: "508 16th St"
 zip: "97850"
 phone: "(541) 663-1200"
+website: "https://compass-living.com/community/wildflower-lodge/"
 care_levels: ["assisted-living", "memory-care"]
 facility_size: "large"
 capacity: 73
 organization: "compass-senior-living"
 organization_name: "Compass Senior Living"
 sources: ["https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/", "https://www.compass-living.com/senior-living/or/la-grande/wildflower-lodge/", "https://www.caring.com/senior-living/oregon/la-grande/wildflower-lodge-senior-living"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Wildflower Lodge is an assisted living and memory care community in La Grande with 43 assisted living apartments and 30 memory care apartments, operated by Compass Senior Living."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/la-grande/wildflower-lodge-senior-living"}]
 reviews_search_url: "https://www.google.com/search?q=Wildflower+Lodge+La+Grande+OR+reviews"

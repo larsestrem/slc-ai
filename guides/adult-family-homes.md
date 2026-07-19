@@ -46,7 +46,7 @@ For people with advanced dementia, heavy physical needs, or anxiety in busy envi
 Small homes are not better for everyone, and the weaknesses deserve plain statement:
 
 - **Few activities and no amenities.** There's no calendar of outings, no fitness class, no bistro. Days are quiet. A social, cognitively healthy person can be bored and isolated in a six-bed home.
-- **Quality depends almost entirely on one person.** In a chain community, a bad manager gets replaced; in an owner-operated home, the owner *is* the quality. A wonderful owner means wonderful care. A burned-out or profit-squeezing owner means the opposite, behind a closed front door.
+- **Quality depends almost entirely on one person.** In a chain community, a bad manager gets replaced; in an owner-operated home, the owner *is* the quality — and running a small home largely single-handedly is genuinely demanding work. A wonderful owner means wonderful care; a burned-out or overstretched one means the opposite, behind a closed front door. So ask every owner how they handle family concerns, and who covers when they need a break.
 - **Less oversight visibility.** Small homes are inspected by the state, but there are thousands of them, inspections may be less frequent than at larger facilities, and there are fewer staff, families, and visitors passing through to notice problems. You, the family, are a bigger part of the safety net.
 - **Thin backup.** If the sole caregiver is sick or quits, coverage depends on the owner's arrangements. Ask specifically who covers nights and vacations.
 - **No built-in next level.** If needs exceed what the home's license allows, your parent moves again.
@@ -60,7 +60,7 @@ If you rank homes by star average and review volume, the best small homes vanish
 So judge a small home differently:
 
 - **Weight the state record heavily.** For a home with few reviews, the license and inspection history is your most reliable public signal — and it's a *better* one than reviews, because inspectors look at exactly the things families can't see. A current license in good standing with a clean recent inspection record is worth more than a handful of five-star reviews. See [reading inspection reports](/guides/reading-inspection-reports-and-ratings/) and [checking complaints and state records](/guides/checking-complaints-and-state-records/).
-- **Read the few reviews that exist, closely.** With small numbers, individual reviews carry real information. A detailed review describing specific caregivers by name and specific incidents tells you more than a big building's 4.3 average across 200 vague ones.
+- **Read the few reviews that exist, closely.** With small numbers, individual reviews carry real information. A detailed review describing specific caregivers by name and specific incidents tells you more than a big building's high average across 200 vague ones.
 - **Do your own primary research.** Reference calls to two current families, an unannounced mealtime visit, and a call to the county ombudsman will tell you more about a five-bed home than any amount of online reading. In small homes, your own eyes are the review that counts.
 - **Don't read "few reviews" as a red flag.** For a home this size, it's expected. A *bad* license record is the red flag — not a thin review page.
 

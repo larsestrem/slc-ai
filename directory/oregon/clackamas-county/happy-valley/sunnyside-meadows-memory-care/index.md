@@ -15,13 +15,14 @@ city_name: "Happy Valley"
 address: "12195 SE 117th Ave"
 zip: "97086"
 phone: "(503) 878-8550"
+website: "https://www.sunnysidemeadows.com/"
 care_levels: ["memory-care"]
 facility_size: "large"
 capacity: 72
 organization: "ohana-ventures"
 organization_name: "Ohana Ventures"
 sources: ["https://www.sunnysidemeadows.com/", "https://ltclicensing.oregon.gov/Facilities/Details/50R443", "https://www.aplaceformom.com/community/sunnyside-meadows-memory-care-1393470"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Sunnyside Meadows Memory Care is a 72-bed memory care community in Happy Valley for residents with Alzheimer's disease and dementia, currently operated as part of Ohana Ventures."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunnyside-meadows-memory-care-1393470"}]
 reviews_search_url: "https://www.google.com/search?q=Sunnyside+Meadows+Memory+Care+Happy+Valley+OR+reviews"

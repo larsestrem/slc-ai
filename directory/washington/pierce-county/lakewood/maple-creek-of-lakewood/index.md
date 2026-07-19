@@ -20,7 +20,7 @@ care_levels: ["assisted-living"]
 facility_size: "large"
 capacity: 75
 sources: ["https://www.miradorliving.com/assisted-living/washington/lakewood/maple-creek-senior-living", "https://www.aplaceformom.com/community/maple-creek-of-lakewood-99832"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Maple Creek of Lakewood (Maple Creek Senior Living) is a 75-bed assisted living facility at 10420 Gravelly Lake Dr SW in Lakewood, licensed by the State of Washington with 24-hour staff."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/maple-creek-of-lakewood-99832"}]
 reviews_search_url: "https://www.google.com/search?q=Maple+Creek+of+Lakewood+Lakewood+WA+reviews"

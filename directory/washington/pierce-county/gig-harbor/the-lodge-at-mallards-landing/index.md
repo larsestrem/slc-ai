@@ -14,10 +14,11 @@ city: "gig-harbor"
 city_name: "Gig Harbor"
 address: "7083 Wagner Way NW"
 zip: "98335"
+phone: "(253) 858-4990"
 website: "https://thelodge-gigharbor.com/"
 care_levels: ["independent-living", "assisted-living", "memory-care", "respite-care"]
 sources: ["https://birdeye.com/the-lodge-at-mallards-landing-174180642789142", "https://www.senioradvisor.com/local/lodge-at-mallards-landing-gig-harbor-wa", "https://www.aplaceformom.com/community/the-lodge-at-mallards-landing-159484", "https://thelodge-gigharbor.com/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "The Lodge at Mallard's Landing is a retirement community in Gig Harbor offering independent living cottages plus assisted living, memory care and respite care in a lodge-style main building."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/the-lodge-at-mallards-landing-174180642789142"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/lodge-at-mallards-landing-gig-harbor-wa"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-lodge-at-mallards-landing-159484"}]
 reviews_search_url: "https://www.google.com/search?q=The+Lodge+at+Mallard%27s+Landing+Gig+Harbor+WA+reviews"

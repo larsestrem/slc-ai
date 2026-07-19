@@ -21,7 +21,7 @@ facility_size: "large"
 capacity: 180
 cms_ccn: "385112"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/west-hills-health-rehabilitation-center-portland-385112", "https://www.ohca.com/facility-finder/west-hills-health-rehabilitation/", "https://ltclicensing.oregon.gov/Facilities/Details/385112"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "West Hills Health & Rehabilitation is a 180-bed skilled nursing facility in southwest Portland that has served the area since 1970, providing short-term rehabilitation and long-term care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/west-hills-health-rehabilitation-center-portland-385112"}]
 reviews_search_url: "https://www.google.com/search?q=West+Hills+Health+%26+Rehabilitation+Portland+OR+reviews"

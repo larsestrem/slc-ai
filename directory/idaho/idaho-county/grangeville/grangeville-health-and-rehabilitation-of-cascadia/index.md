@@ -23,7 +23,7 @@ organization: "cascadia-healthcare"
 organization_name: "Cascadia Healthcare"
 cms_ccn: "135080"
 sources: ["https://grangevillehealthandrehab.com/", "https://www.nursinghomelawcenter.org/news/worst-nursing-homes-in-idaho/", "https://projects.propublica.org/nursing-homes/homes/h-135080", "https://www.medicare.gov/care-compare/details/nursing-home/135080/view-all/?state=ID"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 serious_concern: true
 concern_regulator: "CMS (Centers for Medicare & Medicaid Services)"
 concern_type: "Federal inspection citation for failure to protect residents from abuse"

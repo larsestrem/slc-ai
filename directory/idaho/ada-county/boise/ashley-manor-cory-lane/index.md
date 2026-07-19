@@ -20,7 +20,7 @@ care_levels: ["assisted-living"]
 organization: "ashley-manor"
 organization_name: "Ashley Manor"
 sources: ["https://www.aplaceformom.com/community/ashley-manor-cory-lane-96067", "https://ashleymanorseniorliving.com/cory-lane/"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Ashley Manor - Cory Lane is a small residential assisted living home in Boise, part of the multi-location Ashley Manor group. Families should tour and ask directly about current staffing ratios."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/ashley-manor-cory-lane-96067"}]
 reviews_search_url: "https://www.google.com/search?q=Ashley+Manor+-+Cory+Lane+Boise+ID+reviews"

@@ -21,7 +21,7 @@ facility_size: "large"
 capacity: 135
 cms_ccn: "505230"
 sources: ["https://www.nursinghomedatabase.com/snf/505230", "https://health.usnews.com/best-nursing-homes/area/wa/fir-lane-health-and-rehabilitation-center-505230"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "Fir Lane Care (also known as Fir Lane Health & Rehabilitation Center) is a 135-bed, for-profit skilled nursing facility at 2430 N 13th St in Shelton, offering long-term skilled nursing and short-term rehabilitation. It is owned by Caldera Care."
 review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/505230"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/fir-lane-health-and-rehabilitation-center-505230"}]
 reviews_search_url: "https://www.google.com/search?q=Fir+Lane+Care+Shelton+WA+reviews"

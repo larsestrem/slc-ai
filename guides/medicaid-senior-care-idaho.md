@@ -63,7 +63,7 @@ Before applying, gather several years of bank statements, income records, proper
 
 ## Estate recovery
 
-After a Medicaid recipient dies, Idaho seeks repayment from the estate for long-term care costs the program paid — and Idaho's recovery program is known for pursuing claims, including against the family home, after both spouses have died. Exceptions and hardship provisions exist. This isn't a reason to avoid Medicaid, but it is a reason to plan: read our [Medicaid estate recovery guide](/guides/medicaid-estate-recovery/) and talk with an elder law attorney about the house before you apply.
+After a Medicaid recipient dies, Idaho seeks repayment from the estate for long-term care costs the program paid — and Idaho's recovery program actively pursues claims, including against the family home, after both spouses have died. Exceptions and hardship provisions exist. This isn't a reason to avoid Medicaid, but it is a reason to plan: read our [Medicaid estate recovery guide](/guides/medicaid-estate-recovery/) and talk with an elder law attorney about the house before you apply.
 
 ## Common questions
 

@@ -22,7 +22,7 @@ capacity: 82
 organization: "regency-pacific"
 organization_name: "Regency Pacific"
 sources: ["https://www.regency-pacific.com/senior-living/hi/lihue/regency-at-puakea-retirement-assisted-living/", "https://www.seniorcareauthority.com/assisted-living/regency-at-puakea-l-l-c-in-lihue-regency-at-puakea-l-l-c.html?relListPnum=11", "https://www.yelp.com/biz/regency-at-puakea-retirement-and-assisted-living-lihue-2", "https://www.assistedlivingcenter.com/facilities/hi/lihue/regency-at-puakea-96766/"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Regency at Puakea is Kauai's primary retirement and assisted living community, with 82 apartments on 5.65 landscaped acres in Lihue featuring a pool, spa, and mountain views."
 review_links: [{"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/regency-at-puakea-l-l-c-in-lihue-regency-at-puakea-l-l-c.html?relListPnum=11"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/regency-at-puakea-retirement-and-assisted-living-lihue-2"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/hi/lihue/regency-at-puakea-96766/"}]
 reviews_search_url: "https://www.google.com/search?q=Regency+at+Puakea+Lihue+HI+reviews"

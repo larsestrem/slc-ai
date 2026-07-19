@@ -56,7 +56,7 @@ Here's what insiders know: communities can and do ask residents to leave when th
 
 ## What it costs
 
-Nationally, independent living generally runs about **$3,000 to $4,500 a month**, with higher prices in major metros and for larger apartments or high-end communities. Costs vary widely by region, so treat these as orientation, not quotes. For the fuller picture, see [the cost of senior living](/guides/cost-of-senior-living/).
+Nationally, independent living generally runs about **$2,500 to $4,500 a month**, with higher prices in major metros and for larger apartments or high-end communities. Costs vary widely by region, so treat these as orientation, not quotes. For the fuller picture, see [the cost of senior living](/guides/cost-of-senior-living/).
 
 Two things to know about the money:
 
@@ -100,7 +100,7 @@ Often yes, if the healthier spouse or hired caregivers can cover the care. Many 
 No. Independent living is housing plus lifestyle services, not medical care, so neither program covers the rent. A few states' Medicaid programs can pay for [in-home care](/guides/in-home-care-explained/) services delivered inside an apartment; rules vary by state, so check with your State Health Insurance Assistance Program (SHIP) or local Area Agency on Aging.
 
 **Is it too early if my parent is still completely healthy?**
-Healthy is the best time to move. Residents who arrive while active build friendships and routines that carry them through later health changes. The common regret we hear from families isn't "we moved too soon" — it's "we waited too long."
+Many residents who move while still active and healthy adjust best — they build friendships and routines that carry them through later health changes. Staying home is a valid path too; our [home care or facility](/guides/home-care-or-facility/) framework helps you weigh it honestly. But among families who did choose a move, the regret we hear more often isn't "we moved too soon" — it's "we waited too long."
 
 **How is this different from assisted living?**
 Independent living provides no personal care; assisted living is built around it, with trained staff, care plans, and medication management. Pricing works differently too — see our [assisted living deep dive](/guides/assisted-living/) and the [levels of care overview](/guides/levels-of-care-explained/).

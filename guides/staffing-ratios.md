@@ -13,13 +13,13 @@ related:
 faqs: [{"q": "Is there a legally required staffing ratio?", "a": "For assisted living, most states set no numeric ratio — only \"sufficient staffing\" standards, sometimes with minimums like one awake staff member overnight. Nursing homes face federal staffing rules and public reporting, and some states add their own minimums. Rules vary widely by state, so check your state's licensing regulations."}, {"q": "The facility says staffing is \"based on acuity.\" Is that a dodge?", "a": "It's a legitimate concept — sicker residents need more staff — but it becomes a dodge when it replaces actual numbers. Follow up: \"Fine — what does that mean in caregivers on the floor for my parent's wing, per shift, this week?\""}, {"q": "Do smaller homes really have better ratios?", "a": "Often, yes. An adult family home with two caregivers and six residents beats almost any large building's ratio, though it trades away amenities and on-site nursing depth. See our adult family homes guide for the trade-offs."}, {"q": "What ratio should rule a place out?", "a": "There's no single cutoff, but for assisted living, daytime ratios much beyond 1:15, a single sleeping staffer overnight for dozens of residents, or refusal to give shift-level numbers at all are each strong reasons to keep looking."}]
 ---
 
-When you strip away the chandeliers and the brochure photos, senior care comes down to one question: when your mother needs help, is there someone available to help her? Staffing is the strongest predictor of care quality — stronger than price, newness, or brand — and it's the number facilities are least eager to discuss. Here's how to ask, and how to check the answer.
+When you strip away the chandeliers and the brochure photos, senior care comes down to one question: when your mother needs help, is there someone available to help her? Research consistently links staffing levels to care quality — more closely than price, newness, or brand — and it's a number many tours don't volunteer. Here's how to ask, and how to check the answer.
 
 ## What a staffing ratio actually means
 
 A staffing ratio is how many residents each direct-care worker is responsible for at a given moment — say, one caregiver for every eight residents ("1:8"). Lower is better. The people who matter most are the hands-on staff: certified nursing assistants and resident care aides who do the bathing, dressing, toileting, and answering of call buttons. Nurses matter too, but in [assisted living](/guides/assisted-living/) a nurse may oversee the building (or several buildings) while aides do nearly all the daily care.
 
-Be alert to a common sleight of hand: quoting a ratio that counts *everyone on payroll* — administrators, cooks, housekeepers — instead of caregivers actually on the floor for that shift.
+Always ask what a quoted ratio counts: some include *everyone on payroll* — administrators, cooks, housekeepers — instead of caregivers actually on the floor for that shift.
 
 ## Why you can't just look this up
 
@@ -50,7 +50,7 @@ Marketing tours happen on weekday mornings, when staffing peaks. But falls, wand
 
 ## Turnover and agency staffing: the hidden ratio
 
-A decent ratio staffed by strangers isn't a decent ratio. Caregiver turnover in senior care is notoriously high — industry-wide, annual turnover around 50% or more is common, and some buildings churn through an entire staff in a year. High turnover means the aide helping your father doesn't know he gets dizzy when he stands up fast.
+A decent ratio staffed by strangers isn't a decent ratio. Caregiver turnover in senior care is notoriously high — industry surveys have put annual turnover near half of staff or more, and some buildings churn through an entire staff in a year. High turnover means the aide helping your father doesn't know he gets dizzy when he stands up fast.
 
 Ask two questions:
 
@@ -70,7 +70,7 @@ Whatever numbers you're quoted, verify them the way an inspector would:
 - **Ask residents and visiting families:** "When you press the button, how long does it take?" They know the real number.
 - **Check the record.** State [inspection reports](/guides/reading-inspection-reports-and-ratings/) cite facilities for insufficient staffing; repeated staffing citations confirm what your eyes suspected.
 
-Staffing costs are the biggest line item in a facility's budget, which means understaffing is the most tempting way to protect profit margins. That's not cynicism; it's arithmetic. The facilities worth choosing are the ones that answer staffing questions with specifics and let you see for yourself — a key step in the larger process of [choosing a facility](/guides/how-to-choose-a-senior-care-facility/).
+Staffing is the biggest line item in a facility's budget, so when finances tighten, staffing feels the pressure first — which is exactly why it's the number to ask about. A fair word, too: hiring and keeping caregivers is genuinely hard right now, industry-wide, and even well-run communities work at it constantly. The facilities worth choosing are the ones that answer staffing questions with specifics and let you see for yourself — a key step in the larger process of [choosing a facility](/guides/how-to-choose-a-senior-care-facility/).
 
 ## Common questions
 

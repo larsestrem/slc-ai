@@ -20,7 +20,7 @@ care_levels: ["adult-family-home", "memory-care"]
 facility_size: "small"
 capacity: 6
 sources: ["https://www.assurety.org/", "https://carelistings.com/assisted-living-homes/vancouver-wa/assurety-adult-family-home-inc/5acd0288a71d8c15cf695942", "https://www.aplaceformom.com/community/assurety-senior-care-71989"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 specialties: ["Dementia"]
 description_full: "Assurety Adult Family Home is a licensed six-bed adult family home in Vancouver, overseen by owners Jim and Laura. It offers assisted living, Alzheimer's and memory care, nursing, and hospice care in a home setting with 24-hour supervision."
 review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/vancouver-wa/assurety-adult-family-home-inc/5acd0288a71d8c15cf695942"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/assurety-senior-care-71989"}]

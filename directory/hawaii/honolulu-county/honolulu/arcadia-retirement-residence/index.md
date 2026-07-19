@@ -22,7 +22,7 @@ organization: "arcadia-family-of-companies"
 organization_name: "Arcadia Family of Companies"
 cms_ccn: "125014"
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/arcadia-retirement-residence-125014", "https://www.yelp.com/biz/arcadia-honolulu-3", "https://arcadia.org/residences/", "https://www.seniorhousingnet.com/seniorliving-detail/arcadia-retirement-residence_1434-punahou-st_honolulu_hi_96822-543255"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "Arcadia Retirement Residence, established in 1967, is a nonprofit continuing care retirement community affiliated with the United Church of Christ, set on three acres in Honolulu's Makiki neighborhood."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/arcadia-retirement-residence-125014"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/arcadia-honolulu-3"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/arcadia-retirement-residence_1434-punahou-st_honolulu_hi_96822-543255"}]
 reviews_search_url: "https://www.google.com/search?q=Arcadia+Retirement+Residence+Honolulu+HI+reviews"

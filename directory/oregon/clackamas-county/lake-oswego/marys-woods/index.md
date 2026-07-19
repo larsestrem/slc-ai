@@ -14,11 +14,12 @@ city: "lake-oswego"
 city_name: "Lake Oswego"
 address: "17400 Holy Names Dr"
 zip: "97034"
+phone: "(503) 635-7381"
 website: "https://maryswoods.org/"
 care_levels: ["ccrc", "independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
 sources: ["https://maryswoods.org/living-here/", "https://health.usnews.com/best-senior-living/marys-woods-at-marylhurst-11459", "https://www.yelp.com/biz/marys-woods-lake-oswego-2"]
-verified_date: "2026-07-11"
+verified_date: "2026-07-14"
 description_full: "Mary's Woods is a single-site nonprofit Life Plan Community (CCRC) for adults 62 and older on a 40-acre campus at the former Marylhurst campus in Lake Oswego. Residents access a continuum of care including independent living, assisted living, residential care with 24/7 nursing staff, and memory care. The park-like grounds include walking trails, rose gardens, and views of the Willamette River valley."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/marys-woods-at-marylhurst-11459"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/marys-woods-lake-oswego-2"}]
 reviews_search_url: "https://www.google.com/search?q=Mary%27s+Woods+Lake+Oswego+OR+reviews"

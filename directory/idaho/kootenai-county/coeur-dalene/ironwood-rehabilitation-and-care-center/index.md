@@ -21,7 +21,7 @@ facility_size: "large"
 capacity: 80
 cms_ccn: "135053"
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/ironwood-rehabilitation-and-care-center-135053", "https://ironwoodrehab.com/", "https://www.medicare.gov/care-compare/details/nursing-home/135053/?city=COEUR+D%27ALENE&state=ID"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 serious_concern: true
 concern_regulator: "CMS and Idaho state surveyors"
 concern_type: "Federal inspection citations for failing to protect residents from abuse/neglect"

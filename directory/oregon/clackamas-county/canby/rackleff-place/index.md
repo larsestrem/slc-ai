@@ -19,7 +19,7 @@ care_levels: ["assisted-living"]
 facility_size: "medium"
 capacity: 25
 sources: ["https://www.prestigecare.com/locations/rackleff-place/", "https://ultimateseniorresource.com/states/oregon/canby/rackleff-place", "https://ltclicensing.oregon.gov/Facilities/Details/70M075"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 review_caveat: "Rackleff Place shares a campus with the independent-living community Hope Village and the skilled nursing facility Marquis Hope Village, each separately licensed and rated. Check each listing's own rating rather than assuming they're the same."
 description_full: "A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette."
 review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/oregon/canby/rackleff-place"}]

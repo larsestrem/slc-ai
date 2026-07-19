@@ -14,13 +14,14 @@ city: "twin-falls"
 city_name: "Twin Falls"
 address: "1828 Bridgeview Blvd"
 zip: "83301"
+phone: "(208) 736-3933"
 website: "https://lcca.com/locations/id/bridgeview-estates/"
 care_levels: ["independent-living", "assisted-living", "skilled-nursing"]
 facility_size: "large"
 capacity: 116
 cms_ccn: "135113"
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/bridgeview-estates-135113", "https://www.medicare.gov/care-compare/details/nursing-home/135113"]
-verified_date: "2026-07-13"
+verified_date: "2026-07-14"
 description_full: "A senior living campus in Twin Falls with independent living, assisted living and a 116-bed skilled nursing and rehabilitation center. Serves the Magic Valley region."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/bridgeview-estates-135113"}]
 reviews_search_url: "https://www.google.com/search?q=Bridgeview+Estates+Twin+Falls+ID+reviews"

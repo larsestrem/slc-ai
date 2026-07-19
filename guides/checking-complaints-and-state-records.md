@@ -6,6 +6,7 @@ permalink: /guides/checking-complaints-and-state-records/
 topic_group: quality
 updated: 2026-07-12
 related:
+  - /guides/why-good-communities-get-complaints/
   - /guides/reading-inspection-reports-and-ratings/
   - /guides/warning-signs-when-choosing-a-facility/
   - /guides/top-10-qualities-of-a-great-facility/
@@ -75,9 +76,9 @@ because they're worse, but because they care for the sickest residents, are insp
 intensively under federal rules, and are often reviewed online by families going through the
 most stressful weeks of their lives. A nursing home with a handful of corrected citations may
 be performing better, relative to the difficulty of its job, than an assisted living community
-with a clean file. That's why we judge SNFs primarily on their
-[CMS star ratings](/guides/reading-inspection-reports-and-ratings/) rather than consumer
-reviews — and why you should read every record against the type of care being delivered.
+with a clean file. That's why, for skilled nursing, the
+[federal inspection record on Care Compare](/guides/reading-inspection-reports-and-ratings/)
+is the record to weight over consumer reviews — and why you should read every record against the type of care being delivered.
 
 The goal isn't to find a facility with a spotless past. It's to find one that's honest about
 its hard days and visibly putting in the effort to reconcile anything that isn't going right.

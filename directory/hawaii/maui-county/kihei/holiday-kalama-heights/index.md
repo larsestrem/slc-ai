@@ -21,7 +21,7 @@ facility_size: "large"
 organization: "holiday-by-atria"
 organization_name: "Holiday by Atria"
 sources: ["https://www.caring.com/senior-living/hawaii/kihei/holiday-kalama-heights", "https://www.holidayseniorliving.com/retirement-communities/holiday-kalama-heights-kihei-hi", "https://www.aplaceformom.com/community/holiday-kalama-heights-73307"]
-verified_date: "2026-07-12"
+verified_date: "2026-07-14"
 description_full: "A pet-friendly independent senior living community in Kihei on Maui's south shore, minutes from Kamaole Beach Park."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/kihei/holiday-kalama-heights"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/holiday-kalama-heights-73307"}]
 reviews_search_url: "https://www.google.com/search?q=Holiday+Kalama+Heights+Kihei+HI+reviews"

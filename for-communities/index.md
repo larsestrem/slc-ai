@@ -37,7 +37,9 @@ one comes up.
 **Want to see what you're working toward?**
 **[See a complete sample profile →](/for-communities/example-profile/)** — photos, care
 capabilities by level, daily life, floor plans, and your own answer to the question families
-care about most.
+care about most. And see [what your directory card looks like before and after
+claiming](/for-communities/example-card/) — claimed listings show your photo and your profile
+manager's name right on the card.
 
 ## Answer what you can, when you can
 

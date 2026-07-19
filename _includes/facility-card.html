@@ -1,7 +1,13 @@
 {%- assign f = include.facility -%}
-<li class="card"{% if include.city %} data-city="{{ include.city }}"{% endif %}>
+<li class="card{% if f.thumb %} has-thumb{% endif %}"{% if include.city %} data-city="{{ include.city }}"{% endif %}>
+  {%- if f.thumb %}
+  <a class="card-thumb" href="{{ f.url }}" tabindex="-1" aria-hidden="true">
+    <img src="{{ f.thumb.src }}" alt="" loading="lazy" decoding="async">
+  </a>
+  {%- endif %}
   <h3><a href="{{ f.url }}">{{ f.name }}</a></h3>
   <p class="meta">{{ f.city_name }}, {{ f.state_abbrev }}{% if f.facility_size == 'small' %} · Small home{% endif %}</p>
   {% include care-badges.html levels=f.care_levels %}
   {%- if f.description %}<p class="desc">{{ f.description | truncate: 140 }}</p>{% endif %}
+  {%- if f.managed_by %}<p class="managed-by">✓ Profile managed by {{ f.managed_by.name }}{% if f.managed_by.role != "" %}, {{ f.managed_by.role }}{% endif %}</p>{% endif %}
 </li>

@@ -36,6 +36,10 @@ planning a photo session:
 
 ## Requirements
 
+- **Landscape orientation only — always wider than tall.** Hold the phone sideways. Every
+  photo frame on your listing (the profile gallery, the photo page, the thumbnail on
+  directory pages) is built landscape, and a portrait photo gets cropped in ways you won't
+  like. [Why we require landscape photos →](/for-communities/why-landscape-photos/)
 - **You must own the rights** to every image you send (you took it, or your community did),
   and by sending it you give us permission to publish it on your listing.
 - **No identifiable people without written consent.** For any photo showing a resident, family
@@ -44,3 +48,7 @@ planning a photo session:
 - JPG or PNG, at least 1200px wide, no heavy filters or stock photography — families can tell,
   and authentic beats polished.
 - We may crop or resize for layout, and we'll never alter what a photo shows.
+
+**A bonus for your first photo:** the first image you send becomes your community's thumbnail
+on directory and city pages — listings with a photo (and a named profile manager) stand out
+from the text-only listings around them.

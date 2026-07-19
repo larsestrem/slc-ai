@@ -200,3 +200,10 @@ tbody tr:hover { background: var(--soft); }
 .q-form .consent input { width: auto; margin-top: .2rem; }
 .q-form .form-foot { font-size: .85rem; color: var(--muted); margin: .8rem 0 0; }
 .q-form .honey { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+
+/* Claimed-listing perks on cards: photo strip + quiet manager credit.
+   Deliberately modest — a reward for claiming, not a ranking signal. */
+.card.has-thumb { padding-top: 0; }
+.card .card-thumb { display: block; margin: 0 -1.1rem .7rem; border-radius: var(--radius) var(--radius) 0 0; overflow: hidden; }
+.card .card-thumb img { width: 100%; height: 7rem; object-fit: cover; display: block; }
+.card .managed-by { font-size: .78rem; color: #2c5530; margin: .55rem 0 0; }

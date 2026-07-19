@@ -152,6 +152,17 @@ def card(f):
     for k in ("facility_size", "description"):
         if f.get(k):
             c[k] = f[k]
+    # Claimed-profile perks that surface on listing cards (quietly): the first
+    # community photo as a thumbnail, and who manages the profile. Both reward
+    # communities that claim and update their listing.
+    photos = f.get("photos") or []
+    if photos:
+        c["thumb"] = {"src": photos[0]["src"], "alt": photos[0].get("alt", f["name"])}
+    manager = (f.get("contributors") or [{}])[0]
+    if manager.get("name"):
+        c["managed_by"] = {"name": manager["name"], "role": manager.get("role", "")}
+    elif f.get("claimed_by"):
+        c["managed_by"] = {"name": f["claimed_by"], "role": f.get("claimed_role", "")}
     return c
 
 

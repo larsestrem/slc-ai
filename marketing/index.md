@@ -12,6 +12,14 @@ means we spend every day watching how families actually search, what they click,
 makes them pick up the phone. This page is for the people on the other side of that search:
 the communities.
 
+<p class="notice"><strong>How this stays honest:</strong> buying marketing services from us
+changes nothing about your directory listing. It buys no ranking boost, no badge, no richer
+profile, no faster corrections, and no influence over the official-record and review links we
+show - clients and non-clients get the exact same treatment, and no one on our editorial side
+is paid based on whether a community becomes a marketing client. Any community that has a paid
+relationship with us will carry a plain disclosure on its profile. We don't accept referral
+commissions and we never sell placement.</p>
+
 Most senior living communities can't justify a dedicated digital marketer. So marketing gets
 done in the gaps - a brochure refresh here, a boosted Facebook post there, and a referral-
 platform invoice for **$3,000-6,000+** every time a bed fills. There's a better way to spend

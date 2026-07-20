@@ -16,7 +16,7 @@ If you've just started calling communities and the prices made your stomach drop
 
 ## What each care level costs
 
-These are realistic national figures for 2025-2026, drawn from industry cost surveys (such as Genworth/CareScout's annual study) and current market listings. Your local market may run well above or below them - more on that below. If you're not sure which level your parent needs, start with our guide to [levels of care explained](/guides/levels-of-care-explained/).
+The figures below are approximate national ranges for 2025-2026, combining published industry cost surveys (such as the Genworth/CareScout Cost of Care Survey) with current market listings. Two important caveats about any number like these: survey figures are usually the *median base cost* and exclude the care charges layered on top (see below), while listing "starting" prices are the lowest advertised rate, not what most residents pay. Treat the ranges as a starting point for budgeting, not a quote, and confirm real numbers in writing with each community. Your local market may run well above or below these, and if you're not sure which level your parent needs, start with our guide to [levels of care explained](/guides/levels-of-care-explained/).
 
 - **[Independent living](/guides/independent-living/):** roughly $2,500 - $4,500 per month. This is closest to rent-plus-services: housing, some meals, activities, and light housekeeping, but no hands-on care.
 - **[Assisted living](/guides/assisted-living/):** national median around $5,500 - $6,000 per month, with common ranges from about $4,000 to $8,000+ depending on the market and how much help your parent needs.

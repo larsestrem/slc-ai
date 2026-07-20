@@ -15,6 +15,12 @@ faqs: [{"q": "How many of these signs mean it's serious?", "a": "There's no magi
 
 If you've left a visit with your parent feeling uneasy but unable to say exactly why, don't ignore that feeling. Treat it as a reason to look more closely: watch for specific changes, write down what you notice, and get an appropriate professional assessment. This page turns that vague worry into a clear-eyed assessment: the specific signs that an aging parent needs help, why they're so easy to miss, and what to do next. No sign on this list means "[nursing home](/guides/skilled-nursing/)." Most mean "it's time to get more information."
 
+<p class="notice"><strong>First, rule out an emergency.</strong> Sudden confusion, new weakness
+or drooping on one side, difficulty speaking, severe shortness of breath, chest pain, a fall
+with a head injury, or any sign of immediate danger is a medical emergency, not a slow-decline
+sign. Call 911 or get urgent care right away. The signs on this page are about gradual changes
+you notice over weeks and months, not a sudden change today.</p>
+
 ## Why decline is invisible - to them and to you
 
 Aging decline is usually gradual, and gradual change is invisible to the person living inside it. Your dad didn't decide to stop cooking real meals; dinner just quietly became crackers and cheese over two years. He compares today to last week and sees no difference. You have to compare today to two years ago.

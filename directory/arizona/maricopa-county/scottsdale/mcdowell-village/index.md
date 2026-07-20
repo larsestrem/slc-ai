@@ -24,7 +24,7 @@ organization_name: "MBK Senior Living"
 sources: ["https://www.aplaceformom.com/community/mc-dowell-village-138933", "https://health.usnews.com/best-senior-living/mcdowell-village-2074"]
 verified_date: "2026-07-19"
 description_full: "McDowell Village is an upscale independent and assisted living community in south Scottsdale, recognized by U.S. News and World Report as a Best Independent Living and Best Assisted Living community."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/mc-dowell-village-138933"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/mcdowell-village-2074"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/mc-dowell-village-138933"}]
 reviews_search_url: "https://www.google.com/search?q=McDowell+Village+Scottsdale+AZ+reviews"
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azcarecheck.azdhs.gov/"}
 ---

@@ -24,7 +24,7 @@ organization_name: "HumanGood"
 sources: ["https://www.humangood.org/las-ventanas-at-summerlin", "https://www.seniorlivingguide.com/communities/las-ventanas-at-summerlin-10401-w-charleston-blvd-las-vegas-nv-89135/", "https://health.usnews.com/best-senior-living/las-ventanas-628"]
 verified_date: "2026-07-19"
 description_full: "Las Ventanas at Summerlin is Nevada's only Life Care community (CCRC), operated by the nonprofit HumanGood. The campus offers independent living apartments and villas plus assisted living, memory care, and skilled nursing on one site. U.S. News & World Report named it a Best Continuing Care Retirement Community in its 2026 Best Senior Living awards."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/las-ventanas-628"}]
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/nv/las-ventanas-retirement-community-skilled-nursing-facility-295086"}]
 reviews_search_url: "https://www.google.com/search?q=Las+Ventanas+at+Summerlin+Las+Vegas+NV+reviews"
 licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}
 ---

@@ -22,7 +22,8 @@ facility_size: "large"
 sources: ["https://www.aplaceformom.com/community/emerald-springs-senior-living-53437", "https://www.bbb.org/us/az/yuma/profile/retirement-communities/emerald-springs-retirement-assisted-living-community-1126-1000062819"]
 verified_date: "2026-07-19"
 description_full: "Emerald Springs Senior Living is a full-campus community in Yuma offering independent living, assisted living, and memory care, with a pool, robust activity calendar, and BBB A+ accreditation."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/emerald-springs-senior-living-53437"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/emerald-springs-senior-living-53437"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/emerald-springs-senior-living-yuma"}]
 reviews_search_url: "https://www.google.com/search?q=Emerald+Springs+Senior+Living+Yuma+AZ+reviews"
+records_url: "https://azcarecheck.azdhs.gov/s/facility-details?facilityId=001cs00000Wo9A3AAJ"
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azcarecheck.azdhs.gov/"}
 ---

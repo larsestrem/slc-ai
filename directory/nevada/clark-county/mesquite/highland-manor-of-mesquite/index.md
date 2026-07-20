@@ -23,6 +23,6 @@ cms_ccn: "295068"
 sources: ["https://www.nursinghomesite.com/HIGHLAND_MANOR_OF_MESQUITE_MESQUITE_NV", "https://nvhca.org/find-care/highland-manor-of-mesquite/", "https://health.usnews.com/best-nursing-homes/area/nv/highland-manor-of-mesquite-295068"]
 verified_date: "2026-07-19"
 description_full: "Highland Manor of Mesquite is a 112-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility serving the Mesquite area of Clark County."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/nv/highland-manor-of-mesquite-295068"}]
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/nv/highland-manor-of-mesquite-295068"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/nevada/mesquite/highland-manor-mesquite-89027"}]
 reviews_search_url: "https://www.google.com/search?q=Highland+Manor+of+Mesquite+Mesquite+NV+reviews"
 ---

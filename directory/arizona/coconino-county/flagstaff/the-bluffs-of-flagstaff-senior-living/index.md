@@ -26,5 +26,6 @@ verified_date: "2026-07-19"
 description_full: "The Bluffs of Flagstaff is the highest-rated senior living community in Flagstaff, offering assisted living and memory care in Arizona's high country."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-bluffs-of-flagstaff-senior-living-1446128"}]
 reviews_search_url: "https://www.google.com/search?q=The+Bluffs+of+Flagstaff+Senior+Living+Flagstaff+AZ+reviews"
+records_url: "https://hsapps.azdhs.gov/ls/sod/Provider.aspx?ProviderName=The+Bluffs+of+Flagstaff"
 licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azcarecheck.azdhs.gov/"}
 ---

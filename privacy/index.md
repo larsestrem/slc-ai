@@ -16,9 +16,11 @@ account, without being tracked by us, and without telling us anything.
 
 ## What we collect
 
-**Nothing, for browsing.** There is no account system, no newsletter, no login, and we do not
-run analytics or advertising trackers. Our cost calculator and worksheets run entirely in
-your browser - nothing you type into them is sent to us or anyone else.
+**No profiles or ad tracking, for browsing.** There is no account system, no newsletter, no
+login, and we do not intentionally build browsing profiles or run advertising analytics. Our
+hosting, security, and network providers may process technical data needed to deliver and
+protect the site (see below). Our cost calculator and worksheets run entirely in your browser -
+nothing you type into them is sent to us or anyone else.
 
 **What you choose to send us:**
 
@@ -40,9 +42,24 @@ identify or profile visitors.
 ## How form submissions travel
 
 Questionnaire forms on the Site are delivered to us by a third-party form-forwarding service
-(FormSubmit), which transmits your submission to our private email and is not permitted to
-use it for its own purposes. Submissions are **private** - they go to us alone, and nothing
-you submit is published until we have verified you and prepared the listing content with you.
+(FormSubmit), which transmits your submission to our private email. We use submissions only to
+respond to you and to build the listing; the forwarding service processes your submission in
+transit under its own terms, which we encourage you to review. Submissions are **private** in
+the sense that we don't publish anything you send until we have verified you and prepared the
+listing content with you.
+
+## Service providers we rely on
+
+We keep the list of third parties short and name them so you know who can process data:
+
+- **Cloudflare** - hosting and content delivery. Processes technical request data (including IP
+  address) to serve and protect the Site.
+- **FormSubmit** - forwards questionnaire and correction submissions to our private email.
+- **Email provider** - receives and stores the messages and submissions you send us.
+
+We do not use advertising networks, analytics trackers, or data brokers. If this list changes,
+we will update this page. For a privacy request, email
+**listings@senior.living.community**.
 
 ## How we use information
 

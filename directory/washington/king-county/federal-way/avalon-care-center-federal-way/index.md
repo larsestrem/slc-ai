@@ -21,8 +21,8 @@ facility_size: "large"
 capacity: 120
 cms_ccn: "505510"
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/avalon-care-center-federal-way-505510", "https://everlighthealth.org/avalon-care-center-federal-way-federal-way-wa-505510/"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "A 120-bed skilled nursing and rehabilitation center in Federal Way offering short-term rehab and long-term care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/avalon-care-center-federal-way-505510"}]
 reviews_search_url: "https://www.google.com/search?q=Avalon+Care+Center+-+Federal+Way+Federal+Way+WA+reviews"
 ---

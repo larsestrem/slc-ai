@@ -23,6 +23,7 @@ organization: "avamere"
 organization_name: "Avamere"
 cms_ccn: "505327"
 sources: ["https://www.avamere.com/avamere-olympic-rehabilitation-of-sequim/", "https://www.seniorcare.com/nursing-homes/wa/sequim/avamere-olympic-rehabilitation-of-sequim/505327/", "https://www.yelp.com/biz/avamere-olympic-rehabilitation-of-sequim-sequim"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Avamere Olympic Rehabilitation of Sequim is a Medicare- and Medicaid-certified skilled nursing and rehabilitation facility with 125 federally certified beds in Sequim, on Washington's Olympic Peninsula. First certified by CMS in 1989, it is operated by the Avamere Family of Companies."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/avamere-olympic-rehabilitation-of-sequim-sequim"}]

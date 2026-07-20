@@ -23,7 +23,7 @@ organization_name: "Ciel Senior Living"
 sources: ["https://www.aplaceformom.com/community/ciel-senior-living-of-tri-cities-1383454", "https://www.assistedlivingcenter.com/facilities/wa/kennewick/ciel-of-tri-cities-99336/", "https://www.yelp.com/biz/ciel-of-tri-cities-kennewick"]
 verified_date: "2026-07-14"
 description_full: "Ciel Senior Living of Tri-Cities is a multi-building campus in Kennewick offering independent living, assisted living, and a dedicated memory care building on North Young Street."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/ciel-senior-living-of-tri-cities-1383454"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/ciel-of-tri-cities-kennewick"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/ciel-senior-living-of-tri-cities-1383454"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/ciel-of-tri-cities-kennewick"}, {"name": "Yelp", "url": "https://m.yelp.com/biz/tri-cities-senior-living-kennewick"}]
 reviews_search_url: "https://www.google.com/search?q=Tri-Cities+Senior+Living+Kennewick+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

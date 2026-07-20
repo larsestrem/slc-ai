@@ -22,6 +22,7 @@ sources: ["https://carelistings.com/assisted-living-homes/lynnwood-wa/sunny-lovi
 verified_date: "2026-07-14"
 specialties: ["Dementia"]
 description_full: "Sunny Loving Care Adult Family Home is a licensed five-bed adult family home in Lynnwood. It provides personal care, medication management, meals and 24-hour supervision, with a focus on memory care for residents with Alzheimer's and dementia."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunny-loving-adult-home-1348392"}]
 reviews_search_url: "https://www.google.com/search?q=Sunny+Loving+Care+Adult+Family+Home+Lynnwood+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

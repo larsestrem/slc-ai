@@ -21,7 +21,7 @@ facility_size: "large"
 sources: ["https://www.franketobeyjones.com/", "https://www.franketobeyjones.com/living-options/skilled-nursing/ftj-care-center/", "https://www.yelp.com/biz/franke-tobey-jones-tacoma"]
 verified_date: "2026-07-14"
 description_full: "Franke Tobey Jones is a not-for-profit senior living campus in North Tacoma offering independent living, assisted living, memory care, and skilled nursing at its FTJ Care Center. The community has served Tacoma seniors for more than a century and operates as a full-continuum campus near Point Defiance Park."
-review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/franke-tobey-jones-tacoma"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/franke-tobey-jones-tacoma"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/tacoma/franke-tobey-jones-retirement-estates-98407"}]
 reviews_search_url: "https://www.google.com/search?q=Franke+Tobey+Jones+Tacoma+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

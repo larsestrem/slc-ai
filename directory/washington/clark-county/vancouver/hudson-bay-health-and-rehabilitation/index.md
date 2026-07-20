@@ -23,6 +23,7 @@ organization: "cascadia-healthcare"
 organization_name: "Cascadia Healthcare"
 cms_ccn: "505260"
 sources: ["https://www.hudsonbayhealthandrehab.com/", "https://health.usnews.com/best-nursing-homes/area/wa/hudson-bay-health-and-rehabilitation-505260", "https://www.nursinghomedatabase.com/snf/505260", "https://projects.propublica.org/nursing-homes/homes/h-505260"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Hudson Bay Health and Rehabilitation is a 92-bed Medicare- and Medicaid-certified skilled nursing facility in Vancouver operated by Cascadia Healthcare."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/hudson-bay-health-and-rehabilitation-505260"}]

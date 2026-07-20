@@ -21,6 +21,7 @@ facility_size: "large"
 capacity: 100
 cms_ccn: "505491"
 sources: ["https://www.familyassets.com/nursing-homes/washington/everett/everett-center", "https://health.usnews.com/best-nursing-homes/area/wa/everett-center-505491", "https://www.king5.com/article/news/20-of-the-nations-worst-rated-nursing-homes-are-in-washington-state/281-aaee92e9-25f1-4168-9e7b-97d9d32f458e"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Everett Center is a 100-bed, for-profit skilled nursing facility operated by Genesis HealthCare at 1919 112th St SW in Everett. It provides nursing care, short-term rehabilitation, and respite care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/everett-center-505491"}]

@@ -20,9 +20,10 @@ care_levels: ["independent-living", "assisted-living"]
 organization: "leisure-care"
 organization_name: "Leisure Care"
 sources: ["https://www.senioradvisor.com/local/fairwinds-redmond-redmond-wa", "https://www.yelp.com/biz/fairwinds-redmond-redmond", "https://www.leisurecare.com/our-communities/fairwinds-redmond/"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Independent and assisted living retirement community on Avondale Road in Redmond, managed by Seattle-based Leisure Care."
-review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/fairwinds-redmond-redmond-wa"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/fairwinds-redmond-redmond"}]
+review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/fairwinds-redmond-redmond-wa"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/fairwinds-redmond-redmond"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fairwinds-redmond-99245"}]
 reviews_search_url: "https://www.google.com/search?q=Fairwinds+-+Redmond+Redmond+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

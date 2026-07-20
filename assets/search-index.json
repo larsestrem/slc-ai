@@ -13,7 +13,7 @@ permalink: /assets/search-index.json
 {%- endfor %}
 {%- for p in site.pages %}
 {%- assign parts = p.url | split: "/" %}
-{%- if p.layout == "facility" %}
+{%- if p.layout == "facility" and p.url contains "/directory/" %}
 {%- assign key = "," | append: p.state | append: "," %}
 {%- unless hidden contains key %}
 ,{"t":"facility","n":{{ p.title | jsonify }},"d":{{ p.city_name | append: ", " | append: p.state_abbrev | jsonify }},"u":{{ p.url | jsonify }}}

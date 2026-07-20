@@ -56,9 +56,9 @@ An elder law attorney can often structure a spend-down so more of it benefits yo
 
 ## The five-year look-back
 
-When your parent applies for long-term care Medicaid, the state reviews **five years** of financial records. Gifts or below-market transfers made during that window - the house to a child, "early inheritances," even generous holiday checks in some states - trigger a **penalty period** of Medicaid ineligibility, calculated from the amount transferred.
+A 60-month (five-year) look-back commonly applies when your parent applies for long-term care Medicaid: the state reviews that window of financial records, and gifts or below-market transfers made during it, the house to a child, "early inheritances," even generous holiday checks in some states, can trigger a **penalty period** of ineligibility calculated from the amount transferred. Exceptions, penalty math, home-equity treatment, waiver availability, and state procedures vary, so treat this as the general shape of the rule rather than the exact rule in your state.
 
-This is the rule that makes "just put the house in the kids' names" such dangerous folk advice. If Medicaid might be needed within five years, get legal advice before moving any assets. And know that after death, state Medicaid programs seek repayment from the estate - see [Medicaid estate recovery](/guides/medicaid-estate-recovery/).
+This is the reason "just put the house in the kids' names" is such dangerous folk advice. Get state-specific advice from an elder law attorney before transferring, selling, gifting, or retitling any major asset. And know that after death, state Medicaid programs seek repayment from the estate - see [Medicaid estate recovery](/guides/medicaid-estate-recovery/).
 
 > **Ask this:** Ask an elder law attorney, "Given our state's rules and our five-year picture, what can we still do - and what must we not do - with Mom's house and savings?"
 

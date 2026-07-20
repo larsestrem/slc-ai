@@ -73,7 +73,7 @@ Every licensed community has a complete fee schedule. You are entitled to see it
 - The reassessment policy: who triggers it, how you're notified, how you can appeal
 - Refund terms if your parent leaves, is hospitalized, or dies mid-month
 
-Then build a realistic first-year total: (base rent + care level + recurring extras) × 12, plus one-time fees, plus an assumed 5-8% increase partway through. Compare communities on *that* number. Bring this list on tours along with our [touring checklist](/guides/touring-checklist/).
+Then build a realistic first-year total: (base rent + care level + recurring extras) × 12, plus one-time fees, plus a cushion for the mid-year increase (use the community's own recent increase history, not a guess). Compare communities on *that* number. Bring this list on tours along with our [touring checklist](/guides/touring-checklist/).
 
 One more note: sales conversations naturally center on lifestyle rather than itemized costs - steering the conversation back to numbers is your job. A community that gets vague or irritated when you push for numbers in writing is showing you how it will handle billing disputes later. If the total is beyond reach, don't stretch silently; read [paying for senior care](/guides/paying-for-senior-care/) for the full funding toolkit.
 

@@ -20,7 +20,7 @@ Before the list, one thing matters more than any single source: **time**. Nearly
 
 Most [assisted living](/guides/assisted-living/) in the U.S. is paid privately, from Social Security, pensions, retirement accounts, and savings. The core exercise is simple: add up your parent's reliable monthly income, subtract it from the realistic total monthly cost (including care charges and increases - see [hidden fees](/guides/whats-not-included-hidden-fees/)), and see how many years the gap can be covered from assets.
 
-Be conservative. Assume costs rise 5-8% a year and care needs grow. A plan that only works if nothing changes is not a plan.
+Be conservative. Model more than one increase scenario rather than a single number, ask each community for its actual history of rate and care-fee increases, and assume care needs grow. Local increases vary year to year, so a plan that only works if nothing changes is not a plan.
 
 ## The house: sale, rental, or bridge financing
 

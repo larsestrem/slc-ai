@@ -1,65 +1,59 @@
 ---
 noindex: true
 layout: page
-title: "Senior Living Placement Professionals - Vetted Local Advisors"
-description: "What placement advisors do, how they're paid, how to verify one yourself - and the 10 things we check before listing any advisor in our directory."
+title: "Senior Living Placement Advisors: How to Find and Vet One"
+description: "A good local placement advisor can save a family weeks of work. We don't list or endorse specific advisors - here's how they get paid, how to vet one yourself, and the free alternatives."
 crumbs:
-  - name: Placement Professionals
+  - name: Placement Advisors
     url: /placement-professionals/
 ---
 
-A good local placement advisor can save a family weeks of research - they know the communities,
-the pricing, and which buildings are struggling. But most are paid referral fees by the
-communities they place you in, and national call-center services have drawn serious scrutiny
-for recommending only communities that pay them. You deserve advisors whose incentives you
-can see.
+A good local placement advisor can save a family weeks of research. They know the communities,
+the pricing, and which buildings are struggling, and the best ones will tour with you and stay
+involved through move-in. For a confused or rushed search, that help is often genuinely valuable.
 
-**Start here:** [Finding help choosing a facility](/guides/finding-help-choosing-a-facility/) - all your options for getting help, including how placement specialists work like a realtor for
-senior care (paid by the community, not by you). Then
-[how placement services really work](/guides/placement-professionals/) for the business model
-in depth and the questions to ask.
+Most advisors are paid a referral fee by the community they place you in, so their incentives are
+worth understanding before you lean on one. We don't list, rank, or endorse specific advisors on
+this site, and we take no referral fees ourselves, so nothing here steers you toward one advisor
+over another. What we can do is show you how to judge one yourself.
 
-## What we verify before listing an advisor
+**Start here:** [Finding help choosing a facility](/guides/finding-help-choosing-a-facility/) lays
+out all your options for getting help, and
+[how placement services really work](/guides/placement-professionals/) explains the business model
+in depth, including the questions that separate a good advisor from a salesperson.
 
-Every advisor in this directory must pass all ten checks - and we publish the answers, not
-just a badge:
+## How to vet an advisor yourself
 
-1. **Business standing** - active state registration and at least 2 years in operation (or 2+ years of verifiable placement experience)
-2. **State registration where required** - Oregon advisors must appear on the state's public [Long-Term Care Referral Registry](https://ltcr.oregon.gov/Agents); Nevada advisors must hold current state registration; Washington advisors attest compliance with the state's referral-agency disclosure law (RCW 18.330)
-3. **Written fee disclosure** - we review their actual pre-referral disclosure form: who pays them, how the fee is computed, and their refund policy. Required by law in Oregon and Washington; we require it everywhere, including California and Idaho, where placement is unregulated
-4. **Liability insurance** - current certificate at the $1 million level Oregon and Washington law requires
-5. **Background & credentials** - criminal background check, and any claimed credentials (like the exam-based CPRS certification) verified with the issuing body
-6. **Local, in-person service** - based in the market they serve, has personally toured the communities they recommend within the past year, and will tour with you
-7. **Conflict-of-interest answers, published verbatim** - "Do you ever recommend communities that don't pay you?" and "Does your fee vary by community?"
-8. **Complaint screen** - BBB, state attorney general actions, and court records
-9. **References** - recent placed families plus a professional reference who doesn't pay them
-10. **Ethics commitment** - a signed code of conduct; all listings remain at our editorial discretion
+You can check most of what matters in about ten minutes:
 
-## Verify an advisor yourself
+- **Registration, where the state requires it.** Oregon referral agents must appear on the state's
+  public [Long-Term Care Referral Registry](https://ltcr.oregon.gov/Agents); if an Oregon advisor
+  isn't listed, walk away. Nevada requires state registration. Washington requires a written
+  disclosure of fees and refund policy **before any referral**, with your signed acknowledgment -
+  if you didn't get one, that's your answer. California and Idaho are effectively unregulated, so
+  ask for the fee disclosure and insurance certificate anyway, and treat a refusal as a red flag.
+- **Written fee disclosure.** Ask, in plain terms, who pays them, how the fee is calculated, and
+  what their refund policy is. A straight answer is a good sign.
+- **Conflict-of-interest questions.** Ask directly: "Will you show me communities that don't pay
+  you a fee?" and "Does your fee change depending on which community I choose?"
+- **Local, in-person service.** Ask when they last personally toured the communities they're
+  recommending, and whether they'll tour with you. Prefer a local advisor who visits buildings
+  over a national call-center service that never leaves the phone.
+- **Track record.** Ask for recent references, and check the Better Business Bureau and your state
+  attorney general for complaints.
 
-Even without our directory, you can check a lot in ten minutes:
-
-- **Oregon:** every legitimate referral agent must be registered - search them on the
-  [state registry](https://ltcr.oregon.gov/Agents). Not there? Walk away.
-- **Washington:** the law requires a written disclosure of fees and refund policy **before any
-  referral**, with your signed acknowledgment. If you didn't get one, that's your answer.
-- **California and Idaho:** placement agencies are effectively unregulated - ask for the fee
-  disclosure and insurance certificate anyway, and treat refusal as a red flag.
-- **Everywhere:** ask "Will you show me communities that don't pay you a fee?" and
-  "When did you last personally visit the places you're recommending?"
+Treat any advisor's shortlist as a starting point, not a verdict: add options from your own
+research and our [directory](/directory/), check the
+[inspection record](/guides/reading-inspection-reports-and-ratings/) on every candidate, and do
+your own tours with the [touring checklist](/guides/touring-checklist/).
 
 ## Free alternatives
 
 If you'd rather not use a commercial service, real help is available at no cost:
 
-- **Eldercare Locator** - 1-800-677-1116, the federal service connecting families to local aging resources
-- **Your Area Agency on Aging** - care navigation and options counseling in every county
-- **Long-Term Care Ombudsman** - advocates for residents; can tell you about complaint histories
+- **Eldercare Locator** - 1-800-677-1116, the federal service connecting families to local aging
+  resources
+- **Your Area Agency on Aging** - care navigation and options counseling in every county, with no
+  financial stake in where your parent lands
+- **Long-Term Care Ombudsman** - advocates for residents who can tell you about complaint histories
 - [Government help finding and paying for care](/guides/government-assistance-programs/)
-
-## Are you a placement professional?
-
-If you already work the way the best in this industry do - registered, insured, transparent
-about fees, touring with families in person - you're exactly who we want families to find.
-**[Apply to be listed](/placement-professionals/apply/)** - listing is free for the founding
-cohort, and transparency about compensation is a condition of listing.

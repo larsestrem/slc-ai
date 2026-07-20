@@ -27,9 +27,10 @@ one comes up.
    domain, with your name, your role, and your community's name (and the listing URL on this
    site, if it exists).
 2. **We verify you before anything changes.** No update is ever published from an unverified
-   person. We confirm the community against its state license record, confirm your email is at
-   the community's own domain (or its parent organization's), and call the community's published
-   main phone number to confirm your name and role with management. Listings updated this way
+   person. We take steps to verify each administrator: we confirm the community against its state
+   license record, and depending on the community those steps may include confirming your email is
+   at the community's own domain (or its parent organization's) and calling the community's
+   published main phone number to confirm your name and role with management. Listings updated this way
    carry a **"Community-verified profile"** badge, and every community-provided section is
    labeled and dated.
 3. **You update** - as little or as much as you have time for.

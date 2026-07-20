@@ -72,8 +72,9 @@ attributed to the person who provided it, with their name, title, and date. By s
 Community Content, you (and the community you represent) agree that:
 
 - **You are authorized** to speak for the community, and you consent to our verifying that
-  with the community's management, its state license record, and its published phone number
-  before anything is published. Nothing is ever published from an unverified person.
+  through steps that may include contacting the community's management, checking its state
+  license record, and calling its published phone number before anything is published. Nothing
+  is ever published from an unverified person.
 - **Your content is accurate** at the time you submit it, and you will send corrections when
   material details change.
 - **You own or control the rights** to everything you submit, including photos, and you grant

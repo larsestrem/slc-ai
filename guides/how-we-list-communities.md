@@ -11,7 +11,7 @@ related:
   - /guides/checking-complaints-and-state-records/
   - /guides/how-to-choose-a-senior-care-facility/
   - /guides/adult-family-homes/
-faqs: [{"q": "Why not just show the star rating you found?", "a": "Because we found out the hard way that we could get it wrong. Ratings come from several different data pipelines, get remapped and re-summarized along the way, and change on their own schedule. A wrong number on a page about your parent's care is a real harm, not a minor bug - so we stopped publishing one and started linking directly to where the real, current number lives."}, {"q": "Why do some profiles say it's especially important to check the record?", "a": "Every profile links to the official record, and we always recommend reading it. On a small number of profiles we add a note encouraging you to read the record and recent reviews especially carefully before deciding. We don't say what's in any record - records change, entries can be disputed or resolved, and the source is always more current than we are. The note just asks you to look; what you find, you find at the source, today."}, {"q": "Does the note mean a community is bad?", "a": "No. It means the official record is worth your time before you decide - nothing more. Records reflect a moment in time; problems get fixed, findings get challenged, ownership changes. That's exactly why we point you to the live source instead of characterizing it ourselves, and why the community's own response to any issue is worth asking about directly."}, {"q": "Why isn't the directory a complete registry?", "a": "Building and verifying each listing takes real research, and we're still working through the states we cover. If a community you're looking for isn't listed yet, that's a gap in our coverage, not a judgment about the community - check the state licensing lookup directly."}]
+faqs: [{"q": "Why not just show the star rating you found?", "a": "Because we found out the hard way that we could get it wrong. Ratings come from several different data pipelines, get remapped and re-summarized along the way, and change on their own schedule. A wrong number on a page about your parent's care is a real harm, not a minor bug - so we stopped publishing one and started linking directly to where the real, current number lives."}, {"q": "Do you flag or warn about specific communities?", "a": "No. Every profile links to the official record and carries the same note asking you to read it and recent reviews before you decide. We don't single out individual communities, because even a neutral-sounding warning implies we know something we haven't said. We don't say what's in any record - records change, entries can be disputed or resolved, and the source is always more current than we are. The note just asks you to look; what you find, you find at the source, today."}, {"q": "Then why read the record at all if every community has the same note?", "a": "Because the record is worth your time before any big decision, and it's the same reason we link it the same way everywhere. Records reflect a moment in time; problems get fixed, findings get challenged, ownership changes. We point you to the live source instead of characterizing it ourselves, and the community's own response to any issue is worth asking about directly."}, {"q": "Why isn't the directory a complete registry?", "a": "Building and verifying each listing takes real research, and we're still working through the states we cover. If a community you're looking for isn't listed yet, that's a gap in our coverage, not a judgment about the community - check the state licensing lookup directly."}]
 ---
 
 Type a community's name into our directory and, if it's listed, you'll land on its profile - but you won't find a star rating or a numeric score anywhere on this site. That's deliberate.
@@ -57,16 +57,17 @@ government source or a commercial review site - they measure very different thin
 [interpreting online reviews](/guides/interpreting-online-reviews/) explain what each one can and
 can't tell you.
 
-## When we ask you to look especially carefully
+## We ask you to read the record for every community
 
-We don't assert anything about any community's quality - no exceptions. But reading the official
-record matters more for some decisions than others, so on a small number of profiles you'll see
-a short note: **it's important to read this community's official record and recent reviews before
-you decide**, with the official record linked first. That's all the note says, and all it means.
-We never summarize what a record contains - records change, entries can be disputed, corrected,
-or resolved, and the government source is always more current than any restatement of it. The
-note simply asks you to spend the time; what you find, you find at the source, as it stands
-today. Communities can [claim their listing](/for-communities/) to add context in their own
+We don't assert anything about any community's quality - no exceptions. And we don't single out
+individual communities with a warning, because even a neutral-sounding "look closely at this one"
+implies we know something we haven't said. Instead, **every profile carries the same note**: read
+this community's official record and recent reviews before you decide, with the official record
+linked first. That's all the note says, and all it means. We never summarize what a record
+contains - records change, entries can be disputed, corrected, or resolved, and the government
+source is always more current than any restatement of it. The note simply asks you to spend the
+time; what you find, you find at the source, as it stands today. Communities can
+[claim their listing](/for-communities/) to add context in their own
 words, including how they handle concerns - and
 [how a community responds to problems](/guides/why-good-communities-get-complaints/) is often the
 most useful thing to learn.
@@ -114,18 +115,19 @@ data pipelines, get remapped and re-summarized along the way, and change on thei
 wrong number on a page about your parent's care is a real harm, not a minor bug - so we stopped
 publishing one and started linking directly to where the real, current number lives.
 
-**Why do some profiles say it's especially important to check the record?**
-Every profile links to the official record, and we always recommend reading it. On a small
-number of profiles we add a note encouraging you to read the record and recent reviews
-especially carefully before deciding. We don't say what's in any record - records change,
-entries can be disputed or resolved, and the source is always more current than we are. The
-note just asks you to look; what you find, you find at the source, today.
+**Do you flag or warn about specific communities?**
+No. Every profile links to the official record and carries the same note asking you to read it
+and recent reviews before you decide. We don't single out individual communities, because even a
+neutral-sounding warning implies we know something we haven't said. We don't say what's in any
+record - records change, entries can be disputed or resolved, and the source is always more
+current than we are. The note just asks you to look; what you find, you find at the source, today.
 
-**Does the note mean a community is bad?**
-No. It means the official record is worth your time before you decide - nothing more. Records
-reflect a moment in time; problems get fixed, findings get challenged, ownership changes. That's
-exactly why we point you to the live source instead of characterizing it ourselves, and why the
-community's own response to any issue is worth asking about directly.
+**Then why read the record at all if every community has the same note?**
+Because the official record is worth your time before any big decision - that's true everywhere,
+which is why we link it the same way everywhere. Records reflect a moment in time; problems get
+fixed, findings get challenged, ownership changes. We point you to the live source instead of
+characterizing it ourselves, and the community's own response to any issue is worth asking about
+directly.
 
 **Why isn't the directory a complete registry?**
 Building and verifying each listing takes real research, and we're still working through the

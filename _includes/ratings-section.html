@@ -5,9 +5,9 @@ real liability, and the source can change the moment after we check it.
 Instead, every source we found is listed here with a direct, clearly-labeled
 link and a short explanation of who assigns it and what it measures, so a
 family can read the real, current record themselves. See
-/guides/how-we-list-communities/ for the full policy. records_note profiles
-get only a neutral read-it-first nudge, with the official record placed
-first - we never say what the record contains.
+/guides/how-we-list-communities/ for the full policy. Every profile gets the
+same neutral read-it-first nudge, with the official record placed first - we
+never single out communities and never say what any record contains.
 {%- endcomment -%}
 <section class="panel ratings-block" aria-labelledby="ratings-h">
   <h2 id="ratings-h">Ratings &amp; official records</h2>
@@ -15,15 +15,14 @@ first - we never say what the record contains.
   change, and a wrong number here would be worse than none. Instead, here's exactly where to find
   the real ones, straight from the source.</p>
 
-  {%- if page.records_note %}
-  <p class="records-note"><strong>Important:</strong> for this community, we especially encourage
-  you to read the official record and recent family reviews below, carefully and in full, before
-  you decide. We don't summarize or interpret any community's record ourselves - what matters is
-  what you find at the source, today. If anything you read concerns you, talk it through with the
+  <p class="records-note">Whatever community you're considering, read the official record and
+  recent family reviews below carefully and in full before you decide. We don't summarize or
+  interpret any community's record ourselves - what matters is what you find at the source,
+  today, and records are incomplete snapshots that can change, be disputed, or be resolved after
+  we look. If anything you read concerns you, talk it through with the
   <a href="/guides/checking-complaints-and-state-records/">long-term care ombudsman</a> - free,
   independent, and familiar with local communities - and with the community itself:
   <a href="/guides/why-good-communities-get-complaints/">how they respond tells you a lot</a>.</p>
-  {%- endif %}
 
   {%- if page.cms_ccn %}
   <div class="rating-card">
@@ -33,9 +32,9 @@ first - we never say what the record contains.
       (CMS), the government agency that certifies nursing homes.
       <strong>What it measures:</strong> independent state health inspections, nurse and aide
       staffing levels, and clinical quality measures, combined into one overall star - reported
-      separately too, since a facility can be strong on one and weak on another. Some of the
-      quality data is reported by the facility itself, which means a community that documents
-      every incident honestly can score lower than one that reports less completely.</p>
+      separately too, since a facility can be strong on one and weak on another. The components
+      draw on different data sources with different limits, so read the component ratings and the
+      actual findings rather than the single overall star.</p>
       <p><a class="btn-link" href="https://www.medicare.gov/care-compare/details/nursing-home/{{ page.cms_ccn }}" rel="noopener">See {{ page.title }}'s current rating on Medicare Care Compare &rarr;</a></p>
       {%- if page.records_url %}
       <p><a class="btn-link" href="{{ page.records_url }}" rel="noopener">Also read {{ page.title }}'s {{ page.state_name }} state licensing record{% if page.license_id %} (license&nbsp;{{ page.license_id }}){% endif %} &rarr;</a></p>

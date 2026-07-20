@@ -58,10 +58,10 @@ platforms we found - clearly labeled - so you read the real, current number at t
 of a figure we've restated. We do not restate, quote, or summarize the contents of individual
 reviews, official records, or incident reports on our own pages - no exceptions; that information
 belongs to the source that published it, and it can change, be disputed, or be resolved after we
-look. On a small number of profiles we add a note encouraging you to read the official record
-and recent reviews especially carefully before deciding - the note says nothing about what the
-record contains. Do your own research: read the full record at the source, and always verify
-directly with the community. See [why we don't display ratings](/guides/how-we-list-communities/),
+look. Every profile carries the same note encouraging you to read the official record and recent
+reviews carefully before deciding - we never single out individual communities, and the note says
+nothing about what any record contains. Do your own research: read the full record at the source,
+and always verify directly with the community. See [why we don't display ratings](/guides/how-we-list-communities/),
 [how to interpret online reviews](/guides/interpreting-online-reviews/), and
 [how government ratings work](/guides/reading-inspection-reports-and-ratings/).
 

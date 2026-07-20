@@ -3,19 +3,15 @@ Sidebar panel near the top of every facility profile. We don't display a
 numeric rating, star, flag, or finding anywhere on the site (see
 /guides/how-we-list-communities/ for why) - this gives a visitor landing on
 the page an immediate, clearly-labeled set of links to where the real ratings,
-reviews, and official records live. For a small number of communities the
-generator sets records_note (from internal, government-sourced data that is
-never published): those profiles carry a neutral read-the-record-first nudge,
-with the official record linked first. We never say what the record contains.
+reviews, and official records live. Every profile carries the same neutral
+read-the-record-first nudge with the official record linked first; we never
+single out individual communities and never say what any record contains.
 {%- endcomment -%}
 <section class="panel rating-glance" aria-labelledby="glance-h">
   <h2 id="glance-h">Ratings &amp; reviews</h2>
-  <p class="muted">We don't show a star rating ourselves - find it directly at the source:</p>
-
-  {%- if page.records_note %}
-  <p class="records-note"><strong>Important:</strong> take time to read this community's
-  official record and recent family reviews before you decide - start with the first link below.</p>
-  {%- endif %}
+  <p class="muted">We don't show a star rating ourselves - find it directly at the source. For
+  any community you're considering, reading the official record and recent reviews is worth your
+  time. Start with the first link below.</p>
 
   <ul class="glance-links">
     {%- if page.cms_ccn %}

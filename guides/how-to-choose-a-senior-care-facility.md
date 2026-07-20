@@ -23,7 +23,7 @@ Before you look at a single facility, get clear on your parent's care needs. Fac
 
 Ask yourself honestly:
 
-- Can they bathe, dress, use the toilet, and eat without help? (These are called "activities of daily living," or ADLs.)
+- Can they bathe, dress, use the toilet, and eat without help? (These are called the "[activities of daily living](/guides/signs-your-parent-needs-help/#adls-and-iadls-in-plain-language)," or ADLs - new to the term? that link explains it plainly.)
 - Are they safe with medications, cooking, and driving?
 - Is there memory loss - missed bills, getting lost, repeating questions?
 - Do they need daily nursing care, like wound care or injections?
@@ -81,7 +81,7 @@ Our guide to [reading inspection reports and ratings](/guides/reading-inspection
 
 Tour your top three in person. Take the scheduled tour, then come back unannounced at a different time - dinner hour or a weekend evening, when staffing is thinnest. Watch how staff talk to residents, smell the hallways, look at whether residents are engaged or parked in front of a TV, and study the [food](/guides/food-and-dining/) and [activity calendar](/guides/activities-and-engagement/).
 
-Bring our full [touring checklist](/guides/touring-checklist/) with you, including the questions about [staffing ratios](/guides/staffing-ratios/) and turnover that tours don't usually cover. Also think through [shared versus private rooms](/guides/shared-vs-private-rooms/) - the price difference is large, and so is the quality-of-life difference for some people.
+Bring two things with you: our full [touring checklist](/guides/touring-checklist/) for what to watch for, and our printable [questions to ask on a tour](/tools/questions-to-ask/), which has a notes box under each topic so you can jot your impressions in the car afterward, while the visit is fresh - it's what lets you compare three communities later without them blurring together. Between them they cover the things tours skip, like [staffing ratios](/guides/staffing-ratios/) and turnover. Also think through [shared versus private rooms](/guides/shared-vs-private-rooms/) - the price difference is large, and so is the quality-of-life difference for some people.
 
 > **Ask this:** "Can I have lunch here with the residents, and can you connect me with two current families I can call?" A confident facility says yes to both.
 

@@ -56,6 +56,26 @@ The same privacy line from [responding to reviews](/best-practices/responding-to
 here: a community can describe its *process* and what it changed, but it must never discuss a
 specific resident's health details in public to defend itself.
 
+## What a good response actually sounds like
+
+Here is how that comes together for a real but correctable citation. Suppose a community was cited
+for not following its own timeline for notifying families and physicians after a resident's fall:
+
+> "Yes, we were cited in March 2024 for not consistently following our own timeline for notifying
+> families and physicians after a fall. When we looked into it, the problem wasn't one person; it
+> was that our after-hours notification steps weren't clear enough and nobody was checking that
+> they happened. We rewrote that procedure, retrained every clinical staff member on it, and added
+> a nightly check where a supervisor confirms each required notification was made. Anything in this
+> category now goes straight to our Director of Nursing and then to me. We re-checked at 30 and 90
+> days, the fix has held, and we've had no repeat finding on it since. We won't ever be perfect,
+> but when something falls short we look for the reason and change the practice, not just the
+> paperwork."
+
+Why it works: it names the finding plainly, points at the system instead of a scapegoat, shows a
+specific change and a real escalation path, and proves the fix was verified rather than just
+promised. Notice what it never does. It doesn't reveal a single resident's health details, and it
+doesn't claim perfection.
+
 ## The floor that a good response can't move
 
 Handling a problem well is a real strength, but some findings are not "handled" away. Substantiated
@@ -64,6 +84,13 @@ family who complained, or the same serious deficiency repeating survey after sur
 in kind. A polished response does not offset them. When you see these on a record, weigh them
 heavily, read the details and dates at the [official source](/guides/checking-complaints-and-state-records/),
 and talk to the [long-term care ombudsman](/guides/checking-complaints-and-state-records/).
+
+The honest answer to one of these sounds completely different, and it should. A community can tell
+you it removed and reported the individual immediately, cooperated fully with the state and law
+enforcement, notified the family, and tightened its screening, supervision, or financial controls.
+What it cannot honestly tell you is that the matter is behind it, or that a new policy turns it
+into a non-issue, and a community worth trusting won't try. Weigh these findings heavily no matter
+how polished the response.
 
 ## For families
 

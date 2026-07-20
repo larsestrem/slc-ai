@@ -23,6 +23,6 @@ cms_ccn: "505414"
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/south-hill-rehabilitation-and-care-center-505414", "https://www.nursinghomedatabase.com/snf/505414"]
 verified_date: "2026-07-14"
 description_full: "A 113-bed nonprofit skilled nursing and rehabilitation center on Spokane's South Hill offering short-term rehab and long-term care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/south-hill-rehabilitation-and-care-center-505414"}, {"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/505414"}]
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/south-hill-rehabilitation-and-care-center-505414"}]
 reviews_search_url: "https://www.google.com/search?q=South+Hill+Rehabilitation+and+Care+Center+Spokane+WA+reviews"
 ---

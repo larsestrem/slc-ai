@@ -22,7 +22,7 @@ organization_name: "The Plaza Assisted Living"
 sources: ["https://www.seniorcareauthority.com/assisted-living/the-plaza-at-punchbowl-in-honolulu-the-plaza-at-punchbowl.html", "https://www.assistedlivingcenter.com/facilities/hi/honolulu/the-plaza-at-punchbowl-96822/", "https://www.yelp.com/biz/the-plaza-at-punchbowl-honolulu-2", "https://www.caring.com/senior-living/hawaii/honolulu/the-plaza-at-punchbowl"]
 verified_date: "2026-07-14"
 description_full: "The Plaza at Punchbowl is a multistory senior living community near downtown Honolulu operated by Hawaii-based The Plaza Assisted Living, offering independent living and assisted living."
-review_links: [{"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/the-plaza-at-punchbowl-in-honolulu-the-plaza-at-punchbowl.html"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/hi/honolulu/the-plaza-at-punchbowl-96822/"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-plaza-at-punchbowl-honolulu-2"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/honolulu/the-plaza-at-punchbowl"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/the-plaza-at-punchbowl-honolulu-2"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/honolulu/the-plaza-at-punchbowl"}]
 reviews_search_url: "https://www.google.com/search?q=The+Plaza+at+Punchbowl+Honolulu+HI+reviews"
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
 ---

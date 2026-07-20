@@ -24,6 +24,5 @@ sources: ["https://projects.propublica.org/nursing-homes/homes/h-125019", "https
 verified_date: "2026-07-14"
 records_note: true
 description_full: "The Care Center of Honolulu is a large, for-profit, Medicare- and Medicaid-certified skilled nursing facility on Bachelot Street in Honolulu. It operates the largest respiratory/ventilator care unit in the state alongside general skilled nursing, short-term rehabilitation, and long-term care."
-review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/125019"}]
 reviews_search_url: "https://www.google.com/search?q=The+Care+Center+of+Honolulu+Honolulu+HI+reviews"
 ---

@@ -23,6 +23,5 @@ cms_ccn: "385138"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385138/", "https://www.nursinghomedatabase.com/snf/385138", "https://ltclicensing.oregon.gov/Facilities/Details/385138"]
 verified_date: "2026-07-14"
 description_full: "Pilot Butte Rehabilitation Center is a 74-bed Medicare- and Medicaid-certified skilled nursing facility in Bend offering short-term rehabilitation and long-term nursing care."
-review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/385138"}]
 reviews_search_url: "https://www.google.com/search?q=Pilot+Butte+Rehabilitation+Center+Bend+OR+reviews"
 ---

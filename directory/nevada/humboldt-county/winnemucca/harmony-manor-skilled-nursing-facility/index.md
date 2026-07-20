@@ -24,6 +24,6 @@ cms_ccn: "295024"
 sources: ["https://www.nursinghomesite.com/HARMONY_MANOR_SKILLED_NURSING_FACILITY_WINNEMUCCA_NV", "https://health.usnews.com/best-nursing-homes/area/nv/harmony-manor-skilled-nursing-facility-295024", "https://www.hghospital.org/locations/harmony-manor-skilled-nursing-and-residential-care-community/"]
 verified_date: "2026-07-19"
 description_full: "42-bed skilled nursing and residential care community in Winnemucca, operated by the Humboldt General Hospital district. It is the primary skilled nursing option for Humboldt County."
-review_links: [{"name": "NursingHomeSite", "url": "https://www.nursinghomesite.com/HARMONY_MANOR_SKILLED_NURSING_FACILITY_WINNEMUCCA_NV"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/nv/harmony-manor-skilled-nursing-facility-295024"}]
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/nv/harmony-manor-skilled-nursing-facility-295024"}]
 reviews_search_url: "https://www.google.com/search?q=Harmony+Manor+Skilled+Nursing+Facility+Winnemucca+NV+reviews"
 ---

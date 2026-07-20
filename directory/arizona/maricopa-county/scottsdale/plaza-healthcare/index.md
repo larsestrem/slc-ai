@@ -24,6 +24,5 @@ cms_ccn: "035084"
 sources: ["https://www.plazahealthcare.com/", "https://www.nursinghomedatabase.com/snf/035084"]
 verified_date: "2026-07-19"
 description_full: "Plaza Healthcare is a 179-bed Medicare- and Medicaid-certified skilled nursing facility that has operated in Scottsdale since 1983."
-review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/035084"}]
 reviews_search_url: "https://www.google.com/search?q=Plaza+Healthcare+Scottsdale+AZ+reviews"
 ---

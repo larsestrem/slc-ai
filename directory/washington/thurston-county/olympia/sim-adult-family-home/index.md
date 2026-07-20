@@ -22,7 +22,7 @@ sources: ["https://www.yelp.com/biz/sim-adult-family-home-olympia-2", "https://w
 verified_date: "2026-07-14"
 license_id: "752887"
 description_full: "SIM Adult Family Home is a licensed 6-bed adult family home in Olympia specializing in dementia care, hospice and long-term care, with 24/7 caregivers and nurses on staff for medication administration. It sits in a quiet residential area of northwest Olympia."
-review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/sim-adult-family-home-olympia-2"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/sim-adult-family-home_1836-east-end-ct-nw_olympia_wa_98502-633495"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sim-adult-family-home-1402834"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/sim-adult-family-home-olympia-2"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sim-adult-family-home-1402834"}]
 reviews_search_url: "https://www.google.com/search?q=SIM+Adult+Family+Home+Olympia+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

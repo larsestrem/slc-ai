@@ -23,7 +23,6 @@ organization_name: "MorningStar Senior Living"
 sources: ["https://ultimateseniorresource.com/states/washington/kirkland/morningstar-of-kirkland", "https://morningstarkirkland.com/contact-us/"]
 verified_date: "2026-07-14"
 description_full: "A MorningStar Senior Living community in Kirkland offering independent and assisted living with stylish apartments and hospitality-focused amenities."
-review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/washington/kirkland/morningstar-of-kirkland"}]
 reviews_search_url: "https://www.google.com/search?q=MorningStar+of+Kirkland+Kirkland+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

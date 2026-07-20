@@ -22,7 +22,7 @@ capacity: 6
 sources: ["https://reviews.birdeye.com/compassionate-care-adult-family-home-168183026085483", "https://adultfamilyhomecouncil.org/home-finder/755099-compassionate-care-adult-family-home-llc", "https://carelistings.com/assisted-living-homes/everett-wa/compassionate-care-adult-family-home-llc/67f3774da073024f4eb57356"]
 verified_date: "2026-07-14"
 description_full: "State-licensed six-bed adult family home in south Everett providing 24-hour residential care in a home setting."
-review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/compassionate-care-adult-family-home-168183026085483"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/everett-wa/compassionate-care-adult-family-home-llc/67f3774da073024f4eb57356"}]
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/compassionate-care-adult-family-home-168183026085483"}]
 reviews_search_url: "https://www.google.com/search?q=Compassionate+Care+Adult+Family+Home+LLC+Everett+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

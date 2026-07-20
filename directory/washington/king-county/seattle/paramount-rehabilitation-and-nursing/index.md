@@ -23,6 +23,5 @@ sources: ["https://local-nursing-homes.com/nursing-homes/washington/seattle/5055
 verified_date: "2026-07-14"
 records_note: true
 description_full: "Paramount Rehabilitation and Nursing is a 165-bed Medicare- and Medicaid-certified skilled nursing facility at 2611 S Dearborn St in Seattle, offering short-term rehabilitation and long-term nursing care."
-review_links: [{"name": "CareListings", "url": "https://carelistings.com/skilled-nursing-facilities/seattle-wa/paramount-rehabilitation-and-nursing/5ace891a93efd2372f9924d2"}]
 reviews_search_url: "https://www.google.com/search?q=Paramount+Rehabilitation+and+Nursing+Seattle+WA+reviews"
 ---

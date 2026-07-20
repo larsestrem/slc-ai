@@ -24,7 +24,7 @@ organization_name: "Merrill Gardens"
 sources: ["https://www.aplaceformom.com/community/truewood-by-merrill-boise-52848", "https://www.seniorhousingnet.com/seniorliving-detail/truewood-by-merrill-boise_2600-north-milwaukee-street_boise_id_83704-655077", "https://www.merrillgardens.com/senior-living/id/boise/n-milwaukee-street/"]
 verified_date: "2026-07-14"
 description_full: "Truewood by Merrill, Boise offers independent living, assisted living, and memory care in 109 apartments in northwest Boise's residential neighborhoods. The community includes cottages, studios, and one- and two-bedroom units with chef-prepared meals, on-site RN/LPN wellness staff, landscaped gardens, and walking paths. It is operated by Merrill Gardens, a Seattle-based senior living company founded in 1993."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/truewood-by-merrill-boise-52848"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/truewood-by-merrill-boise_2600-north-milwaukee-street_boise_id_83704-655077"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/truewood-by-merrill-boise-52848"}]
 reviews_search_url: "https://www.google.com/search?q=Truewood+by+Merrill%2C+Boise+Boise+ID+reviews"
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

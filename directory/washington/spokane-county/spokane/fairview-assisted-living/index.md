@@ -22,7 +22,7 @@ capacity: 64
 sources: ["https://www.caring.com/senior-living/washington/spokane/fairview-assisted-living-inc-99205", "https://www.seniorcareauthority.com/assisted-living/fairview-assisted-living-inc-in-spokane-washington.html"]
 verified_date: "2026-07-14"
 description_full: "Fairview Assisted Living Inc is a 64-resident assisted living facility at 1617 N Calispel St in Spokane, licensed by the State of Washington. It offers personal care, meals, and daily activities including a barber/beauty shop and library."
-review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/spokane/fairview-assisted-living-inc-99205"}, {"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/fairview-assisted-living-inc-in-spokane-washington.html"}]
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/spokane/fairview-assisted-living-inc-99205"}]
 reviews_search_url: "https://www.google.com/search?q=Fairview+Assisted+Living+Inc+Spokane+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

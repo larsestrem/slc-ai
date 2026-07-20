@@ -23,7 +23,7 @@ organization_name: "Cascade Living Group"
 sources: ["https://www.senioradvisor.com/local/cascades-of-bremerton-bremerton-wa", "https://www.caring.com/senior-living/washington/bremerton/cascades-of-bremerton", "https://www.seniorhousingnet.com/seniorliving-detail/cascades-of-bremerton_3201-pine-rd-ne_bremerton_wa_98310-636066"]
 verified_date: "2026-07-14"
 description_full: "Cascades of Bremerton is a campus-style community offering independent living (The Willows), assisted living, and memory care in East Bremerton."
-review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/cascades-of-bremerton-bremerton-wa"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/bremerton/cascades-of-bremerton"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/cascades-of-bremerton_3201-pine-rd-ne_bremerton_wa_98310-636066"}]
+review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/cascades-of-bremerton-bremerton-wa"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/bremerton/cascades-of-bremerton"}]
 reviews_search_url: "https://www.google.com/search?q=Cascades+of+Bremerton+Bremerton+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

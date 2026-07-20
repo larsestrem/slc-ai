@@ -22,7 +22,6 @@ capacity: 6
 sources: ["https://carelistings.com/assisted-living-homes/bellevue-wa/sunnys-adult-family-home-llc/5acd0293a71d8c15cf6966fa", "https://www.sunnysadultfamilyhome.com/"]
 verified_date: "2026-07-14"
 description_full: "A 6-bed licensed adult family home in the Lake Sammamish area of Bellevue, owned and operated by a registered nurse, providing 24-hour specialized care including support for Alzheimer's, Parkinson's and dementia."
-review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/bellevue-wa/sunnys-adult-family-home-llc/5acd0293a71d8c15cf6966fa"}]
 reviews_search_url: "https://www.google.com/search?q=Sunny%27s+Adult+Family+Home+LLC+Bellevue+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

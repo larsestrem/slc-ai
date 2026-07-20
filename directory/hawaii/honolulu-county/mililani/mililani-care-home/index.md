@@ -22,7 +22,7 @@ capacity: 5
 sources: ["https://www.seniorly.com/assisted-living/hawaii/mililani/mililani-care-home", "https://www.mililanicarehome.com/", "https://carelistings.com/assisted-living-homes/mililani-hi/mililani-care-home-llc/5acd01fda71d8c15cf68ad9d"]
 verified_date: "2026-07-14"
 description_full: "Mililani Care Home is a small, state-licensed Adult Residential Care Home - Level 1 in Mililani, Oahu, licensed for 5 residents, offering 24-hour supervised care, meals, housekeeping, and medication management. Available third-party quality scoring for this home is mixed to below-average, while the facility's own marketing cites positive family feedback."
-review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/mililani/mililani-care-home"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/mililani-hi/mililani-care-home-llc/5acd01fda71d8c15cf68ad9d"}]
+review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/mililani/mililani-care-home"}]
 reviews_search_url: "https://www.google.com/search?q=Mililani+Care+Home+Mililani+HI+reviews"
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
 ---

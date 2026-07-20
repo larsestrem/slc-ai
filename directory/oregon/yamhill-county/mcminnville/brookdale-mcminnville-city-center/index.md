@@ -22,7 +22,7 @@ organization_name: "Brookdale Senior Living"
 sources: ["https://www.senioradvisor.com/local/brookdale-mcminnville-city-center-mcminnville-or", "https://www.assistedlivingcenter.com/facilities/or/mcminnville/brookdale-mcminnville-city-center-97128/", "https://www.ohca.com/facility-finder/brookdale-mcminnville-city-center/"]
 verified_date: "2026-07-14"
 description_full: "Brookdale McMinnville City Center is an assisted living and memory care community near downtown McMinnville, part of the national Brookdale Senior Living network."
-review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/brookdale-mcminnville-city-center-mcminnville-or"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/mcminnville/brookdale-mcminnville-city-center-97128/"}]
+review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/brookdale-mcminnville-city-center-mcminnville-or"}]
 reviews_search_url: "https://www.google.com/search?q=Brookdale+McMinnville+City+Center+McMinnville+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -22,7 +22,7 @@ organization_name: "Stellar Senior Living"
 sources: ["https://www.aplaceformom.com/community/north-star-72732", "https://stellarliving.com/communities/north-star-assisted-senior-living-coeur-dalene-id/", "https://www.seniorhousingnet.com/seniorliving-detail/north-star_2340-w-seltice-way_coeur-d-alene_id_83814-639098"]
 verified_date: "2026-07-14"
 description_full: "North Star Retirement Community offers independent living, assisted living, and respite care in Coeur d'Alene, operated by Stellar Senior Living."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/north-star-72732"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/north-star_2340-w-seltice-way_coeur-d-alene_id_83814-639098"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/north-star-72732"}]
 reviews_search_url: "https://www.google.com/search?q=North+Star+Retirement+Community+Coeur+d%27Alene+ID+reviews"
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

@@ -24,7 +24,6 @@ organization_name: "Compass Senior Living"
 sources: ["https://carelistings.com/assisted-living-homes/roseburg-or/callahan-court-memory-care/5acd0268a71d8c15cf6930ef", "https://www.compass-living.com/community/callahan-court-memory-care/", "https://www.ohca.com/facility-finder/callahan-court-memory-care-community/"]
 verified_date: "2026-07-14"
 description_full: "Callahan Court Memory Care is a 48-bed licensed residential memory care community in Roseburg specializing in care for people with Alzheimer's disease and other dementias. Services include personal care, medication supervision, meals, and 24-hour supervision, and the community is managed by Eugene-based Compass Senior Living."
-review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/roseburg-or/callahan-court-memory-care/5acd0268a71d8c15cf6930ef"}]
 reviews_search_url: "https://www.google.com/search?q=Callahan+Court+Memory+Care+Roseburg+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

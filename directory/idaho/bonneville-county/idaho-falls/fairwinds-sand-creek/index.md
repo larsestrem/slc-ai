@@ -23,7 +23,7 @@ organization_name: "Leisure Care"
 sources: ["https://www.assistedlivingcenter.com/facilities/id/idaho-falls/fairwinds-sand-creek-83404/", "https://www.leisurecare.com/our-communities/fairwinds-sand-creek/", "https://www.yelp.com/biz/fairwinds-sand-creek-idaho-falls-2"]
 verified_date: "2026-07-14"
 description_full: "Fairwinds - Sand Creek is a Leisure Care retirement community in Idaho Falls offering independent living and assisted living in apartment-style homes. U.S."
-review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/id/idaho-falls/fairwinds-sand-creek-83404/"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/fairwinds-sand-creek-idaho-falls-2"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/fairwinds-sand-creek-idaho-falls-2"}]
 reviews_search_url: "https://www.google.com/search?q=Fairwinds+-+Sand+Creek+Idaho+Falls+ID+reviews"
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
 ---

@@ -22,7 +22,6 @@ capacity: 53
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385245/", "https://www.nursinghomedatabase.com/snf/385245", "https://ltclicensing.oregon.gov/Facilities/Details/385245"]
 verified_date: "2026-07-14"
 description_full: "Rivercrest Post Acute is a 53-bed Medicare- and Medicaid-certified skilled nursing facility in Oregon City offering short-term rehabilitation and long-term nursing care."
-review_links: [{"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/385245"}]
 reviews_search_url: "https://www.google.com/search?q=Rivercrest+Post+Acute+Oregon+City+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

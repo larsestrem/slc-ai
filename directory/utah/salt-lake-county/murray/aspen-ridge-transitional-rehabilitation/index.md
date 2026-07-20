@@ -23,6 +23,6 @@ cms_ccn: "465159"
 sources: ["https://health.usnews.com/best-nursing-homes/area/ut/aspen-ridge-transitional-rehabilitation-465159", "https://www.nursinghomedatabase.com/snf/465159"]
 verified_date: "2026-07-19"
 description_full: "Aspen Ridge Transitional Rehabilitation is a 38-bed Medicare-certified skilled nursing facility in Murray focused on short-term rehabilitation after hospital stays."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ut/aspen-ridge-transitional-rehabilitation-465159"}, {"name": "Nursing Home Database", "url": "https://www.nursinghomedatabase.com/snf/465159"}]
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ut/aspen-ridge-transitional-rehabilitation-465159"}]
 reviews_search_url: "https://www.google.com/search?q=Aspen+Ridge+Transitional+Rehabilitation+Murray+UT+reviews"
 ---

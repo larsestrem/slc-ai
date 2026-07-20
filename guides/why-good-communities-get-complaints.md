@@ -80,7 +80,7 @@ Ask for their process, not a promise: Who do I call first when something worries
 Read them for specifics, not temperature. Senior care reviews are often written in the hardest weeks of a family's life - after a fall, a decline, or a death - and grief and anger are part of them. A specific, repeated problem across several reviews deserves real weight; a furious but vague review is a data point, not a verdict.
 
 **Do facilities retaliate against families who complain?**
-Retaliation is prohibited for licensed facilities, and with reasonable, documented families it's rare - engaged families typically see better communication, not worse. If you genuinely fear it, contact the long-term care ombudsman, who can raise concerns without identifying you.
+Retaliation against residents is barred in nursing homes under federal law, and many states extend similar protection to assisted living, though the rules vary by state. In practice, with reasonable, documented families it's rare, and engaged families typically see better communication, not worse. If you genuinely fear it, contact the long-term care ombudsman, who can raise concerns without identifying you.
 
 ## Where to get help
 

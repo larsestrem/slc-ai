@@ -67,7 +67,7 @@ The strongest plans usually mix pieces:
 
 - **Adult day program + in-home care.** Weekday supervision, meals, and - critically - social contact at an adult day center, with an aide covering mornings, evenings, or weekends. Often the best answer to both the cost problem and the loneliness problem at once.
 - **In-home care now, community later.** Use home care for the next year or two, while touring communities without pressure and getting on waiting lists. You lose nothing by being ready.
-- **Home care inside [independent living](/guides/independent-living/).** Many parents move to [independent living](/guides/levels-of-care-explained/) for the community and hire aides there as needs grow - home care and senior housing aren't mutually exclusive.
+- **Home care inside [independent living](/guides/independent-living/).** Many parents move to [independent living](/guides/independent-living/) for the community and hire aides there as needs grow - home care and senior housing aren't mutually exclusive.
 - **[Respite stays](/guides/respite-care/).** A two-week respite stay in a community gives the family caregiver a real break and doubles as a no-commitment trial of facility life.
 
 ## Revisit the decision - on a schedule, not in a crisis

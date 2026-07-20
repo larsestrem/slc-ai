@@ -26,6 +26,7 @@ on each level when you're ready to go deeper.
 |---|---|---|---|
 | [Independent living](/guides/independent-living/) | Active seniors who want community, not care | None (home care can be hired in) | $2,500 - $4,500 |
 | [Assisted living](/guides/assisted-living/) | Needs help with bathing, dressing, or medications | Daily personal care, not medical | $5,500 - $6,000 base + care fees |
+| [Adult family homes](/guides/adult-family-homes/) | Frail elders who do better in a small, home-like setting | Personal care, sometimes memory care, in a home with a handful of residents | Varies by home and care level |
 | [Memory care](/guides/memory-care/) | Alzheimer's or other dementia, needs a secure setting | Dementia-trained staff, secured unit | $7,000 - $8,500 |
 | [Skilled nursing](/guides/skilled-nursing/) | Medical care or 24/7 nursing supervision | Licensed nurses around the clock | $10,000 - $12,000 (private room) |
 | [Respite care](/guides/respite-care/) | Short stays: caregiver relief, recovery, or a trial run | Same as the level stayed in | $150 - $350 per day |

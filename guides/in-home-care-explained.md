@@ -29,7 +29,7 @@ This is the right starting point for a parent who is safe alone but lonely, skip
 
 Personal care aides - also called home care aides, caregivers, or (in some states) certified nursing assistants working in the home - provide hands-on help with the activities of daily living: bathing, dressing, toileting, transfers in and out of bed or a chair, and eating. It is still non-medical care; aides don't give injections or manage wounds.
 
-This is the level most families mean when they say "home care," and it's the direct in-home equivalent of what [assisted living](/guides/levels-of-care-explained/) staff provide.
+This is the level most families mean when they say "home care," and it's the direct in-home equivalent of what [assisted living](/guides/assisted-living/) staff provide.
 
 ### Home health (skilled care)
 

@@ -28,7 +28,7 @@ If your parent is on Medicare and you believe the discharge is too soon or unsaf
 - The hospital must give you a written notice of discharge (the "Important Message from Medicare") with a phone number for your state's **Quality Improvement Organization (QIO)** - an independent medical review group, not part of the hospital.
 - Call the QIO **before midnight on the planned discharge day**. Say you are appealing the discharge.
 - The QIO reviews the medical record, usually within about a day, and decides whether discharge is appropriate.
-- **Your parent stays in the hospital during the review, and you generally aren't charged for those days while the appeal is pending.**
+- **Your parent stays in the hospital during the review, and you generally aren't charged for those days while the appeal is pending.** Ask the QIO to confirm your specific liability, since charges can apply if an appeal is filed late or lost.
 
 Even when families lose the appeal, it often buys 24-48 more hours - enough time to choose well instead of fast. Medicare Advantage plans have an equivalent fast-appeal process. Ask the discharge planner for the notice and the QIO number; they're required to provide it.
 
@@ -38,7 +38,7 @@ Even when families lose the appeal, it often buys 24-48 more hours - enough time
 
 Before anything else, ask one question: **"Is my parent admitted as an inpatient, or under observation status?"**
 
-Traditional Medicare generally covers a rehab stay in a skilled nursing facility only after **three consecutive inpatient midnights** in the hospital. Nights spent "under observation" - even in a regular hospital bed, even for days - may not count. Families discover this after discharge, when the rehab bill arrives uncovered. It's one of the most expensive traps in American healthcare.
+Traditional Medicare generally covers a rehab stay in a skilled nursing facility only after **three consecutive inpatient midnights** in the hospital, not counting the day of discharge. Nights spent "under observation" - even in a regular hospital bed, even for days - may not count. Families discover this after discharge, when the rehab bill arrives uncovered. It's one of the most expensive traps in American healthcare.
 
 If your parent is on observation status and rehab is being discussed, ask the doctor whether inpatient admission is medically justified, and ask what Medicare will actually cover. Some Medicare Advantage plans waive the three-day rule but require prior authorization instead - call the plan's number on the insurance card. Our [skilled nursing guide](/guides/skilled-nursing/) explains the full coverage picture, and [Medicaid vs. Medicare](/guides/medicaid-vs-medicare/) covers what happens if a short stay turns long.
 
@@ -47,9 +47,9 @@ If your parent is on observation status and rehab is being discussed, ask the do
 When people say "Medicare covers 100 days of rehab," here's the fine print, briefly:
 
 - Days 1-20 are covered in full (traditional Medicare, after a qualifying stay).
-- Days 21-100 carry a daily coinsurance of roughly $200+ - a good Medigap policy usually picks this up.
+- Days 21-100 carry a daily coinsurance (about $217 a day in 2026, adjusted every year) - a good Medigap policy usually picks this up.
 - Coverage lasts only while your parent needs **daily skilled care** - most rehab stays run 20-40 days, not 100.
-- If the facility says coverage is ending and you disagree, that decision can be appealed too. "She's plateaued" is not a valid reason to cut coverage under Medicare policy (per the Jimmo v. Sebelius settlement) - your SHIP counselor can help you appeal.
+- If the facility says coverage is ending and you disagree, that decision can be appealed too. Under the Jimmo v. Sebelius settlement, a lack of improvement ("she's plateaued") is generally not, by itself, a valid reason to end skilled coverage - your SHIP counselor can help you check whether it applies to your parent and appeal.
 
 ## Step 5: Vet the list in one evening
 

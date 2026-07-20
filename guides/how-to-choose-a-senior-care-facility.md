@@ -45,7 +45,7 @@ Map out what you can sustain for three to five years, not just year one:
 
 Read [paying for senior care](/guides/paying-for-senior-care/) before you tour, because base rent is not the whole story - care charges and [hidden fees](/guides/whats-not-included-hidden-fees/) can add thousands per month.
 
-> **Ask this:** "If my parent outlives their savings, can they stay here on Medicaid - and how many Medicaid beds do you actually have?" Most admission agreements allow discharge when funds run out - ask how it's handled before signing.
+> **Ask this:** "If my parent outlives their savings, can they stay here on Medicaid - and how many Medicaid beds do you actually have?" In many private-pay assisted living contracts, running out of funds can trigger a move-out; Medicaid-certified nursing homes are more restricted in when they can discharge. Ask each community how it handles this before signing, and have an elder law attorney explain your state's rules.
 
 ## Step 3: Build a shortlist
 

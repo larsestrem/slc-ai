@@ -75,7 +75,7 @@ Staffing is the biggest line item in a facility's budget, so when finances tight
 ## Common questions
 
 **Is there a legally required staffing ratio?**
-For assisted living, most states set no numeric ratio - only "sufficient staffing" standards, sometimes with minimums like one awake staff member overnight. Nursing homes face federal staffing rules and public reporting, and some states add their own minimums. Rules vary widely by state, so check your state's licensing regulations.
+For assisted living, most states set no numeric ratio - only "sufficient staffing" standards, sometimes with minimums like one awake staff member overnight. Nursing homes must have a nurse on duty and report their staffing to the federal government through payroll records, but specific federal minimum-ratio requirements have been changing in recent years, so check the current standard. Some states add their own minimums. Rules vary widely by state, so check your state's licensing regulations.
 
 **The facility says staffing is "based on acuity." Is that a dodge?**
 It's a legitimate concept - sicker residents need more staff - but it becomes a dodge when it replaces actual numbers. Follow up: "Fine - what does that mean in caregivers on the floor for my parent's wing, per shift, this week?"

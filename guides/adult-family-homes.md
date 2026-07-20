@@ -19,10 +19,10 @@ Most families searching for senior care never hear about adult family homes, bec
 
 An adult family home is an ordinary house in a residential neighborhood, licensed by the state to provide room, board, and personal care to a small number of residents. Caregivers help with bathing, dressing, medications, meals, and often much more - many homes care for residents through [hospice](/guides/hospice-and-palliative-care/) at end of life.
 
-They go by different names, and the size limits vary by state. A few examples:
+They go by different names, and the size limits vary by state. These are examples, not current legal limits, and license names and caps change, so check your state's licensing agency for the current rule:
 
-- **Washington:** adult family homes, licensed for up to 8 residents
-- **Oregon:** adult foster homes, licensed for up to 5 residents
+- **Washington:** adult family homes, generally licensed for up to 8 residents
+- **Oregon:** adult foster homes, generally licensed for up to 5 residents
 - **California:** small residential care facilities for the elderly (RCFEs), commonly licensed for up to 6
 - **Idaho:** certified family homes, typically caring for a handful of residents
 

@@ -29,7 +29,7 @@ When a discharge planner says "your mother needs to go to a SNF," your first que
 Medicare Part A can cover a rehab stay in a skilled nursing facility, but the conditions matter:
 
 - **A qualifying hospital stay is generally required** - traditionally three consecutive inpatient midnights. Watch out: time spent under **"observation status"** may not count, even after days in a hospital bed. Ask the hospital directly whether your parent was formally admitted as an inpatient. (Some Medicare Advantage plans waive the three-day rule but add their own prior-authorization hurdles.)
-- **Up to 100 days per benefit period - not automatically 100 days.** Traditional Medicare covers days 1-20 in full; for days 21-100 there is a significant daily coinsurance (around $200+/day in 2025-2026, adjusted annually), which a good Medigap policy typically covers.
+- **Up to 100 days per benefit period - not automatically 100 days.** Traditional Medicare covers days 1-20 in full; for days 21-100 there is a significant daily coinsurance (about $217 a day in 2026, adjusted every year), which a good Medigap policy typically covers.
 - **Coverage continues only while it's "skilled."** Your parent must need daily skilled nursing or therapy, and coverage ends when the facility determines that level of care is no longer required. Most rehab stays end well before day 100 - 20 to 40 days is common.
 
 What insiders know: if the facility says therapy will end and coverage will stop, **you have appeal rights**, and the "improvement standard" myth - that coverage ends because a patient has "plateaued" - was rejected in a court settlement (*Jimmo v. Sebelius*). Coverage can continue if skilled care is needed to maintain function or prevent decline. Rules are technical; a call to your State Health Insurance Assistance Program (SHIP) is free and worth it. Our [Medicaid vs. Medicare guide](/guides/medicaid-vs-medicare/) covers the bigger picture.
@@ -38,7 +38,7 @@ What insiders know: if the facility says therapy will end and coverage will stop
 
 ## Long-term care: who truly needs a nursing home
 
-Fewer people need long-term nursing [home care](/guides/in-home-care-explained/) than families fear. It's the right setting when:
+Fewer people need long-term nursing home care than families fear. It's the right setting when:
 
 - Care needs exceed what [assisted living](/guides/assisted-living/) or [memory care](/guides/memory-care/) can legally or practically provide - ventilators, feeding tubes, complex wounds, injections, two-person transfers, total assistance with daily living.
 - Medical instability requires a licensed nurse on every shift, 24/7, with physicians and pharmacists overseeing care.

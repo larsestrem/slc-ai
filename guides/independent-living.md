@@ -43,7 +43,7 @@ What's bundled versus billed separately varies a lot from one community to the n
 
 ## What independent living is NOT
 
-This is the part brochures gloss over: **independent living includes no personal care.** Staff do not help residents bathe, dress, or take medications. There is no nursing staff. Most communities have an emergency pull cord or pendant, but the response is to call 911 or a family member - not to send a caregiver.
+This is the part brochures gloss over: **independent living includes no personal care.** Staff do not help residents bathe, dress, or take medications. There is no nursing staff. Most communities have an emergency pull cord or pendant, but in most independent living the response is to call 911 or a family member rather than send a caregiver. Confirm exactly how each community responds to a 2 a.m. emergency.
 
 So what happens when a resident starts needing help? Two paths:
 

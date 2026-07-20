@@ -105,7 +105,7 @@ Rank by the flags that hurt residents fastest: staffing dodges and take-anyone a
 Individually, no; in patterns, yes. Ignore star averages and read the ten most recent reviews for repeated specifics - the same issue, named by different families, in the last year. Then cross-check against state inspection reports, which don't have a sample-size problem.
 
 **What if I spot these signs after my parent has already moved in?**
-Document specifics with dates, raise them in writing with the administrator, and involve the long-term care ombudsman - a free, independent advocate for residents - if the response is poor. Serious or unresolved problems can also be reported to your state licensing agency, and yes, you can move your parent.
+Document specifics with dates, raise them in writing with the administrator, and involve the long-term care ombudsman - a free, independent advocate for residents - if the response is poor. Serious or unresolved problems can also be reported to your state licensing agency, and yes, you can move your parent. If your parent is in immediate danger, call 911. To report suspected abuse, neglect, or exploitation, contact Adult Protective Services or the ombudsman, who are the right people to act on it.
 
 ## Where to get help
 

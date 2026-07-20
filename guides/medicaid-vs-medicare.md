@@ -14,7 +14,7 @@ faqs: [{"q": "Medicare covered Dad's nursing home after his surgery. Why won't i
 
 "Mom has Medicare, so the nursing home is covered, right?" This is the most common - and most costly - misunderstanding in all of senior care. The short answer is no: Medicare does not pay for long-term care. This page explains what Medicare and Medicaid each actually cover, and how families move from one to the other.
 
-One caveat up front: Medicaid rules genuinely vary by state - income and asset limits, what [assisted living](/guides/assisted-living/) coverage exists, even program names. Everything here is the general national picture as of 2025-2026. For your state's specifics, talk to a SHIP counselor or elder law attorney (see "Where to get help" below).
+One caveat up front: Medicaid rules genuinely vary by state - income and asset limits, what [assisted living](/guides/assisted-living/) coverage exists, even program names. Everything here is the general national picture as of 2026, and the dollar figures reset every year. For your state's specifics and the current numbers, talk to a SHIP counselor or elder law attorney (see "Where to get help" below).
 
 ## What Medicare actually covers
 
@@ -26,7 +26,7 @@ For nursing facility care, Medicare Part A pays only when all of these are true:
 - They're admitted to a Medicare-certified [skilled nursing](/guides/skilled-nursing/) facility for **skilled** needs: rehab (physical, occupational, speech therapy) or skilled nursing like wound care or IV medications.
 - They continue to need and receive that skilled care.
 
-Even then, coverage runs **up to 100 days per benefit period** - and 100 days is a maximum, not a promise. Days 1-20 are fully covered; days 21-100 carry a significant daily copay (around $210 per day in 2025, adjusted annually), which supplemental insurance may cover. In practice, coverage often ends well before day 100, when the person "plateaus" in therapy.
+Even then, coverage runs **up to 100 days per benefit period** - and 100 days is a maximum, not a promise. Days 1-20 are fully covered; days 21-100 carry a significant daily copay (about $217 per day in 2026, adjusted every year), which supplemental insurance may cover. In practice, coverage often ends well before day 100, when the person "plateaus" in therapy.
 
 What Medicare does **not** cover: help with bathing, dressing, eating, toileting, and supervision - the "custodial care" that is the entire substance of assisted living, [memory care](/guides/memory-care/), and long-term nursing home stays. It also doesn't cover room and board in any senior living community. Medicare Advantage plans follow the same fundamental rule, whatever the ads imply.
 
@@ -43,9 +43,9 @@ Medicaid is the joint federal-state program for people with limited income and a
 
 ## Medicaid eligibility basics
 
-To qualify for long-term care Medicaid, your parent must need the care medically **and** meet financial limits. As a general 2025-2026 picture (states differ):
+To qualify for long-term care Medicaid, your parent must need the care medically **and** meet financial limits. As a general 2026 picture (states differ, and these figures reset every year):
 
-- **Income:** many states cap income around $2,900/month (2025 figure, adjusted annually); others use different tests. States with strict caps usually allow a legal workaround called a Qualified Income Trust or "Miller trust."
+- **Income:** many states cap income at 300% of the federal SSI benefit, about $2,982/month in 2026; others use different tests. This figure rises most years, so confirm the current one with your state Medicaid office. States with strict caps usually allow a legal workaround called a Qualified Income Trust or "Miller trust."
 - **Assets:** countable assets typically must be at or below about **$2,000** for a single person (a few states set higher limits). Not everything counts: generally exempt are the home (up to a state equity limit, if a spouse lives there or the person intends to return), one vehicle, personal belongings, and small burial funds.
 
 ## Spend-down: how private pay becomes Medicaid
@@ -64,9 +64,9 @@ This is the reason "just put the house in the kids' names" is such dangerous fol
 
 ## Spousal impoverishment protections
 
-When one spouse needs nursing home care and the other stays home, federal rules prevent the at-home spouse (the "community spouse") from being left destitute. In general terms for 2025:
+When one spouse needs nursing home care and the other stays home, federal rules prevent the at-home spouse (the "community spouse") from being left destitute. In general terms for 2026:
 
-- The community spouse keeps the home they live in, their income, and a protected share of the couple's assets - the Community Spouse Resource Allowance, up to roughly $157,000 in 2025 (state amounts vary within federal limits, adjusted annually).
+- The community spouse keeps the home they live in, their income, and a protected share of the couple's assets - the Community Spouse Resource Allowance, up to roughly $162,660 in 2026 (state amounts vary within federal limits, and the cap adjusts every year).
 - If the community spouse's own income is low, they may keep part of the nursing home spouse's income as a monthly allowance.
 
 These protections are substantial but not automatic - they depend on how and when assets are counted. Couples in this situation get the most value of anyone from early elder law advice.

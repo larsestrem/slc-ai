@@ -33,8 +33,7 @@ curate, recency is visible. Weaknesses: no verification, and both extremes are o
 are paid by facilities for placements. The reviews themselves are often collected from
 families the platform referred, which skews toward people who just moved in - the honeymoon
 period - and the platform has a business relationship with the community being reviewed. Use
-the text; hold the stars loosely. Journalists examining the referral industry (including a 2024 Washington Post analysis) have
-found platform-recommended facilities coexisting with substandard-care citations.
+the text; hold the stars loosely. Journalists have examined the referral industry and reported that some facilities these platforms recommend have also drawn substandard-care citations, so treat a platform's recommendation as a lead to verify, not a vetting.
 
 **Facility-website testimonials** are marketing. Real quotes, hand-picked. Fine to read,
 meaningless as evidence.

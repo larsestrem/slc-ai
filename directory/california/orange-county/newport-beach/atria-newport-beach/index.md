@@ -26,5 +26,7 @@ verified_date: "2026-07-19"
 description_full: "Modern senior living community near Hoag Hospital offering independent living, assisted living, and memory care. Apartments include smart-home features, and the campus has a fitness center, yoga studio, and movie theater."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-newport-beach-94853"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/atria-newport-beach-2"}]
 reviews_search_url: "https://www.google.com/search?q=Atria+Newport+Beach+Newport+Beach+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/306005789"
+license_id: "306005789"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

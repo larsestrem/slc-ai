@@ -24,5 +24,7 @@ verified_date: "2026-07-19"
 description_full: "Menifee Senior Living offers independent living, assisted living, memory care, and respite stays in the Sun City area of Menifee."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/menifee-senior-living-55902"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/menifee-senior-living-menifee"}]
 reviews_search_url: "https://www.google.com/search?q=Menifee+Senior+Living+Menifee+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/331881073"
+license_id: "331881073"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

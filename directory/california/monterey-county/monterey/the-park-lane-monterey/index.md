@@ -27,5 +27,7 @@ verified_date: "2026-07-19"
 description_full: "Large Pacifica Senior Living community in the Monterey hills offering independent living, assisted living, memory care, and respite care. Resort-style, pet-friendly campus with chef-prepared meals, creative arts programs, and garden views near Del Monte Shopping Center."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-park-lane-56928"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-park-lane-monterey-4"}]
 reviews_search_url: "https://www.google.com/search?q=The+Park+Lane+Monterey+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/275294322"
+license_id: "275294322"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

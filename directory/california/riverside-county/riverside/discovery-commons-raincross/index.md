@@ -26,5 +26,7 @@ verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community in Riverside, formerly Raincross at Riverside under Watermark and now part of Discovery Senior Living. U.S. News has rated it a Best Senior Living community for assisted living based on resident and family surveys."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/discovery-commons-raincross-143299"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/raincross-at-riverside-riverside-6"}]
 reviews_search_url: "https://www.google.com/search?q=Discovery+Commons+Raincross+Riverside+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/331880774"
+license_id: "331880774"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

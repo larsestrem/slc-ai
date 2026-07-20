@@ -25,5 +25,7 @@ verified_date: "2026-07-19"
 description_full: "A 200-bed community in Folsom offering independent living, assisted living, and memory care."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/prairie-city-landing-157269507317537"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/prairie-city-landing-1394710"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/california/folsom/prairie-city-landing"}]
 reviews_search_url: "https://www.google.com/search?q=Prairie+City+Landing+Folsom+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/342700370"
+license_id: "342700370"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

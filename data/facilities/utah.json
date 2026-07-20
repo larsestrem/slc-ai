@@ -51,7 +51,7 @@
       ],
       "organization": "sunrise-senior-living",
       "organization_name": "Sunrise Senior Living",
-      "description": "Sunrise of Sandy provides assisted living, memory care, and short-term respite stays near Alta View Hospital in Sandy. Memory care residents live in the secured Reminiscence neighborhood, and the community was named a U.S. News Best Senior Living community for both assisted living and memory care in 2026.",
+      "description": "Sunrise of Sandy provides assisted living, memory care, and short-term respite stays near Alta View Hospital in Sandy. Memory care residents live in the secured Reminiscence neighborhood.",
       "review_note": "4.6/5 average across 104 reviews on A Place for Mom; 9.7/10 APFM review score from 28 reviews in the last 2 years (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/sunrise-of-sandy-142617",
@@ -78,7 +78,7 @@
         "memory-care"
       ],
       "facility_size": "large",
-      "description": "Sagewood at Daybreak is a resort-style senior living campus in South Jordan's Daybreak community offering independent living, assisted living, and memory care. Amenities include an indoor pool and full gym, and memory care residents live in the secured Connections neighborhood with its own courtyard. U.S. News rated it a Best Senior Living community across all three care levels.",
+      "description": "Sagewood at Daybreak is a senior living campus in South Jordan's Daybreak community offering independent living, assisted living, and memory care. Amenities include an indoor pool and full gym, and memory care residents live in the secured Connections neighborhood with its own courtyard.",
       "review_note": "5.0 rating across 44 reviews on AssistedLivingCenter.com; 56 reviews on A Place for Mom (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/sagewood-at-daybreak-1381079",
@@ -193,7 +193,7 @@
       "facility_size": "large",
       "organization": "generations",
       "organization_name": "Generations",
-      "description": "Fairfield Village is a resort-style senior living campus set against the Wasatch Mountains in Layton, offering independent living, assisted living, and memory care. It is owned and operated by Generations, a family-run senior care company, with 24-hour on-site nursing and therapy services available.",
+      "description": "Fairfield Village is a senior living campus set against the Wasatch Mountains in Layton, offering independent living, assisted living, and memory care. It is owned and operated by Generations, a family-run senior care company, with 24-hour on-site nursing and therapy services available.",
       "review_note": "4.4/5 across 85 reviews on Birdeye; 8.5/10 A Place for Mom review score (July 2026)",
       "sources": [
         "https://reviews.birdeye.com/fairfield-village-of-layton-assisted-living-157255453027130",
@@ -249,7 +249,7 @@
       "facility_size": "large",
       "organization": "leisure-care",
       "organization_name": "Leisure Care",
-      "description": "Treeo Orem is an independent living community in central Orem managed by Seattle-based Leisure Care. News & World Report.",
+      "description": "Treeo Orem is an independent living community in central Orem managed by Seattle-based Leisure Care.",
       "review_note": "4.8 rating across 60 reviews on AssistedLivingCenter.com; 36 reviews on A Place for Mom (July 2026)",
       "sources": [
         "https://www.assistedlivingcenter.com/facilities/ut/orem/treeo-orem-84057/",
@@ -308,7 +308,7 @@
       "facility_size": "large",
       "organization": "legacy-retirement-communities",
       "organization_name": "Legacy Retirement Communities",
-      "description": "Legacy Village of St. George is a resort-style community offering independent living, assisted living, and memory care in southwest St. George. Amenities include a heated saltwater pool, pickleball court, on-site movie theater, and bistro, and the community caps monthly fees so pricing does not rise as care levels increase.",
+      "description": "Legacy Village of St. George is a community offering independent living, assisted living, and memory care in southwest St. George. Amenities include a heated saltwater pool, pickleball court, on-site movie theater, and bistro, and the community caps monthly fees so pricing does not rise as care levels increase.",
       "review_note": "9/10 average rating on FamilyAssets (5th highest rated of 11 communities in the city); 13 reviews on A Place for Mom (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/legacy-village-of-st-george-1454104",
@@ -390,7 +390,7 @@
         "CO",
         "OK"
       ],
-      "description": "Legacy Retirement Communities operates 19 senior living communities with more than 2,700 units across Utah, Nevada, Arizona, Colorado, and Oklahoma under the Legacy House and Legacy Village brands. Based in South Jordan, Utah, and managed by Western States Lodging and Management, the company provides independent living, assisted living, memory care, and rehabilitation services and has received Utah's Best of State award for senior living.",
+      "description": "Legacy Retirement Communities operates 19 senior living communities with more than 2,700 units across Utah, Nevada, Arizona, Colorado, and Oklahoma under the Legacy House and Legacy Village brands. Based in South Jordan, Utah, and managed by Western States Lodging and Management, the company provides independent living, assisted living, memory care, and rehabilitation services.",
       "sources": [
         "https://www.legacyretire.com/",
         "https://www.utahbusiness.com/press-releases/2024/05/16/legacy-retirement-communities-best-in-state/"
@@ -453,7 +453,7 @@
       "name": "Generations",
       "slug": "generations",
       "website": "https://www.generationsllc.com/",
-      "description": "Generations is a family-owned senior living company that has provided senior care for about 70 years, operating communities in several western states. Its portfolio includes Fairfield Village of Layton in Utah, a resort-style campus offering independent living, assisted living, memory care, and post-acute care.",
+      "description": "Generations is a family-owned senior living company that has provided senior care for about 70 years, operating communities in several western states. Its portfolio includes Fairfield Village of Layton in Utah, a campus offering independent living, assisted living, memory care, and post-acute care.",
       "sources": [
         "https://www.generationsllc.com/communities/fairfield-village/"
       ]

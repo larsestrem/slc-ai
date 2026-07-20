@@ -5,7 +5,7 @@ title: "Vista Pointe at Mira Loma"
 seo_title: "Vista Pointe at Mira Loma - Senior Living in Henderson, NV"
 description: "138-bed assisted living and memory care community in Henderson, formerly known as Prestige Senior Living at Mira Loma and operated by Prestige Care. Offers ap"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Vista Pointe at Mira Loma", "url": "/directory/nevada/clark-county/henderson/vista-pointe-at-mira-loma/"}]
-nearby: [{"name": "Sunrise of Henderson", "url": "/directory/nevada/clark-county/henderson/sunrise-of-henderson/", "city_name": "Henderson", "state_abbrev": "NV", "care_levels": ["assisted-living", "memory-care", "respite-care"], "records_note": false, "description": "Sunrise of Henderson offers assisted living, memory care, and short-term respite stays in the Horizon Ridge area of Henderson. The community was recognized as Best Assisted Living and Best Memory Care in U.S. News & World Report's 2026 Best Senior Living ratings."}]
+nearby: [{"name": "Sunrise of Henderson", "url": "/directory/nevada/clark-county/henderson/sunrise-of-henderson/", "city_name": "Henderson", "state_abbrev": "NV", "care_levels": ["assisted-living", "memory-care", "respite-care"], "records_note": false, "description": "Sunrise of Henderson offers assisted living, memory care, and short-term respite stays in the Horizon Ridge area of Henderson."}]
 state: "nevada"
 state_name: "Nevada"
 state_abbrev: "NV"

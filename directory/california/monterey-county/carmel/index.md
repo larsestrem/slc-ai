@@ -9,6 +9,6 @@ county_name: "Monterey"
 state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
-facilities: [{"name": "The Cottages of Carmel", "url": "/directory/california/monterey-county/carmel/the-cottages-of-carmel/", "city_name": "Carmel", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Assisted living and memory care community on Carmel Rancho Boulevard near Carmel-by-the-Sea. Costs start around $6,120 per month."}]
+facilities: [{"name": "The Cottages of Carmel", "url": "/directory/california/monterey-county/carmel/the-cottages-of-carmel/", "city_name": "Carmel", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Assisted living and memory care community on Carmel Rancho Boulevard near Carmel-by-the-Sea."}]
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Monterey County", "url": "/directory/california/monterey-county/"}, {"name": "Carmel", "url": "/directory/california/monterey-county/carmel/"}]
 ---

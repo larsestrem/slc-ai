@@ -2,7 +2,7 @@
 layout: "facility"
 title: "Prairie House Assisted Living and Memory Care"
 seo_title: "Prairie House Assisted Living and Memory Care - Senior Living in La Pine, OR"
-description: "Prairie House is the primary assisted living and memory care community serving La Pine and southern Deschutes County. The community offers award-winning memor"
+description: "Prairie House is the primary assisted living and memory care community serving La Pine and southern Deschutes County. The community offers memory care program"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Prairie House Assisted Living and Memory Care", "url": "/directory/oregon/deschutes-county/la-pine/prairie-house-assisted-living-and-memory-care/"}]
 nearby: []
 state: "oregon"
@@ -22,7 +22,7 @@ organization: "prestige-care"
 organization_name: "Prestige Care"
 sources: ["https://www.prestigecare.com/locations/prairie-house/", "https://www.yelp.com/biz/prairie-house-assisted-living-and-memory-care-la-pine", "https://www.ohca.com/facility-finder/prairie-house-assisted-living-community/"]
 verified_date: "2026-07-14"
-description_full: "Prairie House is the primary assisted living and memory care community serving La Pine and southern Deschutes County. The community offers award-winning memory care programming alongside assisted living, with staff on site 24 hours a day. It is operated by Prestige Care of Vancouver, Washington."
+description_full: "Prairie House is the primary assisted living and memory care community serving La Pine and southern Deschutes County. The community offers memory care programming alongside assisted living, with staff on site 24 hours a day. It is operated by Prestige Care of Vancouver, Washington."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/prairie-house-assisted-living-and-memory-care-la-pine"}]
 reviews_search_url: "https://www.google.com/search?q=Prairie+House+Assisted+Living+and+Memory+Care+La+Pine+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M221"

@@ -319,7 +319,7 @@
       "capacity": 146,
       "organization": "revel-communities",
       "organization_name": "Revel Communities",
-      "description": "Revel Eagle is a modern independent living community of 146 private residences on the Boise River and Greenbelt in Eagle, opened in late 2020. The four-story property offers studio, one- and two-bedroom apartments with restaurant-style all-day dining, a pub, theater, salon, and fitness center. It is a 2026 A Place for Mom Best of Senior Living award winner.",
+      "description": "Revel Eagle is a modern independent living community of 146 private residences on the Boise River and Greenbelt in Eagle, opened in late 2020. The four-story property offers studio, one- and two-bedroom apartments with restaurant-style all-day dining, a pub, theater, salon, and fitness center.",
       "review_note": "4.9/5 average across 85 reviews on A Place for Mom; 9.7/10 review score based on 35 reviews in the last 2 years (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/revel-eagle-1414168",
@@ -555,7 +555,7 @@
       ],
       "organization": "avista-senior-living",
       "organization_name": "Avista Senior Living",
-      "description": "Avista Twin Falls is an assisted living community recognized with a Gold Award in Idaho's Residential Assisted Living Facility Program.",
+      "description": "Avista Twin Falls is an assisted living community.",
       "review_note": "4.5/5 average across 67 reviews on A Place for Mom; 9.7/10 review score based on 27 reviews in the last 2 years (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/avista-twin-falls-52648",
@@ -585,7 +585,7 @@
       ],
       "organization": "guardian-angel-homes",
       "organization_name": "Guardian Angel Homes",
-      "description": "Guardian Angel Homes Post Falls is a campus of smaller residential-style homes — including the Tudor House, Timber House, The Cottage, and The Craftsman for residents with advanced Alzheimer's and dementia — plus The Inn, which offers larger suites for a more independent lifestyle. The Pacific Northwest operator provides care ranging from minimal assistance to specialized memory support.",
+      "description": "Guardian Angel Homes Post Falls is a campus of smaller residential-style homes - including the Tudor House, Timber House, The Cottage, and The Craftsman for residents with advanced Alzheimer's and dementia - plus The Inn, which offers larger suites for a more independent lifestyle. The Pacific Northwest operator provides care ranging from minimal assistance to specialized memory support.",
       "review_note": "4.3/5 average across 19 reviews on A Place for Mom (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/guardian-angel-homes-post-falls-102162",
@@ -643,7 +643,7 @@
       ],
       "organization": "century-park-associates",
       "organization_name": "Century Park Associates",
-      "description": "The Bridge at Sandpoint is an assisted living community named a 2022-2023 U.S. News & World Report Best Assisted Living community, and it shares a campus relationship with the adjacent Life Care Center of Sandpoint for skilled nursing and rehabilitation. It is part of the Century Park Associates portfolio.",
+      "description": "The Bridge at Sandpoint is an assisted living community and it shares a campus relationship with the adjacent Life Care Center of Sandpoint for skilled nursing and rehabilitation. It is part of the Century Park Associates portfolio.",
       "review_note": "4.6/5 average across 9 reviews on A Place for Mom (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/bridge-assisted-living-at-sandpoint-52928",
@@ -674,7 +674,7 @@
       "organization": "leisure-care",
       "organization_name": "Leisure Care",
       "review_note": "4.8/5 across 44 reviews on AssistedLivingCenter (July 2026); U.S. News Best Senior Living for independent living and assisted living",
-      "description": "Fairwinds - Sand Creek is a Leisure Care retirement community in Idaho Falls offering independent living and assisted living in apartment-style homes. U.S.",
+      "description": "Fairwinds - Sand Creek is a Leisure Care retirement community in Idaho Falls offering independent living and assisted living in apartment-style homes.",
       "sources": [
         "https://www.assistedlivingcenter.com/facilities/id/idaho-falls/fairwinds-sand-creek-83404/",
         "https://www.leisurecare.com/our-communities/fairwinds-sand-creek/",
@@ -761,7 +761,7 @@
       "organization": "prestige-care",
       "organization_name": "Prestige Care",
       "review_note": "4.8 rating on AssistedLivingCenter; 9 reviews on Caring.com (July 2026); voted Best Assisted Living Community in Idaho",
-      "description": "Legends Park Assisted Living is a 44-apartment assisted living community in Coeur d'Alene operated by Prestige Care, located across from the Kroc Center with trails adjacent to the property. Apartments include kitchenettes, barrier-free showers, and 24-hour emergency call systems, and the community has been voted Best Assisted Living Community in Idaho.",
+      "description": "Legends Park Assisted Living is a 44-apartment assisted living community in Coeur d'Alene operated by Prestige Care, located across from the Kroc Center with trails adjacent to the property. Apartments include kitchenettes, barrier-free showers, and 24-hour emergency call systems.",
       "sources": [
         "https://www.caring.com/senior-living/idaho/coeur-d-alene/legends-park-assisted-living-83815",
         "https://legendsparkal.com/",
@@ -853,7 +853,7 @@
       "capacity": 30,
       "cms_ccn": "135130",
       "cms_rating_overall": 5,
-      "description": "A 30-bed skilled nursing and short-term rehabilitation facility in Meridian focused on post-acute recovery. Recognized by U.S. News as a Best Nursing Home for short-term rehabilitation.",
+      "description": "A 30-bed skilled nursing and short-term rehabilitation facility in Meridian focused on post-acute recovery.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/id/aspen-transitional-rehabilitation-135130",
         "https://www.medicare.gov/care-compare/details/nursing-home/135130"
@@ -1102,7 +1102,7 @@
       "serious_concern": true,
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
       "concern_type": "Special Focus Facility",
-      "concern_status": "Active per current CMS data — confirm current status directly",
+      "concern_status": "Active per current CMS data - confirm current status directly",
       "concern_source_url": "https://www.cms.gov/files/document/sff-posting-candidate-list-june-2026.pdf"
     },
     {
@@ -1216,7 +1216,7 @@
       ],
       "facility_size": "medium",
       "capacity": 60,
-      "description": "An assisted living and memory care community in southeast Boise built as four 15-bed homes arranged around a central courtyard, offering a small-home, residential setting. Respite and adult day care are also available. Base rates start around $3,650/month for assisted living and $4,800/month for memory care.",
+      "description": "An assisted living and memory care community in southeast Boise built as four 15-bed homes arranged around a central courtyard, offering a small-home, residential setting. Respite and adult day care are also available.",
       "review_note": "4.2/5 across 60 reviews on A Place for Mom (2026)",
       "sources": [
         "https://www.aplaceformom.com/community/the-cottages-of-columbia-village-101450",
@@ -1670,7 +1670,7 @@
       ],
       "verified_date": "2026-07-14",
       "serious_concern": true,
-      "serious_concern_note": "Despite a current 4-star CMS overall rating, federal inspection records document a citation for placing residents in immediate danger from abuse — read the full inspection history, not just the star average.",
+      "serious_concern_note": "Despite a current 4-star CMS overall rating, federal inspection records document a citation for placing residents in immediate danger from abuse - read the full inspection history, not just the star average.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
       "concern_type": "Federal inspection citation for failure to protect residents from abuse",
       "concern_status": "This citation is a separate, specific historical inspection finding that can coexist with a generally acceptable current rating; confirm current status directly on Care Compare",
@@ -2069,7 +2069,7 @@
       "states": [
         "ID"
       ],
-      "description": "Fox Den Homes operates a small group of nurse-owned residential assisted living and memory care homes in Boise, each serving roughly 8-9 residents. The model emphasizes low caregiver-to-resident ratios and a home-like environment. Its flagship Bannock House is among the higher-rated small care homes in Boise.",
+      "description": "Fox Den Homes operates a small group of nurse-owned residential assisted living and memory care homes in Boise, each serving roughly 8-9 residents. The model emphasizes low caregiver-to-resident ratios and a home-like environment.",
       "sources": [
         "https://www.foxdenidaho.com/",
         "https://www.mycaringplan.com/senior-living/fox-den-homes-bannock-house/",

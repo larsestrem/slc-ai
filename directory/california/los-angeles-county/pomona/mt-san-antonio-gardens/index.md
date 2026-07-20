@@ -22,7 +22,7 @@ facility_size: "large"
 capacity: 520
 sources: ["https://reviews.birdeye.com/mtsan-antonio-gardens-157270026951999", "https://www.yelp.com/biz/mt-san-antonio-gardens-pomona-2"]
 verified_date: "2026-07-19"
-description_full: "Mt. San Antonio Gardens is a not-for-profit continuing care retirement community on the Pomona-Claremont border, offering independent living, assisted living, memory care, and skilled nursing on one campus of roughly 520 beds. It is among the highest-rated senior communities in the area, with a pool, gym, and extensive resident programming."
+description_full: "Mt. San Antonio Gardens is a not-for-profit continuing care retirement community on the Pomona-Claremont border, offering independent living, assisted living, memory care, and skilled nursing on one campus of roughly 520 beds, with a pool, gym, and extensive resident programming."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/mtsan-antonio-gardens-157270026951999"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/mt-san-antonio-gardens-pomona-2"}]
 reviews_search_url: "https://www.google.com/search?q=Mt.+San+Antonio+Gardens+Pomona+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

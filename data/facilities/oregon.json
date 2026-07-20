@@ -486,7 +486,7 @@
       "facility_size": "medium",
       "organization": "prestige-care",
       "organization_name": "Prestige Care",
-      "description": "Prairie House is the primary assisted living and memory care community serving La Pine and southern Deschutes County. The community offers award-winning memory care programming alongside assisted living, with staff on site 24 hours a day. It is operated by Prestige Care of Vancouver, Washington.",
+      "description": "Prairie House is the primary assisted living and memory care community serving La Pine and southern Deschutes County. The community offers memory care programming alongside assisted living, with staff on site 24 hours a day. It is operated by Prestige Care of Vancouver, Washington.",
       "sources": [
         "https://www.prestigecare.com/locations/prairie-house/",
         "https://www.yelp.com/biz/prairie-house-assisted-living-and-memory-care-la-pine",
@@ -658,7 +658,7 @@
       ],
       "facility_size": "medium",
       "capacity": 48,
-      "description": "Regent Court is a stand-alone, single-story memory care community in Corvallis with 48 studio homes divided into two neighborhoods of no more than 24 residents each, each with its own dining room and courtyards. It serves adults living with Alzheimer's disease and other dementias and was named to U.S. News & World Report's 2023-24 Best Memory Care list.",
+      "description": "Regent Court is a stand-alone, single-story memory care community in Corvallis with 48 studio homes divided into two neighborhoods of no more than 24 residents each, each with its own dining room and courtyards. It serves adults living with Alzheimer's disease and other dementias.",
       "sources": [
         "https://www.carechanges.com/living-communities/regent-court_corvallis_oregon/",
         "https://encorecommunities.com/regent-court/",
@@ -842,7 +842,7 @@
         "https://reviews.birdeye.com/hope-village-senior-living-community-168154464620059"
       ],
       "verified_date": "2026-07-14",
-      "review_caveat": "This community shares a campus with separately licensed Marquis Hope Village (skilled nursing) and Rackleff Place (assisted living). Its review sources reference the 'Hope Village' name broadly and may reflect experiences across the shared campus, not only the independent-living community itself — check the other two listings' own ratings separately."
+      "review_caveat": "This community shares a campus with separately licensed Marquis Hope Village (skilled nursing) and Rackleff Place (assisted living). Its review sources reference the 'Hope Village' name broadly and may reflect experiences across the shared campus, not only the independent-living community itself - check the other two listings' own ratings separately."
     },
     {
       "name": "Marquis Hope Village",
@@ -956,7 +956,7 @@
       "capacity": 187,
       "organization": "leisure-care",
       "organization_name": "Leisure Care",
-      "description": "Russellville Park is a 187-unit senior living campus in east Portland offering independent living, assisted living, and memory care under one roof. The community sits directly on the MAX light-rail line near Mall 205 shopping and medical services. U.S. News named it a Best Senior Living community for independent living and memory care, with an overall score of 4.4 from more than 500 resident and family ratings.",
+      "description": "Russellville Park is a 187-unit senior living campus in east Portland offering independent living, assisted living, and memory care under one roof. The community sits directly on the MAX light-rail line near Mall 205 shopping and medical services.",
       "sources": [
         "https://russellvillepark.com/",
         "https://health.usnews.com/best-senior-living/russellville-park-1380",
@@ -1046,7 +1046,7 @@
       "facility_size": "large",
       "organization": "the-springs-living",
       "organization_name": "The Springs Living",
-      "description": "The Springs at Carman Oaks is a resort-style senior living community in Lake Oswego offering independent living, assisted living, and memory care. Amenities include a swimming pool and spa, wellness and fitness center, theater, chef-driven flexible dining, and Fancho's Public House.",
+      "description": "The Springs at Carman Oaks is a senior living community in Lake Oswego offering independent living, assisted living, and memory care. Amenities include a swimming pool and spa, wellness and fitness center, theater, chef-driven flexible dining, and Fancho's Public House.",
       "sources": [
         "https://www.thespringsliving.com/senior-living/lake-oswego/oregon/carman-oaks",
         "https://www.caring.com/senior-living/oregon/lake-oswego/the-springs-at-carman-oaks-97035",
@@ -1228,7 +1228,7 @@
       "capacity": 264,
       "organization": "senior-resource-group",
       "organization_name": "Senior Resource Group",
-      "description": "SpringRidge at Charbonneau is an award-winning 264-unit senior living campus offering independent living, assisted living, and memory care inside Wilsonville's 477-acre master-planned Charbonneau community, which surrounds a 27-hole golf course. The pet-friendly campus features walking paths, varied floor plans, and an active social calendar. It is operated by Senior Resource Group (SRG).",
+      "description": "SpringRidge at Charbonneau is a 264-unit senior living campus offering independent living, assisted living, and memory care inside Wilsonville's 477-acre master-planned Charbonneau community, which surrounds a 27-hole golf course. The pet-friendly campus features walking paths, varied floor plans, and an active social calendar. It is operated by Senior Resource Group (SRG).",
       "sources": [
         "https://www.srgseniorliving.com/portland-or-springridge-at-charbonneau/",
         "https://www.caring.com/senior-living/oregon/wilsonville/springridge-charbonneau-97070",
@@ -1288,7 +1288,7 @@
         "skilled-nursing"
       ],
       "facility_size": "large",
-      "description": "Friendsview is a Quaker-heritage, faith-based continuing care retirement community serving Newberg since 1961, located on a 27-acre campus near George Fox University. Housing ranges from studios and apartment homes to cottages and duplexes across several neighborhoods, including the newer 96-apartment Sutton Terrace building, with assisted living, memory care, and skilled nursing available as needs change. The community recently completed a $124 million campus expansion.",
+      "description": "Friendsview is a Quaker-heritage, faith-based continuing care retirement community serving Newberg since 1961, located on a 27-acre campus near George Fox University. Housing ranges from studios and apartment homes to cottages and duplexes across several neighborhoods, including the newer 96-apartment Sutton Terrace building, with assisted living, memory care, and skilled nursing available as needs change. The community recently completed a campus expansion.",
       "sources": [
         "https://www.friendsview.org/",
         "https://www.greystonecommunities.com/insights/friendsview-to-break-ground-on-124-million-campus-expansion-in-july",
@@ -1321,7 +1321,7 @@
       "facility_size": "large",
       "organization": "humangood",
       "organization_name": "HumanGood",
-      "description": "Hillside is a nonprofit Life Plan Community (CCRC) on 57 acres in McMinnville, in the heart of Willamette Valley wine country, operated by HumanGood. The campus offers independent living apartments and cottage homes plus assisted living, memory care, long-term skilled nursing, and short-term rehabilitation. U.S. News recognized Hillside as a Best Continuing Care Retirement Community in its 2026 Best Senior Living awards.",
+      "description": "Hillside is a nonprofit Life Plan Community (CCRC) on 57 acres in McMinnville, in the heart of Willamette Valley wine country, operated by HumanGood. The campus offers independent living apartments and cottage homes plus assisted living, memory care, long-term skilled nursing, and short-term rehabilitation.",
       "sources": [
         "https://www.humangood.org/hillside",
         "https://health.usnews.com/best-senior-living/hillside-retirement-communities-2478",
@@ -1759,7 +1759,7 @@
       "organization": "brookdale-senior-living",
       "organization_name": "Brookdale Senior Living",
       "review_note": "4.3/5 across 68 reviews on A Place for Mom (July 2026)",
-      "description": "Brookdale Medford is an assisted living community on Barnett Road in Medford serving up to 95 residents. Part of the national Brookdale Senior Living network, it has been named a U.S. News Best Senior Living community for assisted living based on resident and family surveys.",
+      "description": "Brookdale Medford is an assisted living community on Barnett Road in Medford serving up to 95 residents. Part of the national Brookdale Senior Living network.",
       "sources": [
         "https://www.aplaceformom.com/community/brookdale-medford-60233",
         "https://www.caring.com/senior-living/oregon/medford/brookdale-medford",
@@ -2279,7 +2279,7 @@
       "facility_size": "medium",
       "capacity": 44,
       "review_note": "4.8/5 across 20 reviews on Birdeye (listed as McKay Creek Estates); A Place for Mom review score 8.9/10 with 7 reviews (July 2026)",
-      "description": "A 44-unit assisted living community on Southgate Place in Pendleton, also known as McKay Creek Estates. One of the highest-rated senior communities in Umatilla County.",
+      "description": "A 44-unit assisted living community on Southgate Place in Pendleton, also known as McKay Creek Estates.",
       "sources": [
         "https://reviews.birdeye.com/mckay-creek-estates-173507633638028",
         "https://mckaycreekal.com/",
@@ -3047,7 +3047,7 @@
       "organization_name": "Generations LLC",
       "review_note": "4.2/5 average across 42 reviews on A Place for Mom (July 2026)",
       "rating_as_of": "2026-07-12",
-      "description": "CherryWood Village is a resort-style senior living campus on 12 acres in east Portland next to Adventist Health Portland, offering independent living, assisted living, and memory care. Campus amenities include a theater, chapel, library, pool, and putting course, and the community is operated by family-owned Generations LLC.",
+      "description": "CherryWood Village is a senior living campus on 12 acres in east Portland next to Adventist Health Portland, offering independent living, assisted living, and memory care. Campus amenities include a theater, chapel, library, pool, and putting course, and the community is operated by family-owned Generations LLC.",
       "sources": [
         "https://www.aplaceformom.com/community/cherry-wood-village-95433",
         "https://www.generationsllc.com/communities/cherrywood-village/",
@@ -3131,7 +3131,7 @@
       "facility_size": "small",
       "review_note": "4.6/5 across 21 reviews (Google numbers shown on Mirador Living directory listing, July 2026)",
       "rating_as_of": "2026-07-12",
-      "description": "A residential care home in outer southeast Portland providing personal care in a small group-home setting, including memory care for residents with Alzheimer's or other dementias. Shared-room rates run roughly $5,500-5,900 per month.",
+      "description": "A residential care home in outer southeast Portland providing personal care in a small group-home setting, including memory care for residents with Alzheimer's or other dementias.",
       "sources": [
         "https://www.aplaceformom.com/community/hirity-adult-home-99823",
         "https://www.miradorliving.com/memory-care/oregon/gresham",
@@ -3160,7 +3160,7 @@
       "facility_size": "large",
       "review_note": "4.4/5 across 154 reviews on Birdeye review aggregate (July 2026)",
       "rating_as_of": "2026-07-12",
-      "description": "A resort-style senior living campus near Mt. Tabor Park in southeast Portland offering independent living, assisted living, and memory care, with the Garden House memory care building at 6323 SE Division St.",
+      "description": "A senior living campus near Mt. Tabor Park in southeast Portland offering independent living, assisted living, and memory care, with the Garden House memory care building at 6323 SE Division St.",
       "sources": [
         "https://www.aplaceformom.com/community/courtyard-at-mt-tabor-95907",
         "https://reviews.birdeye.com/courtyard-at-mt-tabor-park-157256125645130",
@@ -3867,7 +3867,7 @@
       "facility_size": "large",
       "organization": "leisure-care",
       "organization_name": "Leisure Care",
-      "description": "A Leisure Care independent living, assisted living, and memory care community in the Reed's Crossing neighborhood of Hillsboro. A newer resort-style campus, it was named a 2026 U.S. News Best Senior Living community for independent living and memory care.",
+      "description": "A Leisure Care independent living, assisted living, and memory care community in the Reed's Crossing neighborhood of Hillsboro. It is a newer campus.",
       "review_note": "4.7/5 across 28 reviews on Birdeye; 4.4/5 across 34 reviews (July 2026)",
       "sources": [
         "https://www.leisurecare.com/our-communities/ackerly-reeds-crossing/",
@@ -4034,7 +4034,7 @@
       ],
       "facility_size": "small",
       "capacity": 5,
-      "description": "Skyline Manor Care Home is a licensed care home in south Salem serving only five residents, including those with Alzheimer's and other forms of dementia. It offers personalized attention in a peaceful, family-like setting. Aggregator scoring ranks it among the higher-rated small homes in the city.",
+      "description": "Skyline Manor Care Home is a licensed care home in south Salem serving only five residents, including those with Alzheimer's and other forms of dementia.",
       "review_note": "4.5/5 across 5 reviews on SeniorAdvisor; 8 reviews / 8.8-out-of-10 score on A Place for Mom (July 2026)",
       "quality_basis": "Oregon adult foster home (up to 5 residents) included on documented review evidence: 4.5/5 across 5 reviews on SeniorAdvisor and 8 reviews on A Place for Mom (July 2026).",
       "sources": [
@@ -4060,7 +4060,7 @@
       ],
       "facility_size": "small",
       "capacity": 5,
-      "description": "Stephenson Adult Care Home is a residential foster care home in an upscale southwest Portland neighborhood with a view of Mt. Hood, catering primarily to older adults. It offers spacious private rooms with private half-baths.",
+      "description": "Stephenson Adult Care Home is a residential foster care home in a southwest Portland neighborhood with a view of Mt. Hood, catering primarily to older adults. It offers spacious private rooms with private half-baths.",
       "review_note": "5.0/5 across 6 reviews on SeniorAdvice.com (July 2026)",
       "quality_basis": "Oregon adult foster home (up to 5 residents) included on two positive signals: documented review evidence of 5.0/5 across 6 reviews on SeniorAdvice.com (July 2026), plus aggregator-reported longevity operating under the same owner since 2002.",
       "sources": [
@@ -4298,10 +4298,10 @@
       ],
       "verified_date": "2026-07-14",
       "special_focus_facility": true,
-      "serious_concern_note": "A federal CMS Special Focus Facility (newly designated) — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems.",
+      "serious_concern_note": "A federal CMS Special Focus Facility (newly designated) - nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
       "concern_type": "Special Focus Facility (newly designated)",
-      "concern_status": "Active per CMS's Special Focus Facility tracking list — confirm current status directly",
+      "concern_status": "Active per CMS's Special Focus Facility tracking list - confirm current status directly",
       "concern_source_url": "https://www.cms.gov/files/document/sff-posting-candidate-list-june-2026.pdf"
     },
     {
@@ -4336,10 +4336,10 @@
       ],
       "verified_date": "2026-07-14",
       "serious_concern": true,
-      "serious_concern_note": "CMS Special Focus Facility Candidate — on the federal list of nursing homes with a documented pattern of serious quality problems, one tier below active Special Focus Facility status.",
+      "serious_concern_note": "CMS Special Focus Facility Candidate - on the federal list of nursing homes with a documented pattern of serious quality problems, one tier below active Special Focus Facility status.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
       "concern_type": "Special Focus Facility Candidate",
-      "concern_status": "Candidate status — one tier below active Special Focus Facility — confirm current status directly",
+      "concern_status": "Candidate status - one tier below active Special Focus Facility - confirm current status directly",
       "concern_source_url": "https://www.cms.gov/files/document/sff-posting-candidate-list-june-2026.pdf"
     },
     {
@@ -4405,8 +4405,8 @@
       "serious_concern_note": "Carried a CMS special-focus-pattern designation and an active federal abuse citation flag during 2024-2025 inspections.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services) and Oregon DHS",
       "concern_type": "CMS abuse-citation flag; named on Oregon's public 'additional oversight' list",
-      "concern_date": "Reported November 2024; CMS inspection window August 2024 – July 2025",
-      "concern_status": "Confirm current status directly — the reported oversight window has since passed",
+      "concern_date": "Reported November 2024; CMS inspection window August 2024 - July 2025",
+      "concern_status": "Confirm current status directly - the reported oversight window has since passed",
       "concern_source_url": "https://www.medicare.gov/care-compare/details/nursing-home/385091",
       "website": "https://www.volarehcm.com/locations/hearthstone-nursing-rehabilitation-center/"
     },
@@ -4595,7 +4595,7 @@
       "concern_regulator": "Oregon Department of Human Services",
       "concern_type": "State-substantiated abuse findings",
       "concern_date": "Reported December 2024, covering roughly the prior two years",
-      "concern_status": "Oregon DHS proposed non-renewal of the facility's license in 2024; the facility passed a subsequent re-inspection and remained licensed as of the report — confirm current status directly",
+      "concern_status": "Oregon DHS proposed non-renewal of the facility's license in 2024; the facility passed a subsequent re-inspection and remained licensed as of the report - confirm current status directly",
       "concern_source_url": "https://ltclicensing.oregon.gov/Facilities/Details/50M436",
       "website": "https://mosaicms.com/community/willamette-springs-memory-care/"
     },
@@ -4632,7 +4632,7 @@
       "concern_regulator": "Oregon licensing authorities",
       "concern_type": "Multiple state-substantiated neglect findings with fines (2020-2022) and a substantiated abuse finding (2023) in Oregon DHS licensing records",
       "concern_date": "2020-2023",
-      "concern_status": "The facility remains licensed and operating — confirm current status in the state licensing record directly",
+      "concern_status": "The facility remains licensed and operating - confirm current status in the state licensing record directly",
       "concern_source_url": "https://ltclicensing.oregon.gov/Facilities/Details/70M073?activeTab=inspectionsTab"
     },
     {
@@ -5086,7 +5086,7 @@
       "slug": "leisure-care",
       "headquarters": "Seattle, Washington",
       "website": "https://www.leisurecare.com/",
-      "description": "Founded in 1976 and headquartered in Seattle, Leisure Care is one of the nation's largest privately held retirement and assisted living companies. It manages independent living, assisted living, and memory care communities across the western United States and beyond, emphasizing a hospitality-driven 'Five-Star Fun' operating style.",
+      "description": "Founded in 1976 and headquartered in Seattle, Leisure Care is one of the nation's largest privately held retirement and assisted living companies. It manages independent living, assisted living, and memory care communities across the western United States and beyond, emphasizing a hospitality-driven operating style.",
       "sources": [
         "https://www.leisurecare.com/"
       ]

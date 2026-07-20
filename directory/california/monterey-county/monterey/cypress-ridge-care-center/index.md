@@ -5,7 +5,7 @@ title: "Cypress Ridge Care Center"
 seo_title: "Cypress Ridge Care Center - Senior Living in Monterey, CA"
 description: "A 99-bed Medicare- and Medicaid-certified skilled nursing facility in Monterey with a restful, scenic setting and 24-hour licensed nursing."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Cypress Ridge Care Center", "url": "/directory/california/monterey-county/monterey/cypress-ridge-care-center/"}]
-nearby: [{"name": "The Park Lane", "url": "/directory/california/monterey-county/monterey/the-park-lane-monterey/", "city_name": "Monterey", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "records_note": false, "facility_size": "large", "description": "Large Pacifica Senior Living community in the Monterey hills offering independent living, assisted living, memory care, and respite care. Resort-style, pet-friendly campus with chef-prepared meals, creative arts programs, and garden views near Del Monte Shopping Center."}]
+nearby: [{"name": "The Park Lane", "url": "/directory/california/monterey-county/monterey/the-park-lane-monterey/", "city_name": "Monterey", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "records_note": false, "facility_size": "large", "description": "Large Pacifica Senior Living community in the Monterey hills offering independent living, assisted living, memory care, and respite care. Pet-friendly campus with chef-prepared meals, creative arts programs, and garden views near Del Monte Shopping Center."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

@@ -20,7 +20,7 @@ care_levels: ["ccrc", "independent-living", "assisted-living", "memory-care", "s
 facility_size: "large"
 sources: ["https://www.friendsview.org/", "https://www.greystonecommunities.com/insights/friendsview-to-break-ground-on-124-million-campus-expansion-in-july", "https://ltclicensing.oregon.gov/Facilities/Details/50R040"]
 verified_date: "2026-07-14"
-description_full: "Friendsview is a Quaker-heritage, faith-based continuing care retirement community serving Newberg since 1961, located on a 27-acre campus near George Fox University. Housing ranges from studios and apartment homes to cottages and duplexes across several neighborhoods, including the newer 96-apartment Sutton Terrace building, with assisted living, memory care, and skilled nursing available as needs change. The community recently completed a $124 million campus expansion."
+description_full: "Friendsview is a Quaker-heritage, faith-based continuing care retirement community serving Newberg since 1961, located on a 27-acre campus near George Fox University. Housing ranges from studios and apartment homes to cottages and duplexes across several neighborhoods, including the newer 96-apartment Sutton Terrace building, with assisted living, memory care, and skilled nursing available as needs change. The community recently completed a campus expansion."
 reviews_search_url: "https://www.google.com/search?q=Friendsview+Retirement+Community+Newberg+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Facilities/Details/50R040"
 license_id: "50R040"

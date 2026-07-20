@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "WellQuest of Elk Grove"
 seo_title: "WellQuest of Elk Grove - Senior Living in Elk Grove, CA"
-description: "WellQuest of Elk Grove is a resort-style senior living community offering independent living, assisted living, and memory care on East Stockton Boulevard. Res"
+description: "WellQuest of Elk Grove is a senior living community offering independent living, assisted living, and memory care on East Stockton Boulevard. Residents have a"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "WellQuest of Elk Grove", "url": "/directory/california/sacramento-county/elk-grove/wellquest-of-elk-grove/"}]
 nearby: []
 state: "california"
@@ -20,7 +20,7 @@ website: "https://wellquesteg.com/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 sources: ["https://birdeye.com/wellquest-of-elk-grove-175296283555792", "https://www.yelp.com/biz/wellquest-of-elk-grove-elk-grove", "https://www.caring.com/senior-living/california/elk-grove/wellquest-of-elk-grove"]
 verified_date: "2026-07-19"
-description_full: "WellQuest of Elk Grove is a resort-style senior living community offering independent living, assisted living, and memory care on East Stockton Boulevard. Residents have access to a pool, fitness classes, and restaurant-style dining."
+description_full: "WellQuest of Elk Grove is a senior living community offering independent living, assisted living, and memory care on East Stockton Boulevard. Residents have access to a pool, fitness classes, and restaurant-style dining."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/wellquest-of-elk-grove-175296283555792"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/wellquest-of-elk-grove-elk-grove"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/elk-grove/wellquest-of-elk-grove"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/well-quest-of-elk-grove-1414641"}]
 reviews_search_url: "https://www.google.com/search?q=WellQuest+of+Elk+Grove+Elk+Grove+CA+reviews"
 records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/342700722"

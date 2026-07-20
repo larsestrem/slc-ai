@@ -21,7 +21,7 @@ facility_size: "medium"
 capacity: 48
 sources: ["https://www.carechanges.com/living-communities/regent-court_corvallis_oregon/", "https://encorecommunities.com/regent-court/", "https://www.aplaceformom.com/community/regent-court-96870"]
 verified_date: "2026-07-14"
-description_full: "Regent Court is a stand-alone, single-story memory care community in Corvallis with 48 studio homes divided into two neighborhoods of no more than 24 residents each, each with its own dining room and courtyards. It serves adults living with Alzheimer's disease and other dementias and was named to U.S. News & World Report's 2023-24 Best Memory Care list."
+description_full: "Regent Court is a stand-alone, single-story memory care community in Corvallis with 48 studio homes divided into two neighborhoods of no more than 24 residents each, each with its own dining room and courtyards. It serves adults living with Alzheimer's disease and other dementias."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/regent-court-96870"}]
 reviews_search_url: "https://www.google.com/search?q=Regent+Court+Corvallis+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Facilities/Details/50A239"

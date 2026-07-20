@@ -938,7 +938,7 @@
       ],
       "organization": "era-living",
       "organization_name": "Era Living",
-      "description": "Continuing care retirement community (CCRC) in the town center of Mercer Island, operated by Seattle-based Era Living. Offers independent and assisted living with a large swimming pool, daily fitness programs, maintained gardens, and diverse menus; U.S. News has rated it a Best Senior Living community for independent living.",
+      "description": "Continuing care retirement community (CCRC) in the town center of Mercer Island, operated by Seattle-based Era Living. Offers independent and assisted living with a large swimming pool, daily fitness programs, maintained gardens, and diverse menus.",
       "review_note": "4.8/5 average across 9 all-time reviews on A Place for Mom; 4.8 rating across 21 reviews on AssistedLivingCenter (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/aljoya-mercer-island-a-ccrc-139873",
@@ -1000,7 +1000,7 @@
       ],
       "organization": "leisure-care",
       "organization_name": "Leisure Care",
-      "description": "Independent and assisted living community in downtown Everett managed by Leisure Care, voted Best Independent Living and Best Assisted Living by U.S. News resident and family surveys.",
+      "description": "Independent and assisted living community in downtown Everett managed by Leisure Care.",
       "review_note": "4.5/5 average across 37 all-time reviews on A Place for Mom; 4.5 stars on SeniorAdvisor (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/washington-oakes-71517",
@@ -1468,7 +1468,7 @@
       ],
       "facility_size": "large",
       "capacity": 100,
-      "description": "Harbor Place at Cottesmore offers 40 independent retirement apartments and 60 assisted living apartments on a Gig Harbor campus shared with a skilled nursing and rehab center, giving residents a continuum of care in one place. Serving seniors since 2006, it was named a 2025 U.S. News Best Assisted and Independent Living community.",
+      "description": "Harbor Place at Cottesmore offers 40 independent retirement apartments and 60 assisted living apartments on a Gig Harbor campus shared with a skilled nursing and rehab center, giving residents a continuum of care in one place. It has served seniors since 2006.",
       "google_rating": 4.4,
       "google_review_count": 14,
       "rating_as_of": "2026-07-12",
@@ -1794,7 +1794,7 @@
       "organization": "sunrise-senior-living",
       "organization_name": "Sunrise Senior Living",
       "review_note": "4.5/5 with 21 reviews on SeniorAdvisor (July 2026); U.S. News Best Assisted Living and Best Memory Care 2026",
-      "description": "Sunrise of Edmonds provides assisted living and memory care near the Edmonds waterfront in Snohomish County. It was recognized as Best Assisted Living and Best Memory Care in U.S. News & World Report's 2026 Best Senior Living ratings.",
+      "description": "Sunrise of Edmonds provides assisted living and memory care near the Edmonds waterfront in Snohomish County.",
       "sources": [
         "https://www.senioradvisor.com/local/sunrise-of-edmonds-edmonds-wa",
         "https://www.yelp.com/biz/sunrise-of-edmonds-edmonds",
@@ -2096,7 +2096,7 @@
       "facility_size": "large",
       "organization": "leisure-care",
       "organization_name": "Leisure Care",
-      "description": "Fairwinds - Brittany Park is a Leisure Care retirement community in the heart of Woodinville offering independent living and assisted living. U.S.",
+      "description": "Fairwinds - Brittany Park is a Leisure Care retirement community in the heart of Woodinville offering independent living and assisted living.",
       "review_note": "4.7/5 overall experience across 32 reviews on A Place for Mom (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/fairwinds-brittany-park-71353",
@@ -2252,7 +2252,7 @@
       "capacity": 107,
       "organization": "sunrise-senior-living",
       "organization_name": "Sunrise Senior Living",
-      "description": "Sunrise of Issaquah is a 107-bed assisted living and memory care community on the Issaquah-Fall City Road, recognized by U.S. News as Best Assisted Living and Best Memory Care for 2026.",
+      "description": "Sunrise of Issaquah is a 107-bed assisted living and memory care community on the Issaquah-Fall City Road.",
       "review_note": "4.8/5 across 50 reviews on Birdeye; 4.7 Google rating (July 2026)",
       "sources": [
         "https://reviews.birdeye.com/sunrise-of-issaquah-168163949706865",
@@ -2796,7 +2796,7 @@
       "google_rating": 4.9,
       "google_review_count": 64,
       "rating_as_of": "2026-07-13",
-      "description": "A luxury independent and assisted living community in downtown Bellevue with 144 apartments, two restaurants, a fitness center and salon, operated by MBK Senior Living.",
+      "description": "An independent and assisted living community in downtown Bellevue with 144 apartments, two restaurants, a fitness center and salon, operated by MBK Senior Living.",
       "sources": [
         "https://www.aplaceformom.com/community/the-bellettini-101653",
         "https://ultimateseniorresource.com/states/washington/bellevue/the-bellettini"
@@ -3614,7 +3614,7 @@
       "serious_concern": true,
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
       "concern_type": "Special Focus Facility",
-      "concern_status": "Active per current CMS Care Compare data — confirm current status directly",
+      "concern_status": "Active per current CMS Care Compare data - confirm current status directly",
       "concern_source_url": "https://www.cms.gov/files/document/sff-posting-candidate-list-june-2026.pdf",
       "website": "https://spokanehrc.com/"
     },
@@ -3667,7 +3667,7 @@
       "capacity": 165,
       "cms_ccn": "505511",
       "cms_rating_overall": 2,
-      "review_note": "Current CMS overall rating 2/5 stars, versus a Washington-average of about 3.62/5, per local-nursing-homes.com CMS-sourced data (July 2026). This facility is a designated CMS Special Focus Facility (SFF) — a federal program for nursing homes with a documented history of serious, recurring quality problems that receive additional oversight. U.S. HHS has also listed it among the nation's lowest-performing nursing homes.",
+      "review_note": "Current CMS overall rating 2/5 stars, versus a Washington-average of about 3.62/5, per local-nursing-homes.com CMS-sourced data (July 2026). This facility is a designated CMS Special Focus Facility (SFF) - a federal program for nursing homes with a documented history of serious, recurring quality problems that receive additional oversight. U.S. HHS has also listed it among the nation's lowest-performing nursing homes.",
       "description": "Paramount Rehabilitation and Nursing is a 165-bed Medicare- and Medicaid-certified skilled nursing facility at 2611 S Dearborn St in Seattle, offering short-term rehabilitation and long-term nursing care.",
       "sources": [
         "https://local-nursing-homes.com/nursing-homes/washington/seattle/505511-paramount-rehabilitation-and-nursing",
@@ -3675,10 +3675,10 @@
       ],
       "verified_date": "2026-07-14",
       "special_focus_facility": true,
-      "serious_concern_note": "A federal CMS Special Focus Facility — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems.",
+      "serious_concern_note": "A federal CMS Special Focus Facility - nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
       "concern_type": "Special Focus Facility",
-      "concern_status": "Active per current CMS Care Compare data — confirm current status directly",
+      "concern_status": "Active per current CMS Care Compare data - confirm current status directly",
       "concern_source_url": "https://www.cms.gov/files/document/sff-posting-candidate-list-june-2026.pdf"
     },
     {
@@ -3731,7 +3731,7 @@
       "capacity": 152,
       "cms_ccn": "505387",
       "cms_rating_overall": 1,
-      "review_note": "CMS overall rating 1/5 stars — listed by assistedlivingmagazine.com under the explicit heading \"1-Star Nursing Home in Olympia, WA\" (July 2026 data). Distinct facility from Olympia Transitional Care and Rehabilitation (430 Lilly Rd NE), which is under related ownership but a separate CCN and address.",
+      "review_note": "CMS overall rating 1/5 stars - listed by assistedlivingmagazine.com under the explicit heading \"1-Star Nursing Home in Olympia, WA\" (July 2026 data). Distinct facility from Olympia Transitional Care and Rehabilitation (430 Lilly Rd NE), which is under related ownership but a separate CCN and address.",
       "description": "Woodard Creek Health & Rehabilitation is a 152-bed skilled nursing facility at 3333 Ensign Rd NE in Olympia, offering short-term rehabilitation and long-term nursing care. It is Medicare- and Medicaid-certified.",
       "sources": [
         "https://assistedlivingmagazine.com/nursing-home/woodard-creek-health-rehabilitation/",
@@ -3848,7 +3848,7 @@
       "facility_size": "large",
       "capacity": 89,
       "cms_ccn": "505341",
-      "review_note": "Public CMS-data aggregators disagree on the exact current overall star rating for this facility — healthcare4ppl.com reports 2/5 stars overall, while other sites report figures ranging from 2 to 4 stars; one source separately notes a 4-star CMS staffing sub-rating (all accessed July 2026). Because of this inconsistency we are not asserting a single overall star number here; families should check CMS Care Compare directly for the current rating.",
+      "review_note": "Public CMS-data aggregators disagree on the exact current overall star rating for this facility - healthcare4ppl.com reports 2/5 stars overall, while other sites report figures ranging from 2 to 4 stars; one source separately notes a 4-star CMS staffing sub-rating (all accessed July 2026). Because of this inconsistency we are not asserting a single overall star number here; families should check CMS Care Compare directly for the current rating.",
       "description": "Bridge Crest Post Acute is an 89-bed skilled nursing facility at 5220 NE Hazel Dell Ave in Vancouver, operated by PACS Group, offering short-term rehabilitation and long-term nursing care. It is Medicare- and Medicaid-certified.",
       "sources": [
         "https://www.healthcare4ppl.com/nursing-home/washington/vancouver/bridge-crest-post-acute-505341.html",
@@ -3961,7 +3961,7 @@
       ],
       "facility_size": "large",
       "capacity": 64,
-      "review_note": "Only 2 reviews are recorded on Caring.com as of July 2026. Family reviews on record include serious allegations of mistreatment and an unresponsive management team, while other aggregator sites (SeniorAdvisor.com, AssistedLivingCenter.com) separately show higher composite ratings of roughly 4.0-4.5/5 — the evidence is thin in volume and mixed in tone.",
+      "review_note": "Only 2 reviews are recorded on Caring.com as of July 2026. Family reviews on record include serious allegations of mistreatment and an unresponsive management team, while other aggregator sites (SeniorAdvisor.com, AssistedLivingCenter.com) separately show higher composite ratings of roughly 4.0-4.5/5 - the evidence is thin in volume and mixed in tone.",
       "description": "Fairview Assisted Living Inc is a 64-resident assisted living facility at 1617 N Calispel St in Spokane, licensed by the State of Washington. It offers personal care, meals, and daily activities including a barber/beauty shop and library.",
       "sources": [
         "https://www.caring.com/senior-living/washington/spokane/fairview-assisted-living-inc-99205",
@@ -4246,7 +4246,7 @@
         "TX",
         "WI"
       ],
-      "description": "Touchmark is a family-owned senior living company founded in 1980 and headquartered in Beaverton, Oregon. It develops and operates full-service, resort-style retirement communities offering independent living, assisted living, and memory care in eight U.S. states and Canada.",
+      "description": "Touchmark is a family-owned senior living company founded in 1980 and headquartered in Beaverton, Oregon. It develops and operates full-service retirement communities offering independent living, assisted living, and memory care in eight U.S. states and Canada.",
       "sources": [
         "https://www.touchmark.com/about-us"
       ]
@@ -4499,7 +4499,7 @@
       "slug": "generations",
       "headquarters": "Portland, Oregon",
       "website": "https://www.generationsllc.com/",
-      "description": "Generations is a family-owned and family-operated senior living company based in Portland, Oregon, running communities in several western states. Its campuses, including Wheatland Village in Walla Walla, typically combine independent living, assisted living, and memory care with resort-style amenities.",
+      "description": "Generations is a family-owned and family-operated senior living company based in Portland, Oregon, running communities in several western states. Its campuses, including Wheatland Village in Walla Walla, typically combine independent living, assisted living, and memory care.",
       "sources": [
         "https://www.generationsllc.com/communities/wheatland-village/"
       ]

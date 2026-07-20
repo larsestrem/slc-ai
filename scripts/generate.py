@@ -5,7 +5,7 @@ senior.living.community page generator.
 The folder structure IS the directory: this script turns per-state facility JSON
 (data/facilities/<state>.json) into Jekyll pages under directory/<state>/<county>-county/
 <city>/<facility>/ plus organization pages and _data/stats.yml. All data is baked into
-front matter, so Jekyll templates never scan collections — builds stay fast at scale.
+front matter, so Jekyll templates never scan collections - builds stay fast at scale.
 
 Rebuild scoping (the whole point):
   python3 scripts/generate.py --all                      # every state
@@ -78,7 +78,7 @@ def write(path: Path, content: str):
     path.write_text(content, encoding="utf-8")
 
 
-# Public review platforms — a source URL on one of these domains is a page where
+# Public review platforms - a source URL on one of these domains is a page where
 # families can read the actual reviews, so we surface it as a labeled link.
 REVIEW_PLATFORMS = [
     ("aplaceformom.com", "A Place for Mom"),
@@ -118,12 +118,12 @@ def review_links_from_sources(sources):
 
 def records_note(f):
     """Round-10 model: the site publishes NO findings, flags, or concern
-    language of any kind — not even sourced government facts. The concern_*
+    language of any kind - not even sourced government facts. The concern_*
     fields in the data files are INTERNAL ONLY: they record why a facility
     qualifies for the note (each traces to a government record) and are never
     written into pages. What the site shows for these facilities is a single
-    neutral nudge — "it's important to read this community's official record
-    and reviews before you decide" — with the official record linked first, so
+    neutral nudge - "it's important to read this community's official record
+    and reviews before you decide" - with the official record linked first, so
     the reader finds whatever is there at the source. Set exclusively from
     hand-verified, government-sourced entries; never inferred from reviews,
     ratings, or anything else. Also pushes the facility to the bottom of its
@@ -141,13 +141,13 @@ def facility_url(f):
 
 def card(f):
     """The subset of fields a facility card include needs. No numeric rating
-    fields — cards show identity and care info only; ratings live exclusively
+    fields - cards show identity and care info only; ratings live exclusively
     on the individual facility profile, as labeled outbound links."""
     c = {
         "name": f["name"], "url": facility_url(f),
         "city_name": f["city_name"], "state_abbrev": f["state_abbrev"],
         "care_levels": f.get("care_levels", []),
-        "records_note": records_note(f),  # ordering only — never rendered on cards
+        "records_note": records_note(f),  # ordering only - never rendered on cards
     }
     for k in ("facility_size", "description"):
         if f.get(k):
@@ -167,7 +167,7 @@ def card(f):
 
 
 def sort_key(f):
-    """Alphabetical — the site asserts no quality ordering. The one thing that
+    """Alphabetical - the site asserts no quality ordering. The one thing that
     still affects order is the internal records-note marker, which pushes that
     facility to the bottom of its list."""
     return (1 if records_note(f) else 0, f["name"])
@@ -203,7 +203,7 @@ def assign_region(f, state_regions):
 def build_map(state, facs, geo, city_region=None, region_colors=None):
     """Inline-SVG state map: simplified outline + one clickable dot per city.
 
-    Equirectangular projection with cos(mid-latitude) x-scaling — fine at state scale.
+    Equirectangular projection with cos(mid-latitude) x-scaling - fine at state scale.
     Returns front-matter data the state layout renders; no external map service needed.
     """
     outline = geo["outlines"].get(state)
@@ -260,11 +260,11 @@ def gen_facility_page(f, siblings, licensing):
     front = {
         "layout": "facility",
         "title": f["name"],
-        "seo_title": f"{f['name']} — Senior Living in {f['city_name']}, {f['state_abbrev']}",
+        "seo_title": f"{f['name']} - Senior Living in {f['city_name']}, {f['state_abbrev']}",
         "description": (f.get("description") or
                         f"{f['name']} in {f['city_name']}, {f['state_name']}: care levels, contact details, and official inspection records.")[:158],
         # County/city pages exist (stable URLs for future density) but are
-        # intentionally not linked — breadcrumbs jump state → facility.
+        # intentionally not linked - breadcrumbs jump state → facility.
         "crumbs": [
             {"name": "Directory", "url": "/directory/"},
             {"name": f["state_name"], "url": f"/directory/{f['state']}/"},
@@ -272,22 +272,22 @@ def gen_facility_page(f, siblings, licensing):
         ],
         "nearby": nearby,
     }
-    # No numeric rating field is passed through — round-8 no-ratings-on-site model.
+    # No numeric rating field is passed through - round-8 no-ratings-on-site model.
     # Profiles link to primary sources instead of asserting a number ourselves.
     passthrough = ("state", "state_name", "state_abbrev", "county", "county_name", "city",
                    "city_name", "address", "zip", "phone", "website", "care_levels",
                    "facility_size", "capacity", "organization", "organization_name",
                    "cms_ccn", "sources", "verified_date",
-                   # lifestyle & services — optional, shown when verified
+                   # lifestyle & services - optional, shown when verified
                    "pets", "couples", "min_age", "transportation",
                    "medical_services", "support_services",
-                   # media — photos: [{src, alt, caption}], logo: path
+                   # media - photos: [{src, alt, caption}], logo: path
                    "photos", "logo",
                    "review_caveat",
-                   # small-home license facts (not a rating — license status, not a score)
+                   # small-home license facts (not a rating - license status, not a score)
                    "license_id", "licensed_since", "specialties",
                    # community-verified attribution: who provided the claimed
-                   # content (name/title) and when — shown on the profile badge
+                   # content (name/title) and when - shown on the profile badge
                    "claimed_by", "claimed_role", "claimed_date", "contributors",
                    # claimed-profile content sections
                    "community_statement", "care_details", "dining_text",
@@ -325,7 +325,7 @@ def gen_facility_page(f, siblings, licensing):
         tpage = {
             "layout": "team",
             "title": f"The Team at {f['name']}",
-            "description": f"Leadership team profiles for {f['name']} in {f['city_name']}, {f['state_abbrev']} — roles, experience, and background, provided by the community.",
+            "description": f"Leadership team profiles for {f['name']} in {f['city_name']}, {f['state_abbrev']} - roles, experience, and background, provided by the community.",
             "community_name": f["name"],
             "profile_url": facility_url(f),
             "members": team,
@@ -361,7 +361,7 @@ def gen_city_page(state, cslug, city_facs):
         "layout": "city",
         "noindex": True,  # thin at seed density; flip when city coverage is real
         "title": f"Senior Living in {f0['city_name']}, {f0['state_abbrev']}",
-        "seo_title": f"Senior Living in {f0['city_name']}, {f0['state_abbrev']} — Assisted Living, Memory Care & More",
+        "seo_title": f"Senior Living in {f0['city_name']}, {f0['state_abbrev']} - Assisted Living, Memory Care & More",
         "description": f"Compare {len(city_facs)} senior living communities in {f0['city_name']}, {f0['state_name']}: care levels, sizes, and official inspection records for each.",
         "city_name": f0["city_name"], "county_name": f0["county_name"],
         "state_name": f0["state_name"], "state_abbrev": f0["state_abbrev"],
@@ -392,7 +392,7 @@ def gen_county_page(state, cslug, county_facs):
         "layout": "county",
         "noindex": True,  # thin at seed density; flip when county coverage is real
         "title": f"{f0['county_name']} County, {f0['state_abbrev']} Senior Living",
-        "seo_title": f"Senior Living in {f0['county_name']} County, {f0['state_abbrev']} — {len(county_facs)} Communities",
+        "seo_title": f"Senior Living in {f0['county_name']} County, {f0['state_abbrev']} - {len(county_facs)} Communities",
         "description": f"Senior living in {f0['county_name']} County, {f0['state_name']}: {len(county_facs)} communities across {len(cities)} cities, with care levels and inspection links.",
         "county_name": f0["county_name"], "state_name": f0["state_name"],
         "state_abbrev": f0["state_abbrev"], "facility_count": len(county_facs),
@@ -425,8 +425,8 @@ def gen_region_page(state, rslug, rname, facs, meta, geo):
     front = {
         "layout": "region",
         "title": f"{rname} Senior Living",
-        "seo_title": f"Senior Living in {rname}, {meta['abbrev']} — {len(facs)} Communities",
-        "description": f"Compare {len(facs)} senior living communities in {rname}, {meta['name']} — care levels, review evidence, and official inspection links for each.",
+        "seo_title": f"Senior Living in {rname}, {meta['abbrev']} - {len(facs)} Communities",
+        "description": f"Compare {len(facs)} senior living communities in {rname}, {meta['name']} - care levels, review evidence, and official inspection links for each.",
         "region_name": rname, "state": state,
         "state_name": meta["name"], "state_abbrev": meta["abbrev"],
         "facility_count": len(facs),
@@ -474,7 +474,7 @@ def gen_state_page_regions(state, facs, meta, geo, state_regions):
         "care_level_counts": [{"slug": k, "count": v}
                               for k, v in sorted(level_counts.items(), key=lambda kv: -kv[1])],
         "title": f"{meta['name']} Senior Living",
-        "seo_title": f"Senior Living in {meta['name']} — Assisted Living, Memory Care & Nursing Homes",
+        "seo_title": f"Senior Living in {meta['name']} - Assisted Living, Memory Care & Nursing Homes",
         "description": f"Find senior living in {meta['name']}: {len(facs)} communities across {len({f['city'] for f in facs})} cities, organized by region with care levels and inspection links.",
         "state_name": meta["name"], "state_abbrev": meta["abbrev"],
         "facility_count": len(facs),
@@ -490,7 +490,7 @@ def gen_state_page_regions(state, facs, meta, geo, state_regions):
 
 
 def gen_state_page(state, facs, meta, geo):
-    # Group directly by city (merged across county lines — Salem spans two counties)
+    # Group directly by city (merged across county lines - Salem spans two counties)
     # so the state page links straight to facilities, no county/city hop.
     cities = {}
     for f in facs:
@@ -513,7 +513,7 @@ def gen_state_page(state, facs, meta, geo):
         "care_level_counts": [{"slug": k, "count": v}
                               for k, v in sorted(level_counts.items(), key=lambda kv: -kv[1])],
         "title": f"{meta['name']} Senior Living",
-        "seo_title": f"Senior Living in {meta['name']} — Assisted Living, Memory Care & Nursing Homes",
+        "seo_title": f"Senior Living in {meta['name']} - Assisted Living, Memory Care & Nursing Homes",
         "description": f"Find senior living in {meta['name']}: {len(facs)} communities across {len(cities)} cities, with care levels, sizes, and links to official state inspection records.",
         "state_name": meta["name"], "state_abbrev": meta["abbrev"],
         "facility_count": len(facs),
@@ -531,7 +531,7 @@ def gen_state_page(state, facs, meta, geo):
 def gen_state(state, states_meta, stats, geo, regions):
     loaded = load_state(state)
     if loaded is None:
-        print(f"  !! no data file for {state} (data/facilities/{state}.json) — skipped")
+        print(f"  !! no data file for {state} (data/facilities/{state}.json) - skipped")
         return None
     facs, orgs = loaded
     meta = states_meta.get(state) or {"name": state.title(), "abbrev": state[:2].upper()}
@@ -583,7 +583,7 @@ def gen_organizations(all_orgs, facilities_by_org, org_names):
             if k not in cur or (k == "description" and len(str(v)) > len(str(cur.get(k, "")))):
                 cur[k] = v
     # Stub pages for operators referenced by facilities but not described in any
-    # state file — the facility link must never 404.
+    # state file - the facility link must never 404.
     for slug, name in org_names.items():
         merged.setdefault(slug, {"slug": slug, "name": name})
     if ORGS.exists():
@@ -596,7 +596,7 @@ def gen_organizations(all_orgs, facilities_by_org, org_names):
         front = {
             "layout": "organization",
             "title": o["name"],
-            "seo_title": f"{o['name']} — Senior Living Communities & Locations",
+            "seo_title": f"{o['name']} - Senior Living Communities & Locations",
             "description": (o.get("description") or f"{o['name']} senior living communities: locations in our directory, company facts, and how to evaluate each community.")[:158],
             "org_description": o.get("description"),
             "headquarters": o.get("headquarters"),
@@ -621,12 +621,12 @@ def gen_organizations(all_orgs, facilities_by_org, org_names):
     }
     body = """<h1>Senior Living Organizations</h1>
 <p class="lead">Many communities belong to multi-state operators. Company policy shapes pricing,
-staffing, and care assessments — but quality still varies building to building.</p>
+staffing, and care assessments - but quality still varies building to building.</p>
 <ul class="grid">
 {% for o in page.orgs %}<li class="card"><h3><a href="{{ o.url }}">{{ o.name }}</a></h3>
 <p class="meta">{% if o.headquarters %}{{ o.headquarters }} · {% endif %}{{ o.count_here }} in our directory</p></li>
 {% endfor %}</ul>
-<p class="notice">Judge each community on its own <a href="/guides/reading-inspection-reports-and-ratings/">inspection record</a> — an operator's brand is a starting point, not an answer.</p>"""
+<p class="notice">Judge each community on its own <a href="/guides/reading-inspection-reports-and-ratings/">inspection record</a> - an operator's brand is a starting point, not an answer.</p>"""
     write(ORGS / "index.html", fm(front, body))
     print(f"  organizations: {len(merged)} pages")
 
@@ -649,7 +649,7 @@ def main():
             targets.append(spec.split("/")[0])  # city regen = state regen (cheap, always consistent)
     targets = sorted(set(targets))
     if not targets:
-        ap.error("nothing to do — pass --all, --state <slug>, or --city <state>/<city>")
+        ap.error("nothing to do - pass --all, --state <slug>, or --city <state>/<city>")
 
     stats_path = ROOT / "_data" / "stats.yml"
     stats = {"states": {}}
@@ -687,9 +687,9 @@ def main():
     visible = {"facilities": sum(stats["states"].get(s, {}).get("facilities", 0) for s in visible_slugs),
                "cities": sum(stats["states"].get(s, {}).get("cities", 0) for s in visible_slugs),
                "states": len([s for s in visible_slugs if s in stats["states"]])}
-    out = ["# Generated by scripts/generate.py — do not edit by hand", "total:"]
+    out = ["# Generated by scripts/generate.py - do not edit by hand", "total:"]
     out += [f"  {k}: {v}" for k, v in total.items()]
-    out.append("visible_total:  # states without `hidden: true` in _data/states.yml — what families can actually browse to")
+    out.append("visible_total:  # states without `hidden: true` in _data/states.yml - what families can actually browse to")
     out += [f"  {k}: {v}" for k, v in visible.items()]
     out.append("states:")
     for slug, s in sorted(stats["states"].items()):

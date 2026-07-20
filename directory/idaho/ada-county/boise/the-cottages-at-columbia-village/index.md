@@ -21,7 +21,7 @@ facility_size: "medium"
 capacity: 60
 sources: ["https://www.aplaceformom.com/community/the-cottages-of-columbia-village-101450", "https://www.assistedlivingidaho.com/portfolio/columbia-village/"]
 verified_date: "2026-07-14"
-description_full: "An assisted living and memory care community in southeast Boise built as four 15-bed homes arranged around a central courtyard, offering a small-home, residential setting. Respite and adult day care are also available. Base rates start around $3,650/month for assisted living and $4,800/month for memory care."
+description_full: "An assisted living and memory care community in southeast Boise built as four 15-bed homes arranged around a central courtyard, offering a small-home, residential setting. Respite and adult day care are also available."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-cottages-of-columbia-village-101450"}]
 reviews_search_url: "https://www.google.com/search?q=The+Cottages+at+Columbia+Village+Boise+ID+reviews"
 licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}

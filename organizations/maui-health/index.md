@@ -3,7 +3,7 @@ layout: "organization"
 title: "Maui Health"
 seo_title: "Maui Health - Senior Living Communities & Locations"
 description: "Maui Health, affiliated with Kaiser Permanente since 2017, operates Maui Memorial Medical Center, Kula Hospital and Clinic, and Lanai Community Hospital, serv"
-org_description: "Maui Health, affiliated with Kaiser Permanente since 2017, operates Maui Memorial Medical Center, Kula Hospital and Clinic, and Lanai Community Hospital, serving the residents of Maui County. Its Kula Hospital campus includes one of the state's highest-rated hospital-based long-term care units."
+org_description: "Maui Health, affiliated with Kaiser Permanente since 2017, operates Maui Memorial Medical Center, Kula Hospital and Clinic, and Lanai Community Hospital, serving the residents of Maui County. Its Kula Hospital campus includes a hospital-based long-term care unit."
 headquarters: "Wailuku, Hawaii"
 website: "https://www.mauihealth.org/"
 facility_count_approx: 3

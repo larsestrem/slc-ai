@@ -451,7 +451,7 @@
       "organization_name": "Maui Health",
       "cms_ccn": "125003",
       "cms_rating_overall": 4,
-      "description": "A hospital-based skilled nursing and intermediate care facility in upcountry Kula on Maui, operated by Maui Health, with 105 long-term care beds. Note: the facility, including its skilled nursing unit, has been temporarily closed since storm flooding in March 2026, with long-term-care residents relocated and no announced reopening date — confirm current status with Maui Health directly before planning care.",
+      "description": "A hospital-based skilled nursing and intermediate care facility in upcountry Kula on Maui, operated by Maui Health, with 105 long-term care beds. Note: the facility, including its skilled nursing unit, has been temporarily closed since storm flooding in March 2026, with long-term-care residents relocated and no announced reopening date - confirm current status with Maui Health directly before planning care.",
       "sources": [
         "https://www.mauihealth.org/kula-hospital/",
         "https://assistedlivingmagazine.com/nursing-home/kula-hospital/",
@@ -976,7 +976,7 @@
       "cms_ccn": "125026",
       "cms_rating_overall": 2,
       "review_note": "CMS overall rating of 2 stars, compared to a Hawaii state average of roughly 4 and a national average of roughly 3.3 (source: NursingHomeSite.com CMS data mirror, July 2026). Nonprofit corporation ownership; daily average of about 113 residents.",
-      "description": "Kuakini Geriatric Care, Inc. is a large, nonprofit, Medicare- and Medicaid-certified skilled nursing facility in the Kuakini Medical Center area of Honolulu. It is licensed for 187 beds and provides long-term skilled nursing care. Recent federal Care Compare data show an overall rating well below the state average.",
+      "description": "Kuakini Geriatric Care, Inc. is a large, nonprofit, Medicare- and Medicaid-certified skilled nursing facility in the Kuakini Medical Center area of Honolulu. It is licensed for 187 beds and provides long-term skilled nursing care.",
       "sources": [
         "https://www.medicare.gov/care-compare/details/nursing-home/125026/view-all/?city=Honolulu&state=HI&zipcode=96817",
         "https://projects.propublica.org/nursing-homes/homes/h-125026",
@@ -1015,7 +1015,7 @@
       "serious_concern": true,
       "serious_concern_note": "CMS records show roughly $161,000 in federal fines and a period of Medicare payment suspension tied to documented quality problems.",
       "concern_regulator": "CMS (Centers for Medicare & Medicaid Services)",
-      "concern_type": "Federal enforcement action — fines and a period of Medicare payment suspension",
+      "concern_type": "Federal enforcement action - fines and a period of Medicare payment suspension",
       "concern_status": "Confirm current enforcement status directly on Care Compare",
       "concern_source_url": "https://www.medicare.gov/care-compare/details/nursing-home/125041/view-all/?state=HI"
     },
@@ -1375,7 +1375,7 @@
       "states": [
         "HI"
       ],
-      "description": "The Arcadia Family of Companies is a Honolulu-based nonprofit senior services organization affiliated with the United Church of Christ, tracing its roots to the 1967 opening of Arcadia Retirement Residence. It operates two continuing care retirement communities in Honolulu — Arcadia Retirement Residence and 15 Craigside — along with home care and adult day programs.",
+      "description": "The Arcadia Family of Companies is a Honolulu-based nonprofit senior services organization affiliated with the United Church of Christ, tracing its roots to the 1967 opening of Arcadia Retirement Residence. It operates two continuing care retirement communities in Honolulu - Arcadia Retirement Residence and 15 Craigside - along with home care and adult day programs.",
       "sources": [
         "https://arcadia.org/residences/",
         "https://arcadia.org/skilled-nursing/15-craigside-arcadia/"
@@ -1410,7 +1410,7 @@
       "slug": "kisco-senior-living",
       "headquarters": "Carlsbad, California",
       "website": "https://www.kiscoseniorliving.com",
-      "description": "Kisco Senior Living, founded in 1990 and headquartered in Carlsbad, California, develops and operates upscale senior living communities in several states offering independent living, assisted living, and memory care. 'Ilima at Leihano in Kapolei is its Hawaii community.",
+      "description": "Kisco Senior Living, founded in 1990 and headquartered in Carlsbad, California, develops and operates senior living communities in several states offering independent living, assisted living, and memory care. 'Ilima at Leihano in Kapolei is its Hawaii community.",
       "sources": [
         "https://www.kiscoseniorliving.com/lifestyle/ilima/about-us/"
       ]
@@ -1485,7 +1485,7 @@
       "states": [
         "HI"
       ],
-      "description": "Maui Health, affiliated with Kaiser Permanente since 2017, operates Maui Memorial Medical Center, Kula Hospital and Clinic, and Lanai Community Hospital, serving the residents of Maui County. Its Kula Hospital campus includes one of the state's highest-rated hospital-based long-term care units.",
+      "description": "Maui Health, affiliated with Kaiser Permanente since 2017, operates Maui Memorial Medical Center, Kula Hospital and Clinic, and Lanai Community Hospital, serving the residents of Maui County. Its Kula Hospital campus includes a hospital-based long-term care unit.",
       "sources": [
         "https://www.mauihealth.org/kula-hospital/"
       ]

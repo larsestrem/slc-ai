@@ -52,7 +52,7 @@
       "facility_size": "large",
       "organization": "humangood",
       "organization_name": "HumanGood",
-      "description": "Las Ventanas at Summerlin is Nevada's only Life Care community (CCRC), operated by the nonprofit HumanGood. The campus offers independent living apartments and villas plus assisted living, memory care, and skilled nursing on one site. U.S. News & World Report named it a Best Continuing Care Retirement Community in its 2026 Best Senior Living awards.",
+      "description": "Las Ventanas at Summerlin is Nevada's only Life Care community (CCRC), operated by the nonprofit HumanGood. The campus offers independent living apartments and villas plus assisted living, memory care, and skilled nursing on one site.",
       "sources": [
         "https://www.humangood.org/las-ventanas-at-summerlin",
         "https://www.seniorlivingguide.com/communities/las-ventanas-at-summerlin-10401-w-charleston-blvd-las-vegas-nv-89135/",
@@ -139,7 +139,7 @@
       ],
       "organization": "sunrise-senior-living",
       "organization_name": "Sunrise Senior Living",
-      "description": "Sunrise of Henderson offers assisted living, memory care, and short-term respite stays in the Horizon Ridge area of Henderson. The community was recognized as Best Assisted Living and Best Memory Care in U.S. News & World Report's 2026 Best Senior Living ratings.",
+      "description": "Sunrise of Henderson offers assisted living, memory care, and short-term respite stays in the Horizon Ridge area of Henderson.",
       "sources": [
         "https://www.sunriseseniorliving.com/communities/nv/sunrise-of-henderson",
         "https://www.yelp.com/biz/sunrise-of-henderson-henderson",
@@ -278,7 +278,7 @@
       ],
       "organization": "oakmont-management-group",
       "organization_name": "Oakmont Management Group",
-      "description": "Luxury assisted living and memory care community on East Flamingo Road in Las Vegas. Amenities include restaurant-style dining, a wellness center with a full-time nurse, landscaped grounds, and a 24-hour call system.",
+      "description": "Assisted living and memory care community on East Flamingo Road in Las Vegas. Amenities include restaurant-style dining, a wellness center with a full-time nurse, landscaped grounds, and a 24-hour call system.",
       "review_note": "4.5/5 overall experience across 154 reviews on A Place for Mom; review score 9.5/10 based on 27 reviews in the last 2 years (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/oakmont-of-las-vegas-1421326",
@@ -483,7 +483,7 @@
         "assisted-living",
         "memory-care"
       ],
-      "description": "Assisted living and memory care community in the Kiley Ranch area of Sparks, built in 2022. The single-story campus features a gym, mini golf, and outdoor courtyards, and is recognized for providing quality care at competitive prices for the Reno-Sparks market.",
+      "description": "Assisted living and memory care community in the Kiley Ranch area of Sparks, built in 2022. The single-story campus features a gym, mini golf, and outdoor courtyards.",
       "review_note": "4.5/5 overall experience across 24 reviews on A Place for Mom; review score 9/10 based on 12 reviews in the last 2 years (July 2026)",
       "sources": [
         "https://www.aplaceformom.com/community/kiley-ranch-1451350",
@@ -686,7 +686,7 @@
       "organization": "atria-senior-living",
       "organization_name": "Atria Senior Living",
       "review_note": "4.7/5 across 70 reviews on Birdeye (July 2026); U.S. News Best Senior Living for assisted living",
-      "description": "Atria Summit Ridge is a senior living community in northwest Reno offering independent living, assisted living, and memory care. News has rated it a Best Senior Living community based on resident and family surveys.",
+      "description": "Atria Summit Ridge is a senior living community in northwest Reno offering independent living, assisted living, and memory care.",
       "sources": [
         "https://reviews.birdeye.com/atria-summit-ridge-157255800247550",
         "https://www.yelp.com/biz/atria-summit-ridge-reno",

@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "Astoria Senior Living - Oakdale"
 seo_title: "Astoria Senior Living - Oakdale - Senior Living in Oakdale, CA"
-description: "A single-story assisted living and memory care community in Oakdale with cozy lounges, an enclosed courtyard, and a resident chef. Recognized in U.S. News & W"
+description: "A single-story assisted living and memory care community in Oakdale with lounges, an enclosed courtyard, and a resident chef."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Astoria Senior Living - Oakdale", "url": "/directory/california/stanislaus-county/oakdale/astoria-senior-living-oakdale/"}]
 nearby: []
 state: "california"
@@ -23,7 +23,7 @@ organization: "astoria-senior-living"
 organization_name: "Astoria Senior Living"
 sources: ["https://www.caring.com/senior-living/california/oakdale/astoria-senior-living-oakdale", "https://www.aplaceformom.com/community/astoria-senior-living-oakdale-141515"]
 verified_date: "2026-07-19"
-description_full: "A single-story assisted living and memory care community in Oakdale with cozy lounges, an enclosed courtyard, and a resident chef. Recognized in U.S. News & World Report's 2026 Best Assisted Living."
+description_full: "A single-story assisted living and memory care community in Oakdale with lounges, an enclosed courtyard, and a resident chef."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/oakdale/astoria-senior-living-oakdale"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/astoria-senior-living-oakdale-141515"}]
 reviews_search_url: "https://www.google.com/search?q=Astoria+Senior+Living+%E2%80%93+Oakdale+Oakdale+CA+reviews"
 records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/507005604"

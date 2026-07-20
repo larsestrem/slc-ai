@@ -20,7 +20,7 @@ website: "https://kileyranchseniorliving.com/"
 care_levels: ["assisted-living", "memory-care"]
 sources: ["https://www.aplaceformom.com/community/kiley-ranch-1451350", "https://www.caring.com/senior-living/nevada/sparks/kiley-ranch-senior-living", "https://www.yelp.com/biz/kiley-ranch-senior-living-sparks-3"]
 verified_date: "2026-07-19"
-description_full: "Assisted living and memory care community in the Kiley Ranch area of Sparks, built in 2022. The single-story campus features a gym, mini golf, and outdoor courtyards, and is recognized for providing quality care at competitive prices for the Reno-Sparks market."
+description_full: "Assisted living and memory care community in the Kiley Ranch area of Sparks, built in 2022. The single-story campus features a gym, mini golf, and outdoor courtyards."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/kiley-ranch-1451350"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/nevada/sparks/kiley-ranch-senior-living"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/kiley-ranch-senior-living-sparks-3"}]
 reviews_search_url: "https://www.google.com/search?q=Kiley+Ranch+Senior+Living+Sparks+NV+reviews"
 licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}

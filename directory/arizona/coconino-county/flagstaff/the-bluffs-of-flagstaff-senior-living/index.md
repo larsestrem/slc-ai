@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "The Bluffs of Flagstaff Senior Living"
 seo_title: "The Bluffs of Flagstaff Senior Living - Senior Living in Flagstaff, AZ"
-description: "The Bluffs of Flagstaff is the highest-rated senior living community in Flagstaff, offering assisted living and memory care in Arizona's high country."
+description: "The Bluffs of Flagstaff is a senior living community in Flagstaff, offering assisted living and memory care in Arizona's high country."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "The Bluffs of Flagstaff Senior Living", "url": "/directory/arizona/coconino-county/flagstaff/the-bluffs-of-flagstaff-senior-living/"}]
 nearby: []
 state: "arizona"
@@ -23,7 +23,7 @@ organization: "civitas-senior-living"
 organization_name: "Civitas Senior Living"
 sources: ["https://www.aplaceformom.com/community/the-bluffs-of-flagstaff-senior-living-1446128", "https://www.mycaringplan.com/senior-living/the-bluffs-of-flagstaff/"]
 verified_date: "2026-07-19"
-description_full: "The Bluffs of Flagstaff is the highest-rated senior living community in Flagstaff, offering assisted living and memory care in Arizona's high country."
+description_full: "The Bluffs of Flagstaff is a senior living community in Flagstaff, offering assisted living and memory care in Arizona's high country."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-bluffs-of-flagstaff-senior-living-1446128"}]
 reviews_search_url: "https://www.google.com/search?q=The+Bluffs+of+Flagstaff+Senior+Living+Flagstaff+AZ+reviews"
 records_url: "https://hsapps.azdhs.gov/ls/sod/Provider.aspx?ProviderName=The+Bluffs+of+Flagstaff"

@@ -5,7 +5,7 @@ title: "Byron Park"
 seo_title: "Byron Park - Senior Living in Walnut Creek, CA"
 description: "Independent living and assisted living community in Walnut Creek's Tice Valley area, operating since 1991 as part of Kisco Senior Living. Residents compare th"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Byron Park", "url": "/directory/california/contra-costa-county/walnut-creek/byron-park/"}]
-nearby: [{"name": "The Heritage Downtown", "url": "/directory/california/contra-costa-county/walnut-creek/the-heritage-downtown/", "city_name": "Walnut Creek", "state_abbrev": "CA", "care_levels": ["independent-living"], "records_note": false, "description": "An active-adult luxury independent living community in downtown Walnut Creek, within walking distance of shops and restaurants. Residents get restaurant-style dining at the on-site Newton's restaurant, a pool, gym, library, and movie theater. Winner of A Place for Mom's Best of Senior Living award four years running (2023-2026)."}]
+nearby: [{"name": "The Heritage Downtown", "url": "/directory/california/contra-costa-county/walnut-creek/the-heritage-downtown/", "city_name": "Walnut Creek", "state_abbrev": "CA", "care_levels": ["independent-living"], "records_note": false, "description": "An active-adult independent living community in downtown Walnut Creek, within walking distance of shops and restaurants. Residents get restaurant-style dining at the on-site Newton's restaurant, a pool, gym, library, and movie theater."}]
 state: "california"
 state_name: "California"
 state_abbrev: "CA"

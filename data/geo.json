@@ -1,5 +1,5 @@
 {
-  "_comment": "Simplified state outlines (lon,lat polygons — legal straight-line borders are exact, coastlines/rivers simplified) and city center coordinates for the state map. City coords are approximate city centers, sufficient for a state-scale reference map.",
+  "_comment": "Simplified state outlines (lon,lat polygons - legal straight-line borders are exact, coastlines/rivers simplified) and city center coordinates for the state map. City coords are approximate city centers, sufficient for a state-scale reference map.",
   "outlines": {
     "washington": [
       [

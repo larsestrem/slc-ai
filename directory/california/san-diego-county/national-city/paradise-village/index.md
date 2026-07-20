@@ -3,7 +3,7 @@ noindex: true
 layout: "facility"
 title: "Paradise Village"
 seo_title: "Paradise Village - Senior Living in National City, CA"
-description: "Paradise Village is a resort-style senior community on 12 acres in National City, just south of San Diego, offering independent living, assisted living, and m"
+description: "Paradise Village is a senior community on 12 acres in National City, just south of San Diego, offering independent living, assisted living, and memory care. A"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Paradise Village", "url": "/directory/california/san-diego-county/national-city/paradise-village/"}]
 nearby: []
 state: "california"
@@ -23,7 +23,7 @@ organization: "generations-senior-living"
 organization_name: "Generations Senior Living"
 sources: ["https://www.aplaceformom.com/community/paradise-village-153205", "https://www.generationsllc.com/communities/paradise-village/"]
 verified_date: "2026-07-19"
-description_full: "Paradise Village is a resort-style senior community on 12 acres in National City, just south of San Diego, offering independent living, assisted living, and memory care. Amenities include a large indoor pool, a 212-seat theater, more than 200 monthly activities, and over 20 resident-run clubs."
+description_full: "Paradise Village is a senior community on 12 acres in National City, just south of San Diego, offering independent living, assisted living, and memory care. Amenities include a large indoor pool, a 212-seat theater, more than 200 monthly activities, and over 20 resident-run clubs."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/paradise-village-153205"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/paradise-village-national-city-3"}]
 reviews_search_url: "https://www.google.com/search?q=Paradise+Village+National+City+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}

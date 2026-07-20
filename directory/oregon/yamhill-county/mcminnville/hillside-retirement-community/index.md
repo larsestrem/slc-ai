@@ -22,7 +22,7 @@ organization: "humangood"
 organization_name: "HumanGood"
 sources: ["https://www.humangood.org/hillside", "https://health.usnews.com/best-senior-living/hillside-retirement-communities-2478", "https://www.caring.com/senior-living/oregon/mcminnville/hillside-mcminnville-or"]
 verified_date: "2026-07-14"
-description_full: "Hillside is a nonprofit Life Plan Community (CCRC) on 57 acres in McMinnville, in the heart of Willamette Valley wine country, operated by HumanGood. The campus offers independent living apartments and cottage homes plus assisted living, memory care, long-term skilled nursing, and short-term rehabilitation. U.S. News recognized Hillside as a Best Continuing Care Retirement Community in its 2026 Best Senior Living awards."
+description_full: "Hillside is a nonprofit Life Plan Community (CCRC) on 57 acres in McMinnville, in the heart of Willamette Valley wine country, operated by HumanGood. The campus offers independent living apartments and cottage homes plus assisted living, memory care, long-term skilled nursing, and short-term rehabilitation."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/hillside-retirement-communities-2478"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/mcminnville/hillside-mcminnville-or"}]
 reviews_search_url: "https://www.google.com/search?q=Hillside+Retirement+Community+McMinnville+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A262"

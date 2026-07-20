@@ -71,6 +71,11 @@ All published content follows our **[content guidelines](/for-communities/conten
 comparisons to other communities. We review everything before it goes live and show you what
 we plan to publish.
 
+Want to see the bar we hold up? Our **[best-practices section](/best-practices/)** describes what
+excellent looks like, from [responding to reviews without crossing the privacy line](/best-practices/responding-to-reviews/)
+to [handling complaints and violations well](/best-practices/handling-complaints-and-violations/).
+It's written for families and communities both.
+
 ## Share photos
 
 Families consistently say photos help more than anything else. We're starting simple - **a photo of the front of your community and your logo** - and growing from there.

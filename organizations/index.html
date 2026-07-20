@@ -10,8 +10,60 @@ crumbs: [{"name": "Organizations", "url": "/organizations/"}]
 staffing, and care assessments - but quality still varies building to building, so judge the
 building your parent would live in, not the brand: check its own
 <a href="/guides/checking-complaints-and-state-records/">state record</a> and its own reviews.</p>
-<ul class="grid">
-{% for o in page.orgs %}<li class="card"><h3><a href="{{ o.url }}">{{ o.name }}</a></h3>
-<p class="meta">{% if o.headquarters %}{{ o.headquarters }} · {% endif %}{{ o.count_here }} in our directory</p></li>
-{% endfor %}</ul>
+<div class="org-controls">
+  <label for="org-sort"><strong>Sort by</strong></label>
+  <select id="org-sort">
+    <option value="name">Name (A to Z)</option>
+    <option value="count-desc">Most locations</option>
+    <option value="count-asc">Fewest locations</option>
+    <option value="hq">Headquarters (state)</option>
+  </select>
+  <span class="count" id="org-total"></span>
+</div>
+
+<ul class="grid org-list" id="org-list">
+{%- for o in page.orgs %}
+{%- assign sortname = o.name | downcase | remove_first: "the " %}
+{%- assign parts = o.headquarters | split: ", " %}
+{%- if o.headquarters and parts.size >= 2 %}{% assign st = parts[1] %}{% assign abbr = site.data.us_states[st] | default: st %}{% assign hq = parts[0] | append: ", " | append: abbr %}
+{%- elsif o.headquarters %}{% assign abbr = site.data.us_states[parts[0]] | default: parts[0] %}{% assign hq = abbr %}
+{%- else %}{% assign hq = "" %}{% endif %}
+  <li class="card org-card" data-name="{{ sortname }}" data-count="{{ o.count_here }}" data-hq="{{ hq | downcase }}">
+    <h3><a href="{{ o.url }}">{{ o.name }}</a></h3>
+    {%- if hq != "" %}<p class="org-hq">{{ hq }}</p>{% else %}<p class="org-hq muted">Headquarters not listed</p>{% endif %}
+    <p class="org-count">{{ o.count_here }} location{% unless o.count_here == 1 %}s{% endunless %} in our directory</p>
+  </li>
+{%- endfor %}
+</ul>
+
+<style>
+.org-controls { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; margin: 1rem 0 1.2rem; }
+.org-controls select { font: inherit; padding: .4rem .6rem; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--ink); }
+.org-controls .count { margin-left: auto; }
+.org-card h3 { margin: 0 0 .15rem; }
+.org-card .org-hq { margin: 0 0 .1rem; color: var(--muted); font-size: .92rem; }
+.org-card .org-count { margin: 0; font-size: .92rem; }
+</style>
+<script>
+(function () {
+  var list = document.getElementById("org-list");
+  var sel = document.getElementById("org-sort");
+  var total = document.getElementById("org-total");
+  if (!list || !sel) return;
+  var cards = [].slice.call(list.querySelectorAll(".org-card"));
+  if (total) total.textContent = cards.length + " operators";
+  function byName(a, b) { return a.dataset.name.localeCompare(b.dataset.name); }
+  function sort(mode) {
+    cards.sort(function (a, b) {
+      if (mode === "count-desc") return (+b.dataset.count - +a.dataset.count) || byName(a, b);
+      if (mode === "count-asc") return (+a.dataset.count - +b.dataset.count) || byName(a, b);
+      if (mode === "hq") return (a.dataset.hq || "zzz").localeCompare(b.dataset.hq || "zzz") || byName(a, b);
+      return byName(a, b);
+    });
+    cards.forEach(function (c) { list.appendChild(c); });
+  }
+  sel.addEventListener("change", function () { sort(sel.value); });
+  sort("name");
+})();
+</script>
 <p class="notice">Judge each community on its own <a href="/guides/reading-inspection-reports-and-ratings/">inspection record</a> - an operator's brand is a starting point, not an answer.</p>

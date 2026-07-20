@@ -1,0 +1,33 @@
+<script>
+(function () {
+  function init() {
+    var canHover = window.matchMedia && window.matchMedia("(hover: hover)").matches;
+    var glosses = document.querySelectorAll(".gloss");
+    glosses.forEach(function (g) {
+      var link = g.querySelector(".gloss-t"), pop = g.querySelector(".gloss-pop");
+      if (!link || !pop) return;
+      function open() { pop.hidden = false; link.setAttribute("aria-expanded", "true"); }
+      function shut() { pop.hidden = true; link.setAttribute("aria-expanded", "false"); }
+      // Term click toggles the popover on every device; the "Full explanation"
+      // link inside handles navigation. Without JS the term is a plain link.
+      link.addEventListener("click", function (e) { e.preventDefault(); pop.hidden ? open() : shut(); });
+      link.addEventListener("keydown", function (e) { if (e.key === "Escape") shut(); });
+      if (canHover) {
+        g.addEventListener("mouseenter", open);
+        g.addEventListener("mouseleave", shut);
+      }
+    });
+    document.addEventListener("click", function (e) {
+      glosses.forEach(function (g) {
+        if (!g.contains(e.target)) {
+          var pop = g.querySelector(".gloss-pop"), link = g.querySelector(".gloss-t");
+          if (pop) pop.hidden = true;
+          if (link) link.setAttribute("aria-expanded", "false");
+        }
+      });
+    });
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
+  else init();
+})();
+</script>

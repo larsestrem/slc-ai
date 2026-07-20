@@ -23,7 +23,7 @@ Before you look at a single facility, get clear on your parent's care needs. Fac
 
 Ask yourself honestly:
 
-- Can they bathe, dress, use the toilet, and eat without help? (These are called the "[activities of daily living](/guides/signs-your-parent-needs-help/#adls-and-iadls-in-plain-language)," or ADLs - new to the term? that link explains it plainly.)
+- Can they bathe, dress, use the toilet, and eat without help? (These basics are called the "activities of daily living," or {% include gloss.html term="ADLs" title="Activities of Daily Living" def="the basics of caring for your own body: bathing, dressing, eating, using the toilet, moving from bed to chair, and continence." more="/guides/signs-your-parent-needs-help/#adls-and-iadls-in-plain-language" %}. New to the term? Hover or tap it.)
 - Are they safe with medications, cooking, and driving?
 - Is there memory loss - missed bills, getting lost, repeating questions?
 - Do they need daily nursing care, like wound care or injections?
@@ -146,3 +146,5 @@ No. Price tracks real estate and amenities more than care quality. A modestly pr
 - **Area Agencies on Aging** offer free care needs assessments and options counseling.
 - **Long-term care ombudsman** programs in every state field questions and complaints about facilities.
 - **Aging and Disability Resource Centers** help you sort out benefits and local options.
+
+{% include gloss-init.html %}

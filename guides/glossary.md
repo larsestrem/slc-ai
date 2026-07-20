@@ -65,8 +65,8 @@ for. The fuller definitions are in the sections that follow.
 
 ## Care and daily living
 
-- **ADLs (Activities of Daily Living)** - the basics of self-care: bathing, dressing, eating, toileting, transferring (getting in/out of bed or a chair), and continence. Care levels and costs are largely set by how many ADLs a person needs help with.
-- **IADLs (Instrumental ADLs)** - the life-management tasks: cooking, cleaning, driving, managing money and medications. Trouble with IADLs usually shows up [years before trouble with ADLs](/guides/signs-your-parent-needs-help/).
+- **ADLs (Activities of Daily Living)** - the basics of self-care: bathing, dressing, eating, toileting, transferring (getting in/out of bed or a chair), and continence. Care levels and costs are largely set by how many ADLs a person needs help with. [Fuller explanation, with IADLs](/guides/signs-your-parent-needs-help/#adls-and-iadls-in-plain-language).
+- **IADLs (Instrumental ADLs)** - the life-management tasks: cooking, cleaning, driving, managing money and medications. Trouble with IADLs usually shows up [years before trouble with ADLs](/guides/signs-your-parent-needs-help/#adls-and-iadls-in-plain-language).
 - **Care level / level of care** - a community's internal tier (Level 1, 2, 3 or a points system) assigned after assessing your parent; it sets the real monthly price above base rent. See [assisted living](/guides/assisted-living/).
 - **Care assessment** - the evaluation a community performs before move-in (and periodically after) to set the care level. Ask for the resulting cost *in writing*.
 - **Aging in place** - staying in one home or community as needs grow, rather than moving at each stage.

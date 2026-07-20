@@ -192,6 +192,13 @@ tbody tr:hover { background: var(--soft); }
 
 /* Utility */
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+/* Inline term popover (see _includes/gloss.html) */
+.gloss { position: relative; display: inline-block; }
+.gloss-t { border-bottom: 1px dotted currentColor; }
+.gloss-pop { position: absolute; left: 0; top: 1.7em; z-index: 30; width: min(19rem, 82vw); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; box-shadow: var(--shadow-2); padding: .55rem .7rem; font-size: .9rem; font-weight: 400; color: var(--ink); line-height: 1.5; }
+.gloss-pop[hidden] { display: none; }
+.gloss-more { display: inline-block; margin-top: .25rem; font-weight: 600; white-space: nowrap; }
+@media print { .gloss-pop { display: none !important; } }
 .fsearch { position: relative; max-width: 34rem; margin: 1rem 0 1.2rem; }
 .fsearch form { display: flex; gap: .5rem; }
 .fsearch input[type=search] { flex: 1; min-width: 0; font: inherit; padding: .6rem .8rem; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); color: var(--ink); }

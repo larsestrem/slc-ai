@@ -1,0 +1,10 @@
+{%- comment -%}
+Inline glossary popover for a first-encounter term. Progressive enhancement:
+with no JavaScript the term is a normal link to the fuller explanation; with
+JS, hovering or tapping reveals a quick definition plus that same link, so a
+reader isn't forced to leave the page. Reusable - pass term/title/def/more.
+Include gloss-init.html once on any page that uses this.
+Params: term (shown text), title (full expansion), def (one-line meaning),
+more (URL to the fuller page/section).
+{%- endcomment -%}
+<span class="gloss"><a class="gloss-t" href="{{ include.more }}" aria-expanded="false">{{ include.term }}</a><span class="gloss-pop" role="tooltip" hidden><strong>{{ include.title }}</strong> - {{ include.def }} <a class="gloss-more" href="{{ include.more }}">Full explanation &rarr;</a></span></span>

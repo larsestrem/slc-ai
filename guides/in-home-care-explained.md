@@ -33,9 +33,9 @@ This is the level most families mean when they say "home care," and it's the dir
 
 ### Home health (skilled care)
 
-Home health is medical care at home: [skilled nursing](/guides/skilled-nursing/) visits, physical therapy, occupational therapy, speech therapy, wound care. It must be ordered by a physician, it's provided by a Medicare-certified agency, and it's typically short-term - a series of visits after a hospital stay, surgery, or new diagnosis.
+Home health is medical care at home: [skilled nursing](/guides/skilled-nursing/) visits, physical therapy, occupational therapy, speech therapy, wound care. Covered home-health services require an order and care plan from an authorized Medicare practitioner (a doctor or, in many cases, a nurse practitioner or physician assistant) and must be provided through a Medicare-certified home-health agency. It's typically short-term: a series of visits after a hospital stay, surgery, or new diagnosis.
 
-Here's the insider distinction that trips up almost every family: **home health is the only kind of in-home care Medicare routinely covers**, and it does not include ongoing help with bathing, meals, or supervision. When a hospital discharge planner says "Medicare will cover home care," they mean a nurse or therapist visiting a few times a week for a few weeks - not a daily aide. Budget accordingly, and see [what Medicare and Medicaid each cover](/guides/medicaid-vs-medicare/).
+Here's the distinction that trips up almost every family: **Original Medicare may cover qualifying home-health services when the eligibility rules are met, including a need for part-time or intermittent skilled care**, and it generally does not pay for ongoing custodial help with bathing, meals, or supervision when that's the only care needed. When a hospital discharge planner says "Medicare will cover home care," they usually mean a nurse or therapist visiting a few times a week for a few weeks, not a daily aide. Confirm coverage with Medicare, the care team, and the agency, budget accordingly, and see [what Medicare and Medicaid each cover](/guides/medicaid-vs-medicare/). <span class="count">(Source: [Medicare home health services coverage](https://www.medicare.gov/coverage/home-health-services).)</span>
 
 ### Private-duty nursing
 

@@ -30,7 +30,7 @@ on each level when you're ready to go deeper.
 | [Skilled nursing](/guides/skilled-nursing/) | Medical care or 24/7 nursing supervision | Licensed nurses around the clock | $10,000 - $12,000 (private room) |
 | [Respite care](/guides/respite-care/) | Short stays: caregiver relief, recovery, or a trial run | Same as the level stayed in | $150 - $350 per day |
 | [CCRC / Life Plan](/guides/ccrc-life-plan-communities/) | Wants every level on one campus for life | All of the above, one address | Entrance fee + monthly fee |
-| [Hospice & palliative](/guides/hospice-and-palliative-care/) | Comfort-focused care near end of life | Nurse, aide, chaplain, social worker | Covered by Medicare |
+| [Hospice & palliative](/guides/hospice-and-palliative-care/) | Comfort-focused care near end of life | Nurse, aide, chaplain, social worker | Medicare covers hospice services; room and board may not be |
 
 </div>
 

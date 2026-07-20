@@ -35,7 +35,7 @@ One practical note: Medicare's hospice benefit pays for the hospice services, no
 
 ## What the family actually gets
 
-Hospice is fully covered by Medicare Part A - no deductible, essentially no cost to the family for anything related to the terminal illness. Medicaid and most private insurance mirror it. The benefit includes:
+For eligible beneficiaries, Medicare Part A covers the hospice services related to the terminal illness with little or no cost to the family, and Medicaid and most private insurance mirror it. One important exception: if your parent lives in an assisted living community or nursing home, the hospice benefit generally does not pay their room and board there, and care unrelated to the terminal illness is billed the usual way. Confirm what's covered with the hospice and Medicare. The benefit itself includes:
 
 - **Nurse visits** typically one to three times a week, more as needs increase, with a nurse on call 24/7 for emergencies.
 - **Hospice aides** for bathing and personal care, usually a few visits a week.

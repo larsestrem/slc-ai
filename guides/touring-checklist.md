@@ -22,6 +22,8 @@ Do your paper homework first so the tour confirms or contradicts the record, not
 
 Bring a notebook or use your phone. After three tours, the buildings blur together. Rate each facility on the same points so you can compare fairly.
 
+This page is about what to **observe**. For the questions to **ask**, bring our printable [Questions to Ask on a Tour](/tools/questions-to-ask/) - a tick-box list of the questions that reveal how a community really treats the people who live there.
+
 ## Use your senses first
 
 Your nose and ears will tell you things no brochure will.

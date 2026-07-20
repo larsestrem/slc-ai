@@ -1,10 +1,10 @@
 ---
 layout: guide
 title: "Senior Care Glossary: Every Term Families Actually Encounter"
-description: "Plain-English definitions of senior care terms - ADLs, care levels, CCRC contracts, Medicaid spend-down, MERP, respite, sundowning - with links to full guides."
+description: "Plain-English definitions of senior living terms and a quick A-to-Z of the abbreviations you'll meet on tours, contracts, and inspection records - ADL, ALF, CCRC, SNF, HCBS, MERP, SFF, POLST, and more."
 permalink: /guides/glossary/
 topic_group: choosing
-updated: 2026-07-12
+updated: 2026-07-20
 related:
   - /guides/levels-of-care-explained/
   - /guides/how-to-choose-a-senior-care-facility/
@@ -14,7 +14,54 @@ related:
 Senior care has a vocabulary problem: everyone in the industry speaks it, and no one hands
 families a dictionary. Here's ours - every term in plain English, with a link to the full
 guide when there's more to know. Bookmark it; you'll hit these words on every tour, contract,
-and phone call.
+and phone call. Start with the abbreviations, then read the fuller definitions below.
+
+## Abbreviations, A to Z
+
+The acronyms you'll see on brochures, contracts, and inspection records, with what each stands
+for. The fuller definitions are in the sections that follow.
+
+<div class="table-scroll" markdown="1">
+
+| Abbr. | Stands for |
+|---|---|
+| AAA | Area Agency on Aging (county aging-services hub) |
+| ADL | Activity of Daily Living (bathing, dressing, eating, toileting, transferring, continence) |
+| AFH | Adult Family Home (small residential care home) |
+| AL / ALF | Assisted Living (Facility) |
+| APS | Adult Protective Services |
+| CCN | CMS Certification Number (a nursing home's federal ID) |
+| CCRC | Continuing Care Retirement Community (Life Plan Community) |
+| CMS | Centers for Medicare & Medicaid Services |
+| CNA | Certified Nursing Assistant |
+| DNR | Do Not Resuscitate order |
+| DON | Director of Nursing |
+| DPOA | Durable Power of Attorney |
+| ED | Executive Director (community administrator) |
+| HCBS | Home and Community-Based Services (Medicaid waiver) |
+| IADL | Instrumental Activity of Daily Living (cooking, money, medications, driving) |
+| IJ | Immediate Jeopardy (the most serious inspection finding) |
+| IL | Independent Living |
+| LPN / LVN | Licensed Practical / Vocational Nurse |
+| LTC | Long-Term Care |
+| MC | Memory Care |
+| MDS | Minimum Data Set (the resident assessment behind quality measures) |
+| MERP | Medicaid Estate Recovery Program |
+| PACE | Program of All-Inclusive Care for the Elderly |
+| PBJ | Payroll-Based Journal (the staffing data CMS uses) |
+| POA | Power of Attorney |
+| POC | Plan of Correction (a facility's required fix after a citation) |
+| POLST / MOLST | Physician / Medical Orders for Life-Sustaining Treatment |
+| PT / OT / ST | Physical / Occupational / Speech Therapy |
+| QM | Quality Measures (part of the CMS star rating) |
+| RCFE | Residential Care Facility for the Elderly (California's term) |
+| RN | Registered Nurse |
+| SFF | Special Focus Facility (a nursing home under extra CMS scrutiny) |
+| SHIP | State Health Insurance Assistance Program (free Medicare counseling) |
+| SNF | Skilled Nursing Facility ("nursing home") |
+| VA | U.S. Department of Veterans Affairs |
+
+</div>
 
 ## Care and daily living
 
@@ -50,6 +97,7 @@ and phone call.
 - **VA Aid & Attendance** - a Veterans Affairs pension add-on that helps qualifying veterans and surviving spouses pay for care.
 - **Medicare vs. Medicaid** - Medicare covers short-term skilled care only; Medicaid covers long-term nursing home care (and some assisted living via waivers) for people with limited assets. [The full comparison](/guides/medicaid-vs-medicare/).
 - **HCBS waiver** - a state Medicaid program (every state names its own) that pays for care outside nursing homes - assisted living, small homes, or in-home care. Often waitlisted.
+- **PACE (Program of All-Inclusive Care for the Elderly)** - a Medicare/Medicaid program that coordinates all of a frail person's care so they can keep living at home; available only in areas with a PACE organization.
 - **Spend-down** - using up assets on care until Medicaid's financial limits are reached.
 - **Look-back period** - Medicaid's review of the past 5 years of financial transfers; gifts in that window can delay eligibility.
 - **Spousal impoverishment protections** - Medicaid rules letting the at-home spouse keep a portion of income and assets.
@@ -58,12 +106,20 @@ and phone call.
 
 ## Quality and oversight
 
-- **CMS / Care Compare / five-star rating** - the federal rating for nursing homes, built from inspections, staffing data, and quality measures (not consumer reviews). [What the stars mean](/guides/reading-inspection-reports-and-ratings/).
+- **CMS / Care Compare / five-star rating** - the federal rating for nursing homes, built from health inspections, staffing data, and quality measures (not consumer reviews). The components use different data sources, so read them separately. [What the stars mean](/guides/reading-inspection-reports-and-ratings/).
 - **CCN** - a nursing home's CMS Certification Number; the key to its federal record.
-- **Survey / citation / deficiency** - an inspection, and the findings when a rule isn't met; comes with a required **plan of correction**. [How to read records fairly](/guides/checking-complaints-and-state-records/).
-- **Substantiated complaint** - an allegation the state investigated and confirmed. One ≠ disqualifying; patterns are. 
+- **Survey / citation / deficiency** - an inspection, and the findings when a rule isn't met; comes with a required **plan of correction (POC)**. [How to read records fairly](/guides/checking-complaints-and-state-records/).
+- **F-tag** - the code number for a specific federal nursing-home requirement in an inspection report (for example, F689 for accident hazards); the tag tells you which rule the finding is about.
+- **Scope and severity** - the grid (letters A to L) surveyors use to rate how serious and widespread a deficiency is; higher letters are worse.
+- **Immediate Jeopardy (IJ)** - the most serious finding: a situation that has caused or is likely to cause serious harm. Rare, and a strong signal.
+- **Special Focus Facility (SFF)** - a nursing home CMS has flagged for a persistent pattern of serious problems and put under extra inspection; there is also an SFF "candidate" list. Worth knowing if a facility appears on either.
+- **Substantiated complaint** - an allegation the state investigated and confirmed. One is not disqualifying; patterns are.
+- **MDS (Minimum Data Set)** - the standardized resident assessment nursing homes submit; much of the quality-measure score is built from it.
+- **PBJ (Payroll-Based Journal)** - the payroll-based staffing data facilities report to CMS, used for the staffing rating.
 - **Long-Term Care Ombudsman** - a public advocate for residents in every region; free to call, knows every building's reputation.
 - **Area Agency on Aging (AAA)** - your county's public aging-services hub; free options counseling. Find yours via the **Eldercare Locator** (1-800-677-1116).
+- **SHIP (State Health Insurance Assistance Program)** - free, unbiased Medicare counseling in every state; the place to take coverage and billing questions.
+- **Adult Protective Services (APS)** - the state agency that investigates suspected abuse, neglect, or financial exploitation of vulnerable adults.
 - **Staffing ratio** - residents per caregiver on a shift; rarely published, always worth asking. [What to ask](/guides/staffing-ratios/).
 
 ## People you'll meet
@@ -73,6 +129,22 @@ and phone call.
 - **Discharge planner** - the hospital staffer arranging where a patient goes next, often on a 24-48 hour clock.
 - **Med tech / medication aide** - trained (non-nurse) staff who administer routine medications in assisted living, where state rules allow.
 - **CNA (Certified Nursing Assistant)** - the certified caregivers who provide most hands-on care in nursing facilities.
+- **RN (Registered Nurse)** - the highest routine nursing license; assesses residents, manages care plans, and handles clinical decisions. Ask whether an RN is in the building overnight or only on call.
+- **LPN / LVN (Licensed Practical / Vocational Nurse)** - a licensed nurse who gives medications and treatments under an RN's direction.
+- **Director of Nursing (DON)** - the nurse who runs clinical care for the whole community; their tenure is worth asking about, since turnover here often shows up in care.
+- **Executive Director (ED) / administrator** - the person who runs the community day to day. Leadership churn tends to drive staff churn. [Why tenure matters](/guides/warning-signs-when-choosing-a-facility/).
+
+## Legal and medical directives
+
+These come up in admission paperwork and care planning. Definitions vary by state, and none of
+this is legal or medical advice - confirm the specifics with an elder law attorney and your
+parent's doctor.
+
+- **Advance directive** - the umbrella term for written instructions about future care, including a living will and a health-care power of attorney.
+- **Power of Attorney (POA) / Durable POA (DPOA)** - a document letting someone act for your parent on financial or health matters; "durable" means it stays in effect if your parent loses capacity. Communities often ask who holds it.
+- **DNR (Do Not Resuscitate)** - a medical order not to perform CPR if the heart or breathing stops; it does not mean "do not treat."
+- **POLST / MOLST** - portable medical orders (Physician/Medical Orders for Life-Sustaining Treatment) that travel with your parent across settings; the name and form differ by state.
+- **Guardianship / conservatorship** - a court-appointed authority to make decisions for someone who can no longer make their own; a last resort, since it removes rights. Talk to an attorney before pursuing it.
 
 Missing a term you ran into? Email us - if one family hit it, others will:
 **hello@senior.living.community**.

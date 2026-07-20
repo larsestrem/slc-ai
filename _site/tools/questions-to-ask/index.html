@@ -312,6 +312,27 @@ tbody tr:hover { background: var(--soft); }
   concerns would be handled. Do that paper homework first so the visit confirms or contradicts
   the record rather than replacing it.</p>
 
+  <div class="q-visit">
+    <label for="qn-facility"><strong>Community</strong></label>
+    <input type="text" id="qn-facility" placeholder="Community name">
+    <label for="qn-date"><strong>Visit date</strong></label>
+    <input type="text" id="qn-date" placeholder="e.g. July 20">
+  </div>
+
+  <p class="notice"><strong>After the visit, before you drive off:</strong> sit in the car and
+  write your honest impression in each section's notes box below, while it's fresh. After three
+  tours the buildings blur together, and in a stressful search you won't remember which place had
+  the quiet dining room or the caregiver who knew everyone's name. Writing it down now is what
+  lets you compare fairly later, instead of straining to recall which facility was which.</p>
+
+  <p class="notice"><strong>Save it, but print it.</strong> Your entries save in this browser so
+  they're here when you come back - but that copy lives only on this device, holds one community
+  at a time, and can be lost if you clear your browser, switch devices, or start notes for the
+  next tour. <strong>Print or save a PDF of each community's notes at your earliest
+  opportunity</strong>, then clear and start fresh for the next visit.
+  <button class="btn ghost" onclick="window.print()" style="font-size:.85em;padding:.25rem .7rem">Print / save PDF</button>
+  <button class="btn ghost" id="ws-clear" style="font-size:.85em;padding:.25rem .7rem">Clear for a new community</button></p>
+
   <div class="qlist">
 
     <section aria-labelledby="q-life">
@@ -326,6 +347,11 @@ tbody tr:hover { background: var(--soft); }
         <li><label><input type="checkbox"> What would my parent get to decide for themselves - wake time, bath time, when and what to eat? <span class="q-src">(<a href="/guides/activities-and-engagement/">daily life &amp; autonomy</a>)</span></label></li>
         <li><label><input type="checkbox"> Can we visit my parent any time, or only during set hours? Can family join their meals and activities?</label></li>
       </ul>
+    
+      <div class="q-notes">
+        <label for="qn-life"><strong>Your notes after the visit</strong> - the person's daily life</label>
+        <textarea id="qn-life" rows="3" placeholder="Meals, activities, how residents spent the day, how much choice your parent would have. How did it feel?"></textarea>
+      </div>
     </section>
 
     <section aria-labelledby="q-staff">
@@ -343,6 +369,11 @@ tbody tr:hover { background: var(--soft); }
       here?"</em> If nobody is past their first year, you have the turnover number without asking
       management. Ask residents and visiting families: <em>"When you press the button, how long
       does it take?"</em></p>
+    
+      <div class="q-notes">
+        <label for="qn-staff"><strong>Your notes after the visit</strong> - care &amp; staffing</label>
+        <textarea id="qn-staff" rows="3" placeholder="The staffing answers you got, and your read on the caregivers - did they know residents by name? Rushed or present?"></textarea>
+      </div>
     </section>
 
     <section aria-labelledby="q-change">
@@ -354,6 +385,11 @@ tbody tr:hover { background: var(--soft); }
         <li><label><input type="checkbox"> What conditions can you not care for here, so we know the ceiling before we move in?</label></li>
         <li><label><input type="checkbox"> If my parent needs memory care later, is it on this campus, and what does that transition look like?</label></li>
       </ul>
+    
+      <div class="q-notes">
+        <label for="qn-change"><strong>Your notes after the visit</strong> - when needs change</label>
+        <textarea id="qn-change" rows="3" placeholder="What they said happens as needs grow, and whether the ceiling fits your parent."></textarea>
+      </div>
     </section>
 
     <section aria-labelledby="q-concerns">
@@ -366,6 +402,11 @@ tbody tr:hover { background: var(--soft); }
         <li><label><input type="checkbox"> Tell me about a complaint you received recently and what changed because of it.</label></li>
         <li><label><input type="checkbox"> How do you make sure a family that raises a concern is never treated differently for it?</label></li>
       </ul>
+    
+      <div class="q-notes">
+        <label for="qn-concerns"><strong>Your notes after the visit</strong> - how they handle concerns</label>
+        <textarea id="qn-concerns" rows="3" placeholder="How they described handling a concern - did it sound like a real process, or a brush-off?"></textarea>
+      </div>
     </section>
 
     <section aria-labelledby="q-money">
@@ -381,6 +422,11 @@ tbody tr:hover { background: var(--soft); }
         <li><label><input type="checkbox"> Does anything in this agreement make me personally liable if my parent's funds run out?</label></li>
         <li><label><input type="checkbox"> Are you waiving the community or move-in fee this month? <span class="q-src">(the single most negotiable charge)</span></label></li>
       </ul>
+    
+      <div class="q-notes">
+        <label for="qn-money"><strong>Your notes after the visit</strong> - the real cost &amp; contract</label>
+        <textarea id="qn-money" rows="3" placeholder="The numbers you got in writing, the extras, the Medicaid answer, and anything in the contract to revisit."></textarea>
+      </div>
     </section>
 
     <section aria-labelledby="q-after">
@@ -392,6 +438,11 @@ tbody tr:hover { background: var(--soft); }
         <li><label><input type="checkbox"> Score every finalist on the same points with our <a href="/tools/comparison-worksheet/">comparison worksheet</a>.</label></li>
         <li><label><input type="checkbox"> Sleep on it before signing. A tour is a first impression; a contract is hard to unwind.</label></li>
       </ul>
+    
+      <div class="q-notes">
+        <label for="qn-after"><strong>Your notes after the visit</strong> - before you decide</label>
+        <textarea id="qn-after" rows="3" placeholder="Follow-ups still to do, and your overall gut feeling - would your parent feel at home here? Why?"></textarea>
+      </div>
     </section>
 
   </div>
@@ -419,13 +470,80 @@ tbody tr:hover { background: var(--soft); }
 .qlist label { display: flex; gap: .6rem; align-items: baseline; padding: .55rem .2rem; cursor: pointer; }
 .qlist input[type=checkbox] { flex: 0 0 auto; width: 1.05rem; height: 1.05rem; margin-top: .15rem; accent-color: var(--accent); }
 .qlist .q-src { color: var(--muted); font-size: .85rem; }
+.q-visit { margin: .8rem 0 1rem; display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem 1.2rem; }
+.q-visit label { font-size: .9rem; }
+.q-visit input { border: 1px solid var(--line); border-radius: 6px; padding: .35rem .5rem; font: inherit; background: var(--bg); color: var(--ink); margin-left: .3rem; }
+.q-notes { margin: .7rem 0 .2rem; }
+.q-notes label { display: block; font-size: .9rem; margin-bottom: .25rem; color: var(--muted); }
+.q-notes textarea { width: 100%; border: 1px solid var(--line); border-radius: 6px; padding: .45rem .55rem; font: inherit; font-size: .92rem; background: var(--bg); color: var(--ink); }
 @media print {
   .site-header, .site-footer, .crumbs, .btn, .notice { display: none !important; }
   .qlist input[type=checkbox] { -webkit-appearance: none; appearance: none; border: 1px solid #333; border-radius: 2px; }
   .qlist li { break-inside: avoid; }
+  .q-visit input { border: none; border-bottom: 1px solid #333; border-radius: 0; min-width: 12rem; }
+  .q-notes textarea { border: 1px solid #999; min-height: 4em; }
+  .q-notes, .q-visit { break-inside: avoid; }
   h1 { margin-top: 0; }
 }
 </style>
+<script>
+window.WSPersist = function (opts) {
+  opts = opts || {};
+  var KEY = "slc-ws:" + (opts.key || location.pathname);
+  function els() {
+    return [].slice.call(document.querySelectorAll("input, textarea, select"))
+      .filter(function (el) {
+        var t = el.type;
+        return (el.id || el.name) && t !== "submit" && t !== "button" && t !== "hidden";
+      });
+  }
+  function k(el) { return el.id || el.name; }
+  function save() {
+    var d = {};
+    els().forEach(function (el) {
+      d[k(el)] = (el.type === "checkbox" || el.type === "radio") ? el.checked : el.value;
+    });
+    try { localStorage.setItem(KEY, JSON.stringify(d)); } catch (e) {}
+  }
+  function restore() {
+    var raw; try { raw = localStorage.getItem(KEY); } catch (e) { return false; }
+    if (!raw) return false;
+    var d; try { d = JSON.parse(raw); } catch (e) { return false; }
+    els().forEach(function (el) {
+      var key = k(el);
+      if (!(key in d)) return;
+      if (el.type === "checkbox" || el.type === "radio") el.checked = !!d[key];
+      else el.value = d[key];
+    });
+    return true;
+  }
+  restore();
+  document.addEventListener("input", save);
+  document.addEventListener("change", save);
+  var clr = document.getElementById("ws-clear");
+  if (clr) clr.addEventListener("click", function () {
+    if (!window.confirm("Clear everything you've typed on this worksheet? This can't be undone.")) return;
+    try { localStorage.removeItem(KEY); } catch (e) {}
+    els().forEach(function (el) {
+      if (el.type === "checkbox" || el.type === "radio") el.checked = el.defaultChecked;
+      else if (el.tagName === "SELECT") {
+        for (var i = 0; i < el.options.length; i++) { if (el.options[i].defaultSelected) { el.selectedIndex = i; break; } }
+      } else el.value = el.defaultValue;
+    });
+    if (opts.onClear) opts.onClear();
+  });
+  return { save: save, restore: restore };
+};
+</script>
+
+<script>
+(function () {
+  // Give the checklist boxes stable ids so their ticked state persists too.
+  var boxes = document.querySelectorAll(".qlist input[type=checkbox]");
+  for (var i = 0; i < boxes.length; i++) { if (!boxes[i].id) boxes[i].id = "qc-" + i; }
+  WSPersist();
+})();
+</script>
 
   </main>
   <footer class="site-footer">

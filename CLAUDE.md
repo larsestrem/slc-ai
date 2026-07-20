@@ -4,6 +4,23 @@ Jekyll static site (Cloudflare Pages). Build with `jekyll build`; layouts in
 `_layouts/`, shared partials and inlined CSS in `_includes/`, facility profiles
 in `directory/<state>/<county>/<city>/<facility>/index.md`.
 
+## PRE-LAUNCH: the site is blocked from search indexing (do not remove)
+
+The whole site is deliberately kept out of search results while it's being built.
+`noindex_site: true` in `_config.yml` makes every page emit
+`<meta name="robots" content="noindex, nofollow">` and makes `robots.txt` disallow all
+crawlers. This is intentional and MUST stay until the owner explicitly says the site is
+ready to go live.
+
+- **Never** set `noindex_site` to false, or strip the meta/robots block, as a "cleanup" or
+  because it looks like a bug. Removing it is a **launch step**, done only on the owner's
+  explicit go-live instruction. See `docs/LAUNCH-CHECKLIST.md`.
+- Staging lives at `slc-ai.pages.dev`; the live domain will be `senior.living.community`.
+- **Reminder rule:** as soon as the owner starts sharing live `senior.living.community`
+  links, or otherwise treats the site as live, remind them the noindex/nofollow block is
+  still in place and ask whether they're ready to remove it. Keep reminding on each such
+  occasion until the owner confirms the site is ready to be indexed. Only then remove the block.
+
 ## Content rules (apply to ALL content: pages, front matter, layouts, comments)
 
 - **No long dashes, ever.** Never use em dashes or en dashes in any

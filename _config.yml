@@ -1,4 +1,15 @@
 # senior.living.community - Jekyll configuration
+
+# ==========================================================================
+# PRE-LAUNCH INDEXING BLOCK - do not remove without the owner's explicit go-live
+# While noindex_site is true, every page emits <meta robots noindex, nofollow>
+# and robots.txt disallows all crawlers, so the staging site (slc-ai.pages.dev)
+# stays out of search results. Setting this to false is a deliberate LAUNCH step,
+# never a cleanup. Only the owner decides when the site goes live on
+# senior.living.community. See docs/LAUNCH-CHECKLIST.md.
+noindex_site: true
+# ==========================================================================
+
 title: Senior Living Community
 tagline: An independent guide to evaluating and choosing the right senior care for your loved one
 description: >-

@@ -1,4 +1,3 @@
+# PRE-LAUNCH: this site is not ready to be indexed. Please do not crawl or index.
 User-agent: *
-Allow: /
-
-Sitemap: https://senior.living.community/sitemap.xml
+Disallow: /

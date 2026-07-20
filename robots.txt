@@ -2,7 +2,13 @@
 layout: null
 permalink: /robots.txt
 ---
+{% if site.noindex_site -%}
+# PRE-LAUNCH: this site is not ready to be indexed. Please do not crawl or index.
+User-agent: *
+Disallow: /
+{%- else -%}
 User-agent: *
 Allow: /
 
 Sitemap: {{ "/sitemap.xml" | absolute_url }}
+{%- endif %}

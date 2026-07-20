@@ -21,17 +21,22 @@ difference between a facility with a problem and a facility that solves problems
 
 ## Where to look, state by state
 
+The shortcut: every facility profile in our directory links its state record in the
+"Ratings & reviews" panel - for many communities we link the facility's own record page
+directly, so inspections and substantiated violations are one click away. The table below
+is for checking any facility, listed here or not.
+
 | State | Where to check | What you'll find |
 |---|---|---|
 | Oregon | [Oregon LTC Licensing search](https://ltclicensing.oregon.gov/) | Licenses, inspection history, substantiated complaints and abuse findings - one of the most transparent systems in the country |
 | California | [CDSS Care Facility Search](https://www.ccld.dss.ca.gov/carefacilitysearch/) (assisted living/RCFE) and [Cal Health Find](https://www.cdph.ca.gov/Programs/CHCQ/LCP/CalHealthFind/) (nursing homes) | Inspection reports, complaint counts and outcomes, citations |
 | Washington | [DSHS facility lookup](https://fortress.wa.gov/dshs/adsaapps/lookup/) | Licenses, inspection and enforcement history for [assisted living](/guides/assisted-living/) and [adult family homes](/guides/adult-family-homes/) |
 | Arizona | [AZ Care Check](https://azcarecheck.azdhs.gov/) | Inspections and enforcement actions for licensed care facilities |
-| Nevada | [Bureau of Health Care Quality & Compliance](https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/) | Licensing and survey information |
-| Idaho | [Bureau of Facility Standards](https://healthandwelfare.idaho.gov/) | Survey and complaint investigation letters (request if not posted) |
-| Utah | [Utah DHHS facility licensing](https://dhhs.utah.gov/licensing/) | License status and findings |
-| Colorado | [CDPHE health facility search](https://cdphe.colorado.gov/health-facilities) | Licenses, occurrences, and survey findings |
-| Hawaii | [Office of Health Care Assurance](https://health.hawaii.gov/ohca/) | Inspection reports for licensed facilities |
+| Nevada | [DPBH health facility locator](https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/) | Licensing and survey information |
+| Idaho | [Idaho DHW find-a-facility](https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency) | Survey and complaint investigation letters (request if not posted) |
+| Utah | [Utah DLBC facility search](https://provider.dlbc.utah.gov/ccl/facilities) | License status and findings |
+| Colorado | [CDPHE find-and-compare](https://cdphe.colorado.gov/health-facilities/find-and-compare-facilities) | Licenses, occurrences, and survey findings |
+| Hawaii | [OHCA inspection reports](https://health.hawaii.gov/ohca/inspection-reports/) | Inspection reports for licensed facilities |
 | Any state - nursing homes | [Medicare Care Compare](https://www.medicare.gov/care-compare/) | Federal inspections, staffing data, penalties, and star ratings for every certified SNF |
 
 Two more sources worth a call anywhere: your **Long-Term Care Ombudsman** (resident advocates

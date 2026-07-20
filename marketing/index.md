@@ -43,9 +43,10 @@ That flywheel is what we build marketing around - not clicks for their own sake.
 **[Ad Grant Management](/marketing/ad-grants/)** - for nonprofit communities. Google gives
 eligible 501(c)(3) organizations **$10,000/month** in donated search advertising, and most
 nonprofit communities never collect a dollar of it.
-We secure the grant and run it: **$2,000/month, 6-month minimum**. If we can't get your grant
-approved, you owe nothing. If your campaigns don't reach the traffic minimum, the setup fee
-comes back. For-profit communities get the same management on a conventional ad budget.
+We secure the grant and run it: **$2,000/month, 6-month minimum**. If we can't get your
+[grant approved](#how-our-guarantees-work), you owe nothing. If your campaigns don't reach the
+[traffic minimum](#how-our-guarantees-work), the setup fee comes back. For-profit communities
+get the same management on a conventional ad budget.
 
 **[Website Optimization](/marketing/website-optimization/)** - traffic only matters if it
 converts. We audit and fix the things that quietly cost you tours: slow pages, confusing
@@ -73,6 +74,22 @@ landing pages and lead forms that bring them to you. Tell us what your community
 we'll build the campaign that finds it. (Retention still starts inside the building - see
 the staffing section of [our free playbook](/marketing/best-practices/) - but a full
 applicant pipeline changes everything about how it feels to run one.)
+
+## How our guarantees work
+
+We put real money behind two promises, so we define them plainly and agree the numbers with you
+in writing before any work starts.
+
+- **"Grant approved"** means Google accepts your community into its Ad Grants program, the
+  $10,000/month in donated search advertising. If we take on your application and Google doesn't
+  approve it, you owe us nothing.
+- **"Traffic minimum"** is a specific, qualified-traffic target we set with you in writing before
+  we begin and measure at the six-month mark. It counts real, in-region visitors, not bots or
+  out-of-area clicks that never become residents, and we set it against the source and quality of
+  the traffic you already have. For most communities that target is at least a 25% increase in
+  qualified visits over six months; where your current traffic is thin or mostly irrelevant, we're
+  effectively rebuilding it from scratch, so we'll agree a number that's honest for your starting
+  point. If we don't reach the figure we agreed to, your setup fee comes back.
 
 ## One community per market
 

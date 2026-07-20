@@ -24,7 +24,9 @@ organization_name: "Atria Senior Living"
 sources: ["https://reviews.birdeye.com/atria-willow-glen-157256561792200", "https://www.aplaceformom.com/community/atria-willow-glen-58456", "https://www.atriaseniorliving.com/retirement-communities/atria-willow-glen-san-jose-ca"]
 verified_date: "2026-07-19"
 description_full: "Large independent living, assisted living, and memory care community about four miles from downtown San Jose in the Willow Glen area. Operated by Atria Senior Living."
-review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/atria-willow-glen-157256561792200"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-willow-glen-58456"}]
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/atria-willow-glen-157256561792200"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-willow-glen-58456"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/atria-willow-glen-san-jose"}]
 reviews_search_url: "https://www.google.com/search?q=Atria+Willow+Glen+San+Jose+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/435200605"
+license_id: "435200605"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

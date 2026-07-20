@@ -24,7 +24,7 @@ organization_name: "HumanGood"
 sources: ["https://www.yelp.com/biz/morningside-of-fullerton-fullerton-2", "https://morningsideoffullerton.com/", "https://www.caring.com/senior-living/california/fullerton/morningside-of-fullerton", "https://health.usnews.com/best-senior-living/morningside-of-fullerton-4146"]
 verified_date: "2026-07-19"
 description_full: "Morningside of Fullerton is a Life Plan Community (CCRC) set on 33 landscaped acres in north Orange County, offering independent living, assisted living, memory care and skilled nursing. Resort-style amenities include golf, pickleball, bocce, a saltwater pool, fitness center and spa, and multiple dining venues, with more than 200 monthly classes, clubs and activities."
-review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/morningside-of-fullerton-fullerton-2"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/fullerton/morningside-of-fullerton"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/morningside-of-fullerton-4146"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/morningside-of-fullerton-fullerton-2"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/fullerton/morningside-of-fullerton"}]
 reviews_search_url: "https://www.google.com/search?q=Morningside+of+Fullerton+Fullerton+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

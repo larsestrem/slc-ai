@@ -25,5 +25,7 @@ verified_date: "2026-07-19"
 description_full: "Quail Park on Cypress is a senior living campus across from Kaweah Health Medical Center's Cypress campus, offering independent living, assisted living, and memory care in studio to two-bedroom residences."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/quail-park-on-cypress-96164"}, {"name": "Birdeye", "url": "https://birdeye.com/quail-park-on-cypress-171380378697619"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/visalia/quail-park-on-cypress"}]
 reviews_search_url: "https://www.google.com/search?q=Quail+Park+on+Cypress+Visalia+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/547201356"
+license_id: "547201356"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

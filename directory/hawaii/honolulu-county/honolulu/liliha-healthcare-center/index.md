@@ -24,4 +24,5 @@ verified_date: "2026-07-14"
 records_note: true
 description_full: "Liliha Healthcare Center is a 92-bed Medicare- and Medicaid-certified skilled nursing facility in the Liliha neighborhood of Honolulu, offering short-term rehabilitation and long-term nursing care."
 reviews_search_url: "https://www.google.com/search?q=Liliha+Healthcare+Center+Honolulu+HI+reviews"
+records_url: "https://health.hawaii.gov/ohca/files/2021/06/liliha-healthcare-center-snf-2021-state-sod.pdf"
 ---

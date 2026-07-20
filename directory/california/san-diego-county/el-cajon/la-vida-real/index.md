@@ -27,5 +27,7 @@ verified_date: "2026-07-19"
 description_full: "La Vida Real is a Spanish-style senior living community on 11 landscaped acres in the Rancho San Diego area of El Cajon, licensed for 177 beds. It offers independent living, assisted living, and memory care, plus The Club program for early- to mid-stage memory loss, and is the only CARF-accredited senior living community in East County San Diego."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/la-vida-real-el-cajon"}]
 reviews_search_url: "https://www.google.com/search?q=La+Vida+Real+El+Cajon+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/374603565"
+license_id: "374603565"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

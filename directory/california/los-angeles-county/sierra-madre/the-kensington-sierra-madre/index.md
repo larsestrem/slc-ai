@@ -23,7 +23,9 @@ organization_name: "Kensington Senior Living"
 sources: ["https://www.seniorly.com/assisted-living/california/sierra-madre/the-kensington-sierra-madre", "https://thekensingtonsierramadre.com/"]
 verified_date: "2026-07-19"
 description_full: "The Kensington Sierra Madre is an assisted living and memory care community near Arcadia in the San Gabriel Valley foothills."
-review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/california/sierra-madre/the-kensington-sierra-madre"}]
+review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/california/sierra-madre/the-kensington-sierra-madre"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-kensington-sierra-madre-sierra-madre"}]
 reviews_search_url: "https://www.google.com/search?q=The+Kensington+Sierra+Madre+Sierra+Madre+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/198601953"
+license_id: "198601953"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

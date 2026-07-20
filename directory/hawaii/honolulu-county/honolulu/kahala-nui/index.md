@@ -24,4 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Kahala Nui is a nonprofit continuing care retirement community in Honolulu's Kahala neighborhood, offering independent living, the Hi'olani Assisted Living Center (67 licensed beds), memory care, and the 20-bed Hi'olani Care Center skilled nursing unit."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/hi%CA%BBolani-care-center-at-k%C4%81hala-nui-125055"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/kahala-nui-honolulu-2"}]
 reviews_search_url: "https://www.google.com/search?q=Kahala+Nui+Honolulu+HI+reviews"
+records_url: "https://health.hawaii.gov/ohca/files/2025/07/Hiolani-Assisted-Living-Center-at-Kahala-Nui-ALF-2.18-2.19.25.pdf"
 ---

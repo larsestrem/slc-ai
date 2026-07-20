@@ -23,5 +23,7 @@ verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community on North Wells Road in east Ventura. Amenities include a gym, library, game room, and on-site salon."
 review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/the-palms-at-bonaventure-ventura-ca"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/palms-at-bonaventure-140876"}]
 reviews_search_url: "https://www.google.com/search?q=The+Palms+at+Bonaventure+Ventura+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/565802467"
+license_id: "565802467"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

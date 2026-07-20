@@ -23,5 +23,7 @@ verified_date: "2026-07-14"
 description_full: "Myles Care Home is a small, state-licensed Adult Residential Care Home (ARCH Level 1) in a residential neighborhood of Kahului, Maui, licensed for 5 residents. It offers individualized assistance with daily living activities."
 review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/kahului/myles-care-home"}]
 reviews_search_url: "https://www.google.com/search?q=Myles+Care+Home+Kahului+HI+reviews"
+records_url: "https://health.hawaii.gov/ohca/files/2023/11/Myles-Care-Home-ARCH-2.28.23.pdf"
+license_id: "1051-C"
 licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/inspection-reports/"}
 ---

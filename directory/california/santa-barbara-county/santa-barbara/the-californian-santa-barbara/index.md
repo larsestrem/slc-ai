@@ -24,6 +24,5 @@ cms_ccn: "055684"
 sources: ["https://www.californiancare.com/", "https://health.usnews.com/best-nursing-homes/area/ca/the-californian-055684"]
 verified_date: "2026-07-19"
 description_full: "Skilled nursing and rehabilitation facility on De La Vina Street that has served the Santa Barbara community since 1963."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/the-californian-055684"}]
 reviews_search_url: "https://www.google.com/search?q=The+Californian+Santa+Barbara+CA+reviews"
 ---

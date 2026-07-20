@@ -21,8 +21,9 @@ facility_size: "medium"
 capacity: 40
 cms_ccn: "125050"
 sources: ["https://www.nursinghomesite.com/HALE_MALAMALAMA_HONOLULU_HI", "https://health.usnews.com/best-nursing-homes/area/hi/hale-malamalama-125050", "https://www.healthcare4ppl.com/nursing-home/hawaii/honolulu/hale-malamalama-125050.html"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Hale Malamalama is a small, for-profit, Medicare- and Medicaid-certified skilled nursing facility in the Niu Valley area of Honolulu, licensed for 40 beds."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/hale-malamalama-125050"}]
 reviews_search_url: "https://www.google.com/search?q=Hale+Malamalama+Honolulu+HI+reviews"
+records_url: "https://health.hawaii.gov/ohca/files/2023/06/hale-malamalama-State-poc-10.06.2022.pdf"
 ---

@@ -23,7 +23,9 @@ organization_name: "Atria Senior Living"
 sources: ["https://www.atriaseniorliving.com/retirement-communities/atria-carmichael-oaks-carmichael-ca/", "https://www.yelp.com/biz/atria-carmichael-oaks-carmichael"]
 verified_date: "2026-07-19"
 description_full: "Atria Carmichael Oaks is a senior living community on Fair Oaks Boulevard in Carmichael, in the Sacramento metro area, next to Jensen Botanical Garden. It offers independent living, assisted living, and memory care with 24-hour staff, and is operated by Atria Senior Living."
-review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/atria-carmichael-oaks-carmichael"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/atria-carmichael-oaks-carmichael"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-carmichael-oaks-59080"}]
 reviews_search_url: "https://www.google.com/search?q=Atria+Carmichael+Oaks+Carmichael+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/347005251"
+license_id: "347005251"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

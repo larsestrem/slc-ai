@@ -26,5 +26,7 @@ verified_date: "2026-07-19"
 description_full: "An Atria assisted living and memory care community in Ventura County."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-las-posas-56350"}]
 reviews_search_url: "https://www.google.com/search?q=Atria+Las+Posas+Camarillo+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/565800476"
+license_id: "565800476"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

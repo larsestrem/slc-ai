@@ -21,6 +21,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-n
 facility_size: "large"
 cms_ccn: "555769"
 sources: ["https://www.caring.com/senior-living/california/davis/university-retirement-community-95616", "https://www.medicare.gov/care-compare/details/nursing-home/555769/view-all/?state=CA", "https://hcai.ca.gov/facility/university-retirement-community-at-davis/"]
+records_note: true
 verified_date: "2026-07-19"
 description_full: "University Retirement Community is a nonprofit continuing care retirement community near UC Davis offering independent living, assisted living, memory care, and a 37-bed Medicare-certified skilled nursing unit."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/davis/university-retirement-community-95616"}]

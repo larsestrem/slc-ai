@@ -24,7 +24,9 @@ organization_name: "Meridian Senior Living"
 sources: ["https://www.aplaceformom.com/community/cypress-place-100577", "https://www.assistedliving.org/california/ventura/cypress-place-assisted-living/"]
 verified_date: "2026-07-19"
 description_full: "A Meridian Senior Living community in Ventura offering independent living, assisted living, and memory care."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cypress-place-100577"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cypress-place-100577"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/cypress-place-senior-living-ventura"}]
 reviews_search_url: "https://www.google.com/search?q=Cypress+Place+Ventura+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/565801008"
+license_id: "565801008"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

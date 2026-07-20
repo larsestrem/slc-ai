@@ -22,7 +22,7 @@ facility_size: "medium"
 sources: ["https://www.caring.com/senior-living/california/visalia/prestige-assisted-living-at-visalia-93278", "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497"]
 verified_date: "2026-07-19"
 description_full: "An assisted living and memory care community in Visalia (formerly Prestige Assisted Living at Visalia)."
-review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/visalia/prestige-assisted-living-at-visalia-93278"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/prestige-assisted-living-at-visalia-56497"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/visalia/marbella-visalia"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/prestige-assisted-living-in-visalia-visalia"}]
 reviews_search_url: "https://www.google.com/search?q=Marbella+Visalia+Visalia+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

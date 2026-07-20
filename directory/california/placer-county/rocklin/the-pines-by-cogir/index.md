@@ -23,7 +23,7 @@ organization_name: "Cogir Senior Living"
 sources: ["https://www.aplaceformom.com/community/the-pines-a-merrill-gardens-community-1375534", "https://cogirusa.com/communities/the-pines-by-cogir/", "https://www.caring.com/senior-living/california/rocklin/the-pines-a-merrill-gardens-community-95765"]
 verified_date: "2026-07-19"
 description_full: "An independent living, assisted living, and memory care community in Rocklin, formerly operated as The Pines, A Merrill Gardens Community, and now part of Cogir Senior Living. The campus sits in the Whitney Ranch area of west Rocklin."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-pines-a-merrill-gardens-community-1375534"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/rocklin/the-pines-a-merrill-gardens-community-95765"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-pines-a-merrill-gardens-community-1375534"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/rocklin/the-pines-a-merrill-gardens-community-95765"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-pines-a-merrill-gardens-community-rocklin-2"}]
 reviews_search_url: "https://www.google.com/search?q=The+Pines+by+Cogir+Rocklin+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

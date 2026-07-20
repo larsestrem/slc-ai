@@ -21,6 +21,7 @@ care_levels: ["independent-living", "assisted-living", "memory-care", "respite-c
 sources: ["https://www.assistedlivingcenter.com/facilities/ca/banning/lakes-banning-assisted-living-92220/", "https://www.thelakesatbanning.com/"]
 verified_date: "2026-07-19"
 description_full: "The Lakes at Banning is a senior living community next to the Sun Lakes Country Club offering independent living, assisted living, memory care, and respite care."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-lakes-senior-living-142934"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-lakes-banning-3"}]
 reviews_search_url: "https://www.google.com/search?q=The+Lakes+at+Banning+Banning+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

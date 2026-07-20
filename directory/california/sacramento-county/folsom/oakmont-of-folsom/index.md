@@ -27,5 +27,7 @@ verified_date: "2026-07-19"
 description_full: "Oakmont of Folsom is a luxury assisted living and memory care community on Creekside Drive with 73 licensed beds."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-folsom-1369588"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/folsom/oakmont-of-folsom-95630"}]
 reviews_search_url: "https://www.google.com/search?q=Oakmont+of+Folsom+Folsom+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/347005427"
+license_id: "347005427"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

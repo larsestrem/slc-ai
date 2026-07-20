@@ -22,7 +22,9 @@ facility_size: "large"
 sources: ["https://www.aplaceformom.com/community/ventura-townehouse-73413"]
 verified_date: "2026-07-19"
 description_full: "Ventura Townehouse is a large assisted living and memory care community in Ventura, offering extensive activities and maintained grounds."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/ventura-townehouse-73413"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/ventura-townehouse-73413"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-ventura-townehouse-ventura"}]
 reviews_search_url: "https://www.google.com/search?q=Ventura+Townehouse+Ventura+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/565801810"
+license_id: "565801810"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

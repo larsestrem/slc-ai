@@ -24,7 +24,7 @@ organization_name: "Koelsch Communities"
 sources: ["https://www.aplaceformom.com/community/the-park-at-modesto-1395437", "https://koelschseniorcommunities.com/senior-living/ca/modesto/independent-living/the-park-at-modesto/"]
 verified_date: "2026-07-19"
 description_full: "Independent living community in north Modesto operated by family-owned Koelsch Communities. Designed for active seniors, with restaurant-style dining, housekeeping and a full activities calendar."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-park-at-modesto-1395437"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-park-at-modesto-1395437"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-park-at-modesto-modesto"}]
 reviews_search_url: "https://www.google.com/search?q=The+Park+at+Modesto+Modesto+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

@@ -23,4 +23,5 @@ sources: ["https://www.medicare.gov/care-compare/details/nursing-home/125026/vie
 verified_date: "2026-07-14"
 description_full: "Kuakini Geriatric Care, Inc. is a large, nonprofit, Medicare- and Medicaid-certified skilled nursing facility in the Kuakini Medical Center area of Honolulu. It is licensed for 187 beds and provides long-term skilled nursing care. Recent federal Care Compare data show an overall rating well below the state average."
 reviews_search_url: "https://www.google.com/search?q=Kuakini+Geriatric+Care%2C+Inc.+Honolulu+HI+reviews"
+records_url: "https://health.hawaii.gov/ohca/files/2022/03/kuakini-geriatric-care-inc-snf-12.14.2021-state-poc.pdf"
 ---

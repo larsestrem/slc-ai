@@ -14,12 +14,12 @@ layout: default
   <p class="claimed-badge">✓ Community-verified profile - sections marked
   <span class="from-community">From the community</span> were updated by
   {{ c0.name }} ({{ c0.role }}){% if page.contributors.size == 2 %} and {{ c1.name }} ({{ c1.role }}){% elsif page.contributors.size > 2 %}, {{ c1.name }} ({{ c1.role }}), and <a href="#contributors">{{ page.contributors.size | minus: 2 }} more</a>{% endif %}
-  · <a href="/for-communities/#how-claiming-works">how we verify updaters</a></p>
+  · <a href="/for-communities/#how-claiming-works">how we verify updaters</a> (we confirm the updater's identity, not every claim)</p>
   {%- elsif page.claimed_date %}
   <p class="claimed-badge">✓ Community-verified profile - sections marked
   <span class="from-community">From the community</span> were provided by
   {% if page.claimed_by %}{{ page.claimed_by }}{% if page.claimed_role %} ({{ page.claimed_role }}){% endif %}{% else %}verified staff{% endif %}
-  on {{ page.claimed_date }} · <a href="/for-communities/#how-claiming-works">how we verify updaters</a></p>
+  on {{ page.claimed_date }} · <a href="/for-communities/#how-claiming-works">how we verify updaters</a> (we confirm the updater's identity, not every claim)</p>
   {%- endif %}
 
   {%- if page.photos and page.photos.size > 0 %}

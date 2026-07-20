@@ -16,6 +16,13 @@ changes; we never edit a listing on an unverified report alone.
 published under your name and title, and your profile gets photos, team bios, and your own
 answers to what families ask most.</p>
 
+<p class="notice"><strong>Please keep this about the listing, not an incident.</strong> Don't
+send resident names, room numbers, medical details, or photos of residents through this form.
+This site does not investigate emergencies or abuse. If someone is in immediate danger, call
+911. To report suspected abuse, neglect, or a serious care problem, contact your
+<a href="/guides/checking-complaints-and-state-records/">state agency or Long-Term Care
+Ombudsman</a>, who are the right people to act on it.</p>
+
 <form class="q-form" method="POST" action="{{ site.forms.endpoint }}" accept-charset="UTF-8">
   <input type="hidden" name="_subject" value="Correction report - listing inaccuracy">
   <input type="hidden" name="_template" value="table">

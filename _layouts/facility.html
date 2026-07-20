@@ -97,6 +97,11 @@ layout: default
           {%- endfor %}
         </div>
         {%- else %}
+        <p class="muted-note">{% unless page.claimed_date %}This profile isn't yet
+        <a href="/for-communities/">managed by the community</a>, so it can't describe their
+        programs in their own words. {% endunless %}Below is a general description of each
+        type of care offered at this community — for the specifics of how <em>they</em> do
+        it, ask on your <a href="/guides/touring-checklist/">tour</a>.</p>
         <ul>
           {%- for lv in page.care_levels %}
           {%- assign info = site.data.care_levels[lv] %}
@@ -252,6 +257,9 @@ layout: default
     Details verified against public sources on {{ page.verified_date | default: site.data_vintage.last_verified }}.
     {%- if page.sources %} Sources:{% for s in page.sources %} <a href="{{ s }}" rel="nofollow noopener">[{{ forloop.index }}]</a>{% endfor %}.{% endif %}
     Availability, pricing, and services change — always confirm directly with the community.
+    See something inaccurate?
+    <a href="/report-a-correction/?community={{ page.title | append: ' — ' | append: page.city_name | append: ', ' | append: page.state_abbrev | url_encode }}">Report it</a>
+    — or if you work at {{ page.title }}, <a href="/for-communities/">claim and manage this profile</a>.
   </p>
 </article>
 {%- unless page.sample_notice %}

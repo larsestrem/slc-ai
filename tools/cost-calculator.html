@@ -7,6 +7,10 @@ crumbs:
   - name: Cost Calculator
     url: /tools/cost-calculator/
 ---
+<style>
+  #cc-table .cc-home-row td:first-child { border-left: 3px solid var(--accent); padding-left: .5rem; }
+  #cc-table .cc-home-row td { background: var(--soft); }
+</style>
 <article>
   <h1>Senior Care Cost Calculator</h1>
   <p class="lead">Compare what each care option costs - this month, this year, and over three
@@ -25,9 +29,11 @@ crumbs:
         </select>
       </p>
       <p>
-        <label for="cc-hours"><strong>If staying home: in-home care hours per week</strong></label><br>
+        <label for="cc-hours"><strong>In-home care hours per week</strong></label><br>
         <input type="range" id="cc-hours" min="4" max="168" step="4" value="20" style="width:100%">
         <span id="cc-hours-label">20 hours/week</span>
+        <br><span class="count">Sets the <strong>in-home care</strong> line only. Facility costs
+        don't depend on it - they're driven by your market and the annual increase above.</span>
       </p>
       <p>
         <label for="cc-increase"><strong>Assumed annual increase</strong></label><br>
@@ -93,6 +99,7 @@ crumbs:
       var three = 0, m = monthly;
       for (var y = 0; y < 3; y++) { three += m * 12; m *= (1 + inc); }
       var tr = document.createElement("tr");
+      if (row.home) tr.className = "cc-home-row";
       var name = row.home ? row.name + " (" + (hours >= 168 ? "24/7" : hours + " hrs/wk") + ")" : row.name;
       tr.innerHTML = '<td><a href="' + row.url + '">' + name + "</a></td><td>" + fmt(monthly) +
         "</td><td>" + fmt(monthly * 12) + "</td><td>" + fmt(three) + "</td>";

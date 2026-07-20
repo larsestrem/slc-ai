@@ -12,6 +12,12 @@ financially. Most of the information online is published by companies paid to re
 specific communities. This site is different: an independent directory plus plain-language
 guides, built to help you decide well.
 
+Our order of loyalties is fixed: **the resident first**, then the family doing the choosing,
+then the communities that serve them. Most of the time all three win together - a good match
+is good for everyone. But when interests pull apart, we side with the person who will live
+with the decision. That is what "independent" means here, and it's why we link you to the
+records and reviews each community has earned rather than selling you a recommendation.
+
 ## How we source facility data
 
 Our directory currently contains **{{ site.data.stats.visible_total.facilities }} verified

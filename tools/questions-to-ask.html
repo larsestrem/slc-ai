@@ -22,12 +22,6 @@ crumbs:
   concerns would be handled. Do that paper homework first so the visit confirms or contradicts
   the record rather than replacing it.</p>
 
-  <div class="q-visit">
-    <label for="qn-facility"><strong>Community</strong></label>
-    <input type="text" id="qn-facility" placeholder="Community name">
-    <label for="qn-date"><strong>Visit date</strong></label>
-    <input type="text" id="qn-date" placeholder="e.g. July 20">
-  </div>
 
   <p class="notice"><strong>After the visit, before you drive off:</strong> sit in the car and
   write your honest impression in each section's notes box below, while it's fresh. After three
@@ -43,6 +37,13 @@ crumbs:
   <button class="btn ghost" onclick="window.print()" style="font-size:.85em;padding:.25rem .7rem">Print / save PDF</button>
   <button class="btn ghost" id="ws-clear" style="font-size:.85em;padding:.25rem .7rem">Clear for a new community</button></p>
 
+  <div class="q-visit">
+    <label for="qn-facility"><strong>Community</strong></label>
+    <input type="text" id="qn-facility" placeholder="Community name">
+    <label for="qn-date"><strong>Visit date</strong></label>
+    <input type="text" id="qn-date" placeholder="e.g. July 20">
+  </div>
+
   <div class="qlist">
 
     <section aria-labelledby="q-life">
@@ -50,12 +51,12 @@ crumbs:
       <p class="q-note">Start here. A community that gets daily life right for your parent is
       worth more than a beautiful lobby.</p>
       <ul>
-        <li><label><input type="checkbox"> Can my parent and I join a regular weekday lunch - not a scheduled marketing lunch - so they can taste the food they'd actually eat? <span class="q-src">(<a href="/guides/food-and-dining/">judging the food</a>)</span></label></li>
-        <li><label><input type="checkbox"> Which meals would be included in my parent's rate, what does room delivery cost, and is there a credit for missed meals?</label></li>
-        <li><label><input type="checkbox"> What would a typical day look like for my parent here? Ask for a real activities calendar, not a sample.</label></li>
-        <li><label><input type="checkbox"> My parent tends to keep to themselves - how would you help them settle in and get connected?</label></li>
-        <li><label><input type="checkbox"> What would my parent get to decide for themselves - wake time, bath time, when and what to eat? <span class="q-src">(<a href="/guides/activities-and-engagement/">daily life &amp; autonomy</a>)</span></label></li>
-        <li><label><input type="checkbox"> Can we visit my parent any time, or only during set hours? Can family join their meals and activities?</label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Can my parent and I join a regular weekday lunch - not a scheduled marketing lunch - so they can taste the food they'd actually eat? <span class="q-src">(<a href="/guides/food-and-dining/">judging the food</a>)</span></span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Which meals would be included in my parent's rate, what does room delivery cost, and is there a credit for missed meals?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">What would a typical day look like for my parent here? Ask for a real activities calendar, not a sample.</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">My parent tends to keep to themselves - how would you help them settle in and get connected?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">What would my parent get to decide for themselves - wake time, bath time, when and what to eat? <span class="q-src">(<a href="/guides/activities-and-engagement/">daily life &amp; autonomy</a>)</span></span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Can we visit my parent any time, or only during set hours? Can family join their meals and activities?</span></label></li>
       </ul>
     
       <div class="q-notes">
@@ -68,17 +69,23 @@ crumbs:
       <h2 id="q-staff">Care &amp; staffing</h2>
       <p class="q-note">People provide care, not granite countertops. Push for numbers, by shift.</p>
       <ul>
-        <li><label><input type="checkbox"> How many hands-on caregivers - not managers or kitchen staff - are scheduled on my parent's wing on a weekday, a weekend, and overnight? <span class="q-src">(<a href="/guides/staffing-ratios/">staffing ratios</a>)</span></label></li>
-        <li><label><input type="checkbox"> Is the overnight staff awake and doing rounds, or is it a sleeping-staff arrangement?</label></li>
-        <li><label><input type="checkbox"> Is there a nurse in the building at night, or only on call?</label></li>
-        <li><label><input type="checkbox"> When my parent presses the call button, what is your target response time - and how do you track it?</label></li>
-        <li><label><input type="checkbox"> How often do you use agency or temp staff to fill shifts?</label></li>
-        <li><label><input type="checkbox"> How long have the administrator and head nurse been here? <span class="q-src">(leadership churn drives staff churn)</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">How many hands-on caregivers - not managers or kitchen staff - are scheduled on my parent's wing on a weekday, a weekend, and overnight? <span class="q-src">(<a href="/guides/staffing-ratios/">staffing ratios</a>)</span></span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Is the overnight staff awake and doing rounds, or is it a sleeping-staff arrangement?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Is there a nurse in the building at night, or only on call?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">When my parent presses the call button, what is your target response time - and how do you track it?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">How often do you use agency or temp staff to fill shifts?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">How long have the administrator and head nurse been here? <span class="q-src">(leadership churn drives staff churn)</span></span></label></li>
       </ul>
       <p class="q-note">Ask a front-line aide, not the tour guide: <em>"How long have you worked
       here?"</em> If nobody is past their first year, you have the turnover number without asking
       management. Ask residents and visiting families: <em>"When you press the button, how long
       does it take?"</em></p>
+      <p class="q-note"><strong>A ratio counts bodies, not continuity.</strong> The same
+      staff-to-resident ratio is not the same care. A wing run by people who have known your parent
+      for a year is worlds apart from one propped up by high turnover and rotating agency temps. A
+      temp nurse won't know your dad gets dizzy when he stands up, or that your mom hides her pain.
+      Ask not just how many staff, but how long they stay and how often shifts are filled by
+      fill-ins who have never met your parent.</p>
     
       <div class="q-notes">
         <label for="qn-staff"><strong>Your notes after the visit</strong> - care &amp; staffing</label>
@@ -90,10 +97,10 @@ crumbs:
       <h2 id="q-change">When needs change</h2>
       <p class="q-note">Care needs almost always grow. Moving twice is hard on everyone.</p>
       <ul>
-        <li><label><input type="checkbox"> Who decides when my parent needs a higher level of care, and how is that assessed? <span class="q-src">(<a href="/guides/levels-of-care-explained/">levels of care</a>)</span></label></li>
-        <li><label><input type="checkbox"> At what point would my parent's needs mean a rate increase, a move to another wing, or a move out entirely?</label></li>
-        <li><label><input type="checkbox"> What conditions can you not care for here, so we know the ceiling before we move in?</label></li>
-        <li><label><input type="checkbox"> If my parent needs memory care later, is it on this campus, and what does that transition look like?</label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Who decides when my parent needs a higher level of care, and how is that assessed? <span class="q-src">(<a href="/guides/levels-of-care-explained/">levels of care</a>)</span></span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">At what point would my parent's needs mean a rate increase, a move to another wing, or a move out entirely?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">What conditions can you not care for here, so we know the ceiling before we move in?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">If my parent needs memory care later, is it on this campus, and what does that transition look like?</span></label></li>
       </ul>
     
       <div class="q-notes">
@@ -107,10 +114,10 @@ crumbs:
       <p class="q-note">Every community gets complaints. What matters is what happens next.
       Process beats promises. <span class="q-src">(<a href="/guides/why-good-communities-get-complaints/">why good communities get complaints</a>)</span></p>
       <ul>
-        <li><label><input type="checkbox"> If I'm worried about something at 8 p.m. on a Saturday, who do I call, and what happens next?</label></li>
-        <li><label><input type="checkbox"> How do I find out what you did about a concern I raise? Do you close the loop in writing?</label></li>
-        <li><label><input type="checkbox"> Tell me about a complaint you received recently and what changed because of it.</label></li>
-        <li><label><input type="checkbox"> How do you make sure a family that raises a concern is never treated differently for it?</label></li>
+        <li><label><input type="checkbox"> <span class="q-body">If I'm worried about something at 8 p.m. on a Saturday, who do I call, and what happens next?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">How do I find out what you did about a concern I raise? Do you close the loop in writing?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Tell me about a complaint you received recently and what changed because of it.</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">How do you make sure a family that raises a concern is never treated differently for it?</span></label></li>
       </ul>
     
       <div class="q-notes">
@@ -124,13 +131,13 @@ crumbs:
       <p class="q-note">Get every number in writing, at your parent's assessed care level - never
       the advertised starting rate. <span class="q-src">(<a href="/guides/whats-not-included-hidden-fees/">what's not included</a>)</span></p>
       <ul>
-        <li><label><input type="checkbox"> What is the total monthly cost at my parent's assessed care level, in writing?</label></li>
-        <li><label><input type="checkbox"> What was your exact rate increase in each of the last three years?</label></li>
-        <li><label><input type="checkbox"> What is billed on top of the base rate - medication management, supplies, transport, a second caregiver?</label></li>
-        <li><label><input type="checkbox"> What happens when the money runs short? Do you accept Medicaid, directly or after private pay? <span class="q-src">(<a href="/guides/understanding-the-residency-agreement/">the residency agreement</a>)</span></label></li>
-        <li><label><input type="checkbox"> How much written notice must you give before asking a resident to leave, and is there an appeal?</label></li>
-        <li><label><input type="checkbox"> Does anything in this agreement make me personally liable if my parent's funds run out?</label></li>
-        <li><label><input type="checkbox"> Are you waiving the community or move-in fee this month? <span class="q-src">(the single most negotiable charge)</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">What is the total monthly cost at my parent's assessed care level, in writing?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">What was your exact rate increase in each of the last three years?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">What is billed on top of the base rate - medication management, supplies, transport, a second caregiver?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">What happens when the money runs short? Do you accept Medicaid, directly or after private pay? <span class="q-src">(<a href="/guides/understanding-the-residency-agreement/">the residency agreement</a>)</span></span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">How much written notice must you give before asking a resident to leave, and is there an appeal?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Does anything in this agreement make me personally liable if my parent's funds run out?</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Are you waiving the community or move-in fee this month? <span class="q-src">(the single most negotiable charge)</span></span></label></li>
       </ul>
     
       <div class="q-notes">
@@ -142,11 +149,11 @@ crumbs:
     <section aria-labelledby="q-after">
       <h2 id="q-after">Before you decide</h2>
       <ul>
-        <li><label><input type="checkbox"> Make a second, unannounced visit at a different time of day - a mid-morning weekday or a weekend evening. <span class="q-src">(<a href="/guides/touring-checklist/">touring checklist</a>)</span></label></li>
-        <li><label><input type="checkbox"> Ask for two or three families you can call as references.</label></li>
-        <li><label><input type="checkbox"> Re-read the community's official record for anything your visit raised.</label></li>
-        <li><label><input type="checkbox"> Score every finalist on the same points with our <a href="/tools/comparison-worksheet/">comparison worksheet</a>.</label></li>
-        <li><label><input type="checkbox"> Sleep on it before signing. A tour is a first impression; a contract is hard to unwind.</label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Make a second, unannounced visit at a different time of day - a mid-morning weekday or a weekend evening. <span class="q-src">(<a href="/guides/touring-checklist/">touring checklist</a>)</span></span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Ask for two or three families you can call as references.</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Re-read the community's official record for anything your visit raised.</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Score every finalist on the same points with our <a href="/tools/comparison-worksheet/">comparison worksheet</a>.</span></label></li>
+        <li><label><input type="checkbox"> <span class="q-body">Sleep on it before signing. A tour is a first impression; a contract is hard to unwind.</span></label></li>
       </ul>
     
       <div class="q-notes">
@@ -179,7 +186,14 @@ crumbs:
 .qlist li:last-child { border-bottom: 1px solid var(--line); }
 .qlist label { display: flex; gap: .6rem; align-items: baseline; padding: .55rem .2rem; cursor: pointer; }
 .qlist input[type=checkbox] { flex: 0 0 auto; width: 1.05rem; height: 1.05rem; margin-top: .15rem; accent-color: var(--accent); }
-.qlist .q-src { color: var(--muted); font-size: .85rem; }
+.qlist .q-body { flex: 1; }
+.qlist .q-src { font-size: .9rem; color: var(--muted); white-space: nowrap; }
+.qlist .q-src a { color: #1a6be0; font-weight: 700; }
+.qlist .q-src a:hover, .qlist .q-src a:focus { color: #0a4aa3; text-decoration: underline; }
+
+/* Green action buttons, scoped to this page */
+.btn.ghost { background: #e6f5ea; color: var(--ink); border-color: #2f8a3b; }
+.btn.ghost:hover, .btn.ghost:focus { background: #d5edda; color: var(--ink); border-color: #226b2d; box-shadow: var(--shadow-1); }
 .q-visit { margin: .8rem 0 1rem; display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem 1.2rem; }
 .q-visit label { font-size: .9rem; }
 .q-visit input { border: 1px solid var(--line); border-radius: 6px; padding: .35rem .5rem; font: inherit; background: var(--bg); color: var(--ink); margin-left: .3rem; }

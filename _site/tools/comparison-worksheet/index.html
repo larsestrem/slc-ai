@@ -303,17 +303,18 @@ tbody tr:hover { background: var(--soft); }
   worksheet fixes that: the same questions, asked everywhere, side by side. Fill it in on
   screen as you call and tour, or <button class="btn ghost" onclick="window.print()" style="font-size:.9em;padding:.3rem .8rem">print it blank</button> and bring it with you.</p>
 
-  <p class="notice">Your answers stay on your device only - nothing you type here is sent or
-  saved anywhere. Print or screenshot when you're done.</p>
+  <p class="notice">Your answers stay on this device - nothing you type is sent anywhere. They're
+  saved in this browser automatically, so they'll still be here when you come back (until you
+  clear your browser data). <button class="btn ghost" id="ws-clear" style="font-size:.85em;padding:.25rem .7rem">Clear saved answers</button></p>
 
   <div class="table-scroll">
     <table class="worksheet">
       <thead>
         <tr>
           <th style="min-width:14rem">Question</th>
-          <th><input placeholder="Community 1" aria-label="Community 1 name"></th>
-          <th><input placeholder="Community 2" aria-label="Community 2 name"></th>
-          <th><input placeholder="Community 3" aria-label="Community 3 name"></th>
+          <th><input id="cw-name1" placeholder="Community 1" aria-label="Community 1 name"></th>
+          <th><input id="cw-name2" placeholder="Community 2" aria-label="Community 2 name"></th>
+          <th><input id="cw-name3" placeholder="Community 3" aria-label="Community 3 name"></th>
         </tr>
       </thead>
       <tbody id="ws-body"></tbody>
@@ -339,6 +340,56 @@ tbody tr:hover { background: var(--soft); }
   .btn, .notice { display: none !important; }
 }
 </style>
+<script>
+window.WSPersist = function (opts) {
+  opts = opts || {};
+  var KEY = "slc-ws:" + (opts.key || location.pathname);
+  function els() {
+    return [].slice.call(document.querySelectorAll("input, textarea, select"))
+      .filter(function (el) {
+        var t = el.type;
+        return (el.id || el.name) && t !== "submit" && t !== "button" && t !== "hidden";
+      });
+  }
+  function k(el) { return el.id || el.name; }
+  function save() {
+    var d = {};
+    els().forEach(function (el) {
+      d[k(el)] = (el.type === "checkbox" || el.type === "radio") ? el.checked : el.value;
+    });
+    try { localStorage.setItem(KEY, JSON.stringify(d)); } catch (e) {}
+  }
+  function restore() {
+    var raw; try { raw = localStorage.getItem(KEY); } catch (e) { return false; }
+    if (!raw) return false;
+    var d; try { d = JSON.parse(raw); } catch (e) { return false; }
+    els().forEach(function (el) {
+      var key = k(el);
+      if (!(key in d)) return;
+      if (el.type === "checkbox" || el.type === "radio") el.checked = !!d[key];
+      else el.value = d[key];
+    });
+    return true;
+  }
+  restore();
+  document.addEventListener("input", save);
+  document.addEventListener("change", save);
+  var clr = document.getElementById("ws-clear");
+  if (clr) clr.addEventListener("click", function () {
+    if (!window.confirm("Clear everything you've typed on this worksheet? This can't be undone.")) return;
+    try { localStorage.removeItem(KEY); } catch (e) {}
+    els().forEach(function (el) {
+      if (el.type === "checkbox" || el.type === "radio") el.checked = el.defaultChecked;
+      else if (el.tagName === "SELECT") {
+        for (var i = 0; i < el.options.length; i++) { if (el.options[i].defaultSelected) { el.selectedIndex = i; break; } }
+      } else el.value = el.defaultValue;
+    });
+    if (opts.onClear) opts.onClear();
+  });
+  return { save: save, restore: restore };
+};
+</script>
+
 <script>
 (function () {
   var rows = [
@@ -369,19 +420,20 @@ tbody tr:hover { background: var(--soft); }
     ["Would Mom/Dad feel at home here? Why?"]
   ];
   var tb = document.getElementById("ws-body");
-  rows.forEach(function (r) {
+  rows.forEach(function (r, i) {
     var tr = document.createElement("tr");
     if (r[0] === "sec") {
       tr.className = "sec";
       tr.innerHTML = '<td colspan="4">' + r[1] + "</td>";
     } else {
       tr.innerHTML = "<td>" + r[0] + "</td>" +
-        '<td><textarea rows="2" aria-label="' + r[0] + ' - community 1"></textarea></td>' +
-        '<td><textarea rows="2" aria-label="' + r[0] + ' - community 2"></textarea></td>' +
-        '<td><textarea rows="2" aria-label="' + r[0] + ' - community 3"></textarea></td>';
+        '<td><textarea id="cw-' + i + '-1" rows="2" aria-label="' + r[0] + ' - community 1"></textarea></td>' +
+        '<td><textarea id="cw-' + i + '-2" rows="2" aria-label="' + r[0] + ' - community 2"></textarea></td>' +
+        '<td><textarea id="cw-' + i + '-3" rows="2" aria-label="' + r[0] + ' - community 3"></textarea></td>';
     }
     tb.appendChild(tr);
   });
+  WSPersist();
 })();
 </script>
 

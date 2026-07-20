@@ -45,7 +45,8 @@ crumbs:
       </p>
       <p class="notice" style="margin-bottom:0">Estimates use national 2025-2026 medians
       (in-home care ≈ $33/hour; see <a href="/guides/cost-of-senior-living/">real cost
-      ranges</a>). Actual quotes vary - always get itemized, written quotes.</p>
+      ranges</a>). Actual quotes vary - always get itemized, written quotes. Your settings are
+      saved in this browser. <button class="btn ghost" id="ws-clear" style="font-size:.85em;padding:.2rem .6rem">Reset</button></p>
     </div>
 
     <div>
@@ -74,6 +75,7 @@ crumbs:
   </section>
 </article>
 
+{% include worksheet-persist.html %}
 <script>
 (function () {
   var BASE = [
@@ -109,6 +111,7 @@ crumbs:
   ["cc-region", "cc-hours", "cc-increase"].forEach(function (id) {
     document.getElementById(id).addEventListener("input", render);
   });
+  WSPersist({ onClear: render });
   render();
 })();
 </script>

@@ -11,7 +11,10 @@ crumbs:
   <h1>Senior Care Budget Worksheet</h1>
   <p class="lead">The question behind every senior care decision: <em>how long will the money
   last?</em> Enter monthly income, the care cost you're considering, and savings - this page
-  does the runway math, including annual cost increases. Nothing you type leaves your device.</p>
+  does the runway math, including annual cost increases.</p>
+  <p class="notice">Nothing you type leaves your device. Your entries are saved in this browser
+  automatically, so they'll still be here when you come back (until you clear your browser data).
+  <button class="btn ghost" id="ws-clear" style="font-size:.85em;padding:.25rem .7rem">Clear saved answers</button></p>
 
   <div class="two-col">
     <div class="panel">
@@ -65,6 +68,7 @@ crumbs:
 .bw { width: 100%; max-width: 16rem; border: 1px solid var(--line); border-radius: 6px; padding: .4rem .5rem; font: inherit; background: var(--bg); color: var(--ink); }
 #results dd { font-variant-numeric: tabular-nums; }
 </style>
+{% include worksheet-persist.html %}
 <script>
 (function () {
   var $ = function (id) { return document.getElementById(id); };
@@ -96,6 +100,7 @@ crumbs:
     $("r-note").textContent = note;
   }
   document.querySelectorAll(".bw").forEach(function (el) { el.addEventListener("input", calc); });
+  WSPersist({ onClear: calc });
   calc();
 })();
 </script>

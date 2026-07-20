@@ -1,0 +1,58 @@
+{%- comment -%}
+Saves a page's worksheet fields to the browser's localStorage so a returning
+visitor keeps their answers. Everything stays on the device; nothing is sent
+anywhere. Fields are keyed by id or name and namespaced by page path. Include
+this BEFORE the page's own script, then call WSPersist(opts) from inside that
+script after any dynamically-built fields exist. opts.onClear is called after
+a Clear (wire a #ws-clear button). Restored values are read before the page's
+final calc() runs, so calculators compute from saved data.
+{%- endcomment -%}
+<script>
+window.WSPersist = function (opts) {
+  opts = opts || {};
+  var KEY = "slc-ws:" + (opts.key || location.pathname);
+  function els() {
+    return [].slice.call(document.querySelectorAll("input, textarea, select"))
+      .filter(function (el) {
+        var t = el.type;
+        return (el.id || el.name) && t !== "submit" && t !== "button" && t !== "hidden";
+      });
+  }
+  function k(el) { return el.id || el.name; }
+  function save() {
+    var d = {};
+    els().forEach(function (el) {
+      d[k(el)] = (el.type === "checkbox" || el.type === "radio") ? el.checked : el.value;
+    });
+    try { localStorage.setItem(KEY, JSON.stringify(d)); } catch (e) {}
+  }
+  function restore() {
+    var raw; try { raw = localStorage.getItem(KEY); } catch (e) { return false; }
+    if (!raw) return false;
+    var d; try { d = JSON.parse(raw); } catch (e) { return false; }
+    els().forEach(function (el) {
+      var key = k(el);
+      if (!(key in d)) return;
+      if (el.type === "checkbox" || el.type === "radio") el.checked = !!d[key];
+      else el.value = d[key];
+    });
+    return true;
+  }
+  restore();
+  document.addEventListener("input", save);
+  document.addEventListener("change", save);
+  var clr = document.getElementById("ws-clear");
+  if (clr) clr.addEventListener("click", function () {
+    if (!window.confirm("Clear everything you've typed on this worksheet? This can't be undone.")) return;
+    try { localStorage.removeItem(KEY); } catch (e) {}
+    els().forEach(function (el) {
+      if (el.type === "checkbox" || el.type === "radio") el.checked = el.defaultChecked;
+      else if (el.tagName === "SELECT") {
+        for (var i = 0; i < el.options.length; i++) { if (el.options[i].defaultSelected) { el.selectedIndex = i; break; } }
+      } else el.value = el.defaultValue;
+    });
+    if (opts.onClear) opts.onClear();
+  });
+  return { save: save, restore: restore };
+};
+</script>

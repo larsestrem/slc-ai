@@ -13,17 +13,18 @@ crumbs:
   worksheet fixes that: the same questions, asked everywhere, side by side. Fill it in on
   screen as you call and tour, or <button class="btn ghost" onclick="window.print()" style="font-size:.9em;padding:.3rem .8rem">print it blank</button> and bring it with you.</p>
 
-  <p class="notice">Your answers stay on your device only - nothing you type here is sent or
-  saved anywhere. Print or screenshot when you're done.</p>
+  <p class="notice">Your answers stay on this device - nothing you type is sent anywhere. They're
+  saved in this browser automatically, so they'll still be here when you come back (until you
+  clear your browser data). <button class="btn ghost" id="ws-clear" style="font-size:.85em;padding:.25rem .7rem">Clear saved answers</button></p>
 
   <div class="table-scroll">
     <table class="worksheet">
       <thead>
         <tr>
           <th style="min-width:14rem">Question</th>
-          <th><input placeholder="Community 1" aria-label="Community 1 name"></th>
-          <th><input placeholder="Community 2" aria-label="Community 2 name"></th>
-          <th><input placeholder="Community 3" aria-label="Community 3 name"></th>
+          <th><input id="cw-name1" placeholder="Community 1" aria-label="Community 1 name"></th>
+          <th><input id="cw-name2" placeholder="Community 2" aria-label="Community 2 name"></th>
+          <th><input id="cw-name3" placeholder="Community 3" aria-label="Community 3 name"></th>
         </tr>
       </thead>
       <tbody id="ws-body"></tbody>
@@ -49,6 +50,7 @@ crumbs:
   .btn, .notice { display: none !important; }
 }
 </style>
+{% include worksheet-persist.html %}
 <script>
 (function () {
   var rows = [
@@ -79,18 +81,19 @@ crumbs:
     ["Would Mom/Dad feel at home here? Why?"]
   ];
   var tb = document.getElementById("ws-body");
-  rows.forEach(function (r) {
+  rows.forEach(function (r, i) {
     var tr = document.createElement("tr");
     if (r[0] === "sec") {
       tr.className = "sec";
       tr.innerHTML = '<td colspan="4">' + r[1] + "</td>";
     } else {
       tr.innerHTML = "<td>" + r[0] + "</td>" +
-        '<td><textarea rows="2" aria-label="' + r[0] + ' - community 1"></textarea></td>' +
-        '<td><textarea rows="2" aria-label="' + r[0] + ' - community 2"></textarea></td>' +
-        '<td><textarea rows="2" aria-label="' + r[0] + ' - community 3"></textarea></td>';
+        '<td><textarea id="cw-' + i + '-1" rows="2" aria-label="' + r[0] + ' - community 1"></textarea></td>' +
+        '<td><textarea id="cw-' + i + '-2" rows="2" aria-label="' + r[0] + ' - community 2"></textarea></td>' +
+        '<td><textarea id="cw-' + i + '-3" rows="2" aria-label="' + r[0] + ' - community 3"></textarea></td>';
     }
     tb.appendChild(tr);
   });
+  WSPersist();
 })();
 </script>

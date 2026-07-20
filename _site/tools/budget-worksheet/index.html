@@ -301,7 +301,10 @@ tbody tr:hover { background: var(--soft); }
   <h1>Senior Care Budget Worksheet</h1>
   <p class="lead">The question behind every senior care decision: <em>how long will the money
   last?</em> Enter monthly income, the care cost you're considering, and savings - this page
-  does the runway math, including annual cost increases. Nothing you type leaves your device.</p>
+  does the runway math, including annual cost increases.</p>
+  <p class="notice">Nothing you type leaves your device. Your entries are saved in this browser
+  automatically, so they'll still be here when you come back (until you clear your browser data).
+  <button class="btn ghost" id="ws-clear" style="font-size:.85em;padding:.25rem .7rem">Clear saved answers</button></p>
 
   <div class="two-col">
     <div class="panel">
@@ -356,6 +359,56 @@ tbody tr:hover { background: var(--soft); }
 #results dd { font-variant-numeric: tabular-nums; }
 </style>
 <script>
+window.WSPersist = function (opts) {
+  opts = opts || {};
+  var KEY = "slc-ws:" + (opts.key || location.pathname);
+  function els() {
+    return [].slice.call(document.querySelectorAll("input, textarea, select"))
+      .filter(function (el) {
+        var t = el.type;
+        return (el.id || el.name) && t !== "submit" && t !== "button" && t !== "hidden";
+      });
+  }
+  function k(el) { return el.id || el.name; }
+  function save() {
+    var d = {};
+    els().forEach(function (el) {
+      d[k(el)] = (el.type === "checkbox" || el.type === "radio") ? el.checked : el.value;
+    });
+    try { localStorage.setItem(KEY, JSON.stringify(d)); } catch (e) {}
+  }
+  function restore() {
+    var raw; try { raw = localStorage.getItem(KEY); } catch (e) { return false; }
+    if (!raw) return false;
+    var d; try { d = JSON.parse(raw); } catch (e) { return false; }
+    els().forEach(function (el) {
+      var key = k(el);
+      if (!(key in d)) return;
+      if (el.type === "checkbox" || el.type === "radio") el.checked = !!d[key];
+      else el.value = d[key];
+    });
+    return true;
+  }
+  restore();
+  document.addEventListener("input", save);
+  document.addEventListener("change", save);
+  var clr = document.getElementById("ws-clear");
+  if (clr) clr.addEventListener("click", function () {
+    if (!window.confirm("Clear everything you've typed on this worksheet? This can't be undone.")) return;
+    try { localStorage.removeItem(KEY); } catch (e) {}
+    els().forEach(function (el) {
+      if (el.type === "checkbox" || el.type === "radio") el.checked = el.defaultChecked;
+      else if (el.tagName === "SELECT") {
+        for (var i = 0; i < el.options.length; i++) { if (el.options[i].defaultSelected) { el.selectedIndex = i; break; } }
+      } else el.value = el.defaultValue;
+    });
+    if (opts.onClear) opts.onClear();
+  });
+  return { save: save, restore: restore };
+};
+</script>
+
+<script>
 (function () {
   var $ = function (id) { return document.getElementById(id); };
   var fmt = function (n) { return "$" + Math.round(n).toLocaleString("en-US"); };
@@ -386,6 +439,7 @@ tbody tr:hover { background: var(--soft); }
     $("r-note").textContent = note;
   }
   document.querySelectorAll(".bw").forEach(function (el) { el.addEventListener("input", calc); });
+  WSPersist({ onClear: calc });
   calc();
 })();
 </script>

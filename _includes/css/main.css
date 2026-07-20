@@ -102,6 +102,8 @@ main { display: block; padding: 1.6rem 0 3rem; }
   border-bottom: 1px solid var(--line);
 }
 .hero .wrap { padding: 3rem 1.1rem 2.5rem; }
+.hero h1 em { color: var(--accent); font-style: normal; }
+.hero-sub { max-width: 46rem; color: var(--muted); }
 .hero p { max-width: 44rem; }
 
 /* Cards & grids */

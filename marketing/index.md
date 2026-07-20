@@ -41,8 +41,8 @@ That flywheel is what we build marketing around - not clicks for their own sake.
 ## The programs
 
 **[Ad Grant Management](/marketing/ad-grants/)** - for nonprofit communities. Google gives
-eligible 501(c)(3) organizations **$10,000/month** in donated search advertising (Microsoft
-adds ~**$3,000/month** more), and most nonprofit communities never collect a dollar of it.
+eligible 501(c)(3) organizations **$10,000/month** in donated search advertising, and most
+nonprofit communities never collect a dollar of it.
 We secure the grant and run it: **$2,000/month, 6-month minimum**. If we can't get your grant
 approved, you owe nothing. If your campaigns don't reach the traffic minimum, the setup fee
 comes back. For-profit communities get the same management on a conventional ad budget.

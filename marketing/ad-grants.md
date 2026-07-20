@@ -12,9 +12,9 @@ crumbs:
 
 If your community is a 501(c)(3) nonprofit - a faith-based home, a nonprofit CCRC, a community-board facility - Google will give you up to **$10,000** per month of search advertising, for free, indefinitely. Not a discount. Not a trial. An in-kind grant that renews every month, showing your community to people in your area who are actively searching for senior care right now.
 
-Microsoft runs a similar program for Bing with roughly **$3,000** per month of value. Between the two, an eligible nonprofit community can have five figures of monthly advertising working for it without spending a dollar on media.
+That's up to $120,000 a year of search advertising, working for an eligible nonprofit community without a dollar spent on media. (Microsoft ran a smaller Bing grant for nonprofits, but it ended in December 2025 - Google's is now the program that matters.)
 
-Most never do. Here's why, and what we do about it.
+Most never collect it. Here's why, and what we do about it.
 
 ## What the Google Ad Grant actually is
 

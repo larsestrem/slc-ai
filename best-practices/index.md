@@ -33,6 +33,15 @@ one that runs through the whole site: the resident comes first.
 - **[Resident enrichment and daily life](/best-practices/resident-enrichment-and-daily-life/)** -
   what a real activities program looks like versus a TV in a day room, and why a good day is a
   health issue, not a frill.
+- **[Covering absences and staffing shortages](/best-practices/covering-staffing-shortages/)** -
+  callouts and sudden vacancies happen everywhere; what separates a good community is a real plan to
+  stay fully staffed, including how it uses temp and agency help.
+- **[Keeping families informed](/best-practices/family-communication/)** - the most common complaint
+  isn't bad care, it's poor communication. Clear contacts, proactive updates, care conferences, and
+  safe hospital-to-community transitions.
+- **[Emergency preparedness](/best-practices/emergency-preparedness/)** - wildfire, heat, outages,
+  and evacuations are real risks in the Northwest and Hawaii. What a genuinely prepared community has
+  in place before the day it's needed.
 
 ## Why we publish this
 

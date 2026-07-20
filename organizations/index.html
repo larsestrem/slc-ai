@@ -7,7 +7,9 @@ crumbs: [{"name": "Organizations", "url": "/organizations/"}]
 ---
 <h1>Senior Living Organizations</h1>
 <p class="lead">Many communities belong to multi-state operators. Company policy shapes pricing,
-staffing, and care assessments - but quality still varies building to building.</p>
+staffing, and care assessments - but quality still varies building to building, so judge the
+building your parent would live in, not the brand: check its own
+<a href="/guides/checking-complaints-and-state-records/">state record</a> and its own reviews.</p>
 <ul class="grid">
 {% for o in page.orgs %}<li class="card"><h3><a href="{{ o.url }}">{{ o.name }}</a></h3>
 <p class="meta">{% if o.headquarters %}{{ o.headquarters }} · {% endif %}{{ o.count_here }} in our directory</p></li>

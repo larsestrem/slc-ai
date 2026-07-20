@@ -23,4 +23,5 @@ sources: ["https://www.medicare.gov/care-compare/details/nursing-home/125024/vie
 verified_date: "2026-07-14"
 description_full: "Nuuanu Hale is a Medicare- and Medicaid-certified skilled nursing facility on Pali Highway in Honolulu, offering short-term rehabilitation and long-term nursing care. The 75-bed facility is operated as a for-profit corporation."
 reviews_search_url: "https://www.google.com/search?q=Nuuanu+Hale+Honolulu+HI+reviews"
+records_url: "https://health.hawaii.gov/ohca/files/2021/10/nuuanu-hale-snf-2021-state-sod.pdf"
 ---

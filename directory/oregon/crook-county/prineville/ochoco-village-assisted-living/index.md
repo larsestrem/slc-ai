@@ -23,5 +23,7 @@ sources: ["https://seniorcarehomes.com/assisted-living-facilities/oregon/prinevi
 verified_date: "2026-07-14"
 description_full: "Ochoco Village is an assisted living community in Prineville licensed for up to 57 residents, one of the main senior care options in Crook County. Residents receive help with daily activities such as medication management, meals, and personal care in an apartment-style setting close to Prineville's medical clinics."
 reviews_search_url: "https://www.google.com/search?q=Regency+Village+at+Prineville+Prineville+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M207"
+license_id: "70M207"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -25,5 +25,7 @@ verified_date: "2026-07-14"
 description_full: "Courtyard Fountains is a large independent and assisted living community in Gresham operated by Senior Lifestyle. Residents choose from studio, one-bedroom, and two-bedroom apartments and enjoy a theater, bistro, happy-hour bar, greenhouse and planting terraces, and an outdoor patio with fountain."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/courtyard-fountains-95280"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/courtyard-fountains-gresham"}]
 reviews_search_url: "https://www.google.com/search?q=Courtyard+Fountains+Gresham+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A315"
+license_id: "70A315"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

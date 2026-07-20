@@ -21,7 +21,7 @@ capacity: 5
 sources: ["https://www.senioradvisor.com/local/sunrise-adult-foster-home-tigard-or", "https://www.seniorhousingnet.com/seniorliving-detail/sunrise-adult-foster-home_11400-sw-90th-ave_tigard_or_97223-621806"]
 verified_date: "2026-07-14"
 description_full: "Sunrise Adult Foster Home is a small residential care home in Tigard providing incontinence care, diabetes care, memory care, and medication management."
-review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/sunrise-adult-foster-home-tigard-or"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/sunrise-adult-foster-home_11400-sw-90th-ave_tigard_or_97223-621806"}]
+review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/sunrise-adult-foster-home-tigard-or"}]
 reviews_search_url: "https://www.google.com/search?q=Sunrise+Adult+Foster+Home+Tigard+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

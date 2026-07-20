@@ -26,5 +26,7 @@ verified_date: "2026-07-14"
 description_full: "A 28-bed assisted living community on Klaskanine Avenue in Astoria, also offering respite and short-term stays. Part of the national Trustwell Living portfolio."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/trustwell-living-at-astor-place-59779"}]
 reviews_search_url: "https://www.google.com/search?q=Trustwell+Living+at+Astor+Place+Astoria+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M007"
+license_id: "70M007"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

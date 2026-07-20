@@ -21,8 +21,10 @@ facility_size: "medium"
 capacity: 57
 cms_ccn: "135084"
 sources: ["https://www.nursinghomesite.com/OAK_CREEK_REHABILITATION_CENTER_OF_KIMBERLY_KIMBERLY_ID", "https://www.medicare.gov/care-compare/details/nursing-home/135084/view-all/?state=ID", "https://nursinghomerating.org/ID/oak+creek+rehabilitation+center+of+kimberly/135084/"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Oak Creek Rehabilitation Center of Kimberly is a 57-bed Medicare- and Medicaid-certified skilled nursing facility in Kimberly, near Twin Falls, offering short-term rehabilitation and long-term nursing care. Families should verify the current rating directly with Medicare Care Compare before enrolling."
-review_links: [{"name": "NursingHomeSite", "url": "https://www.nursinghomesite.com/OAK_CREEK_REHABILITATION_CENTER_OF_KIMBERLY_KIMBERLY_ID"}]
+review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/oak-creek-rehabilitation-center-of-kimberly-135084"}]
 reviews_search_url: "https://www.google.com/search?q=Oak+Creek+Rehabilitation+Center+of+Kimberly+Kimberly+ID+reviews"
+records_url: "https://publicdocuments.dhw.idaho.gov/WebLink/Browse.aspx?id=11892&dbid=0&repo=PUBLIC-DOCUMENTS&cr=1"
 ---

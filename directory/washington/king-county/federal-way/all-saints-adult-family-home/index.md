@@ -23,7 +23,7 @@ sources: ["https://www.aplaceformom.com/community/all-saints-adult-family-home-1
 verified_date: "2026-07-14"
 specialties: ["Dementia"]
 description_full: "All Saints Adult Family Home is a family-owned, licensed six-bed adult family home in Federal Way offering 24-hour memory care in a home with private rooms and gardens. The owner has more than 14 years of geriatric care experience, and caregivers are trained in dementia and Alzheimer's care."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/all-saints-adult-family-home-1401587"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/all-saints-adult-family-home_2704-sw-314th-st_federal-way_wa_98023-630803"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/all-saints-adult-family-home-1401587"}]
 reviews_search_url: "https://www.google.com/search?q=All+Saints+Adult+Family+Home+Federal+Way+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

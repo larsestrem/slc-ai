@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Kina 'Ole Estate is a small windward-Oahu care home in Kaneohe housing up to eight live-in residents, offering assisted living, memory care and expanded care with 24-hour staffing."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/kina-ole-estate-1349354"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/kina-ole-estate-kaneohe-2"}]
 reviews_search_url: "https://www.google.com/search?q=Kina+%27Ole+Estate+Kaneohe+HI+reviews"
-licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
+licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/inspection-reports/"}
 ---

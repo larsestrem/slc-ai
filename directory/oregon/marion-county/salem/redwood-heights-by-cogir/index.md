@@ -24,5 +24,7 @@ verified_date: "2026-07-14"
 description_full: "Retirement and assisted living community in southeast Salem, operated by Cogir Senior Living. Partners with local providers for home care and transitional nursing needs."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/redwood-heights-by-cogir-137979"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/salem/redwood-heights-assisted-living-97302"}]
 reviews_search_url: "https://www.google.com/search?q=Redwood+Heights+by+Cogir+Salem+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A076"
+license_id: "70A076"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

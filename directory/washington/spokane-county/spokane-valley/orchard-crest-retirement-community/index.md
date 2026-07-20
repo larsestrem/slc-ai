@@ -21,7 +21,7 @@ facility_size: "large"
 sources: ["https://www.caring.com/senior-living/washington/spokane-valley/orchard-crest-99216", "https://health.usnews.com/best-senior-living/orchard-crest-retirement-community-12320"]
 verified_date: "2026-07-14"
 description_full: "An established independent and assisted living retirement community in Spokane Valley, celebrating over 25 years of operation, offering apartments, dining and activity programming."
-review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/spokane-valley/orchard-crest-99216"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/orchard-crest-retirement-community-12320"}]
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/spokane-valley/orchard-crest-99216"}]
 reviews_search_url: "https://www.google.com/search?q=Orchard+Crest+Retirement+Community+Spokane+Valley+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

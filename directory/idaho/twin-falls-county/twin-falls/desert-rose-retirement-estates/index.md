@@ -21,7 +21,7 @@ capacity: 8
 sources: ["https://www.senioradvice.com/providers/view/desert-rose-retirement-estates-twin-falls-id", "https://www.aplaceformom.com/community/desert-rose-retirement-estates-52652", "https://www.senioradvisor.com/local/desert-rose-retirement-estates-twin-falls-id"]
 verified_date: "2026-07-14"
 description_full: "Desert Rose Retirement Estates is an 8-unit senior care home in Twin Falls licensed for up to 8 residents. The home provides assisted living and Alzheimer's care with activities and home-cooked meals in a small residential setting."
-review_links: [{"name": "SeniorAdvice", "url": "https://www.senioradvice.com/providers/view/desert-rose-retirement-estates-twin-falls-id"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/desert-rose-retirement-estates-52652"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/desert-rose-retirement-estates-twin-falls-id"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/desert-rose-retirement-estates-52652"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/desert-rose-retirement-estates-twin-falls-id"}]
 reviews_search_url: "https://www.google.com/search?q=Desert+Rose+Retirement+Estates+Twin+Falls+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

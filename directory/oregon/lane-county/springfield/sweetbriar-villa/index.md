@@ -26,5 +26,7 @@ verified_date: "2026-07-14"
 description_full: "Smaller assisted living and memory care community with 39 total beds in the heart of Springfield, near area shopping, restaurants, and parks. Part of family-owned Radiant Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sweetbriar-villa-60217"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/springfield/sweetbriar-villa-97478-2"}]
 reviews_search_url: "https://www.google.com/search?q=Sweetbriar+Villa+Springfield+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/50R108"
+license_id: "50R108"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

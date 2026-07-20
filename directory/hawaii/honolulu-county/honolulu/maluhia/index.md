@@ -24,4 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Maluhia is a government-operated skilled nursing and intermediate care facility in Honolulu's Kalihi neighborhood, serving Medicare and Medicaid residents since 1967."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/maluhia-125009"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/maluhia-honolulu"}]
 reviews_search_url: "https://www.google.com/search?q=Maluhia+Honolulu+HI+reviews"
+records_url: "https://health.hawaii.gov/ohca/files/2020/11/maluhia-snf-2020.pdf"
 ---

@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Cenoma House is a family-owned 10-bed residential care home in Twin Falls where residents receive a highly personalized level of care. Services include a 24-hour call system, assistance with bathing, dressing, transfers, medication management, and other activities of daily living."
 review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/idaho/twin-falls/cenoma-house"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/twin-falls/cenoma-house-83301"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cenoma-house-52647"}]
 reviews_search_url: "https://www.google.com/search?q=Cenoma+House+Twin+Falls+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

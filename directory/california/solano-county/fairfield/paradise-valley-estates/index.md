@@ -24,5 +24,7 @@ verified_date: "2026-07-19"
 description_full: "A gated nonprofit life plan community in Fairfield, originally founded by retired military officers, offering independent living, assisted living, memory care, and skilled nursing. Its health center earned a 5-out-of-5 overall Medicare rating."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/paradise-valley-estates-157269446555211"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/fairfield/paradise-valley-estates-94533"}]
 reviews_search_url: "https://www.google.com/search?q=Paradise+Valley+Estates+Fairfield+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/486800368"
+license_id: "486800368"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

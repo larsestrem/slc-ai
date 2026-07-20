@@ -1,0 +1,17 @@
+{%- comment -%}
+Typeahead search over states, cities, communities, and operators.
+Progressive enhancement: without JS the form lands on the directory index.
+Pass id="something" when including more than once on a page.
+{%- endcomment -%}
+{%- assign sbid = include.id | default: "fsearch-input" %}
+<div class="fsearch" role="search">
+  <form action="/directory/" method="get">
+    <label class="sr-only" for="{{ sbid }}">Search for a community, city, or state</label>
+    <input type="search" id="{{ sbid }}" placeholder="Type a community, city, or state&hellip;"
+           autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list"
+           aria-controls="{{ sbid }}-results">
+    <button class="btn" type="submit">Search</button>
+  </form>
+  <ul class="fsearch-results" id="{{ sbid }}-results" role="listbox" hidden></ul>
+</div>
+<script src="/assets/search.js" defer></script>

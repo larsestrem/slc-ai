@@ -4,7 +4,7 @@ title: "Wildflower Lodge"
 seo_title: "Wildflower Lodge — Senior Living in La Grande, OR"
 description: "Wildflower Lodge is an assisted living and memory care community in La Grande with 43 assisted living apartments and 30 memory care apartments, operated by Co"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Wildflower Lodge", "url": "/directory/oregon/union-county/la-grande/wildflower-lodge/"}]
-nearby: [{"name": "Angeline Senior Living", "url": "/directory/oregon/union-county/la-grande/angeline-senior-living/", "city_name": "La Grande", "state_abbrev": "OR", "care_levels": ["assisted-living"], "records_note": false, "facility_size": "medium", "description": "A 15-bed licensed residential care facility in downtown La Grande providing assisted living in a small, home-like setting."}]
+nearby: []
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"
@@ -26,5 +26,7 @@ verified_date: "2026-07-14"
 description_full: "Wildflower Lodge is an assisted living and memory care community in La Grande with 43 assisted living apartments and 30 memory care apartments, operated by Compass Senior Living."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/la-grande/wildflower-lodge-senior-living"}]
 reviews_search_url: "https://www.google.com/search?q=Wildflower+Lodge+La+Grande+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M256"
+license_id: "70M256"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -22,5 +22,5 @@ verified_date: "2026-07-19"
 description_full: "The Lodge Assisted Living and Memory Care Community serves seniors in Carson City, Nevada's capital, which is an independent city that functions as its own county-equivalent. The community provides assisted living and dedicated memory care."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/the-lodge-assisted-living-and-memory-care-carson-city"}]
 reviews_search_url: "https://www.google.com/search?q=The+Lodge+Assisted+Living+and+Memory+Care+Community+Carson+City+NV+reviews"
-licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
+licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}
 ---

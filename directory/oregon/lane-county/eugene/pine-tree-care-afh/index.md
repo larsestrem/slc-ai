@@ -21,7 +21,7 @@ capacity: 5
 sources: ["https://www.aplaceformom.com/community/pine-tree-care-afh-1365964", "https://www.senioradvice.com/providers/view/pine-tree-care-adult-foster-home-eugene-or"]
 verified_date: "2026-07-14"
 description_full: "Pine Tree Care is an adult foster home in Eugene offering foster care in a home setting with a garden area and comfortable private rooms."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/pine-tree-care-afh-1365964"}, {"name": "SeniorAdvice", "url": "https://www.senioradvice.com/providers/view/pine-tree-care-adult-foster-home-eugene-or"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/pine-tree-care-afh-1365964"}]
 reviews_search_url: "https://www.google.com/search?q=Pine+Tree+Care+-+AFH+Eugene+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

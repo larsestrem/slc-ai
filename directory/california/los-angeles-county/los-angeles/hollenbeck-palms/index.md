@@ -25,4 +25,6 @@ verified_date: "2026-07-19"
 description_full: "Independent nonprofit continuing care retirement community established in 1890, set on eight and a half acres of gardens in the Boyle Heights neighborhood of Los Angeles."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/hollenbeck-palms-055115"}]
 reviews_search_url: "https://www.google.com/search?q=Hollenbeck+Palms+Los+Angeles+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/191800001"
+license_id: "191800001"
 ---

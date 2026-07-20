@@ -23,6 +23,7 @@ organization: "cascadia-healthcare"
 organization_name: "Cascadia Healthcare"
 cms_ccn: "135146"
 sources: ["https://www.findseniorlivingnow.com/community/cascadia-of-boise-boise-135146", "https://www.cascadiaofboise.com/", "https://www.medicare.gov/care-compare/details/nursing-home/135146/view-all/?state=ID"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Cascadia of Boise is a 99-bed Medicare- and Medicaid-certified skilled nursing facility specializing in ventilator and tracheostomy care and rehabilitation. Families should ask directly about nurse staffing levels per shift."
 reviews_search_url: "https://www.google.com/search?q=Cascadia+of+Boise+Boise+ID+reviews"

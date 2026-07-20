@@ -54,6 +54,11 @@ Every section you complete makes your listing more useful to families:
 - **[Care & services](/for-communities/questionnaire-care/)** — care levels, medical and non-medical services, pets, couples, age requirements, and how you handle complaints
 - **[Daily life](/for-communities/questionnaire-daily-life/)** — dining, activities, fitness, entertainment, outings, transportation
 
+Managed profiles can also show **room types** (unit mix, sizes, and features),
+**amenities organized by category** (room, community, dining, recreation, services), and —
+if you choose to share them — **date-stamped starting rates and current availability**, each
+clearly marked as provided by your community.
+
 **Our recommendation: gather widely, submit from the top.** Every submission is published
 with the submitter's name and title, right at the top of your profile — it's the first
 credibility signal a family sees. Your team's knowledge is exactly what these questionnaires

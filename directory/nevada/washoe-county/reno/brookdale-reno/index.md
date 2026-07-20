@@ -27,5 +27,5 @@ verified_date: "2026-07-19"
 description_full: "Brookdale Reno is a 56-bed memory care community in a quiet residential neighborhood of Reno, operated by Brookdale Senior Living. It uses Brookdale's Clare Bridge dementia care program for residents with Alzheimer's disease and other forms of dementia."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/brookdale-reno-94411"}]
 reviews_search_url: "https://www.google.com/search?q=Brookdale+Reno+Reno+NV+reviews"
-licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
+licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}
 ---

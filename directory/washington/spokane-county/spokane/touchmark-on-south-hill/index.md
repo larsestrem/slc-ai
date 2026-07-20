@@ -23,7 +23,7 @@ organization_name: "Touchmark"
 sources: ["https://www.touchmark.com/senior-living/wa/spokane/south-hill/", "https://www.yelp.com/biz/touchmark-on-south-hill-spokane-4", "https://carelistings.com/assisted-living-homes/spokane-wa/touchmark-on-south-hill/5acd0283a71d8c15cf695352"]
 verified_date: "2026-07-14"
 description_full: "Touchmark on South Hill is a full-service retirement community on a 19-acre campus on Spokane's South Hill, near Manito Park. It offers independent living, assisted living, memory care, and skilled nursing and rehabilitation, plus home health and home care services. The community is part of Touchmark, a multi-state senior living operator."
-review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/touchmark-on-south-hill-spokane-4"}, {"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/spokane-wa/touchmark-on-south-hill/5acd0283a71d8c15cf695352"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/touchmark-on-south-hill-spokane-4"}]
 reviews_search_url: "https://www.google.com/search?q=Touchmark+on+South+Hill+Spokane+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

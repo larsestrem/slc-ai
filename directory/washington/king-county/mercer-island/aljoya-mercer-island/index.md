@@ -22,7 +22,9 @@ organization_name: "Era Living"
 sources: ["https://www.aplaceformom.com/community/aljoya-mercer-island-a-ccrc-139873", "https://www.assistedlivingcenter.com/facilities/wa/mercer-island/aljoya-mercer-island-98040/", "https://www.yelp.com/biz/aljoya-mercer-island-mercer-island-2"]
 verified_date: "2026-07-14"
 description_full: "Continuing care retirement community (CCRC) in the town center of Mercer Island, operated by Seattle-based Era Living. Offers independent and assisted living with a large swimming pool, daily fitness programs, maintained gardens, and diverse menus; U.S. News has rated it a Best Senior Living community for independent living."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/aljoya-mercer-island-a-ccrc-139873"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/wa/mercer-island/aljoya-mercer-island-98040/"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/aljoya-mercer-island-mercer-island-2"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/aljoya-mercer-island-a-ccrc-139873"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/aljoya-mercer-island-mercer-island-2"}]
 reviews_search_url: "https://www.google.com/search?q=Aljoya+Mercer+Island+Mercer+Island+WA+reviews"
+records_url: "https://fortress.wa.gov/dshs/adsaapps/lookup/BHForms.aspx?Lic=2019"
+license_id: "2019"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

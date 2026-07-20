@@ -23,5 +23,7 @@ verified_date: "2026-07-14"
 description_full: "Fulga's Adult Care Home is a small Beaverton adult care home specializing in memory, diabetic, and incontinence care, with skilled nursing on site and both hospice and respite options. The owner has been a caregiver for over fourteen years and a nurse for over eight."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fulgas-ach-151085"}]
 reviews_search_url: "https://www.google.com/search?q=Fulga%27s+ACH+Beaverton+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/518650"
+license_id: "518650"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

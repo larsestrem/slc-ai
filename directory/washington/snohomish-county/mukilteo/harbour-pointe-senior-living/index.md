@@ -20,7 +20,7 @@ care_levels: ["assisted-living", "memory-care", "respite-care"]
 sources: ["https://birdeye.com/harbour-pointe-senior-living-174180552289557", "https://www.yelp.com/biz/harbour-pointe-senior-living-mukilteo", "https://hpmukilteo.com/"]
 verified_date: "2026-07-14"
 description_full: "Harbour Pointe Senior Living offers assisted living, memory care, and respite care in Mukilteo's Harbour Pointe neighborhood."
-review_links: [{"name": "Birdeye", "url": "https://birdeye.com/harbour-pointe-senior-living-174180552289557"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/harbour-pointe-senior-living-mukilteo"}]
+review_links: [{"name": "Birdeye", "url": "https://birdeye.com/harbour-pointe-senior-living-174180552289557"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/harbour-pointe-senior-living-mukilteo"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/harbour-pointe-senior-living-71640"}]
 reviews_search_url: "https://www.google.com/search?q=Harbour+Pointe+Senior+Living+Mukilteo+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

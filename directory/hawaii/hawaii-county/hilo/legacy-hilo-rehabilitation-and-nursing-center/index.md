@@ -24,4 +24,5 @@ sources: ["https://www.carechanges.com/living-communities/legacy-hilo-rehabilita
 verified_date: "2026-07-14"
 description_full: "Legacy Hilo Rehabilitation & Nursing Center is a 100-bed Medicare- and Medicaid-certified skilled nursing facility on Kaumana Drive in Hilo, part of the Ohana Pacific Health network. It offers short-term rehabilitation and long-term nursing care."
 reviews_search_url: "https://www.google.com/search?q=Legacy+Hilo+Rehabilitation+%26+Nursing+Center+Hilo+HI+reviews"
+records_url: "https://health.hawaii.gov/ohca/files/2021/06/legacy-hilo-rehabilitation-nursing-center-snf-2021-Fed-002.pdf"
 ---

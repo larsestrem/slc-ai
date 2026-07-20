@@ -24,5 +24,7 @@ verified_date: "2026-07-14"
 description_full: "Touchmark at Mount Bachelor Village is a full-service retirement community along the Deschutes River in Bend, offering independent living plus licensed residential care (Oregon's term for assisted living) and memory care. The community is operated by Touchmark, a multi-state senior living company."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/touchmark-at-mount-bachelor-village-bend-2"}]
 reviews_search_url: "https://www.google.com/search?q=Touchmark+at+Mount+Bachelor+Village+Bend+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/50R349"
+license_id: "50R349"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

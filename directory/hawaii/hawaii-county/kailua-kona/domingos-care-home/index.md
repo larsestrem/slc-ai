@@ -22,7 +22,8 @@ sources: ["https://health.hawaii.gov/ohca/files/2026/01/Combined-ARCH-Expanded-A
 verified_date: "2026-07-14"
 license_id: "1309-C"
 description_full: "Domingo's Care Home is a state-licensed Type I Expanded Adult Residential Care Home (ARCH) in Kailua-Kona, licensed for 5 residents requiring ambulatory-level, 24-hour assistance, including special-diet accommodations. It appears with an active license in Hawaii's official ARCH vacancy listings."
-review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/kailua-kona-hi/domingos-care-home/5acd01fca71d8c15cf68ac2c"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/kailua-kona/domingo-s-care-home"}]
+review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/kailua-kona/domingo-s-care-home"}]
 reviews_search_url: "https://www.google.com/search?q=Domingo%27s+Care+Home+Kailua-Kona+HI+reviews"
-licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
+records_url: "https://health.hawaii.gov/ohca/files/2022/10/Domingos-Care-Home.2022Annual.05.19.22-ARCHExpanded-ARCH.pdf"
+licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/inspection-reports/"}
 ---

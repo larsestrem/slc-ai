@@ -24,7 +24,7 @@ organization_name: "Merrill Gardens"
 sources: ["https://www.aplaceformom.com/community/truewood-by-merrill-modesto-58724", "https://www.merrillgardens.com/senior-living/ca/modesto/shawnee-drive/"]
 verified_date: "2026-07-19"
 description_full: "Independent living community established in 1993 and operated under Merrill Gardens' Truewood brand. Offers pet-friendly studio, one- and two-bedroom homes with community dining and activities."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/truewood-by-merrill-modesto-58724"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/truewood-by-merrill-modesto-58724"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/truewood-by-merrill-modesto-modesto"}]
 reviews_search_url: "https://www.google.com/search?q=Truewood+by+Merrill%2C+Modesto+Modesto+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

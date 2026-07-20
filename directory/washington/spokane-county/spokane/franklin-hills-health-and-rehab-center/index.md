@@ -20,6 +20,7 @@ facility_size: "large"
 capacity: 100
 cms_ccn: "505024"
 sources: ["https://www.healthcare6.com/nursing-home/spokane-wa/franklin-hills-health-rehab-center-13446.html", "https://www.king5.com/article/news/20-of-the-nations-worst-rated-nursing-homes-are-in-washington-state/281-aaee92e9-25f1-4168-9e7b-97d9d32f458e", "https://www.franklinhillsskillednursing.com/"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Franklin Hills Health & Rehab Center is a 100-bed, for-profit skilled nursing facility at 6021 N Lidgerwood St in Spokane that has served the area since 1960. It provides short-term rehabilitation and long-term nursing care and participates in Medicare and Medicaid."
 reviews_search_url: "https://www.google.com/search?q=Franklin+Hills+Health+%26+Rehab+Center+Spokane+WA+reviews"

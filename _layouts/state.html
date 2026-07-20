@@ -7,6 +7,7 @@ layout: default
 {%- else %}
 <p class="lead">{{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in {{ page.state_name }} — pick a city on the map, or browse the list. Hover or tap a community to see where it is.</p>
 {%- endif %}
+{% include search-box.html %}
 
 {{ content }}
 

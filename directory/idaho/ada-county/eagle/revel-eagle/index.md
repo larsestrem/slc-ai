@@ -26,5 +26,5 @@ verified_date: "2026-07-14"
 description_full: "Revel Eagle is a modern independent living community of 146 private residences on the Boise River and Greenbelt in Eagle, opened in late 2020. The four-story property offers studio, one- and two-bedroom apartments with restaurant-style all-day dining, a pub, theater, salon, and fitness center. It is a 2026 A Place for Mom Best of Senior Living award winner."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/revel-eagle-1414168"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/eagle/revel-eagle"}]
 reviews_search_url: "https://www.google.com/search?q=Revel+Eagle+Eagle+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

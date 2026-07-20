@@ -24,4 +24,6 @@ sources: ["https://www.medicare.gov/care-compare/details/nursing-home/38E075/", 
 verified_date: "2026-07-14"
 description_full: "Tierra Rose Care Center is a 76-bed Medicare- and Medicaid-certified skilled nursing facility in Salem, first certified by CMS in 1980, providing intermediate and skilled nursing services."
 reviews_search_url: "https://www.google.com/search?q=Tierra+Rose+Care+Center+Salem+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/38E075"
+license_id: "38E075"
 ---

@@ -24,7 +24,9 @@ organization_name: "Eskaton"
 sources: ["https://www.aplaceformom.com/community/eskaton-village-grass-valley-98679"]
 verified_date: "2026-07-19"
 description_full: "An Eskaton assisted living and memory care community in Grass Valley with well-kept grounds and a home-like, secure setting."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/eskaton-village-grass-valley-98679"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/eskaton-village-grass-valley-98679"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/grass-valley/eskaton-village-grass-valley-95945"}]
 reviews_search_url: "https://www.google.com/search?q=Eskaton+Village+Grass+Valley+Grass+Valley+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/297001933"
+license_id: "297001933"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

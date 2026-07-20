@@ -26,5 +26,7 @@ verified_date: "2026-07-19"
 description_full: "Westmont at San Miguel Ranch offers independent living, assisted living, and memory care in the San Miguel Ranch neighborhood of Chula Vista. The community is operated by Westmont Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/westmont-at-san-miguel-ranch-1336718"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/westmont-at-san-miguel-ranch-chula-vista-2"}]
 reviews_search_url: "https://www.google.com/search?q=Westmont+at+San+Miguel+Ranch+Chula+Vista+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/374603509"
+license_id: "374603509"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

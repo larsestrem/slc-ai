@@ -26,5 +26,7 @@ verified_date: "2026-07-14"
 description_full: "Prestige Senior Living High Desert is a 75-bed assisted living and memory care community in Bend, near shopping and medical clinics. Residents receive medication management and help with daily activities, with the Expressions memory care program serving residents with Alzheimer's disease or other dementias."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/prestige-senior-living-high-desert-98106"}]
 reviews_search_url: "https://www.google.com/search?q=Prestige+Senior+Living+High+Desert+Bend+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A289"
+license_id: "70A289"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

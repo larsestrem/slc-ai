@@ -26,5 +26,7 @@ verified_date: "2026-07-19"
 description_full: "Luxury senior living community on Calle Real established in 2002, offering independent living, assisted living, and memory care on a large resort-style campus. Pet-friendly, with 12-16 hour nursing and a 24-hour call system."
 review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/california/santa-barbara/maravilla"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/santa-barbara/maravilla-93111"}]
 reviews_search_url: "https://www.google.com/search?q=Maravilla+Santa+Barbara+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/425801937"
+license_id: "425801937"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

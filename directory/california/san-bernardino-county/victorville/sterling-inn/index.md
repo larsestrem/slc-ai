@@ -23,5 +23,7 @@ verified_date: "2026-07-19"
 description_full: "Sterling Inn is an independent and assisted living community in Victorville, serving the High Desert."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/sterling-inn-assisted-living-community-173462361966732"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sterling-inn-55721"}]
 reviews_search_url: "https://www.google.com/search?q=Sterling+Inn+Victorville+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/366413246"
+license_id: "366413246"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

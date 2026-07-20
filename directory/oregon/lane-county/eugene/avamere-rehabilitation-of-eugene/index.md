@@ -23,8 +23,11 @@ organization: "avamere"
 organization_name: "Avamere"
 cms_ccn: "385053"
 sources: ["https://www.avamere.com/avamere-rehabilitation-of-eugene/", "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-eugene-385053", "https://www.ohca.com/facility-finder/avamere-rehabilitation-of-eugene/"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Avamere Rehabilitation of Eugene is a 92-bed skilled nursing and rehabilitation facility in Eugene. CMS closely monitored the facility for a period between 2024 and 2025 due to a documented pattern of care concerns."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-eugene-385053"}]
 reviews_search_url: "https://www.google.com/search?q=Avamere+Rehabilitation+of+Eugene+Eugene+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385053"
+license_id: "385053"
 ---

@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Karcher Senior Living (formerly Prestige Senior Living at Karcher Estates) is a retirement and continuing care community in the heart of Nampa offering independent living and assisted living with access to rehabilitation services."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/nampa/karcher-senior-living"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/prestige-senior-living-at-karcher-estates-nampa"}]
 reviews_search_url: "https://www.google.com/search?q=Karcher+Senior+Living+Nampa+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

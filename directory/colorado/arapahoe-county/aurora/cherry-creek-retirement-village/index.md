@@ -27,5 +27,5 @@ verified_date: "2026-07-19"
 description_full: "Established in 1989, Cherry Creek Retirement Village offers 187 independent living and 30 assisted living apartments in one building across from Meadow Hills Golf Course in Aurora."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cherry-creek-retirement-village-93638"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/colorado/aurora/cherry-creek-retirement-village-80014"}]
 reviews_search_url: "https://www.google.com/search?q=Cherry+Creek+Retirement+Village+Aurora+CO+reviews"
-licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
+licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities/find-and-compare-facilities"}
 ---

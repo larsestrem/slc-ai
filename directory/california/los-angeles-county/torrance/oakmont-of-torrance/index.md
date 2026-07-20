@@ -25,7 +25,9 @@ organization_name: "Oakmont Management Group"
 sources: ["https://carelistings.com/assisted-living-homes/torrance-ca/oakmont-of-torrance/67f33cd5a073024f4eb49854", "https://www.aplaceformom.com/community/oakmont-of-torrance-1441304", "https://www.yelp.com/biz/oakmont-of-torrance-torrance"]
 verified_date: "2026-07-19"
 description_full: "Modern assisted living and memory care community on Lomita Boulevard near Torrance Memorial Medical Center, licensed for 126 residents. One of the newer luxury senior living options in the South Bay."
-review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/torrance-ca/oakmont-of-torrance/67f33cd5a073024f4eb49854"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-torrance-1441304"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-torrance-torrance"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-torrance-1441304"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-torrance-torrance"}]
 reviews_search_url: "https://www.google.com/search?q=Oakmont+of+Torrance+Torrance+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/198320250"
+license_id: "198320250"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

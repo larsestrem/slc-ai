@@ -25,5 +25,7 @@ verified_date: "2026-07-14"
 description_full: "An assisted living and memory care community on Lancaster Drive NE in Salem, managed under the Cogir Senior Living brand. It offers apartment living with 24-hour staffing, an activities program, and secured dementia care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cedar-village-by-cogir-60019"}]
 reviews_search_url: "https://www.google.com/search?q=Cedar+Village+by+Cogir+Salem+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M222"
+license_id: "70M222"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

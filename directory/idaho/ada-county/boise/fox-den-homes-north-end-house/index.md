@@ -22,7 +22,6 @@ organization_name: "Fox Den Homes"
 sources: ["https://carelistings.com/assisted-living-homes/boise-id/fox-den-homes---north-end-house/67f355d4a073024f4eb4f46e", "https://www.seniorcareauthority.com/assisted-living/fox-den-homes-north-end-house/", "https://www.foxdenidaho.com/"]
 verified_date: "2026-07-14"
 description_full: "Fox Den Homes North End House is an 8-bed residential assisted living home in Boise's historic North End, owned and operated by a nurse. Part of the Fox Den Homes group, it offers personal care, medication management, meals, and 24-hour staffing in a small home environment."
-review_links: [{"name": "CareListings", "url": "https://carelistings.com/assisted-living-homes/boise-id/fox-den-homes---north-end-house/67f355d4a073024f4eb4f46e"}, {"name": "Senior Care Authority", "url": "https://www.seniorcareauthority.com/assisted-living/fox-den-homes-north-end-house/"}]
 reviews_search_url: "https://www.google.com/search?q=Fox+Den+Homes+North+End+House+Boise+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

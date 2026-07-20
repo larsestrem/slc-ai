@@ -25,5 +25,5 @@ verified_date: "2026-07-19"
 description_full: "Sunrise of Sandy provides assisted living, memory care, and short-term respite stays near Alta View Hospital in Sandy. Memory care residents live in the secured Reminiscence neighborhood, and the community was named a U.S. News Best Senior Living community for both assisted living and memory care in 2026."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunrise-of-sandy-142617"}]
 reviews_search_url: "https://www.google.com/search?q=Sunrise+of+Sandy+Sandy+UT+reviews"
-licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
+licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://provider.dlbc.utah.gov/ccl/facilities"}
 ---

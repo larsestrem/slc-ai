@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Applewood Assisted Living is a small, 9-bed residential assisted living home in Boise, owned and operated by a registered nurse."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/applewood-assisted-living-147953"}]
 reviews_search_url: "https://www.google.com/search?q=Applewood+Assisted+Living+Boise+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

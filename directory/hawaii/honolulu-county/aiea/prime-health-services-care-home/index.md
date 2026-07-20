@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Prime Health Services Care Home is a small residential care home in Aiea offering memory care with 24-hour staffing and personalized care plans."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/prime-health-services-care-home-1369023"}]
 reviews_search_url: "https://www.google.com/search?q=Prime+Health+Services+Care+Home+Aiea+HI+reviews"
-licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
+licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/inspection-reports/"}
 ---

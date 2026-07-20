@@ -22,7 +22,7 @@ facility_size: "large"
 sources: ["https://www.assistedlivingcenter.com/facilities/ca/stanton/rowntree-gardens-90680/", "https://www.aplaceformom.com/community/rowntree-gardens-54380"]
 verified_date: "2026-07-19"
 description_full: "Rowntree Gardens is a licensed not-for-profit continuing care retirement community in Stanton offering independent living, assisted living, memory care, skilled nursing, and rehabilitation."
-review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ca/stanton/rowntree-gardens-90680/"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/rowntree-gardens-54380"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/rowntree-gardens-54380"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/rowntree-gardens-senior-living-stanton"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/stanton/rowntree-gardens-stanton"}]
 reviews_search_url: "https://www.google.com/search?q=Rowntree+Gardens+Stanton+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

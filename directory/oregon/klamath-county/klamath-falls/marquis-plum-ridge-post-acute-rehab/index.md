@@ -26,4 +26,6 @@ verified_date: "2026-07-14"
 description_full: "Marquis Plum Ridge Post Acute Rehab is a skilled nursing facility in Klamath Falls providing post-acute rehabilitation and long-term care. It is operated by Marquis Companies, a Milwaukie, Oregon-based post-acute care operator."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/marquis-plum-ridge-385137"}]
 reviews_search_url: "https://www.google.com/search?q=Marquis+Plum+Ridge+Post+Acute+Rehab+Klamath+Falls+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385137"
+license_id: "385137"
 ---

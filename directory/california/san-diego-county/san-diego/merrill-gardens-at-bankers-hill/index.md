@@ -24,7 +24,7 @@ organization_name: "Merrill Gardens"
 sources: ["https://reviews.birdeye.com/merrill-gardens-at-bankers-hill-157255940767595", "https://www.merrillgardens.com/senior-living/ca/san-diego/merrill-gardens-at-bankers-hill/", "https://www.caring.com/senior-living/california/san-diego/merrill-gardens-at-bankers-hill-92103"]
 verified_date: "2026-07-19"
 description_full: "Merrill Gardens at Bankers Hill offers independent living, assisted living, and memory care in San Diego's Bankers Hill neighborhood near Balboa Park. The community is part of Merrill Gardens, a Seattle-based family of senior living communities, and earns strong marks from residents and families."
-review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/merrill-gardens-at-bankers-hill-157255940767595"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/san-diego/merrill-gardens-at-bankers-hill-92103"}]
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/merrill-gardens-at-bankers-hill-157255940767595"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/san-diego/merrill-gardens-at-bankers-hill-92103"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-bankers-hill-san-diego-4"}]
 reviews_search_url: "https://www.google.com/search?q=Merrill+Gardens+at+Bankers+Hill+San+Diego+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

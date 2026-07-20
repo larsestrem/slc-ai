@@ -24,7 +24,9 @@ organization_name: "Avamere Family of Companies"
 sources: ["https://www.assistedlivingcenter.com/facilities/or/hermiston/avamere-at-hermiston-97838/", "https://www.mycaringplan.com/senior-living/avamere-at-hermiston/", "https://avamereathermiston.com/"]
 verified_date: "2026-07-14"
 description_full: "A 57-room assisted living community in Hermiston offering round-the-clock caregiving, medication management, and respite stays in studio and one-bedroom apartments. Operated by Oregon-based Avamere."
-review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/hermiston/avamere-at-hermiston-97838/"}, {"name": "My Caring Plan", "url": "https://www.mycaringplan.com/senior-living/avamere-at-hermiston/"}]
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/hermiston/avamere-at-hermiston"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/avamere-of-hermiston-60343"}]
 reviews_search_url: "https://www.google.com/search?q=Avamere+at+Hermiston+Hermiston+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M040"
+license_id: "70M040"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

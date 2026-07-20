@@ -22,7 +22,7 @@ facility_size: "medium"
 sources: ["https://www.aplaceformom.com/community/the-ridge-at-healdsburg-101863", "https://theridgeseniorlife.com/"]
 verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community set on nine landscaped acres in the Healdsburg wine country, formerly known as Healdsburg Senior Living. The campus is known for its gardens and resident farm animals, with music therapy and intergenerational programs; it is currently managed by Brightwater Senior Living after earlier ownership changes."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-ridge-at-healdsburg-101863"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-ridge-at-healdsburg-101863"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/healdsburg/the-ridge-at-healdsburg"}]
 reviews_search_url: "https://www.google.com/search?q=The+Ridge+at+Healdsburg+Healdsburg+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

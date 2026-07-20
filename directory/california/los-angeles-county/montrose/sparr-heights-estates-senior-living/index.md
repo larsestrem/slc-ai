@@ -25,5 +25,7 @@ verified_date: "2026-07-19"
 description_full: "Assisted living and memory care community on Honolulu Avenue in the Montrose/Sparr Heights neighborhood of Glendale, operated by Sinceri Senior Living. Services include 24-hour supervision, medication management, and specialized memory care programming, with assisted living base rents starting around $4,300 per month."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sparr-heights-estates-senior-living-54524"}]
 reviews_search_url: "https://www.google.com/search?q=Sparr+Heights+Estates+Senior+Living+Montrose+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/197609594"
+license_id: "197609594"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

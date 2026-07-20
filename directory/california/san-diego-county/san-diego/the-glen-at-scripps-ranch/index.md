@@ -22,7 +22,7 @@ facility_size: "large"
 sources: ["https://reviews.birdeye.com/the-glen-at-scripps-ranch-148041992805747", "https://theglenatscrippsranch.com/contact-us/", "https://health.usnews.com/best-senior-living/the-glen-at-scripps-ranch-ccrc-31323"]
 verified_date: "2026-07-19"
 description_full: "The Glen at Scripps Ranch is a continuing care retirement community in the Scripps Ranch neighborhood of San Diego, offering independent living, assisted living, memory care, and skilled nursing on one campus."
-review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/the-glen-at-scripps-ranch-148041992805747"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-glen-at-scripps-ranch-ccrc-31323"}]
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/the-glen-at-scripps-ranch-148041992805747"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-glen-at-scripps-ranch-san-diego"}]
 reviews_search_url: "https://www.google.com/search?q=The+Glen+at+Scripps+Ranch+San+Diego+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

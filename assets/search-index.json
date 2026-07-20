@@ -1,0 +1,35 @@
+---
+layout: null
+permalink: /assets/search-index.json
+---
+[{"t":"x","n":"","u":""}
+{%- assign hidden = "," %}
+{%- for st in site.data.states %}{% if st.hidden %}{% assign hidden = hidden | append: st.slug | append: "," %}{% endif %}{% endfor %}
+{%- for st in site.data.states %}
+{%- unless st.hidden %}
+{%- assign stats = site.data.stats.states[st.slug] %}
+,{"t":"state","n":{{ st.name | jsonify }},"d":"{{ stats.facilities }} communities","u":"/directory/{{ st.slug }}/"}
+{%- endunless %}
+{%- endfor %}
+{%- for p in site.pages %}
+{%- assign parts = p.url | split: "/" %}
+{%- if p.layout == "facility" and p.url contains "/directory/" %}
+{%- assign key = "," | append: p.state | append: "," %}
+{%- unless hidden contains key %}
+,{"t":"facility","n":{{ p.title | jsonify }},"d":{{ p.city_name | append: ", " | append: p.state_abbrev | jsonify }},"u":{{ p.url | jsonify }}}
+{%- endunless %}
+{%- endif %}
+{%- if p.layout == "city" %}
+{%- assign stslug = parts[2] %}
+{%- assign key = "," | append: stslug | append: "," %}
+{%- unless hidden contains key %}
+{%- for st in site.data.states %}{% if st.slug == stslug %}
+,{"t":"city","n":{{ p.city_name | jsonify }},"d":{{ st.name | jsonify }},"u":{{ p.url | jsonify }}}
+{%- endif %}{% endfor %}
+{%- endunless %}
+{%- endif %}
+{%- if p.layout == "organization" %}
+,{"t":"org","n":{{ p.title | jsonify }},"d":"operator","u":{{ p.url | jsonify }}}
+{%- endif %}
+{%- endfor %}
+]

@@ -22,7 +22,9 @@ organization_name: "Cogir Senior Living"
 sources: ["https://www.aplaceformom.com/community/ocean-ridge-by-cogir-141204", "https://www.mycaringplan.com/senior-living/ocean-ridge/", "https://cogirusa.com/communities/ocean-ridge/"]
 verified_date: "2026-07-14"
 description_full: "A senior living community in a quiet Coos Bay neighborhood offering independent living, assisted living, and memory care. Formerly known as Ocean Ridge Assisted Living, now managed by Cogir Senior Living."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/ocean-ridge-by-cogir-141204"}, {"name": "My Caring Plan", "url": "https://www.mycaringplan.com/senior-living/ocean-ridge/"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/ocean-ridge-by-cogir-141204"}]
 reviews_search_url: "https://www.google.com/search?q=Ocean+Ridge+by+Cogir+Coos+Bay+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A302"
+license_id: "70A302"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

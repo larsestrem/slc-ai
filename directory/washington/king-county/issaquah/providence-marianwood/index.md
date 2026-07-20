@@ -22,8 +22,9 @@ organization: "providence"
 organization_name: "Providence"
 cms_ccn: "505418"
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/providence-marianwood-505418", "https://www.seniorcare.com/nursing-homes/wa/issaquah/providence-marianwood/505418/"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "The only nonprofit skilled nursing and rehabilitation facility in the Issaquah/Sammamish area, operated by Providence, offering short-term rehab and long-term care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/providence-marianwood-505418"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/providence-marianwood-issaquah-3"}]
 reviews_search_url: "https://www.google.com/search?q=Marianwood+Health+%26+Rehabilitation+Issaquah+WA+reviews"
 ---

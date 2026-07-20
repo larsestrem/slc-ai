@@ -23,7 +23,10 @@ organization: "volare-health"
 organization_name: "Volare Health"
 cms_ccn: "385149"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385149/", "https://www.volarehcm.com/locations/highland-house-nursing-and-rehabilitation-center/", "https://ltclicensing.oregon.gov/Facilities/Details/385149"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Highland House Nursing and Rehabilitation Center is a 119-bed Medicare- and Medicaid-certified skilled nursing facility in Grants Pass providing short-term rehabilitation and long-term nursing care. It is operated by Volare Health."
 reviews_search_url: "https://www.google.com/search?q=Highland+House+Nursing+and+Rehabilitation+Center+Grants+Pass+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385149"
+license_id: "385149"
 ---

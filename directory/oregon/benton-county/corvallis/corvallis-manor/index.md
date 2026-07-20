@@ -25,4 +25,6 @@ records_note: true
 description_full: "Corvallis Manor is a Medicare- and Medicaid-certified skilled nursing facility in Corvallis offering short-term rehabilitation and long-term nursing care. The facility has 135 certified beds. It is regulated by CMS and the Oregon Department of Human Services long-term care licensing program."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/corvallis-manor-385072"}]
 reviews_search_url: "https://www.google.com/search?q=Corvallis+Manor+Corvallis+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385072"
+license_id: "385072"
 ---

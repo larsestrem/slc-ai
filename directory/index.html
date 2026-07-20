@@ -9,6 +9,7 @@ crumbs:
 <h1>Senior Living Directory</h1>
 <p class="lead">Browse communities the way families actually search: state → county → city.
 Every listing shows care levels, size, contact details, and links to official inspection records.</p>
+{% include search-box.html %}
 
 <ul class="grid">
   {%- for st in site.data.states %}

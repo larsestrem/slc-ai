@@ -26,5 +26,7 @@ verified_date: "2026-07-19"
 description_full: "Newer assisted living and memory care community on Sierra College Boulevard in Granite Bay."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/wellquest-of-granite-bay-175296294625579"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/wellquest-of-granite-bay-granite-bay"}]
 reviews_search_url: "https://www.google.com/search?q=WellQuest+of+Granite+Bay+Granite+Bay+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/312700996"
+license_id: "312700996"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

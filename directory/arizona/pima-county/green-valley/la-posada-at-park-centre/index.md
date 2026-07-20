@@ -24,5 +24,5 @@ verified_date: "2026-07-19"
 description_full: "La Posada at Park Centre is a nonprofit continuing care retirement community set in a pecan orchard in Green Valley, south of Tucson, with garden homes, apartments, assisted living, memory care, and skilled nursing on campus."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/arizona/green-valley/la-posada-at-park-center"}]
 reviews_search_url: "https://www.google.com/search?q=La+Posada+at+Park+Centre+Green+Valley+AZ+reviews"
-licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
+licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azcarecheck.azdhs.gov/"}
 ---

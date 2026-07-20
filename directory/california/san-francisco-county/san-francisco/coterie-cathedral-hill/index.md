@@ -25,7 +25,7 @@ organization_name: "Coterie Senior Living"
 sources: ["https://everyplace.care/facility/coterie-cathedral-hill-san-francisco-ca-385601116", "https://www.aplaceformom.com/community/coterie-cathedral-hill-1451357", "https://www.yelp.com/biz/coterie-cathedral-hill-san-francisco", "https://luriegroup.com/developments/1001-van-ness-ave"]
 verified_date: "2026-07-19"
 description_full: "Luxury high-rise senior living community that opened in 2022 at 1001 Van Ness Avenue in San Francisco's Cathedral Hill neighborhood, offering independent living, assisted living, and memory care across 209 residences. Amenities include multiple dining venues, a wellness and fitness center with heated pool, a theater, and a rooftop terrace. Developed by Related Companies with Atria Senior Living under the Coterie brand."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/coterie-cathedral-hill-1451357"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/coterie-cathedral-hill-san-francisco"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/coterie-cathedral-hill-1451357"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/coterie-cathedral-hill-san-francisco"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/san-francisco/coterie-cathedral-hill"}]
 reviews_search_url: "https://www.google.com/search?q=Coterie+Cathedral+Hill+San+Francisco+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

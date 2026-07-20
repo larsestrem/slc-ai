@@ -21,7 +21,7 @@ capacity: 5
 sources: ["https://www.aplaceformom.com/community/heightsview-care-home-146456", "https://www.senioradvisor.com/local/heightsview-adult-care-home-beaverton-or", "https://www.seniorhousingnet.com/seniorliving-detail/heightsview-adult-care-home_18935-sw-heightsview-ct_beaverton_or_97007-635223"]
 verified_date: "2026-07-14"
 description_full: "Heightsview Care Home is a small residential care home in Beaverton operated by the same owner since 2007, with more than 20 years of caregiving experience."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/heightsview-care-home-146456"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/heightsview-adult-care-home-beaverton-or"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/heightsview-adult-care-home_18935-sw-heightsview-ct_beaverton_or_97007-635223"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/heightsview-care-home-146456"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/heightsview-adult-care-home-beaverton-or"}]
 reviews_search_url: "https://www.google.com/search?q=Heightsview+Care+Home+Beaverton+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

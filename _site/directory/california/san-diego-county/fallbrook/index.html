@@ -95,7 +95,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 }
 
 /* Breadcrumbs */
-.crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem 0 0; }
+.crumbs { font-size: .85rem; color: var(--muted); margin: 1.2rem auto 0; }
 .crumbs ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .25rem; }
 .crumbs li + li::before { content: "›"; margin-right: .25rem; color: var(--muted); }
 .crumbs a { color: var(--muted); text-decoration: none; }
@@ -181,6 +181,18 @@ tbody tr:hover { background: var(--soft); }
 
 /* Utility */
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.fsearch { position: relative; max-width: 34rem; margin: 1rem 0 1.2rem; }
+.fsearch form { display: flex; gap: .5rem; }
+.fsearch input[type=search] { flex: 1; min-width: 0; font: inherit; padding: .6rem .8rem; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); color: var(--ink); }
+.fsearch input[type=search]:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.fsearch-results { position: absolute; z-index: 20; left: 0; right: 0; top: 100%; margin: .3rem 0 0; padding: .3rem; list-style: none; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 8px 24px rgba(27,29,33,.12); }
+.fsearch-results li { border-radius: 8px; }
+.fsearch-results a { display: flex; align-items: baseline; gap: .5rem; padding: .5rem .6rem; text-decoration: none; color: var(--ink); }
+.fsearch-results .fsearch-ctx { color: var(--muted); font-size: .85rem; flex: 1; }
+.fsearch-results .fsearch-type { color: var(--muted); font-size: .72rem; text-transform: uppercase; letter-spacing: .04em; }
+.fsearch-results li:hover, .fsearch-results li.active { background: var(--soft); }
+.fsearch-empty { padding: .5rem .6rem; color: var(--muted); }
+.hero .fsearch { margin: 1.2rem 0 .4rem; }
 .skip { position: absolute; left: -999px; top: 0; background: var(--surface); padding: .5rem 1rem; z-index: 10; }
 .skip:focus { left: .5rem; top: .5rem; }
 
@@ -259,6 +271,19 @@ tbody tr:hover { background: var(--soft); }
   <main id="main" class="wrap">
     <h1>Senior Living in Fallbrook, CA</h1>
 <p class="lead">1 senior living community in Fallbrook, San Diego County, California.</p>
+
+<div class="fsearch" role="search">
+  <form action="/directory/" method="get">
+    <label class="sr-only" for="fsearch-input">Search for a community, city, or state</label>
+    <input type="search" id="fsearch-input" placeholder="Type a community, city, or state&hellip;"
+           autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list"
+           aria-controls="fsearch-input-results">
+    <button class="btn" type="submit">Search</button>
+  </form>
+  <ul class="fsearch-results" id="fsearch-input-results" role="listbox" hidden></ul>
+</div>
+<script src="/assets/search.js" defer></script>
+
 
 
 

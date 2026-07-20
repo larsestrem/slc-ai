@@ -28,4 +28,5 @@ records_note: true
 description_full: "Silverton Health and Rehabilitation of Cascadia is a 50-bed Medicare- and Medicaid-certified skilled nursing facility in Silverton, in the Silver Valley area of Shoshone County, offering short-term rehabilitation and long-term nursing care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/silverton-health-and-rehabilitation-of-cascadia-135058"}]
 reviews_search_url: "https://www.google.com/search?q=Silverton+Health+and+Rehabilitation+of+Cascadia+Silverton+ID+reviews"
+records_url: "https://publicdocuments.dhw.idaho.gov/WebLink/Browse.aspx?id=11868&dbid=0&repo=PUBLIC-DOCUMENTS&cr=1"
 ---

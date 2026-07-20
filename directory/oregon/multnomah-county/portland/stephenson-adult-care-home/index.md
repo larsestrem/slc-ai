@@ -21,7 +21,9 @@ capacity: 5
 sources: ["https://www.senioradvice.com/providers/view/stephenson-adult-care-home-portland-or", "https://www.aplaceformom.com/community/stephenson-adult-care-home-96664", "https://www.bbb.org/us/or/portland/profile/adult-family-homes/stephenson-adult-care-home-1296-22037490"]
 verified_date: "2026-07-14"
 description_full: "Stephenson Adult Care Home is a residential foster care home in an upscale southwest Portland neighborhood with a view of Mt. Hood, catering primarily to older adults. It offers spacious private rooms with private half-baths."
-review_links: [{"name": "SeniorAdvice", "url": "https://www.senioradvice.com/providers/view/stephenson-adult-care-home-portland-or"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/stephenson-adult-care-home-96664"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/stephenson-adult-care-home-96664"}]
 reviews_search_url: "https://www.google.com/search?q=Stephenson+Adult+Care+Home+Portland+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/514205"
+license_id: "514205"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

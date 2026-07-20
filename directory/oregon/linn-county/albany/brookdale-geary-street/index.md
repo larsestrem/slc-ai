@@ -26,5 +26,7 @@ verified_date: "2026-07-14"
 description_full: "Brookdale Geary Street is a 44-bed assisted living and memory care community in Albany operated by Brookdale Senior Living, using the Clare Bridge memory care program for residents with Alzheimer's disease and dementia."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/brookdale-geary-street-60029"}]
 reviews_search_url: "https://www.google.com/search?q=Brookdale+Geary+Street+Albany+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M016"
+license_id: "70M016"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -22,7 +22,7 @@ organization_name: "Koelsch Communities"
 sources: ["https://ultimateseniorresource.com/states/washington/kirkland/madison-house", "https://www.aplaceformom.com/community/madison-house-71297", "https://www.yelp.com/biz/madison-house-kirkland"]
 verified_date: "2026-07-14"
 description_full: "Independent and assisted living community in Kirkland's Totem Lake area, operated by family-owned Koelsch Communities."
-review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/washington/kirkland/madison-house"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/madison-house-71297"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/madison-house-kirkland"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/madison-house-71297"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/madison-house-kirkland"}]
 reviews_search_url: "https://www.google.com/search?q=Madison+House+Kirkland+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

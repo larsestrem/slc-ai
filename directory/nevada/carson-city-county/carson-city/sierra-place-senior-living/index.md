@@ -23,5 +23,5 @@ verified_date: "2026-07-19"
 description_full: "Independent and assisted living community in Carson City, recently renovated with spacious rooms and a pleasant outdoor area."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/nevada/carson-city/sierra-place-senior-living"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/nevada/carson-city/sierra-place-senior-living"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sierra-place-retirement-community-94431"}]
 reviews_search_url: "https://www.google.com/search?q=Sierra+Place+Senior+Living+Carson+City+NV+reviews"
-licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
+licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}
 ---

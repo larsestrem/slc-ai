@@ -21,6 +21,7 @@ facility_size: "large"
 capacity: 89
 cms_ccn: "505341"
 sources: ["https://www.healthcare4ppl.com/nursing-home/washington/vancouver/bridge-crest-post-acute-505341.html", "https://health.usnews.com/best-nursing-homes/area/wa/bridge-crest-post-acute-505341"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Bridge Crest Post Acute is an 89-bed skilled nursing facility at 5220 NE Hazel Dell Ave in Vancouver, operated by PACS Group, offering short-term rehabilitation and long-term nursing care. It is Medicare- and Medicaid-certified."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/bridge-crest-post-acute-505341"}]

@@ -24,5 +24,5 @@ verified_date: "2026-07-19"
 description_full: "Vista Pointe at Sierra Vista offers assisted living and memory care in Cochise County's largest city."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/vista-pointe-at-sierra-vista-173471338079109"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/vista-pointe-at-sierra-vista-53553"}]
 reviews_search_url: "https://www.google.com/search?q=Vista+Pointe+at+Sierra+Vista+Sierra+Vista+AZ+reviews"
-licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
+licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azcarecheck.azdhs.gov/"}
 ---

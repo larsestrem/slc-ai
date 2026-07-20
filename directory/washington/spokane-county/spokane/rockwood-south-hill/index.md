@@ -19,6 +19,7 @@ website: "https://www.rockwoodretirement.org/southhill/"
 care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"]
 facility_size: "large"
 sources: ["https://www.rockwoodretirement.org/southhill/", "https://www.seniorresource.com/retirement_community/rockwood-south-hill-spokane-wa-ccrc/", "https://www.leadingagewa.org/directory/rockwood-retirement-communities/"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Rockwood South Hill is a nonprofit continuing care retirement community (CCRC) on Spokane's South Hill, operated by Rockwood Retirement Communities. It offers independent living, assisted living, memory care, and skilled nursing on one campus. Rockwood's two Spokane campuses are the only accredited nonprofit CCRCs in the region."
 reviews_search_url: "https://www.google.com/search?q=Rockwood+South+Hill+Spokane+WA+reviews"

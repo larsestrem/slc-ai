@@ -23,7 +23,7 @@ organization_name: "Legacy Retirement Communities"
 sources: ["https://www.assistedlivingcenter.com/facilities/ut/ogden/legacy-house-of-ogden-84405/", "https://www.caring.com/senior-living/utah/ogden/legacy-house-of-ogden-84405"]
 verified_date: "2026-07-19"
 description_full: "Legacy House of Ogden offers assisted living and memory care across the street from Ogden Regional Medical Center in south Ogden."
-review_links: [{"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/ut/ogden/legacy-house-of-ogden-84405/"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/utah/ogden/legacy-house-of-ogden-84405"}]
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/utah/ogden/legacy-house-of-ogden-84405"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/legacy-house-assisted-living-of-ogden-70908"}]
 reviews_search_url: "https://www.google.com/search?q=Legacy+House+of+Ogden+Ogden+UT+reviews"
-licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
+licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://provider.dlbc.utah.gov/ccl/facilities"}
 ---

@@ -24,5 +24,7 @@ verified_date: "2026-07-19"
 description_full: "Community-based nonprofit retirement center founded in 1965, offering multiple levels of care including independent living apartments, assisted living and memory care. Independent living residents choose from unfurnished studio, one- and two-bedroom apartments with transportation and support services."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/casa-de-modesto-58712"}]
 reviews_search_url: "https://www.google.com/search?q=Casa+de+Modesto+Retirement+Center+Modesto+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/500300107"
+license_id: "500300107"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

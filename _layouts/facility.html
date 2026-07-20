@@ -114,7 +114,7 @@ layout: default
         See <a href="/guides/levels-of-care-explained/">levels of care explained</a>.</p>
       </section>
 
-      {%- if page.dining_text or page.activities_list or page.amenities %}
+      {%- if page.dining_text or page.activities_list or page.amenities or page.amenities_groups %}
       <section class="panel" aria-labelledby="daily-h">
         <h2 id="daily-h">Daily life at {{ page.title }}{% if page.claimed_date %} <span class="from-community">From the community</span>{% endif %}</h2>
         {%- if page.dining_text %}
@@ -128,7 +128,13 @@ layout: default
         <h3>Activities &amp; engagement</h3>
         <ul class="badges" aria-label="Regular activities">{% for a in page.activities_list %}<li><span class="badge">{{ a }}</span></li>{% endfor %}</ul>
         {%- endif %}
-        {%- if page.amenities %}
+        {%- if page.amenities_groups %}
+        <h3>Amenities</h3>
+        {%- for g in page.amenities_groups %}
+        <h4>{{ g.label }}</h4>
+        <ul class="badges" aria-label="{{ g.label }}">{% for a in g.items %}<li><span class="badge">{{ a }}</span></li>{% endfor %}</ul>
+        {%- endfor %}
+        {%- elsif page.amenities %}
         <h3>Amenities</h3>
         <ul class="badges" aria-label="Amenities">{% for a in page.amenities %}<li><span class="badge">{{ a }}</span></li>{% endfor %}</ul>
         {%- endif %}
@@ -147,6 +153,26 @@ layout: default
           {%- endfor %}
         </ul>
         <p style="margin-bottom:0"><a class="btn ghost" href="{{ page.team_url }}">Meet the team — experience &amp; background &rarr;</a></p>
+      </section>
+      {%- endif %}
+
+      {%- if page.room_types %}
+      <section class="panel" aria-labelledby="roomtypes-h">
+        <h2 id="roomtypes-h">Room types{% if page.claimed_date %} <span class="from-community">From the community</span>{% endif %}</h2>
+        <div class="care-detail-grid">
+          {%- for rt in page.room_types %}
+          <div class="card care-detail">
+            <h3>{{ rt.type }}{% if rt.count %} <span class="count">· {{ rt.count }} units</span>{% endif %}</h3>
+            {%- if rt.sqft %}<p class="meta">{{ rt.sqft }} sq ft</p>{% endif %}
+            {%- if rt.features %}
+            <ul class="badges" aria-label="{{ rt.type }} features">{% for f in rt.features %}<li><span class="badge">{{ f }}</span></li>{% endfor %}</ul>
+            {%- endif %}
+            {%- if rt.description %}<p>{{ rt.description }}</p>{% endif %}
+          </div>
+          {%- endfor %}
+        </div>
+        <p class="notice" style="margin-bottom:0">Floor plans and what's included vary by apartment —
+        confirm current layouts and availability on your <a href="/guides/touring-checklist/">tour</a>.</p>
       </section>
       {%- endif %}
 
@@ -199,6 +225,28 @@ layout: default
 
     <aside>
       {% include rating-glance.html %}
+
+      {%- assign managed = false %}
+      {%- if page.claimed_date or page.contributors %}{% assign managed = true %}{% endif %}
+      {%- if managed %}{% if page.pricing or page.availability_status %}
+      <section class="panel" aria-labelledby="pricing-h">
+        <h2 id="pricing-h">Pricing &amp; availability <span class="from-community">From the community</span></h2>
+        {%- if page.availability_status %}
+        <p><strong>Availability:</strong> {{ page.availability_status }}{% if page.availability_as_of %} <span class="count">(as of {{ page.availability_as_of }})</span>{% endif %}</p>
+        {%- endif %}
+        {%- if page.pricing %}
+        <dl class="kv">
+          {%- for pr in page.pricing %}
+          <dt>{{ pr.label }}</dt><dd>{{ pr.starting_at }}</dd>
+          {%- endfor %}
+        </dl>
+        {%- if page.pricing_as_of %}<p class="count">Rates as of {{ page.pricing_as_of }}, provided by the community.</p>{% endif %}
+        {%- endif %}
+        <p class="notice" style="margin-bottom:0">Starting rates rarely tell the whole story — always
+        confirm current pricing directly and ask
+        <a href="/guides/whats-not-included-hidden-fees/">what's not included</a>.</p>
+      </section>
+      {%- endif %}{% endif %}
 
       <section class="panel" aria-labelledby="tour-h">
         <h2 id="tour-h">Before you tour</h2>

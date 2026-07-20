@@ -26,5 +26,7 @@ verified_date: "2026-07-19"
 description_full: "Retirement community in the Temecula wine country foothills offering independent living, assisted living, and memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-park-of-vintage-hills-55910"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/atria-park-of-vintage-hills-temecula"}]
 reviews_search_url: "https://www.google.com/search?q=Atria+Park+of+Vintage+Hills+Temecula+CA+reviews"
+records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/336426083"
+license_id: "336426083"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

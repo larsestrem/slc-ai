@@ -24,5 +24,7 @@ verified_date: "2026-07-14"
 description_full: "Bonaventure of Salem is a senior living community in southeast Salem offering independent living, assisted living, and memory care on one campus. Residents in the secured memory care neighborhood receive 24-hour supervision and dementia-specific programming. The community allows residents to age in place and adjust their level of care as needed."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bonaventure-of-salem-1359646"}]
 reviews_search_url: "https://www.google.com/search?q=Bonaventure+of+Salem+Salem+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A320"
+license_id: "70A320"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

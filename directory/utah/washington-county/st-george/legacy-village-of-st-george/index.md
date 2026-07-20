@@ -24,7 +24,7 @@ organization_name: "Legacy Retirement Communities"
 sources: ["https://www.aplaceformom.com/community/legacy-village-of-st-george-1454104", "https://www.familyassets.com/assisted-living/utah/saint-george/legacy-village-of-st-george"]
 verified_date: "2026-07-19"
 description_full: "Legacy Village of St. George is a resort-style community offering independent living, assisted living, and memory care in southwest St. George. Amenities include a heated saltwater pool, pickleball court, on-site movie theater, and bistro, and the community caps monthly fees so pricing does not rise as care levels increase."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/legacy-village-of-st-george-1454104"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/legacy-village-of-st-george-1454104"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/utah/saint-george/legacy-village-of-st-george"}]
 reviews_search_url: "https://www.google.com/search?q=Legacy+Village+of+St.+George+St.+George+UT+reviews"
-licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
+licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://provider.dlbc.utah.gov/ccl/facilities"}
 ---

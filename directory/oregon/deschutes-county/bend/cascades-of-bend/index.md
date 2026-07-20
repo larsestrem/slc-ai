@@ -22,7 +22,9 @@ organization_name: "Cascade Living Group"
 sources: ["https://www.cascadeliving.com/community/cascades-of-bend/", "https://www.yelp.com/biz/cascades-of-bend-retirement-community-bend-2", "https://www.aplaceformom.com/community/cascades-of-bend-101679"]
 verified_date: "2026-07-14"
 description_full: "Cascades of Bend describes itself as the longest-standing retirement community in Central Oregon, offering independent living, assisted living, memory care, and respite care on one campus. Care services include medication management, diabetic care, and incontinence care. The community is operated by Cascade Living Group."
-review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/cascades-of-bend-retirement-community-bend-2"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cascades-of-bend-101679"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cascades-of-bend-101679"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/cascades-of-bend-residential-and-memory-care-bend"}]
 reviews_search_url: "https://www.google.com/search?q=Cascades+of+Bend+Bend+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/50R128"
+license_id: "50R128"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -23,6 +23,7 @@ cms_ccn: "125052"
 sources: ["https://www.nursinghomesite.com/LIFE_CARE_CENTER_OF_KONA_KAILUA_KONA_HI", "https://www.caring.com/senior-living/hawaii/kailua-kona/life-care-center-of-kona-96740", "https://health.usnews.com/best-nursing-homes/area/hi/life-care-center-of-kona-125052"]
 verified_date: "2026-07-14"
 description_full: "Life Care Center of Kona is a 94-bed Medicare- and Medicaid-certified skilled nursing facility in Kailua-Kona on the Big Island, offering short-term rehabilitation and long-term nursing care in a single-story building. It is part of the Life Care Centers of America network."
-review_links: [{"name": "NursingHomeSite", "url": "https://www.nursinghomesite.com/LIFE_CARE_CENTER_OF_KONA_KAILUA_KONA_HI"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/kailua-kona/life-care-center-of-kona-96740"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/life-care-center-of-kona-125052"}]
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/kailua-kona/life-care-center-of-kona-96740"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/life-care-center-of-kona-125052"}]
 reviews_search_url: "https://www.google.com/search?q=Life+Care+Center+of+Kona+Kailua-Kona+HI+reviews"
+records_url: "https://health.hawaii.gov/ohca/files/2023/06/life-care-center-of-kona-06-09-22-fed-poc.pdf"
 ---

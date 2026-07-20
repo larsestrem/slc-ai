@@ -25,5 +25,5 @@ verified_date: "2026-07-19"
 description_full: "Atria Seville is an independent and assisted living community in the Summerlin area of Las Vegas, operated by Atria Senior Living. The community offers both independent living apartments and assisted living services with staff available around the clock."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/atria-seville-las-vegas"}]
 reviews_search_url: "https://www.google.com/search?q=Atria+Seville+Las+Vegas+NV+reviews"
-licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
+licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}
 ---

@@ -21,6 +21,7 @@ facility_size: "large"
 capacity: 120
 cms_ccn: "505369"
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/regency-at-northpointe-505369", "https://www.seniorcare.com/nursing-homes/wa/spokane/regency-at-northpointe/505369/"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "A 120-bed skilled nursing and rehabilitation center in north Spokane offering short-term rehab and long-term care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/regency-at-northpointe-505369"}]

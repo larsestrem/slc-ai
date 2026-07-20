@@ -22,7 +22,7 @@ organization_name: "Chateau Retirement Communities"
 sources: ["https://ultimateseniorresource.com/states/washington/bothell/chateau-bothell-landing", "https://www.chateauretirement.com/communities/bothell-landing/", "https://www.aplaceformom.com/community/chateau-bothell-landing-95415"]
 verified_date: "2026-07-14"
 description_full: "Family-owned senior living community nestled along the Sammamish River Trail in downtown Bothell, offering independent living, assisted living, memory care, and respite care. Part of the locally operated Chateau Retirement Communities group serving the Seattle area."
-review_links: [{"name": "Ultimate Senior Resource", "url": "https://ultimateseniorresource.com/states/washington/bothell/chateau-bothell-landing"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/chateau-bothell-landing-95415"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/chateau-bothell-landing-95415"}]
 reviews_search_url: "https://www.google.com/search?q=Chateau+Bothell+Landing+Bothell+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

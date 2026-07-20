@@ -22,7 +22,9 @@ capacity: 44
 sources: ["https://reviews.birdeye.com/mckay-creek-estates-173507633638028", "https://mckaycreekal.com/", "https://www.ohca.com/facility-finder/mckay-creek-assisted-living/"]
 verified_date: "2026-07-14"
 description_full: "A 44-unit assisted living community on Southgate Place in Pendleton, also known as McKay Creek Estates. One of the highest-rated senior communities in Umatilla County."
-review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/mckay-creek-estates-173507633638028"}]
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/mckay-creek-estates-173507633638028"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/mc-kay-creek-assisted-living-73363"}]
 reviews_search_url: "https://www.google.com/search?q=McKay+Creek+Assisted+Living+Pendleton+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M238"
+license_id: "70M238"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

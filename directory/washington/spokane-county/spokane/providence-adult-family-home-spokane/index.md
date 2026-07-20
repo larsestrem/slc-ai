@@ -23,7 +23,7 @@ sources: ["https://www.aplaceformom.com/community/providence-adult-family-home-1
 verified_date: "2026-07-14"
 specialties: ["Dementia"]
 description_full: "Providence Adult Family Home is a licensed six-bed adult family home in north Spokane owned and operated by Angela and Vasile Codreanu. It offers a home-like setting with 24-hour awake staff, many specially trained in Alzheimer's and dementia care, and handicap-accessible bathrooms."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/providence-adult-family-home-1369439"}, {"name": "SeniorHousingNet", "url": "https://www.seniorhousingnet.com/seniorliving-detail/providence-adult-family-home_2719-w-strong-rd_spokane_wa_99208-626146"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/providence-adult-family-home-1369439"}]
 reviews_search_url: "https://www.google.com/search?q=Providence+Adult+Family+Home+Spokane+WA+reviews"
 licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
 ---

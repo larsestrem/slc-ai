@@ -21,7 +21,7 @@ facility_size: "large"
 sources: ["https://reviews.birdeye.com/madrona-hills-148052197703650", "https://www.aplaceformom.com/community/the-ridge-at-madrona-hills-95145", "https://seniorhomes.net/communities/ridge-at-madrona-hills-salem-or-1892", "https://www.assistedlivingcenter.com/facilities/or/salem/holiday-madrona-hills-97302/"]
 verified_date: "2026-07-14"
 description_full: "Independent living retirement community in southeast Salem offering studio, one-bedroom, and two-bedroom apartments with three chef-prepared meals daily, housekeeping, and maintenance included. Formerly operated as Madrona Hills within the Holiday Retirement network before rebranding as The Ridge at Madrona Hills. Activities include card games, movie nights, walking trails, gardening, and museum trips."
-review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/madrona-hills-148052197703650"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-ridge-at-madrona-hills-95145"}, {"name": "AssistedLivingCenter", "url": "https://www.assistedlivingcenter.com/facilities/or/salem/holiday-madrona-hills-97302/"}]
+review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/madrona-hills-148052197703650"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-ridge-at-madrona-hills-95145"}]
 reviews_search_url: "https://www.google.com/search?q=Holiday+Madrona+Hills+Salem+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -92,6 +92,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .site-nav a:hover, .site-nav a:focus, .site-nav a[aria-current="page"] { color: var(--accent-strong); text-decoration: underline; }
 @media (max-width: 46rem) {
   .nav-toggle { display: block; }
+  .search-toggle { margin-right: -1.05rem; }
   .site-nav { display: none; order: 4; }
   .nav-toggle-box:checked ~ .site-nav { display: flex; flex-direction: column; flex-basis: 100%; gap: 0; padding: .4rem 0 .2rem; border-top: 1px solid var(--line); margin-top: .5rem; }
   .nav-toggle-box:checked ~ .site-nav a { padding: .55rem .2rem; font-size: 1.05rem; border-bottom: 1px solid var(--line); }
@@ -248,7 +249,7 @@ tbody tr:hover { background: var(--soft); }
   <div class="wrap">
     <a class="brand" href="/">senior<em>.living.community</em></a>
     <button class="search-toggle" type="button" aria-label="Search communities, cities, and states" aria-expanded="false" aria-controls="header-search">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><line x1="15.3" y1="15.3" x2="21" y2="21"/></svg>
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><line x1="15.3" y1="15.3" x2="21" y2="21"/></svg>
     </button>
     <input type="checkbox" id="nav-toggle" class="nav-toggle-box">
     <label for="nav-toggle" class="nav-toggle" aria-label="Menu"><span class="nav-open">&#9776;</span><span class="nav-close">&#10005;</span></label>

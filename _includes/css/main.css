@@ -102,7 +102,9 @@ main { display: block; padding: 1rem 0 3rem; }
   border-bottom: 1px solid var(--line);
 }
 .hero .wrap { padding: 2.2rem 1.1rem 2rem; }
+.hero h1 { margin-bottom: .15rem; }
 .hero h1 em { color: var(--accent); font-style: normal; }
+.hero .lead { margin-top: .15rem; }
 .hero-sub { max-width: 46rem; color: var(--muted); }
 .hero p { max-width: 44rem; }
 

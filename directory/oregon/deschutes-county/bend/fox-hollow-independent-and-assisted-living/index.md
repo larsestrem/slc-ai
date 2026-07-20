@@ -26,5 +26,7 @@ verified_date: "2026-07-14"
 description_full: "Fox Hollow is an independent and assisted living community in northeast Bend operated by Regency Pacific Management. Residents choose from studio, one-bedroom, and two-bedroom apartments, and the community is licensed for roughly 76 residents. Respite stays and support for changing care needs are available so residents can age in place."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/fox-hollow-independent-and-assisted-living-bend"}]
 reviews_search_url: "https://www.google.com/search?q=Fox+Hollow+Independent+and+Assisted+Living+Bend+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A294"
+license_id: "70A294"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

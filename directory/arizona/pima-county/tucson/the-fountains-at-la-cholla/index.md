@@ -26,5 +26,5 @@ verified_date: "2026-07-19"
 description_full: "The Fountains at La Cholla is a large Watermark-managed senior living campus in northwest Tucson offering independent living, assisted living, and memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-fountains-at-la-cholla-95234"}]
 reviews_search_url: "https://www.google.com/search?q=The+Fountains+at+La+Cholla+Tucson+AZ+reviews"
-licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
+licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azcarecheck.azdhs.gov/"}
 ---

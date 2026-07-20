@@ -27,5 +27,5 @@ records_note: true
 description_full: "Paradise Creek Health and Rehab of Cascadia is a 64-bed Medicare- and Medicaid-certified skilled nursing facility in Moscow, offering short-term rehabilitation and long-term nursing care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/paradise-creek-health-and-rehab-of-cascadia-135067"}]
 reviews_search_url: "https://www.google.com/search?q=Paradise+Creek+Health+and+Rehab+of+Cascadia+Moscow+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

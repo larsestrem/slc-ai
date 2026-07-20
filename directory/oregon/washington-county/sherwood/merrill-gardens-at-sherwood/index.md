@@ -24,5 +24,7 @@ sources: ["https://www.merrillgardens.com/senior-living/or/sherwood/sw-edy-rd/",
 verified_date: "2026-07-14"
 description_full: "Merrill Gardens at Sherwood, formerly known as The Ackerly at Sherwood, offers independent living, assisted living, and memory care southwest of Portland near Highway 99W. The community came under the Merrill Gardens brand after ownership and management changed from Leisure Care."
 reviews_search_url: "https://www.google.com/search?q=Merrill+Gardens+at+Sherwood+Sherwood+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A340"
+license_id: "70A340"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -25,5 +25,5 @@ verified_date: "2026-07-19"
 description_full: "Seven Lakes Memory Care is a dedicated memory care community on the shore of Horseshoe Lake in north Loveland, serving residents with Alzheimer's disease and other dementias."
 review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/memory-care-at-seven-lakes-loveland-co"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/colorado/loveland/seven-lakes-memory-care-80538"}]
 reviews_search_url: "https://www.google.com/search?q=Seven+Lakes+Memory+Care+Loveland+CO+reviews"
-licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
+licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities/find-and-compare-facilities"}
 ---

@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Guardian Angel Homes Post Falls is a campus of smaller residential-style homes — including the Tudor House, Timber House, The Cottage, and The Craftsman for residents with advanced Alzheimer's and dementia — plus The Inn, which offers larger suites for a more independent lifestyle. The Pacific Northwest operator provides care ranging from minimal assistance to specialized memory support."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/guardian-angel-homes-post-falls-102162"}]
 reviews_search_url: "https://www.google.com/search?q=Guardian+Angel+Homes+Post+Falls+Post+Falls+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

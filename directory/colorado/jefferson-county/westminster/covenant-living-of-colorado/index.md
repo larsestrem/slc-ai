@@ -26,5 +26,5 @@ verified_date: "2026-07-19"
 description_full: "Covenant Living of Colorado is a not-for-profit continuing care retirement community in Westminster offering independent living apartments and cottages, licensed assisted living, a secured memory-support neighborhood, and a skilled nursing center."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/covenant-living-of-colorado-159803556880627"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/covenant-living-of-colorado-westminster"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/colorado/westminster/covenant-living-of-colorado"}]
 reviews_search_url: "https://www.google.com/search?q=Covenant+Living+of+Colorado+Westminster+CO+reviews"
-licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
+licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities/find-and-compare-facilities"}
 ---

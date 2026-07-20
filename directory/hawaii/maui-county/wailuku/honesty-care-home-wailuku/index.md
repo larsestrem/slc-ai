@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Honesty is a small, state-licensed 5-bed care home for the elderly in Wailuku, Maui, offering assisted living and memory care services in a residential setting. It has an official Hawaii DOH Office of Health Care Assurance survey record on file."
 review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/wailuku/honesty"}]
 reviews_search_url: "https://www.google.com/search?q=Honesty+Wailuku+HI+reviews"
-licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
+licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/inspection-reports/"}
 ---

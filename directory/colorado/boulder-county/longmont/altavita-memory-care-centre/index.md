@@ -27,5 +27,5 @@ verified_date: "2026-07-19"
 description_full: "AltaVita Memory Care Centre is a 56-bed licensed assisted living residence in Longmont designed specifically for people with Alzheimer's and other dementias, offering permanent residence, adult day programs, and respite stays. It is part of the locally owned AltaVita campus that also includes assisted living and independent senior residences."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/alta-vita-assisted-living-memory-care-centre-1350281"}]
 reviews_search_url: "https://www.google.com/search?q=AltaVita+Memory+Care+Centre+Longmont+CO+reviews"
-licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
+licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities/find-and-compare-facilities"}
 ---

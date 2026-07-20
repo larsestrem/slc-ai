@@ -25,5 +25,7 @@ verified_date: "2026-07-14"
 description_full: "A pet-friendly assisted living community in Klamath Falls offering daily personal support and respite care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/trustwell-living-at-rogue-river-place-60285"}]
 reviews_search_url: "https://www.google.com/search?q=Trustwell+Living+at+Rogue+River+Place+Klamath+Falls+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M054"
+license_id: "70M054"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

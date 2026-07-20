@@ -25,5 +25,5 @@ verified_date: "2026-07-19"
 description_full: "Luxury assisted living and memory care community on East Flamingo Road in Las Vegas. Amenities include restaurant-style dining, a wellness center with a full-time nurse, landscaped grounds, and a 24-hour call system."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/oakmont-of-las-vegas-1421326"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/nevada/las-vegas/oakmont-of-las-vegas"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/oakmont-of-las-vegas-las-vegas"}]
 reviews_search_url: "https://www.google.com/search?q=Oakmont+of+Las+Vegas+Las+Vegas+NV+reviews"
-licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
+licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}
 ---

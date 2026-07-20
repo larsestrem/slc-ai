@@ -24,5 +24,7 @@ verified_date: "2026-07-14"
 description_full: "A 43-apartment community in Bend across the street from St. Charles Medical Center, with 22 assisted living and 21 memory care apartments, each with a private bathroom and roll-in shower."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/awbrey-place-60294"}]
 reviews_search_url: "https://www.google.com/search?q=Awbrey+Place+Assisted+Living+and+Memory+Care+Bend+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M008"
+license_id: "70M008"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

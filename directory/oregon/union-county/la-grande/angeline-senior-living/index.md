@@ -23,5 +23,7 @@ verified_date: "2026-07-14"
 description_full: "A 15-bed licensed residential care facility in downtown La Grande providing assisted living in a small, home-like setting."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/angeline-senior-living-157271060160698"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/angeline-senior-living-140719"}]
 reviews_search_url: "https://www.google.com/search?q=Angeline+Senior+Living+La+Grande+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/50R339"
+license_id: "50R339"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

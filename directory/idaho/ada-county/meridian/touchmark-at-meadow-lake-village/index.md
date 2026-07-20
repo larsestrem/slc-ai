@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Touchmark at Meadow Lake Village is a full-continuum retirement community in Meridian, near Boise, offering independent living cottages and lodge homes, assisted living, memory care, and respite care. The campus lets residents move between levels of care as needs change. It is operated by Touchmark, a multi-state senior living company."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/touchmark-at-meadow-lake-village-meridian-3"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/touchmark-at-meadow-lake-village-1414717"}]
 reviews_search_url: "https://www.google.com/search?q=Touchmark+at+Meadow+Lake+Village+Meridian+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

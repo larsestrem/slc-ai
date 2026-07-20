@@ -26,5 +26,5 @@ verified_date: "2026-07-14"
 description_full: "The Plaza at Pearl City is a 158-bed community operated by Hawaii-based The Plaza Assisted Living, offering independent living, assisted living, the Hali'a memory care program, and short-term respite stays."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/pearl-city/the-plaza-at-pearl-city"}]
 reviews_search_url: "https://www.google.com/search?q=The+Plaza+at+Pearl+City+Pearl+City+HI+reviews"
-licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
+licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/inspection-reports/"}
 ---

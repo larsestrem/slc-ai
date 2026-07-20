@@ -25,5 +25,5 @@ verified_date: "2026-07-19"
 description_full: "Legacy House of Bountiful provides assisted living and memory care in downtown Bountiful."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/legacy-house-of-bountiful-70830"}]
 reviews_search_url: "https://www.google.com/search?q=Legacy+House+of+Bountiful+Bountiful+UT+reviews"
-licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
+licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://provider.dlbc.utah.gov/ccl/facilities"}
 ---

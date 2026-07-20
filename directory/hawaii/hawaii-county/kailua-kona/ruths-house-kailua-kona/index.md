@@ -21,5 +21,5 @@ verified_date: "2026-07-14"
 description_full: "Ruth's House is a small assisted living community in Kailua-Kona on the Big Island, offering personal care assistance including bathing, grooming, dressing, and meal preparation. It also operates an adult day program."
 review_links: [{"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/hawaii/kailua-kona/ruth-s-house-kailua-kona"}]
 reviews_search_url: "https://www.google.com/search?q=Ruth%27s+House+Kailua-Kona+HI+reviews"
-licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
+licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/inspection-reports/"}
 ---

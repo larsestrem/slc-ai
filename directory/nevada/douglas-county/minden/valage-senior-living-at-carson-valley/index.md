@@ -23,5 +23,5 @@ verified_date: "2026-07-19"
 description_full: "Newer assisted living and memory care community in Minden serving the Carson Valley. The all-inclusive monthly fee covers three meals a day plus snacks, weekly housekeeping and laundry, scheduled transportation, an emergency call system, and wellness programming."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/valage-senior-living-at-carson-valley-175296254855405"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/valage-senior-living-at-carson-valley-1483659"}]
 reviews_search_url: "https://www.google.com/search?q=Valage+Senior+Living+at+Carson+Valley+Minden+NV+reviews"
-licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
+licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}
 ---

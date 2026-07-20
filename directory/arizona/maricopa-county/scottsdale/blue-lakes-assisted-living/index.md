@@ -25,5 +25,5 @@ verified_date: "2026-07-19"
 description_full: "Blue Lakes Assisted Living is a 10-bed residential assisted living home in a Scottsdale neighborhood, licensed to provide supervisory, personal, and directed care."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/blue-lakes-assisted-living-157255769796954"}]
 reviews_search_url: "https://www.google.com/search?q=Blue+Lakes+Assisted+Living+Scottsdale+AZ+reviews"
-licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
+licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azcarecheck.azdhs.gov/"}
 ---

@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Vilma's Adult Care Home is a small Expanded Adult Residential Care Home in the Liliha/Kalihi area of Honolulu, purpose-built as a care home in 2006 and run by a certified caregiver, offering residential care and memory care. Families commend the hands-on, attentive care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/vilmas-adult-care-home-1368136"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/vilmas-adult-care-home-honolulu-hi"}]
 reviews_search_url: "https://www.google.com/search?q=Vilma%27s+Adult+Care+Home+Honolulu+HI+reviews"
-licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
+licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/inspection-reports/"}
 ---

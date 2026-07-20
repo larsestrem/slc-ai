@@ -26,5 +26,7 @@ verified_date: "2026-07-14"
 description_full: "SpringRidge at Charbonneau is an award-winning 264-unit senior living campus offering independent living, assisted living, and memory care inside Wilsonville's 477-acre master-planned Charbonneau community, which surrounds a 27-hole golf course. The pet-friendly campus features walking paths, varied floor plans, and an active social calendar. It is operated by Senior Resource Group (SRG)."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/wilsonville/springridge-charbonneau-97070"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/spring-ridge-at-charbonneau-96853"}]
 reviews_search_url: "https://www.google.com/search?q=SpringRidge+at+Charbonneau+Wilsonville+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A284"
+license_id: "70A284"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

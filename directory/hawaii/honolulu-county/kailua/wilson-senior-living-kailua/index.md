@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Wilson Senior Living Kailua is a newer adult residential care home in the Aikahi area of Kailua, Oahu, with 19 private, ADA-compliant rooms. It offers assisted living-level care and services."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/wilson-senior-living-kailua-1364767"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/hawaii/kailua/wilson-senior-living-kailua-hawaii"}]
 reviews_search_url: "https://www.google.com/search?q=Wilson+Senior+Living+Kailua+Kailua+HI+reviews"
-licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/"}
+licensing: {"agency": "Hawaii Department of Health, Office of Health Care Assurance", "lookup_url": "https://health.hawaii.gov/ohca/inspection-reports/"}
 ---

@@ -27,5 +27,5 @@ verified_date: "2026-07-19"
 description_full: "138-bed assisted living and memory care community in Henderson, formerly known as Prestige Senior Living at Mira Loma and operated by Prestige Care. Offers apartment-style assisted living plus the Expressions memory care neighborhood, restaurant-style dining, a fitness center, and Vibrant Living activity programming."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/vista-pointe-at-mira-loma-173471362474404"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/vista-pointe-at-mira-loma-71029"}]
 reviews_search_url: "https://www.google.com/search?q=Vista+Pointe+at+Mira+Loma+Henderson+NV+reviews"
-licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
+licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}
 ---

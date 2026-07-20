@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Grace Assisted Living in Nampa offers independent retirement living and assisted living, plus Assist Plus memory care, respite day care, and hospice support, on Sunny Ridge Road overlooking Liberty Park. Care staff are available 24 hours a day under the supervision of a facility RN. Amenities include a hair salon, library, outdoor garden, communal dining hall, and swimming pool."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/grace-independent-and-assisted-living-nampa-nampa-4"}]
 reviews_search_url: "https://www.google.com/search?q=Grace+Assisted+Living+-+Nampa+Nampa+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

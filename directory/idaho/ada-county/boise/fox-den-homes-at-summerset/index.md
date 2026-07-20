@@ -24,5 +24,5 @@ sources: ["https://www.oasissenioradvisors.com/community-guide/idaho/boise/fox-d
 verified_date: "2026-07-14"
 description_full: "Fox Den Homes at Summerset is a 9-bed residential assisted living home in Boise owned and operated by a nurse, part of the Fox Den Homes group of small dementia-capable care homes in the Treasure Valley. The small-home model provides a high caregiver-to-resident ratio in a home setting."
 reviews_search_url: "https://www.google.com/search?q=Fox+Den+Homes+at+Summerset+Boise+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

@@ -23,7 +23,9 @@ sources: ["https://www.wweek.com/news/courts/2024/03/28/a-wrongful-eviction-from
 verified_date: "2026-07-14"
 records_note: true
 records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M073?activeTab=inspectionsTab"
+license_id: "70M073"
 description_full: "Powell Valley Assisted Living and Memory Care is a 115-bed licensed assisted living and memory care community on a four-acre campus in Gresham, offering studio, one-bedroom, and two-bedroom units."
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/powell-valley-assisted-living-and-memory-care-59707"}]
 reviews_search_url: "https://www.google.com/search?q=Powell+Valley+Assisted+Living+and+Memory+Care+Gresham+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

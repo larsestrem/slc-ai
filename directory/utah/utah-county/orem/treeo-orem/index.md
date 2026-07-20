@@ -25,5 +25,5 @@ sources: ["https://www.assistedlivingcenter.com/facilities/ut/orem/treeo-orem-84
 verified_date: "2026-07-19"
 description_full: "Treeo Orem is an independent living community in central Orem managed by Seattle-based Leisure Care. News & World Report."
 reviews_search_url: "https://www.google.com/search?q=Treeo+Orem+Orem+UT+reviews"
-licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://dhhs.utah.gov/licensing/"}
+licensing: {"agency": "Utah Department of Health & Human Services, Licensing & Background Checks", "lookup_url": "https://provider.dlbc.utah.gov/ccl/facilities"}
 ---

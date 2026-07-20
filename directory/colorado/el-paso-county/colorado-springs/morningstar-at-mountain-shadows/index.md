@@ -27,5 +27,5 @@ verified_date: "2026-07-19"
 description_full: "MorningStar at Mountain Shadows offers 45 assisted living suites and a secure 19-suite Reflections memory care neighborhood on the northwest side of Colorado Springs near Garden of the Gods."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/morningstar-assisted-living-memory-care-at-mountain-shadows-173507707874893"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/morning-star-at-mountain-shadows-1361214"}]
 reviews_search_url: "https://www.google.com/search?q=MorningStar+at+Mountain+Shadows+Colorado+Springs+CO+reviews"
-licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities"}
+licensing: {"agency": "Colorado Department of Public Health & Environment, Health Facilities Division", "lookup_url": "https://cdphe.colorado.gov/health-facilities/find-and-compare-facilities"}
 ---

@@ -21,7 +21,10 @@ facility_size: "large"
 capacity: 112
 cms_ccn: "385272"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385272/", "https://www.nursinghomedatabase.com/snf/385272", "https://ltclicensing.oregon.gov/Facilities/Details/38L600"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Tigard Rehabilitation and Care is a 112-bed Medicare- and Medicaid-certified skilled nursing facility in Tigard offering short-term rehabilitation and long-term nursing care."
 reviews_search_url: "https://www.google.com/search?q=Sapphire+at+Tigard+Rehabilitation+Center+Tigard+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/38L600"
+license_id: "38L600"
 ---

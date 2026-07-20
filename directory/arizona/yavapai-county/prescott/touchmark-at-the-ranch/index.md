@@ -26,5 +26,5 @@ verified_date: "2026-07-19"
 description_full: "Touchmark at The Ranch is a full-service retirement community on 44 acres bordering the Prescott National Forest, offering independent living, assisted living, and memory care."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/touchmark-at-the-ranch-157269633967274"}]
 reviews_search_url: "https://www.google.com/search?q=Touchmark+at+The+Ranch+Prescott+AZ+reviews"
-licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azdhs.gov/licensing/"}
+licensing: {"agency": "Arizona Department of Health Services, Bureau of Residential Facilities Licensing", "lookup_url": "https://azcarecheck.azdhs.gov/"}
 ---

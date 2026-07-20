@@ -26,5 +26,7 @@ verified_date: "2026-07-14"
 description_full: "Russellville Park is a 187-unit senior living campus in east Portland offering independent living, assisted living, and memory care under one roof. The community sits directly on the MAX light-rail line near Mall 205 shopping and medical services. U.S. News named it a Best Senior Living community for independent living and memory care, with an overall score of 4.4 from more than 500 resident and family ratings."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/russellville-park-1380"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/portland/russellville-park-97216"}]
 reviews_search_url: "https://www.google.com/search?q=Russellville+Park+Portland+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A314"
+license_id: "70A314"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

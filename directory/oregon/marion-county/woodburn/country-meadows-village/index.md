@@ -23,5 +23,7 @@ verified_date: "2026-07-14"
 description_full: "Country Meadows Village is a senior living campus in Woodburn, about 35 minutes from downtown Portland, combining independent living apartments, cottage homes with garages and covered porches, and a 50-unit licensed assisted living building. The community is minutes from the Woodburn Premium Outlets between Portland and Salem."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/woodburn/country-meadows-village-97071"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/country-meadows-village-97485"}]
 reviews_search_url: "https://www.google.com/search?q=Country+Meadows+Village+Woodburn+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A285"
+license_id: "70A285"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

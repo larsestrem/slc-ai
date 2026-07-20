@@ -27,4 +27,6 @@ verified_date: "2026-07-14"
 description_full: "Robison Jewish Health Center is a skilled nursing facility on the Cedar Sinai Park campus in southwest Portland, offering short-term rehabilitation, long-term care, and memory care rooted in Jewish cultural values."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/robison-jewish-health-center-385145"}]
 reviews_search_url: "https://www.google.com/search?q=Robison+Jewish+Health+Center+Portland+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385145"
+license_id: "385145"
 ---

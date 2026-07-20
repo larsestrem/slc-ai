@@ -25,5 +25,5 @@ verified_date: "2026-07-19"
 description_full: "Sunrise of Henderson offers assisted living, memory care, and short-term respite stays in the Horizon Ridge area of Henderson. The community was recognized as Best Assisted Living and Best Memory Care in U.S. News & World Report's 2026 Best Senior Living ratings."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/sunrise-of-henderson-henderson"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/sunrise-of-henderson-1770"}]
 reviews_search_url: "https://www.google.com/search?q=Sunrise+of+Henderson+Henderson+NV+reviews"
-licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
+licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}
 ---

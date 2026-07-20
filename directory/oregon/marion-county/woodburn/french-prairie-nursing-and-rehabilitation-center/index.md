@@ -26,4 +26,6 @@ verified_date: "2026-07-14"
 records_note: true
 description_full: "French Prairie Nursing and Rehabilitation Center is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in Woodburn providing short-term post-acute rehabilitation and long-term custodial nursing care. It is part of the Volare Health group of skilled nursing providers."
 reviews_search_url: "https://www.google.com/search?q=French+Prairie+Nursing+and+Rehabilitation+Center+Woodburn+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385117"
+license_id: "385117"
 ---

@@ -26,4 +26,6 @@ sources: ["https://www.avamere.com/bend-transitional-care/", "https://www.medica
 verified_date: "2026-07-14"
 description_full: "Bend Transitional Care is a 54-bed skilled nursing and rehabilitation community in the Avamere family, certified by both Medicare and Medicaid. It focuses on short-term rehabilitation and transitional care after hospital stays, and also offers respite care."
 reviews_search_url: "https://www.google.com/search?q=Bend+Transitional+Care+Bend+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385253"
+license_id: "385253"
 ---

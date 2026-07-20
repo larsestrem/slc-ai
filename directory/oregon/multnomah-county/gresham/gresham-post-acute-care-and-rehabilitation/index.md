@@ -20,7 +20,10 @@ facility_size: "large"
 capacity: 78
 cms_ccn: "385190"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385190/", "https://www.ohca.com/facility-finder/gresham-post-acute-care-and-rehabilitation/", "https://ltclicensing.oregon.gov/Facilities/Details/385190"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Gresham Post Acute Care and Rehabilitation is a Medicare- and Medicaid-certified skilled nursing facility in Gresham with 78 certified beds, offering short-term rehabilitation and long-term nursing care with 24-hour nursing supervision."
 reviews_search_url: "https://www.google.com/search?q=Gresham+Post+Acute+Care+and+Rehabilitation+Gresham+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385190"
+license_id: "385190"
 ---

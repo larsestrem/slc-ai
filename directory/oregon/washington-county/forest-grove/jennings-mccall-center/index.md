@@ -23,5 +23,7 @@ verified_date: "2026-07-14"
 description_full: "Jennings McCall is an independent nonprofit retirement community on 15 acres in Forest Grove, started by the Masons of Oregon in 1922 and open to the public since 1989. The campus offers independent living, assisted living, progressive care, and memory care."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/forest-grove/jennings-mccall-97116"}]
 reviews_search_url: "https://www.google.com/search?q=Jennings+McCall+Center+Forest+Grove+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A214"
+license_id: "70A214"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -23,5 +23,7 @@ verified_date: "2026-07-14"
 description_full: "Assisted living and respite care community in Eugene near the Willamette River, operated by Trustwell Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/trustwell-living-at-river-run-place-60112"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/eugene/trustwell-living-at-river-run-place"}]
 reviews_search_url: "https://www.google.com/search?q=Trustwell+Living+at+River+Run+Place+Eugene+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M082"
+license_id: "70M082"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

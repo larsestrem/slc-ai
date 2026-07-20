@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Caring Hearts Assisted Living is a small, 15-resident assisted living home in Pocatello offering one-on-one personal care."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/idaho/pocatello/caring-hearts-assisted-living-83201"}]
 reviews_search_url: "https://www.google.com/search?q=Caring+Hearts+Assisted+Living+Pocatello+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

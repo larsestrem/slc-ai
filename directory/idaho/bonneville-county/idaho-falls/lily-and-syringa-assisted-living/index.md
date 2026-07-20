@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Lily and Syringa Assisted Living is a 24-unit assisted living and memory care community in Idaho Falls offering furnished and unfurnished private and shared rooms with home-cooked meals."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/lily-and-syringa-assisted-living-157256237448885"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/lily-and-syringa-52690"}]
 reviews_search_url: "https://www.google.com/search?q=Lily+and+Syringa+Assisted+Living+Idaho+Falls+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

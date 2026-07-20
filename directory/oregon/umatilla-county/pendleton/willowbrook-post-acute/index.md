@@ -21,7 +21,10 @@ facility_size: "medium"
 capacity: 59
 cms_ccn: "385201"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/385201/", "https://www.nursinghomedatabase.com/snf/385201", "https://ltclicensing.oregon.gov/Facilities/Details/385201"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Willowbrook Post Acute is a 59-bed Medicare- and Medicaid-certified skilled nursing facility in Pendleton offering short-term rehabilitation and long-term nursing care."
 reviews_search_url: "https://www.google.com/search?q=Willowbrook+Post+Acute+Pendleton+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385201"
+license_id: "385201"
 ---

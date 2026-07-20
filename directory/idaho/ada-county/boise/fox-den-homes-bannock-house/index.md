@@ -26,5 +26,5 @@ verified_date: "2026-07-14"
 description_full: "Fox Den Homes Bannock House is a cozy 8-bed residential assisted living and memory care home just west of downtown Boise. As a small residential care home, it emphasizes a lower caregiver-to-resident ratio and a personal, home-like feel compared with larger facilities. It is one of several small Fox Den Homes residences in the Treasure Valley."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fox-den-homes-bannock-house-52827"}]
 reviews_search_url: "https://www.google.com/search?q=Fox+Den+Homes+Bannock+House+Boise+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

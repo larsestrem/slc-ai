@@ -24,5 +24,7 @@ verified_date: "2026-07-14"
 description_full: "Mirabella Portland is a high-rise continuing care retirement community in Portland's South Waterfront district, offering independent living, assisted living, and skilled nursing in one building. It is affiliated with Pacific Retirement Services, a nonprofit senior living organization headquartered in Medford, Oregon."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/mirabella-portland-ccrc-1336580"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/mirabella-portland-portland"}]
 reviews_search_url: "https://www.google.com/search?q=Mirabella+Portland+Portland+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/38L400"
+license_id: "38L400"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -25,5 +25,5 @@ verified_date: "2026-07-19"
 description_full: "Independent and assisted living community in northwest Reno, with a companion memory care and adaptive care building next door at 6205 Sharlands Avenue. Convenient to shopping, parks, and medical offices."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/summerset-senior-living-168034736591325"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/summerset-senior-living-reno-3"}]
 reviews_search_url: "https://www.google.com/search?q=Summerset+Senior+Living+Reno+Reno+NV+reviews"
-licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
+licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}
 ---

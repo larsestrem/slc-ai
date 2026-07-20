@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "North Star Retirement Community offers independent living, assisted living, and respite care in Coeur d'Alene, operated by Stellar Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/north-star-72732"}]
 reviews_search_url: "https://www.google.com/search?q=North+Star+Retirement+Community+Coeur+d%27Alene+ID+reviews"
-licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/"}
+licensing: {"agency": "Idaho Department of Health and Welfare, Bureau of Facility Standards", "lookup_url": "https://healthandwelfare.idaho.gov/services-programs/assisted-care-and-facilities/find-facility-or-agency"}
 ---

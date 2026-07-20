@@ -23,5 +23,5 @@ sources: ["https://www.newlifestyles.com/listings/golden-villa-care-home-245237-
 verified_date: "2026-07-19"
 description_full: "Golden Villa Care Home is a 10-bed residential care home in a single-story house on Las Vegas's west side. As a small group home, it offers personal care and memory care support in a home-like setting as an alternative to a large assisted living community."
 reviews_search_url: "https://www.google.com/search?q=Golden+Villa+Care+Home+Las+Vegas+NV+reviews"
-licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://dpbh.nv.gov/Reg/HealthFacilities/HealthFacilities_Home/"}
+licensing: {"agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance", "lookup_url": "https://www.dpbh.nv.gov/regulatorypgms/health-facilities/for-consumers/"}
 ---

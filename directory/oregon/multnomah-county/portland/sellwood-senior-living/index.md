@@ -23,5 +23,7 @@ verified_date: "2026-07-14"
 description_full: "An assisted living community in Portland's Sellwood-Moreland neighborhood offering studio, one-bedroom, and two-bedroom apartments with 24/7 licensed nursing and medication support."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sellwood-senior-living-100279"}, {"name": "Birdeye", "url": "https://birdeye.com/sellwood-senior-living-169341826349454"}]
 reviews_search_url: "https://www.google.com/search?q=Sellwood+Senior+Living+Portland+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A295"
+license_id: "70A295"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

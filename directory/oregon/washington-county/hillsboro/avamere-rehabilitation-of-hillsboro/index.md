@@ -27,4 +27,6 @@ verified_date: "2026-07-14"
 description_full: "An 87-bed skilled nursing and rehabilitation center on SE Oak Street in Hillsboro, part of the Oregon-based Avamere family of companies. It provides post-acute rehab and long-term nursing care."
 review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-hillsboro-385251"}]
 reviews_search_url: "https://www.google.com/search?q=Avamere+Rehabilitation+of+Hillsboro+Hillsboro+OR+reviews"
+records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385251"
+license_id: "385251"
 ---

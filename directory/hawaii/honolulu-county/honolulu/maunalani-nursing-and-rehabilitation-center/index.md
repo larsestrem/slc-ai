@@ -24,7 +24,6 @@ sources: ["https://maunalaninursing.org/about/", "https://health.usnews.com/best
 records_note: true
 verified_date: "2026-07-14"
 description_full: "Honolulu's first not-for-profit skilled nursing facility, open since 1950, sitting atop Wilhelmina Rise in Kaimuki with panoramic views of Diamond Head."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/maunalani-nursing-and-rehabilitation-center-125013"}]
 reviews_search_url: "https://www.google.com/search?q=Maunalani+Nursing+and+Rehabilitation+Center+Honolulu+HI+reviews"
 records_url: "https://health.hawaii.gov/ohca/files/2022/02/maunalani-nursing-rehabilitation-center-snf-10.29.2021-fed-poc.pdf"
 ---

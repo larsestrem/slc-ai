@@ -26,7 +26,6 @@ sources: ["https://grangevillehealthandrehab.com/", "https://www.nursinghomelawc
 verified_date: "2026-07-14"
 records_note: true
 description_full: "Grangeville Health and Rehabilitation of Cascadia is a 60-bed Medicare- and Medicaid-certified skilled nursing facility in Grangeville, serving Idaho County, offering short-term rehabilitation and long-term nursing care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/grangeville-health-rehabilitation-center-135080"}]
 reviews_search_url: "https://www.google.com/search?q=Grangeville+Health+and+Rehabilitation+of+Cascadia+Grangeville+ID+reviews"
 records_url: "https://publicdocuments.dhw.idaho.gov/WebLink/Browse.aspx?id=11869&dbid=0&repo=PUBLIC-DOCUMENTS&cr=1"
 ---

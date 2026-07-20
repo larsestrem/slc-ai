@@ -26,7 +26,6 @@ sources: ["https://www.healthcare4ppl.com/nursing-home/idaho/caldwell/caldwell-c
 verified_date: "2026-07-14"
 records_note: true
 description_full: "Caldwell Care of Cascadia is a 71-bed Medicare- and Medicaid-certified skilled nursing facility offering short-term rehabilitation and long-term nursing care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/caldwell-care-of-cascadia-135014"}]
 reviews_search_url: "https://www.google.com/search?q=Caldwell+Care+of+Cascadia+Caldwell+ID+reviews"
 records_url: "https://publicdocuments.dhw.idaho.gov/WebLink/Browse.aspx?id=11849&dbid=0&repo=PUBLIC-DOCUMENTS&cr=1"
 ---

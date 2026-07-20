@@ -24,6 +24,5 @@ cms_ccn: "055204"
 sources: ["https://health.usnews.com/best-nursing-homes/area/ca/oakwood-gardens-care-center-055204", "https://oakwoodgardenscarecenter.com/"]
 verified_date: "2026-07-19"
 description_full: "A 104-bed Medicare- and Medicaid-certified skilled nursing facility in Fresno offering short-term rehabilitation, 24-hour skilled nursing, long-term care, complex wound care, and hospice."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/oakwood-gardens-care-center-055204"}]
 reviews_search_url: "https://www.google.com/search?q=Oakwood+Gardens+Care+Center+Fresno+CA+reviews"
 ---

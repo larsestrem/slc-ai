@@ -23,6 +23,5 @@ cms_ccn: "056189"
 sources: ["https://health.usnews.com/best-nursing-homes/area/ca/san-luis-post-acute-center-056189", "https://www.medicare.gov/care-compare/details/nursing-home/056189/view-all/?city=San+Luis+Obispo&state=CA&zipcode=93401"]
 verified_date: "2026-07-19"
 description_full: "Medicare- and Medicaid-certified skilled nursing facility in San Luis Obispo offering short-term rehabilitation and long-term care. The 162-bed facility is among the highest-rated nursing homes on the Central Coast."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/san-luis-post-acute-center-056189"}]
 reviews_search_url: "https://www.google.com/search?q=San+Luis+Post+Acute+Center+San+Luis+Obispo+CA+reviews"
 ---

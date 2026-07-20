@@ -26,6 +26,5 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/wa/redmond-care-and
 records_note: true
 verified_date: "2026-07-14"
 description_full: "A 139-bed skilled nursing and rehabilitation center near Kirkland, part of the Ensign Group, offering short-term rehab and long-term care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/redmond-care-and-rehabilitation-center-505181"}]
 reviews_search_url: "https://www.google.com/search?q=Redmond+Care+and+Rehabilitation+Center+Redmond+WA+reviews"
 ---

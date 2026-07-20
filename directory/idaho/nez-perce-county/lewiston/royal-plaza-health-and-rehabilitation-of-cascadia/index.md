@@ -26,6 +26,5 @@ sources: ["https://carelistings.com/skilled-nursing-facilities/lewiston-id/royal
 records_note: true
 verified_date: "2026-07-14"
 description_full: "A 63-bed skilled nursing and rehabilitation center in Lewiston operated by Cascadia Healthcare. Provides Medicare- and Medicaid-certified post-acute and long-term skilled care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/royal-plaza-health-rehabilitation-135116"}]
 reviews_search_url: "https://www.google.com/search?q=Royal+Plaza+Health+and+Rehabilitation+of+Cascadia+Lewiston+ID+reviews"
 ---

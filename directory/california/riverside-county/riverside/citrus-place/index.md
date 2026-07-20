@@ -23,7 +23,7 @@ organization_name: "MBK Senior Living"
 sources: ["https://www.aplaceformom.com/community/citrus-place-55790", "https://www.yelp.com/biz/citrus-place-riverside", "https://www.mbkseniorliving.com/senior-living/ca/riverside/citrus-place/", "https://health.usnews.com/best-senior-living/citrus-place-1889"]
 verified_date: "2026-07-19"
 description_full: "Citrus Place is an MBK Senior Living community in Riverside offering independent living, assisted living and memory care. U.S. News lists it among assisted living communities in the area."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/citrus-place-55790"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/citrus-place-riverside"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/citrus-place-1889"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/citrus-place-55790"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/citrus-place-riverside"}]
 reviews_search_url: "https://www.google.com/search?q=Citrus+Place+Riverside+CA+reviews"
 records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/331880924"
 license_id: "331880924"

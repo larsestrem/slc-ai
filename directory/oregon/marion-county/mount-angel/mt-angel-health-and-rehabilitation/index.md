@@ -24,7 +24,6 @@ sources: ["https://mtangelcare.com/", "https://health.usnews.com/best-nursing-ho
 records_note: true
 verified_date: "2026-07-14"
 description_full: "Mt. Angel Health and Rehabilitation is a 93-bed Medicare- and Medicaid-certified skilled nursing facility in the small town of Mount Angel, offering skilled nursing, short-term rehabilitation, and long-term care. The facility was formerly known as Providence Benedictine Nursing Center, originally founded by the Benedictine Sisters in 1957."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/mt-angel-health-and-rehabilitation-385018"}]
 reviews_search_url: "https://www.google.com/search?q=Mt.+Angel+Health+and+Rehabilitation+Mount+Angel+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385018"
 license_id: "385018"

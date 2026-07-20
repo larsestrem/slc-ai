@@ -25,7 +25,7 @@ organization_name: "Kisco Senior Living"
 sources: ["https://www.yelp.com/biz/crestavilla-laguna-niguel-3", "https://www.aplaceformom.com/community/crestavilla-1401381", "https://www.senioradvisor.com/local/crestavilla-laguna-niguel-ca", "https://health.usnews.com/best-senior-living/crestavilla-26766"]
 verified_date: "2026-07-19"
 description_full: "Crestavilla is a luxury Kisco Signature senior living community in Laguna Niguel offering independent living, assisted living and memory care in a 250-bed campus near Crown Valley Parkway. U.S."
-review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/crestavilla-laguna-niguel-3"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/crestavilla-1401381"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/crestavilla-laguna-niguel-ca"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/crestavilla-26766"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/crestavilla-laguna-niguel-3"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/crestavilla-1401381"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/crestavilla-laguna-niguel-ca"}]
 reviews_search_url: "https://www.google.com/search?q=Crestavilla+Laguna+Niguel+CA+reviews"
 licensing: {"agency": "California Department of Social Services, Community Care Licensing Division", "lookup_url": "https://www.ccld.dss.ca.gov/carefacilitysearch/"}
 ---

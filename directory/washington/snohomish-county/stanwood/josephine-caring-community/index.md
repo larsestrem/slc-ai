@@ -24,6 +24,5 @@ sources: ["https://www.nursinghomedatabase.com/snf/505465", "https://www.seniorc
 records_note: true
 verified_date: "2026-07-14"
 description_full: "Josephine Caring Community is a nonprofit senior care campus in Stanwood offering skilled nursing, short-term rehabilitation, memory care, and assisted living."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/josephine-caring-community-505465"}]
 reviews_search_url: "https://www.google.com/search?q=Josephine+Caring+Community+Stanwood+WA+reviews"
 ---

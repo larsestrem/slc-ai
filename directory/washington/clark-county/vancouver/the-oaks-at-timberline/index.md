@@ -23,6 +23,5 @@ cms_ccn: "505206"
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/the-oaks-at-timberline-505206", "https://www.nursinghomedatabase.com/snf/505206"]
 verified_date: "2026-07-14"
 description_full: "An 85-bed skilled nursing and rehabilitation facility in Vancouver providing short-term rehab and long-term care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/the-oaks-at-timberline-505206"}]
 reviews_search_url: "https://www.google.com/search?q=The+Oaks+at+Timberline+Vancouver+WA+reviews"
 ---

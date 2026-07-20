@@ -24,6 +24,5 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/wa/life-care-center
 records_note: true
 verified_date: "2026-07-14"
 description_full: "Life Care Center of Kennewick is a 136-bed, for-profit skilled nursing facility at 1508 W 7th Ave in Kennewick, offering short-term rehabilitation and long-term nursing care. It is operated by Life Care Centers of America."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/life-care-center-of-kennewick-505080"}]
 reviews_search_url: "https://www.google.com/search?q=Life+Care+Center+of+Kennewick+Kennewick+WA+reviews"
 ---

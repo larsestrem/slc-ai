@@ -23,7 +23,7 @@ organization_name: "Atria Senior Living"
 sources: ["https://www.aplaceformom.com/community/atria-rancho-mirage-55597", "https://www.yelp.com/biz/atria-rancho-mirage-rancho-mirage", "https://www.atriaseniorliving.com/retirement-communities/atria-rancho-mirage-rancho-mirage-ca", "https://health.usnews.com/best-senior-living/atria-rancho-mirage-17838"]
 verified_date: "2026-07-19"
 description_full: "Atria Rancho Mirage offers independent living, assisted living and memory care in the Coachella Valley. News has rated it a Best Senior Living community for assisted living based on resident and family surveys."
-review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-rancho-mirage-55597"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/atria-rancho-mirage-rancho-mirage"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/atria-rancho-mirage-17838"}]
+review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atria-rancho-mirage-55597"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/atria-rancho-mirage-rancho-mirage"}]
 reviews_search_url: "https://www.google.com/search?q=Atria+Rancho+Mirage+Rancho+Mirage+CA+reviews"
 records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/331880734"
 license_id: "331880734"

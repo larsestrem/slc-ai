@@ -28,6 +28,16 @@
         "https://www.yelp.com/biz/aegis-living-queen-anne-rodgers-park-seattle",
         "https://www.familyassets.com/assisted-living/washington/seattle/aegis-living-queen-anne-rodgers-park"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/aegis-living-queen-anne-rodgers-park-seattle"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/aegis-rodgers-park-queen-anne-1400842"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -58,6 +68,20 @@
         "https://www.yelp.com/biz/university-house-wallingford-seattle",
         "https://www.aplaceformom.com/community/university-house-wallingford-71370"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/university-house-wallingford-seattle"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/university-house-wallingford-71370"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/seattle/university-house-wallingford-98103"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -87,6 +111,16 @@
         "https://www.yelp.com/biz/merrill-gardens-at-ballard-seattle",
         "https://www.aplaceformom.com/community/merrill-gardens-at-ballard-1395594"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/merrill-gardens-at-ballard-seattle"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/merrill-gardens-at-ballard-1395594"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -113,6 +147,12 @@
         "https://cascadesafh.com/",
         "https://agesong.com/listing/cascades-adult-family-home-inc-bellevue/",
         "https://www.aplaceformom.com/community/cascades-adult-family-home-141502"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/cascades-adult-family-home-141502"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -142,6 +182,16 @@
         "https://www.franketobeyjones.com/",
         "https://www.franketobeyjones.com/living-options/skilled-nursing/ftj-care-center/",
         "https://www.yelp.com/biz/franke-tobey-jones-tacoma"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/franke-tobey-jones-tacoma"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/tacoma/franke-tobey-jones-retirement-estates-98407"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -173,6 +223,7 @@
         "https://www.seniorresource.com/retirement_community/rockwood-south-hill-spokane-wa-ccrc/",
         "https://www.leadingagewa.org/directory/rockwood-retirement-communities/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -204,6 +255,12 @@
         "https://www.yelp.com/biz/touchmark-on-south-hill-spokane-4",
         "https://carelistings.com/assisted-living-homes/spokane-wa/touchmark-on-south-hill/5acd0283a71d8c15cf695352"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/touchmark-on-south-hill-spokane-4"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -233,6 +290,12 @@
         "https://www.whca.org/facility-finder/bonaventure-of-vancouver/",
         "https://www.yelp.com/biz/bonaventure-of-vancouver-vancouver-3"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/bonaventure-of-vancouver-vancouver-3"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -261,6 +324,16 @@
         "https://www.aplaceformom.com/community/prestige-senior-living-bridgewood-97217",
         "https://www.yelp.com/biz/prestige-senior-living-bridgewood-vancouver"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/prestige-senior-living-bridgewood-97217"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/prestige-senior-living-bridgewood-vancouver"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -287,6 +360,12 @@
         "https://afhbestcare.com/",
         "https://www.yelp.com/biz/best-care-adult-family-home-vancouver",
         "https://www.myafh.com/adult-family-home-vancouver-98664-6/"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/best-care-adult-family-home-vancouver"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -316,6 +395,7 @@
         "https://www.whca.org/facility-finder/lacamas-creek-post-acute/",
         "https://health.usnews.com/best-nursing-homes/area/wa/lacamas-creek-post-acute-505273"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -346,6 +426,12 @@
         "https://www.seniorcare.com/nursing-homes/wa/sequim/avamere-olympic-rehabilitation-of-sequim/505327/",
         "https://www.yelp.com/biz/avamere-olympic-rehabilitation-of-sequim-sequim"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/avamere-olympic-rehabilitation-of-sequim-sequim"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -374,6 +460,20 @@
         "https://bonaventuresenior.com/community/bonaventure-of-east-wenatchee/",
         "https://www.whca.org/facility-finder/bonaventure-of-east-wenatchee/",
         "https://www.yelp.com/biz/bonaventure-of-east-wenatchee-east-wenatchee"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/bonaventure-of-east-wenatchee-east-wenatchee"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/bonaventure-of-east-wenatchee-153978"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/wenatchee/bonaventure-of-east-wenatchee-98802"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -404,6 +504,16 @@
         "https://www.touchmark.com/senior-living/wa/vancouver/fairway-village/",
         "https://www.caring.com/senior-living/washington/vancouver/touchmark-at-fairway-village-98683-2",
         "https://www.yelp.com/biz/touchmark-at-fairway-village-vancouver-6"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/vancouver/touchmark-at-fairway-village-98683-2"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/touchmark-at-fairway-village-vancouver-6"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -438,6 +548,12 @@
         "https://www.aplaceformom.com/community/cogir-at-the-quarry-143883",
         "https://www.chamberofcommerce.com/business-directory/washington/vancouver/retirement-community/2017398824-cogir-at-the-quarry"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/cogir-at-the-quarry-143883"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -469,6 +585,7 @@
         "https://www.prnewswire.com/news-releases/pmb--the-springs-living-announce-grand-opening-for-a-360-000-sf--12-story-senior-living-community-on-the-vancouver-waterfront-302311928.html",
         "https://www.columbian.com/news/2025/jan/17/a-fun-and-exciting-last-chapter-the-springs-at-the-waterfront-sets-bar-high-for-aging-in-place/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -500,6 +617,12 @@
         "https://carelistings.com/assisted-living-homes/vancouver-wa/glenwood-place-senior-living/5acd0284a71d8c15cf69543d",
         "https://www.caring.com/senior-living/washington/vancouver/cogir-of-glenwood-place"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/vancouver/cogir-of-glenwood-place"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -530,6 +653,12 @@
         "https://www.caring.com/senior-living/washington/vancouver/highgate-at-vancouver-98665",
         "https://carelistings.com/assisted-living-homes/vancouver-wa/highgate-senior-living/5acd0285a71d8c15cf69566b"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/vancouver/highgate-at-vancouver-98665"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -557,6 +686,16 @@
         "https://www.merrillgardens.com/senior-living/wa/vancouver/mcgillivray-blvd/",
         "https://www.aplaceformom.com/community/truewood-by-merrill-vancouver-72680",
         "https://www.caring.com/senior-living/washington/vancouver/truewood-by-merrill-vancouver"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/truewood-by-merrill-vancouver-72680"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/vancouver/truewood-by-merrill-vancouver"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -587,6 +726,12 @@
         "https://www.aplaceformom.com/community/mallard-landing-by-cogir-96444",
         "https://www.whca.org/facility-finder/mallard-landing-assisted-living/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/mallard-landing-by-cogir-96444"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -612,6 +757,12 @@
         "https://health.usnews.com/best-senior-living/columbia-ridge-senior-living-22379",
         "https://www.familyassets.com/assisted-living/washington/washougal/columbia-ridge-senior-living",
         "https://www.yelp.com/biz/columbia-ridge-senior-living-washougal"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/columbia-ridge-senior-living-washougal"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -645,6 +796,7 @@
         "https://www.nursinghomedatabase.com/snf/505260",
         "https://projects.propublica.org/nursing-homes/homes/h-505260"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -676,6 +828,7 @@
         "https://www.nursinghomedatabase.com/snf/505442",
         "https://health.usnews.com/best-nursing-homes/area/wa/caroline-kline-galland-home-505442"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -705,6 +858,7 @@
         "https://www.senioradvice.com/providers/view/columbia-lutheran-home-seattle-wa",
         "https://www.seniorcare.com/nursing-homes/wa/seattle/columbia-lutheran-home/505470/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(206) 632-7400"
     },
@@ -735,6 +889,16 @@
         "https://www.caring.com/senior-living/washington/bellevue/sunrise-of-bellevue-98008",
         "https://www.sunriseseniorliving.com/communities/wa/sunrise-of-bellevue"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sunrise-of-bellevue-71242"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/bellevue/sunrise-of-bellevue-98008"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -763,6 +927,16 @@
         "https://ultimateseniorresource.com/states/washington/kirkland/madison-house",
         "https://www.aplaceformom.com/community/madison-house-71297",
         "https://www.yelp.com/biz/madison-house-kirkland"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/madison-house-71297"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/madison-house-kirkland"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(425) 821-8210",
@@ -794,6 +968,20 @@
         "https://www.senioradvisor.com/local/fairwinds-redmond-redmond-wa",
         "https://www.yelp.com/biz/fairwinds-redmond-redmond",
         "https://www.leisurecare.com/our-communities/fairwinds-redmond/"
+      ],
+      "review_links": [
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/fairwinds-redmond-redmond-wa"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/fairwinds-redmond-redmond"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/fairwinds-redmond-99245"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -828,6 +1016,12 @@
         "https://www.chateauretirement.com/communities/bothell-landing/",
         "https://www.aplaceformom.com/community/chateau-bothell-landing-95415"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/chateau-bothell-landing-95415"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -854,6 +1048,20 @@
         "https://www.aplaceformom.com/community/aegis-living-issaquah-101959",
         "https://www.caring.com/senior-living/washington/issaquah/aegis-living-of-issaquah",
         "https://www.yelp.com/biz/aegis-living-issaquah-issaquah"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/aegis-living-issaquah-101959"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/issaquah/aegis-living-of-issaquah"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/aegis-living-issaquah-issaquah"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(425) 298-3969",
@@ -886,6 +1094,16 @@
         "https://www.merrillgardens.com/senior-living/wa/renton/merrill-gardens-at-renton-centre/",
         "https://www.yelp.com/biz/merrill-gardens-at-renton-centre-renton-3"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/merrill-gardens-at-renton-centre-138586"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/merrill-gardens-at-renton-centre-renton-3"
+        }
+      ],
       "verified_date": "2026-07-14",
       "phone": "(425) 272-1193"
     },
@@ -917,6 +1135,16 @@
         "https://stellarliving.com/communities/farrington-court-assisted-senior-living-kent-wa/",
         "https://www.caring.com/senior-living/washington/kent/farrington-court-kent-washington"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/farrington-court-71286"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/kent/farrington-court-kent-washington"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -944,6 +1172,16 @@
         "https://www.aplaceformom.com/community/aljoya-mercer-island-a-ccrc-139873",
         "https://www.assistedlivingcenter.com/facilities/wa/mercer-island/aljoya-mercer-island-98040/",
         "https://www.yelp.com/biz/aljoya-mercer-island-mercer-island-2"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/aljoya-mercer-island-a-ccrc-139873"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/aljoya-mercer-island-mercer-island-2"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(206) 452-3195",
@@ -978,6 +1216,16 @@
         "https://cogirusa.com/communities/edmonds-landing/",
         "https://www.aplaceformom.com/community/edmonds-landing-by-cogir-94862"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/edmonds-landing-by-cogir-94862"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/edmonds/edmonds-landing-by-cogir"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1007,6 +1255,16 @@
         "https://www.leisurecare.com/our-communities/washington-oakes/",
         "https://www.senioradvisor.com/local/washington-oakes-retirement-community-everett-wa"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/washington-oakes-71517"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/washington-oakes-retirement-community-everett-wa"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1034,6 +1292,12 @@
         "https://adultfamilyhomecouncil.org/home-finder/755099-compassionate-care-adult-family-home-llc",
         "https://carelistings.com/assisted-living-homes/everett-wa/compassionate-care-adult-family-home-llc/67f3774da073024f4eb57356"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/compassionate-care-adult-family-home-168183026085483"
+        }
+      ],
       "verified_date": "2026-07-14",
       "website": "https://www.compassionatecareadultfamilyhome.com/"
     },
@@ -1060,6 +1324,12 @@
         "https://reviews.birdeye.com/1-americas-best-adult-family-home-llc-168180757471192",
         "https://www.americasbestafh.com/",
         "https://www.myseniorcarefinder.com/lynnwood-wa/americas-best-adult-family-home"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/1-americas-best-adult-family-home-llc-168180757471192"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1089,6 +1359,20 @@
         "https://www.caring.com/senior-living/washington/spokane/fairwinds-spokane-99218",
         "https://www.seniorly.com/assisted-living/washington/spokane/fairwinds-spokane"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/fairwinds-spokane-72733"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/spokane/fairwinds-spokane-99218"
+        },
+        {
+          "name": "Seniorly",
+          "url": "https://www.seniorly.com/assisted-living/washington/spokane/fairwinds-spokane"
+        }
+      ],
       "verified_date": "2026-07-14",
       "phone": "(509) 468-1000",
       "website": "https://www.leisurecare.com/our-communities/fairwinds-spokane/"
@@ -1115,6 +1399,20 @@
         "https://reviews.birdeye.com/sullivan-park-assisted-living-148049285092856",
         "https://www.caring.com/senior-living/washington/spokane-valley/sullivan-park-assisted-living-community-spokane-washington",
         "https://www.aplaceformom.com/community/sullivan-park-senior-living-72247"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/sullivan-park-assisted-living-148049285092856"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/spokane-valley/sullivan-park-assisted-living-community-spokane-washington"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sullivan-park-senior-living-72247"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(509) 924-5555",
@@ -1144,6 +1442,16 @@
         "https://www.caring.com/senior-living/washington/spokane-valley/broadway-court-estates-99216",
         "https://broadwaycourtestates.com/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/broadway-court-estates-72237"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/spokane-valley/broadway-court-estates-99216"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1172,6 +1480,16 @@
         "https://reviews.birdeye.com/highgate-senior-living-157269524698841",
         "https://www.highgateseniorliving.com/communities/yakima/",
         "https://www.caring.com/senior-living/washington/yakima/highgate-senior-living-98908"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/highgate-senior-living-157269524698841"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/yakima/highgate-senior-living-98908"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1206,6 +1524,16 @@
         "https://www.seniorhousingnet.com/seniorliving-detail/parkview-estates_7820-w-6th-ave_kennewick_wa_99336-625369",
         "https://www.aplaceformom.com/community/parkview-estates-142918"
       ],
+      "review_links": [
+        {
+          "name": "Seniorly",
+          "url": "https://www.seniorly.com/assisted-living/washington/kennewick/parkview-estates"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/parkview-estates-142918"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1238,6 +1566,7 @@
         "https://www.regency-pacific.com/senior-living/wa/kennewick/regency-canyon-lakes-rehabilitation-and-nursing-center/",
         "https://carelistings.com/skilled-nursing-facilities/kennewick-wa/regency-canyon-lakes-rehab-and-nursing-center/5ace891a93efd2372f99243e"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -1269,6 +1598,12 @@
         "https://www.aplaceformom.com/community/wenatchee-senior-living-by-cogir-98849",
         "https://www.whca.org/facility-finder/wenatchee-senior-living-at-cogir/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/wenatchee-senior-living-by-cogir-98849"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1292,6 +1627,16 @@
         "https://www.aplaceformom.com/community/summer-wood-alzheimers-special-care-center-97764",
         "https://www.seniorly.com/memory-care/washington/moses-lake/summer-wood-alzheimers-special-care-center",
         "https://health.usnews.com/best-senior-living/summer-wood-alzheimers-special-care-14462"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/summer-wood-alzheimers-special-care-center-97764"
+        },
+        {
+          "name": "Seniorly",
+          "url": "https://www.seniorly.com/memory-care/washington/moses-lake/summer-wood-alzheimers-special-care-center"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(509) 764-1900",
@@ -1321,6 +1666,20 @@
         "https://birdeye.com/ellensburg-senior-living-169341831883902",
         "https://www.aplaceformom.com/community/ellensburg-senior-living-101748",
         "https://www.yelp.com/biz/ellensburg-senior-living-ellensburg-2"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://birdeye.com/ellensburg-senior-living-169341831883902"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/ellensburg-senior-living-101748"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/ellensburg-senior-living-ellensburg-2"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://ellensburgseniorliving.com/"
@@ -1352,6 +1711,7 @@
         "https://parkmanorrehabilitation.com/",
         "https://www.nursinghomedatabase.com/snf/505074"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -1385,6 +1745,20 @@
         "https://www.yelp.com/biz/weatherly-inn-tacoma-4",
         "https://www.weatherlyinn.com/senior-living/tacoma-assisted-living/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/weatherly-inn-tacoma-71800"
+        },
+        {
+          "name": "Birdeye",
+          "url": "https://birdeye.com/weatherly-inn-tacoma-173895761106360"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/weatherly-inn-tacoma-4"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1416,6 +1790,16 @@
         "https://www.merrillgardens.com/senior-living/wa/tacoma/south-g-street/",
         "https://www.yelp.com/biz/merrill-gardens-at-wright-park-tacoma"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/merrill-gardens-at-wright-park-1453598"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/merrill-gardens-at-wright-park-tacoma"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1445,6 +1829,16 @@
         "https://www.aplaceformom.com/community/fieldstone-memory-care-puyallup-1376754",
         "https://www.yelp.com/biz/fieldstone-puyallup",
         "https://fieldstonecommunities.com/puyallupmemorycare/"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/fieldstone-memory-care-puyallup-1376754"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/fieldstone-puyallup"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1477,6 +1871,16 @@
         "https://www.centurypa.com/senior-living/harbor-place-cottesmore/",
         "https://www.gigharborchamber.net/list/member/harbor-place-at-cottesmore-219"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/gig-harbor/harbor-place-at-cottesmore-98335"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/harbor-place-at-cottesmore-gig-harbor"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1506,6 +1910,20 @@
         "https://www.senioradvisor.com/local/lodge-at-mallards-landing-gig-harbor-wa",
         "https://www.aplaceformom.com/community/the-lodge-at-mallards-landing-159484",
         "https://thelodge-gigharbor.com/"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://birdeye.com/the-lodge-at-mallards-landing-174180642789142"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/lodge-at-mallards-landing-gig-harbor-wa"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-lodge-at-mallards-landing-159484"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(253) 858-4990"
@@ -1540,6 +1958,20 @@
         "https://www.aplaceformom.com/community/fieldstone-cooper-point-olympia-1408776",
         "https://www.caring.com/senior-living/washington/olympia/fieldstone-cooper-point"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/fieldstone-cooper-point-olympia"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/fieldstone-cooper-point-olympia-1408776"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/olympia/fieldstone-cooper-point"
+        }
+      ],
       "verified_date": "2026-07-14",
       "website": "https://fieldstonecommunities.com/communities/cooper-point"
     },
@@ -1571,6 +2003,16 @@
         "https://health.usnews.com/best-senior-living/bay-pointe-assisted-living-marine-courte-memory-care-1817",
         "https://www.yelp.com/biz/bay-pointe-by-cogir-bremerton",
         "https://cogirusa.com/communities/bay-pointe/contact/"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/bay-pointe-by-cogir-71682"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/bay-pointe-by-cogir-bremerton"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(360) 205-1251"
@@ -1609,6 +2051,20 @@
         "https://northwestcare.com/liberty-shores-assisted-living-poulsbo/",
         "https://www.yelp.com/biz/liberty-shores-assisted-living-poulsbo"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/poulsbo/liberty-shores-senior-living"
+        },
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/liberty-shores-assisted-living-148049609718663"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/liberty-shores-assisted-living-poulsbo"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1640,6 +2096,16 @@
         "https://www.seniorcare.com/nursing-homes/wa/silverdale/northwoods-lodge/505484/",
         "https://encorecommunities.com/northwoods-lodge/",
         "https://www.yelp.com/biz/northwoods-lodge-silverdale"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/northwoods-lodge-silverdale"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/silverdale/northwoods-lodge-98383"
+        }
       ],
       "verified_date": "2026-07-14",
       "cms_health_inspection_rating": 5,
@@ -1678,6 +2144,16 @@
         "https://koelschseniorcommunities.com/senior-living/wa/longview/independent-assisted-living-memory-care/canterbury-inn/",
         "https://www.yelp.com/biz/canterbury-inn-longview"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/canterbury-inn-71948"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/canterbury-inn-longview"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1708,6 +2184,12 @@
         "https://health.usnews.com/best-senior-living/assisted-living/washington/centralia",
         "https://villageconcepts.com/communities/village-concepts-of-chehalis-woodland-village",
         "https://www.yelp.com/biz/village-concepts-of-chehalis-woodland-village-chehalis"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/village-concepts-of-chehalis-woodland-village-chehalis"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1742,6 +2224,16 @@
         "https://emeraldheights.com/",
         "https://www.yelp.com/biz/emerald-heights-redmond-2"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/redmond/emerald-heights-98052"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/emerald-heights-redmond-2"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1770,6 +2262,16 @@
         "https://reviews.birdeye.com/aegis-living-kirkland-waterfront-168187639084168",
         "https://www.yelp.com/biz/aegis-living-kirkland-waterfront-kirkland",
         "https://www.aegisliving.com/locations/aegis-living-kirkland-waterfront-wa/"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/aegis-living-kirkland-waterfront-168187639084168"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/aegis-living-kirkland-waterfront-kirkland"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1800,6 +2302,20 @@
         "https://www.yelp.com/biz/sunrise-of-edmonds-edmonds",
         "https://www.sunriseseniorliving.com/communities/wa/sunrise-of-edmonds"
       ],
+      "review_links": [
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/sunrise-of-edmonds-edmonds-wa"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/sunrise-of-edmonds-edmonds"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sunrise-of-edmonds-100387"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1827,6 +2343,20 @@
         "https://birdeye.com/harbour-pointe-senior-living-174180552289557",
         "https://www.yelp.com/biz/harbour-pointe-senior-living-mukilteo",
         "https://hpmukilteo.com/"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://birdeye.com/harbour-pointe-senior-living-174180552289557"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/harbour-pointe-senior-living-mukilteo"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/harbour-pointe-senior-living-71640"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1856,6 +2386,12 @@
         "https://www.aplaceformom.com/community/solista-everett-by-cogir-71514",
         "https://cogirusa.com/communities/solista-everett/contact/",
         "https://www.chamberofcommerce.com/business-directory/washington/everett/retirement-community/6127473-holiday-cascadian-place"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/solista-everett-by-cogir-71514"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1887,6 +2423,16 @@
         "https://www.caring.com/senior-living/washington/bremerton/cascades-of-bremerton",
         "https://www.seniorhousingnet.com/seniorliving-detail/cascades-of-bremerton_3201-pine-rd-ne_bremerton_wa_98310-636066"
       ],
+      "review_links": [
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/cascades-of-bremerton-bremerton-wa"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/bremerton/cascades-of-bremerton"
+        }
+      ],
       "verified_date": "2026-07-14",
       "phone": "(360) 479-8522"
     },
@@ -1916,6 +2462,16 @@
         "https://reviews.birdeye.com/village-concepts-of-marysville-grandview-village-157269438321721",
         "https://www.caring.com/senior-living/washington/marysville/grandview-village-inc-98270",
         "https://www.yelp.com/biz/grandview-village-marysville"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/village-concepts-of-marysville-grandview-village-157269438321721"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/marysville/grandview-village-inc-98270"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1948,6 +2504,20 @@
         "https://www.assistedlivingcenter.com/facilities/wa/kennewick/ciel-of-tri-cities-99336/",
         "https://www.yelp.com/biz/ciel-of-tri-cities-kennewick"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/ciel-senior-living-of-tri-cities-1383454"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/ciel-of-tri-cities-kennewick"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/tri-cities-senior-living-kennewick"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1978,6 +2548,16 @@
         "https://www.livingcarelifestyles.com/quail-park-west-seattle/",
         "https://www.yelp.com/biz/quail-park-of-west-seattle-seattle-2"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://birdeye.com/quail-park-of-west-seattle-171380379107484"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/quail-park-of-west-seattle-seattle-2"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2006,6 +2586,20 @@
         "https://reviews.birdeye.com/bridgeport-place-assisted-living-157269831319314",
         "https://www.aplaceformom.com/community/bridgeport-place-95381",
         "https://www.yelp.com/biz/bridgeport-place-university-place"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/bridgeport-place-assisted-living-157269831319314"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/bridgeport-place-95381"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/bridgeport-place-university-place"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://www.bridgeport.place/"
@@ -2042,6 +2636,7 @@
         "https://www.seniorcare.com/nursing-homes/wa/des-moines/judson-park-health-center/505455/",
         "https://www.humangood.org/judson-park"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -2072,6 +2667,7 @@
         "https://www.seniorcare.com/nursing-homes/wa/stanwood/josephine-caring-community/505465/",
         "https://health.usnews.com/best-nursing-homes/area/wa/josephine-caring-community-505465"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://www.josephinecc.com/"
     },
@@ -2103,6 +2699,12 @@
         "https://www.leisurecare.com/our-communities/fairwinds-brittany-park/",
         "https://health.usnews.com/best-senior-living/fairwinds-brittany-park-1462"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/fairwinds-brittany-park-71353"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2132,6 +2734,16 @@
         "https://reviews.birdeye.com/olympic-place-by-bonaventure-retirement-and-assisted-living-community-157269437706421",
         "https://bonaventuresenior.com/community/olympic-place-by-bonaventure/",
         "https://www.yelp.com/biz/olympic-place-by-bonaventure-arlington"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/olympic-place-by-bonaventure-retirement-and-assisted-living-community-157269437706421"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/olympic-place-by-bonaventure-arlington"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2163,6 +2775,12 @@
         "https://www.assistedlivingcenter.com/facilities/wa/stanwood/warm-beach-senior-community-98292/",
         "https://www.warmbeach.org/",
         "https://seniors.fyi/assisted-living/washington/stanwood/warm-beach-senior-community-76383"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/warm-beach-senior-community-71668"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2196,6 +2814,16 @@
         "https://www.panorama.org/",
         "https://www.yelp.com/biz/panorama-lacey-8"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/panorama-157269934672291"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/panorama-lacey-8"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2228,6 +2856,16 @@
         "https://www.aplaceformom.com/community/merrill-gardens-at-auburn-1398129",
         "https://www.yelp.com/biz/merrill-gardens-at-auburn-auburn"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/merrill-gardens-at-auburn-1398129"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/merrill-gardens-at-auburn-auburn"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2258,6 +2896,12 @@
         "https://reviews.birdeye.com/sunrise-of-issaquah-168163949706865",
         "https://www.whca.org/facility-finder/sunrise-of-issaquah/",
         "https://www.sunriseseniorliving.com/communities/wa/sunrise-of-issaquah"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/sunrise-of-issaquah-168163949706865"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2290,6 +2934,12 @@
         "https://www.aplaceformom.com/community/bonaventure-tri-cities-153656",
         "https://bonaventuresenior.com/community/bonaventure-of-the-tri-cities/",
         "https://carelistings.com/assisted-living-homes/richland-wa/bonaventure-of-the-tri-cities/5acd0285a71d8c15cf695586"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/bonaventure-tri-cities-153656"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2324,6 +2974,16 @@
         "https://www.yelp.com/biz/wheatland-village-walla-walla-3",
         "https://www.aplaceformom.com/community/wheatland-village-98004"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/wheatland-village-walla-walla-3"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/wheatland-village-98004"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2354,6 +3014,12 @@
         "https://koelschseniorcommunities.com/senior-living/wa/vancouver/memory-care/the-hampton-at-salmon-creek/",
         "https://www.aplaceformom.com/community/the-hampton-at-salmon-creek-memory-care-1353029"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-hampton-at-salmon-creek-memory-care-1353029"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2382,6 +3048,16 @@
         "https://birdeye.com/kenmore-senior-living-169341835539351",
         "https://kenmoreseniorliving.com/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/kenmore-senior-living-141165"
+        },
+        {
+          "name": "Birdeye",
+          "url": "https://birdeye.com/kenmore-senior-living-169341835539351"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2407,6 +3083,24 @@
         "https://www.senioradvisor.com/local/stafford-suites-sumner-wa",
         "https://www.aplaceformom.com/community/stafford-suites-sumner-71774",
         "https://www.yelp.com/biz/stafford-suites-sumner"
+      ],
+      "review_links": [
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/stafford-suites-sumner-wa"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/stafford-suites-sumner-71774"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/stafford-suites-sumner"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/vineyard-park-sumner"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://carepartnersliving.com/vineyard-park-of-sumner/"
@@ -2438,6 +3132,16 @@
         "https://reviews.birdeye.com/noble-care-170040776562571",
         "https://noblecareafh.com/",
         "https://adultfamilyhomecouncil.org/home-finder/755067-noblecare-afh-llc"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/noble-care-170040776562571"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/noble-care-adult-family-home-1459870"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2471,6 +3175,7 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/eliseo-505435",
         "https://www.seniorcare.com/nursing-homes/wa/tacoma/eliseo/505435/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -2500,6 +3205,7 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/olympia-transitional-care-and-rehabilitation-505243",
         "https://www.seniorcare.com/nursing-homes/wa/olympia/olympia-transitional-care-and-rehabilitation/505243/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -2528,6 +3234,7 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/the-oaks-at-timberline-505206",
         "https://www.nursinghomedatabase.com/snf/505206"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(360) 696-2561"
     },
@@ -2557,6 +3264,7 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/regency-at-northpointe-505369",
         "https://www.seniorcare.com/nursing-homes/wa/spokane/regency-at-northpointe/505369/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://www.regency-pacific.com/senior-living/wa/spokane/regency-at-northpointe/"
     },
@@ -2588,6 +3296,12 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/good-samaritan-health-care-center-505348",
         "https://www.regency-pacific.com/senior-living/wa/yakima/good-samaritan-health-care-center/"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/yakima/good-samaritan-health-care-ctr-98902"
+        }
+      ],
       "verified_date": "2026-07-14",
       "website": "https://www.regency-pacific.com/senior-living/wa/yakima/good-samaritan-health-care-center/"
     },
@@ -2617,6 +3331,7 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/south-hill-rehabilitation-and-care-center-505414",
         "https://www.nursinghomedatabase.com/snf/505414"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(509) 474-5678"
     },
@@ -2646,6 +3361,7 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/vancouver-specialty-and-rehabilitation-care-505269",
         "https://www.seniorcare.com/nursing-homes/wa/vancouver/vancouver-specialty-and-rehab-care/505269/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://vancouverspecialty.com/"
     },
@@ -2678,6 +3394,7 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/redmond-care-and-rehabilitation-center-505181",
         "https://www.seniorcare.com/nursing-homes/wa/redmond/redmond-care-and-rehabilitation-center/505181/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -2706,6 +3423,12 @@
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/wa/providence-marianwood-505418",
         "https://www.seniorcare.com/nursing-homes/wa/issaquah/providence-marianwood/505418/"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/providence-marianwood-issaquah-3"
+        }
       ],
       "verified_date": "2026-07-14",
       "cms_health_inspection_rating": 3,
@@ -2740,6 +3463,7 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/marysville-care-center-505386",
         "https://nursinghomerating.org/WA/marysville-care-center/505386/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://lcca.com/locations/wa/marysville/"
     },
@@ -2769,6 +3493,7 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/avalon-care-center-federal-way-505510",
         "https://everlighthealth.org/avalon-care-center-federal-way-federal-way-wa-505510/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://avalonhealthcare.com/federalway/"
     },
@@ -2801,6 +3526,12 @@
         "https://www.aplaceformom.com/community/the-bellettini-101653",
         "https://ultimateseniorresource.com/states/washington/bellevue/the-bellettini"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-bellettini-101653"
+        }
+      ],
       "verified_date": "2026-07-14",
       "website": "https://www.mbkseniorliving.com/senior-living/wa/bellevue/the-bellettini/"
     },
@@ -2832,6 +3563,20 @@
         "https://ultimateseniorresource.com/states/washington/kirkland/morningstar-of-kirkland",
         "https://morningstarkirkland.com/contact-us/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/morning-star-of-kirkland-1449832"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/kirkland/morningstar-of-kirkland"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/morningstar-of-kirkland-kirkland"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2857,6 +3602,12 @@
       "sources": [
         "https://www.caring.com/senior-living/washington/spokane-valley/orchard-crest-99216",
         "https://health.usnews.com/best-senior-living/orchard-crest-retirement-community-12320"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/spokane-valley/orchard-crest-99216"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(509) 928-2222"
@@ -2888,6 +3639,16 @@
       "sources": [
         "https://carelistings.com/assisted-living-homes/bellevue-wa/sunnys-adult-family-home-llc/5acd0293a71d8c15cf6966fa",
         "https://www.sunnysadultfamilyhome.com/"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sunnys-adult-family-home-llc-1379535"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/sunnys-adult-family-home-bellevue"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2921,6 +3682,12 @@
         "https://www.seniorhousingnet.com/seniorliving-detail/titlow-adult-family-home_8388-6th-ave_tacoma_wa_98465-631395",
         "https://www.senioradvisor.com/local/golden-age-adult-family-home-tacoma-wa"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/titlow-adult-family-home-1403030"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2951,6 +3718,12 @@
       "sources": [
         "https://www.aplaceformom.com/community/divine-home-health-adult-family-home-98163",
         "https://www.senioradvice.com/providers/view/divine-home-health-adult-family-home-bellevue-wa"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/divine-home-health-adult-family-home-98163"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2985,6 +3758,12 @@
         "https://carelistings.com/assisted-living-homes/lynnwood-wa/sunny-loving-care-adult-family-home/5acd028fa71d8c15cf6962fe",
         "https://www.seniorhousingnet.com/seniorliving-detail/sunny-loving-adult-home_16607-58th-pl-w_lynnwood_wa_98037-636079"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sunny-loving-adult-home-1348392"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3016,6 +3795,12 @@
       "sources": [
         "https://www.aplaceformom.com/community/twin-lake-adult-family-home-1453915",
         "https://www.twinlakeafh.com/"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/twin-lake-adult-family-home-1453915"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3050,6 +3835,12 @@
         "https://www.allsaintsadultfamilyhomes.com/",
         "https://www.seniorhousingnet.com/seniorliving-detail/all-saints-adult-family-home_2704-sw-314th-st_federal-way_wa_98023-630803"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/all-saints-adult-family-home-1401587"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3082,6 +3873,16 @@
         "https://www.kirklandseniorcare.com/",
         "https://www.aplaceformom.com/community/bridle-trails-senior-care-1357000",
         "https://www.yelp.com/biz/bridle-trails-senior-care-kirkland"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/bridle-trails-senior-care-1357000"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/bridle-trails-senior-care-kirkland"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3119,6 +3920,12 @@
         "https://adultfamilyhomecouncil.org/home-finder/757831-at-serenity-afh-llc",
         "https://www.atserenityafh.com/contact.html"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/a-serenity-adult-family-home-139217"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3151,6 +3958,12 @@
         "https://www.aplaceformom.com/community/elderly-home-care-99483",
         "https://www.elderlyhomecareafh.com/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/elderly-home-care-99483"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3182,6 +3995,16 @@
         "https://www.aplaceformom.com/community/victoria-1-adult-family-home-142288",
         "https://www.senioradvisor.com/local/victoria-1-afh-seattle-wa"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/victoria-1-adult-family-home-142288"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/victoria-1-afh-seattle-wa"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3212,6 +4035,7 @@
         "https://carelistings.com/assisted-living-homes/kent-wa/namaste-adult-family-home/5acd0296a71d8c15cf696b5a",
         "https://adultfamilyhomecouncil.org/home-finder/753668-namaste-adult-family-home-llc"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -3240,6 +4064,12 @@
       "sources": [
         "https://carelistings.com/assisted-living-homes/kent-wa/always-with-love-care/5acd028ca71d8c15cf695e51",
         "https://www.senioradvice.com/providers/view/always-with-love-care-kent-wa"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/always-with-love-and-care-kent"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3274,6 +4104,12 @@
         "https://providenceadultfamilyhome.com/",
         "https://www.seniorhousingnet.com/seniorliving-detail/providence-adult-family-home_2719-w-strong-rd_spokane_wa_99208-626146"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/providence-adult-family-home-1369439"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3302,6 +4138,12 @@
         "https://graceseniorcare.com/",
         "https://www.aplaceformom.com/community/grace-senior-care-of-issaquah-160401",
         "https://www.gracecaringhome.com/adult-family-home/issaquah-wa"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/grace-senior-care-of-issaquah-160401"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3335,6 +4177,12 @@
         "http://caringarmsafh.com/",
         "https://www.aplaceformom.com/community/caring-arms-adult-family-home-151103"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/caring-arms-adult-family-home-151103"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3365,6 +4213,12 @@
       "sources": [
         "https://www.aplaceformom.com/community/ravancho-afh-147057",
         "https://www.seniorhousingnet.com/seniorliving-detail/ravancho-afh_1130-canna-ct-se_olympia_wa_98513-637248"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/ravancho-afh-147057"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3401,6 +4255,12 @@
         "https://carelistings.com/assisted-living-homes/vancouver-wa/assurety-adult-family-home-inc/5acd0288a71d8c15cf695942",
         "https://www.aplaceformom.com/community/assurety-senior-care-71989"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/assurety-senior-care-71989"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3430,6 +4290,16 @@
         "https://www.aplaceformom.com/community/iris-adult-family-home-1441293",
         "https://adultfamilyhomecouncil.org/home-finder/754239-iris-adult-family-home",
         "https://www.senioradvisor.com/local/iris-adult-family-home-vancouver-wa"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/iris-adult-family-home-1441293"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/iris-adult-family-home-vancouver-wa"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3462,6 +4332,12 @@
         "https://www.aplaceformom.com/community/camas-hills-care-home-1378934",
         "https://carelistings.com/assisted-living-homes/camas-wa/camas-hills-care-home/5acd0290a71d8c15cf696338"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/camas-hills-care-home-1378934"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3493,6 +4369,12 @@
         "https://www.abeliaseniorhomes.net/",
         "https://adultfamilyhomecouncil.org/facility-finder/abelia-senior-services-llc/"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/abelia-1-senior-home-everett-2"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3520,6 +4402,12 @@
       "sources": [
         "https://www.aplaceformom.com/community/idyllic-adult-family-home-149868",
         "https://adultfamilyhomecouncil.org/home-finder/756732-idyllic-adult-family-home-llc"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/idyllic-adult-family-home-149868"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3551,6 +4439,16 @@
         "https://www.seniorhousingnet.com/seniorliving-detail/sim-adult-family-home_1836-east-end-ct-nw_olympia_wa_98502-633495",
         "https://www.aplaceformom.com/community/sim-adult-family-home-1402834"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/sim-adult-family-home-olympia-2"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sim-adult-family-home-1402834"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3579,6 +4477,12 @@
         "https://reviews.birdeye.com/bellingham-adult-family-homes-llc-168146154660823",
         "https://carelistings.com/assisted-living-homes/bellingham-wa/bellingham-adult-family-homes/67f376b2a073024f4eb57189",
         "https://adultfamilyhomecouncil.org/home-finder/754749-bellingham-adult-family-homes"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/bellingham-adult-family-homes-llc-168146154660823"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3609,6 +4513,7 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/505322/view-all/?state=WA",
         "https://spokanehrc.com/contact-us/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "cms_staffing_rating": 1,
       "serious_concern": true,
@@ -3645,6 +4550,7 @@
         "https://www.king5.com/article/news/20-of-the-nations-worst-rated-nursing-homes-are-in-washington-state/281-aaee92e9-25f1-4168-9e7b-97d9d32f458e",
         "https://www.franklinhillsskillednursing.com/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -3708,6 +4614,7 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/everett-center-505491",
         "https://www.king5.com/article/news/20-of-the-nations-worst-rated-nursing-homes-are-in-washington-state/281-aaee92e9-25f1-4168-9e7b-97d9d32f458e"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://www.everettcenter.com/"
     },
@@ -3737,6 +4644,7 @@
         "https://assistedlivingmagazine.com/nursing-home/woodard-creek-health-rehabilitation/",
         "https://health.usnews.com/best-nursing-homes/area/wa/woodard-creek-health-rehabilitation-505387"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://woodardcreek.com/"
     },
@@ -3767,6 +4675,7 @@
         "https://www.nursinghomedatabase.com/snf/505230",
         "https://health.usnews.com/best-nursing-homes/area/wa/fir-lane-health-and-rehabilitation-center-505230"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -3795,6 +4704,16 @@
       "sources": [
         "https://www.nursinghomedatabase.com/snf/505507",
         "https://www.king5.com/article/news/20-of-the-nations-worst-rated-nursing-homes-are-in-washington-state/281-aaee92e9-25f1-4168-9e7b-97d9d32f458e"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/shelton/shelton-health-and-rehabilitation-center"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/shelton-health-and-rehabilitation-shelton"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://evergreenhcg.com/locations/shelton-health-and-rehab/"
@@ -3826,6 +4745,7 @@
         "https://health.usnews.com/best-nursing-homes/area/wa/life-care-center-of-kennewick-505080",
         "https://nursinghomerating.org/WA/life-care-center-of-kennewick/505080/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -3854,6 +4774,7 @@
         "https://www.healthcare4ppl.com/nursing-home/washington/vancouver/bridge-crest-post-acute-505341.html",
         "https://health.usnews.com/best-nursing-homes/area/wa/bridge-crest-post-acute-505341"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -3883,6 +4804,7 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/505272/view-all/?state=WA",
         "https://www.medicarelist.com/nursing-home/life-care-center-of-mount-vernon-mount-vernon-wa/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -3912,6 +4834,16 @@
         "https://www.highgateseniorliving.com/communities/bellingham/",
         "https://www.seniorliving.org/assisted-living/washington/bellingham/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/highgate-senior-living-71578"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/bellingham/highgate-at-bellingham"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3940,6 +4872,16 @@
         "https://www.aplaceformom.com/community/renton-assisted-living-71339",
         "https://www.bbb.org/us/wa/renton/profile/senior-living/greenlake-senior-living-llc-1296-1000135827"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/renton-assisted-living-71339"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/brookdale-assisted-living-renton"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3966,6 +4908,12 @@
       "sources": [
         "https://www.caring.com/senior-living/washington/spokane/fairview-assisted-living-inc-99205",
         "https://www.seniorcareauthority.com/assisted-living/fairview-assisted-living-inc-in-spokane-washington.html"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/spokane/fairview-assisted-living-inc-99205"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://www.fairviewassistedliving.com/"
@@ -3996,6 +4944,12 @@
         "https://www.aplaceformom.com/community/aspen-quality-care-1364942",
         "https://www.whca.org/facility-finder/aspen-quality-care/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/aspen-quality-care-1364942"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -4022,6 +4976,12 @@
       "sources": [
         "https://www.miradorliving.com/assisted-living/washington/lakewood/maple-creek-senior-living",
         "https://www.aplaceformom.com/community/maple-creek-of-lakewood-99832"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/maple-creek-of-lakewood-99832"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -4051,6 +5011,16 @@
         "https://www.caring.com/senior-living/washington/auburn/parkside-retirement-center-98002",
         "https://www.aplaceformom.com/community/parkside-retirement-community-71212"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/auburn/parkside-retirement-center-98002"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/parkside-retirement-community-71212"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -4076,6 +5046,20 @@
         "https://www.aplaceformom.com/community/fort-vancouver-assisted-living-71980",
         "https://www.senioradvisor.com/local/park-lido-inc-vancouver-wa",
         "https://www.caring.com/senior-living/washington/vancouver/fort-vancouver-assisted-living"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/fort-vancouver-assisted-living-71980"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/park-lido-inc-vancouver-wa"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/vancouver/fort-vancouver-assisted-living"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -4104,6 +5088,12 @@
       "sources": [
         "https://www.aplaceformom.com/community/vineyard-park-at-bremerton-senior-living-71675",
         "https://carepartnersliving.com/vineyard-park-of-bremerton/"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/vineyard-park-at-bremerton-senior-living-71675"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -4135,6 +5125,20 @@
         "https://www.caring.com/senior-living/washington/everett/everett-plaza-everett",
         "https://reviews.birdeye.com/everett-plaza-assisted-living-community-148049409088751"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/everett-plaza-assisted-living-community-everett"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/everett/everett-plaza-everett"
+        },
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/everett-plaza-assisted-living-community-148049409088751"
+        }
+      ],
       "verified_date": "2026-07-14",
       "website": "https://www.carepartnersliving.com/everett-plaza-assisted-living/"
     },
@@ -4161,6 +5165,16 @@
       "sources": [
         "https://www.caring.com/senior-living/washington/east-wenatchee/kadie-glen-assisted-living-98801",
         "https://www.seniorly.com/assisted-living/washington/east-wenatchee/kadie-glen-assisted-living"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/washington/east-wenatchee/kadie-glen-assisted-living-98801"
+        },
+        {
+          "name": "Seniorly",
+          "url": "https://www.seniorly.com/assisted-living/washington/east-wenatchee/kadie-glen-assisted-living"
+        }
       ],
       "verified_date": "2026-07-14"
     }

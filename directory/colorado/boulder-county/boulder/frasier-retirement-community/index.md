@@ -24,6 +24,5 @@ sources: ["https://www.frasiermeadows.org/", "https://health.usnews.com/best-nur
 records_note: true
 verified_date: "2026-07-19"
 description_full: "Frasier (Frasier Meadows) has served Boulder seniors since 1960 on a 20-acre campus and is the city's only accredited continuing care retirement community."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/co/frasier-meadows-health-care-center-065324"}]
 reviews_search_url: "https://www.google.com/search?q=Frasier+Retirement+Community+Boulder+CO+reviews"
 ---

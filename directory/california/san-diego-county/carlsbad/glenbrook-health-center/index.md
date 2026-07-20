@@ -24,6 +24,6 @@ cms_ccn: "555806"
 sources: ["https://healthcarecomps.com/nursing-homes/ca/555806/", "https://health.usnews.com/best-nursing-homes/area/ca/glenbrook-health-center-555806", "https://www.yelp.com/biz/glenbrook-health-center-carlsbad-2"]
 verified_date: "2026-07-19"
 description_full: "GlenBrook Health Center is a Medicare-certified skilled nursing facility with 94 certified beds on the La Costa Glen campus in Carlsbad, also offering assisted living, memory care, and short-term rehabilitation."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/glenbrook-health-center-555806"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/glenbrook-health-center-carlsbad-2"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/glenbrook-health-center-carlsbad-2"}]
 reviews_search_url: "https://www.google.com/search?q=GlenBrook+Health+Center+Carlsbad+CA+reviews"
 ---

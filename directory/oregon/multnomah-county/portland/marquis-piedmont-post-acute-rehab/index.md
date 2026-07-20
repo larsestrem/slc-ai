@@ -25,7 +25,6 @@ cms_ccn: "385208"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-piedmont-post-acute-rehabilitation-385208", "https://www.medicare.gov/care-compare/details/nursing-home/385208/"]
 verified_date: "2026-07-14"
 description_full: "A 70-bed Marquis Companies skilled nursing and rehabilitation center in the Piedmont area of north Portland. It provides post-hospital rehabilitation and long-term care with above-average nurse staffing."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/marquis-piedmont-post-acute-rehabilitation-385208"}]
 reviews_search_url: "https://www.google.com/search?q=Marquis+Piedmont+Post+Acute+Rehab+Portland+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385208"
 license_id: "385208"

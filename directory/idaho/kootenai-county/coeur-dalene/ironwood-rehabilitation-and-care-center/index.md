@@ -24,6 +24,5 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/id/ironwood-rehabil
 verified_date: "2026-07-14"
 records_note: true
 description_full: "Ironwood Rehabilitation and Care Center is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in Coeur d'Alene offering rehabilitation therapy and long-term nursing care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/ironwood-rehabilitation-and-care-center-135053"}]
 reviews_search_url: "https://www.google.com/search?q=Ironwood+Rehabilitation+and+Care+Center+Coeur+d%27Alene+ID+reviews"
 ---

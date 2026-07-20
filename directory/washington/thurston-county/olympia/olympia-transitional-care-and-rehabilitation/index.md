@@ -23,6 +23,5 @@ cms_ccn: "505243"
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/olympia-transitional-care-and-rehabilitation-505243", "https://www.seniorcare.com/nursing-homes/wa/olympia/olympia-transitional-care-and-rehabilitation/505243/"]
 verified_date: "2026-07-14"
 description_full: "A 113-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation center in Olympia offering short-term post-acute rehab and long-term care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/olympia-transitional-care-and-rehabilitation-505243"}]
 reviews_search_url: "https://www.google.com/search?q=Olympia+Transitional+Care+and+Rehabilitation+Olympia+WA+reviews"
 ---

@@ -25,6 +25,5 @@ cms_ccn: "135141"
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/the-terraces-of-boise-135141", "https://www.medicare.gov/care-compare/details/nursing-home/135141"]
 verified_date: "2026-07-14"
 description_full: "A nonprofit continuing care retirement community operated by HumanGood, offering residential/independent living, assisted living, memory care and a 48-bed Medicare-certified skilled nursing unit. Set on the east side of Boise along Warm Springs Avenue."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/the-terraces-of-boise-135141"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-terraces-of-boise-1102"}]
 reviews_search_url: "https://www.google.com/search?q=The+Terraces+of+Boise+Boise+ID+reviews"
 ---

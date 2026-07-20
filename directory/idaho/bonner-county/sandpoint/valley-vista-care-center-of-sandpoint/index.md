@@ -26,6 +26,5 @@ sources: ["https://www.valleyvista.org/facilities/sandpoint/valley-vista-care-ce
 records_note: true
 verified_date: "2026-07-14"
 description_full: "Valley Vista Care Center of Sandpoint is a 73-bed Medicare- and Medicaid-certified skilled nursing facility in Sandpoint offering short-term rehabilitation and long-term nursing care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/valley-vista-care-center-of-sandpoint-135055"}]
 reviews_search_url: "https://www.google.com/search?q=Valley+Vista+Care+Center+of+Sandpoint+Sandpoint+ID+reviews"
 ---

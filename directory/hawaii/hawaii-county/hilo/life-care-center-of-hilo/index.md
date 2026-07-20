@@ -24,7 +24,7 @@ cms_ccn: "125040"
 sources: ["https://health.usnews.com/best-nursing-homes/area/hi/life-care-center-of-hilo-125040", "https://lcca.com/locations/hi/hilo/"]
 verified_date: "2026-07-14"
 description_full: "Life Care Center of Hilo is a for-profit skilled nursing and rehabilitation facility on the Big Island, operated by Life Care Centers of America. It provides short-term rehab and long-term skilled nursing care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/life-care-center-of-hilo-125040"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/life-care-center-of-hilo-hilo"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/life-care-center-of-hilo-hilo"}]
 reviews_search_url: "https://www.google.com/search?q=Life+Care+Center+of+Hilo+Hilo+HI+reviews"
 records_url: "https://health.hawaii.gov/ohca/files/2019/08/life-care-center-of-hilo-snf-2019.pdf"
 ---

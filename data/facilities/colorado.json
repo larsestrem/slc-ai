@@ -28,6 +28,12 @@
         "https://everyplace.care/facility/sunrise-at-pinehurst-denver-co-23049u",
         "https://health.usnews.com/best-senior-living/sunrise-at-pinehurst-2589"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sunrise-of-pinehurst-93447"
+        }
+      ],
       "verified_date": "2026-07-19",
       "website": "https://www.sunriseseniorliving.com/communities/co/sunrise-at-pinehurst"
     },
@@ -58,6 +64,7 @@
         "https://www.medicarelist.com/nursing-home/jewell-care-center-of-denver-denver-co/",
         "https://southvalleypostacute.com/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-19"
     },
     {
@@ -90,6 +97,7 @@
         "https://health.usnews.com/best-nursing-homes/area/co/garden-terrace-alzheimers-center-of-excellence-aurora-065266",
         "https://www.cohca.org/consumers/find-care/garden-terrace-alzheimers-center-of-excellence/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-19"
     },
     {
@@ -121,6 +129,16 @@
         "https://www.aplaceformom.com/community/cherry-creek-retirement-village-93638",
         "https://www.centurypa.com/senior-living/cherry-creek-retirement/",
         "https://www.caring.com/senior-living/colorado/aurora/cherry-creek-retirement-village-80014"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/cherry-creek-retirement-village-93638"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/colorado/aurora/cherry-creek-retirement-village-80014"
+        }
       ],
       "verified_date": "2026-07-19"
     },
@@ -155,6 +173,12 @@
         "https://everyplace.care/facility/morningstar-of-arvada-arvada-co-23t231",
         "https://www.morningstarseniorliving.com/communities/senior-living-arvada/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/morning-star-of-arvada-1420361"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -186,6 +210,20 @@
         "https://birdeye.com/covenant-living-of-colorado-159803556880627",
         "https://www.yelp.com/biz/covenant-living-of-colorado-westminster",
         "https://www.caring.com/senior-living/colorado/westminster/covenant-living-of-colorado"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://birdeye.com/covenant-living-of-colorado-159803556880627"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/covenant-living-of-colorado-westminster"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/colorado/westminster/covenant-living-of-colorado"
+        }
       ],
       "verified_date": "2026-07-19",
       "phone": "(303) 424-4828",
@@ -223,6 +261,16 @@
         "https://hollycreekcommunity.com/",
         "https://www.caring.com/senior-living/colorado/centennial/holly-creek-80121"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/holly-creek-retirement-community-157269890756831"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/colorado/centennial/holly-creek-80121"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -255,6 +303,7 @@
         "https://health.usnews.com/best-nursing-homes/area/co/frasier-meadows-health-care-center-065324",
         "https://www.nursinghomesite.com/FRASIER_MEADOWS_HEALTH_CARE_CENTER_BOULDER_CO"
       ],
+      "review_links": [],
       "verified_date": "2026-07-19"
     },
     {
@@ -288,6 +337,16 @@
         "https://www.altavitaliving.com/livingoptions/altavita-memory-care-centre/",
         "https://www.seniorlivingfacilities.net/facility/altavita-memory-care-centre-longmont-co.html"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/alta-vita-assisted-living-memory-care-centre-1350281"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/colorado/longmont/altavita-memory-care-centre-80503"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -316,6 +375,20 @@
         "https://www.senioradvisor.com/local/memory-care-at-seven-lakes-loveland-co",
         "https://www.caring.com/senior-living/colorado/loveland/seven-lakes-memory-care-80538",
         "https://www.mbkseniorliving.com/senior-living/co/loveland/seven-lakes-memory-care/"
+      ],
+      "review_links": [
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/memory-care-at-seven-lakes-loveland-co"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/colorado/loveland/seven-lakes-memory-care-80538"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/seven-lakes-memory-care-1353247"
+        }
       ],
       "verified_date": "2026-07-19"
     },
@@ -346,6 +419,16 @@
         "https://www.aplaceformom.com/community/grace-pointe-150813",
         "https://assistedlivingmagazine.com/nursing-home/grace-pointe-senior-care-community/",
         "https://www.seniorly.com/continuing-care-retirement-community/colorado/greeley/grace-pointe-senior-care-community"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/grace-pointe-150813"
+        },
+        {
+          "name": "Seniorly",
+          "url": "https://www.seniorly.com/continuing-care-retirement-community/colorado/greeley/grace-pointe-senior-care-community"
+        }
       ],
       "verified_date": "2026-07-19",
       "website": "https://gracepointegreeley.com/"
@@ -380,6 +463,16 @@
         "https://www.aplaceformom.com/community/morning-star-at-mountain-shadows-1361214",
         "https://www.morningstarseniorliving.com/communities/assisted-living-colorado-springs-mountain-shadows/"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/morningstar-assisted-living-memory-care-at-mountain-shadows-173507707874893"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/morning-star-at-mountain-shadows-1361214"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -409,6 +502,16 @@
         "https://www.aplaceformom.com/community/villa-pueblo-senior-living-community-93607",
         "https://villapueblo.com/",
         "https://www.senioradvisor.com/local/villa-pueblo-pueblo-co"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/villa-pueblo-senior-living-community-93607"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/villa-pueblo-pueblo-co"
+        }
       ],
       "verified_date": "2026-07-19"
     },
@@ -441,6 +544,12 @@
         "https://thelodgeatgrandjunction.com/our-community/reviews/",
         "https://thebusinesstimes.com/integral-senior-living-takes-over-management-of-the-lodge-at-grand-junction/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-lodge-at-grand-junction-1437480"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -470,6 +579,7 @@
         "https://www.cottonwoodrhc.com/news",
         "https://www.nursinghomes.com/co/durango/cottonwood-inn-rehab-and-extended-care-center/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-19"
     },
     {
@@ -502,6 +612,7 @@
         "https://www.assistedlivingcenter.com/facilities/co/fort-collins/morningstar-of-fort-collins-80525/",
         "https://www.morningstarseniorliving.com/communities/assisted-living-fort-collins/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-19"
     }
   ],

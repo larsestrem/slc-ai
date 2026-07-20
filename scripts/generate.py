@@ -80,24 +80,18 @@ def write(path: Path, content: str):
 
 # Public review platforms — a source URL on one of these domains is a page where
 # families can read the actual reviews, so we surface it as a labeled link.
+# Approved review platforms only: reputable pages with genuine review content.
+# We deliberately exclude scraper/SEO directories and rating/award products
+# (SeniorAdvice, CareListings, My Caring Plan, SeniorHousingNet, U.S. News, etc.).
+# This fallback only runs for facilities with no explicit review_links in the
+# data file; curated links live in data/facilities/*.json and are authoritative.
 REVIEW_PLATFORMS = [
     ("aplaceformom.com", "A Place for Mom"),
     ("caring.com", "Caring.com"),
     ("senioradvisor.com", "SeniorAdvisor"),
-    ("senioradvice.com", "SeniorAdvice"),
-    ("seniorcareauthority.com", "Senior Care Authority"),
-    ("assistedlivingcenter.com", "AssistedLivingCenter"),
-    ("carelistings.com", "CareListings"),
     ("seniorly.com", "Seniorly"),
-    ("mycaringplan.com", "My Caring Plan"),
-    ("olera.care", "Olera"),
     ("birdeye.com", "Birdeye"),
     ("yelp.com", "Yelp"),
-    ("health.usnews.com", "U.S. News"),
-    ("ultimateseniorresource.com", "Ultimate Senior Resource"),
-    ("seniorhousingnet.com", "SeniorHousingNet"),
-    ("nursinghomesite.com", "NursingHomeSite"),
-    ("nursinghomedatabase.com", "Nursing Home Database"),
     ("g.page", "Google"),
     ("google.com/maps", "Google"),
 ]
@@ -307,7 +301,10 @@ def gen_facility_page(f, siblings, licensing):
         if not f.get("cms_ccn") and "ltclicensing" in src:
             front["records_url"] = src
     front["description_full"] = f.get("description")
-    rlinks = f.get("review_links") or review_links_from_sources(f.get("sources"))
+    # Explicit review_links in the data file are authoritative (including an
+    # empty list, which means "curated to no links"); only fall back to deriving
+    # from sources when the key is absent entirely.
+    rlinks = f["review_links"] if "review_links" in f else review_links_from_sources(f.get("sources"))
     if rlinks:
         front["review_links"] = rlinks
     search_q = quote_plus(f"{f['name']} {f['city_name']} {f['state_abbrev']} reviews")

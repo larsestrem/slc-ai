@@ -26,6 +26,5 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-namp
 records_note: true
 verified_date: "2026-07-14"
 description_full: "A 99-bed skilled nursing and short-term rehabilitation center in Nampa operated by Cascadia Healthcare. Offers Medicare- and Medicaid-certified post-acute and long-term care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/cascadia-of-nampa-135144"}]
 reviews_search_url: "https://www.google.com/search?q=Cascadia+of+Nampa+Nampa+ID+reviews"
 ---

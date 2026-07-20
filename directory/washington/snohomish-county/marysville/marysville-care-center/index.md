@@ -24,6 +24,5 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/wa/marysville-care-
 records_note: true
 verified_date: "2026-07-14"
 description_full: "A 97-bed skilled nursing facility in Marysville offering short-term rehab and long-term care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/marysville-care-center-505386"}]
 reviews_search_url: "https://www.google.com/search?q=Marysville+Care+Center+Marysville+WA+reviews"
 ---

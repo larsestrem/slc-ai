@@ -24,6 +24,5 @@ cms_ccn: "065230"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/065230/view-all/?city=Denver&state=CO&zipcode=80231", "https://www.medicarelist.com/nursing-home/jewell-care-center-of-denver-denver-co/", "https://southvalleypostacute.com/"]
 verified_date: "2026-07-19"
 description_full: "South Valley Post Acute Rehabilitation is a 106-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Denver."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/co/south-valley-post-acute-rehabilitation-065230"}]
 reviews_search_url: "https://www.google.com/search?q=South+Valley+Post+Acute+Rehabilitation+Denver+CO+reviews"
 ---

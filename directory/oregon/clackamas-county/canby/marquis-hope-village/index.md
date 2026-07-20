@@ -25,7 +25,7 @@ cms_ccn: "385260"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-hope-village-385260", "https://www.marquiscompanies.com/facility/marquis-hope-village/", "https://www.yelp.com/biz/marquis-hope-village-post-acute-rehab-canby-2"]
 verified_date: "2026-07-14"
 description_full: "Marquis Hope Village is a 50-bed Medicare- and Medicaid-certified skilled nursing facility offering post-hospital rehabilitation and long-term care on the Hope Village retirement campus in Canby. Marquis also operates the adjacent Marquis at Hope Village assisted living and memory care building at 1589 S Ivy St, giving campus residents a full continuum of care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/marquis-hope-village-385260"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/marquis-hope-village-post-acute-rehab-canby-2"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/marquis-hope-village-post-acute-rehab-canby-2"}]
 reviews_search_url: "https://www.google.com/search?q=Marquis+Hope+Village+Canby+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Facilities/Details/38E004"
 license_id: "38E004"

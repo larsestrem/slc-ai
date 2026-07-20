@@ -25,7 +25,7 @@ cms_ccn: "055733"
 sources: ["https://www.caring.com/senior-living/california/santa-barbara/valle-verde-93105", "https://health.usnews.com/best-senior-living/valle-verde-1900"]
 verified_date: "2026-07-19"
 description_full: "A HumanGood nonprofit continuing care retirement community in Santa Barbara offering independent living, assisted living, and skilled nursing on beautiful grounds. Named a U.S. News Best Senior Living community for assisted and independent living."
-review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/santa-barbara/valle-verde-93105"}, {"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/valle-verde-1900"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/valle-verde-santa-barbara"}]
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/california/santa-barbara/valle-verde-93105"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/valle-verde-santa-barbara"}]
 reviews_search_url: "https://www.google.com/search?q=Valle+Verde+Santa+Barbara+CA+reviews"
 records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/421700411"
 license_id: "421700411"

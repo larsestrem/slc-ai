@@ -24,6 +24,6 @@ cms_ccn: "055481"
 sources: ["https://www.nursinghomesite.com/VIENNA_NURSING_AND_REHABILITATION_CENTER_LODI_CA", "https://health.usnews.com/best-nursing-homes/area/ca/vienna-nursing-and-rehabilitation-center-055481", "https://www.yelp.com/biz/vienna-nursing-and-rehabilitation-center-lodi"]
 verified_date: "2026-07-19"
 description_full: "Vienna Nursing and Rehabilitation Center is a 150-bed Medicare- and Medicaid-certified skilled nursing facility that has served Lodi since 1967, providing skilled nursing, short-term rehabilitation, and hospice services."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/vienna-nursing-and-rehabilitation-center-055481"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/vienna-nursing-and-rehabilitation-center-lodi"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/vienna-nursing-and-rehabilitation-center-lodi"}]
 reviews_search_url: "https://www.google.com/search?q=Vienna+Nursing+and+Rehabilitation+Center+Lodi+CA+reviews"
 ---

@@ -25,7 +25,7 @@ cms_ccn: "555835"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/555835/view-all/?state=CA", "https://health.usnews.com/best-nursing-homes/area/ca/vi-at-palo-alto-555835", "https://www.yelp.com/biz/vi-at-palo-alto-palo-alto", "https://www.viliving.com/locations/ca/palo-alto/contact"]
 verified_date: "2026-07-19"
 description_full: "Life Plan (continuing care) community on 23 acres of Stanford land on Sand Hill Road, offering independent living, assisted living, memory care, and skilled nursing."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/vi-at-palo-alto-555835"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/vi-at-palo-alto-palo-alto"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/vi-at-palo-alto-palo-alto"}]
 reviews_search_url: "https://www.google.com/search?q=Vi+at+Palo+Alto+Palo+Alto+CA+reviews"
 records_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/FacDetail/435200930"
 license_id: "435200930"

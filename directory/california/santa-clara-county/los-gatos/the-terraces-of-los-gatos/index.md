@@ -24,6 +24,6 @@ cms_ccn: "555547"
 sources: ["https://www.assistedlivingcenter.com/facilities/ca/los-gatos/terraces-of-los-gatos-95032/", "https://www.nursinghomedatabase.com/snf/555547", "https://health.usnews.com/best-senior-living/the-terraces-of-los-gatos-2769"]
 verified_date: "2026-07-19"
 description_full: "Named a U.S. News Best Senior Living community for independent living, assisted living, and memory care. Residents like the walkable location near Los Gatos shopping and dining."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-senior-living/the-terraces-of-los-gatos-2769"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-terraces-of-los-gatos-los-gatos"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/the-terraces-of-los-gatos-los-gatos"}]
 reviews_search_url: "https://www.google.com/search?q=The+Terraces+of+Los+Gatos+Los+Gatos+CA+reviews"
 ---

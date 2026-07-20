@@ -23,6 +23,5 @@ cms_ccn: "505269"
 sources: ["https://health.usnews.com/best-nursing-homes/area/wa/vancouver-specialty-and-rehabilitation-care-505269", "https://www.seniorcare.com/nursing-homes/wa/vancouver/vancouver-specialty-and-rehab-care/505269/"]
 verified_date: "2026-07-14"
 description_full: "A 104-bed skilled nursing and rehabilitation facility in Vancouver providing short-term rehab and long-term care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/vancouver-specialty-and-rehabilitation-care-505269"}]
 reviews_search_url: "https://www.google.com/search?q=Vancouver+Specialty+and+Rehabilitative+Care+Vancouver+WA+reviews"
 ---

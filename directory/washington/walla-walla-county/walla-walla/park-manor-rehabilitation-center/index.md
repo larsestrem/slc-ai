@@ -24,6 +24,5 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/wa/park-manor-rehab
 records_note: true
 verified_date: "2026-07-14"
 description_full: "Park Manor Rehabilitation Center is a 99-bed Medicare- and Medicaid-certified skilled nursing facility in Walla Walla providing short-term rehabilitation and long-term care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/wa/park-manor-rehabilitation-center-505074"}]
 reviews_search_url: "https://www.google.com/search?q=Park+Manor+Rehabilitation+Center+Walla+Walla+WA+reviews"
 ---

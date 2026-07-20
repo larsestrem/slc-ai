@@ -25,7 +25,6 @@ cms_ccn: "385147"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/creekside-health-and-rehabilitation-of-cascadia-385147", "https://www.medicare.gov/care-compare/details/nursing-home/385147/"]
 verified_date: "2026-07-14"
 description_full: "An 87-bed skilled nursing and rehabilitation facility on Hilyard Street in south Eugene, operated by Cascadia Healthcare. It offers short-term rehab and long-term nursing care."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/creekside-health-and-rehabilitation-of-cascadia-385147"}]
 reviews_search_url: "https://www.google.com/search?q=Creekside+Health+and+Rehab+of+Cascadia+Eugene+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385147"
 license_id: "385147"

@@ -24,7 +24,7 @@ cms_ccn: "385250"
 sources: ["https://www.roguevalleymanor.org/", "https://health.usnews.com/best-nursing-homes/area/or/rogue-valley-manor-385250", "https://www.caring.com/senior-living/oregon/medford/rogue-valley-manor-97504"]
 verified_date: "2026-07-14"
 description_full: "Rogue Valley Manor is southern Oregon's only continuing care retirement community and the longest-standing accredited CCRC on the West Coast, open since 1961."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/rogue-valley-manor-385250"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/medford/rogue-valley-manor-97504"}]
+review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/medford/rogue-valley-manor-97504"}]
 reviews_search_url: "https://www.google.com/search?q=Rogue+Valley+Manor+Medford+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385250"
 license_id: "385250"

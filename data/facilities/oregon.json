@@ -28,6 +28,12 @@
         "https://www.seniorlivingguide.com/communities/bonaventure-of-salem-3411-boone-road-se-salem-or-97317/",
         "https://www.ohca.com/facility-finder/bonaventure-of-salem-assisted-living/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/bonaventure-of-salem-1359646"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -57,6 +63,16 @@
         "https://www.aplaceformom.com/community/prestige-senior-living-orchard-heights-96843",
         "https://www.caring.com/senior-living/oregon/salem/prestige-senior-living-at-orchard-heights-97304",
         "https://www.ohca.com/facility-finder/prestige-senior-living-orchard-heights/"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/prestige-senior-living-orchard-heights-96843"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/salem/prestige-senior-living-at-orchard-heights-97304"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -88,6 +104,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-eugene-385053",
         "https://www.ohca.com/facility-finder/avamere-rehabilitation-of-eugene/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -118,6 +135,12 @@
         "https://findcontinuingcare.com/community/or/eugene/cascade-manor-c01396",
         "https://www.aplaceformom.com/community/cascade-manor-ccrc-60130"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/cascade-manor-ccrc-60130"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -144,6 +167,12 @@
         "https://www.brookdale.com/en/communities/brookdale-oswego-springs-portland.html",
         "https://www.aplaceformom.com/community/brookdale-oswego-springs-portland-102302",
         "https://www.familyassets.com/assisted-living/oregon/portland/brookdale-oswego-springs"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/brookdale-oswego-springs-portland-102302"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -175,6 +204,16 @@
         "https://www.yelp.com/biz/mirabella-portland-portland",
         "https://www.assistedlivingcenter.com/facilities/or/portland/mirabella-at-south-waterfront-ccrc-97239/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/mirabella-portland-ccrc-1336580"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/mirabella-portland-portland"
+        }
+      ],
       "verified_date": "2026-07-14",
       "website": "https://www.mirabellaportland.org/"
     },
@@ -204,6 +243,12 @@
         "https://www.touchmark.com/senior-living/or/bend/mount-bachelor-village/",
         "https://www.ohca.com/facility-finder/touchmark-at-mount-bachelor-village/",
         "https://www.yelp.com/biz/touchmark-at-mount-bachelor-village-bend-2"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/touchmark-at-mount-bachelor-village-bend-2"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -235,6 +280,12 @@
         "https://newlifestyles.com/listings/prestige-senior-living-high-desert-118593-bend-or",
         "https://www.aplaceformom.com/community/prestige-senior-living-high-desert-98106"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/prestige-senior-living-high-desert-98106"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -260,6 +311,12 @@
         "https://www.prestigecare.com/locations/willow-place/",
         "https://www.caring.com/senior-living/oregon/newberg/willow-place-97132",
         "https://www.ohca.com/facility-finder/willow-place/"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/newberg/willow-place-97132"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -290,6 +347,7 @@
         "https://www.ohca.com/facility-finder/mt-angel-health-and-rehabilitation/",
         "https://careavailability.com/provider/providence-benedictine-nursing-center/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -320,6 +378,12 @@
         "https://www.aplaceformom.com/community/prestige-senior-living-arbor-place-98105",
         "https://www.ohca.com/facility-finder/prestige-senior-living-arbor-place/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/prestige-senior-living-arbor-place-98105"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -345,6 +409,12 @@
         "https://www.aplaceformom.com/community/felicity-haven-adult-foster-home-1393946",
         "https://www.seniorhousingnet.com/seniorliving-detail/felicity-haven-adult-foster-home_2676-tahoe-ave-se_salem_or_97306-623974",
         "https://www.seniorhomes.com/oregon/salem/felicity-haven-adult-foster-home"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/felicity-haven-adult-foster-home-1393946"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -377,6 +447,12 @@
         "https://www.yelp.com/biz/fox-hollow-independent-and-assisted-living-bend",
         "https://seniorcarehomes.com/assisted-living/oregon/bend-or/fox-hollow-independent-assisted-living-community/"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/fox-hollow-independent-and-assisted-living-bend"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -403,6 +479,12 @@
         "https://whisperingwinds.info/",
         "https://www.yelp.com/biz/whispering-winds-retirement-bend",
         "https://assistedlivingmagazine.com/independent-living/whispering-winds/"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/whispering-winds-retirement-bend"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -432,6 +514,12 @@
         "https://www.brookdale.com/en/communities/brookdale-bend.html",
         "https://assistedlivingmagazine.com/nursing-home/brookdale-bend/",
         "https://www.aplaceformom.com/community/brookdale-bend-72412"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/brookdale-bend-72412"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -463,6 +551,16 @@
         "https://www.yelp.com/biz/cascades-of-bend-retirement-community-bend-2",
         "https://www.aplaceformom.com/community/cascades-of-bend-101679"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/cascades-of-bend-101679"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/cascades-of-bend-residential-and-memory-care-bend"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -492,6 +590,12 @@
         "https://www.yelp.com/biz/prairie-house-assisted-living-and-memory-care-la-pine",
         "https://www.ohca.com/facility-finder/prairie-house-assisted-living-community/"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/prairie-house-assisted-living-and-memory-care-la-pine"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -519,6 +623,7 @@
         "http://www.prineville.org/hospital-medical-clinic/ochoco-village-assisted-living/",
         "https://www.assistedliving.com/oregon/prineville/ochoco-village-assisted-living/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -550,6 +655,7 @@
         "https://www.nursinghomes.us/facility/regency-redmond-rehabilitation-and-nursing-center-385230",
         "https://www.regency-pacific.com/senior-living/or/redmond/regency-redmond-rehabilitation-nursing-center/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -582,6 +688,7 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/385253/view-all/?state=OR",
         "https://www.healthcare4ppl.com/nursing-home/oregon/bend/bend-transitional-care-385253.html"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -611,6 +718,12 @@
         "https://www.caring.com/senior-living/oregon/corvallis/stoneybrook-lodge-gracious-retirement-living",
         "https://graciousretirementliving.com/corvallis"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/corvallis/stoneybrook-lodge-gracious-retirement-living"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -636,6 +749,12 @@
         "https://www.yelp.com/biz/timberhill-place-barber-and-beauty-salon-corvallis",
         "https://www.senioradvice.com/providers/view/timberhill-place-corvallis-or",
         "https://www.aplaceformom.com/community/timberhill-place-60047"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/timberhill-place-60047"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -663,6 +782,12 @@
         "https://www.carechanges.com/living-communities/regent-court_corvallis_oregon/",
         "https://encorecommunities.com/regent-court/",
         "https://www.aplaceformom.com/community/regent-court-96870"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/regent-court-96870"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://encorecommunities.com/regent-court/"
@@ -695,6 +820,7 @@
         "https://findcontinuingcare.com/community/or/albany/mennonite-village-c00453",
         "https://www.carechanges.com/living-communities/mennonite-village_albany_oregon/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -722,6 +848,16 @@
         "https://www.aplaceformom.com/community/brookdale-grand-prairie-60028",
         "https://www.caring.com/senior-living/oregon/albany/brookdale-grand-prairie-or"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/brookdale-grand-prairie-60028"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/albany/brookdale-grand-prairie-or"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -748,6 +884,12 @@
         "https://lebanonretirement.com/",
         "https://seniorhomes.net/communities/oaks-at-lebanon-lebanon-or-1879",
         "https://www.aplaceformom.com/community/the-oaks-at-lebanon-95216"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-oaks-at-lebanon-95216"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -781,6 +923,7 @@
         "https://www.healthcare4ppl.com/nursing-home/oregon/lebanon/lebanon-veterans-home-385280.html",
         "https://nasvh.org/veterans-homes/edward-c-allworth-oregon-veterans-home/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -811,6 +954,16 @@
         "https://www.seniorlivingguide.com/communities/dallas-retirement-village-377-n-w-jasper-street-dallas-or-97338/",
         "https://findcontinuingcare.com/community/or/dallas/dallas-retirement-village-c00455"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/dallas/dallas-ret-village-health-center-97338"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/dallas-retirement-village-60054"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -840,6 +993,16 @@
         "https://hopevillage.org/our-story-mission/",
         "https://www.yelp.com/biz/hope-village-canby",
         "https://reviews.birdeye.com/hope-village-senior-living-community-168154464620059"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/hope-village-canby"
+        },
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/hope-village-senior-living-community-168154464620059"
+        }
       ],
       "verified_date": "2026-07-14",
       "review_caveat": "This community shares a campus with separately licensed Marquis Hope Village (skilled nursing) and Rackleff Place (assisted living). Its review sources reference the 'Hope Village' name broadly and may reflect experiences across the shared campus, not only the independent-living community itself — check the other two listings' own ratings separately."
@@ -872,6 +1035,12 @@
         "https://www.marquiscompanies.com/facility/marquis-hope-village/",
         "https://www.yelp.com/biz/marquis-hope-village-post-acute-rehab-canby-2"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/marquis-hope-village-post-acute-rehab-canby-2"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -900,6 +1069,12 @@
         "https://www.terwilligerplaza.com/",
         "https://www.caring.com/senior-living/oregon/portland/terwilliger-plaza-97201",
         "https://www.familyassets.com/continuing-care-retirement-communities/oregon/portland/terwilliger-plaza"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/portland/terwilliger-plaza-97201"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(503) 299-4911"
@@ -931,6 +1106,7 @@
         "https://www.carechanges.com/living-communities/holladay-park-plazacontinuing-care-retirement-com_portland_oregon/",
         "https://health.usnews.com/best-senior-living/holladay-park-plaza-29272"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(503) 288-6671"
     },
@@ -961,6 +1137,12 @@
         "https://russellvillepark.com/",
         "https://health.usnews.com/best-senior-living/russellville-park-1380",
         "https://www.caring.com/senior-living/oregon/portland/russellville-park-97216"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/portland/russellville-park-97216"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(503) 254-5900"
@@ -993,6 +1175,12 @@
         "https://health.usnews.com/best-nursing-homes/area/or/willamette-view-health-center-385200",
         "https://www.caring.com/senior-living/oregon/portland/willamette-view-97222"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/portland/willamette-view-97222"
+        }
+      ],
       "verified_date": "2026-07-14",
       "phone": "(503) 654-6581"
     },
@@ -1021,6 +1209,12 @@
         "https://maryswoods.org/living-here/",
         "https://health.usnews.com/best-senior-living/marys-woods-at-marylhurst-11459",
         "https://www.yelp.com/biz/marys-woods-lake-oswego-2"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/marys-woods-lake-oswego-2"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(503) 635-7381"
@@ -1052,6 +1246,16 @@
         "https://www.caring.com/senior-living/oregon/lake-oswego/the-springs-at-carman-oaks-97035",
         "https://www.aplaceformom.com/community/the-springs-at-carman-oaks-59721"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/lake-oswego/the-springs-at-carman-oaks-97035"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-springs-at-carman-oaks-59721"
+        }
+      ],
       "verified_date": "2026-07-14",
       "phone": "(503) 636-3800"
     },
@@ -1081,6 +1285,16 @@
         "https://www.thespringsliving.com/senior-living/happy-valley/oregon/happy-valley",
         "https://health.usnews.com/best-senior-living/the-springs-at-happy-valley-29485",
         "https://www.seniorly.com/assisted-living/oregon/happy-valley/the-springs-at-happy-valley"
+      ],
+      "review_links": [
+        {
+          "name": "Seniorly",
+          "url": "https://www.seniorly.com/assisted-living/oregon/happy-valley/the-springs-at-happy-valley"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/happy-valley/the-springs-at-happy-valley-97086"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(503) 658-8484"
@@ -1112,6 +1326,16 @@
         "https://www.aplaceformom.com/community/courtyard-fountains-95280",
         "https://www.yelp.com/biz/courtyard-fountains-gresham"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/courtyard-fountains-95280"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/courtyard-fountains-gresham"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1141,6 +1365,16 @@
         "https://www.thespringsliving.com/senior-living/beaverton/oregon/hearthstone",
         "https://www.thespringsliving.com/blog/the-springs-at-beaverton-press-release",
         "https://www.caring.com/senior-living/oregon/beaverton/hearthstone-at-murrayhill-97008"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/beaverton/hearthstone-at-murrayhill-97008"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-springs-at-murrayhill-95384"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1172,6 +1406,7 @@
         "https://www.miradorliving.com/assisted-living/oregon/hillsboro/the-springs-at-tanasbourne",
         "https://health.usnews.com/best-senior-living/springs-at-tanasbourne-18160"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(503) 629-5500"
     },
@@ -1203,6 +1438,7 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/385279/view-all/?state=OR",
         "https://www.marquiscompanies.com/facility/marquis-tualatin/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(503) 612-5400"
     },
@@ -1234,6 +1470,16 @@
         "https://www.caring.com/senior-living/oregon/wilsonville/springridge-charbonneau-97070",
         "https://www.aplaceformom.com/community/spring-ridge-at-charbonneau-96853"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/wilsonville/springridge-charbonneau-97070"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/spring-ridge-at-charbonneau-96853"
+        }
+      ],
       "verified_date": "2026-07-14",
       "phone": "(503) 694-2700"
     },
@@ -1264,6 +1510,7 @@
         "https://www.sherwoodsun.org/merrill-gardens-senior-living-under-new-ownership/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70A340"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(503) 862-8671"
     },
@@ -1294,6 +1541,7 @@
         "https://www.greystonecommunities.com/insights/friendsview-to-break-ground-on-124-million-campus-expansion-in-july",
         "https://ltclicensing.oregon.gov/Facilities/Details/50R040"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(503) 538-3144"
     },
@@ -1327,6 +1575,12 @@
         "https://health.usnews.com/best-senior-living/hillside-retirement-communities-2478",
         "https://www.caring.com/senior-living/oregon/mcminnville/hillside-mcminnville-or"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/mcminnville/hillside-mcminnville-or"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1355,6 +1609,12 @@
         "https://www.caring.com/senior-living/oregon/forest-grove/jennings-mccall-97116",
         "https://discoverforestgrove.org/locations/jennings-mccall-retirement-community/"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/forest-grove/jennings-mccall-97116"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1381,6 +1641,16 @@
         "https://countrymeadowsvillage.com/",
         "https://www.caring.com/senior-living/oregon/woodburn/country-meadows-village-97071",
         "https://www.aplaceformom.com/community/country-meadows-village-97485"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/woodburn/country-meadows-village-97071"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/country-meadows-village-97485"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1409,6 +1679,16 @@
         "http://ridgeatoregoncity.com/",
         "https://www.aplaceformom.com/community/the-ridge-at-oregon-city-59729",
         "https://www.seniorly.com/independent-living/oregon/oregon-city/the-ridge-at-oregon-city"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-ridge-at-oregon-city-59729"
+        },
+        {
+          "name": "Seniorly",
+          "url": "https://www.seniorly.com/independent-living/oregon/oregon-city/the-ridge-at-oregon-city"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1439,6 +1719,16 @@
         "https://www.caring.com/senior-living/oregon/eugene/merrill-gardens-at-sheldon-park",
         "https://www.merrillgardens.com/senior-living/or/eugene/merrill-gardens-at-sheldon-park/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/merrill-gardens-at-sheldon-park-60114"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/eugene/merrill-gardens-at-sheldon-park"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1467,6 +1757,16 @@
         "https://www.trustwellliving.com/communities/river-run-place/",
         "https://www.caring.com/senior-living/oregon/eugene/trustwell-living-at-river-run-place"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/trustwell-living-at-river-run-place-60112"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/eugene/trustwell-living-at-river-run-place"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1493,6 +1793,20 @@
         "https://reviews.birdeye.com/willamette-oaks-a-lifeminded-residence-senior-housing-eugene-157256464716654",
         "https://www.caring.com/senior-living/oregon/eugene/willamette-oaks-97401",
         "https://www.aplaceformom.com/community/willamette-oaks-60116"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/willamette-oaks-a-lifeminded-residence-senior-housing-eugene-157256464716654"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/eugene/willamette-oaks-97401"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/willamette-oaks-60116"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1523,6 +1837,16 @@
         "https://www.aplaceformom.com/community/garden-way-retirement-community-145001",
         "https://www.sunshineretirementliving.com/eugene-retirement-living/"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/garden-way-retirement-community-157269666364288"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/garden-way-retirement-community-145001"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1551,6 +1875,16 @@
         "https://www.assistedlivingcenter.com/facilities/or/eugene/the-springs-at-greer-gardens-97401/",
         "https://www.caring.com/senior-living/oregon/eugene/the-springs-at-greer-gardens-97401",
         "https://health.usnews.com/best-senior-living/the-springs-at-greer-gardens-5369"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/eugene/the-springs-at-greer-gardens-97401"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-springs-at-greer-gardens-1391504"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(541) 246-2828",
@@ -1586,6 +1920,16 @@
         "https://sweetbriarvilla.com/",
         "https://www.ohca.com/facility-finder/sweetbriar-villa/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sweetbriar-villa-60217"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/springfield/sweetbriar-villa-97478-2"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1615,6 +1959,16 @@
         "https://cogirusa.com/communities/redwood-heights/",
         "https://www.ohca.com/facility-finder/redwood-heights-retirement-assisted-living-community/",
         "https://www.caring.com/senior-living/oregon/salem/redwood-heights-assisted-living-97302"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/redwood-heights-by-cogir-137979"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/salem/redwood-heights-assisted-living-97302"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1648,6 +2002,12 @@
         "https://www.lcsliving.com/location-finder/oregon/salem/capital-manor/",
         "https://www.caring.com/senior-living/oregon/salem/capital-manor-97304"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/salem/capital-manor-97304"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1673,6 +2033,16 @@
         "https://www.aplaceformom.com/community/the-ridge-at-madrona-hills-95145",
         "https://seniorhomes.net/communities/ridge-at-madrona-hills-salem-or-1892",
         "https://www.assistedlivingcenter.com/facilities/or/salem/holiday-madrona-hills-97302/"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/madrona-hills-148052197703650"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-ridge-at-madrona-hills-95145"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(503) 966-9100",
@@ -1703,6 +2073,12 @@
         "https://www.aplaceformom.com/community/trustwell-living-at-davenport-place-1370256",
         "https://www.trustwellliving.com/communities/davenport-place/",
         "https://www.ohca.com/facility-finder/trustwell-living-at-davenport-place/"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/trustwell-living-at-davenport-place-1370256"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1737,6 +2113,16 @@
         "https://www.seniorly.com/memory-care/oregon/medford/farmington-square-medford",
         "https://www.caring.com/senior-living/oregon/medford/farmington-square-medford"
       ],
+      "review_links": [
+        {
+          "name": "Seniorly",
+          "url": "https://www.seniorly.com/memory-care/oregon/medford/farmington-square-medford"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/medford/farmington-square-medford"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1764,6 +2150,16 @@
         "https://www.aplaceformom.com/community/brookdale-medford-60233",
         "https://www.caring.com/senior-living/oregon/medford/brookdale-medford",
         "https://health.usnews.com/best-senior-living/brookdale-medford-1800"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/brookdale-medford-60233"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/medford/brookdale-medford"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(541) 776-7600",
@@ -1797,6 +2193,16 @@
         "https://www.aplaceformom.com/community/the-springs-at-anna-maria-60232",
         "https://www.caring.com/senior-living/oregon/medford/the-springs-at-anna-maria-medford"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-springs-at-anna-maria-60232"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/medford/the-springs-at-anna-maria-medford"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1828,6 +2234,7 @@
         "https://www.assistedlivingcenter.com/facilities/or/ashland/ashland-post-acute-97520/",
         "https://ashland-pa.com/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -1859,6 +2266,12 @@
         "https://www.ohca.com/facility-finder/suites-assisted-living-community-the/",
         "https://www.compass-living.com/community/the-suites-assisted-living-and-memory-care/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-suites-assisted-living-and-memory-care-60265"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1887,6 +2300,16 @@
         "https://www.aplaceformom.com/community/solista-roseburg-by-cogir-60196",
         "https://www.caring.com/senior-living/oregon/roseburg/solista-roseburg-by-cogir",
         "https://cogirusa.com/communities/solista-roseburg/"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/solista-roseburg-by-cogir-60196"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/roseburg/solista-roseburg-by-cogir"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -1919,6 +2342,16 @@
         "https://www.aplaceformom.com/community/crystal-terrace-of-klamath-falls-60277",
         "https://www.seniorly.com/assisted-living/oregon/klamath-falls/crystal-terrace-of-klamath-falls"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/crystal-terrace-of-klamath-falls-60277"
+        },
+        {
+          "name": "Seniorly",
+          "url": "https://www.seniorly.com/assisted-living/oregon/klamath-falls/crystal-terrace-of-klamath-falls"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1949,6 +2382,12 @@
         "https://cogirusa.com/communities/pelican-pointe/",
         "https://www.ohca.com/facility-finder/pelican-pointe-assisted-living-community/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/pelican-pointe-by-cogir-60287"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -1978,6 +2417,12 @@
         "https://klamathfallsseniorliving.com/",
         "https://www.aplaceformom.com/community/klamath-falls-senior-living-60278",
         "https://www.trustedlivingcare.com/item/pacifica-senior-living-klamath-falls/"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/klamath-falls-senior-living-60278"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2010,6 +2455,12 @@
         "https://www.ohca.com/facility-finder/trustwell-living-at-astor-place/",
         "https://www.trustwellliving.com/communities/astor-place/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/trustwell-living-at-astor-place-59779"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2039,6 +2490,12 @@
         "https://www.aplaceformom.com/community/avamere-at-seaside-96454",
         "https://avamereatseaside.com/contact/",
         "https://ltclicensing.oregon.gov/Facilities/Details/50R296"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/avamere-at-seaside-96454"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2072,6 +2529,12 @@
         "https://www.aplaceformom.com/community/neawanna-by-the-sea-59828",
         "https://www.compass-living.com/community/neawanna-by-the-sea/independent-living/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/neawanna-by-the-sea-59828"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2104,6 +2567,16 @@
         "https://westmontliving.com/our-communities/oregon/newport/oceanview-senior-living/",
         "https://www.yelp.com/biz/oceanview-senior-living-newport"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/oceanview-senior-living-60075"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/oceanview-senior-living-newport"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2133,6 +2606,12 @@
         "https://www.aplaceformom.com/community/shorewood-senior-living-60174",
         "https://www.mycaringplan.com/senior-living/shorewood-senior-living/",
         "https://www.compass-living.com/community/shorewood-senior-living/"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/shorewood-senior-living-60174"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2164,6 +2643,12 @@
         "https://www.mycaringplan.com/senior-living/ocean-ridge/",
         "https://cogirusa.com/communities/ocean-ridge/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/ocean-ridge-by-cogir-141204"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2194,6 +2679,12 @@
         "https://www.aplaceformom.com/community/baycrest-village-60187",
         "https://www.mycaringplan.com/senior-living/baycrest-village/",
         "https://www.healthcare4ppl.com/nursing-home/oregon/north-bend/baycrest-health-center-385039.html"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/baycrest-village-60187"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://baycrest-village.com/"
@@ -2227,6 +2718,12 @@
         "https://www.aplaceformom.com/community/sea-view-senior-living-community-157843",
         "https://www.seaviewseniorliving.com/senior-living/or/brookings/contact/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sea-view-senior-living-community-157843"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2257,6 +2754,12 @@
         "https://www.providence.org/locations/or/down-manor",
         "https://www.seniorhousingnet.com/seniorliving-detail/down-manor_1950-sterling-pl_hood-river_or_97031-627954"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/providence-down-manor-59715"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2284,6 +2787,16 @@
         "https://reviews.birdeye.com/mckay-creek-estates-173507633638028",
         "https://mckaycreekal.com/",
         "https://www.ohca.com/facility-finder/mckay-creek-assisted-living/"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/mckay-creek-estates-173507633638028"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/mc-kay-creek-assisted-living-73363"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2315,6 +2828,16 @@
         "https://www.assistedlivingcenter.com/facilities/or/hermiston/avamere-at-hermiston-97838/",
         "https://www.mycaringplan.com/senior-living/avamere-at-hermiston/",
         "https://avamereathermiston.com/"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/hermiston/avamere-at-hermiston"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/avamere-of-hermiston-60343"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2373,6 +2896,7 @@
         "https://careavailability.com/provider/orchard-adult-care-home/",
         "https://orchardach.com"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -2400,6 +2924,16 @@
         "https://www.seniorhousingnet.com/seniorliving-detail/elder-garden-care-home-llc_4-ne-202nd-ave_portland_or_97230-631722",
         "https://www.senioradvisor.com/local/elder-garden-care-home-llc-portland-or"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/elder-garden-care-home-llc-1365979"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/elder-garden-care-home-llc-portland-or"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2425,6 +2959,16 @@
         "https://www.aplaceformom.com/community/angels-place-adult-foster-care-160284",
         "https://www.senioradvisor.com/local/angels-place-adult-foster-care-gresham-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/angels-place-adult-foster-care_1535-se-evelyn-ct_gresham_or_97080-637213"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/angels-place-adult-foster-care-160284"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/angels-place-adult-foster-care-gresham-or"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2452,6 +2996,16 @@
         "https://www.senioradvisor.com/local/atrium-adult-care-home-llc-oregon-city-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/atrium-adult-care-home-llc_212-amanda-ct_oregon-city_or_97045-633086"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/atrium-adult-care-home-llc-1335440"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/atrium-adult-care-home-llc-oregon-city-or"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2477,6 +3031,12 @@
         "https://reviews.birdeye.com/eden-adult-foster-home-llc-169865927243603",
         "https://www.carechanges.com/living-communities/eden-adult-foster-home-llc_beaverton_oregon/",
         "https://www.familyassets.com/assisted-living/oregon/beaverton/eden-adult-foster-home-llc"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/eden-adult-foster-home-llc-169865927243603"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2504,6 +3064,12 @@
         "https://www.myseniorcarefinder.com/salem-or/golden-nest-afh",
         "https://www.chamberofcommerce.com/business-directory/oregon/salem/adult-foster-care-service/2015103318-golden-nest-adult-foster-home"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/golden-nest-adult-foster-home-168248759279253"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2530,6 +3096,16 @@
         "https://www.aplaceformom.com/community/valley-view-ii-manor-care-home-1365983",
         "https://www.senioradvisor.com/local/valley-view-ii-manor-care-home-salem-or",
         "https://www.familyassets.com/assisted-living/oregon/salem/valley-view-ii-manor-care-home"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/valley-view-ii-manor-care-home-1365983"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/valley-view-ii-manor-care-home-salem-or"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2560,6 +3136,16 @@
         "https://carelistings.com/assisted-living-homes/sisters-or/high-lakes-care-homes/5acd026aa71d8c15cf693343",
         "https://reviews.birdeye.com/high-lakes-care-homes-llc-168190963114408",
         "https://www.yelp.com/biz/high-lakes-care-homes-sisters"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/high-lakes-care-homes-llc-168190963114408"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/high-lakes-care-homes-sisters"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2598,6 +3184,12 @@
         "https://health.usnews.com/best-nursing-homes/area/or/rogue-valley-manor-385250",
         "https://www.caring.com/senior-living/oregon/medford/rogue-valley-manor-97504"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/medford/rogue-valley-manor-97504"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2631,6 +3223,7 @@
         "https://www.ohca.com/facility-finder/robison-jewish-health-center/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385145"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -2660,6 +3253,7 @@
         "https://www.ohca.com/facility-finder/west-hills-health-rehabilitation/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385112"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -2691,6 +3285,7 @@
         "https://www.avamere.com/avamere-at-three-fountains/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385126"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -2722,6 +3317,7 @@
         "https://www.avamere.com/salem-transitional-care/rehabilitation",
         "https://ltclicensing.oregon.gov/Facilities/Details/385234"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -2752,6 +3348,7 @@
         "https://www.marquiscompanies.com/cna-class/marquis-plum-ridge-in-klamath-falls/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385137"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -2783,6 +3380,7 @@
         "https://www.marquiscompanies.com/facility/marquis-forest-grove/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385204"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -2811,6 +3409,16 @@
         "https://reviews.birdeye.com/quail-crest-memory-care-168153439602686",
         "https://www.quailcresteugene.com/",
         "https://www.caring.com/senior-living/oregon/eugene/quail-crest-memory-care"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/quail-crest-memory-care-168153439602686"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/eugene/quail-crest-memory-care"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2844,6 +3452,12 @@
         "https://compass-living.com/community/hawks-ridge-assisted-living/",
         "https://www.caring.com/senior-living/oregon/hood-river/hawks-ridge-assisted-living-hood-river"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/hood-river/hawks-ridge-assisted-living-hood-river"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -2874,6 +3488,12 @@
         "https://cogirusa.com/communities/bayside-terrace/",
         "https://ultimateseniorresource.com/states/oregon/coos-bay/bayside-terrace-by-cogir",
         "https://www.aplaceformom.com/community/bayside-terrace-by-cogir-60158"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/bayside-terrace-by-cogir-60158"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -2906,6 +3526,16 @@
         "https://www.compass-living.com/community/callahan-court-memory-care/",
         "https://www.ohca.com/facility-finder/callahan-court-memory-care-community/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/callahan-court-memory-care-60193"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/roseburg/callahan-court-memory-care"
+        }
+      ],
       "verified_date": "2026-07-14",
       "zip": "97471"
     },
@@ -2932,6 +3562,16 @@
         "https://reviews.birdeye.com/summerfield-estates-retirement-community-157270378470540",
         "https://www.aplaceformom.com/community/summerfield-estates-retirement-community-59931",
         "https://business.tigardchamber.org/list/member/summerfield-estates-retirement-community-2737"
+      ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/summerfield-estates-retirement-community-157270378470540"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/summerfield-estates-retirement-community-59931"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://www.sunshineretirementliving.com/tigard-retirement-living/"
@@ -2960,6 +3600,20 @@
         "https://www.aplaceformom.com/community/rosewood-memory-care-95940",
         "https://www.caring.com/senior-living/oregon/hillsboro/rosewood-memory-care-hillsboro",
         "https://www.yelp.com/biz/rosewood-memory-care-hillsboro"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/rosewood-memory-care-95940"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/hillsboro/rosewood-memory-care-hillsboro"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/rosewood-memory-care-hillsboro"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://www.rosewoodmemorycare.com/"
@@ -2992,6 +3646,16 @@
         "https://www.assistedlivingcenter.com/facilities/or/mcminnville/brookdale-mcminnville-city-center-97128/",
         "https://www.ohca.com/facility-finder/brookdale-mcminnville-city-center/"
       ],
+      "review_links": [
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/brookdale-mcminnville-city-center-mcminnville-or"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/mcminnville/brookdale-mcminnville-city-center"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3020,6 +3684,12 @@
         "https://seniorsite.org/property/show/sheldon-oaks",
         "https://www.holidayseniorliving.com/retirement-communities/holiday-sheldon-oaks-eugene-or",
         "https://www.caring.com/senior-living/oregon/eugene/holiday-sheldon-oaks"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/eugene/holiday-sheldon-oaks"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3053,6 +3723,16 @@
         "https://www.generationsllc.com/communities/cherrywood-village/",
         "https://www.caring.com/senior-living/oregon/portland/cherrywood-village"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/cherry-wood-village-95433"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/portland/cherrywood-village"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3079,6 +3759,16 @@
         "https://www.aplaceformom.com/community/stone-lodge-60301",
         "https://seniorlivinginstyle.com/stone-lodge/",
         "https://www.caring.com/senior-living/oregon/bend/stone-lodge"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/stone-lodge-60301"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/bend/stone-lodge"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3107,6 +3797,16 @@
         "https://www.aplaceformom.com/community/sellwood-senior-living-100279",
         "https://birdeye.com/sellwood-senior-living-169341826349454",
         "https://ltclicensing.oregon.gov/Facilities/Details/70A295"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sellwood-senior-living-100279"
+        },
+        {
+          "name": "Birdeye",
+          "url": "https://birdeye.com/sellwood-senior-living-169341826349454"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(503) 542-4800"
@@ -3137,6 +3837,12 @@
         "https://www.miradorliving.com/memory-care/oregon/gresham",
         "https://www.seniorhousingnet.com/seniorliving-detail/hirity-adult-home_1214-se-144th-ave_portland_or_97233-571385"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/hirity-adult-home-99823"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3165,6 +3871,16 @@
         "https://www.aplaceformom.com/community/courtyard-at-mt-tabor-95907",
         "https://reviews.birdeye.com/courtyard-at-mt-tabor-park-157256125645130",
         "https://www.ohca.com/facility-finder/courtyard-at-mt-tabor/"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/courtyard-at-mt-tabor-95907"
+        },
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/courtyard-at-mt-tabor-park-157256125645130"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://www.mbkseniorliving.com/senior-living/or/portland/courtyard-mt-tabor/"
@@ -3198,6 +3914,12 @@
         "https://health.usnews.com/best-senior-living/rose-villa-13456",
         "https://www.familyassets.com/continuing-care-retirement-communities/oregon/portland/rose-villa-senior-living-community"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/portland/rose-villa-97222"
+        }
+      ],
       "verified_date": "2026-07-14",
       "website": "https://www.rosevilla.org/"
     },
@@ -3226,6 +3948,12 @@
         "https://homewoods.org/",
         "https://www.seniorhomes.com/oregon/milwaukie/homewoods-on-the-willamette",
         "https://www.aplaceformom.com/community/homewoods-on-the-willamette-59982"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/homewoods-on-the-willamette-59982"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3256,6 +3984,7 @@
         "https://ultimateseniorresource.com/states/oregon/canby/rackleff-place",
         "https://ltclicensing.oregon.gov/Facilities/Details/70M075"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "review_caveat": "Rackleff Place shares a campus with the independent-living community Hope Village and the skilled nursing facility Marquis Hope Village, each separately licensed and rated. Check each listing's own rating rather than assuming they're the same."
     },
@@ -3287,6 +4016,12 @@
         "https://cornell-estates.com/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70M015"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/cornell-estates-59801"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3317,6 +4052,7 @@
         "https://www.compass-living.com/community/vineyard-heights-assisted-living/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70A267"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://compass-living.com/community/vineyard-heights-assisted-living/"
     },
@@ -3349,6 +4085,12 @@
         "https://www.assistedlivingcenter.com/facilities/or/keizer/bonaventure-at-keizer-station-97303/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70A328"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/bonaventure-at-keizer-station-1404550"
+        }
+      ],
       "verified_date": "2026-07-14",
       "website": "https://bonaventuresenior.com/community/bonaventure-at-keizer-station/"
     },
@@ -3380,6 +4122,16 @@
         "https://www.thespringsliving.com/senior-living/or/salem/45th-ave-ne/independent-living",
         "https://www.caring.com/senior-living/oregon/salem/the-springs-at-sunnyview-97305"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-springs-at-sunnyview-73358"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/salem/the-springs-at-sunnyview-97305"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3410,6 +4162,12 @@
         "https://www.aplaceformom.com/community/battle-creek-memory-care-1437661",
         "https://www.onelifeseniorliving.com/blog/battle-creek-memory-care-businessrate-best-of-2026",
         "https://ltclicensing.oregon.gov/Facilities/Details/50R480"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/battle-creek-memory-care-1437661"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3443,6 +4201,12 @@
         "https://www.cascadeliving.com/community/waterford-grand/",
         "https://ltclicensing.oregon.gov/Facilities/Details/50R411"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/waterford-grand-1376064"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3472,6 +4236,12 @@
         "https://www.aplaceformom.com/community/awbrey-place-60294",
         "https://caringplaces.com/communities/awbrey-place/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70M008"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/awbrey-place-60294"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3504,6 +4274,12 @@
         "https://www.trustwellliving.com/communities/rogue-river-place/",
         "https://ltclicensing.oregon.gov/Facilities/Details/70M054"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/trustwell-living-at-rogue-river-place-60285"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3534,6 +4310,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/life-care-center-of-coos-bay-385157",
         "https://www.medicare.gov/care-compare/details/nursing-home/385157/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(541) 267-5433"
     },
@@ -3565,6 +4342,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-centennial-post-acute-rehabilitation-385183",
         "https://www.medicare.gov/care-compare/details/nursing-home/385183/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(503) 665-3118"
     },
@@ -3596,6 +4374,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-mill-park-385214",
         "https://www.medicare.gov/care-compare/details/nursing-home/385214/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(503) 262-6000"
     },
@@ -3627,6 +4406,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-vermont-hills-385218",
         "https://www.medicare.gov/care-compare/details/nursing-home/385218/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(503) 246-8811"
     },
@@ -3659,6 +4439,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-piedmont-post-acute-rehabilitation-385208",
         "https://www.medicare.gov/care-compare/details/nursing-home/385208/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -3690,6 +4471,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/creekside-health-and-rehabilitation-of-cascadia-385147",
         "https://www.medicare.gov/care-compare/details/nursing-home/385147/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -3720,6 +4502,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-wilsonville-post-acute-rehabilitation-385266",
         "https://www.medicare.gov/care-compare/details/nursing-home/385266/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(503) 682-2840"
     },
@@ -3751,6 +4534,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-hillsboro-385251",
         "https://www.medicare.gov/care-compare/details/nursing-home/385251/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "phone": "(503) 648-8588"
     },
@@ -3783,6 +4567,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/avamere-rehabilitation-of-junction-city-385229",
         "https://www.medicare.gov/care-compare/details/nursing-home/385229/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "cms_health_inspection_rating": 1,
       "cms_staffing_rating": 1,
@@ -3814,6 +4599,12 @@
         "https://cogirusa.com/communities/cedar-village/",
         "https://www.aplaceformom.com/community/cedar-village-by-cogir-60019"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/cedar-village-by-cogir-60019"
+        }
+      ],
       "verified_date": "2026-07-14",
       "phone": "(503) 390-9600"
     },
@@ -3841,6 +4632,12 @@
       "sources": [
         "https://www.caring.com/senior-living/oregon/portland/rose-schnitzer-manor-97221",
         "https://cedarsinaipark.org/rose-schnitzer-manor/"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/portland/rose-schnitzer-manor-97221"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(503) 535-4000"
@@ -3873,6 +4670,12 @@
         "https://www.leisurecare.com/our-communities/ackerly-reeds-crossing/",
         "https://reviews.birdeye.com/the-ackerly-at-reeds-crossing-168152394386829"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/the-ackerly-at-reeds-crossing-168152394386829"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3901,6 +4704,12 @@
         "https://www.aplaceformom.com/community/markham-house-assisted-living-59897",
         "https://www.koelschcommunities.com/community/markham-house/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/markham-house-assisted-living-59897"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3927,6 +4736,12 @@
       "sources": [
         "https://www.caring.com/senior-living/oregon/eugene/angels-aisle-adult-foster",
         "https://health.usnews.com/best-senior-living/angels-aisle-adult-foster-C146096"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/eugene/angels-aisle-adult-foster"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -3957,6 +4772,16 @@
         "https://www.seniorhousingnet.com/seniorliving-detail/bethany-adult-care_3070-nw-nyssa-ct_beaverton_or_97006-632689",
         "https://www.senioradvisor.com/local/bethany-adult-care-beaverton-or"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/bethany-adult-care-147575"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/bethany-adult-care-beaverton-or"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -3984,6 +4809,12 @@
       "sources": [
         "https://www.senioradvisor.com/local/sunrise-adult-foster-home-tigard-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/sunrise-adult-foster-home_11400-sw-90th-ave_tigard_or_97223-621806"
+      ],
+      "review_links": [
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/sunrise-adult-foster-home-tigard-or"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -4013,6 +4844,16 @@
         "https://www.aplaceformom.com/community/grace-care-adult-foster-home-137835",
         "https://www.senioradvisor.com/local/grace-care-adult-foster-home-gresham-or"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/grace-care-adult-foster-home-137835"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/grace-care-adult-foster-home-gresham-or"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -4041,6 +4882,16 @@
         "https://www.senioradvisor.com/local/skyline-manor-care-home-salem-or",
         "https://www.aplaceformom.com/community/skyline-manor-care-home-1365985"
       ],
+      "review_links": [
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/skyline-manor-care-home-salem-or"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/skyline-manor-care-home-1365985"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -4067,6 +4918,12 @@
         "https://www.senioradvice.com/providers/view/stephenson-adult-care-home-portland-or",
         "https://www.aplaceformom.com/community/stephenson-adult-care-home-96664",
         "https://www.bbb.org/us/or/portland/profile/adult-family-homes/stephenson-adult-care-home-1296-22037490"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/stephenson-adult-care-home-96664"
+        }
       ],
       "verified_date": "2026-07-14",
       "phone": "(503) 245-9800"
@@ -4097,6 +4954,16 @@
         "https://www.aplaceformom.com/community/holistic-hands-care-1362858",
         "https://www.senioradvisor.com/local/holistic-hands-care-corvallis-or"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/holistic-hands-care-1362858"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/holistic-hands-care-corvallis-or"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -4124,6 +4991,12 @@
       "sources": [
         "https://www.aplaceformom.com/community/fulgas-ach-151085",
         "https://www.care.com/b/l/fulga-s-adult-care-home-inc/beaverton-or"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/fulgas-ach-151085"
+        }
       ],
       "verified_date": "2026-07-14",
       "address": "16584 SW Hart Rd"
@@ -4154,6 +5027,12 @@
         "https://www.senioradvisor.com/local/regina-adult-foster-home-hillsboro-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/regina-adult-foster-home_7061-se-borwick-st_hillsboro_or_97123-630453"
       ],
+      "review_links": [
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/regina-adult-foster-home-hillsboro-or"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -4180,6 +5059,12 @@
       "sources": [
         "https://www.aplaceformom.com/community/guardian-angel-ach-96025",
         "https://www.seniorhousingnet.com/seniorliving-detail/guardian-angel-ach_7659-sw-aldrich-ct_beaverton_or_97007-623351"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/guardian-angel-ach-96025"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -4210,6 +5095,16 @@
         "https://www.senioradvisor.com/local/summer-crest-a-dot-c-h-beaverton-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/summer-crest-ach_8263-sw-168th-ave_beaverton_or_97007-622192"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/summer-crest-a-c-h-1358479"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/summer-crest-a-dot-c-h-beaverton-or"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -4238,6 +5133,12 @@
         "https://www.aplaceformom.com/community/pine-tree-care-afh-1365964",
         "https://www.senioradvice.com/providers/view/pine-tree-care-adult-foster-home-eugene-or"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/pine-tree-care-afh-1365964"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -4265,6 +5166,16 @@
         "https://www.aplaceformom.com/community/heightsview-care-home-146456",
         "https://www.senioradvisor.com/local/heightsview-adult-care-home-beaverton-or",
         "https://www.seniorhousingnet.com/seniorliving-detail/heightsview-adult-care-home_18935-sw-heightsview-ct_beaverton_or_97007-635223"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/heightsview-care-home-146456"
+        },
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/heightsview-adult-care-home-beaverton-or"
+        }
       ],
       "verified_date": "2026-07-14"
     },
@@ -4296,6 +5207,7 @@
         "https://health.usnews.com/best-nursing-homes/area/or/corvallis-manor-385072",
         "https://ltclicensing.oregon.gov/Facilities/Details/385072"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "special_focus_facility": true,
       "serious_concern_note": "A federal CMS Special Focus Facility (newly designated) — nursing homes selected by CMS for extra oversight due to a documented history of serious quality problems.",
@@ -4334,6 +5246,7 @@
         "https://www.volarehcm.com/locations/french-prairie-nursing-and-rehabilitation-center/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385117"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "serious_concern": true,
       "serious_concern_note": "CMS Special Focus Facility Candidate — on the federal list of nursing homes with a documented pattern of serious quality problems, one tier below active Special Focus Facility status.",
@@ -4368,6 +5281,7 @@
         "https://www.ohca.com/facility-finder/gresham-post-acute-care-and-rehabilitation/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385190"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -4400,6 +5314,7 @@
         "https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/",
         "https://www.volarehcm.com/locations/hearthstone-nursing-rehabilitation-center/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "serious_concern": true,
       "serious_concern_note": "Carried a CMS special-focus-pattern designation and an active federal abuse citation flag during 2024-2025 inspections.",
@@ -4439,6 +5354,7 @@
         "https://www.volarehcm.com/locations/highland-house-nursing-and-rehabilitation-center/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385149"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://www.volarehcm.com/locations/highland-house-nursing-and-rehabilitation-center/"
     },
@@ -4470,6 +5386,7 @@
         "https://www.tierrarose.com/tierra-rose-care-center",
         "https://ltclicensing.oregon.gov/Facilities/Details/38E075"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14"
     },
     {
@@ -4498,6 +5415,7 @@
         "https://www.nursinghomedatabase.com/snf/385272",
         "https://ltclicensing.oregon.gov/Facilities/Details/38L600"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://sapphireattigardrehab.com/"
     },
@@ -4527,6 +5445,7 @@
         "https://www.ohca.com/facility-finder/keizer-nursing-and-rehabilitation/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385241"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://www.volarehcm.com/locations/keizer-nursing-rehabilitation-center/"
     },
@@ -4557,6 +5476,7 @@
         "https://www.ohca.com/facility-finder/portland-health-and-rehabilitation-center/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385228"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "cms_ccn": "385228",
       "website": "https://evergreenhcg.com/locations/portland-health-and-rehab/"
@@ -4588,6 +5508,12 @@
         "https://www.wweek.com/news/2024/12/04/a-senior-care-center-tests-the-limits-of-the-states-regulatory-power/",
         "https://www.aplaceformom.com/community/willamette-springs-memory-care-1389904",
         "https://ltclicensing.oregon.gov/Facilities/Details/50M436"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/willamette-springs-memory-care-1389904"
+        }
       ],
       "verified_date": "2026-07-14",
       "serious_concern": true,
@@ -4626,6 +5552,12 @@
         "https://powellvalley.net/",
         "https://ltclicensing.oregon.gov/Facilities/Details/5MA213"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/powell-valley-assisted-living-and-memory-care-59707"
+        }
+      ],
       "verified_date": "2026-07-14",
       "serious_concern": true,
       "serious_concern_note": "State inspectors substantiated an abuse finding connected to a resident's death after a wrongful eviction; the incident is the subject of a $14 million lawsuit.",
@@ -4663,6 +5595,12 @@
         "https://www.brookdale.com/en/communities/brookdale-geary-street.html",
         "https://www.aplaceformom.com/community/brookdale-geary-street-60029"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/brookdale-geary-street-60029"
+        }
+      ],
       "verified_date": "2026-07-14",
       "website": "https://www.brookdale.com/en/communities/brookdale-geary-street.html"
     },
@@ -4692,6 +5630,12 @@
         "https://www.wweek.com/news/2024/11/21/oregon-is-naming-and-shaming-problematic-senior-care-facilities/",
         "https://www.onelifeseniorliving.com/communities/the-rawlin-memory-care",
         "https://www.aplaceformom.com/community/the-rawlin-at-riverbend-memory-care-1402203"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/the-rawlin-at-riverbend-memory-care-1402203"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://www.onelifeseniorliving.com/communities/the-rawlin-memory-care"
@@ -4724,6 +5668,12 @@
         "https://www.compass-living.com/senior-living/or/la-grande/wildflower-lodge/",
         "https://www.caring.com/senior-living/oregon/la-grande/wildflower-lodge-senior-living"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/la-grande/wildflower-lodge-senior-living"
+        }
+      ],
       "verified_date": "2026-07-14",
       "website": "https://compass-living.com/community/wildflower-lodge/"
     },
@@ -4753,6 +5703,12 @@
         "https://www.sunnysidemeadows.com/",
         "https://ltclicensing.oregon.gov/Facilities/Details/50R443",
         "https://www.aplaceformom.com/community/sunnyside-meadows-memory-care-1393470"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sunnyside-meadows-memory-care-1393470"
+        }
       ],
       "verified_date": "2026-07-14",
       "website": "https://www.sunnysidemeadows.com/"
@@ -4785,6 +5741,7 @@
         "https://ssmo.org/maryville/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385166"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "cms_health_inspection_rating": 2,
       "cms_staffing_rating": 5,
@@ -4818,6 +5775,7 @@
         "https://www.nursinghomedatabase.com/snf/385201",
         "https://ltclicensing.oregon.gov/Facilities/Details/385201"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://willowbrookpa.com/"
     },
@@ -4850,6 +5808,12 @@
         "https://www.mycaringplan.com/senior-living/prestige-post-acute-and-rehabilitation-center-mcminnville/",
         "https://ltclicensing.oregon.gov/Facilities/Details/385225"
       ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/mcminnville/prestige-post-acute-and-rehabilitation-center-mcminnville"
+        }
+      ],
       "verified_date": "2026-07-14"
     },
     {
@@ -4877,6 +5841,7 @@
         "https://www.nursinghomedatabase.com/snf/385245",
         "https://ltclicensing.oregon.gov/Facilities/Details/385245"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://rivercrestpa.com/"
     },
@@ -4906,6 +5871,7 @@
         "https://www.nursinghomedatabase.com/snf/385138",
         "https://ltclicensing.oregon.gov/Facilities/Details/385138"
       ],
+      "review_links": [],
       "verified_date": "2026-07-14",
       "website": "https://www.regency-pacific.com/senior-living/or/bend/pilot-butte-rehabilitation-center/"
     }

@@ -23,6 +23,5 @@ cms_ccn: "135113"
 sources: ["https://health.usnews.com/best-nursing-homes/area/id/bridgeview-estates-135113", "https://www.medicare.gov/care-compare/details/nursing-home/135113"]
 verified_date: "2026-07-14"
 description_full: "A senior living campus in Twin Falls with independent living, assisted living and a 116-bed skilled nursing and rehabilitation center. Serves the Magic Valley region."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/id/bridgeview-estates-135113"}]
 reviews_search_url: "https://www.google.com/search?q=Bridgeview+Estates+Twin+Falls+ID+reviews"
 ---

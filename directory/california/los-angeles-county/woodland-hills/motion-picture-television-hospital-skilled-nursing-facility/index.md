@@ -24,6 +24,5 @@ cms_ccn: "055034"
 sources: ["https://health.usnews.com/best-nursing-homes/area/ca/motion-picture-television-hospital-skilled-nursing-facility-055034", "https://www.medicare.gov/care-compare/details/nursing-home/055034/view-all/?state=CA", "https://mptf.com/residential/"]
 verified_date: "2026-07-19"
 description_full: "Nonprofit skilled nursing facility on the Motion Picture & Television Fund's Wasserman Campus in Woodland Hills, historically serving entertainment industry members and their families."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/ca/motion-picture-television-hospital-skilled-nursing-facility-055034"}]
 reviews_search_url: "https://www.google.com/search?q=Motion+Picture+%26+Television+Hospital+Skilled+Nursing+Facility+Woodland+Hills+CA+reviews"
 ---

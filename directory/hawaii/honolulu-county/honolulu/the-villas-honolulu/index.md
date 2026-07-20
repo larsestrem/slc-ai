@@ -25,6 +25,6 @@ cms_ccn: "125064"
 sources: ["https://www.ohanapacific.com/the-villas", "https://health.usnews.com/best-nursing-homes/area/hi/the-villas-honolulu-125064", "https://www.nursinghomedatabase.com/snf/125064"]
 verified_date: "2026-07-14"
 description_full: "A 163-bed post-acute care and rehabilitation facility on the St. Francis Kupuna Village campus in Honolulu's Liliha neighborhood, operated by Ohana Pacific Health (formerly the Clarence T.C. Ching Villas at St. Francis)."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/hi/the-villas-honolulu-125064"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/the-villas-by-ohana-pacific-health-honolulu"}]
+review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/the-villas-by-ohana-pacific-health-honolulu"}]
 reviews_search_url: "https://www.google.com/search?q=The+Villas+Honolulu+HI+reviews"
 ---

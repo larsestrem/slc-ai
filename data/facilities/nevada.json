@@ -26,6 +26,12 @@
         "https://www.yelp.com/biz/atria-seville-las-vegas",
         "https://nvhca.org/find-care/atria-seville/"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/atria-seville-las-vegas"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -58,6 +64,7 @@
         "https://www.seniorlivingguide.com/communities/las-ventanas-at-summerlin-10401-w-charleston-blvd-las-vegas-nv-89135/",
         "https://health.usnews.com/best-senior-living/las-ventanas-628"
       ],
+      "review_links": [],
       "verified_date": "2026-07-19"
     },
     {
@@ -89,6 +96,7 @@
         "https://www.healthcare4ppl.com/nursing-home/nevada/las-vegas/life-care-center-of-las-vegas-295052.html",
         "https://health.usnews.com/best-nursing-homes/area/nv/life-care-center-of-las-vegas-295052"
       ],
+      "review_links": [],
       "verified_date": "2026-07-19"
     },
     {
@@ -116,6 +124,7 @@
         "https://seniorcarehomes.com/assisted-living/nevada/las-vegas-nv/golden-villa-care-home/",
         "https://nvhca.org/find-care/golden-villa-care-home/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-19"
     },
     {
@@ -145,6 +154,12 @@
         "https://www.yelp.com/biz/sunrise-of-henderson-henderson",
         "https://health.usnews.com/best-senior-living/sunrise-of-henderson-1770"
       ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/sunrise-of-henderson-henderson"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -173,6 +188,12 @@
         "https://www.brookdale.com/en/communities/brookdale-reno.html",
         "https://www.seniorlivingguide.com/communities/brookdale-reno-3105-plumas-street-reno-nv-89509/",
         "https://www.aplaceformom.com/community/brookdale-reno-94411"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/brookdale-reno-94411"
+        }
       ],
       "verified_date": "2026-07-19"
     },
@@ -204,6 +225,7 @@
         "https://www.healthcare4ppl.com/nursing-home/nevada/reno/life-care-center-of-reno-295050.html",
         "https://health.usnews.com/best-nursing-homes/area/nv/life-care-center-of-reno-295050"
       ],
+      "review_links": [],
       "verified_date": "2026-07-19"
     },
     {
@@ -233,6 +255,16 @@
         "https://www.yelp.com/biz/morningstar-senior-living-of-sparks-sparks-2",
         "https://www.seniorlivingguide.com/communities/morningstar-of-sparks-2360-wingfield-hills-rd-sparks-nv-89436/"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/morning-star-senior-living-of-sparks-1330478"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/morningstar-senior-living-of-sparks-sparks-2"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -256,6 +288,12 @@
       "sources": [
         "https://www.yelp.com/biz/the-lodge-assisted-living-and-memory-care-carson-city",
         "https://nvhca.org/find-care/the-lodge-assisted-living-memory-care-community/"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/the-lodge-assisted-living-and-memory-care-carson-city"
+        }
       ],
       "verified_date": "2026-07-19"
     },
@@ -285,6 +323,20 @@
         "https://www.caring.com/senior-living/nevada/las-vegas/oakmont-of-las-vegas",
         "https://www.yelp.com/biz/oakmont-of-las-vegas-las-vegas"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/oakmont-of-las-vegas-1421326"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/nevada/las-vegas/oakmont-of-las-vegas"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/oakmont-of-las-vegas-las-vegas"
+        }
+      ],
       "verified_date": "2026-07-19",
       "website": "https://oakmontseniorliving.com/lasvegas/"
     },
@@ -312,6 +364,20 @@
         "https://www.aplaceformom.com/community/oakmont-of-the-lakes-72470",
         "https://www.caring.com/senior-living/nevada/las-vegas/oakmont-of-the-lakes",
         "https://www.yelp.com/biz/oakmont-of-the-lakes-las-vegas"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/oakmont-of-the-lakes-72470"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/nevada/las-vegas/oakmont-of-the-lakes"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/oakmont-of-the-lakes-las-vegas"
+        }
       ],
       "verified_date": "2026-07-19",
       "phone": "(702) 256-6500",
@@ -346,6 +412,16 @@
         "https://www.aplaceformom.com/community/vista-pointe-at-mira-loma-71029",
         "https://www.vistapointeatmiraloma.com/"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://birdeye.com/vista-pointe-at-mira-loma-173471362474404"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/vista-pointe-at-mira-loma-71029"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -374,6 +450,12 @@
         "https://www.medicare.gov/care-compare/details/nursing-home/295055/view-all/",
         "https://health.usnews.com/best-nursing-homes/area/nv/college-park-rehabilitation-center-295055",
         "https://collegeparkrehabc.com/"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/college-park-rehabilitation-center-north-las-vegas"
+        }
       ],
       "verified_date": "2026-07-19"
     },
@@ -405,6 +487,16 @@
         "https://www.caring.com/senior-living/nevada/boulder-city/lakeview-terrace-of-boulder-city",
         "https://www.lvterrace.com/senior-living/nv/boulder-city/reviews"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/lakeview-terrace-of-boulder-city-156304"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/nevada/boulder-city/lakeview-terrace-of-boulder-city"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -433,6 +525,16 @@
         "https://www.senioradvisor.com/local/inspirations-senior-living-pahrump-nv-pahrump-nv",
         "https://www.aplaceformom.com/community/inspirations-senior-living-1357554",
         "https://www.inspirationsseniorliving.com/"
+      ],
+      "review_links": [
+        {
+          "name": "SeniorAdvisor",
+          "url": "https://www.senioradvisor.com/local/inspirations-senior-living-pahrump-nv-pahrump-nv"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/inspirations-senior-living-1357554"
+        }
       ],
       "verified_date": "2026-07-19"
     },
@@ -463,6 +565,16 @@
         "https://www.yelp.com/biz/summerset-senior-living-reno-3",
         "https://www.seniorliving.org/assisted-living/nevada/reno/"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/summerset-senior-living-168034736591325"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/summerset-senior-living-reno-3"
+        }
+      ],
       "verified_date": "2026-07-19",
       "website": "https://summersetseniorliving.com/reno/"
     },
@@ -490,6 +602,20 @@
         "https://www.caring.com/senior-living/nevada/sparks/kiley-ranch-senior-living",
         "https://www.yelp.com/biz/kiley-ranch-senior-living-sparks-3"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/kiley-ranch-1451350"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/nevada/sparks/kiley-ranch-senior-living"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/kiley-ranch-senior-living-sparks-3"
+        }
+      ],
       "verified_date": "2026-07-19",
       "website": "https://kileyranchseniorliving.com/"
     },
@@ -515,6 +641,20 @@
         "https://www.caring.com/senior-living/nevada/carson-city/sierra-place-senior-living",
         "https://www.seniorly.com/assisted-living/nevada/carson-city/sierra-place-senior-living",
         "https://www.aplaceformom.com/community/sierra-place-retirement-community-94431"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/nevada/carson-city/sierra-place-senior-living"
+        },
+        {
+          "name": "Seniorly",
+          "url": "https://www.seniorly.com/assisted-living/nevada/carson-city/sierra-place-senior-living"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/sierra-place-retirement-community-94431"
+        }
       ],
       "verified_date": "2026-07-19",
       "phone": "(775) 841-4111",
@@ -545,6 +685,16 @@
         "https://www.aplaceformom.com/community/valage-senior-living-at-carson-valley-1483659",
         "https://valageatcarsonvalley.com/"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://birdeye.com/valage-senior-living-at-carson-valley-175296254855405"
+        },
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/valage-senior-living-at-carson-valley-1483659"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -574,6 +724,7 @@
         "https://health.usnews.com/best-nursing-homes/area/nv/harmony-manor-skilled-nursing-facility-295024",
         "https://www.hghospital.org/locations/harmony-manor-skilled-nursing-and-residential-care-community/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-19"
     },
     {
@@ -602,6 +753,7 @@
         "https://www.ahcfacilities.com/reno/",
         "https://www.seniorcare.com/nursing-homes/nv/reno/advanced-health-care-of-reno/295096/"
       ],
+      "review_links": [],
       "verified_date": "2026-07-19"
     },
     {
@@ -632,6 +784,16 @@
         "https://www.legacyretire.com/communities/legacy-house-of-centennial-hills/amenities/",
         "https://www.yelp.com/biz/legacy-house-centennial-hills-las-vegas-3"
       ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/legacy-house-of-centennial-hills-1396389"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/legacy-house-centennial-hills-las-vegas-3"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -660,6 +822,12 @@
         "https://www.nursinghomesite.com/HIGHLAND_MANOR_OF_MESQUITE_MESQUITE_NV",
         "https://nvhca.org/find-care/highland-manor-of-mesquite/",
         "https://health.usnews.com/best-nursing-homes/area/nv/highland-manor-of-mesquite-295068"
+      ],
+      "review_links": [
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/nevada/mesquite/highland-manor-mesquite-89027"
+        }
       ],
       "verified_date": "2026-07-19"
     },
@@ -692,6 +860,16 @@
         "https://www.yelp.com/biz/atria-summit-ridge-reno",
         "https://www.atriaseniorliving.com/retirement-communities/atria-summit-ridge-reno-nv/"
       ],
+      "review_links": [
+        {
+          "name": "Birdeye",
+          "url": "https://reviews.birdeye.com/atria-summit-ridge-157255800247550"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/atria-summit-ridge-reno"
+        }
+      ],
       "verified_date": "2026-07-19"
     },
     {
@@ -722,6 +900,12 @@
         "https://www.assistedliving.org/nevada/sparks/cascades-of-the-sierra/",
         "https://www.yelp.com/biz/cascades-of-the-sierra-sparks",
         "https://www.cascadeliving.com/community/cascades-of-the-sierra/independent-living/"
+      ],
+      "review_links": [
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/cascades-of-the-sierra-sparks"
+        }
       ],
       "verified_date": "2026-07-19"
     }

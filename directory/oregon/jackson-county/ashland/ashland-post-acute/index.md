@@ -24,7 +24,6 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/or/ashland-post-acu
 records_note: true
 verified_date: "2026-07-14"
 description_full: "Ashland Post Acute is an 87-bed Medicare- and Medicaid-certified skilled nursing facility near downtown Ashland, set against the Siskiyou Mountains."
-review_links: [{"name": "U.S. News", "url": "https://health.usnews.com/best-nursing-homes/area/or/ashland-post-acute-in-ashland-385197"}]
 reviews_search_url: "https://www.google.com/search?q=Ashland+Post+Acute+Ashland+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385197"
 license_id: "385197"

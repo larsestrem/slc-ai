@@ -311,469 +311,318 @@ tbody tr:hover { background: var(--soft); }
 staffing, and care assessments - but quality still varies building to building, so judge the
 building your parent would live in, not the brand: check its own
 <a href="/guides/checking-complaints-and-state-records/">state record</a> and its own reviews.</p>
+<p class="lead">We show two numbers for each operator: roughly how many communities it runs
+nationwide, and how many are in the states we currently cover (Oregon, Washington, Idaho, and
+Hawaii). Nationwide counts are approximate and change as companies buy and sell buildings. As we
+add states, the second number grows. Operators with no community in a state we cover yet don't
+appear here.</p>
 <div class="org-controls">
   <label for="org-sort"><strong>Sort by</strong></label>
   <select id="org-sort">
     <option value="name">Name (A to Z)</option>
-    <option value="count-desc">Most locations</option>
-    <option value="count-asc">Fewest locations</option>
+    <option value="total-desc">Most nationwide</option>
+    <option value="area-desc">Most in our area</option>
     <option value="hq">Headquarters (state)</option>
   </select>
   <span class="count" id="org-total"></span>
 </div>
 
 <ul class="grid org-list" id="org-list">
-  <li class="card org-card" data-name="acc senior services" data-count="1" data-hq="">
-    <h3><a href="/organizations/acc-senior-services/">ACC Senior Services</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="aegis living" data-count="5" data-hq="bellevue, wa">
-    <h3><a href="/organizations/aegis-living/">Aegis Living</a></h3><p class="org-hq">Bellevue, WA</p>
-    <p class="org-count">5 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="altavita living" data-count="1" data-hq="longmont, co">
-    <h3><a href="/organizations/altavita-living/">AltaVita Living</a></h3><p class="org-hq">Longmont, CO</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="arcadia family of companies" data-count="2" data-hq="honolulu, hi">
-    <h3><a href="/organizations/arcadia-family-of-companies/">Arcadia Family of Companies</a></h3><p class="org-hq">Honolulu, HI</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="ashford senior communities" data-count="1" data-hq="">
-    <h3><a href="/organizations/ashford-senior-communities/">Ashford Senior Communities</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="ashley manor" data-count="1" data-hq="">
-    <h3><a href="/organizations/ashley-manor/">Ashley Manor</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="astoria senior living" data-count="1" data-hq="california">
-    <h3><a href="/organizations/astoria-senior-living/">Astoria Senior Living</a></h3><p class="org-hq">California</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="atria senior living" data-count="14" data-hq="louisville, ky">
-    <h3><a href="/organizations/atria-senior-living/">Atria Senior Living</a></h3><p class="org-hq">Louisville, KY</p>
-    <p class="org-count">14 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="avalon health care" data-count="1" data-hq="salt lake city, ut">
-    <h3><a href="/organizations/avalon-health-care/">Avalon Health Care</a></h3><p class="org-hq">Salt Lake City, UT</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="avamere" data-count="9" data-hq="wilsonville, or">
-    <h3><a href="/organizations/avamere/">Avamere</a></h3><p class="org-hq">Wilsonville, OR</p>
-    <p class="org-count">9 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="avista senior living" data-count="1" data-hq="">
-    <h3><a href="/organizations/avista-senior-living/">Avista Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="bayshire senior communities" data-count="1" data-hq="">
-    <h3><a href="/organizations/bayshire-senior-communities/">Bayshire Senior Communities</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="belmont village senior living" data-count="6" data-hq="houston, tx">
-    <h3><a href="/organizations/belmont-village-senior-living/">Belmont Village Senior Living</a></h3><p class="org-hq">Houston, TX</p>
-    <p class="org-count">6 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="bonaventure senior living" data-count="6" data-hq="salem, or">
-    <h3><a href="/organizations/bonaventure-senior-living/">Bonaventure Senior Living</a></h3><p class="org-hq">Salem, OR</p>
-    <p class="org-count">6 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="brookdale senior living" data-count="11" data-hq="brentwood, tn">
-    <h3><a href="/organizations/brookdale-senior-living/">Brookdale Senior Living</a></h3><p class="org-hq">Brentwood, TN</p>
-    <p class="org-count">11 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="carefield living" data-count="2" data-hq="">
-    <h3><a href="/organizations/carefield-living/">Carefield Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="cascade living group" data-count="5" data-hq="bothell, wa">
-    <h3><a href="/organizations/cascade-living-group/">Cascade Living Group</a></h3><p class="org-hq">Bothell, WA</p>
-    <p class="org-count">5 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="cascadia healthcare" data-count="12" data-hq="eagle, id">
-    <h3><a href="/organizations/cascadia-healthcare/">Cascadia Healthcare</a></h3><p class="org-hq">Eagle, ID</p>
-    <p class="org-count">12 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="cedar sinai park" data-count="2" data-hq="portland, or">
-    <h3><a href="/organizations/cedar-sinai-park/">Cedar Sinai Park</a></h3><p class="org-hq">Portland, OR</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="century park associates" data-count="2" data-hq="cleveland, tn">
-    <h3><a href="/organizations/century-park-associates/">Century Park Associates</a></h3><p class="org-hq">Cleveland, TN</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="chateau retirement communities" data-count="1" data-hq="">
-    <h3><a href="/organizations/chateau-retirement-communities/">Chateau Retirement Communities</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="christian living communities" data-count="1" data-hq="denver, co">
-    <h3><a href="/organizations/christian-living-communities/">Christian Living Communities</a></h3><p class="org-hq">Denver, CO</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="ciel senior living" data-count="1" data-hq="solana beach, ca">
-    <h3><a href="/organizations/ciel-senior-living/">Ciel Senior Living</a></h3><p class="org-hq">Solana Beach, CA</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="civitas senior living" data-count="1" data-hq="fort worth, tx">
-    <h3><a href="/organizations/civitas-senior-living/">Civitas Senior Living</a></h3><p class="org-hq">Fort Worth, TX</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="cogir senior living" data-count="16" data-hq="scottsdale, az">
-    <h3><a href="/organizations/cogir-senior-living/">Cogir Senior Living</a></h3><p class="org-hq">Scottsdale, AZ</p>
-    <p class="org-count">16 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="compass senior living" data-count="6" data-hq="eugene, or">
-    <h3><a href="/organizations/compass-senior-living/">Compass Senior Living</a></h3><p class="org-hq">Eugene, OR</p>
-    <p class="org-count">6 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="continuing life" data-count="1" data-hq="carlsbad, ca">
-    <h3><a href="/organizations/continuing-life/">Continuing Life</a></h3><p class="org-hq">Carlsbad, CA</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="coterie senior living" data-count="1" data-hq="">
-    <h3><a href="/organizations/coterie-senior-living/">Coterie Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="covenant living communities and services" data-count="1" data-hq="skokie, il">
-    <h3><a href="/organizations/covenant-living-communities-and-services/">Covenant Living Communities and Services</a></h3><p class="org-hq">Skokie, IL</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="discovery senior living" data-count="2" data-hq="bonita springs, fl">
-    <h3><a href="/organizations/discovery-senior-living/">Discovery Senior Living</a></h3><p class="org-hq">Bonita Springs, FL</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="edgewood healthcare" data-count="2" data-hq="grand forks, nd">
-    <h3><a href="/organizations/edgewood-healthcare/">Edgewood Healthcare</a></h3><p class="org-hq">Grand Forks, ND</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="elder care alliance" data-count="1" data-hq="alameda, ca">
-    <h3><a href="/organizations/elder-care-alliance/">Elder Care Alliance</a></h3><p class="org-hq">Alameda, CA</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="emerald communities" data-count="1" data-hq="redmond, wa">
-    <h3><a href="/organizations/emerald-communities/">Emerald Communities</a></h3><p class="org-hq">Redmond, WA</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="encore communities" data-count="1" data-hq="">
-    <h3><a href="/organizations/encore-communities/">Encore Communities</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="ensign group" data-count="2" data-hq="san juan capistrano, ca">
-    <h3><a href="/organizations/ensign-group/">The Ensign Group</a></h3><p class="org-hq">San Juan Capistrano, CA</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="era living" data-count="2" data-hq="seattle, wa">
-    <h3><a href="/organizations/era-living/">Era Living</a></h3><p class="org-hq">Seattle, WA</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="eskaton" data-count="2" data-hq="carmichael, ca">
-    <h3><a href="/organizations/eskaton/">Eskaton</a></h3><p class="org-hq">Carmichael, CA</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="fellowship square senior living" data-count="2" data-hq="mesa, az">
-    <h3><a href="/organizations/fellowship-square-senior-living/">Fellowship Square Senior Living</a></h3><p class="org-hq">Mesa, AZ</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="fieldstone communities" data-count="2" data-hq="">
-    <h3><a href="/organizations/fieldstone-communities/">Fieldstone Communities</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="fox den homes" data-count="4" data-hq="boise, id">
-    <h3><a href="/organizations/fox-den-homes/">Fox Den Homes</a></h3><p class="org-hq">Boise, ID</p>
-    <p class="org-count">4 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="front porch" data-count="7" data-hq="glendale, ca">
-    <h3><a href="/organizations/front-porch/">Front Porch</a></h3><p class="org-hq">Glendale, CA</p>
-    <p class="org-count">7 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="frontier senior living" data-count="1" data-hq="durham, or">
-    <h3><a href="/organizations/frontier-senior-living/">Frontier Senior Living</a></h3><p class="org-hq">Durham, OR</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="gables assisted living and memory care" data-count="2" data-hq="idaho falls, id">
-    <h3><a href="/organizations/the-gables-assisted-living/">The Gables Assisted Living and Memory Care</a></h3><p class="org-hq">Idaho Falls, ID</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="generations" data-count="4" data-hq="portland, or">
-    <h3><a href="/organizations/generations/">Generations</a></h3><p class="org-hq">Portland, OR</p>
-    <p class="org-count">4 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="generations senior living" data-count="1" data-hq="">
-    <h3><a href="/organizations/generations-senior-living/">Generations Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="good samaritan society" data-count="2" data-hq="sioux falls, sd">
-    <h3><a href="/organizations/good-samaritan-society/">Good Samaritan Society</a></h3><p class="org-hq">Sioux Falls, SD</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="grace assisted living" data-count="2" data-hq="boise, id">
-    <h3><a href="/organizations/grace-assisted-living/">Grace Assisted Living</a></h3><p class="org-hq">Boise, ID</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="guardian angel homes" data-count="1" data-hq="">
-    <h3><a href="/organizations/guardian-angel-homes/">Guardian Angel Homes</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="hawaii health systems corporation" data-count="1" data-hq="">
-    <h3><a href="/organizations/hawaii-health-systems-corporation/">Hawaii Health Systems Corporation</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="hawthorn senior living" data-count="1" data-hq="">
-    <h3><a href="/organizations/hawthorn-senior-living/">Hawthorn Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="highgate senior living" data-count="2" data-hq="issaquah, wa">
-    <h3><a href="/organizations/highgate-senior-living/">Highgate Senior Living</a></h3><p class="org-hq">Issaquah, WA</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="holiday by atria" data-count="2" data-hq="louisville, ky">
-    <h3><a href="/organizations/holiday-by-atria/">Holiday by Atria</a></h3><p class="org-hq">Louisville, KY</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="humangood" data-count="9" data-hq="pleasanton, ca">
-    <h3><a href="/organizations/humangood/">HumanGood</a></h3><p class="org-hq">Pleasanton, CA</p>
-    <p class="org-count">9 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="idaho division of veterans services" data-count="3" data-hq="boise, id">
-    <h3><a href="/organizations/idaho-division-of-veterans-services/">Idaho Division of Veterans Services</a></h3><p class="org-hq">Boise, ID</p>
-    <p class="org-count">3 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="integral senior living" data-count="1" data-hq="carlsbad, ca">
-    <h3><a href="/organizations/integral-senior-living/">Integral Senior Living</a></h3><p class="org-hq">Carlsbad, CA</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="ivy living" data-count="1" data-hq="irvine, ca">
-    <h3><a href="/organizations/ivy-living/">Ivy Living</a></h3><p class="org-hq">Irvine, CA</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="kensington senior living" data-count="2" data-hq="reston, va">
-    <h3><a href="/organizations/kensington-senior-living/">Kensington Senior Living</a></h3><p class="org-hq">Reston, VA</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="kisco senior living" data-count="4" data-hq="carlsbad, ca">
-    <h3><a href="/organizations/kisco-senior-living/">Kisco Senior Living</a></h3><p class="org-hq">Carlsbad, CA</p>
-    <p class="org-count">4 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="kline galland" data-count="1" data-hq="">
-    <h3><a href="/organizations/kline-galland/">Kline Galland</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="koelsch communities" data-count="6" data-hq="olympia, wa">
-    <h3><a href="/organizations/koelsch-communities/">Koelsch Communities</a></h3><p class="org-hq">Olympia, WA</p>
-    <p class="org-count">6 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="legacy retirement communities" data-count="6" data-hq="south jordan, ut">
-    <h3><a href="/organizations/legacy-retirement-communities/">Legacy Retirement Communities</a></h3><p class="org-hq">South Jordan, UT</p>
-    <p class="org-count">6 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="leisure care" data-count="9" data-hq="seattle, wa">
-    <h3><a href="/organizations/leisure-care/">Leisure Care</a></h3><p class="org-hq">Seattle, WA</p>
-    <p class="org-count">9 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="life care centers of america" data-count="9" data-hq="cleveland, tn">
-    <h3><a href="/organizations/life-care-centers-of-america/">Life Care Centers of America</a></h3><p class="org-hq">Cleveland, TN</p>
-    <p class="org-count">9 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="life care services" data-count="1" data-hq="des moines, ia">
-    <h3><a href="/organizations/life-care-services/">Life Care Services</a></h3><p class="org-hq">Des Moines, IA</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="living care lifestyles" data-count="2" data-hq="seattle, wa">
-    <h3><a href="/organizations/living-care-lifestyles/">Living Care Lifestyles</a></h3><p class="org-hq">Seattle, WA</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="marquis companies" data-count="9" data-hq="milwaukie, or">
-    <h3><a href="/organizations/marquis-companies/">Marquis Companies</a></h3><p class="org-hq">Milwaukie, OR</p>
-    <p class="org-count">9 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="maui health" data-count="1" data-hq="wailuku, hi">
-    <h3><a href="/organizations/maui-health/">Maui Health</a></h3><p class="org-hq">Wailuku, HI</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="mbk senior living" data-count="10" data-hq="irvine, ca">
-    <h3><a href="/organizations/mbk-senior-living/">MBK Senior Living</a></h3><p class="org-hq">Irvine, CA</p>
-    <p class="org-count">10 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="meridian senior living" data-count="1" data-hq="bethesda, md">
-    <h3><a href="/organizations/meridian-senior-living/">Meridian Senior Living</a></h3><p class="org-hq">Bethesda, MD</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="merrill gardens" data-count="16" data-hq="seattle, wa">
-    <h3><a href="/organizations/merrill-gardens/">Merrill Gardens</a></h3><p class="org-hq">Seattle, WA</p>
-    <p class="org-count">16 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="morningstar senior living" data-count="8" data-hq="denver, co">
-    <h3><a href="/organizations/morningstar-senior-living/">MorningStar Senior Living</a></h3><p class="org-hq">Denver, CO</p>
-    <p class="org-count">8 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="mosaic senior living" data-count="1" data-hq="">
-    <h3><a href="/organizations/mosaic-senior-living/">Mosaic Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="northstar senior living" data-count="1" data-hq="">
-    <h3><a href="/organizations/northstar-senior-living/">Northstar Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="northwest care senior living" data-count="1" data-hq="">
-    <h3><a href="/organizations/northwest-care-senior-living/">Northwest Care Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="oakmont management group" data-count="6" data-hq="irvine, ca">
-    <h3><a href="/organizations/oakmont-management-group/">Oakmont Management Group</a></h3><p class="org-hq">Irvine, CA</p>
-    <p class="org-count">6 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="oakmont senior living" data-count="9" data-hq="windsor, ca">
-    <h3><a href="/organizations/oakmont-senior-living/">Oakmont Senior Living</a></h3><p class="org-hq">Windsor, CA</p>
-    <p class="org-count">9 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="ohana pacific health" data-count="3" data-hq="honolulu, hi">
-    <h3><a href="/organizations/ohana-pacific-health/">Ohana Pacific Health</a></h3><p class="org-hq">Honolulu, HI</p>
-    <p class="org-count">3 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="ohana ventures" data-count="1" data-hq="">
-    <h3><a href="/organizations/ohana-ventures/">Ohana Ventures</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="onelife senior living" data-count="2" data-hq="">
-    <h3><a href="/organizations/onelife-senior-living/">Onelife Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="pacific retirement services" data-count="4" data-hq="medford, or">
-    <h3><a href="/organizations/pacific-retirement-services/">Pacific Retirement Services</a></h3><p class="org-hq">Medford, OR</p>
-    <p class="org-count">4 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="pacifica senior living" data-count="1" data-hq="">
-    <h3><a href="/organizations/pacifica-senior-living/">Pacifica Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="plaza assisted living" data-count="2" data-hq="honolulu, hi">
-    <h3><a href="/organizations/the-plaza-assisted-living/">The Plaza Assisted Living</a></h3><p class="org-hq">Honolulu, HI</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="prestige care" data-count="9" data-hq="vancouver, wa">
-    <h3><a href="/organizations/prestige-care/">Prestige Care</a></h3><p class="org-hq">Vancouver, WA</p>
-    <p class="org-count">9 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="providence" data-count="2" data-hq="renton, wa">
-    <h3><a href="/organizations/providence/">Providence</a></h3><p class="org-hq">Renton, WA</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="radiant senior living" data-count="2" data-hq="portland, or">
-    <h3><a href="/organizations/radiant-senior-living/">Radiant Senior Living</a></h3><p class="org-hq">Portland, OR</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="regency pacific" data-count="5" data-hq="bellevue, wa">
-    <h3><a href="/organizations/regency-pacific/">Regency Pacific</a></h3><p class="org-hq">Bellevue, WA</p>
-    <p class="org-count">5 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="revel communities" data-count="1" data-hq="">
-    <h3><a href="/organizations/revel-communities/">Revel Communities</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="savant senior living" data-count="1" data-hq="">
-    <h3><a href="/organizations/savant-senior-living/">Savant Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="senior lifestyle" data-count="2" data-hq="chicago, il">
-    <h3><a href="/organizations/senior-lifestyle/">Senior Lifestyle</a></h3><p class="org-hq">Chicago, IL</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="senior resource group" data-count="3" data-hq="solana beach, ca">
-    <h3><a href="/organizations/senior-resource-group/">Senior Resource Group</a></h3><p class="org-hq">Solana Beach, CA</p>
-    <p class="org-count">3 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="silverado" data-count="2" data-hq="">
-    <h3><a href="/organizations/silverado/">Silverado</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="silvergate retirement residences" data-count="1" data-hq="san diego county, ca">
-    <h3><a href="/organizations/silvergate-retirement-residences/">Silvergate Retirement Residences</a></h3><p class="org-hq">San Diego County, CA</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="sinceri senior living" data-count="2" data-hq="vancouver, wa">
-    <h3><a href="/organizations/sinceri-senior-living/">Sinceri Senior Living</a></h3><p class="org-hq">Vancouver, WA</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="sisters of st. mary of oregon" data-count="1" data-hq="">
-    <h3><a href="/organizations/sisters-of-st-mary-of-oregon/">Sisters of St. Mary of Oregon</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="springs living" data-count="8" data-hq="mcminnville, or">
-    <h3><a href="/organizations/the-springs-living/">The Springs Living</a></h3><p class="org-hq">McMinnville, OR</p>
-    <p class="org-count">8 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="stellar senior living" data-count="3" data-hq="">
-    <h3><a href="/organizations/stellar-senior-living/">Stellar Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">3 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="summerset senior living" data-count="1" data-hq="">
-    <h3><a href="/organizations/summerset-senior-living/">Summerset Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="sunrise senior living" data-count="9" data-hq="mclean, va">
-    <h3><a href="/organizations/sunrise-senior-living/">Sunrise Senior Living</a></h3><p class="org-hq">McLean, VA</p>
-    <p class="org-count">9 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="sunshine retirement living" data-count="1" data-hq="bend, or">
-    <h3><a href="/organizations/sunshine-retirement-living/">Sunshine Retirement Living</a></h3><p class="org-hq">Bend, OR</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="tanabell health services" data-count="1" data-hq="">
-    <h3><a href="/organizations/tanabell-health-services/">Tanabell Health Services</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="touchmark" data-count="5" data-hq="beaverton, or">
-    <h3><a href="/organizations/touchmark/">Touchmark</a></h3><p class="org-hq">Beaverton, OR</p>
-    <p class="org-count">5 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="trustwell living" data-count="4" data-hq="new york, ny">
-    <h3><a href="/organizations/trustwell-living/">Trustwell Living</a></h3><p class="org-hq">New York, NY</p>
-    <p class="org-count">4 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="valley vista care corporation" data-count="1" data-hq="">
-    <h3><a href="/organizations/valley-vista-care-corporation/">Valley Vista Care Corporation</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="veterans care centers of oregon" data-count="1" data-hq="oregon">
-    <h3><a href="/organizations/veterans-care-centers-of-oregon/">Veterans Care Centers of Oregon</a></h3><p class="org-hq">Oregon</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="vi" data-count="2" data-hq="">
-    <h3><a href="/organizations/vi/">Vi</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="village concepts" data-count="2" data-hq="federal way, wa">
-    <h3><a href="/organizations/village-concepts/">Village Concepts</a></h3><p class="org-hq">Federal Way, WA</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="vivante living" data-count="1" data-hq="newport beach, ca">
-    <h3><a href="/organizations/vivante-living/">Vivante Living</a></h3><p class="org-hq">Newport Beach, CA</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="volare health" data-count="3" data-hq="">
-    <h3><a href="/organizations/volare-health/">Volare Health</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">3 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="watermark retirement communities" data-count="2" data-hq="tucson, az">
-    <h3><a href="/organizations/watermark-retirement-communities/">Watermark Retirement Communities</a></h3><p class="org-hq">Tucson, AZ</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="weatherly inn" data-count="1" data-hq="">
-    <h3><a href="/organizations/weatherly-inn/">Weatherly Inn</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="wellquest living" data-count="2" data-hq="">
-    <h3><a href="/organizations/wellquest-living/">WellQuest Living</a></h3><p class="org-hq muted">Headquarters not listed</p>
-    <p class="org-count">2 locations in our directory</p>
-  </li>
-  <li class="card org-card" data-name="western states lodging & management" data-count="1" data-hq="taylorsville, ut">
-    <h3><a href="/organizations/western-states-lodging/">Western States Lodging & Management</a></h3><p class="org-hq">Taylorsville, UT</p>
-    <p class="org-count">1 location in our directory</p>
-  </li>
-  <li class="card org-card" data-name="westmont living" data-count="5" data-hq="san diego, ca">
-    <h3><a href="/organizations/westmont-living/">Westmont Living</a></h3><p class="org-hq">San Diego, CA</p>
-    <p class="org-count">5 locations in our directory</p>
+  <li class="card org-card" data-name="aegis living" data-area="3" data-total="38" data-hq="bellevue, wa">
+    <h3><a href="/organizations/aegis-living/">Aegis Living</a></h3><p class="org-hq">Bellevue, WA</p><p class="org-total">~38 communities nationwide</p>
+    <p class="org-count">3 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="arcadia family of companies" data-area="2" data-total="2" data-hq="honolulu, hi">
+    <h3><a href="/organizations/arcadia-family-of-companies/">Arcadia Family of Companies</a></h3><p class="org-hq">Honolulu, HI</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="ashley manor" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/ashley-manor/">Ashley Manor</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="avalon health care" data-area="1" data-total="1" data-hq="salt lake city, ut">
+    <h3><a href="/organizations/avalon-health-care/">Avalon Health Care</a></h3><p class="org-hq">Salt Lake City, UT</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="avamere" data-area="9" data-total="32" data-hq="wilsonville, or">
+    <h3><a href="/organizations/avamere/">Avamere</a></h3><p class="org-hq">Wilsonville, OR</p><p class="org-total">~32 communities nationwide</p>
+    <p class="org-count">9 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="avista senior living" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/avista-senior-living/">Avista Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="bonaventure senior living" data-area="6" data-total="28" data-hq="salem, or">
+    <h3><a href="/organizations/bonaventure-senior-living/">Bonaventure Senior Living</a></h3><p class="org-hq">Salem, OR</p><p class="org-total">~28 communities nationwide</p>
+    <p class="org-count">6 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="brookdale senior living" data-area="7" data-total="541" data-hq="brentwood, tn">
+    <h3><a href="/organizations/brookdale-senior-living/">Brookdale Senior Living</a></h3><p class="org-hq">Brentwood, TN</p><p class="org-total">~541 communities nationwide</p>
+    <p class="org-count">7 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="cascade living group" data-area="4" data-total="40" data-hq="bothell, wa">
+    <h3><a href="/organizations/cascade-living-group/">Cascade Living Group</a></h3><p class="org-hq">Bothell, WA</p><p class="org-total">~40 communities nationwide</p>
+    <p class="org-count">4 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="cascadia healthcare" data-area="12" data-total="12" data-hq="eagle, id">
+    <h3><a href="/organizations/cascadia-healthcare/">Cascadia Healthcare</a></h3><p class="org-hq">Eagle, ID</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">12 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="cedar sinai park" data-area="2" data-total="2" data-hq="portland, or">
+    <h3><a href="/organizations/cedar-sinai-park/">Cedar Sinai Park</a></h3><p class="org-hq">Portland, OR</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="century park associates" data-area="1" data-total="40" data-hq="cleveland, tn">
+    <h3><a href="/organizations/century-park-associates/">Century Park Associates</a></h3><p class="org-hq">Cleveland, TN</p><p class="org-total">~40 communities nationwide</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="chateau retirement communities" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/chateau-retirement-communities/">Chateau Retirement Communities</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="ciel senior living" data-area="1" data-total="12" data-hq="solana beach, ca">
+    <h3><a href="/organizations/ciel-senior-living/">Ciel Senior Living</a></h3><p class="org-hq">Solana Beach, CA</p><p class="org-total">~12 communities nationwide</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="cogir senior living" data-area="13" data-total="90" data-hq="scottsdale, az">
+    <h3><a href="/organizations/cogir-senior-living/">Cogir Senior Living</a></h3><p class="org-hq">Scottsdale, AZ</p><p class="org-total">~90 communities nationwide</p>
+    <p class="org-count">13 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="compass senior living" data-area="6" data-total="6" data-hq="eugene, or">
+    <h3><a href="/organizations/compass-senior-living/">Compass Senior Living</a></h3><p class="org-hq">Eugene, OR</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">6 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="edgewood healthcare" data-area="2" data-total="64" data-hq="grand forks, nd">
+    <h3><a href="/organizations/edgewood-healthcare/">Edgewood Healthcare</a></h3><p class="org-hq">Grand Forks, ND</p><p class="org-total">~64 communities nationwide</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="emerald communities" data-area="1" data-total="2" data-hq="redmond, wa">
+    <h3><a href="/organizations/emerald-communities/">Emerald Communities</a></h3><p class="org-hq">Redmond, WA</p><p class="org-total">~2 communities nationwide</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="encore communities" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/encore-communities/">Encore Communities</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="ensign group" data-area="1" data-total="1" data-hq="san juan capistrano, ca">
+    <h3><a href="/organizations/ensign-group/">The Ensign Group</a></h3><p class="org-hq">San Juan Capistrano, CA</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="era living" data-area="2" data-total="8" data-hq="seattle, wa">
+    <h3><a href="/organizations/era-living/">Era Living</a></h3><p class="org-hq">Seattle, WA</p><p class="org-total">~8 communities nationwide</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="fieldstone communities" data-area="2" data-total="2" data-hq="">
+    <h3><a href="/organizations/fieldstone-communities/">Fieldstone Communities</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="fox den homes" data-area="4" data-total="4" data-hq="boise, id">
+    <h3><a href="/organizations/fox-den-homes/">Fox Den Homes</a></h3><p class="org-hq">Boise, ID</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">4 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="gables assisted living and memory care" data-area="1" data-total="1" data-hq="idaho falls, id">
+    <h3><a href="/organizations/the-gables-assisted-living/">The Gables Assisted Living and Memory Care</a></h3><p class="org-hq">Idaho Falls, ID</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="generations" data-area="2" data-total="2" data-hq="portland, or">
+    <h3><a href="/organizations/generations/">Generations</a></h3><p class="org-hq">Portland, OR</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="good samaritan society" data-area="2" data-total="2" data-hq="sioux falls, sd">
+    <h3><a href="/organizations/good-samaritan-society/">Good Samaritan Society</a></h3><p class="org-hq">Sioux Falls, SD</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="grace assisted living" data-area="2" data-total="6" data-hq="boise, id">
+    <h3><a href="/organizations/grace-assisted-living/">Grace Assisted Living</a></h3><p class="org-hq">Boise, ID</p><p class="org-total">~6 communities nationwide</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="guardian angel homes" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/guardian-angel-homes/">Guardian Angel Homes</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="hawaii health systems corporation" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/hawaii-health-systems-corporation/">Hawaii Health Systems Corporation</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="hawthorn senior living" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/hawthorn-senior-living/">Hawthorn Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="highgate senior living" data-area="2" data-total="2" data-hq="issaquah, wa">
+    <h3><a href="/organizations/highgate-senior-living/">Highgate Senior Living</a></h3><p class="org-hq">Issaquah, WA</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="holiday by atria" data-area="2" data-total="240" data-hq="louisville, ky">
+    <h3><a href="/organizations/holiday-by-atria/">Holiday by Atria</a></h3><p class="org-hq">Louisville, KY</p><p class="org-total">~240 communities nationwide</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="humangood" data-area="3" data-total="3" data-hq="pleasanton, ca">
+    <h3><a href="/organizations/humangood/">HumanGood</a></h3><p class="org-hq">Pleasanton, CA</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">3 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="idaho division of veterans services" data-area="3" data-total="3" data-hq="boise, id">
+    <h3><a href="/organizations/idaho-division-of-veterans-services/">Idaho Division of Veterans Services</a></h3><p class="org-hq">Boise, ID</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">3 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="kisco senior living" data-area="1" data-total="20" data-hq="carlsbad, ca">
+    <h3><a href="/organizations/kisco-senior-living/">Kisco Senior Living</a></h3><p class="org-hq">Carlsbad, CA</p><p class="org-total">~20 communities nationwide</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="kline galland" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/kline-galland/">Kline Galland</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="koelsch communities" data-area="5" data-total="40" data-hq="olympia, wa">
+    <h3><a href="/organizations/koelsch-communities/">Koelsch Communities</a></h3><p class="org-hq">Olympia, WA</p><p class="org-total">~40 communities nationwide</p>
+    <p class="org-count">5 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="leisure care" data-area="7" data-total="50" data-hq="seattle, wa">
+    <h3><a href="/organizations/leisure-care/">Leisure Care</a></h3><p class="org-hq">Seattle, WA</p><p class="org-total">~50 communities nationwide</p>
+    <p class="org-count">7 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="life care centers of america" data-area="6" data-total="200" data-hq="cleveland, tn">
+    <h3><a href="/organizations/life-care-centers-of-america/">Life Care Centers of America</a></h3><p class="org-hq">Cleveland, TN</p><p class="org-total">~200 communities nationwide</p>
+    <p class="org-count">6 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="living care lifestyles" data-area="1" data-total="1" data-hq="seattle, wa">
+    <h3><a href="/organizations/living-care-lifestyles/">Living Care Lifestyles</a></h3><p class="org-hq">Seattle, WA</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="marquis companies" data-area="9" data-total="9" data-hq="milwaukie, or">
+    <h3><a href="/organizations/marquis-companies/">Marquis Companies</a></h3><p class="org-hq">Milwaukie, OR</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">9 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="maui health" data-area="1" data-total="3" data-hq="wailuku, hi">
+    <h3><a href="/organizations/maui-health/">Maui Health</a></h3><p class="org-hq">Wailuku, HI</p><p class="org-total">~3 communities nationwide</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="mbk senior living" data-area="2" data-total="35" data-hq="irvine, ca">
+    <h3><a href="/organizations/mbk-senior-living/">MBK Senior Living</a></h3><p class="org-hq">Irvine, CA</p><p class="org-total">~35 communities nationwide</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="merrill gardens" data-area="8" data-total="65" data-hq="seattle, wa">
+    <h3><a href="/organizations/merrill-gardens/">Merrill Gardens</a></h3><p class="org-hq">Seattle, WA</p><p class="org-total">~65 communities nationwide</p>
+    <p class="org-count">8 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="morningstar senior living" data-area="2" data-total="40" data-hq="denver, co">
+    <h3><a href="/organizations/morningstar-senior-living/">MorningStar Senior Living</a></h3><p class="org-hq">Denver, CO</p><p class="org-total">~40 communities nationwide</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="mosaic senior living" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/mosaic-senior-living/">Mosaic Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="northwest care senior living" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/northwest-care-senior-living/">Northwest Care Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="oakmont senior living" data-area="1" data-total="118" data-hq="windsor, ca">
+    <h3><a href="/organizations/oakmont-senior-living/">Oakmont Senior Living</a></h3><p class="org-hq">Windsor, CA</p><p class="org-total">~118 communities nationwide</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="ohana pacific health" data-area="3" data-total="17" data-hq="honolulu, hi">
+    <h3><a href="/organizations/ohana-pacific-health/">Ohana Pacific Health</a></h3><p class="org-hq">Honolulu, HI</p><p class="org-total">~17 communities nationwide</p>
+    <p class="org-count">3 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="ohana ventures" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/ohana-ventures/">Ohana Ventures</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="onelife senior living" data-area="2" data-total="2" data-hq="">
+    <h3><a href="/organizations/onelife-senior-living/">Onelife Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="pacific retirement services" data-area="3" data-total="15" data-hq="medford, or">
+    <h3><a href="/organizations/pacific-retirement-services/">Pacific Retirement Services</a></h3><p class="org-hq">Medford, OR</p><p class="org-total">~15 communities nationwide</p>
+    <p class="org-count">3 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="plaza assisted living" data-area="2" data-total="6" data-hq="honolulu, hi">
+    <h3><a href="/organizations/the-plaza-assisted-living/">The Plaza Assisted Living</a></h3><p class="org-hq">Honolulu, HI</p><p class="org-total">~6 communities nationwide</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="prestige care" data-area="7" data-total="80" data-hq="vancouver, wa">
+    <h3><a href="/organizations/prestige-care/">Prestige Care</a></h3><p class="org-hq">Vancouver, WA</p><p class="org-total">~80 communities nationwide</p>
+    <p class="org-count">7 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="providence" data-area="2" data-total="2" data-hq="renton, wa">
+    <h3><a href="/organizations/providence/">Providence</a></h3><p class="org-hq">Renton, WA</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="radiant senior living" data-area="2" data-total="2" data-hq="portland, or">
+    <h3><a href="/organizations/radiant-senior-living/">Radiant Senior Living</a></h3><p class="org-hq">Portland, OR</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="regency pacific" data-area="5" data-total="5" data-hq="bellevue, wa">
+    <h3><a href="/organizations/regency-pacific/">Regency Pacific</a></h3><p class="org-hq">Bellevue, WA</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">5 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="revel communities" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/revel-communities/">Revel Communities</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="senior lifestyle" data-area="2" data-total="2" data-hq="chicago, il">
+    <h3><a href="/organizations/senior-lifestyle/">Senior Lifestyle</a></h3><p class="org-hq">Chicago, IL</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="senior resource group" data-area="1" data-total="1" data-hq="solana beach, ca">
+    <h3><a href="/organizations/senior-resource-group/">Senior Resource Group</a></h3><p class="org-hq">Solana Beach, CA</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="sisters of st. mary of oregon" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/sisters-of-st-mary-of-oregon/">Sisters of St. Mary of Oregon</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="springs living" data-area="8" data-total="20" data-hq="mcminnville, or">
+    <h3><a href="/organizations/the-springs-living/">The Springs Living</a></h3><p class="org-hq">McMinnville, OR</p><p class="org-total">~20 communities nationwide</p>
+    <p class="org-count">8 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="stellar senior living" data-area="3" data-total="3" data-hq="">
+    <h3><a href="/organizations/stellar-senior-living/">Stellar Senior Living</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">3 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="sunrise senior living" data-area="3" data-total="240" data-hq="mclean, va">
+    <h3><a href="/organizations/sunrise-senior-living/">Sunrise Senior Living</a></h3><p class="org-hq">McLean, VA</p><p class="org-total">~240 communities nationwide</p>
+    <p class="org-count">3 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="sunshine retirement living" data-area="1" data-total="41" data-hq="bend, or">
+    <h3><a href="/organizations/sunshine-retirement-living/">Sunshine Retirement Living</a></h3><p class="org-hq">Bend, OR</p><p class="org-total">~41 communities nationwide</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="tanabell health services" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/tanabell-health-services/">Tanabell Health Services</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="touchmark" data-area="4" data-total="4" data-hq="beaverton, or">
+    <h3><a href="/organizations/touchmark/">Touchmark</a></h3><p class="org-hq">Beaverton, OR</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">4 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="trustwell living" data-area="4" data-total="40" data-hq="new york, ny">
+    <h3><a href="/organizations/trustwell-living/">Trustwell Living</a></h3><p class="org-hq">New York, NY</p><p class="org-total">~40 communities nationwide</p>
+    <p class="org-count">4 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="valley vista care corporation" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/valley-vista-care-corporation/">Valley Vista Care Corporation</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="veterans care centers of oregon" data-area="1" data-total="2" data-hq="oregon">
+    <h3><a href="/organizations/veterans-care-centers-of-oregon/">Veterans Care Centers of Oregon</a></h3><p class="org-hq">Oregon</p><p class="org-total">~2 communities nationwide</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="village concepts" data-area="2" data-total="16" data-hq="federal way, wa">
+    <h3><a href="/organizations/village-concepts/">Village Concepts</a></h3><p class="org-hq">Federal Way, WA</p><p class="org-total">~16 communities nationwide</p>
+    <p class="org-count">2 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="volare health" data-area="3" data-total="3" data-hq="">
+    <h3><a href="/organizations/volare-health/">Volare Health</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">3 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="weatherly inn" data-area="1" data-total="1" data-hq="">
+    <h3><a href="/organizations/weatherly-inn/">Weatherly Inn</a></h3><p class="org-hq muted">Headquarters not listed</p><p class="org-total muted">Nationwide count not available</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
+  </li>
+  <li class="card org-card" data-name="westmont living" data-area="1" data-total="18" data-hq="san diego, ca">
+    <h3><a href="/organizations/westmont-living/">Westmont Living</a></h3><p class="org-hq">San Diego, CA</p><p class="org-total">~18 communities nationwide</p>
+    <p class="org-count">1 in our area (OR, WA, ID, HI)</p>
   </li>
 </ul>
 
@@ -783,6 +632,8 @@ building your parent would live in, not the brand: check its own
 .org-controls .count { margin-left: auto; }
 .org-card h3 { margin: 0 0 .15rem; }
 .org-card .org-hq { margin: 0 0 .1rem; color: var(--muted); font-size: .92rem; }
+.org-card .org-total { margin: 0 0 .05rem; font-size: .92rem; font-weight: 600; }
+.org-card .org-total.muted { font-weight: 400; color: var(--muted); }
 .org-card .org-count { margin: 0; font-size: .92rem; }
 </style>
 <script>
@@ -792,12 +643,12 @@ building your parent would live in, not the brand: check its own
   var total = document.getElementById("org-total");
   if (!list || !sel) return;
   var cards = [].slice.call(list.querySelectorAll(".org-card"));
-  if (total) total.textContent = cards.length + " operators";
+  if (total) total.textContent = cards.length + " operators in our area";
   function byName(a, b) { return a.dataset.name.localeCompare(b.dataset.name); }
   function sort(mode) {
     cards.sort(function (a, b) {
-      if (mode === "count-desc") return (+b.dataset.count - +a.dataset.count) || byName(a, b);
-      if (mode === "count-asc") return (+a.dataset.count - +b.dataset.count) || byName(a, b);
+      if (mode === "total-desc") return (+b.dataset.total - +a.dataset.total) || byName(a, b);
+      if (mode === "area-desc") return (+b.dataset.area - +a.dataset.area) || byName(a, b);
       if (mode === "hq") return (a.dataset.hq || "zzz").localeCompare(b.dataset.hq || "zzz") || byName(a, b);
       return byName(a, b);
     });

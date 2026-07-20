@@ -27,10 +27,12 @@ one that runs through the whole site: the resident comes first.
 - **[Handling complaints and violations](/best-practices/handling-complaints-and-violations/)** -
   every community gets them; what separates a good one is what happens next. The plan of
   correction, the honest conversation, and closing the loop with the family.
-
-More on the way: hiring and keeping good caregivers (the single biggest driver of day-to-day
-care), and resident enrichment and daily life (what a real activities program looks like, versus
-a TV in a day room).
+- **[Hiring and keeping good caregivers](/best-practices/hiring-and-keeping-good-caregivers/)** -
+  the single biggest driver of day-to-day care. Why turnover is the number to ask about, and what
+  a community that holds onto its best people actually does.
+- **[Resident enrichment and daily life](/best-practices/resident-enrichment-and-daily-life/)** -
+  what a real activities program looks like versus a TV in a day room, and why a good day is a
+  health issue, not a frill.
 
 ## Why we publish this
 

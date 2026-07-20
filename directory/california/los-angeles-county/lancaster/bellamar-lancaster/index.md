@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Bellamar Lancaster"
-seo_title: "Bellamar Lancaster — Senior Living in Lancaster, CA"
+seo_title: "Bellamar Lancaster - Senior Living in Lancaster, CA"
 description: "Assisted living and memory care community on 30th Street West in Lancaster, in the Antelope Valley, formerly known as Prestige Assisted Living at Lancaster."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Bellamar Lancaster", "url": "/directory/california/los-angeles-county/lancaster/bellamar-lancaster/"}]
 nearby: []

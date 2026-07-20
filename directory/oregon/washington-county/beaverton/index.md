@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Beaverton, OR"
-seo_title: "Senior Living in Beaverton, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Beaverton, OR - Assisted Living, Memory Care & More"
 description: "Compare 8 senior living communities in Beaverton, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Beaverton"
 county_name: "Washington"

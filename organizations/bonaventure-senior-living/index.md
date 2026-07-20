@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Bonaventure Senior Living"
-seo_title: "Bonaventure Senior Living — Senior Living Communities & Locations"
+seo_title: "Bonaventure Senior Living - Senior Living Communities & Locations"
 description: "Bonaventure Senior Living is a senior living operator headquartered in Salem, Oregon, with a portfolio of roughly 28 communities across Oregon, Washington, an"
 org_description: "Bonaventure Senior Living is a senior living operator headquartered in Salem, Oregon, with a portfolio of roughly 28 communities across Oregon, Washington, and Colorado. Its communities offer independent living, assisted living, and memory care. In Washington, the company entered a $7 million consent agreement with the state attorney general to improve services at 10 of its long-term care facilities."
 headquarters: "Salem, Oregon"

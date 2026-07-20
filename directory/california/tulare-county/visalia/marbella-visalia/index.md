@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Marbella Visalia"
-seo_title: "Marbella Visalia — Senior Living in Visalia, CA"
+seo_title: "Marbella Visalia - Senior Living in Visalia, CA"
 description: "An assisted living and memory care community in Visalia (formerly Prestige Assisted Living at Visalia)."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Marbella Visalia", "url": "/directory/california/tulare-county/visalia/marbella-visalia/"}]
 nearby: [{"name": "Quail Park on Cypress", "url": "/directory/california/tulare-county/visalia/quail-park-on-cypress/", "city_name": "Visalia", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "Quail Park on Cypress is a senior living campus across from Kaweah Health Medical Center's Cypress campus, offering independent living, assisted living, and memory care in studio to two-bedroom residences."}]

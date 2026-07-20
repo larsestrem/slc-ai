@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Cascadia Healthcare"
-seo_title: "Cascadia Healthcare — Senior Living Communities & Locations"
+seo_title: "Cascadia Healthcare - Senior Living Communities & Locations"
 description: "Cascadia Healthcare is an Idaho-based operator of skilled nursing and post-acute rehabilitation facilities across several western states. In Idaho it runs num"
 org_description: "Cascadia Healthcare is an Idaho-based operator of skilled nursing and post-acute rehabilitation facilities across several western states. In Idaho it runs numerous centers, including Cascadia of Nampa, Cascadia of Lewiston, Royal Plaza Health and Rehabilitation of Cascadia and Weiser Care of Cascadia. The company focuses on short-term rehabilitation and long-term skilled nursing care."
 headquarters: "Eagle, Idaho"

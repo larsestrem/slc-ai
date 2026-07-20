@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Yuma County, AZ Senior Living"
-seo_title: "Senior Living in Yuma County, AZ — 1 Communities"
+seo_title: "Senior Living in Yuma County, AZ - 1 Communities"
 description: "Senior living in Yuma County, Arizona: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Yuma"
 state_name: "Arizona"

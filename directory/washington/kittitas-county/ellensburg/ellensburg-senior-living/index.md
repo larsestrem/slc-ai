@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Ellensburg Senior Living"
-seo_title: "Ellensburg Senior Living — Senior Living in Ellensburg, WA"
+seo_title: "Ellensburg Senior Living - Senior Living in Ellensburg, WA"
 description: "Ellensburg Senior Living offers independent living, assisted living, and memory care in a college-town setting near Central Washington University."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Ellensburg Senior Living", "url": "/directory/washington/kittitas-county/ellensburg/ellensburg-senior-living/"}]
 nearby: []

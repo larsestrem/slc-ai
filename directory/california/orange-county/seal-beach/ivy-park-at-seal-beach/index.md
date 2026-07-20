@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Ivy Park at Seal Beach"
-seo_title: "Ivy Park at Seal Beach — Senior Living in Seal Beach, CA"
+seo_title: "Ivy Park at Seal Beach - Senior Living in Seal Beach, CA"
 description: "Ivy Park at Seal Beach (formerly Sunrise of Seal Beach) offers independent living, assisted living, and memory care near Old Ranch Country Club."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Ivy Park at Seal Beach", "url": "/directory/california/orange-county/seal-beach/ivy-park-at-seal-beach/"}]
 nearby: []

@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Holiday Kalama Heights"
-seo_title: "Holiday Kalama Heights — Senior Living in Kihei, HI"
+seo_title: "Holiday Kalama Heights - Senior Living in Kihei, HI"
 description: "A pet-friendly independent senior living community in Kihei on Maui's south shore, minutes from Kamaole Beach Park."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Holiday Kalama Heights", "url": "/directory/hawaii/maui-county/kihei/holiday-kalama-heights/"}]
 nearby: []

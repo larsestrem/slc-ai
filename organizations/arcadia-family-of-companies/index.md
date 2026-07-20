@@ -1,9 +1,9 @@
 ---
 layout: "organization"
 title: "Arcadia Family of Companies"
-seo_title: "Arcadia Family of Companies — Senior Living Communities & Locations"
+seo_title: "Arcadia Family of Companies - Senior Living Communities & Locations"
 description: "The Arcadia Family of Companies is a Honolulu-based nonprofit senior services organization affiliated with the United Church of Christ, tracing its roots to t"
-org_description: "The Arcadia Family of Companies is a Honolulu-based nonprofit senior services organization affiliated with the United Church of Christ, tracing its roots to the 1967 opening of Arcadia Retirement Residence. It operates two continuing care retirement communities in Honolulu — Arcadia Retirement Residence and 15 Craigside — along with home care and adult day programs."
+org_description: "The Arcadia Family of Companies is a Honolulu-based nonprofit senior services organization affiliated with the United Church of Christ, tracing its roots to the 1967 opening of Arcadia Retirement Residence. It operates two continuing care retirement communities in Honolulu - Arcadia Retirement Residence and 15 Craigside - along with home care and adult day programs."
 headquarters: "Honolulu, Hawaii"
 website: "https://arcadia.org"
 facility_count_approx: 2

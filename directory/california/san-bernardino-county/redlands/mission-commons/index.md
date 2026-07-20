@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Mission Commons"
-seo_title: "Mission Commons — Senior Living in Redlands, CA"
+seo_title: "Mission Commons - Senior Living in Redlands, CA"
 description: "Mission Commons is an independent living community in Redlands located about a third of a mile from Loma Linda University Heart & Surgical Hospital. Residents"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Mission Commons", "url": "/directory/california/san-bernardino-county/redlands/mission-commons/"}]
 nearby: []

@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "All Saints Adult Family Home"
-seo_title: "All Saints Adult Family Home — Senior Living in Federal Way, WA"
+seo_title: "All Saints Adult Family Home - Senior Living in Federal Way, WA"
 description: "All Saints Adult Family Home is a family-owned, licensed six-bed adult family home in Federal Way offering 24-hour memory care in a home with private rooms an"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "All Saints Adult Family Home", "url": "/directory/washington/king-county/federal-way/all-saints-adult-family-home/"}]
 nearby: [{"name": "Avalon Care Center - Federal Way", "url": "/directory/washington/king-county/federal-way/avalon-care-center-federal-way/", "city_name": "Federal Way", "state_abbrev": "WA", "care_levels": ["skilled-nursing", "respite-care"], "records_note": false, "facility_size": "large", "description": "A 120-bed skilled nursing and rehabilitation center in Federal Way offering short-term rehab and long-term care."}, {"name": "Twin Lake Adult Family Home", "url": "/directory/washington/king-county/federal-way/twin-lake-adult-family-home/", "city_name": "Federal Way", "state_abbrev": "WA", "care_levels": ["adult-family-home", "memory-care"], "records_note": false, "facility_size": "small", "description": "Twin Lake Adult Family Home is a licensed six-bed adult family home in Federal Way, set beside a golf course. It offers memory care and personal care in a small, home-like setting with hands-on daily involvement from the owner and caregivers."}]

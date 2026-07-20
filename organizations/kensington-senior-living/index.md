@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Kensington Senior Living"
-seo_title: "Kensington Senior Living — Senior Living Communities & Locations"
+seo_title: "Kensington Senior Living - Senior Living Communities & Locations"
 description: "An assisted living and memory care operator whose communities promise an extended aging-in-place license model, allowing residents to stay through higher care"
 org_description: "An assisted living and memory care operator whose communities promise an extended aging-in-place license model, allowing residents to stay through higher care needs. Operates roughly ten communities on the East and West Coasts, including Kensington Place Redwood City."
 headquarters: "Reston, Virginia"

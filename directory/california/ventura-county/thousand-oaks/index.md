@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Thousand Oaks, CA"
-seo_title: "Senior Living in Thousand Oaks, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Thousand Oaks, CA - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Thousand Oaks, California: care levels, sizes, and official inspection records for each."
 city_name: "Thousand Oaks"
 county_name: "Ventura"

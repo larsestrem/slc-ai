@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Ada County, ID Senior Living"
-seo_title: "Senior Living in Ada County, ID — 19 Communities"
+seo_title: "Senior Living in Ada County, ID - 19 Communities"
 description: "Senior living in Ada County, Idaho: 19 communities across 3 cities, with care levels and inspection links."
 county_name: "Ada"
 state_name: "Idaho"

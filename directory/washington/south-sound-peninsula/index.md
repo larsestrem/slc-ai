@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "South Sound & Peninsula Senior Living"
-seo_title: "Senior Living in South Sound & Peninsula, WA — 27 Communities"
-description: "Compare 27 senior living communities in South Sound & Peninsula, Washington — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in South Sound & Peninsula, WA - 27 Communities"
+description: "Compare 27 senior living communities in South Sound & Peninsula, Washington - care levels, review evidence, and official inspection links for each."
 region_name: "South Sound & Peninsula"
 state: "washington"
 state_name: "Washington"

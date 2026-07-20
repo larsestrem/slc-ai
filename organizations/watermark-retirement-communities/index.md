@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Watermark Retirement Communities"
-seo_title: "Watermark Retirement Communities — Senior Living Communities & Locations"
+seo_title: "Watermark Retirement Communities - Senior Living Communities & Locations"
 description: "Watermark Retirement Communities is a Tucson-headquartered senior living operator managing dozens of communities across the United States, spanning independen"
 org_description: "Watermark Retirement Communities is a Tucson-headquartered senior living operator managing dozens of communities across the United States, spanning independent living, assisted living, and memory care. Its Arizona portfolio includes The Fountains at La Cholla and The Hacienda at the Canyon in Tucson."
 headquarters: "Tucson, Arizona"

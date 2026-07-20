@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Long Beach, CA"
-seo_title: "Senior Living in Long Beach, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Long Beach, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Long Beach, California: care levels, sizes, and official inspection records for each."
 city_name: "Long Beach"
 county_name: "Los Angeles"

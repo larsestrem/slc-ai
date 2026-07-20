@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Garden Isle Healthcare and Rehabilitation Center"
-seo_title: "Garden Isle Healthcare and Rehabilitation Center — Senior Living in Lihue, HI"
+seo_title: "Garden Isle Healthcare and Rehabilitation Center - Senior Living in Lihue, HI"
 description: "A 109-bed skilled nursing facility located on the Wilcox Memorial Hospital campus in Lihue, operated by Ohana Pacific Health."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Garden Isle Healthcare and Rehabilitation Center", "url": "/directory/hawaii/kauai-county/lihue/garden-isle-healthcare-and-rehabilitation-center/"}]
 nearby: [{"name": "Regency at Puakea", "url": "/directory/hawaii/kauai-county/lihue/regency-at-puakea/", "city_name": "Lihue", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "records_note": false, "facility_size": "large", "description": "Regency at Puakea is Kauai's primary retirement and assisted living community, with 82 apartments on 5.65 landscaped acres in Lihue featuring a pool, spa, and mountain views."}]

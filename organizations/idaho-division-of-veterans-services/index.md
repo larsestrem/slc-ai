@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Idaho Division of Veterans Services"
-seo_title: "Idaho Division of Veterans Services — Senior Living Communities & Locations"
+seo_title: "Idaho Division of Veterans Services - Senior Living Communities & Locations"
 description: "The Idaho Division of Veterans Services operates the state's veterans homes, which provide skilled nursing care for eligible Idaho veterans and their spouses."
 org_description: "The Idaho Division of Veterans Services operates the state's veterans homes, which provide skilled nursing care for eligible Idaho veterans and their spouses. It runs the Idaho State Veterans Homes in Boise, Pocatello, Lewiston and Post Falls."
 headquarters: "Boise, Idaho"

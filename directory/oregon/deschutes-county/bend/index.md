@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Bend, OR"
-seo_title: "Senior Living in Bend, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Bend, OR - Assisted Living, Memory Care & More"
 description: "Compare 10 senior living communities in Bend, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Bend"
 county_name: "Deschutes"

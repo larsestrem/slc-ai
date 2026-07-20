@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Alameda County, CA Senior Living"
-seo_title: "Senior Living in Alameda County, CA — 9 Communities"
+seo_title: "Senior Living in Alameda County, CA - 9 Communities"
 description: "Senior living in Alameda County, California: 9 communities across 8 cities, with care levels and inspection links."
 county_name: "Alameda"
 state_name: "California"

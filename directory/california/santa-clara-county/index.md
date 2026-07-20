@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Santa Clara County, CA Senior Living"
-seo_title: "Senior Living in Santa Clara County, CA — 8 Communities"
+seo_title: "Senior Living in Santa Clara County, CA - 8 Communities"
 description: "Senior living in Santa Clara County, California: 8 communities across 5 cities, with care levels and inspection links."
 county_name: "Santa Clara"
 state_name: "California"

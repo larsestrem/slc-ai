@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Albany, OR"
-seo_title: "Senior Living in Albany, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Albany, OR - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Albany, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Albany"
 county_name: "Linn"

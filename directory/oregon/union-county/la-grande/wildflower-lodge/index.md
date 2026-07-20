@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Wildflower Lodge"
-seo_title: "Wildflower Lodge — Senior Living in La Grande, OR"
+seo_title: "Wildflower Lodge - Senior Living in La Grande, OR"
 description: "Wildflower Lodge is an assisted living and memory care community in La Grande with 43 assisted living apartments and 30 memory care apartments, operated by Co"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Wildflower Lodge", "url": "/directory/oregon/union-county/la-grande/wildflower-lodge/"}]
 nearby: []

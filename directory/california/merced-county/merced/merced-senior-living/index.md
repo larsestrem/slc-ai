@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Merced Senior Living"
-seo_title: "Merced Senior Living — Senior Living in Merced, CA"
+seo_title: "Merced Senior Living - Senior Living in Merced, CA"
 description: "Merced Senior Living (formerly Pacifica Senior Living Merced) is a 93-bed community offering independent living, assisted living, memory care, and respite car"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Merced Senior Living", "url": "/directory/california/merced-county/merced/merced-senior-living/"}]
 nearby: []

@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Crestavilla"
-seo_title: "Crestavilla — Senior Living in Laguna Niguel, CA"
+seo_title: "Crestavilla - Senior Living in Laguna Niguel, CA"
 description: "Crestavilla is a luxury Kisco Signature senior living community in Laguna Niguel offering independent living, assisted living and memory care in a 250-bed cam"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Crestavilla", "url": "/directory/california/orange-county/laguna-niguel/crestavilla/"}]
 nearby: []

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Kaneohe, HI"
-seo_title: "Senior Living in Kaneohe, HI — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Kaneohe, HI - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Kaneohe, Hawaii: care levels, sizes, and official inspection records for each."
 city_name: "Kaneohe"
 county_name: "Honolulu"

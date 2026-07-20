@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Sunshine Retirement Living"
-seo_title: "Sunshine Retirement Living — Senior Living Communities & Locations"
+seo_title: "Sunshine Retirement Living - Senior Living Communities & Locations"
 description: "Senior living operator headquartered in Bend, Oregon, managing 41 retirement communities across 18 states. Sunshine offers senior apartments, independent livi"
 org_description: "Senior living operator headquartered in Bend, Oregon, managing 41 retirement communities across 18 states. Sunshine offers senior apartments, independent living, assisted living, and memory care, with an emphasis on all-inclusive independent retirement living."
 headquarters: "Bend, Oregon"

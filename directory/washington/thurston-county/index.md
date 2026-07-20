@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Thurston County, WA Senior Living"
-seo_title: "Senior Living in Thurston County, WA — 6 Communities"
+seo_title: "Senior Living in Thurston County, WA - 6 Communities"
 description: "Senior living in Thurston County, Washington: 6 communities across 2 cities, with care levels and inspection links."
 county_name: "Thurston"
 state_name: "Washington"

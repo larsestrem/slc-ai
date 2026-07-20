@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Sycamore Glen"
-seo_title: "Sycamore Glen — Senior Living in Chico, CA"
+seo_title: "Sycamore Glen - Senior Living in Chico, CA"
 description: "Sycamore Glen is an active senior community in Chico that is also licensed for assisted living, with staff available to support activities of daily living suc"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sycamore Glen", "url": "/directory/california/butte-county/chico/sycamore-glen/"}]
 nearby: []

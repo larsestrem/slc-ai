@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Christian Living Communities"
-seo_title: "Christian Living Communities — Senior Living Communities & Locations"
+seo_title: "Christian Living Communities - Senior Living Communities & Locations"
 description: "Christian Living Communities is a Denver-based nonprofit senior care organization founded in 1972. It owns and operates senior living communities in the Denve"
 org_description: "Christian Living Communities is a Denver-based nonprofit senior care organization founded in 1972. It owns and operates senior living communities in the Denver metro area, including the Holly Creek Life Plan community in Centennial, offering the full continuum from independent living through skilled nursing."
 headquarters: "Denver, Colorado"

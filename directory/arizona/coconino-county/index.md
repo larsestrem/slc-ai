@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Coconino County, AZ Senior Living"
-seo_title: "Senior Living in Coconino County, AZ — 1 Communities"
+seo_title: "Senior Living in Coconino County, AZ - 1 Communities"
 description: "Senior living in Coconino County, Arizona: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Coconino"
 state_name: "Arizona"

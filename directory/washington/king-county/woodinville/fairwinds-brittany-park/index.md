@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Fairwinds - Brittany Park"
-seo_title: "Fairwinds - Brittany Park — Senior Living in Woodinville, WA"
+seo_title: "Fairwinds - Brittany Park - Senior Living in Woodinville, WA"
 description: "Fairwinds - Brittany Park is a Leisure Care retirement community in the heart of Woodinville offering independent living and assisted living. U.S."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Fairwinds - Brittany Park", "url": "/directory/washington/king-county/woodinville/fairwinds-brittany-park/"}]
 nearby: []

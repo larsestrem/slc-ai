@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Avamere"
-seo_title: "Avamere — Senior Living Communities & Locations"
+seo_title: "Avamere - Senior Living Communities & Locations"
 description: "The Avamere Family of Companies, founded in 1995 and headquartered in Wilsonville, Oregon, began as a single nursing facility in Hillsboro, Oregon. It operate"
 org_description: "The Avamere Family of Companies, founded in 1995 and headquartered in Wilsonville, Oregon, began as a single nursing facility in Hillsboro, Oregon. It operates nearly 50 independent living, assisted living, transitional care, and skilled nursing facilities, concentrated in Oregon, Washington, and Colorado, along with ancillary companies providing rehabilitation, home health, and hospice services."
 headquarters: "Wilsonville, Oregon"

@@ -3,9 +3,9 @@ layout: default
 ---
 <h1>{{ page.state_name }} Senior Living Facilities &amp; Care Homes</h1>
 {%- if page.regions %}
-<p class="lead">{{ page.facility_count }} senior living communities in {{ page.state_name }}. Pick your region — each color on the map is one region — and browse its communities city by city.</p>
+<p class="lead">{{ page.facility_count }} senior living communities in {{ page.state_name }}. Pick your region - each color on the map is one region - and browse its communities city by city.</p>
 {%- else %}
-<p class="lead">{{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in {{ page.state_name }} — pick a city on the map, or browse the list. Hover or tap a community to see where it is.</p>
+<p class="lead">{{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in {{ page.state_name }} - pick a city on the map, or browse the list. Hover or tap a community to see where it is.</p>
 {%- endif %}
 
 {{ content }}
@@ -19,12 +19,12 @@ layout: default
            aria-label="Map of {{ page.state_name }} with communities colored by region">
         <path d="{{ page.map.outline }}" class="map-shape"/>
         {%- for d in page.map.dots %}
-        <a href="{{ page.crumbs[1].url }}{{ d.region }}/" data-region="{{ d.region }}" aria-label="{{ d.label | replace: '(', '— ' | replace: ')', ' communities' }}">
+        <a href="{{ page.crumbs[1].url }}{{ d.region }}/" data-region="{{ d.region }}" aria-label="{{ d.label | replace: '(', ' - ' | replace: ')', ' communities' }}">
           <circle cx="{{ d.x }}" cy="{{ d.y }}" r="{{ d.r }}" class="map-dot rc{{ d.color | default: 0 }}"><title>{{ d.label }}</title></circle>
         </a>
         {%- endfor %}
       </svg>
-      <figcaption>Each color is a region — pick a region below to browse its communities.</figcaption>
+      <figcaption>Each color is a region - pick a region below to browse its communities.</figcaption>
     </figure>
     {%- endif %}
     <div class="state-resources">
@@ -33,7 +33,7 @@ layout: default
       <ul>
         {%- for c in page.care_level_counts %}
         {%- assign info = site.data.care_levels[c.slug] %}
-        <li><a href="{{ info.guide }}">{{ info.label }}</a> — {{ c.count }}</li>
+        <li><a href="{{ info.guide }}">{{ info.label }}</a> - {{ c.count }}</li>
         {%- endfor %}
       </ul>
       {%- endif %}
@@ -97,12 +97,12 @@ layout: default
            aria-label="Map of {{ page.state_name }} showing cities with senior living communities">
         <path d="{{ page.map.outline }}" class="map-shape"/>
         {%- for d in page.map.dots %}
-        <a href="#c-{{ d.slug }}" data-city="{{ d.slug }}" aria-label="{{ d.label | replace: '(', '— ' | replace: ')', ' communities' }}">
+        <a href="#c-{{ d.slug }}" data-city="{{ d.slug }}" aria-label="{{ d.label | replace: '(', ' - ' | replace: ')', ' communities' }}">
           <circle cx="{{ d.x }}" cy="{{ d.y }}" r="{{ d.r }}" class="map-dot"><title>{{ d.label }}</title></circle>
         </a>
         {%- endfor %}
       </svg>
-      <figcaption>Simplified map — each dot is a city with communities (hover or tap for the name; dot size reflects how many). Helpful when your parents live in a state you don't know well.</figcaption>
+      <figcaption>Simplified map - each dot is a city with communities (hover or tap for the name; dot size reflects how many). Helpful when your parents live in a state you don't know well.</figcaption>
     </figure>
     {%- endif %}
 
@@ -112,7 +112,7 @@ layout: default
       <ul>
         {%- for c in page.care_level_counts %}
         {%- assign info = site.data.care_levels[c.slug] %}
-        <li><a href="{{ info.guide }}">{{ info.label }}</a> — {{ c.count }} {% if c.count == 1 %}community{% else %}communities{% endif %}</li>
+        <li><a href="{{ info.guide }}">{{ info.label }}</a> - {{ c.count }} {% if c.count == 1 %}community{% else %}communities{% endif %}</li>
         {%- endfor %}
       </ul>
       {%- endif %}
@@ -120,17 +120,17 @@ layout: default
       {%- if page.licensing %}
       <h2>How {{ page.state_name }} regulates senior care</h2>
       <p>{{ page.licensing.note }}</p>
-      {%- if page.licensing.small_home %}<p><strong>Small homes:</strong> {{ page.licensing.small_home }} — <a href="/guides/adult-family-homes/">how to evaluate one</a>.</p>{% endif %}
+      {%- if page.licensing.small_home %}<p><strong>Small homes:</strong> {{ page.licensing.small_home }} - <a href="/guides/adult-family-homes/">how to evaluate one</a>.</p>{% endif %}
       {%- endif %}
 
       <h2>{{ page.state_name }} resources for families</h2>
       <ul>
         {%- if page.licensing.lookup_url %}
-        <li><a href="{{ page.licensing.lookup_url }}" rel="noopener">{{ page.licensing.agency }}</a> — license &amp; inspection lookup (<a href="/guides/reading-inspection-reports-and-ratings/">how to read reports</a>)</li>
+        <li><a href="{{ page.licensing.lookup_url }}" rel="noopener">{{ page.licensing.agency }}</a> - license &amp; inspection lookup (<a href="/guides/reading-inspection-reports-and-ratings/">how to read reports</a>)</li>
         {%- endif %}
-        <li>Eldercare Locator — 1-800-677-1116 — free federal referral line to local aging services</li>
-        <li>Your local Area Agency on Aging — options counseling and <a href="/guides/government-assistance-programs/">help paying for care</a></li>
-        <li>Long-Term Care Ombudsman — resident advocates who know each facility's complaint history</li>
+        <li>Eldercare Locator - 1-800-677-1116 - free federal referral line to local aging services</li>
+        <li>Your local Area Agency on Aging - options counseling and <a href="/guides/government-assistance-programs/">help paying for care</a></li>
+        <li>Long-Term Care Ombudsman - resident advocates who know each facility's complaint history</li>
       </ul>
 
       {%- assign sslug = page.crumbs[1].url | remove: '/directory/' | remove: '/' %}
@@ -164,8 +164,7 @@ layout: default
       </ul>
     </section>
     {%- endfor %}
-    <p class="notice">Know a community that's missing? Coverage grows state by state —
-    <a href="/for-communities/">add or update a listing</a>.</p>
+    <p class="notice">Know a community that's missing? Coverage grows state by state - <a href="/for-communities/">add or update a listing</a>.</p>
   </div>
 </div>
 

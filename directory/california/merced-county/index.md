@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Merced County, CA Senior Living"
-seo_title: "Senior Living in Merced County, CA — 1 Communities"
+seo_title: "Senior Living in Merced County, CA - 1 Communities"
 description: "Senior living in Merced County, California: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Merced"
 state_name: "California"

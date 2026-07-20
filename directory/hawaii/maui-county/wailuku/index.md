@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Wailuku, HI"
-seo_title: "Senior Living in Wailuku, HI — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Wailuku, HI - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Wailuku, Hawaii: care levels, sizes, and official inspection records for each."
 city_name: "Wailuku"
 county_name: "Maui"

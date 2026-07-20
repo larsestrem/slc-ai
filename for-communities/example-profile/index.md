@@ -1,8 +1,8 @@
 ---
 layout: facility
 title: "Alder Grove Senior Living"
-seo_title: "Sample Profile — What a Complete Community Listing Looks Like"
-description: "A sample of a fully completed, community-verified profile — photos, care capabilities, daily life, floor plans, and the community's own answers."
+seo_title: "Sample Profile - What a Complete Community Listing Looks Like"
+description: "A sample of a fully completed, community-verified profile - photos, care capabilities, daily life, floor plans, and the community's own answers."
 noindex: true
 sitemap: false
 sample_notice: "Alder Grove Senior Living is a fictional community, and every image on this page is an illustration, not a photograph. This page exists to show families and community staff what a fully completed, community-verified listing looks like."
@@ -46,7 +46,7 @@ contributors:
     sections: "photos, activities"
     date: "2026-07-15"
 verified_date: "2026-07-01"
-community_statement: "We built Alder Grove around one idea: your parent's day should still feel like their own. Residents keep their routines, their coffee order, and their say — and our job is to quietly make each day easier than the one before."
+community_statement: "We built Alder Grove around one idea: your parent's day should still feel like their own. Residents keep their routines, their coffee order, and their say - and our job is to quietly make each day easier than the one before."
 photos:
   - src: /assets/demo/exterior.svg
     alt: "Illustration of the front entrance and grounds of Alder Grove Senior Living"
@@ -75,7 +75,7 @@ photos:
 care_details:
   - level: independent-living
     units: "48 apartments"
-    description: "Studio to two-bedroom apartments with full kitchens, weekly housekeeping, and access to all dining and activities — for residents who live on their own and want the community around them."
+    description: "Studio to two-bedroom apartments with full kitchens, weekly housekeeping, and access to all dining and activities - for residents who live on their own and want the community around them."
   - level: assisted-living
     units: "56 apartments"
     description: "Personal care built around an individual service plan: help with bathing, dressing, and medications, reviewed with the family every 90 days and after any change in health."
@@ -99,10 +99,10 @@ support_services:
   - "Weekly housekeeping and linen service"
   - "Salon and barber shop"
   - "Chaplain and interfaith services"
-dining_text: "Restaurant-style dining with open seating from 7 a.m. to 7 p.m. — residents eat when they're hungry, not on a bell. Menus rotate over four weeks with a standing everyday menu; low-sodium, diabetic-friendly, and mechanical-soft options are available at every meal. Families are welcome at any meal; guest meals are $8."
+dining_text: "Restaurant-style dining with open seating from 7 a.m. to 7 p.m. - residents eat when they're hungry, not on a bell. Menus rotate over four weeks with a standing everyday menu; low-sodium, diabetic-friendly, and mechanical-soft options are available at every meal. Families are welcome at any meal; guest meals are $8."
 dining_highlights:
   - "Private dining room bookable free for family birthdays and holidays"
-  - "Resident food council meets monthly with the chef — menus change because of it"
+  - "Resident food council meets monthly with the chef - menus change because of it"
   - "Memory-care neighborhood has its own smaller dining room with a consistent staff team"
 activities_list:
   - "Daily exercise & balance classes"
@@ -125,7 +125,7 @@ amenities:
   - "Guest suite for visiting family"
 rooms_url: /for-communities/example-profile/rooms/
 rooms_teaser: "Four apartment types from a 380 sq ft studio to a 720 sq ft two-bedroom, with sample floor plans, what's included, and questions to ask about each."
-concern_response: "Any concern — from a missing laundry bag to a care issue — goes first to the shift supervisor, who must respond to the family the same day. Anything touching health or safety goes immediately to our Director of Nursing and is logged in our quality system. We call the family with what we found and what we changed, in writing if they prefer it. Every complaint is reviewed at our monthly quality meeting; last quarter, that's why we changed our evening medication rounds and added a second weekend laundry cycle. If a family isn't satisfied with our answer, we tell them how to reach the state ombudsman — we'd rather be checked than doubted."
+concern_response: "Any concern - from a missing laundry bag to a care issue - goes first to the shift supervisor, who must respond to the family the same day. Anything touching health or safety goes immediately to our Director of Nursing and is logged in our quality system. We call the family with what we found and what we changed, in writing if they prefer it. Every complaint is reviewed at our monthly quality meeting; last quarter, that's why we changed our evening medication rounds and added a second weekend laundry cycle. If a family isn't satisfied with our answer, we tell them how to reach the state ombudsman - we'd rather be checked than doubted."
 reviews_search_url: "https://www.google.com/search?q=Alder+Grove+Senior+Living+Rivertown+OR+reviews"
 licensing:
   agency: "Oregon Department of Human Services, Aging and People with Disabilities"

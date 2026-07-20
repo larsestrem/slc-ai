@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Irvine, CA"
-seo_title: "Senior Living in Irvine, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Irvine, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Irvine, California: care levels, sizes, and official inspection records for each."
 city_name: "Irvine"
 county_name: "Orange"

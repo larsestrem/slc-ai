@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Yakima, WA"
-seo_title: "Senior Living in Yakima, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Yakima, WA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Yakima, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Yakima"
 county_name: "Yakima"

@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Cogir Senior Living"
-seo_title: "Cogir Senior Living — Senior Living Communities & Locations"
+seo_title: "Cogir Senior Living - Senior Living Communities & Locations"
 description: "Cogir Senior Living is the U.S. senior housing arm of Montreal-based Cogir Real Estate, with its U.S. headquarters in Scottsdale, Arizona. After merging with "
 org_description: "Cogir Senior Living is the U.S. senior housing arm of Montreal-based Cogir Real Estate, with its U.S. headquarters in Scottsdale, Arizona. After merging with Cadence Living, the company grew from about a dozen U.S. communities in 2020 to nearly 100 communities totaling roughly 11,000 units, offering independent living, assisted living, and memory care."
 headquarters: "Scottsdale, Arizona"

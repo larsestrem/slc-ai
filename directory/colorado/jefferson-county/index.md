@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Jefferson County, CO Senior Living"
-seo_title: "Senior Living in Jefferson County, CO — 2 Communities"
+seo_title: "Senior Living in Jefferson County, CO - 2 Communities"
 description: "Senior living in Jefferson County, Colorado: 2 communities across 2 cities, with care levels and inspection links."
 county_name: "Jefferson"
 state_name: "Colorado"

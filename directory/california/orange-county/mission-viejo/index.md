@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Mission Viejo, CA"
-seo_title: "Senior Living in Mission Viejo, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Mission Viejo, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Mission Viejo, California: care levels, sizes, and official inspection records for each."
 city_name: "Mission Viejo"
 county_name: "Orange"

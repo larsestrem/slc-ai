@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Merrill Gardens"
-seo_title: "Merrill Gardens — Senior Living Communities & Locations"
+seo_title: "Merrill Gardens - Senior Living Communities & Locations"
 description: "Merrill Gardens was founded in 1993 with a single community in Seattle and has grown to operate about 65 senior living communities across 17 states. Part of t"
 org_description: "Merrill Gardens was founded in 1993 with a single community in Seattle and has grown to operate about 65 senior living communities across 17 states. Part of the R.D. Merrill family of companies, it offers independent living, assisted living, and memory care, and has absorbed several former Leisure Care-managed communities, including the former Ackerly at Sherwood in Oregon."
 headquarters: "Seattle, Washington"

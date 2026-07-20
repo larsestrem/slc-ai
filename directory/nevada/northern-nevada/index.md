@@ -2,8 +2,8 @@
 noindex: true
 layout: "region"
 title: "Northern Nevada (Reno & Rural) Senior Living"
-seo_title: "Senior Living in Northern Nevada (Reno & Rural), NV — 12 Communities"
-description: "Compare 12 senior living communities in Northern Nevada (Reno & Rural), Nevada — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Northern Nevada (Reno & Rural), NV - 12 Communities"
+description: "Compare 12 senior living communities in Northern Nevada (Reno & Rural), Nevada - care levels, review evidence, and official inspection links for each."
 region_name: "Northern Nevada (Reno & Rural)"
 state: "nevada"
 state_name: "Nevada"

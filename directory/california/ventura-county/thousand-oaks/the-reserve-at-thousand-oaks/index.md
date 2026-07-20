@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "The Reserve at Thousand Oaks"
-seo_title: "The Reserve at Thousand Oaks — Senior Living in Thousand Oaks, CA"
+seo_title: "The Reserve at Thousand Oaks - Senior Living in Thousand Oaks, CA"
 description: "An MBK Senior Living community in Thousand Oaks offering independent living, assisted living, memory care, and respite care. Amenities include on-site therapy"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Reserve at Thousand Oaks", "url": "/directory/california/ventura-county/thousand-oaks/the-reserve-at-thousand-oaks/"}]
 nearby: [{"name": "Belmont Village Thousand Oaks", "url": "/directory/california/ventura-county/thousand-oaks/belmont-village-thousand-oaks/", "city_name": "Thousand Oaks", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Mediterranean-style assisted living and memory care community with views of the Santa Monica Mountains, offering 105 assisted living residences plus a separate secured memory care neighborhood with 34 private apartments. A U.S."}, {"name": "University Village Thousand Oaks", "url": "/directory/california/ventura-county/thousand-oaks/university-village-thousand-oaks/", "city_name": "Thousand Oaks", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "ccrc"], "records_note": false, "facility_size": "large", "description": "A continuing care retirement community in Thousand Oaks offering independent living, assisted living, and memory care with 24-hour care, dining, and medication management on a large campus."}]

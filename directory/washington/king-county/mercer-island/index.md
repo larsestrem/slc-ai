@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Mercer Island, WA"
-seo_title: "Senior Living in Mercer Island, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Mercer Island, WA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Mercer Island, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Mercer Island"
 county_name: "King"

@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Deschutes County, OR Senior Living"
-seo_title: "Senior Living in Deschutes County, OR — 13 Communities"
+seo_title: "Senior Living in Deschutes County, OR - 13 Communities"
 description: "Senior living in Deschutes County, Oregon: 13 communities across 4 cities, with care levels and inspection links."
 county_name: "Deschutes"
 state_name: "Oregon"

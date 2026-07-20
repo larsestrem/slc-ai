@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Ventura County, CA Senior Living"
-seo_title: "Senior Living in Ventura County, CA — 9 Communities"
+seo_title: "Senior Living in Ventura County, CA - 9 Communities"
 description: "Senior living in Ventura County, California: 9 communities across 3 cities, with care levels and inspection links."
 county_name: "Ventura"
 state_name: "California"

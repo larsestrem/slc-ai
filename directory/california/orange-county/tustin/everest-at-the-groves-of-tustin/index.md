@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Everest at The Groves of Tustin"
-seo_title: "Everest at The Groves of Tustin — Senior Living in Tustin, CA"
+seo_title: "Everest at The Groves of Tustin - Senior Living in Tustin, CA"
 description: "Assisted living and memory care community on Bryan Avenue in Tustin, long known locally as The Groves of Tustin and now operated by Everest Senior Living. Off"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Everest at The Groves of Tustin", "url": "/directory/california/orange-county/tustin/everest-at-the-groves-of-tustin/"}]
 nearby: []

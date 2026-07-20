@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Emerald Communities"
-seo_title: "Emerald Communities — Senior Living Communities & Locations"
+seo_title: "Emerald Communities - Senior Living Communities & Locations"
 description: "Emerald Communities is a nonprofit operator of Pacific Northwest life plan (CCRC) communities, including Emerald Heights in Redmond and Heron's Key in Gig Har"
 org_description: "Emerald Communities is a nonprofit operator of Pacific Northwest life plan (CCRC) communities, including Emerald Heights in Redmond and Heron's Key in Gig Harbor. Its communities offer a full continuum from independent living through skilled nursing under a Life Care contract model."
 headquarters: "Redmond, Washington"

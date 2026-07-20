@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Terms of Service"
-description: "The terms that govern use of senior.living.community — what this directory is and isn't, accuracy limits, third-party content, community listings, and legal terms."
+description: "The terms that govern use of senior.living.community - what this directory is and isn't, accuracy limits, third-party content, community listings, and legal terms."
 crumbs:
   - name: Terms of Service
     url: /terms/
@@ -13,7 +13,7 @@ These Terms of Service ("Terms") govern your use of senior.living.community (the
 operated by Senior Living Community ("we," "us"). By using the Site, you agree to these Terms
 and to our [Privacy Policy](/privacy/). If you do not agree, please do not use the Site.
 
-## 1. What this Site is — and is not
+## 1. What this Site is - and is not
 
 The Site is an **informational directory and education resource** about senior living
 communities and related topics. It exists to help families research; it is not a substitute
@@ -23,33 +23,33 @@ for professional advice or your own verification.
   placement or referral fees, or receive commissions when anyone moves into a community.
 - **We do not provide medical, legal, or financial advice.** Content about care levels,
   health conditions, government benefits, insurance, taxes, or law is general education only.
-  Decisions in those areas belong with the licensed professionals involved — physicians,
+  Decisions in those areas belong with the licensed professionals involved - physicians,
   attorneys, and benefits counselors.
 - **We do not endorse, recommend, or rank any community.** Listings appear alphabetically.
-  Nothing on the Site is a recommendation to choose — or avoid — any community.
+  Nothing on the Site is a recommendation to choose - or avoid - any community.
 - **We are not affiliated with any facility we list** unless a page expressly says otherwise.
 
-## 2. Accuracy of information — verify everything independently
+## 2. Accuracy of information - verify everything independently
 
 We work to keep listings accurate: facility details are checked against public sources and
 current listings, and each profile shows the date of its last review. But senior living
-changes constantly — ownership, staff, services, prices, licenses, and availability can all
+changes constantly - ownership, staff, services, prices, licenses, and availability can all
 change the day after we check.
 
 **We therefore make no guarantee that any information on the Site is accurate, complete, or
-current, and you must independently verify all information — directly with the community and
-with the official government sources we link to — before making any decision.** This
+current, and you must independently verify all information - directly with the community and
+with the official government sources we link to - before making any decision.** This
 especially includes care capabilities, staffing, pricing, and license status. Never make a
 placement decision based on this Site alone.
 
-If you find an error, please tell us at **listings@senior.living.community** — we correct
+If you find an error, please tell us at **listings@senior.living.community** - we correct
 verified errors promptly.
 
 ## 3. Ratings, reviews, and official records
 
 We do not publish ratings, scores, reviews, or characterizations of any community's quality
-or regulatory record. Instead, profiles link to primary sources — Medicare Care Compare,
-state licensing agencies, and third-party review platforms — where you can read the current
+or regulatory record. Instead, profiles link to primary sources - Medicare Care Compare,
+state licensing agencies, and third-party review platforms - where you can read the current
 record yourself. Some profiles include a note encouraging you to read the official record
 especially carefully; that note says nothing about what the record contains, and you should
 always read the source directly.
@@ -83,13 +83,12 @@ Community Content, you (and the community you represent) agree that:
 - **Photos of identifiable people** require the written consent of those people (or their
   legal representatives), which you confirm you hold. See our
   [photo guidelines](/for-communities/photos/).
-- **You consent to attribution** — your name, title, and submission date appear with your
+- **You consent to attribution** - your name, title, and submission date appear with your
   community's listing.
 - **Process, not incidents.** Where we ask about complaint handling, we ask about your
   process only. Do not submit details about any specific incident, resident, family, or
   employee; we will not publish them.
-- **Your content follows our [Content Guidelines](/for-communities/content-guidelines/)** —
-  no specific incidents, complaints, or individuals; no comparisons to or denigration of
+- **Your content follows our [Content Guidelines](/for-communities/content-guidelines/)** - no specific incidents, complaints, or individuals; no comparisons to or denigration of
   other communities; specific, honest descriptions of what your community does.
 - **We may edit for format, clarity, and guideline compliance, decline, or remove** any
   Community Content or image at our discretion. We show you what we plan to publish before
@@ -98,7 +97,7 @@ Community Content, you (and the community you represent) agree that:
   in the future; if we do, it will never buy placement, ranking, or favorable treatment (see
   Section 6), and we'll tell claimed communities before any change.
 
-## 6. Placement is never paid — and paid relationships are disclosed
+## 6. Placement is never paid - and paid relationships are disclosed
 
 No community can pay to be listed, ranked, featured, or placed above another, and no payment
 of any kind changes what a listing says. We offer separate, optional
@@ -121,8 +120,8 @@ We may suspend or refuse access, and remove any content, at our discretion.
 
 ## 8. Intellectual property
 
-The Site's original content — guide text, descriptions we wrote, illustrations, design, and
-code — belongs to us or our licensors and is protected by copyright. You may view, print,
+The Site's original content - guide text, descriptions we wrote, illustrations, design, and
+code - belongs to us or our licensors and is protected by copyright. You may view, print,
 and share pages for personal, non-commercial use with attribution. Facility names and
 trademarks belong to their owners; their appearance in the directory is factual reference,
 not affiliation. Community Content belongs to the community that submitted it, licensed to
@@ -157,7 +156,7 @@ to the fullest extent permitted.
 ## 11. Indemnification
 
 If you submit Community Content, you agree to indemnify and hold us harmless from claims,
-damages, and reasonable costs arising from that content — including claims that it is
+damages, and reasonable costs arising from that content - including claims that it is
 inaccurate, infringing, or was submitted without authority or required consents.
 
 ## 12. Changes, termination, and general terms

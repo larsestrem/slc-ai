@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Nevada County, CA Senior Living"
-seo_title: "Senior Living in Nevada County, CA — 2 Communities"
+seo_title: "Senior Living in Nevada County, CA - 2 Communities"
 description: "Senior living in Nevada County, California: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Nevada"
 state_name: "California"

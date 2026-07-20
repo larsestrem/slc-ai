@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Stonewall Gardens Assisted Living"
-seo_title: "Stonewall Gardens Assisted Living — Senior Living in Palm Springs, CA"
+seo_title: "Stonewall Gardens Assisted Living - Senior Living in Palm Springs, CA"
 description: "Boutique assisted living community of roughly two dozen studio and one-bedroom apartments on North Palm Canyon Drive, notable as Southern California's first a"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Stonewall Gardens Assisted Living", "url": "/directory/california/riverside-county/palm-springs/stonewall-gardens-assisted-living/"}]
 nearby: []

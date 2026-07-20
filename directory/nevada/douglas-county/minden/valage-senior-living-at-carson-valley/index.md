@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Valage Senior Living at Carson Valley"
-seo_title: "Valage Senior Living at Carson Valley — Senior Living in Minden, NV"
+seo_title: "Valage Senior Living at Carson Valley - Senior Living in Minden, NV"
 description: "Newer assisted living and memory care community in Minden serving the Carson Valley. The all-inclusive monthly fee covers three meals a day plus snacks, weekl"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Valage Senior Living at Carson Valley", "url": "/directory/nevada/douglas-county/minden/valage-senior-living-at-carson-valley/"}]
 nearby: []

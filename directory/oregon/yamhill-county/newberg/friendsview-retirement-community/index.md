@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Friendsview Retirement Community"
-seo_title: "Friendsview Retirement Community — Senior Living in Newberg, OR"
+seo_title: "Friendsview Retirement Community - Senior Living in Newberg, OR"
 description: "Friendsview is a Quaker-heritage, faith-based continuing care retirement community serving Newberg since 1961, located on a 27-acre campus near George Fox Uni"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Friendsview Retirement Community", "url": "/directory/oregon/yamhill-county/newberg/friendsview-retirement-community/"}]
 nearby: [{"name": "Willow Place", "url": "/directory/oregon/yamhill-county/newberg/willow-place/", "city_name": "Newberg", "state_abbrev": "OR", "care_levels": ["memory-care"], "records_note": false, "description": "Willow Place is a memory care community in Newberg serving seniors with Alzheimer's disease and other dementias, with 24-hour care overseen by licensed nurses. Originally opened as Huffman House in 1991, it is co-owned and managed by Concepts in Community Living and has also been operated in association with Prestige."}]

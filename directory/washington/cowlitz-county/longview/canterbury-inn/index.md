@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Canterbury Inn"
-seo_title: "Canterbury Inn — Senior Living in Longview, WA"
+seo_title: "Canterbury Inn - Senior Living in Longview, WA"
 description: "Canterbury Inn is a Koelsch Communities property in Longview offering independent living, assisted living and memory care, with licensed nurses on site around"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Canterbury Inn", "url": "/directory/washington/cowlitz-county/longview/canterbury-inn/"}]
 nearby: []

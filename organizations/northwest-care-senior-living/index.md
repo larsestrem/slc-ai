@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Northwest Care Senior Living"
-seo_title: "Northwest Care Senior Living — Senior Living Communities & Locations"
+seo_title: "Northwest Care Senior Living - Senior Living Communities & Locations"
 description: "Northwest Care Senior Living senior living communities: locations in our directory, company facts, and how to evaluate each community."
 facilities: [{"name": "Liberty Shores Senior Living", "url": "/directory/washington/kitsap-county/poulsbo/liberty-shores-senior-living/", "city_name": "Poulsbo", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Liberty Shores Senior Living is a 112-bed assisted living community with specialized dementia care on Liberty Bay in Poulsbo, one of the area's few locally owned and managed communities."}]
 crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Northwest Care Senior Living", "url": "/organizations/northwest-care-senior-living/"}]

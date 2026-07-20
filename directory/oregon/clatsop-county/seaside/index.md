@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Seaside, OR"
-seo_title: "Senior Living in Seaside, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Seaside, OR - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Seaside, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Seaside"
 county_name: "Clatsop"

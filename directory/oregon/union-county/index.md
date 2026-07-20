@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Union County, OR Senior Living"
-seo_title: "Senior Living in Union County, OR — 2 Communities"
+seo_title: "Senior Living in Union County, OR - 2 Communities"
 description: "Senior living in Union County, Oregon: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Union"
 state_name: "Oregon"

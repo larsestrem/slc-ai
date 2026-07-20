@@ -14,12 +14,12 @@ layout: default
            aria-label="Map of {{ page.state_name }} showing {{ page.region_name }} cities with communities">
         <path d="{{ page.map.outline }}" class="map-shape"/>
         {%- for d in page.map.dots %}
-        <a href="#c-{{ d.slug }}" data-city="{{ d.slug }}" aria-label="{{ d.label | replace: '(', '— ' | replace: ')', ' communities' }}">
+        <a href="#c-{{ d.slug }}" data-city="{{ d.slug }}" aria-label="{{ d.label | replace: '(', ' - ' | replace: ')', ' communities' }}">
           <circle cx="{{ d.x }}" cy="{{ d.y }}" r="{{ d.r }}" class="map-dot"><title>{{ d.label }}</title></circle>
         </a>
         {%- endfor %}
       </svg>
-      <figcaption>Cities in this region with listed communities — hover or tap a dot for the name.</figcaption>
+      <figcaption>Cities in this region with listed communities - hover or tap a dot for the name.</figcaption>
     </figure>
     {%- endif %}
     <div class="state-resources">

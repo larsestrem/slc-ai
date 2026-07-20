@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in National City, CA"
-seo_title: "Senior Living in National City, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in National City, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in National City, California: care levels, sizes, and official inspection records for each."
 city_name: "National City"
 county_name: "San Diego"

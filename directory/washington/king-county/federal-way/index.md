@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Federal Way, WA"
-seo_title: "Senior Living in Federal Way, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Federal Way, WA - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Federal Way, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Federal Way"
 county_name: "King"

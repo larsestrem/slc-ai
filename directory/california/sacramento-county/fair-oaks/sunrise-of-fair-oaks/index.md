@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Sunrise of Fair Oaks"
-seo_title: "Sunrise of Fair Oaks — Senior Living in Fair Oaks, CA"
+seo_title: "Sunrise of Fair Oaks - Senior Living in Fair Oaks, CA"
 description: "An assisted living and memory care community on Hazel Avenue in Fair Oaks, part of the national Sunrise Senior Living network. Recognized by U.S. News for Bes"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sunrise of Fair Oaks", "url": "/directory/california/sacramento-county/fair-oaks/sunrise-of-fair-oaks/"}]
 nearby: []

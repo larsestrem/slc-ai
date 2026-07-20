@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Carson City, NV"
-seo_title: "Senior Living in Carson City, NV — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Carson City, NV - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Carson City, Nevada: care levels, sizes, and official inspection records for each."
 city_name: "Carson City"
 county_name: "Carson City"

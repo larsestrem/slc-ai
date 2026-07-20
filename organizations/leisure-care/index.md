@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Leisure Care"
-seo_title: "Leisure Care — Senior Living Communities & Locations"
+seo_title: "Leisure Care - Senior Living Communities & Locations"
 description: "Founded in 1976 and headquartered in Seattle, Leisure Care is one of the nation's largest privately held retirement and assisted living companies. It manages "
 org_description: "Founded in 1976 and headquartered in Seattle, Leisure Care is one of the nation's largest privately held retirement and assisted living companies. It manages independent living, assisted living, and memory care communities across the western United States and beyond, emphasizing a hospitality-driven 'Five-Star Fun' operating style."
 headquarters: "Seattle, Washington"

@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Oakmont Management Group"
-seo_title: "Oakmont Management Group — Senior Living Communities & Locations"
+seo_title: "Oakmont Management Group - Senior Living Communities & Locations"
 description: "Operator of the Oakmont Senior Living portfolio of luxury assisted living and memory care communities, concentrated in California. Communities emphasize resor"
 org_description: "Operator of the Oakmont Senior Living portfolio of luxury assisted living and memory care communities, concentrated in California. Communities emphasize resort-style amenities, chef-driven dining, and dedicated Traditions memory care neighborhoods."
 headquarters: "Irvine, California"

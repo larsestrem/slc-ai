@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Oahu Senior Living"
-seo_title: "Senior Living in Oahu, HI — 31 Communities"
-description: "Compare 30 senior living communities in Oahu, Hawaii — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Oahu, HI - 31 Communities"
+description: "Compare 30 senior living communities in Oahu, Hawaii - care levels, review evidence, and official inspection links for each."
 region_name: "Oahu"
 state: "hawaii"
 state_name: "Hawaii"

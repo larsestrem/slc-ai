@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Senior Lifestyle"
-seo_title: "Senior Lifestyle — Senior Living Communities & Locations"
+seo_title: "Senior Lifestyle - Senior Living Communities & Locations"
 description: "Senior Lifestyle is a Chicago-based senior housing operator founded in 1985 that owns and manages more than 100 independent living, assisted living, and memor"
 org_description: "Senior Lifestyle is a Chicago-based senior housing operator founded in 1985 that owns and manages more than 100 independent living, assisted living, and memory care communities across the United States. In the Portland metro area it operates Courtyard Fountains in Gresham."
 headquarters: "Chicago, Illinois"

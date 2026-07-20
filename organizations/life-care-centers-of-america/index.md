@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Life Care Centers of America"
-seo_title: "Life Care Centers of America — Senior Living Communities & Locations"
+seo_title: "Life Care Centers of America - Senior Living Communities & Locations"
 description: "Founded in 1976 and headquartered in Cleveland, Tennessee, Life Care Centers of America is one of the largest privately held nursing home operators in the Uni"
 org_description: "Founded in 1976 and headquartered in Cleveland, Tennessee, Life Care Centers of America is one of the largest privately held nursing home operators in the United States, with more than 200 skilled nursing and rehabilitation centers across over 25 states. In Hawaii it operates Ka Punawai Ola in Kapolei and Life Care Center of Hilo."
 headquarters: "Cleveland, Tennessee"

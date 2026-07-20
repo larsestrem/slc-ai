@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "College Park Rehabilitation Center"
-seo_title: "College Park Rehabilitation Center — Senior Living in North Las Vegas, NV"
+seo_title: "College Park Rehabilitation Center - Senior Living in North Las Vegas, NV"
 description: "Medicare- and Medicaid-certified skilled nursing facility in North Las Vegas with 188 beds, offering short-term rehabilitation, long-term care, and hospice ca"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "College Park Rehabilitation Center", "url": "/directory/nevada/clark-county/north-las-vegas/college-park-rehabilitation-center/"}]
 nearby: []

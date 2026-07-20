@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Polk County, OR Senior Living"
-seo_title: "Senior Living in Polk County, OR — 4 Communities"
+seo_title: "Senior Living in Polk County, OR - 4 Communities"
 description: "Senior living in Polk County, Oregon: 4 communities across 2 cities, with care levels and inspection links."
 county_name: "Polk"
 state_name: "Oregon"

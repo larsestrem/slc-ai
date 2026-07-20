@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Clovis, CA"
-seo_title: "Senior Living in Clovis, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Clovis, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Clovis, California: care levels, sizes, and official inspection records for each."
 city_name: "Clovis"
 county_name: "Fresno"

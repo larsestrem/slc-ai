@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Cupertino, CA"
-seo_title: "Senior Living in Cupertino, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Cupertino, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Cupertino, California: care levels, sizes, and official inspection records for each."
 city_name: "Cupertino"
 county_name: "Santa Clara"

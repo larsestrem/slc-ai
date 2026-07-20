@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Peoria, AZ"
-seo_title: "Senior Living in Peoria, AZ — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Peoria, AZ - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Peoria, Arizona: care levels, sizes, and official inspection records for each."
 city_name: "Peoria"
 county_name: "Maricopa"

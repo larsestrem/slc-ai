@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Onelife Senior Living"
-seo_title: "Onelife Senior Living — Senior Living Communities & Locations"
+seo_title: "Onelife Senior Living - Senior Living Communities & Locations"
 description: "Onelife Senior Living develops and operates senior living communities in the Pacific Northwest, with a focus on memory care. Its Oregon communities include Ba"
 org_description: "Onelife Senior Living develops and operates senior living communities in the Pacific Northwest, with a focus on memory care. Its Oregon communities include Battle Creek Memory Care in Salem, a sister community in Stayton, and Middlefield Oaks in Cottage Grove."
 website: "https://www.onelifeseniorliving.com"

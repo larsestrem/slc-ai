@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Lewis County, WA Senior Living"
-seo_title: "Senior Living in Lewis County, WA — 1 Communities"
+seo_title: "Senior Living in Lewis County, WA - 1 Communities"
 description: "Senior living in Lewis County, Washington: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Lewis"
 state_name: "Washington"

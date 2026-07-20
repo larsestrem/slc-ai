@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Century Park Associates"
-seo_title: "Century Park Associates — Senior Living Communities & Locations"
+seo_title: "Century Park Associates - Senior Living Communities & Locations"
 description: "Century Park Associates, headquartered in Cleveland, Tennessee, manages more than 40 independent living and assisted living communities across 20 states. The "
 org_description: "Century Park Associates, headquartered in Cleveland, Tennessee, manages more than 40 independent living and assisted living communities across 20 states. The company traces its senior-care roots to 1970 and focuses on independent living, assisted living, and personal care services."
 headquarters: "Cleveland, Tennessee"

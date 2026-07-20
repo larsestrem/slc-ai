@@ -3,7 +3,7 @@ noindex: true
 layout: "state"
 care_level_counts: [{"slug": "assisted-living", "count": 16}, {"slug": "memory-care", "count": 14}, {"slug": "independent-living", "count": 12}, {"slug": "skilled-nursing", "count": 4}, {"slug": "ccrc", "count": 2}]
 title: "Arizona Senior Living"
-seo_title: "Senior Living in Arizona — Assisted Living, Memory Care & Nursing Homes"
+seo_title: "Senior Living in Arizona - Assisted Living, Memory Care & Nursing Homes"
 description: "Find senior living in Arizona: 18 communities across 15 cities, with care levels, sizes, and links to official state inspection records."
 state_name: "Arizona"
 state_abbrev: "AZ"

@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "The Suites Assisted Living and Memory Care"
-seo_title: "The Suites Assisted Living and Memory Care — Senior Living in Grants Pass, OR"
+seo_title: "The Suites Assisted Living and Memory Care - Senior Living in Grants Pass, OR"
 description: "The Suites is a combined assisted living and memory care community in Grants Pass with 65 licensed assisted living beds and a 28-bed memory care neighborhood."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "The Suites Assisted Living and Memory Care", "url": "/directory/oregon/josephine-county/grants-pass/the-suites-assisted-living-and-memory-care/"}]
 nearby: [{"name": "Highland House Nursing and Rehabilitation Center", "url": "/directory/oregon/josephine-county/grants-pass/highland-house-nursing-and-rehabilitation-center/", "city_name": "Grants Pass", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Highland House Nursing and Rehabilitation Center is a 119-bed Medicare- and Medicaid-certified skilled nursing facility in Grants Pass providing short-term rehabilitation and long-term nursing care. It is operated by Volare Health."}]

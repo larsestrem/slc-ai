@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Fort Collins, CO"
-seo_title: "Senior Living in Fort Collins, CO — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Fort Collins, CO - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Fort Collins, Colorado: care levels, sizes, and official inspection records for each."
 city_name: "Fort Collins"
 county_name: "Larimer"

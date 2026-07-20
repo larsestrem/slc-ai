@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Bountiful, UT"
-seo_title: "Senior Living in Bountiful, UT — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Bountiful, UT - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Bountiful, Utah: care levels, sizes, and official inspection records for each."
 city_name: "Bountiful"
 county_name: "Davis"

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Yucaipa, CA"
-seo_title: "Senior Living in Yucaipa, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Yucaipa, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Yucaipa, California: care levels, sizes, and official inspection records for each."
 city_name: "Yucaipa"
 county_name: "San Bernardino"

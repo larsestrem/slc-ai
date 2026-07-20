@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Brookdale South Bay"
-seo_title: "Brookdale South Bay — Senior Living in Torrance, CA"
+seo_title: "Brookdale South Bay - Senior Living in Torrance, CA"
 description: "Independent living retirement community on Torrance Boulevard in Torrance, part of the national Brookdale Senior Living network. Amenities include a library, "
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Brookdale South Bay", "url": "/directory/california/los-angeles-county/torrance/brookdale-south-bay/"}]
 nearby: [{"name": "Oakmont of Torrance", "url": "/directory/california/los-angeles-county/torrance/oakmont-of-torrance/", "city_name": "Torrance", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Modern assisted living and memory care community on Lomita Boulevard near Torrance Memorial Medical Center, licensed for 126 residents. One of the newer luxury senior living options in the South Bay."}]

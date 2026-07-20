@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Bayshire Riverwalk Senior Living"
-seo_title: "Bayshire Riverwalk Senior Living — Senior Living in Bakersfield, CA"
+seo_title: "Bayshire Riverwalk Senior Living - Senior Living in Bakersfield, CA"
 description: "Bayshire Riverwalk Senior Living (formerly Brookdale Riverwalk) is a full-service continuing care retirement community near Bakersfield's Riverwalk with capac"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Bayshire Riverwalk Senior Living", "url": "/directory/california/kern-county/bakersfield/bayshire-riverwalk-senior-living/"}]
 nearby: []

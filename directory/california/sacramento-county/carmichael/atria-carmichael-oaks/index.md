@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Atria Carmichael Oaks"
-seo_title: "Atria Carmichael Oaks — Senior Living in Carmichael, CA"
+seo_title: "Atria Carmichael Oaks - Senior Living in Carmichael, CA"
 description: "Atria Carmichael Oaks is a senior living community on Fair Oaks Boulevard in Carmichael, in the Sacramento metro area, next to Jensen Botanical Garden. It off"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Atria Carmichael Oaks", "url": "/directory/california/sacramento-county/carmichael/atria-carmichael-oaks/"}]
 nearby: []

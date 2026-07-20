@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Highland Manor of Mesquite"
-seo_title: "Highland Manor of Mesquite — Senior Living in Mesquite, NV"
+seo_title: "Highland Manor of Mesquite - Senior Living in Mesquite, NV"
 description: "Highland Manor of Mesquite is a 112-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility serving the Mesquite area of Clark County"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Highland Manor of Mesquite", "url": "/directory/nevada/clark-county/mesquite/highland-manor-of-mesquite/"}]
 nearby: []

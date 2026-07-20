@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Hermiston, OR"
-seo_title: "Senior Living in Hermiston, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Hermiston, OR - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Hermiston, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Hermiston"
 county_name: "Umatilla"

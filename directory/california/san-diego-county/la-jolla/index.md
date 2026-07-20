@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in La Jolla, CA"
-seo_title: "Senior Living in La Jolla, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in La Jolla, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in La Jolla, California: care levels, sizes, and official inspection records for each."
 city_name: "La Jolla"
 county_name: "San Diego"

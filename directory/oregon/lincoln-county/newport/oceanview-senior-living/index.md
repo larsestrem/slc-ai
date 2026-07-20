@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Oceanview Senior Living"
-seo_title: "Oceanview Senior Living — Senior Living in Newport, OR"
+seo_title: "Oceanview Senior Living - Senior Living in Newport, OR"
 description: "A Westmont Living community on the Central Oregon coast in Newport offering independent living, assisted living, and memory care. Located just north of downto"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Oceanview Senior Living", "url": "/directory/oregon/lincoln-county/newport/oceanview-senior-living/"}]
 nearby: []

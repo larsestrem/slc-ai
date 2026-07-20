@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in North Las Vegas, NV"
-seo_title: "Senior Living in North Las Vegas, NV — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in North Las Vegas, NV - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in North Las Vegas, Nevada: care levels, sizes, and official inspection records for each."
 city_name: "North Las Vegas"
 county_name: "Clark"

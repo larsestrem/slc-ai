@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Denver, CO"
-seo_title: "Senior Living in Denver, CO — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Denver, CO - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Denver, Colorado: care levels, sizes, and official inspection records for each."
 city_name: "Denver"
 county_name: "Denver"

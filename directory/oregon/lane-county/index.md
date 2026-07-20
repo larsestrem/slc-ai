@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Lane County, OR Senior Living"
-seo_title: "Senior Living in Lane County, OR — 17 Communities"
+seo_title: "Senior Living in Lane County, OR - 17 Communities"
 description: "Senior living in Lane County, Oregon: 17 communities across 4 cities, with care levels and inspection links."
 county_name: "Lane"
 state_name: "Oregon"

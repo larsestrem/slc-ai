@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Colorado Springs, CO"
-seo_title: "Senior Living in Colorado Springs, CO — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Colorado Springs, CO - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Colorado Springs, Colorado: care levels, sizes, and official inspection records for each."
 city_name: "Colorado Springs"
 county_name: "El Paso"

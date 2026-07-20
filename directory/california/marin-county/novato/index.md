@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Novato, CA"
-seo_title: "Senior Living in Novato, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Novato, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Novato, California: care levels, sizes, and official inspection records for each."
 city_name: "Novato"
 county_name: "Marin"

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Phoenix, AZ"
-seo_title: "Senior Living in Phoenix, AZ — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Phoenix, AZ - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Phoenix, Arizona: care levels, sizes, and official inspection records for each."
 city_name: "Phoenix"
 county_name: "Maricopa"

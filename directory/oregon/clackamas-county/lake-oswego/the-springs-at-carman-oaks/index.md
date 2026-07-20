@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "The Springs at Carman Oaks"
-seo_title: "The Springs at Carman Oaks — Senior Living in Lake Oswego, OR"
+seo_title: "The Springs at Carman Oaks - Senior Living in Lake Oswego, OR"
 description: "The Springs at Carman Oaks is a resort-style senior living community in Lake Oswego offering independent living, assisted living, and memory care. Amenities i"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "The Springs at Carman Oaks", "url": "/directory/oregon/clackamas-county/lake-oswego/the-springs-at-carman-oaks/"}]
 nearby: [{"name": "Mary's Woods", "url": "/directory/oregon/clackamas-county/lake-oswego/marys-woods/", "city_name": "Lake Oswego", "state_abbrev": "OR", "care_levels": ["ccrc", "independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Mary's Woods is a single-site nonprofit Life Plan Community (CCRC) for adults 62 and older on a 40-acre campus at the former Marylhurst campus in Lake Oswego. Residents access a continuum of care including independent living, assisted living, residential care with 24/7 nursing staff, and memory care. The park-like grounds include walking trails, rose gardens, and views of the Willamette River valley."}]

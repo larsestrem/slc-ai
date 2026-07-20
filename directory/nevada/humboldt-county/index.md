@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Humboldt County, NV Senior Living"
-seo_title: "Senior Living in Humboldt County, NV — 1 Communities"
+seo_title: "Senior Living in Humboldt County, NV - 1 Communities"
 description: "Senior living in Humboldt County, Nevada: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Humboldt"
 state_name: "Nevada"

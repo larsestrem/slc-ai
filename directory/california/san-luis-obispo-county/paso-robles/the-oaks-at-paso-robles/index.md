@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "The Oaks at Paso Robles"
-seo_title: "The Oaks at Paso Robles — Senior Living in Paso Robles, CA"
+seo_title: "The Oaks at Paso Robles - Senior Living in Paso Robles, CA"
 description: "The Oaks at Paso Robles is a senior living community on South River Road in Paso Robles, in San Luis Obispo County wine country. It offers independent living,"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Oaks at Paso Robles", "url": "/directory/california/san-luis-obispo-county/paso-robles/the-oaks-at-paso-robles/"}]
 nearby: []

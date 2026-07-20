@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Washougal, WA"
-seo_title: "Senior Living in Washougal, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Washougal, WA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Washougal, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Washougal"
 county_name: "Clark"

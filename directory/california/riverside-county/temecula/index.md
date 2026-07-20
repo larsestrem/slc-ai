@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Temecula, CA"
-seo_title: "Senior Living in Temecula, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Temecula, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Temecula, California: care levels, sizes, and official inspection records for each."
 city_name: "Temecula"
 county_name: "Riverside"

@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Sea View Senior Living Community"
-seo_title: "Sea View Senior Living Community — Senior Living in Brookings, OR"
+seo_title: "Sea View Senior Living Community - Senior Living in Brookings, OR"
 description: "A 135-apartment community on the far southern Oregon coast in Brookings offering independent living, assisted living, memory care, and respite stays. One of t"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Sea View Senior Living Community", "url": "/directory/oregon/curry-county/brookings/sea-view-senior-living-community/"}]
 nearby: []

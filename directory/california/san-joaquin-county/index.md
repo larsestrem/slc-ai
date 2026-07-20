@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "San Joaquin County, CA Senior Living"
-seo_title: "Senior Living in San Joaquin County, CA — 4 Communities"
+seo_title: "Senior Living in San Joaquin County, CA - 4 Communities"
 description: "Senior living in San Joaquin County, California: 4 communities across 3 cities, with care levels and inspection links."
 county_name: "San Joaquin"
 state_name: "California"

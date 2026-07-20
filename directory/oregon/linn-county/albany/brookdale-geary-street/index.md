@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Brookdale Geary Street"
-seo_title: "Brookdale Geary Street — Senior Living in Albany, OR"
+seo_title: "Brookdale Geary Street - Senior Living in Albany, OR"
 description: "Brookdale Geary Street is a 44-bed assisted living and memory care community in Albany operated by Brookdale Senior Living, using the Clare Bridge memory care"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Brookdale Geary Street", "url": "/directory/oregon/linn-county/albany/brookdale-geary-street/"}]
 nearby: [{"name": "Brookdale Grand Prairie", "url": "/directory/oregon/linn-county/albany/brookdale-grand-prairie/", "city_name": "Albany", "state_abbrev": "OR", "care_levels": ["independent-living"], "records_note": false, "description": "Brookdale Grand Prairie is an independent living community with assisted living options in Albany, offering studio, one-bedroom, two-bedroom, and suite layouts plus spacious cottages with full kitchens and private patios. It is part of the national Brookdale Senior Living network."}, {"name": "Mennonite Village", "url": "/directory/oregon/linn-county/albany/mennonite-village/", "city_name": "Albany", "state_abbrev": "OR", "care_levels": ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Mennonite Village is a not-for-profit continuing care retirement community on a 275-acre campus in Albany, serving Oregon families for about 75 years with roughly 700 residents. The full continuum of care includes independent living homes and apartments, assisted living, memory care, rehabilitation, and Medicare-certified skilled nursing on one campus."}]

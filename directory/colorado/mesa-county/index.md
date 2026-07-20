@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Mesa County, CO Senior Living"
-seo_title: "Senior Living in Mesa County, CO — 1 Communities"
+seo_title: "Senior Living in Mesa County, CO - 1 Communities"
 description: "Senior living in Mesa County, Colorado: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Mesa"
 state_name: "Colorado"

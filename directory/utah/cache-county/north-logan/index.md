@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in North Logan, UT"
-seo_title: "Senior Living in North Logan, UT — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in North Logan, UT - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in North Logan, Utah: care levels, sizes, and official inspection records for each."
 city_name: "North Logan"
 county_name: "Cache"

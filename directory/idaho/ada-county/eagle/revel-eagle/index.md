@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Revel Eagle"
-seo_title: "Revel Eagle — Senior Living in Eagle, ID"
+seo_title: "Revel Eagle - Senior Living in Eagle, ID"
 description: "Revel Eagle is a modern independent living community of 146 private residences on the Boise River and Greenbelt in Eagle, opened in late 2020. The four-story "
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Revel Eagle", "url": "/directory/idaho/ada-county/eagle/revel-eagle/"}]
 nearby: []

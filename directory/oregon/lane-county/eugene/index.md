@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Eugene, OR"
-seo_title: "Senior Living in Eugene, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Eugene, OR - Assisted Living, Memory Care & More"
 description: "Compare 13 senior living communities in Eugene, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Eugene"
 county_name: "Lane"

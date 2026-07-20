@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "WellQuest of Granite Bay"
-seo_title: "WellQuest of Granite Bay — Senior Living in Granite Bay, CA"
+seo_title: "WellQuest of Granite Bay - Senior Living in Granite Bay, CA"
 description: "Newer assisted living and memory care community on Sierra College Boulevard in Granite Bay."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "WellQuest of Granite Bay", "url": "/directory/california/placer-county/granite-bay/wellquest-of-granite-bay/"}]
 nearby: []

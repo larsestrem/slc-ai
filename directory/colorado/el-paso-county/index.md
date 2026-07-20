@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "El Paso County, CO Senior Living"
-seo_title: "Senior Living in El Paso County, CO — 1 Communities"
+seo_title: "Senior Living in El Paso County, CO - 1 Communities"
 description: "Senior living in El Paso County, Colorado: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "El Paso"
 state_name: "Colorado"

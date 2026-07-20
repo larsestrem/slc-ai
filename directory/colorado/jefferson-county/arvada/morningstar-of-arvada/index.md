@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "MorningStar of Arvada"
-seo_title: "MorningStar of Arvada — Senior Living in Arvada, CO"
+seo_title: "MorningStar of Arvada - Senior Living in Arvada, CO"
 description: "MorningStar of Arvada offers 71 independent living, 41 assisted living, and 29 memory care suites in west Arvada near the foothills."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "MorningStar of Arvada", "url": "/directory/colorado/jefferson-county/arvada/morningstar-of-arvada/"}]
 nearby: []

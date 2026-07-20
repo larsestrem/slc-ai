@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Caldwell Care of Cascadia"
-seo_title: "Caldwell Care of Cascadia — Senior Living in Caldwell, ID"
+seo_title: "Caldwell Care of Cascadia - Senior Living in Caldwell, ID"
 description: "Caldwell Care of Cascadia is a 71-bed Medicare- and Medicaid-certified skilled nursing facility offering short-term rehabilitation and long-term nursing care."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Caldwell Care of Cascadia", "url": "/directory/idaho/canyon-county/caldwell/caldwell-care-of-cascadia/"}]
 nearby: [{"name": "Autumn Wind Assisted Living & Memory Care", "url": "/directory/idaho/canyon-county/caldwell/autumn-wind-assisted-living-memory-care/", "city_name": "Caldwell", "state_abbrev": "ID", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Autumn Wind Assisted Living & Memory Care sits among local farms in a residential Caldwell neighborhood, with 53 assisted living apartments and 22 private and semi-private apartments in its secure Expressions memory care neighborhood specializing in Alzheimer's and dementia care."}]

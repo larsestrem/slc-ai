@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Fox Den Homes"
-seo_title: "Fox Den Homes — Senior Living Communities & Locations"
+seo_title: "Fox Den Homes - Senior Living Communities & Locations"
 description: "Fox Den Homes operates a small group of nurse-owned residential assisted living and memory care homes in Boise, each serving roughly 8-9 residents. The model "
 org_description: "Fox Den Homes operates a small group of nurse-owned residential assisted living and memory care homes in Boise, each serving roughly 8-9 residents. The model emphasizes low caregiver-to-resident ratios and a home-like environment. Its flagship Bannock House is among the higher-rated small care homes in Boise."
 headquarters: "Boise, Idaho"

@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Klamath County, OR Senior Living"
-seo_title: "Senior Living in Klamath County, OR — 5 Communities"
+seo_title: "Senior Living in Klamath County, OR - 5 Communities"
 description: "Senior living in Klamath County, Oregon: 5 communities across 1 cities, with care levels and inspection links."
 county_name: "Klamath"
 state_name: "Oregon"

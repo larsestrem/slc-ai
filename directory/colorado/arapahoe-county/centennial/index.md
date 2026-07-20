@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Centennial, CO"
-seo_title: "Senior Living in Centennial, CO — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Centennial, CO - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Centennial, Colorado: care levels, sizes, and official inspection records for each."
 city_name: "Centennial"
 county_name: "Arapahoe"

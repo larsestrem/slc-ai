@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Vineyard Park at Bremerton Senior Living"
-seo_title: "Vineyard Park at Bremerton Senior Living — Senior Living in Bremerton, WA"
+seo_title: "Vineyard Park at Bremerton Senior Living - Senior Living in Bremerton, WA"
 description: "Vineyard Park at Bremerton Senior Living is a senior living campus at 2707 Clare Ave in Bremerton offering independent living, assisted living, and memory car"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Vineyard Park at Bremerton Senior Living", "url": "/directory/washington/kitsap-county/bremerton/vineyard-park-at-bremerton-senior-living/"}]
 nearby: [{"name": "Bay Pointe by Cogir", "url": "/directory/washington/kitsap-county/bremerton/bay-pointe-by-cogir/", "city_name": "Bremerton", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "Bay Pointe by Cogir sits on Oyster Bay in Bremerton and has served seniors for more than 20 years, offering independent living, assisted living and the Marine Courte memory care neighborhood."}, {"name": "Cascades of Bremerton", "url": "/directory/washington/kitsap-county/bremerton/cascades-of-bremerton/", "city_name": "Bremerton", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Cascades of Bremerton is a campus-style community offering independent living (The Willows), assisted living, and memory care in East Bremerton."}]

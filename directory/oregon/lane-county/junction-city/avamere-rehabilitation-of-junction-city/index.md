@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Avamere Rehabilitation of Junction City"
-seo_title: "Avamere Rehabilitation of Junction City — Senior Living in Junction City, OR"
+seo_title: "Avamere Rehabilitation of Junction City - Senior Living in Junction City, OR"
 description: "A 53-bed Avamere skilled nursing and rehabilitation center in Junction City, Lane County."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Avamere Rehabilitation of Junction City", "url": "/directory/oregon/lane-county/junction-city/avamere-rehabilitation-of-junction-city/"}]
 nearby: []

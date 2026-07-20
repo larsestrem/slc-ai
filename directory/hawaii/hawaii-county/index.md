@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Hawaii County, HI Senior Living"
-seo_title: "Senior Living in Hawaii County, HI — 6 Communities"
+seo_title: "Senior Living in Hawaii County, HI - 6 Communities"
 description: "Senior living in Hawaii County, Hawaii: 6 communities across 2 cities, with care levels and inspection links."
 county_name: "Hawaii"
 state_name: "Hawaii"

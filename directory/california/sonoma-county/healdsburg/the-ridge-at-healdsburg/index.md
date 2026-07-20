@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "The Ridge at Healdsburg"
-seo_title: "The Ridge at Healdsburg — Senior Living in Healdsburg, CA"
+seo_title: "The Ridge at Healdsburg - Senior Living in Healdsburg, CA"
 description: "Assisted living and memory care community set on nine landscaped acres in the Healdsburg wine country, formerly known as Healdsburg Senior Living. The campus "
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Ridge at Healdsburg", "url": "/directory/california/sonoma-county/healdsburg/the-ridge-at-healdsburg/"}]
 nearby: []

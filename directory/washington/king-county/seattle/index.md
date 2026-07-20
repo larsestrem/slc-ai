@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Seattle, WA"
-seo_title: "Senior Living in Seattle, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Seattle, WA - Assisted Living, Memory Care & More"
 description: "Compare 7 senior living communities in Seattle, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Seattle"
 county_name: "King"

@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Trustwell Living at Astor Place"
-seo_title: "Trustwell Living at Astor Place — Senior Living in Astoria, OR"
+seo_title: "Trustwell Living at Astor Place - Senior Living in Astoria, OR"
 description: "A 28-bed assisted living community on Klaskanine Avenue in Astoria, also offering respite and short-term stays. Part of the national Trustwell Living portfoli"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Trustwell Living at Astor Place", "url": "/directory/oregon/clatsop-county/astoria/trustwell-living-at-astor-place/"}]
 nearby: []

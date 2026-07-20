@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Scholl Canyon Estates"
-seo_title: "Scholl Canyon Estates — Senior Living in Glendale, CA"
+seo_title: "Scholl Canyon Estates - Senior Living in Glendale, CA"
 description: "Independent living retirement community in the hills of east Glendale, established in 2000 and operated under the Gracious Retirement Living brand. Monthly re"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Scholl Canyon Estates", "url": "/directory/california/los-angeles-county/glendale/scholl-canyon-estates/"}]
 nearby: []

@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Life Care Center of Hilo"
-seo_title: "Life Care Center of Hilo — Senior Living in Hilo, HI"
+seo_title: "Life Care Center of Hilo - Senior Living in Hilo, HI"
 description: "Life Care Center of Hilo is a for-profit skilled nursing and rehabilitation facility on the Big Island, operated by Life Care Centers of America. It provides "
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Life Care Center of Hilo", "url": "/directory/hawaii/hawaii-county/hilo/life-care-center-of-hilo/"}]
 nearby: [{"name": "Legacy Hilo Rehabilitation & Nursing Center", "url": "/directory/hawaii/hawaii-county/hilo/legacy-hilo-rehabilitation-and-nursing-center/", "city_name": "Hilo", "state_abbrev": "HI", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Legacy Hilo Rehabilitation & Nursing Center is a 100-bed Medicare- and Medicaid-certified skilled nursing facility on Kaumana Drive in Hilo, part of the Ohana Pacific Health network. It offers short-term rehabilitation and long-term nursing care."}, {"name": "Yukio Okutsu State Veterans Home", "url": "/directory/hawaii/hawaii-county/hilo/yukio-okutsu-state-veterans-home/", "city_name": "Hilo", "state_abbrev": "HI", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Yukio Okutsu State Veterans Home is a 95-bed skilled nursing facility in Hilo serving veterans on the Big Island, affiliated with Hilo Medical Center and the Hawaii Health Systems Corporation. It provides long-term skilled nursing and rehabilitation care."}]

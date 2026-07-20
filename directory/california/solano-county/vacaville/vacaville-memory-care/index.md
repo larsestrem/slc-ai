@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Vacaville Memory Care"
-seo_title: "Vacaville Memory Care — Senior Living in Vacaville, CA"
+seo_title: "Vacaville Memory Care - Senior Living in Vacaville, CA"
 description: "Stand-alone memory care community on Nut Tree Road in Vacaville dedicated to residents living with Alzheimer's disease and other dementias."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Vacaville Memory Care", "url": "/directory/california/solano-county/vacaville/vacaville-memory-care/"}]
 nearby: []

@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Sunrise Adult Foster Home"
-seo_title: "Sunrise Adult Foster Home — Senior Living in Tigard, OR"
+seo_title: "Sunrise Adult Foster Home - Senior Living in Tigard, OR"
 description: "Sunrise Adult Foster Home is a small residential care home in Tigard providing incontinence care, diabetes care, memory care, and medication management."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Sunrise Adult Foster Home", "url": "/directory/oregon/washington-county/tigard/sunrise-adult-foster-home-tigard/"}]
 nearby: [{"name": "Sapphire at Tigard Rehabilitation Center", "url": "/directory/oregon/washington-county/tigard/tigard-rehabilitation-and-care/", "city_name": "Tigard", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Tigard Rehabilitation and Care is a 112-bed Medicare- and Medicaid-certified skilled nursing facility in Tigard offering short-term rehabilitation and long-term nursing care."}, {"name": "Summerfield Estates Retirement Community", "url": "/directory/oregon/washington-county/tigard/summerfield-estates-retirement-community/", "city_name": "Tigard", "state_abbrev": "OR", "care_levels": ["independent-living"], "records_note": false, "description": "Summerfield Estates Retirement Community is an independent living community in Tigard's Summerfield neighborhood."}]

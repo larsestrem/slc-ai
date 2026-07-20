@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Serenity Hawaii Care Home"
-seo_title: "Serenity Hawaii Care Home — Senior Living in Waipahu, HI"
+seo_title: "Serenity Hawaii Care Home - Senior Living in Waipahu, HI"
 description: "Serenity Hawaii Care Home is a small Adult Residential Care Home (Level 1) in a residential Waipahu neighborhood near Pearl Harbor, hosting up to five residen"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Serenity Hawaii Care Home", "url": "/directory/hawaii/honolulu-county/waipahu/serenity-hawaii-care-home/"}]
 nearby: []

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Sherman Oaks, CA"
-seo_title: "Senior Living in Sherman Oaks, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Sherman Oaks, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Sherman Oaks, California: care levels, sizes, and official inspection records for each."
 city_name: "Sherman Oaks"
 county_name: "Los Angeles"

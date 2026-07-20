@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Prestige Care"
-seo_title: "Prestige Care — Senior Living Communities & Locations"
+seo_title: "Prestige Care - Senior Living Communities & Locations"
 description: "Prestige Care, Inc. is a family-owned senior care company headquartered in Vancouver, Washington, providing independent living, assisted living, memory care, "
 org_description: "Prestige Care, Inc. is a family-owned senior care company headquartered in Vancouver, Washington, providing independent living, assisted living, memory care, and skilled nursing across eight Western states, historically with more than 70 locations. In 2024, PACS Group acquired the operations of 53 skilled nursing, assisted living, and independent living facilities from Prestige, so its current footprint is smaller than its historical peak."
 headquarters: "Vancouver, Washington"

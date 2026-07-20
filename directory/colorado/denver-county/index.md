@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Denver County, CO Senior Living"
-seo_title: "Senior Living in Denver County, CO — 2 Communities"
+seo_title: "Senior Living in Denver County, CO - 2 Communities"
 description: "Senior living in Denver County, Colorado: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Denver"
 state_name: "Colorado"

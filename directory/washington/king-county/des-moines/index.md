@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Des Moines, WA"
-seo_title: "Senior Living in Des Moines, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Des Moines, WA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Des Moines, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Des Moines"
 county_name: "King"

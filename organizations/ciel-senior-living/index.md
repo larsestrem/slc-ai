@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Ciel Senior Living"
-seo_title: "Ciel Senior Living — Senior Living Communities & Locations"
+seo_title: "Ciel Senior Living - Senior Living Communities & Locations"
 description: "Ciel Senior Living is a senior housing management company operating independent living, assisted living, and memory care communities in several states, includ"
 org_description: "Ciel Senior Living is a senior housing management company operating independent living, assisted living, and memory care communities in several states, including the multi-building Ciel of Tri-Cities campus in Kennewick, Washington."
 headquarters: "Solana Beach, California"

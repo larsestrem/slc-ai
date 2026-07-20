@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Mallard Landing by Cogir"
-seo_title: "Mallard Landing by Cogir — Senior Living in Battle Ground, WA"
+seo_title: "Mallard Landing by Cogir - Senior Living in Battle Ground, WA"
 description: "Mallard Landing by Cogir is an 85-bed licensed assisted living community in downtown Battle Ground offering assisted living apartments and senior living servi"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Mallard Landing by Cogir", "url": "/directory/washington/clark-county/battle-ground/mallard-landing-by-cogir/"}]
 nearby: []

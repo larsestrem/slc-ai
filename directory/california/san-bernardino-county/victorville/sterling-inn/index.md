@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Sterling Inn"
-seo_title: "Sterling Inn — Senior Living in Victorville, CA"
+seo_title: "Sterling Inn - Senior Living in Victorville, CA"
 description: "Sterling Inn is an independent and assisted living community in Victorville, serving the High Desert."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sterling Inn", "url": "/directory/california/san-bernardino-county/victorville/sterling-inn/"}]
 nearby: []

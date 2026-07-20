@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "The Plaza at Pearl City"
-seo_title: "The Plaza at Pearl City — Senior Living in Pearl City, HI"
+seo_title: "The Plaza at Pearl City - Senior Living in Pearl City, HI"
 description: "The Plaza at Pearl City is a 158-bed community operated by Hawaii-based The Plaza Assisted Living, offering independent living, assisted living, the Hali'a me"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "The Plaza at Pearl City", "url": "/directory/hawaii/honolulu-county/pearl-city/the-plaza-at-pearl-city/"}]
 nearby: []

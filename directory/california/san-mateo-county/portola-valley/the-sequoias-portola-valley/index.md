@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "The Sequoias Portola Valley"
-seo_title: "The Sequoias Portola Valley — Senior Living in Portola Valley, CA"
+seo_title: "The Sequoias Portola Valley - Senior Living in Portola Valley, CA"
 description: "Residents can move through independent living, assisted living, and skilled nursing on one campus."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Sequoias Portola Valley", "url": "/directory/california/san-mateo-county/portola-valley/the-sequoias-portola-valley/"}]
 nearby: []

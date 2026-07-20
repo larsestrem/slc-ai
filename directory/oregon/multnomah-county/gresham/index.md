@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Gresham, OR"
-seo_title: "Senior Living in Gresham, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Gresham, OR - Assisted Living, Memory Care & More"
 description: "Compare 5 senior living communities in Gresham, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Gresham"
 county_name: "Multnomah"

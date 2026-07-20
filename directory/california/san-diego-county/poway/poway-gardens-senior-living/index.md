@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Poway Gardens Senior Living"
-seo_title: "Poway Gardens Senior Living — Senior Living in Poway, CA"
+seo_title: "Poway Gardens Senior Living - Senior Living in Poway, CA"
 description: "Poway Gardens Senior Living is a memory-care-focused campus of seven independently licensed buildings, including five six-bed ranch-style Garden Villas and tw"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Poway Gardens Senior Living", "url": "/directory/california/san-diego-county/poway/poway-gardens-senior-living/"}]
 nearby: []

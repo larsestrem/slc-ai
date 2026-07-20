@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Atria Senior Living"
-seo_title: "Atria Senior Living — Senior Living Communities & Locations"
+seo_title: "Atria Senior Living - Senior Living Communities & Locations"
 description: "Atria Senior Living is one of the largest senior living operators in North America, headquartered in Louisville, Kentucky. Atria manages independent living, a"
 org_description: "Atria Senior Living is one of the largest senior living operators in North America, headquartered in Louisville, Kentucky. Atria manages independent living, assisted living, supportive living, and memory care communities at more than 200 locations across dozens of U.S. states and in Canada."
 headquarters: "Louisville, Kentucky"

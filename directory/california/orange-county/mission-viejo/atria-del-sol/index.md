@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Atria Del Sol"
-seo_title: "Atria Del Sol — Senior Living in Mission Viejo, CA"
+seo_title: "Atria Del Sol - Senior Living in Mission Viejo, CA"
 description: "Atria Del Sol offers independent living, assisted living and memory care in Mission Viejo, with apartments overlooking a golf course. The community runs a ful"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Atria Del Sol", "url": "/directory/california/orange-county/mission-viejo/atria-del-sol/"}]
 nearby: []

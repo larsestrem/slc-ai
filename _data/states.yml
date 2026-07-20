@@ -7,7 +7,7 @@
   licensing:
     agency: "California Department of Social Services, Community Care Licensing Division"
     lookup_url: "https://www.ccld.dss.ca.gov/carefacilitysearch/"
-    small_home: "Residential Care Facilities for the Elderly (RCFE) — small homes are licensed for up to 6 residents"
+    small_home: "Residential Care Facilities for the Elderly (RCFE) - small homes are licensed for up to 6 residents"
     note: "Assisted living and residential care homes are licensed as RCFEs by the Community Care Licensing Division; skilled nursing facilities are certified by CMS and licensed by the California Department of Public Health."
 - slug: idaho
   name: Idaho

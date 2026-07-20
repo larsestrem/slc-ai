@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Kailua-Kona, HI"
-seo_title: "Senior Living in Kailua-Kona, HI — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Kailua-Kona, HI - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Kailua-Kona, Hawaii: care levels, sizes, and official inspection records for each."
 city_name: "Kailua-Kona"
 county_name: "Hawaii"

@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Clark County, WA Senior Living"
-seo_title: "Senior Living in Clark County, WA — 21 Communities"
+seo_title: "Senior Living in Clark County, WA - 21 Communities"
 description: "Senior living in Clark County, Washington: 21 communities across 4 cities, with care levels and inspection links."
 county_name: "Clark"
 state_name: "Washington"

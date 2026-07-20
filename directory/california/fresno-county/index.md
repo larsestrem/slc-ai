@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Fresno County, CA Senior Living"
-seo_title: "Senior Living in Fresno County, CA — 4 Communities"
+seo_title: "Senior Living in Fresno County, CA - 4 Communities"
 description: "Senior living in Fresno County, California: 4 communities across 2 cities, with care levels and inspection links."
 county_name: "Fresno"
 state_name: "California"

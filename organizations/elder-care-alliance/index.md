@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Elder Care Alliance"
-seo_title: "Elder Care Alliance — Senior Living Communities & Locations"
+seo_title: "Elder Care Alliance - Senior Living Communities & Locations"
 description: "A California nonprofit, faith-based provider of assisted living and memory care operating the AlmaVia communities with a mission focused on holistic, values-d"
 org_description: "A California nonprofit, faith-based provider of assisted living and memory care operating the AlmaVia communities with a mission focused on holistic, values-driven senior care."
 headquarters: "Alameda, California"

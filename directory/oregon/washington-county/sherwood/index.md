@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Sherwood, OR"
-seo_title: "Senior Living in Sherwood, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Sherwood, OR - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Sherwood, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Sherwood"
 county_name: "Washington"

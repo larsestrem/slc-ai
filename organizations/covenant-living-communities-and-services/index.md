@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Covenant Living Communities and Services"
-seo_title: "Covenant Living Communities and Services — Senior Living Communities & Locations"
+seo_title: "Covenant Living Communities and Services - Senior Living Communities & Locations"
 description: "Covenant Living Communities and Services, formerly Covenant Retirement Communities, is a faith-based nonprofit headquartered in Skokie, Illinois. It operates "
 org_description: "Covenant Living Communities and Services, formerly Covenant Retirement Communities, is a faith-based nonprofit headquartered in Skokie, Illinois. It operates roughly 15 to 16 continuing care retirement communities in about ten states, including Covenant Living of Colorado in Westminster."
 headquarters: "Skokie, Illinois"

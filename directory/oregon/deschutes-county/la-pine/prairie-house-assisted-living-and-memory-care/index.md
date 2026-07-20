@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Prairie House Assisted Living and Memory Care"
-seo_title: "Prairie House Assisted Living and Memory Care — Senior Living in La Pine, OR"
+seo_title: "Prairie House Assisted Living and Memory Care - Senior Living in La Pine, OR"
 description: "Prairie House is the primary assisted living and memory care community serving La Pine and southern Deschutes County. The community offers award-winning memor"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Prairie House Assisted Living and Memory Care", "url": "/directory/oregon/deschutes-county/la-pine/prairie-house-assisted-living-and-memory-care/"}]
 nearby: []

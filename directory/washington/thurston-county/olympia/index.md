@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Olympia, WA"
-seo_title: "Senior Living in Olympia, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Olympia, WA - Assisted Living, Memory Care & More"
 description: "Compare 5 senior living communities in Olympia, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Olympia"
 county_name: "Thurston"

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Aurora, CO"
-seo_title: "Senior Living in Aurora, CO — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Aurora, CO - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Aurora, Colorado: care levels, sizes, and official inspection records for each."
 city_name: "Aurora"
 county_name: "Arapahoe"

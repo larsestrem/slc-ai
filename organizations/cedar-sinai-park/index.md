@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Cedar Sinai Park"
-seo_title: "Cedar Sinai Park — Senior Living Communities & Locations"
+seo_title: "Cedar Sinai Park - Senior Living Communities & Locations"
 description: "Cedar Sinai Park is a Portland, Oregon nonprofit senior care organization rooted in Jewish values, operating a campus in southwest Portland that includes the "
 org_description: "Cedar Sinai Park is a Portland, Oregon nonprofit senior care organization rooted in Jewish values, operating a campus in southwest Portland that includes the Robison Jewish Health Center skilled nursing facility and the Rose Schnitzer Manor assisted living community."
 headquarters: "Portland, Oregon"

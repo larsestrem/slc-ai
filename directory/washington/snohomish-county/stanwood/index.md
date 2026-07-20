@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Stanwood, WA"
-seo_title: "Senior Living in Stanwood, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Stanwood, WA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Stanwood, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Stanwood"
 county_name: "Snohomish"

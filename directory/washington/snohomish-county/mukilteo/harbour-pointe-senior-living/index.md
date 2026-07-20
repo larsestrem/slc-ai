@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Harbour Pointe Senior Living"
-seo_title: "Harbour Pointe Senior Living — Senior Living in Mukilteo, WA"
+seo_title: "Harbour Pointe Senior Living - Senior Living in Mukilteo, WA"
 description: "Harbour Pointe Senior Living offers assisted living, memory care, and respite care in Mukilteo's Harbour Pointe neighborhood."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Harbour Pointe Senior Living", "url": "/directory/washington/snohomish-county/mukilteo/harbour-pointe-senior-living/"}]
 nearby: []

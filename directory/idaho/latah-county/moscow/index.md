@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Moscow, ID"
-seo_title: "Senior Living in Moscow, ID — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Moscow, ID - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Moscow, Idaho: care levels, sizes, and official inspection records for each."
 city_name: "Moscow"
 county_name: "Latah"

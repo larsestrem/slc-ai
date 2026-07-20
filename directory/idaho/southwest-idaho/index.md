@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Treasure Valley & Southwest Senior Living"
-seo_title: "Senior Living in Treasure Valley & Southwest, ID — 26 Communities"
-description: "Compare 26 senior living communities in Treasure Valley & Southwest, Idaho — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Treasure Valley & Southwest, ID - 26 Communities"
+description: "Compare 26 senior living communities in Treasure Valley & Southwest, Idaho - care levels, review evidence, and official inspection links for each."
 region_name: "Treasure Valley & Southwest"
 state: "idaho"
 state_name: "Idaho"

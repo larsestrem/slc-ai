@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Twin Falls County, ID Senior Living"
-seo_title: "Senior Living in Twin Falls County, ID — 7 Communities"
+seo_title: "Senior Living in Twin Falls County, ID - 7 Communities"
 description: "Senior living in Twin Falls County, Idaho: 7 communities across 2 cities, with care levels and inspection links."
 county_name: "Twin Falls"
 state_name: "Idaho"

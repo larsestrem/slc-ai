@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Central Oregon Senior Living"
-seo_title: "Senior Living in Central Oregon, OR — 14 Communities"
-description: "Compare 14 senior living communities in Central Oregon, Oregon — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Central Oregon, OR - 14 Communities"
+description: "Compare 14 senior living communities in Central Oregon, Oregon - care levels, review evidence, and official inspection links for each."
 region_name: "Central Oregon"
 state: "oregon"
 state_name: "Oregon"

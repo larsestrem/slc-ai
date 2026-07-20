@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {%- assign page_title = page.seo_title | default: page.title -%}
-<title>{% if page_title %}{{ page_title | escape }} | {{ site.title }}{% else %}{{ site.title }} — {{ site.tagline }}{% endif %}</title>
+<title>{% if page_title %}{{ page_title | escape }} | {{ site.title }}{% else %}{{ site.title }} - {{ site.tagline }}{% endif %}</title>
 <meta name="description" content="{{ page.description | default: site.description | strip_newlines | strip | escape }}">
 <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
 {%- if page.noindex %}

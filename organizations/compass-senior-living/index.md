@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Compass Senior Living"
-seo_title: "Compass Senior Living — Senior Living Communities & Locations"
+seo_title: "Compass Senior Living - Senior Living Communities & Locations"
 description: "Compass Senior Living is a Eugene, Oregon-based operator of independent living, assisted living, and memory care communities in the western and central United"
 org_description: "Compass Senior Living is a Eugene, Oregon-based operator of independent living, assisted living, and memory care communities in the western and central United States, including The Suites in Grants Pass and Morrow Heights in Rogue River. The company describes its guiding values as goodness, loyalty, faith, and fun."
 headquarters: "Eugene, Oregon"

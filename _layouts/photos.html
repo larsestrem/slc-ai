@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- comment %} Full photo gallery for a community — used when a profile has more
+{%- comment %} Full photo gallery for a community - used when a profile has more
 photos than the hero gallery shows. Every photo opens full screen via the same
 CSS-only :target lightbox, with its description below the image. {% endcomment %}
 <article>
@@ -10,7 +10,7 @@ CSS-only :target lightbox, with its description below the image. {% endcomment %
   {%- endif %}
   <h1>{{ page.title }}</h1>
   {%- if page.claimed_date %}
-  <p class="claimed-badge">✓ <span class="from-community">From the community</span> — photos
+  <p class="claimed-badge">✓ <span class="from-community">From the community</span> - photos
   provided by {% if page.claimed_by %}{{ page.claimed_by }}{% if page.claimed_role %}, {{ page.claimed_role }},{% endif %}{% else %}verified staff{% endif %}
   of {{ page.community_name | default: page.title }} on {{ page.claimed_date }}.
   <a href="/for-communities/#how-claiming-works">How we verify who can update a listing</a></p>
@@ -42,6 +42,6 @@ CSS-only :target lightbox, with its description below the image. {% endcomment %
   {%- endif %}
 
   <p class="notice">Photos are provided by the community and show the spaces it chooses to
-  share — they're a starting point, not a substitute for
+  share - they're a starting point, not a substitute for
   <a href="/guides/touring-checklist/">seeing the community in person</a>.</p>
 </article>

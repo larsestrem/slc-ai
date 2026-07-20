@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Orangevale, CA"
-seo_title: "Senior Living in Orangevale, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Orangevale, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Orangevale, California: care levels, sizes, and official inspection records for each."
 city_name: "Orangevale"
 county_name: "Sacramento"

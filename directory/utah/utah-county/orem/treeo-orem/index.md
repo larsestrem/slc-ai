@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Treeo Orem"
-seo_title: "Treeo Orem — Senior Living in Orem, UT"
+seo_title: "Treeo Orem - Senior Living in Orem, UT"
 description: "Treeo Orem is an independent living community in central Orem managed by Seattle-based Leisure Care. News & World Report."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Treeo Orem", "url": "/directory/utah/utah-county/orem/treeo-orem/"}]
 nearby: []

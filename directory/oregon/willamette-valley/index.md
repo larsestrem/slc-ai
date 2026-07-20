@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Willamette Valley Senior Living"
-seo_title: "Senior Living in Willamette Valley, OR — 49 Communities"
-description: "Compare 49 senior living communities in Willamette Valley, Oregon — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Willamette Valley, OR - 49 Communities"
+description: "Compare 49 senior living communities in Willamette Valley, Oregon - care levels, review evidence, and official inspection links for each."
 region_name: "Willamette Valley"
 state: "oregon"
 state_name: "Oregon"

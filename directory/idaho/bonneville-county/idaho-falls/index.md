@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Idaho Falls, ID"
-seo_title: "Senior Living in Idaho Falls, ID — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Idaho Falls, ID - Assisted Living, Memory Care & More"
 description: "Compare 6 senior living communities in Idaho Falls, Idaho: care levels, sizes, and official inspection records for each."
 city_name: "Idaho Falls"
 county_name: "Bonneville"

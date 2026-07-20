@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Kent, WA"
-seo_title: "Senior Living in Kent, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Kent, WA - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Kent, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Kent"
 county_name: "King"

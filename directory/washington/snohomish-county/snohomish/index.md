@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Snohomish, WA"
-seo_title: "Senior Living in Snohomish, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Snohomish, WA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Snohomish, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Snohomish"
 county_name: "Snohomish"

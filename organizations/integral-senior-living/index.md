@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Integral Senior Living"
-seo_title: "Integral Senior Living — Senior Living Communities & Locations"
+seo_title: "Integral Senior Living - Senior Living Communities & Locations"
 description: "Integral Senior Living (ISL) is a senior living management company headquartered in Carlsbad, California. It manages more than 100 independent living, assiste"
 org_description: "Integral Senior Living (ISL) is a senior living management company headquartered in Carlsbad, California. It manages more than 100 independent living, assisted living, and memory care communities in 25 states, including The Lodge at Grand Junction in Colorado."
 headquarters: "Carlsbad, California"

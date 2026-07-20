@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Medford, OR"
-seo_title: "Senior Living in Medford, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Medford, OR - Assisted Living, Memory Care & More"
 description: "Compare 7 senior living communities in Medford, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Medford"
 county_name: "Jackson"

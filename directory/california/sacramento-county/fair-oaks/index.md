@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Fair Oaks, CA"
-seo_title: "Senior Living in Fair Oaks, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Fair Oaks, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Fair Oaks, California: care levels, sizes, and official inspection records for each."
 city_name: "Fair Oaks"
 county_name: "Sacramento"

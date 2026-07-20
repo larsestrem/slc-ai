@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Bellevue, WA"
-seo_title: "Senior Living in Bellevue, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Bellevue, WA - Assisted Living, Memory Care & More"
 description: "Compare 5 senior living communities in Bellevue, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Bellevue"
 county_name: "King"

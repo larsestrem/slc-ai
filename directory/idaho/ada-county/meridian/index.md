@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Meridian, ID"
-seo_title: "Senior Living in Meridian, ID — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Meridian, ID - Assisted Living, Memory Care & More"
 description: "Compare 5 senior living communities in Meridian, Idaho: care levels, sizes, and official inspection records for each."
 city_name: "Meridian"
 county_name: "Ada"

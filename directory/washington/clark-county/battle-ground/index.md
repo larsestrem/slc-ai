@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Battle Ground, WA"
-seo_title: "Senior Living in Battle Ground, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Battle Ground, WA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Battle Ground, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Battle Ground"
 county_name: "Clark"

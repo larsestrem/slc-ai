@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Ohana Pacific Health"
-seo_title: "Ohana Pacific Health — Senior Living Communities & Locations"
+seo_title: "Ohana Pacific Health - Senior Living Communities & Locations"
 description: "Founded on Oahu in 1998, Ohana Pacific Health is the largest post-acute care organization in Hawaii, with 17 health care entities and roughly 1,500 employees "
 org_description: "Founded on Oahu in 1998, Ohana Pacific Health is the largest post-acute care organization in Hawaii, with 17 health care entities and roughly 1,500 employees across Oahu, Maui, Kauai, and Hawaii Island. Services span long-term care, skilled nursing, rehabilitation, memory care, home health, and adult day health; Maui's Hale Makua Health Services affiliated with the organization in 2023."
 headquarters: "Honolulu, Hawaii"

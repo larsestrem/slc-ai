@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Palo Alto, CA"
-seo_title: "Senior Living in Palo Alto, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Palo Alto, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Palo Alto, California: care levels, sizes, and official inspection records for each."
 city_name: "Palo Alto"
 county_name: "Santa Clara"

@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Other Areas Senior Living"
-seo_title: "Senior Living in Other Areas, ID — 2 Communities"
-description: "Compare 2 senior living communities in Other Areas, Idaho — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Other Areas, ID - 2 Communities"
+description: "Compare 2 senior living communities in Other Areas, Idaho - care levels, review evidence, and official inspection links for each."
 region_name: "Other Areas"
 state: "idaho"
 state_name: "Idaho"

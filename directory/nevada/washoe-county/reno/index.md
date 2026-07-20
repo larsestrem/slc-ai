@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Reno, NV"
-seo_title: "Senior Living in Reno, NV — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Reno, NV - Assisted Living, Memory Care & More"
 description: "Compare 5 senior living communities in Reno, Nevada: care levels, sizes, and official inspection records for each."
 city_name: "Reno"
 county_name: "Washoe"

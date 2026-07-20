@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Mililani, HI"
-seo_title: "Senior Living in Mililani, HI — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Mililani, HI - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Mililani, Hawaii: care levels, sizes, and official inspection records for each."
 city_name: "Mililani"
 county_name: "Honolulu"

@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Neawanna by the Sea"
-seo_title: "Neawanna by the Sea — Senior Living in Seaside, OR"
+seo_title: "Neawanna by the Sea - Senior Living in Seaside, OR"
 description: "An independent and assisted living community a few blocks from the beach in Seaside, with cottages and apartment-style units plus respite stays. Operated by E"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Neawanna by the Sea", "url": "/directory/oregon/clatsop-county/seaside/neawanna-by-the-sea/"}]
 nearby: [{"name": "Avamere at Seaside", "url": "/directory/oregon/clatsop-county/seaside/avamere-at-seaside/", "city_name": "Seaside", "state_abbrev": "OR", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "An Oregon-licensed residential care community in Seaside offering assisted living with a dedicated memory care unit and an independent living option. Operated by Oregon-based Avamere."}]

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Hillsboro, OR"
-seo_title: "Senior Living in Hillsboro, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Hillsboro, OR - Assisted Living, Memory Care & More"
 description: "Compare 6 senior living communities in Hillsboro, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Hillsboro"
 county_name: "Washington"

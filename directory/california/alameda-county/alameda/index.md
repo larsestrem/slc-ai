@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Alameda, CA"
-seo_title: "Senior Living in Alameda, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Alameda, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Alameda, California: care levels, sizes, and official inspection records for each."
 city_name: "Alameda"
 county_name: "Alameda"

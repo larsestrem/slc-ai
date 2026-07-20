@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Grace Pointe Senior Care Community"
-seo_title: "Grace Pointe Senior Care Community — Senior Living in Greeley, CO"
+seo_title: "Grace Pointe Senior Care Community - Senior Living in Greeley, CO"
 description: "Grace Pointe is a Greeley family-owned continuing care campus offering independent living, assisted living, memory care, skilled nursing, and rehabilitation i"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Grace Pointe Senior Care Community", "url": "/directory/colorado/weld-county/greeley/grace-pointe-senior-care-community/"}]
 nearby: []

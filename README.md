@@ -2,17 +2,15 @@
 
 A senior living directory + decision-support site for families, built in Jekyll.
 Structure modeled on firedepartment.net: **state → county → city → facility**, plus
-organization pages, family guides, and news. The folder structure *is* the directory —
-no database, no server-side code.
+organization pages, family guides, and news. The folder structure *is* the directory - no database, no server-side code.
 
 ## Deploying on Cloudflare Pages
 
-Repository: **github.com/larsestrem/slc-ai** (deployment target is Cloudflare Pages only —
-do not enable GitHub Pages on this repo).
+Repository: **github.com/larsestrem/slc-ai** (deployment target is Cloudflare Pages only - do not enable GitHub Pages on this repo).
 
 **Zero-config mode (current setup):** the built site (`_site/`) is committed to the repo, and
 `wrangler.toml` tells Pages to publish it (`pages_build_output_dir = "_site"`). No dashboard
-build settings are needed — leave the build command empty. The trade-off: after any content
+build settings are needed - leave the build command empty. The trade-off: after any content
 change, rebuild before pushing:
 
 ```sh
@@ -26,7 +24,7 @@ output directory `_site` (exactly that, with the underscore) in the Pages projec
 Then `_site/` can be removed from the repo and re-added to `.gitignore`. The repo pins Ruby
 via `.ruby-version` and commits `Gemfile.lock`, so the build image is ready either way.
 
-The CSS is inlined into every page by Jekyll — an unstyled deployment always means the raw
+The CSS is inlined into every page by Jekyll - an unstyled deployment always means the raw
 source was published instead of `_site`. When you attach the custom domain,
 `senior.living.community` is already the canonical `url` in `_config.yml`.
 
@@ -63,7 +61,7 @@ Listings are quality-gated, not exhaustive:
   strong rating built on multiple reviews (>=4.2 across >=8 reviews; >=5 for small homes),
   with the evidence recorded and dated on the facility record.
 - **Skilled nursing:** gated on the **CMS overall rating (>=4 stars)** rather than consumer
-  reviews — families reviewing stressful short rehab stays rate SNFs structurally lower, so
+  reviews - families reviewing stressful short rehab stays rate SNFs structurally lower, so
   the federal measure is the fairer quality signal there.
 - **Editorial exceptions** (e.g. a CMS 5-star community narrowly missing the consumer bar)
   are allowed; the page still shows the real consumer numbers.
@@ -72,10 +70,10 @@ Listings are quality-gated, not exhaustive:
 
 - **Skilled nursing:** federal CMS Care Compare "Provider Information" dataset (refreshed
   monthly by CMS). `scripts/fetch_cms.py --states OR CA WA NV ID` downloads the current file
-  and merges by CCN — ratings and details refresh, hand-verified fields survive.
+  and merges by CCN - ratings and details refresh, hand-verified fields survive.
   *data.cms.gov is blocked from some sandboxed CI environments; run it from a normal machine.*
 - **Assisted living / memory care / small homes:** licensed by each state, not CMS. Each state's
-  licensing agency (see `_data/states.yml`) publishes license rosters — the next pipeline step is
+  licensing agency (see `_data/states.yml`) publishes license rosters - the next pipeline step is
   a per-state importer for those exports.
 - **Seed data:** the current state files were hand-verified against public sources on
   2026-07-11; every record carries `sources` and `verified_date`.
@@ -93,7 +91,7 @@ Listings are quality-gated, not exhaustive:
 ## State maps
 
 State pages render a local inline-SVG map (simplified outline + clickable city dots sized by
-community count) — no map service, no external requests. Outlines and city coordinates live in
+community count) - no map service, no external requests. Outlines and city coordinates live in
 `data/geo.json`; when you add a facility in a new city, add that city's lat/lon there (the
 generator warns about missing coordinates).
 

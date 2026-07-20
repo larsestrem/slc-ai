@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Jackson County, OR Senior Living"
-seo_title: "Senior Living in Jackson County, OR — 8 Communities"
+seo_title: "Senior Living in Jackson County, OR - 8 Communities"
 description: "Senior living in Jackson County, Oregon: 8 communities across 2 cities, with care levels and inspection links."
 county_name: "Jackson"
 state_name: "Oregon"

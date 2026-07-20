@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Gilbert, AZ"
-seo_title: "Senior Living in Gilbert, AZ — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Gilbert, AZ - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Gilbert, Arizona: care levels, sizes, and official inspection records for each."
 city_name: "Gilbert"
 county_name: "Maricopa"

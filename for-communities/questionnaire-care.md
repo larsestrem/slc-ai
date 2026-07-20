@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Listing Questionnaire: Care & Services"
-description: "Short online questionnaire for senior living communities: care levels, medical and non-medical services, pets, couples, and age policies. About 10 minutes — answers are sent privately to our editors."
+description: "Short online questionnaire for senior living communities: care levels, medical and non-medical services, pets, couples, and age policies. About 10 minutes - answers are sent privately to our editors."
 crumbs:
   - name: For Communities
     url: /for-communities/
@@ -9,11 +9,11 @@ crumbs:
     url: /for-communities/questionnaire-care/
 ---
 
-About 10 minutes. Fill in what you can and skip anything that doesn't apply — partial answers
+About 10 minutes. Fill in what you can and skip anything that doesn't apply - partial answers
 are welcome. Your answers are **sent privately to our editors**; nothing is published until
 we've verified you with your community.
 
-{% include q-form-start.html subject="Listing questionnaire — Care & Services" %}
+{% include q-form-start.html subject="Listing questionnaire - Care & Services" %}
 
   <fieldset>
     <legend>Care levels</legend>
@@ -27,7 +27,7 @@ we've verified you with your community.
     </div>
     <label for="c2">How do care-level assessments work at your community, and how often are residents reassessed?</label>
     <textarea id="c2" name="Q2 Care assessments"></textarea>
-    <label for="c3">Can a resident age in place as needs grow — and where is the line?</label>
+    <label for="c3">Can a resident age in place as needs grow - and where is the line?</label>
     <p class="hint">What needs would require a move?</p>
     <textarea id="c3" name="Q3 Aging in place and its limits"></textarea>
     <label for="c4">Can couples live together when they need different levels of care?</label>
@@ -40,13 +40,13 @@ we've verified you with your community.
     <input type="text" id="c5" name="Q5 Medication management">
     <label for="c6">Nursing coverage <span class="opt">(24/7 RN, daytime RN, LPN, on call)</span></label>
     <input type="text" id="c6" name="Q6 Nursing coverage">
-    <label for="c7">Therapy services on site <span class="opt">(PT / OT / speech — in-house or visiting?)</span></label>
+    <label for="c7">Therapy services on site <span class="opt">(PT / OT / speech - in-house or visiting?)</span></label>
     <input type="text" id="c7" name="Q7 Therapy services">
     <label for="c8">Visiting practitioners <span class="opt">(physician, podiatry, dentistry, mental health)</span></label>
     <input type="text" id="c8" name="Q8 Visiting practitioners">
     <label for="c9">Do you coordinate with <a href="/guides/hospice-and-palliative-care/">hospice</a> for end-of-life care on site?</label>
     <input type="text" id="c9" name="Q9 Hospice coordination">
-    <label for="c10">Conditions you routinely support — and any you cannot</label>
+    <label for="c10">Conditions you routinely support - and any you cannot</label>
     <p class="hint">Diabetes/insulin, oxygen, catheter, two-person transfers…</p>
     <textarea id="c10" name="Q10 Conditions supported and not supported"></textarea>
   </fieldset>
@@ -78,7 +78,7 @@ we've verified you with your community.
   <fieldset>
     <legend>Quality &amp; accountability</legend>
     <p class="hint">Answer these about your general <strong>process</strong>, not any specific
-    incident, resident, or family — we publish policies, not case histories, and we won't
+    incident, resident, or family - we publish policies, not case histories, and we won't
     print details tied to an individual.</p>
     <label for="c17">What is your process when a family or resident raises a concern or complaint?</label>
     <p class="hint">Who receives it, and what's the typical response time?</p>

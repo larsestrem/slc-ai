@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Monterey County, CA Senior Living"
-seo_title: "Senior Living in Monterey County, CA — 4 Communities"
+seo_title: "Senior Living in Monterey County, CA - 4 Communities"
 description: "Senior living in Monterey County, California: 4 communities across 3 cities, with care levels and inspection links."
 county_name: "Monterey"
 state_name: "California"

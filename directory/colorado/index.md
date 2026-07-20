@@ -3,7 +3,7 @@ noindex: true
 layout: "state"
 care_level_counts: [{"slug": "assisted-living", "count": 12}, {"slug": "memory-care", "count": 12}, {"slug": "skilled-nursing", "count": 8}, {"slug": "independent-living", "count": 7}, {"slug": "respite-care", "count": 3}, {"slug": "ccrc", "count": 3}]
 title: "Colorado Senior Living"
-seo_title: "Senior Living in Colorado — Assisted Living, Memory Care & Nursing Homes"
+seo_title: "Senior Living in Colorado - Assisted Living, Memory Care & Nursing Homes"
 description: "Find senior living in Colorado: 16 communities across 14 cities, with care levels, sizes, and links to official state inspection records."
 state_name: "Colorado"
 state_abbrev: "CO"

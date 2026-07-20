@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Seal Beach, CA"
-seo_title: "Senior Living in Seal Beach, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Seal Beach, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Seal Beach, California: care levels, sizes, and official inspection records for each."
 city_name: "Seal Beach"
 county_name: "Orange"

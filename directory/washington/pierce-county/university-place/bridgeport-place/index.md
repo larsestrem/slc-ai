@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Bridgeport Place"
-seo_title: "Bridgeport Place — Senior Living in University Place, WA"
+seo_title: "Bridgeport Place - Senior Living in University Place, WA"
 description: "Bridgeport Place is an independent living, assisted living, and memory care community on Bridgeport Way in University Place, just west of Tacoma."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Bridgeport Place", "url": "/directory/washington/pierce-county/university-place/bridgeport-place/"}]
 nearby: []

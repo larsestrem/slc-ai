@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Escondido, CA"
-seo_title: "Senior Living in Escondido, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Escondido, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Escondido, California: care levels, sizes, and official inspection records for each."
 city_name: "Escondido"
 county_name: "San Diego"

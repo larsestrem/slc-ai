@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Generations"
-seo_title: "Generations — Senior Living Communities & Locations"
+seo_title: "Generations - Senior Living Communities & Locations"
 description: "Generations is a family-owned senior living company that has provided senior care for about 70 years, operating communities in several western states. Its por"
 org_description: "Generations is a family-owned senior living company that has provided senior care for about 70 years, operating communities in several western states. Its portfolio includes Fairfield Village of Layton in Utah, a resort-style campus offering independent living, assisted living, memory care, and post-acute care."
 headquarters: "Portland, Oregon"

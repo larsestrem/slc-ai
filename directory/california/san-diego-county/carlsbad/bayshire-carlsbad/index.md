@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Bayshire Carlsbad"
-seo_title: "Bayshire Carlsbad — Senior Living in Carlsbad, CA"
+seo_title: "Bayshire Carlsbad - Senior Living in Carlsbad, CA"
 description: "Continuing care retirement community on El Camino Real in Carlsbad combining assisted living, memory care, and a Medicare-certified skilled nursing center wit"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Bayshire Carlsbad", "url": "/directory/california/san-diego-county/carlsbad/bayshire-carlsbad/"}]
 nearby: [{"name": "GlenBrook Health Center", "url": "/directory/california/san-diego-county/carlsbad/glenbrook-health-center/", "city_name": "Carlsbad", "state_abbrev": "CA", "care_levels": ["skilled-nursing", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "GlenBrook Health Center is a Medicare-certified skilled nursing facility with 94 certified beds on the La Costa Glen campus in Carlsbad, also offering assisted living, memory care, and short-term rehabilitation."}]

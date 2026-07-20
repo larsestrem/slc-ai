@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Ashford Assisted Living & Memory Care of Draper"
-seo_title: "Ashford Assisted Living & Memory Care of Draper — Senior Living in Draper, UT"
+seo_title: "Ashford Assisted Living & Memory Care of Draper - Senior Living in Draper, UT"
 description: "The Ashford of Draper offers independent living, assisted living, and memory care on Bangerter Parkway in Draper, at the south end of the Salt Lake valley."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Ashford Assisted Living & Memory Care of Draper", "url": "/directory/utah/salt-lake-county/draper/ashford-assisted-living-memory-care-of-draper/"}]
 nearby: []

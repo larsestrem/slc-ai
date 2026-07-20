@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Estancia del Sol"
-seo_title: "Estancia del Sol — Senior Living in Corona, CA"
+seo_title: "Estancia del Sol - Senior Living in Corona, CA"
 description: "Estancia del Sol is a 135-bed senior living community with Spanish-style architecture in Corona, offering independent living, assisted living, memory care and"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Estancia del Sol", "url": "/directory/california/riverside-county/corona/estancia-del-sol/"}]
 nearby: []

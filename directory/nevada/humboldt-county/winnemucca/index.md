@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Winnemucca, NV"
-seo_title: "Senior Living in Winnemucca, NV — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Winnemucca, NV - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Winnemucca, Nevada: care levels, sizes, and official inspection records for each."
 city_name: "Winnemucca"
 county_name: "Humboldt"

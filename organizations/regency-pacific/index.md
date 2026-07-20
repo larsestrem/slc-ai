@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Regency Pacific"
-seo_title: "Regency Pacific — Senior Living Communities & Locations"
+seo_title: "Regency Pacific - Senior Living Communities & Locations"
 description: "Regency Pacific manages senior living and care communities across the Pacific Northwest and Hawaii, offering independent living, assisted living, memory care,"
 org_description: "Regency Pacific manages senior living and care communities across the Pacific Northwest and Hawaii, offering independent living, assisted living, memory care, and skilled nursing. Its Hawaii communities include Regency at Puakea on Kauai and Regency at Hualalai on the Big Island."
 website: "https://www.regency-pacific.com"

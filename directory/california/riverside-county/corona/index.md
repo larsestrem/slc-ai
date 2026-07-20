@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Corona, CA"
-seo_title: "Senior Living in Corona, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Corona, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Corona, California: care levels, sizes, and official inspection records for each."
 city_name: "Corona"
 county_name: "Riverside"

@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "La Posada at Park Centre"
-seo_title: "La Posada at Park Centre — Senior Living in Green Valley, AZ"
+seo_title: "La Posada at Park Centre - Senior Living in Green Valley, AZ"
 description: "La Posada at Park Centre is a nonprofit continuing care retirement community set in a pecan orchard in Green Valley, south of Tucson, with garden homes, apart"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "La Posada at Park Centre", "url": "/directory/arizona/pima-county/green-valley/la-posada-at-park-centre/"}]
 nearby: []

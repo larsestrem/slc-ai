@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Mililani Care Home"
-seo_title: "Mililani Care Home — Senior Living in Mililani, HI"
+seo_title: "Mililani Care Home - Senior Living in Mililani, HI"
 description: "Mililani Care Home is a small, state-licensed Adult Residential Care Home - Level 1 in Mililani, Oahu, licensed for 5 residents, offering 24-hour supervised c"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Mililani Care Home", "url": "/directory/hawaii/honolulu-county/mililani/mililani-care-home/"}]
 nearby: []

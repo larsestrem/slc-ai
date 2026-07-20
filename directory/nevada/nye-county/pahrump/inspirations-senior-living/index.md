@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Inspirations Senior Living"
-seo_title: "Inspirations Senior Living — Senior Living in Pahrump, NV"
+seo_title: "Inspirations Senior Living - Senior Living in Pahrump, NV"
 description: "Spanish-style senior living community in Pahrump with views of the Nopah Mountain Range, offering independent living, assisted living, memory care, and short-"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Inspirations Senior Living", "url": "/directory/nevada/nye-county/pahrump/inspirations-senior-living/"}]
 nearby: []

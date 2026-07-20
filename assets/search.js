@@ -121,15 +121,18 @@
   function initHeaderToggle() {
     var btn = document.querySelector(".search-toggle");
     var panel = document.getElementById("header-search");
+    var navBox = document.querySelector(".nav-toggle-box");
     if (!btn || !panel) return;
     function open() {
       panel.hidden = false;
       btn.setAttribute("aria-expanded", "true");
+      if (navBox) navBox.checked = false;
       var inp = panel.querySelector("input[type=search]");
       if (inp) inp.focus();
     }
     function shut() { panel.hidden = true; btn.setAttribute("aria-expanded", "false"); }
     btn.addEventListener("click", function () { panel.hidden ? open() : shut(); });
+    if (navBox) navBox.addEventListener("change", function () { if (navBox.checked) shut(); });
     document.addEventListener("keydown", function (ev) {
       if (ev.key === "Escape" && !panel.hidden) { shut(); btn.focus(); }
     });

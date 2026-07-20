@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Listing Questionnaire: Daily Life"
-description: "Short online questionnaire for senior living communities: dining, activities, fitness, entertainment, outings, and transportation. About 5–10 minutes — answers are sent privately to our editors."
+description: "Short online questionnaire for senior living communities: dining, activities, fitness, entertainment, outings, and transportation. About 5-10 minutes - answers are sent privately to our editors."
 crumbs:
   - name: For Communities
     url: /for-communities/
@@ -9,11 +9,11 @@ crumbs:
     url: /for-communities/questionnaire-daily-life/
 ---
 
-About 5–10 minutes — and honestly the section families enjoy reading most. Fill in what you
+About 5-10 minutes - and honestly the section families enjoy reading most. Fill in what you
 can; partial answers are welcome. Your answers are **sent privately to our editors**; nothing
 is published until we've verified you with your community.
 
-{% include q-form-start.html subject="Listing questionnaire — Daily Life" %}
+{% include q-form-start.html subject="Listing questionnaire - Daily Life" %}
 
   <fieldset>
     <legend>Dining</legend>
@@ -34,7 +34,7 @@ is published until we've verified you with your community.
   <fieldset>
     <legend>Activities &amp; engagement</legend>
     <label for="d6">A typical week: what's on the calendar?</label>
-    <p class="hint">Feel free to email us a real recent activity calendar too — families love seeing the actual thing.</p>
+    <p class="hint">Feel free to email us a real recent activity calendar too - families love seeing the actual thing.</p>
     <textarea id="d6" name="Q6 Typical week calendar"></textarea>
     <label for="d7">Physical fitness offerings</label>
     <p class="hint">Exercise classes, gym equipment, walking groups, PT-led programs…</p>
@@ -67,5 +67,5 @@ is published until we've verified you with your community.
 
 {% include q-form-end.html %}
 
-Done with all three? Wonderful — you've given families a real picture of your community.
+Done with all three? Wonderful - you've given families a real picture of your community.
 Want to go further? **[Send photos →](/for-communities/photos/)**

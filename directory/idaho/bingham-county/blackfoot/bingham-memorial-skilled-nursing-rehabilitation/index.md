@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Bingham Memorial Skilled Nursing & Rehabilitation"
-seo_title: "Bingham Memorial Skilled Nursing & Rehabilitation — Senior Living in Blackfoot, ID"
+seo_title: "Bingham Memorial Skilled Nursing & Rehabilitation - Senior Living in Blackfoot, ID"
 description: "A 70-bed hospital-based skilled nursing and rehabilitation center attached to Bingham Memorial Hospital in Blackfoot. Its on-campus hospital gives residents r"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Bingham Memorial Skilled Nursing & Rehabilitation", "url": "/directory/idaho/bingham-county/blackfoot/bingham-memorial-skilled-nursing-rehabilitation/"}]
 nearby: []

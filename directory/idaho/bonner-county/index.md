@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Bonner County, ID Senior Living"
-seo_title: "Senior Living in Bonner County, ID — 3 Communities"
+seo_title: "Senior Living in Bonner County, ID - 3 Communities"
 description: "Senior living in Bonner County, Idaho: 3 communities across 1 cities, with care levels and inspection links."
 county_name: "Bonner"
 state_name: "Idaho"

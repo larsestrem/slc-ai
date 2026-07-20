@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Kitsap County, WA Senior Living"
-seo_title: "Senior Living in Kitsap County, WA — 5 Communities"
+seo_title: "Senior Living in Kitsap County, WA - 5 Communities"
 description: "Senior living in Kitsap County, Washington: 5 communities across 3 cities, with care levels and inspection links."
 county_name: "Kitsap"
 state_name: "Washington"

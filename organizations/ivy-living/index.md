@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Ivy Living"
-seo_title: "Ivy Living — Senior Living Communities & Locations"
+seo_title: "Ivy Living - Senior Living Communities & Locations"
 description: "California senior living brand operating Ivy Park assisted living and memory care communities, many of them former Sunrise Senior Living locations. Affiliated"
 org_description: "California senior living brand operating Ivy Park assisted living and memory care communities, many of them former Sunrise Senior Living locations. Affiliated with the Oakmont Management Group family of companies."
 headquarters: "Irvine, California"

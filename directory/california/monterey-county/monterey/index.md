@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Monterey, CA"
-seo_title: "Senior Living in Monterey, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Monterey, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Monterey, California: care levels, sizes, and official inspection records for each."
 city_name: "Monterey"
 county_name: "Monterey"

@@ -2,29 +2,29 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1"><title>Senior Care Budget Worksheet — How Long Will the Money Last? | Senior Living Community</title>
-<meta name="description" content="A private, on-device worksheet: monthly income vs. the real cost of care, the monthly gap, and how many years savings will cover — with rising costs included.">
+<meta name="viewport" content="width=device-width, initial-scale=1"><title>Senior Care Budget Worksheet - How Long Will the Money Last? | Senior Living Community</title>
+<meta name="description" content="A private, on-device worksheet: monthly income vs. the real cost of care, the monthly gap, and how many years savings will cover - with rising costs included.">
 <link rel="canonical" href="https://senior.living.community/tools/budget-worksheet/">
 <meta property="og:site_name" content="Senior Living Community">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Senior Care Budget Worksheet — How Long Will the Money Last?">
-<meta property="og:description" content="A private, on-device worksheet: monthly income vs. the real cost of care, the monthly gap, and how many years savings will cover — with rising costs included.">
+<meta property="og:title" content="Senior Care Budget Worksheet - How Long Will the Money Last?">
+<meta property="og:description" content="A private, on-device worksheet: monthly income vs. the real cost of care, the monthly gap, and how many years savings will cover - with rising costs included.">
 <meta property="og:url" content="https://senior.living.community/tools/budget-worksheet/">
 <meta name="theme-color" content="#0a4aa3">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%230a4aa3'/><path d='M50 22 22 46h8v30h40V46h8z' fill='white'/></svg>">
-<style>/* senior.living.community — SHARED stylesheet, inlined in <head> on every page.
+<style>/* senior.living.community - SHARED stylesheet, inlined in <head> on every page.
    Local only: no webfonts, frameworks, or external requests.
    Page-specific CSS lives in its own include (css/directory.css, css/facility.css,
-   css/post.css) injected only where needed — see _includes/head.html.
+   css/post.css) injected only where needed - see _includes/head.html.
    Palette is WCAG AAA: every text color clears 7:1 on the off-white background. */
 :root {
   --bg: #f7f7f5;          /* warm off-white page */
   --surface: #ffffff;     /* cards / panels */
-  --ink: #1b1d21;         /* body text — 15.7:1 */
-  --muted: #494c52;       /* secondary text — 8.0:1 (AAA at small sizes) */
-  --accent: #0a4aa3;      /* links / primary — 7.8:1 */
-  --accent-strong: #073a82; /* link hover — ~10:1 */
-  --on-accent: #ffffff;   /* text on accent — 8.3:1 */
+  --ink: #1b1d21;         /* body text - 15.7:1 */
+  --muted: #494c52;       /* secondary text - 8.0:1 (AAA at small sizes) */
+  --accent: #0a4aa3;      /* links / primary - 7.8:1 */
+  --accent-strong: #073a82; /* link hover - ~10:1 */
+  --on-accent: #ffffff;   /* text on accent - 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* small-home badge & records-note accent */
@@ -47,7 +47,7 @@ body {
 }
 img { max-width: 100%; height: auto; }
 
-/* Links — underline on hover/focus, blue always */
+/* Links - underline on hover/focus, blue always */
 a { color: var(--accent); text-decoration: none; }
 a:hover, a:focus { color: var(--accent-strong); text-decoration: underline; }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
@@ -138,7 +138,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Read-the-record-first note — a neutral nudge, deliberately NOT red and NOT
+/* Read-the-record-first note - a neutral nudge, deliberately NOT red and NOT
    an icon: it asks the reader to check the official record and reviews, and
    says nothing about what they contain. */
 .records-note { border-left: 4px solid var(--gold); background: #f7f2e4; padding: .7rem .9rem; border-radius: 0 8px 8px 0; font-size: .95rem; }
@@ -236,7 +236,7 @@ tbody tr:hover { background: var(--soft); }
 .q-form .honey { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
 
 /* Claimed-listing perks on cards: photo strip + quiet manager credit.
-   Deliberately modest — a reward for claiming, not a ranking signal. */
+   Deliberately modest - a reward for claiming, not a ranking signal. */
 .card.has-thumb { padding-top: 0; }
 .card .card-thumb { display: block; margin: 0 -1.1rem .7rem; border-radius: var(--radius) var(--radius) 0 0; overflow: hidden; }
 .card .card-thumb img { width: 100%; height: 7rem; object-fit: cover; display: block; }
@@ -296,7 +296,7 @@ tbody tr:hover { background: var(--soft); }
     <article>
   <h1>Senior Care Budget Worksheet</h1>
   <p class="lead">The question behind every senior care decision: <em>how long will the money
-  last?</em> Enter monthly income, the care cost you're considering, and savings — this page
+  last?</em> Enter monthly income, the care cost you're considering, and savings - this page
   does the runway math, including annual cost increases. Nothing you type leaves your device.</p>
 
   <div class="two-col">
@@ -322,25 +322,25 @@ tbody tr:hover { background: var(--soft); }
       <div class="panel" id="results" aria-live="polite">
         <h2>The math</h2>
         <dl class="kv">
-          <dt>Total monthly income</dt><dd id="r-income">—</dd>
-          <dt>Monthly care cost</dt><dd id="r-cost">—</dd>
-          <dt>Monthly gap</dt><dd id="r-gap">—</dd>
-          <dt>Assets available</dt><dd id="r-assets">—</dd>
-          <dt><strong>Runway</strong></dt><dd id="r-runway"><strong>—</strong></dd>
+          <dt>Total monthly income</dt><dd id="r-income"> - </dd>
+          <dt>Monthly care cost</dt><dd id="r-cost"> - </dd>
+          <dt>Monthly gap</dt><dd id="r-gap"> - </dd>
+          <dt>Assets available</dt><dd id="r-assets"> - </dd>
+          <dt><strong>Runway</strong></dt><dd id="r-runway"><strong> - </strong></dd>
         </dl>
         <p class="count" id="r-note"></p>
       </div>
       <section class="prose">
         <h2>Reading your number</h2>
         <p><strong>Runway under 3 years:</strong> talk to an elder law attorney <em>now</em> about
-        <a href="/guides/medicaid-vs-medicare/">Medicaid</a> planning — the 5-year look-back rewards early
-        action — and ask every community whether they accept Medicaid after private pay.
-        <strong>3–7 years:</strong> you have options; compare communities on their Medicaid policy
+        <a href="/guides/medicaid-vs-medicare/">Medicaid</a> planning - the 5-year look-back rewards early
+        action - and ask every community whether they accept Medicaid after private pay.
+        <strong>3-7 years:</strong> you have options; compare communities on their Medicaid policy
         anyway, and read <a href="/guides/paying-for-senior-care/">the full funding toolkit</a>.
-        <strong>Over 7 years:</strong> choose on fit, not fear — and still get the
+        <strong>Over 7 years:</strong> choose on fit, not fear - and still get the
         <a href="/guides/whats-not-included-hidden-fees/">fee schedule in writing</a>.</p>
         <p class="notice">This is arithmetic, not financial advice. Costs rise with care needs,
-        not just inflation — treat the runway as optimistic, and pressure-test big decisions
+        not just inflation - treat the runway as optimistic, and pressure-test big decisions
         with a fee-only financial planner or elder law attorney.</p>
       </section>
     </div>
@@ -361,13 +361,13 @@ tbody tr:hover { background: var(--soft); }
     var inc = parseFloat($("inc").value);
     var assets = (parseFloat($("savings").value) || 0) + (parseFloat($("home").value) || 0);
     $("r-income").textContent = fmt(income) + "/mo";
-    $("r-cost").textContent = cost ? fmt(cost) + "/mo" : "—";
+    $("r-cost").textContent = cost ? fmt(cost) + "/mo" : " - ";
     var gap = cost - income;
-    $("r-gap").textContent = cost ? (gap > 0 ? fmt(gap) + "/mo shortfall" : "covered by income (+" + fmt(-gap) + "/mo)") : "—";
+    $("r-gap").textContent = cost ? (gap > 0 ? fmt(gap) + "/mo shortfall" : "covered by income (+" + fmt(-gap) + "/mo)") : " - ";
     $("r-assets").textContent = fmt(assets);
-    var out = "—", note = "";
+    var out = " - ", note = "";
     if (cost > 0) {
-      if (gap <= 0) { out = "Income covers the cost"; note = "Even so, plan for rising care levels — see the guides below."; }
+      if (gap <= 0) { out = "Income covers the cost"; note = "Even so, plan for rising care levels - see the guides below."; }
       else {
         var bal = assets, months = 0, g = gap, c = cost;
         while (bal > 0 && months < 600) {
@@ -426,7 +426,7 @@ tbody tr:hover { background: var(--soft); }
     </div>
     <p class="fine">
       Senior Living Community is an independent information resource for families. We are not a referral
-      service and do not provide medical, legal, or financial advice — for decisions about care,
+      service and do not provide medical, legal, or financial advice - for decisions about care,
       consult the professionals involved. Facility details change; always confirm directly with a
       community. Listings are never paid placements. Last data review: 2026-07-11.
       Run a senior living community? <a href="/for-communities/">Claim your free listing</a> or

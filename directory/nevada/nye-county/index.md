@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Nye County, NV Senior Living"
-seo_title: "Senior Living in Nye County, NV — 1 Communities"
+seo_title: "Senior Living in Nye County, NV - 1 Communities"
 description: "Senior living in Nye County, Nevada: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Nye"
 state_name: "Nevada"

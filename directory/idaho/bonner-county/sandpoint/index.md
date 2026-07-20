@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Sandpoint, ID"
-seo_title: "Senior Living in Sandpoint, ID — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Sandpoint, ID - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Sandpoint, Idaho: care levels, sizes, and official inspection records for each."
 city_name: "Sandpoint"
 county_name: "Bonner"

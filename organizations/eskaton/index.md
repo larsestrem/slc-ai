@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Eskaton"
-seo_title: "Eskaton — Senior Living Communities & Locations"
+seo_title: "Eskaton - Senior Living Communities & Locations"
 description: "Eskaton is a nonprofit senior living and services provider founded in 1968 and headquartered in Carmichael, California. It serves more than 14,000 older adult"
 org_description: "Eskaton is a nonprofit senior living and services provider founded in 1968 and headquartered in Carmichael, California. It serves more than 14,000 older adults annually across Northern California, from Nevada County to the Bay Area, with communities and services spanning independent living, assisted living, memory care, skilled nursing, and home-based care."
 headquarters: "Carmichael, California"

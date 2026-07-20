@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Manteca, CA"
-seo_title: "Senior Living in Manteca, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Manteca, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Manteca, California: care levels, sizes, and official inspection records for each."
 city_name: "Manteca"
 county_name: "San Joaquin"

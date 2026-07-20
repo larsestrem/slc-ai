@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Motion Picture & Television Hospital Skilled Nursing Facility"
-seo_title: "Motion Picture & Television Hospital Skilled Nursing Facility — Senior Living in Woodland Hills, CA"
+seo_title: "Motion Picture & Television Hospital Skilled Nursing Facility - Senior Living in Woodland Hills, CA"
 description: "Nonprofit skilled nursing facility on the Motion Picture & Television Fund's Wasserman Campus in Woodland Hills, historically serving entertainment industry m"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Motion Picture & Television Hospital Skilled Nursing Facility", "url": "/directory/california/los-angeles-county/woodland-hills/motion-picture-television-hospital-skilled-nursing-facility/"}]
 nearby: []

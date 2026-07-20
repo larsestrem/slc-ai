@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Village Concepts"
-seo_title: "Village Concepts — Senior Living Communities & Locations"
+seo_title: "Village Concepts - Senior Living Communities & Locations"
 description: "Village Concepts is a family-owned Washington senior housing operator founded in 1975, running more than a dozen retirement, assisted living, and adult family"
 org_description: "Village Concepts is a family-owned Washington senior housing operator founded in 1975, running more than a dozen retirement, assisted living, and adult family home communities across the state. Its portfolio emphasizes mid-priced, community-oriented retirement living in smaller Washington cities."
 headquarters: "Federal Way, Washington"

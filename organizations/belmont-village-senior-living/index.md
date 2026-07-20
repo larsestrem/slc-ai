@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Belmont Village Senior Living"
-seo_title: "Belmont Village Senior Living — Senior Living Communities & Locations"
+seo_title: "Belmont Village Senior Living - Senior Living Communities & Locations"
 description: "Houston-based developer and operator of upscale assisted living and memory care communities, with roughly 33 communities across the United States and a strong"
 org_description: "Houston-based developer and operator of upscale assisted living and memory care communities, with roughly 33 communities across the United States and a strong presence in Southern California. Belmont Village communities emphasize licensed nursing, enrichment programming, and hospitality-style dining."
 headquarters: "Houston, Texas"

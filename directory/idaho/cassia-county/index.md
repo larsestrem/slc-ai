@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Cassia County, ID Senior Living"
-seo_title: "Senior Living in Cassia County, ID — 1 Communities"
+seo_title: "Senior Living in Cassia County, ID - 1 Communities"
 description: "Senior living in Cassia County, Idaho: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Cassia"
 state_name: "Idaho"

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Kailua, HI"
-seo_title: "Senior Living in Kailua, HI — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Kailua, HI - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Kailua, Hawaii: care levels, sizes, and official inspection records for each."
 city_name: "Kailua"
 county_name: "Honolulu"

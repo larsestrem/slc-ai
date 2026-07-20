@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Sacramento County, CA Senior Living"
-seo_title: "Senior Living in Sacramento County, CA — 11 Communities"
+seo_title: "Senior Living in Sacramento County, CA - 11 Communities"
 description: "Senior living in Sacramento County, California: 11 communities across 7 cities, with care levels and inspection links."
 county_name: "Sacramento"
 state_name: "California"

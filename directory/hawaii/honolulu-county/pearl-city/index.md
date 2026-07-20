@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Pearl City, HI"
-seo_title: "Senior Living in Pearl City, HI — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Pearl City, HI - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Pearl City, Hawaii: care levels, sizes, and official inspection records for each."
 city_name: "Pearl City"
 county_name: "Honolulu"

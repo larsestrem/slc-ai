@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Veterans Care Centers of Oregon"
-seo_title: "Veterans Care Centers of Oregon — Senior Living Communities & Locations"
+seo_title: "Veterans Care Centers of Oregon - Senior Living Communities & Locations"
 description: "Veterans Care Centers of Oregon is a nonprofit organization that manages day-to-day operations of Oregon's state veterans homes on behalf of the Oregon Depart"
 org_description: "Veterans Care Centers of Oregon is a nonprofit organization that manages day-to-day operations of Oregon's state veterans homes on behalf of the Oregon Department of Veterans' Affairs, including the Edward C. Allworth Veterans' Home in Lebanon and the Oregon Veterans' Home in The Dalles. The homes provide skilled nursing, rehabilitation, and memory care for veterans and eligible family members."
 headquarters: "Oregon"

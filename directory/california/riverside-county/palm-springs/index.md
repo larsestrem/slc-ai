@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Palm Springs, CA"
-seo_title: "Senior Living in Palm Springs, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Palm Springs, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Palm Springs, California: care levels, sizes, and official inspection records for each."
 city_name: "Palm Springs"
 county_name: "Riverside"

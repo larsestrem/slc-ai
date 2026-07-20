@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Shelton, WA"
-seo_title: "Senior Living in Shelton, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Shelton, WA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Shelton, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Shelton"
 county_name: "Mason"

@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Cascades of Bremerton"
-seo_title: "Cascades of Bremerton — Senior Living in Bremerton, WA"
+seo_title: "Cascades of Bremerton - Senior Living in Bremerton, WA"
 description: "Cascades of Bremerton is a campus-style community offering independent living (The Willows), assisted living, and memory care in East Bremerton."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Cascades of Bremerton", "url": "/directory/washington/kitsap-county/bremerton/cascades-of-bremerton/"}]
 nearby: [{"name": "Bay Pointe by Cogir", "url": "/directory/washington/kitsap-county/bremerton/bay-pointe-by-cogir/", "city_name": "Bremerton", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "Bay Pointe by Cogir sits on Oyster Bay in Bremerton and has served seniors for more than 20 years, offering independent living, assisted living and the Marine Courte memory care neighborhood."}, {"name": "Vineyard Park at Bremerton Senior Living", "url": "/directory/washington/kitsap-county/bremerton/vineyard-park-at-bremerton-senior-living/", "city_name": "Bremerton", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Vineyard Park at Bremerton Senior Living is a senior living campus at 2707 Clare Ave in Bremerton offering independent living, assisted living, and memory care, serving the Bremerton, Silverdale, Poulsbo, and Port Orchard area since 1984. It is currently managed by CarePartners Senior Living."}]

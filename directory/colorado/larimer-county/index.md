@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Larimer County, CO Senior Living"
-seo_title: "Senior Living in Larimer County, CO — 2 Communities"
+seo_title: "Senior Living in Larimer County, CO - 2 Communities"
 description: "Senior living in Larimer County, Colorado: 2 communities across 2 cities, with care levels and inspection links."
 county_name: "Larimer"
 state_name: "Colorado"

@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Walla Walla County, WA Senior Living"
-seo_title: "Senior Living in Walla Walla County, WA — 2 Communities"
+seo_title: "Senior Living in Walla Walla County, WA - 2 Communities"
 description: "Senior living in Walla Walla County, Washington: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Walla Walla"
 state_name: "Washington"

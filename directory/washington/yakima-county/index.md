@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Yakima County, WA Senior Living"
-seo_title: "Senior Living in Yakima County, WA — 2 Communities"
+seo_title: "Senior Living in Yakima County, WA - 2 Communities"
 description: "Senior living in Yakima County, Washington: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Yakima"
 state_name: "Washington"

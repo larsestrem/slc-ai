@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Grace Assisted Living"
-seo_title: "Grace Assisted Living — Senior Living Communities & Locations"
+seo_title: "Grace Assisted Living - Senior Living Communities & Locations"
 description: "Grace Assisted Living (Grace Senior Community) is an Idaho-based operator of independent living, assisted living, and memory care communities in the Treasure "
 org_description: "Grace Assisted Living (Grace Senior Community) is an Idaho-based operator of independent living, assisted living, and memory care communities in the Treasure Valley, with locations including Meridian, Boise, Nampa, and Caldwell."
 headquarters: "Boise, Idaho"

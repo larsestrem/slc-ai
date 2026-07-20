@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Southwest Washington Senior Living"
-seo_title: "Senior Living in Southwest Washington, WA — 22 Communities"
-description: "Compare 22 senior living communities in Southwest Washington, Washington — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Southwest Washington, WA - 22 Communities"
+description: "Compare 22 senior living communities in Southwest Washington, Washington - care levels, review evidence, and official inspection links for each."
 region_name: "Southwest Washington"
 state: "washington"
 state_name: "Washington"

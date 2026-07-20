@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Senior Care Budget Worksheet — How Long Will the Money Last?"
-description: "A private, on-device worksheet: monthly income vs. the real cost of care, the monthly gap, and how many years savings will cover — with rising costs included."
+title: "Senior Care Budget Worksheet - How Long Will the Money Last?"
+description: "A private, on-device worksheet: monthly income vs. the real cost of care, the monthly gap, and how many years savings will cover - with rising costs included."
 permalink: /tools/budget-worksheet/
 crumbs:
   - name: Budget Worksheet
@@ -10,7 +10,7 @@ crumbs:
 <article>
   <h1>Senior Care Budget Worksheet</h1>
   <p class="lead">The question behind every senior care decision: <em>how long will the money
-  last?</em> Enter monthly income, the care cost you're considering, and savings — this page
+  last?</em> Enter monthly income, the care cost you're considering, and savings - this page
   does the runway math, including annual cost increases. Nothing you type leaves your device.</p>
 
   <div class="two-col">
@@ -36,25 +36,25 @@ crumbs:
       <div class="panel" id="results" aria-live="polite">
         <h2>The math</h2>
         <dl class="kv">
-          <dt>Total monthly income</dt><dd id="r-income">—</dd>
-          <dt>Monthly care cost</dt><dd id="r-cost">—</dd>
-          <dt>Monthly gap</dt><dd id="r-gap">—</dd>
-          <dt>Assets available</dt><dd id="r-assets">—</dd>
-          <dt><strong>Runway</strong></dt><dd id="r-runway"><strong>—</strong></dd>
+          <dt>Total monthly income</dt><dd id="r-income"> - </dd>
+          <dt>Monthly care cost</dt><dd id="r-cost"> - </dd>
+          <dt>Monthly gap</dt><dd id="r-gap"> - </dd>
+          <dt>Assets available</dt><dd id="r-assets"> - </dd>
+          <dt><strong>Runway</strong></dt><dd id="r-runway"><strong> - </strong></dd>
         </dl>
         <p class="count" id="r-note"></p>
       </div>
       <section class="prose">
         <h2>Reading your number</h2>
         <p><strong>Runway under 3 years:</strong> talk to an elder law attorney <em>now</em> about
-        <a href="/guides/medicaid-vs-medicare/">Medicaid</a> planning — the 5-year look-back rewards early
-        action — and ask every community whether they accept Medicaid after private pay.
-        <strong>3–7 years:</strong> you have options; compare communities on their Medicaid policy
+        <a href="/guides/medicaid-vs-medicare/">Medicaid</a> planning - the 5-year look-back rewards early
+        action - and ask every community whether they accept Medicaid after private pay.
+        <strong>3-7 years:</strong> you have options; compare communities on their Medicaid policy
         anyway, and read <a href="/guides/paying-for-senior-care/">the full funding toolkit</a>.
-        <strong>Over 7 years:</strong> choose on fit, not fear — and still get the
+        <strong>Over 7 years:</strong> choose on fit, not fear - and still get the
         <a href="/guides/whats-not-included-hidden-fees/">fee schedule in writing</a>.</p>
         <p class="notice">This is arithmetic, not financial advice. Costs rise with care needs,
-        not just inflation — treat the runway as optimistic, and pressure-test big decisions
+        not just inflation - treat the runway as optimistic, and pressure-test big decisions
         with a fee-only financial planner or elder law attorney.</p>
       </section>
     </div>
@@ -75,13 +75,13 @@ crumbs:
     var inc = parseFloat($("inc").value);
     var assets = (parseFloat($("savings").value) || 0) + (parseFloat($("home").value) || 0);
     $("r-income").textContent = fmt(income) + "/mo";
-    $("r-cost").textContent = cost ? fmt(cost) + "/mo" : "—";
+    $("r-cost").textContent = cost ? fmt(cost) + "/mo" : " - ";
     var gap = cost - income;
-    $("r-gap").textContent = cost ? (gap > 0 ? fmt(gap) + "/mo shortfall" : "covered by income (+" + fmt(-gap) + "/mo)") : "—";
+    $("r-gap").textContent = cost ? (gap > 0 ? fmt(gap) + "/mo shortfall" : "covered by income (+" + fmt(-gap) + "/mo)") : " - ";
     $("r-assets").textContent = fmt(assets);
-    var out = "—", note = "";
+    var out = " - ", note = "";
     if (cost > 0) {
-      if (gap <= 0) { out = "Income covers the cost"; note = "Even so, plan for rising care levels — see the guides below."; }
+      if (gap <= 0) { out = "Income covers the cost"; note = "Even so, plan for rising care levels - see the guides below."; }
       else {
         var bal = assets, months = 0, g = gap, c = cost;
         while (bal > 0 && months < 600) {

@@ -4,7 +4,7 @@ title: "Photos of Alder Grove Senior Living"
 description: "Sample photo gallery page showing how a community-verified listing presents its full photo set."
 noindex: true
 sitemap: false
-sample_notice: "Alder Grove Senior Living is a fictional community and every image here is an illustration, not a photograph — this page shows how a real community's full photo gallery looks."
+sample_notice: "Alder Grove Senior Living is a fictional community and every image here is an illustration, not a photograph - this page shows how a real community's full photo gallery looks."
 community_name: "Alder Grove Senior Living"
 profile_url: /for-communities/example-profile/
 claimed_by: "Maria Alvarez"

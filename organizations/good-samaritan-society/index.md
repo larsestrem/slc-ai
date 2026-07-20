@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Good Samaritan Society"
-seo_title: "Good Samaritan Society — Senior Living Communities & Locations"
+seo_title: "Good Samaritan Society - Senior Living Communities & Locations"
 description: "The Evangelical Lutheran Good Samaritan Society is one of the largest nonprofit providers of senior care and services in the United States and has been an aff"
 org_description: "The Evangelical Lutheran Good Samaritan Society is one of the largest nonprofit providers of senior care and services in the United States and has been an affiliate of Sanford Health since 2019. Pohai Nani in Kaneohe is its Hawaii continuing care retirement community."
 headquarters: "Sioux Falls, South Dakota"

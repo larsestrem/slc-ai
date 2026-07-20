@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Chehalis, WA"
-seo_title: "Senior Living in Chehalis, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Chehalis, WA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Chehalis, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Chehalis"
 county_name: "Lewis"

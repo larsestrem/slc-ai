@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "MorningStar of Fort Collins"
-seo_title: "MorningStar of Fort Collins — Senior Living in Fort Collins, CO"
+seo_title: "MorningStar of Fort Collins - Senior Living in Fort Collins, CO"
 description: "MorningStar of Fort Collins offers 55 assisted living suites and 24 memory care suites in its Reflections Neighborhood, across from Warren Lake and Collindale"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "MorningStar of Fort Collins", "url": "/directory/colorado/larimer-county/fort-collins/morningstar-of-fort-collins/"}]
 nearby: []

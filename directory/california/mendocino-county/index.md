@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Mendocino County, CA Senior Living"
-seo_title: "Senior Living in Mendocino County, CA — 1 Communities"
+seo_title: "Senior Living in Mendocino County, CA - 1 Communities"
 description: "Senior living in Mendocino County, California: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Mendocino"
 state_name: "California"

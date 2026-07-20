@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Salt Lake County, UT Senior Living"
-seo_title: "Senior Living in Salt Lake County, UT — 5 Communities"
+seo_title: "Senior Living in Salt Lake County, UT - 5 Communities"
 description: "Senior living in Salt Lake County, Utah: 5 communities across 5 cities, with care levels and inspection links."
 county_name: "Salt Lake"
 state_name: "Utah"

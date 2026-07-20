@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Napa County, CA Senior Living"
-seo_title: "Senior Living in Napa County, CA — 2 Communities"
+seo_title: "Senior Living in Napa County, CA - 2 Communities"
 description: "Senior living in Napa County, California: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Napa"
 state_name: "California"

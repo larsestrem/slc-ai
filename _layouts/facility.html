@@ -11,12 +11,12 @@ layout: default
 
   {%- if page.contributors and page.contributors.size > 0 %}
   {%- assign c0 = page.contributors[0] %}{% assign c1 = page.contributors[1] %}
-  <p class="claimed-badge">✓ Community-verified profile — sections marked
+  <p class="claimed-badge">✓ Community-verified profile - sections marked
   <span class="from-community">From the community</span> were updated by
   {{ c0.name }} ({{ c0.role }}){% if page.contributors.size == 2 %} and {{ c1.name }} ({{ c1.role }}){% elsif page.contributors.size > 2 %}, {{ c1.name }} ({{ c1.role }}), and <a href="#contributors">{{ page.contributors.size | minus: 2 }} more</a>{% endif %}
   · <a href="/for-communities/#how-claiming-works">how we verify updaters</a></p>
   {%- elsif page.claimed_date %}
-  <p class="claimed-badge">✓ Community-verified profile — sections marked
+  <p class="claimed-badge">✓ Community-verified profile - sections marked
   <span class="from-community">From the community</span> were provided by
   {% if page.claimed_by %}{{ page.claimed_by }}{% if page.claimed_role %} ({{ page.claimed_role }}){% endif %}{% else %}verified staff{% endif %}
   on {{ page.claimed_date }} · <a href="/for-communities/#how-claiming-works">how we verify updaters</a></p>
@@ -26,7 +26,7 @@ layout: default
   {%- comment %} One large photo + up to four tiles in a 2x2 grid beside it
       (stacked on mobile). More than five photos: the hero shows the first five
       and links to the full photo gallery page. Clicking any photo opens it full
-      screen via a CSS-only :target lightbox — no JavaScript; clicking anywhere
+      screen via a CSS-only :target lightbox - no JavaScript; clicking anywhere
       on the open image closes it. {% endcomment %}
   <div class="hero-gallery{% if page.photos.size == 1 %} single{% endif %}" id="gallery">
     {%- for ph in page.photos limit: 5 %}
@@ -66,7 +66,7 @@ layout: default
           {%- if page.website %}<dt>Website</dt><dd><a href="{{ page.website }}" rel="noopener nofollow">{{ page.website | remove: 'https://' | remove: 'http://' | remove: 'www.' | split: '/' | first }}</a></dd>{% endif %}
           {%- if page.capacity %}<dt>Capacity</dt><dd>{{ page.capacity }} residents</dd>{% endif %}
           {%- if page.management_since %}<dt>Current management</dt><dd>Since {{ page.management_since }} <span class="count">(<a href="/guides/warning-signs-when-choosing-a-facility/">why leadership tenure matters</a>)</span></dd>{% endif %}
-          {%- if page.facility_size %}<dt>Community size</dt><dd>{% if page.facility_size == 'small' %}Small residential care home — <a href="/guides/adult-family-homes/">what that means</a>{% elsif page.facility_size == 'medium' %}Mid-size community{% else %}Large community{% endif %}</dd>{% endif %}
+          {%- if page.facility_size %}<dt>Community size</dt><dd>{% if page.facility_size == 'small' %}Small residential care home - <a href="/guides/adult-family-homes/">what that means</a>{% elsif page.facility_size == 'medium' %}Mid-size community{% else %}Large community{% endif %}</dd>{% endif %}
         </dl>
       </section>
 
@@ -100,17 +100,17 @@ layout: default
         <p class="muted-note">{% unless page.claimed_date %}This profile isn't yet
         <a href="/for-communities/">managed by the community</a>, so it can't describe their
         programs in their own words. {% endunless %}Below is a general description of each
-        type of care offered at this community — for the specifics of how <em>they</em> do
+        type of care offered at this community - for the specifics of how <em>they</em> do
         it, ask on your <a href="/guides/touring-checklist/">tour</a>.</p>
         <ul>
           {%- for lv in page.care_levels %}
           {%- assign info = site.data.care_levels[lv] %}
-          <li><strong>{{ info.label }}</strong> — <a href="{{ info.guide }}">what {{ info.label | downcase }} includes and who it fits</a></li>
+          <li><strong>{{ info.label }}</strong> - <a href="{{ info.guide }}">what {{ info.label | downcase }} includes and who it fits</a></li>
           {%- endfor %}
         </ul>
         {%- endif %}
         <p>Care needs usually grow over time. Ask every community what happens when your parent
-        needs more care than their current level — moving twice is hard on everyone.
+        needs more care than their current level - moving twice is hard on everyone.
         See <a href="/guides/levels-of-care-explained/">levels of care explained</a>.</p>
       </section>
 
@@ -138,8 +138,7 @@ layout: default
         <h3>Amenities</h3>
         <ul class="badges" aria-label="Amenities">{% for a in page.amenities %}<li><span class="badge">{{ a }}</span></li>{% endfor %}</ul>
         {%- endif %}
-        <p class="notice" style="margin-bottom:0">Menus, calendars, and amenities change —
-        <a href="/guides/food-and-dining/">judge the dining</a> and
+        <p class="notice" style="margin-bottom:0">Menus, calendars, and amenities change - <a href="/guides/food-and-dining/">judge the dining</a> and
         <a href="/guides/activities-and-engagement/">the activity program</a> in person on your tour.</p>
       </section>
       {%- endif %}
@@ -149,10 +148,10 @@ layout: default
         <h2 id="team-h">The people who run {{ page.title }} <span class="from-community">From the community</span></h2>
         <ul>
           {%- for m in page.team_preview %}
-          <li><a href="{{ page.team_url }}#{{ m.name | slugify }}">{{ m.name }}</a> <span class="role">— {{ m.role }}</span></li>
+          <li><a href="{{ page.team_url }}#{{ m.name | slugify }}">{{ m.name }}</a> <span class="role"> - {{ m.role }}</span></li>
           {%- endfor %}
         </ul>
-        <p style="margin-bottom:0"><a class="btn ghost" href="{{ page.team_url }}">Meet the team — experience &amp; background &rarr;</a></p>
+        <p style="margin-bottom:0"><a class="btn ghost" href="{{ page.team_url }}">Meet the team - experience &amp; background &rarr;</a></p>
       </section>
       {%- endif %}
 
@@ -171,8 +170,7 @@ layout: default
           </div>
           {%- endfor %}
         </div>
-        <p class="notice" style="margin-bottom:0">Floor plans and what's included vary by apartment —
-        confirm current layouts and availability on your <a href="/guides/touring-checklist/">tour</a>.</p>
+        <p class="notice" style="margin-bottom:0">Floor plans and what's included vary by apartment - confirm current layouts and availability on your <a href="/guides/touring-checklist/">tour</a>.</p>
       </section>
       {%- endif %}
 
@@ -187,8 +185,8 @@ layout: default
       {%- if page.concern_response %}
       <section class="panel" aria-labelledby="response-h">
         <h2 id="response-h">How we handle concerns <span class="from-community">From the community</span></h2>
-        <p class="muted-note">We ask every community that claims its listing to describe — in its own
-        words — its <em>process</em> when a family raises a concern. We ask about process only,
+        <p class="muted-note">We ask every community that claims its listing to describe - in its own
+        words - its <em>process</em> when a family raises a concern. We ask about process only,
         never about specific incidents or residents.
         <a href="/guides/why-good-communities-get-complaints/">Why this answer matters</a>.</p>
         <blockquote>{{ page.concern_response }}</blockquote>
@@ -215,7 +213,7 @@ layout: default
         {%- endif %}
         <p{% if page.pets or page.medical_services %} class="notice" style="margin-bottom:0"{% endif %}>
         Every community sets its own rules on <a href="/guides/pets-partners-and-age-requirements/">pets,
-        couples moving in together, and age requirements</a> — and its own menu of
+        couples moving in together, and age requirements</a> - and its own menu of
         <a href="/guides/medical-and-non-medical-services/">medical and non-medical services</a>,
         including transportation. Ask for the current policies and a full service list in writing;
         details here can change and anything unlisted should be confirmed on your tour.</p>
@@ -242,7 +240,7 @@ layout: default
         </dl>
         {%- if page.pricing_as_of %}<p class="count">Rates as of {{ page.pricing_as_of }}, provided by the community.</p>{% endif %}
         {%- endif %}
-        <p class="notice" style="margin-bottom:0">Starting rates rarely tell the whole story — always
+        <p class="notice" style="margin-bottom:0">Starting rates rarely tell the whole story - always
         confirm current pricing directly and ask
         <a href="/guides/whats-not-included-hidden-fees/">what's not included</a>.</p>
       </section>
@@ -263,12 +261,12 @@ layout: default
 
   <section class="panel claim" aria-labelledby="claim-h">
     <h2 id="claim-h">Do you work at {{ page.title }}?</h2>
-    <p>Families make one of their biggest decisions with pages like this one — and nobody can
+    <p>Families make one of their biggest decisions with pages like this one - and nobody can
     describe your community better than the people who work there. If you're on staff or manage
     this community, you can update these details, answer short topic-by-topic questionnaires
     (each takes just a few minutes), and share photos of your community. It's free, and accurate
     listings help the right families find you.</p>
-    <p>We know how demanding this work is, and this page isn't here to grade you — it's here to
+    <p>We know how demanding this work is, and this page isn't here to grade you - it's here to
     connect you with the right families. One thing families consistently want to know:
     <a href="/guides/why-good-communities-get-complaints/">how a community handles concerns when
     they come up</a>. Our questionnaire gives you room to describe your process in your own words.</p>
@@ -280,11 +278,10 @@ layout: default
     <h2 id="contrib-h">Community updates to this listing</h2>
     <ul>
       {%- for c in page.contributors %}
-      <li>{{ c.name }}, {{ c.role }}{% if c.sections %} — {{ c.sections }}{% endif %} ({{ c.date }})</li>
+      <li>{{ c.name }}, {{ c.role }}{% if c.sections %} - {{ c.sections }}{% endif %} ({{ c.date }})</li>
       {%- endfor %}
     </ul>
-    <p>Every update comes from a person we individually verified as staff of this community —
-    <a href="/for-communities/#how-claiming-works">how verification works</a>.</p>
+    <p>Every update comes from a person we individually verified as staff of this community - <a href="/for-communities/#how-claiming-works">how verification works</a>.</p>
   </section>
   {%- endif %}
 
@@ -304,10 +301,9 @@ layout: default
   <p class="notice">
     Details verified against public sources on {{ page.verified_date | default: site.data_vintage.last_verified }}.
     {%- if page.sources %} Sources:{% for s in page.sources %} <a href="{{ s }}" rel="nofollow noopener">[{{ forloop.index }}]</a>{% endfor %}.{% endif %}
-    Availability, pricing, and services change — always confirm directly with the community.
+    Availability, pricing, and services change - always confirm directly with the community.
     See something inaccurate?
-    <a href="/report-a-correction/?community={{ page.title | append: ' — ' | append: page.city_name | append: ', ' | append: page.state_abbrev | url_encode }}">Report it</a>
-    — or if you work at {{ page.title }}, <a href="/for-communities/">claim and manage this profile</a>.
+    <a href="/report-a-correction/?community={{ page.title | append: ' - ' | append: page.city_name | append: ', ' | append: page.state_abbrev | url_encode }}">Report it</a> - or if you work at {{ page.title }}, <a href="/for-communities/">claim and manage this profile</a>.
   </p>
 </article>
 {%- unless page.sample_notice %}

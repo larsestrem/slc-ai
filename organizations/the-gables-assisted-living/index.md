@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "The Gables Assisted Living and Memory Care"
-seo_title: "The Gables Assisted Living and Memory Care — Senior Living Communities & Locations"
+seo_title: "The Gables Assisted Living and Memory Care - Senior Living Communities & Locations"
 description: "The Gables Assisted Living and Memory Care is a family-oriented provider of assisted living, memory care, and in-home care operating small, home-style communi"
 org_description: "The Gables Assisted Living and Memory Care is a family-oriented provider of assisted living, memory care, and in-home care operating small, home-style communities across eastern and western Idaho and northern Utah. Locations include Idaho Falls, Pocatello, Blackfoot, and Shelley in Idaho, and North Logan and Brigham City in Utah."
 headquarters: "Idaho Falls, Idaho"

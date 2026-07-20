@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Corvallis, OR"
-seo_title: "Senior Living in Corvallis, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Corvallis, OR - Assisted Living, Memory Care & More"
 description: "Compare 6 senior living communities in Corvallis, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Corvallis"
 county_name: "Benton"

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Grants Pass, OR"
-seo_title: "Senior Living in Grants Pass, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Grants Pass, OR - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Grants Pass, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Grants Pass"
 county_name: "Josephine"

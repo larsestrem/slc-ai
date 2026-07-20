@@ -1,7 +1,7 @@
 ---
 noindex: true
 layout: page
-title: "Apply to Be Listed — Placement Professional Application"
+title: "Apply to Be Listed - Placement Professional Application"
 description: "Application for senior living placement professionals: business standing, state registration, fee disclosure, insurance, credentials, and conflict-of-interest questions."
 crumbs:
   - name: Placement Professionals
@@ -11,7 +11,7 @@ crumbs:
 ---
 
 Listing is free for our founding cohort of advisors. We verify everything below before
-publishing — that's the point: a listing here tells families you can document what the best in
+publishing - that's the point: a listing here tells families you can document what the best in
 this industry already do. Email your answers (and attachments) to
 **advisors@senior.living.community**.
 
@@ -28,7 +28,7 @@ this industry already do. Email your answers (and attachments) to
 6. Attach your certificate of liability insurance (carrier, limits, expiration)
 7. Have you and all client-facing staff passed a criminal background check in the last 3 years? Through whom?
 8. Credentials held (CPRS, CSA, RN/LSW, other) with certificate numbers so we can verify with the issuer
-9. Memberships (NPRA and chapter, OSRAA, ASRP-WA, other) — may we verify with the organization?
+9. Memberships (NPRA and chapter, OSRAA, ASRP-WA, other) - may we verify with the organization?
 
 ## Business model & conflicts
 
@@ -48,10 +48,10 @@ this industry already do. Email your answers (and attachments) to
 
 18. Two family references from placements in the past 18 months, and one professional reference (social worker, discharge planner, or a community that does **not** pay you)
 19. Any state attorney general complaints, lawsuits, registration denials/revocations, or BBB complaints in the past 5 years? Explain
-20. Links to your review profiles — we look at review age and spread, not just the star average
+20. Links to your review profiles - we look at review age and spread, not just the star average
 
 We treat references and documents confidentially; what we publish is your listing profile and
-your verbatim answers to the conflict-of-interest questions. Listing decisions — including
-whether to publish, feature, or continue any listing — remain at our editorial discretion.
+your verbatim answers to the conflict-of-interest questions. Listing decisions - including
+whether to publish, feature, or continue any listing - remain at our editorial discretion.
 That independence is exactly what makes a listing here worth having: families trust the
 directory because nobody is entitled to be in it.

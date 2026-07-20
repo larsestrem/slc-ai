@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Canyon County, ID Senior Living"
-seo_title: "Senior Living in Canyon County, ID — 5 Communities"
+seo_title: "Senior Living in Canyon County, ID - 5 Communities"
 description: "Senior living in Canyon County, Idaho: 5 communities across 2 cities, with care levels and inspection links."
 county_name: "Canyon"
 state_name: "Idaho"

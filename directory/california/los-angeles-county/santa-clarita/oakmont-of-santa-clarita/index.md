@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Oakmont of Santa Clarita"
-seo_title: "Oakmont of Santa Clarita — Senior Living in Santa Clarita, CA"
+seo_title: "Oakmont of Santa Clarita - Senior Living in Santa Clarita, CA"
 description: "Luxury assisted living and memory care community on Newhall Ranch Road in the Valencia area of Santa Clarita. Residents cite larger-than-average apartments, a"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Oakmont of Santa Clarita", "url": "/directory/california/los-angeles-county/santa-clarita/oakmont-of-santa-clarita/"}]
 nearby: []

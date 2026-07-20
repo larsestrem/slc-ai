@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Yavapai County, AZ Senior Living"
-seo_title: "Senior Living in Yavapai County, AZ — 1 Communities"
+seo_title: "Senior Living in Yavapai County, AZ - 1 Communities"
 description: "Senior living in Yavapai County, Arizona: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Yavapai"
 state_name: "Arizona"

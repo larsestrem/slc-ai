@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Manteca Assisted Living & Memory Care"
-seo_title: "Manteca Assisted Living & Memory Care — Senior Living in Manteca, CA"
+seo_title: "Manteca Assisted Living & Memory Care - Senior Living in Manteca, CA"
 description: "Assisted living community with a dedicated memory care unit on Empire Avenue in Manteca, operated by Pacific Northwest-based Prestige Care."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Manteca Assisted Living & Memory Care", "url": "/directory/california/san-joaquin-county/manteca/prestige-assisted-living-at-manteca/"}]
 nearby: []

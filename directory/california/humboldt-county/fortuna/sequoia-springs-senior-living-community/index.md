@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Sequoia Springs Senior Living Community"
-seo_title: "Sequoia Springs Senior Living Community — Senior Living in Fortuna, CA"
+seo_title: "Sequoia Springs Senior Living Community - Senior Living in Fortuna, CA"
 description: "Independent living, assisted living, and memory care community in Fortuna, about 20 minutes south of Eureka and the highest-rated senior living option in the "
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sequoia Springs Senior Living Community", "url": "/directory/california/humboldt-county/fortuna/sequoia-springs-senior-living-community/"}]
 nearby: []

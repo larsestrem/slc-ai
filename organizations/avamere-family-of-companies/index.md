@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Avamere Family of Companies"
-seo_title: "Avamere Family of Companies — Senior Living Communities & Locations"
+seo_title: "Avamere Family of Companies - Senior Living Communities & Locations"
 description: "Founded in 1995 and headquartered in Wilsonville, Oregon, Avamere operates a full continuum of senior care including independent living, assisted living, memo"
 org_description: "Founded in 1995 and headquartered in Wilsonville, Oregon, Avamere operates a full continuum of senior care including independent living, assisted living, memory care, skilled nursing, and rehabilitation. Its footprint includes more than 30 facilities concentrated in Oregon and Washington, with additional locations in other Western states."
 headquarters: "Wilsonville, Oregon"

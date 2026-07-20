@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Sparks, NV"
-seo_title: "Senior Living in Sparks, NV — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Sparks, NV - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Sparks, Nevada: care levels, sizes, and official inspection records for each."
 city_name: "Sparks"
 county_name: "Washoe"

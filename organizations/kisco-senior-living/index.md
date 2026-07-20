@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Kisco Senior Living"
-seo_title: "Kisco Senior Living — Senior Living Communities & Locations"
+seo_title: "Kisco Senior Living - Senior Living Communities & Locations"
 description: "Kisco Senior Living, founded in 1990 and headquartered in Carlsbad, California, develops and operates upscale senior living communities in several states offe"
 org_description: "Kisco Senior Living, founded in 1990 and headquartered in Carlsbad, California, develops and operates upscale senior living communities in several states offering independent living, assisted living, and memory care. 'Ilima at Leihano in Kapolei is its Hawaii community."
 headquarters: "Carlsbad, California"

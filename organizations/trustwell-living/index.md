@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Trustwell Living"
-seo_title: "Trustwell Living — Senior Living Communities & Locations"
+seo_title: "Trustwell Living - Senior Living Communities & Locations"
 description: "Senior living operator founded in 2021 by Larry Cohen, former CEO of Capital Senior Living. Trustwell operates about 40 communities across the Western, Centra"
 org_description: "Senior living operator founded in 2021 by Larry Cohen, former CEO of Capital Senior Living. Trustwell operates about 40 communities across the Western, Central, and Southern United States, providing independent living, assisted living, and memory care."
 headquarters: "New York, New York"

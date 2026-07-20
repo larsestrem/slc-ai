@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Orange County, CA Senior Living"
-seo_title: "Senior Living in Orange County, CA — 19 Communities"
+seo_title: "Senior Living in Orange County, CA - 19 Communities"
 description: "Senior living in Orange County, California: 19 communities across 15 cities, with care levels and inspection links."
 county_name: "Orange"
 state_name: "California"

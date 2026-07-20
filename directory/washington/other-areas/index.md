@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Other Areas Senior Living"
-seo_title: "Senior Living in Other Areas, WA — 3 Communities"
-description: "Compare 3 senior living communities in Other Areas, Washington — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Other Areas, WA - 3 Communities"
+description: "Compare 3 senior living communities in Other Areas, Washington - care levels, review evidence, and official inspection links for each."
 region_name: "Other Areas"
 state: "washington"
 state_name: "Washington"

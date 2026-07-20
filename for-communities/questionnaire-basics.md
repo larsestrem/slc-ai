@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Listing Questionnaire: The Basics"
-description: "Short online questionnaire for senior living communities: building, beds, rooms, and staffing basics. About 5–10 minutes — answers are sent privately to our editors."
+description: "Short online questionnaire for senior living communities: building, beds, rooms, and staffing basics. About 5-10 minutes - answers are sent privately to our editors."
 crumbs:
   - name: For Communities
     url: /for-communities/
@@ -9,12 +9,12 @@ crumbs:
     url: /for-communities/questionnaire-basics/
 ---
 
-About 5–10 minutes. Fill in what you can and skip anything that doesn't apply or that you'd
-rather not publish — partial answers are welcome, and you can come back to any section later.
+About 5-10 minutes. Fill in what you can and skip anything that doesn't apply or that you'd
+rather not publish - partial answers are welcome, and you can come back to any section later.
 Your answers are **sent privately to our editors**; nothing is published until we've verified
 you with your community.
 
-{% include q-form-start.html subject="Listing questionnaire — The Basics" %}
+{% include q-form-start.html subject="Listing questionnaire - The Basics" %}
 
   <fieldset>
     <legend>The community</legend>
@@ -23,11 +23,11 @@ you with your community.
     <label for="b2">Year opened, and year of the most recent major renovation</label>
     <input type="text" id="b2" name="Q2 Year opened and renovated">
     <label for="b3">Ownership</label>
-    <p class="hint">Independent, family-owned, non-profit, or part of an organization — and which one?</p>
+    <p class="hint">Independent, family-owned, non-profit, or part of an organization - and which one?</p>
     <input type="text" id="b3" name="Q3 Ownership">
     <label for="b3b">When did the current management team take over?</label>
     <p class="hint">Month/year your current Executive Director or management group began.
-    Families weigh this — a community can change a lot under new leadership, for better or worse.</p>
+    Families weigh this - a community can change a lot under new leadership, for better or worse.</p>
     <input type="text" id="b3b" name="Q3b Current management since">
     <label for="b4">State license number(s) and license type(s)</label>
     <input type="text" id="b4" name="Q4 License numbers and types">

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in San Diego, CA"
-seo_title: "Senior Living in San Diego, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in San Diego, CA - Assisted Living, Memory Care & More"
 description: "Compare 5 senior living communities in San Diego, California: care levels, sizes, and official inspection records for each."
 city_name: "San Diego"
 county_name: "San Diego"

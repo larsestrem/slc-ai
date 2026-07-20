@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Oregon Coast Senior Living"
-seo_title: "Senior Living in Oregon Coast, OR — 9 Communities"
-description: "Compare 9 senior living communities in Oregon Coast, Oregon — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Oregon Coast, OR - 9 Communities"
+description: "Compare 9 senior living communities in Oregon Coast, Oregon - care levels, review evidence, and official inspection links for each."
 region_name: "Oregon Coast"
 state: "oregon"
 state_name: "Oregon"

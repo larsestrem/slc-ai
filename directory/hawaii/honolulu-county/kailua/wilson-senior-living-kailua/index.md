@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Wilson Senior Living Kailua"
-seo_title: "Wilson Senior Living Kailua — Senior Living in Kailua, HI"
+seo_title: "Wilson Senior Living Kailua - Senior Living in Kailua, HI"
 description: "Wilson Senior Living Kailua is a newer adult residential care home in the Aikahi area of Kailua, Oahu, with 19 private, ADA-compliant rooms. It offers assiste"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Wilson Senior Living Kailua", "url": "/directory/hawaii/honolulu-county/kailua/wilson-senior-living-kailua/"}]
 nearby: [{"name": "Kina 'Ole Estate Elima", "url": "/directory/hawaii/honolulu-county/kailua/kina-ole-estate-elima/", "city_name": "Kailua", "state_abbrev": "HI", "care_levels": ["adult-family-home", "memory-care"], "records_note": false, "facility_size": "small", "description": "Kina 'Ole Estate Elima is the Kailua location of the Kina 'Ole Estate family of small care homes, housing up to eight residents with private rooms and 24-hour supervision."}]

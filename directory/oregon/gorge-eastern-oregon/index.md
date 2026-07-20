@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Gorge & Eastern Oregon Senior Living"
-seo_title: "Senior Living in Gorge & Eastern Oregon, OR — 7 Communities"
-description: "Compare 6 senior living communities in Gorge & Eastern Oregon, Oregon — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Gorge & Eastern Oregon, OR - 7 Communities"
+description: "Compare 6 senior living communities in Gorge & Eastern Oregon, Oregon - care levels, review evidence, and official inspection links for each."
 region_name: "Gorge & Eastern Oregon"
 state: "oregon"
 state_name: "Oregon"

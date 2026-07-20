@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Providence Down Manor"
-seo_title: "Providence Down Manor — Senior Living in Hood River, OR"
+seo_title: "Providence Down Manor - Senior Living in Hood River, OR"
 description: "A 99-unit independent retirement community on the Providence Senior Village campus in Hood River, with views of the Hood River Valley. Rent includes daily mea"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Providence Down Manor", "url": "/directory/oregon/hood-river-county/hood-river/providence-down-manor/"}]
 nearby: [{"name": "Hawks Ridge Assisted Living", "url": "/directory/oregon/hood-river-county/hood-river/hawks-ridge-assisted-living/", "city_name": "Hood River", "state_abbrev": "OR", "care_levels": ["assisted-living"], "records_note": false, "facility_size": "large", "description": "Hawks Ridge Assisted Living is an 85-bed licensed assisted living community in Hood River, set against the backdrop of the Cascade Mountains and the Columbia River Gorge. The community offers personal care, medication management, meals, and 24-hour staffing, with a full weekly activity calendar. It is managed by Eugene-based Compass Senior Living."}]

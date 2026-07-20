@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Fullerton, CA"
-seo_title: "Senior Living in Fullerton, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Fullerton, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Fullerton, California: care levels, sizes, and official inspection records for each."
 city_name: "Fullerton"
 county_name: "Orange"

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Murrieta, CA"
-seo_title: "Senior Living in Murrieta, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Murrieta, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Murrieta, California: care levels, sizes, and official inspection records for each."
 city_name: "Murrieta"
 county_name: "Riverside"

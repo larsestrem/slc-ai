@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Mt. Angel Health and Rehabilitation"
-seo_title: "Mt. Angel Health and Rehabilitation — Senior Living in Mount Angel, OR"
+seo_title: "Mt. Angel Health and Rehabilitation - Senior Living in Mount Angel, OR"
 description: "Mt. Angel Health and Rehabilitation is a 93-bed Medicare- and Medicaid-certified skilled nursing facility in the small town of Mount Angel, offering skilled n"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Mt. Angel Health and Rehabilitation", "url": "/directory/oregon/marion-county/mount-angel/mt-angel-health-and-rehabilitation/"}]
 nearby: []

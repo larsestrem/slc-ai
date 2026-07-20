@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Covenant Living of Colorado"
-seo_title: "Covenant Living of Colorado — Senior Living in Westminster, CO"
+seo_title: "Covenant Living of Colorado - Senior Living in Westminster, CO"
 description: "Covenant Living of Colorado is a not-for-profit continuing care retirement community in Westminster offering independent living apartments and cottages, licen"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Covenant Living of Colorado", "url": "/directory/colorado/jefferson-county/westminster/covenant-living-of-colorado/"}]
 nearby: []

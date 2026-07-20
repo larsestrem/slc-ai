@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Santa Maria, CA"
-seo_title: "Senior Living in Santa Maria, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Santa Maria, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Santa Maria, California: care levels, sizes, and official inspection records for each."
 city_name: "Santa Maria"
 county_name: "Santa Barbara"

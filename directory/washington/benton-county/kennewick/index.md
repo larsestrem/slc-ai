@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Kennewick, WA"
-seo_title: "Senior Living in Kennewick, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Kennewick, WA - Assisted Living, Memory Care & More"
 description: "Compare 4 senior living communities in Kennewick, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Kennewick"
 county_name: "Benton"

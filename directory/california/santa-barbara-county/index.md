@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Santa Barbara County, CA Senior Living"
-seo_title: "Senior Living in Santa Barbara County, CA — 4 Communities"
+seo_title: "Senior Living in Santa Barbara County, CA - 4 Communities"
 description: "Senior living in Santa Barbara County, California: 4 communities across 2 cities, with care levels and inspection links."
 county_name: "Santa Barbara"
 state_name: "California"

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in San Luis Obispo, CA"
-seo_title: "Senior Living in San Luis Obispo, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in San Luis Obispo, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in San Luis Obispo, California: care levels, sizes, and official inspection records for each."
 city_name: "San Luis Obispo"
 county_name: "San Luis Obispo"

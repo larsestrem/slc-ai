@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "San Mateo County, CA Senior Living"
-seo_title: "Senior Living in San Mateo County, CA — 5 Communities"
+seo_title: "Senior Living in San Mateo County, CA - 5 Communities"
 description: "Senior living in San Mateo County, California: 5 communities across 5 cities, with care levels and inspection links."
 county_name: "San Mateo"
 state_name: "California"

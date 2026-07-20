@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Henderson, NV"
-seo_title: "Senior Living in Henderson, NV — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Henderson, NV - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Henderson, Nevada: care levels, sizes, and official inspection records for each."
 city_name: "Henderson"
 county_name: "Clark"

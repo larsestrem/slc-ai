@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in South Jordan, UT"
-seo_title: "Senior Living in South Jordan, UT — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in South Jordan, UT - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in South Jordan, Utah: care levels, sizes, and official inspection records for each."
 city_name: "South Jordan"
 county_name: "Salt Lake"

@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Front Porch Communities and Services"
-seo_title: "Front Porch Communities and Services — Senior Living Communities & Locations"
+seo_title: "Front Porch Communities and Services - Senior Living Communities & Locations"
 description: "Front Porch is a not-for-profit senior living organization formed from the 2021 merger of Front Porch and Covia, operating retirement and continuing care comm"
 org_description: "Front Porch is a not-for-profit senior living organization formed from the 2021 merger of Front Porch and Covia, operating retirement and continuing care communities across California. Its portfolio includes Claremont Manor, Villa Gardens in Pasadena, and other life plan communities."
 headquarters: "Glendale, California"

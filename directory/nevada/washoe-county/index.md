@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Washoe County, NV Senior Living"
-seo_title: "Senior Living in Washoe County, NV — 8 Communities"
+seo_title: "Senior Living in Washoe County, NV - 8 Communities"
 description: "Senior living in Washoe County, Nevada: 8 communities across 2 cities, with care levels and inspection links."
 county_name: "Washoe"
 state_name: "Nevada"

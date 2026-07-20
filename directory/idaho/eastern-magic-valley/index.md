@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Eastern Idaho & Magic Valley Senior Living"
-seo_title: "Senior Living in Eastern Idaho & Magic Valley, ID — 20 Communities"
-description: "Compare 20 senior living communities in Eastern Idaho & Magic Valley, Idaho — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Eastern Idaho & Magic Valley, ID - 20 Communities"
+description: "Compare 20 senior living communities in Eastern Idaho & Magic Valley, Idaho - care levels, review evidence, and official inspection links for each."
 region_name: "Eastern Idaho & Magic Valley"
 state: "idaho"
 state_name: "Idaho"

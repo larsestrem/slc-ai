@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Benton County, WA Senior Living"
-seo_title: "Senior Living in Benton County, WA — 5 Communities"
+seo_title: "Senior Living in Benton County, WA - 5 Communities"
 description: "Senior living in Benton County, Washington: 5 communities across 2 cities, with care levels and inspection links."
 county_name: "Benton"
 state_name: "Washington"

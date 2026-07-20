@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Marquis Companies"
-seo_title: "Marquis Companies — Senior Living Communities & Locations"
+seo_title: "Marquis Companies - Senior Living Communities & Locations"
 description: "Marquis Companies is a family-owned senior care company headquartered in the Portland suburb of Milwaukie, Oregon, operating skilled nursing, post-acute rehab"
 org_description: "Marquis Companies is a family-owned senior care company headquartered in the Portland suburb of Milwaukie, Oregon, operating skilled nursing, post-acute rehabilitation, assisted living, and memory care facilities in Oregon, California, and Nevada. The company also runs Consonus Healthcare, a pharmacy and rehab services affiliate."
 headquarters: "Milwaukie, Oregon"

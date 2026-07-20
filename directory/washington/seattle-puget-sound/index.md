@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Seattle & Puget Sound Senior Living"
-seo_title: "Senior Living in Seattle & Puget Sound, WA — 59 Communities"
-description: "Compare 58 senior living communities in Seattle & Puget Sound, Washington — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Seattle & Puget Sound, WA - 59 Communities"
+description: "Compare 58 senior living communities in Seattle & Puget Sound, Washington - care levels, review evidence, and official inspection links for each."
 region_name: "Seattle & Puget Sound"
 state: "washington"
 state_name: "Washington"

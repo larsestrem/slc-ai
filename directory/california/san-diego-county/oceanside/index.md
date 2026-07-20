@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Oceanside, CA"
-seo_title: "Senior Living in Oceanside, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Oceanside, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Oceanside, California: care levels, sizes, and official inspection records for each."
 city_name: "Oceanside"
 county_name: "San Diego"

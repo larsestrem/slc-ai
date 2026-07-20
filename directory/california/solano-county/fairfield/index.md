@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Fairfield, CA"
-seo_title: "Senior Living in Fairfield, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Fairfield, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Fairfield, California: care levels, sizes, and official inspection records for each."
 city_name: "Fairfield"
 county_name: "Solano"

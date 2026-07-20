@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Aljoya Mercer Island"
-seo_title: "Aljoya Mercer Island — Senior Living in Mercer Island, WA"
+seo_title: "Aljoya Mercer Island - Senior Living in Mercer Island, WA"
 description: "Continuing care retirement community (CCRC) in the town center of Mercer Island, operated by Seattle-based Era Living. Offers independent and assisted living "
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Aljoya Mercer Island", "url": "/directory/washington/king-county/mercer-island/aljoya-mercer-island/"}]
 nearby: []

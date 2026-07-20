@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Pocatello, ID"
-seo_title: "Senior Living in Pocatello, ID — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Pocatello, ID - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Pocatello, Idaho: care levels, sizes, and official inspection records for each."
 city_name: "Pocatello"
 county_name: "Bannock"

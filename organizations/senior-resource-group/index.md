@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Senior Resource Group"
-seo_title: "Senior Resource Group — Senior Living Communities & Locations"
+seo_title: "Senior Resource Group - Senior Living Communities & Locations"
 description: "Senior Resource Group (SRG) is a California-based developer and operator of senior living communities offering independent living, assisted living, and memory"
 org_description: "Senior Resource Group (SRG) is a California-based developer and operator of senior living communities offering independent living, assisted living, and memory care in multiple states across the western and southern United States. Its Oregon portfolio includes SpringRidge at Charbonneau in Wilsonville."
 headquarters: "Solana Beach, California"

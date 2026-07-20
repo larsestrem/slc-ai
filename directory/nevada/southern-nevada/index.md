@@ -2,8 +2,8 @@
 noindex: true
 layout: "region"
 title: "Southern Nevada (Las Vegas Area) Senior Living"
-seo_title: "Senior Living in Southern Nevada (Las Vegas Area), NV — 13 Communities"
-description: "Compare 13 senior living communities in Southern Nevada (Las Vegas Area), Nevada — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Southern Nevada (Las Vegas Area), NV - 13 Communities"
+description: "Compare 13 senior living communities in Southern Nevada (Las Vegas Area), Nevada - care levels, review evidence, and official inspection links for each."
 region_name: "Southern Nevada (Las Vegas Area)"
 state: "nevada"
 state_name: "Nevada"

@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Highgate Senior Living"
-seo_title: "Highgate Senior Living — Senior Living Communities & Locations"
+seo_title: "Highgate Senior Living - Senior Living Communities & Locations"
 description: "Highgate Senior Living is a senior living operator headquartered in Issaquah, Washington, with more than 25 years of history. It operates assisted living and "
 org_description: "Highgate Senior Living is a senior living operator headquartered in Issaquah, Washington, with more than 25 years of history. It operates assisted living and memory care communities across Washington, Montana, Arizona, and California, with a whole-person 'Wellness in Aging' care philosophy."
 headquarters: "Issaquah, Washington"

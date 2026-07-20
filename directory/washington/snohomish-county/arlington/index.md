@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Arlington, WA"
-seo_title: "Senior Living in Arlington, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Arlington, WA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Arlington, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Arlington"
 county_name: "Snohomish"

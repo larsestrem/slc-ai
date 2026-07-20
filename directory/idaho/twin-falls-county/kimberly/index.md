@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Kimberly, ID"
-seo_title: "Senior Living in Kimberly, ID — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Kimberly, ID - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Kimberly, Idaho: care levels, sizes, and official inspection records for each."
 city_name: "Kimberly"
 county_name: "Twin Falls"

@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Portland Metro Senior Living"
-seo_title: "Senior Living in Portland Metro, OR — 68 Communities"
-description: "Compare 68 senior living communities in Portland Metro, Oregon — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Portland Metro, OR - 68 Communities"
+description: "Compare 68 senior living communities in Portland Metro, Oregon - care levels, review evidence, and official inspection links for each."
 region_name: "Portland Metro"
 state: "oregon"
 state_name: "Oregon"

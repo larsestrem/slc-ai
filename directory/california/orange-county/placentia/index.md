@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Placentia, CA"
-seo_title: "Senior Living in Placentia, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Placentia, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Placentia, California: care levels, sizes, and official inspection records for each."
 city_name: "Placentia"
 county_name: "Orange"

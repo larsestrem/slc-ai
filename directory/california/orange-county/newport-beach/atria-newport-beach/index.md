@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Atria Newport Beach"
-seo_title: "Atria Newport Beach — Senior Living in Newport Beach, CA"
+seo_title: "Atria Newport Beach - Senior Living in Newport Beach, CA"
 description: "Modern senior living community near Hoag Hospital offering independent living, assisted living, and memory care. Apartments include smart-home features, and t"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Atria Newport Beach", "url": "/directory/california/orange-county/newport-beach/atria-newport-beach/"}]
 nearby: []

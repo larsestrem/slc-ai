@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Marin County, CA Senior Living"
-seo_title: "Senior Living in Marin County, CA — 1 Communities"
+seo_title: "Senior Living in Marin County, CA - 1 Communities"
 description: "Senior living in Marin County, California: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Marin"
 state_name: "California"

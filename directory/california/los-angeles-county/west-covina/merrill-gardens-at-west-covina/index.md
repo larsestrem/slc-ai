@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Merrill Gardens at West Covina"
-seo_title: "Merrill Gardens at West Covina — Senior Living in West Covina, CA"
+seo_title: "Merrill Gardens at West Covina - Senior Living in West Covina, CA"
 description: "Merrill Gardens at West Covina offers independent living, assisted living, and memory care in a modern community next to West Covina's civic center."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Merrill Gardens at West Covina", "url": "/directory/california/los-angeles-county/west-covina/merrill-gardens-at-west-covina/"}]
 nearby: []

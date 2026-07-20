@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Vineyard Ranch at Temecula"
-seo_title: "Vineyard Ranch at Temecula — Senior Living in Temecula, CA"
+seo_title: "Vineyard Ranch at Temecula - Senior Living in Temecula, CA"
 description: "Vineyard Ranch at Temecula is an assisted living and memory care community in the Temecula wine country area, owned by Northstar Senior Living."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Vineyard Ranch at Temecula", "url": "/directory/california/riverside-county/temecula/vineyard-ranch-at-temecula/"}]
 nearby: [{"name": "Atria Park of Vintage Hills", "url": "/directory/california/riverside-county/temecula/atria-park-of-vintage-hills/", "city_name": "Temecula", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Retirement community in the Temecula wine country foothills offering independent living, assisted living, and memory care."}]

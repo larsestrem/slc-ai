@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Sunrise at Pinehurst"
-seo_title: "Sunrise at Pinehurst — Senior Living in Denver, CO"
+seo_title: "Sunrise at Pinehurst - Senior Living in Denver, CO"
 description: "Sunrise at Pinehurst offers assisted living, memory care, and short-term respite stays in southwest Denver near Pinehurst Country Club."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Sunrise at Pinehurst", "url": "/directory/colorado/denver-county/denver/sunrise-at-pinehurst/"}]
 nearby: [{"name": "South Valley Post Acute Rehabilitation", "url": "/directory/colorado/denver-county/denver/south-valley-post-acute-rehabilitation/", "city_name": "Denver", "state_abbrev": "CO", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "South Valley Post Acute Rehabilitation is a 106-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Denver."}]

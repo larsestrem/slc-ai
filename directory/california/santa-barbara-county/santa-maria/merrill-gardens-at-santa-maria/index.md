@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Merrill Gardens at Santa Maria"
-seo_title: "Merrill Gardens at Santa Maria — Senior Living in Santa Maria, CA"
+seo_title: "Merrill Gardens at Santa Maria - Senior Living in Santa Maria, CA"
 description: "Independent living, assisted living, and memory care community in northeast Santa Maria operated by family-owned Merrill Gardens. Property features include a "
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Merrill Gardens at Santa Maria", "url": "/directory/california/santa-barbara-county/santa-maria/merrill-gardens-at-santa-maria/"}]
 nearby: []

@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Vivante Living"
-seo_title: "Vivante Living — Senior Living Communities & Locations"
+seo_title: "Vivante Living - Senior Living Communities & Locations"
 description: "Boutique luxury senior living brand operating resort-style assisted living and memory care communities in coastal Southern California, including Vivante on th"
 org_description: "Boutique luxury senior living brand operating resort-style assisted living and memory care communities in coastal Southern California, including Vivante on the Coast in Costa Mesa and Vivante Newport Center."
 headquarters: "Newport Beach, California"

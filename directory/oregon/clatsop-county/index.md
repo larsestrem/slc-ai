@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Clatsop County, OR Senior Living"
-seo_title: "Senior Living in Clatsop County, OR — 3 Communities"
+seo_title: "Senior Living in Clatsop County, OR - 3 Communities"
 description: "Senior living in Clatsop County, Oregon: 3 communities across 2 cities, with care levels and inspection links."
 county_name: "Clatsop"
 state_name: "Oregon"

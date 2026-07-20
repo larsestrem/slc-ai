@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Honolulu, HI"
-seo_title: "Senior Living in Honolulu, HI — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Honolulu, HI - Assisted Living, Memory Care & More"
 description: "Compare 20 senior living communities in Honolulu, Hawaii: care levels, sizes, and official inspection records for each."
 city_name: "Honolulu"
 county_name: "Honolulu"

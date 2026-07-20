@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Douglas County, OR Senior Living"
-seo_title: "Senior Living in Douglas County, OR — 2 Communities"
+seo_title: "Senior Living in Douglas County, OR - 2 Communities"
 description: "Senior living in Douglas County, Oregon: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Douglas"
 state_name: "Oregon"

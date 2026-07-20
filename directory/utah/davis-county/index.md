@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Davis County, UT Senior Living"
-seo_title: "Senior Living in Davis County, UT — 2 Communities"
+seo_title: "Senior Living in Davis County, UT - 2 Communities"
 description: "Senior living in Davis County, Utah: 2 communities across 2 cities, with care levels and inspection links."
 county_name: "Davis"
 state_name: "Utah"

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Grass Valley, CA"
-seo_title: "Senior Living in Grass Valley, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Grass Valley, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Grass Valley, California: care levels, sizes, and official inspection records for each."
 city_name: "Grass Valley"
 county_name: "Nevada"

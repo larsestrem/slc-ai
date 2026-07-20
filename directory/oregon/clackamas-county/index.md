@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Clackamas County, OR Senior Living"
-seo_title: "Senior Living in Clackamas County, OR — 15 Communities"
+seo_title: "Senior Living in Clackamas County, OR - 15 Communities"
 description: "Senior living in Clackamas County, Oregon: 15 communities across 6 cities, with care levels and inspection links."
 county_name: "Clackamas"
 state_name: "Oregon"

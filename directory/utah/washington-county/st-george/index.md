@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in St. George, UT"
-seo_title: "Senior Living in St. George, UT — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in St. George, UT - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in St. George, Utah: care levels, sizes, and official inspection records for each."
 city_name: "St. George"
 county_name: "Washington"

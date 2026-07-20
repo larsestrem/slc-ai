@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Maricopa County, AZ Senior Living"
-seo_title: "Senior Living in Maricopa County, AZ — 10 Communities"
+seo_title: "Senior Living in Maricopa County, AZ - 10 Communities"
 description: "Senior living in Maricopa County, Arizona: 10 communities across 8 cities, with care levels and inspection links."
 county_name: "Maricopa"
 state_name: "Arizona"

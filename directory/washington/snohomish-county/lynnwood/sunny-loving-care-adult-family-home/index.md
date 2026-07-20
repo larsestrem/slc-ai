@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Sunny Loving Care Adult Family Home"
-seo_title: "Sunny Loving Care Adult Family Home — Senior Living in Lynnwood, WA"
+seo_title: "Sunny Loving Care Adult Family Home - Senior Living in Lynnwood, WA"
 description: "Sunny Loving Care Adult Family Home is a licensed five-bed adult family home in Lynnwood. It provides personal care, medication management, meals and 24-hour "
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Sunny Loving Care Adult Family Home", "url": "/directory/washington/snohomish-county/lynnwood/sunny-loving-care-adult-family-home/"}]
 nearby: [{"name": "America's Best Adult Family Home", "url": "/directory/washington/snohomish-county/lynnwood/americas-best-adult-family-home/", "city_name": "Lynnwood", "state_abbrev": "WA", "care_levels": ["adult-family-home"], "records_note": false, "facility_size": "small", "description": "Licensed adult family home in Lynnwood serving the Lynnwood and Edmonds area with personalized 24-hour senior care in a residential setting. A small-home alternative to larger assisted living communities, offering individualized attention in a family-style house."}]

@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Meridian Senior Living"
-seo_title: "Meridian Senior Living — Senior Living Communities & Locations"
+seo_title: "Meridian Senior Living - Senior Living Communities & Locations"
 description: "A national operator of independent living, assisted living, and memory care communities, including Cypress Place in Ventura, California."
 org_description: "A national operator of independent living, assisted living, and memory care communities, including Cypress Place in Ventura, California."
 headquarters: "Bethesda, Maryland"

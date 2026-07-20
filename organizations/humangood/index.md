@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "HumanGood"
-seo_title: "HumanGood — Senior Living Communities & Locations"
+seo_title: "HumanGood - Senior Living Communities & Locations"
 description: "HumanGood is one of the nation's largest nonprofit senior living providers, formed in 2016 through the merger of American Baptist Homes of the West and be.gro"
 org_description: "HumanGood is one of the nation's largest nonprofit senior living providers, formed in 2016 through the merger of American Baptist Homes of the West and be.group. It operates Life Plan Communities (CCRCs) and affordable senior housing communities in multiple states, including Hillside in McMinnville, Oregon."
 headquarters: "Pleasanton, California"

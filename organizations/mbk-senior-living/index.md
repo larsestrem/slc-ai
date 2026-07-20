@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "MBK Senior Living"
-seo_title: "MBK Senior Living — Senior Living Communities & Locations"
+seo_title: "MBK Senior Living - Senior Living Communities & Locations"
 description: "MBK Senior Living is an Irvine, California-based senior living operator and a subsidiary of Mitsui & Co., managing independent living, assisted living, and me"
 org_description: "MBK Senior Living is an Irvine, California-based senior living operator and a subsidiary of Mitsui & Co., managing independent living, assisted living, and memory care communities across the western United States. Its portfolio includes Crystal Terrace of Klamath Falls in southern Oregon."
 headquarters: "Irvine, California"

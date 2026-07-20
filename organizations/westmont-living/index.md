@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Westmont Living"
-seo_title: "Westmont Living — Senior Living Communities & Locations"
+seo_title: "Westmont Living - Senior Living Communities & Locations"
 description: "Westmont Living is a family-owned senior living company operating full-service independent living, assisted living, and memory care communities since 1996, pr"
 org_description: "Westmont Living is a family-owned senior living company operating full-service independent living, assisted living, and memory care communities since 1996, primarily in California and Oregon. Its Oregon communities include Oceanview Senior Living in Newport and Lakeview Senior Living in Lincoln City."
 headquarters: "San Diego, California"

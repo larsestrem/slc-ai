@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Kihei, HI"
-seo_title: "Senior Living in Kihei, HI — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Kihei, HI - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Kihei, Hawaii: care levels, sizes, and official inspection records for each."
 city_name: "Kihei"
 county_name: "Maui"

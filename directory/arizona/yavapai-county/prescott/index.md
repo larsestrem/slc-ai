@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Prescott, AZ"
-seo_title: "Senior Living in Prescott, AZ — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Prescott, AZ - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Prescott, Arizona: care levels, sizes, and official inspection records for each."
 city_name: "Prescott"
 county_name: "Yavapai"

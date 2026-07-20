@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Santa Cruz County, CA Senior Living"
-seo_title: "Senior Living in Santa Cruz County, CA — 3 Communities"
+seo_title: "Senior Living in Santa Cruz County, CA - 3 Communities"
 description: "Senior living in Santa Cruz County, California: 3 communities across 2 cities, with care levels and inspection links."
 county_name: "Santa Cruz"
 state_name: "California"

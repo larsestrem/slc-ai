@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Flagstaff, AZ"
-seo_title: "Senior Living in Flagstaff, AZ — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Flagstaff, AZ - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Flagstaff, Arizona: care levels, sizes, and official inspection records for each."
 city_name: "Flagstaff"
 county_name: "Coconino"

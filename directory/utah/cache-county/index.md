@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Cache County, UT Senior Living"
-seo_title: "Senior Living in Cache County, UT — 2 Communities"
+seo_title: "Senior Living in Cache County, UT - 2 Communities"
 description: "Senior living in Cache County, Utah: 2 communities across 2 cities, with care levels and inspection links."
 county_name: "Cache"
 state_name: "Utah"

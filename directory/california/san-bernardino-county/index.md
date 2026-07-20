@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "San Bernardino County, CA Senior Living"
-seo_title: "Senior Living in San Bernardino County, CA — 5 Communities"
+seo_title: "Senior Living in San Bernardino County, CA - 5 Communities"
 description: "Senior living in San Bernardino County, California: 5 communities across 4 cities, with care levels and inspection links."
 county_name: "San Bernardino"
 state_name: "California"

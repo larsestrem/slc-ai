@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Riverside County, CA Senior Living"
-seo_title: "Senior Living in Riverside County, CA — 11 Communities"
+seo_title: "Senior Living in Riverside County, CA - 11 Communities"
 description: "Senior living in Riverside County, California: 11 communities across 8 cities, with care levels and inspection links."
 county_name: "Riverside"
 state_name: "California"

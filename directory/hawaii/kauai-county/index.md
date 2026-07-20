@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Kauai County, HI Senior Living"
-seo_title: "Senior Living in Kauai County, HI — 2 Communities"
+seo_title: "Senior Living in Kauai County, HI - 2 Communities"
 description: "Senior living in Kauai County, Hawaii: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Kauai"
 state_name: "Hawaii"

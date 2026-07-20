@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Lakewood, WA"
-seo_title: "Senior Living in Lakewood, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Lakewood, WA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Lakewood, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Lakewood"
 county_name: "Pierce"

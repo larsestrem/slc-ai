@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Tigard, OR"
-seo_title: "Senior Living in Tigard, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Tigard, OR - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Tigard, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Tigard"
 county_name: "Washington"

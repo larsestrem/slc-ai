@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Bannock County, ID Senior Living"
-seo_title: "Senior Living in Bannock County, ID — 3 Communities"
+seo_title: "Senior Living in Bannock County, ID - 3 Communities"
 description: "Senior living in Bannock County, Idaho: 3 communities across 1 cities, with care levels and inspection links."
 county_name: "Bannock"
 state_name: "Idaho"

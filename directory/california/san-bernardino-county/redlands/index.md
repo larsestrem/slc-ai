@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Redlands, CA"
-seo_title: "Senior Living in Redlands, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Redlands, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Redlands, California: care levels, sizes, and official inspection records for each."
 city_name: "Redlands"
 county_name: "San Bernardino"

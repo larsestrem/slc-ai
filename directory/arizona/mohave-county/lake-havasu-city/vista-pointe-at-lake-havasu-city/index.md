@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Vista Pointe at Lake Havasu City"
-seo_title: "Vista Pointe at Lake Havasu City — Senior Living in Lake Havasu City, AZ"
+seo_title: "Vista Pointe at Lake Havasu City - Senior Living in Lake Havasu City, AZ"
 description: "Vista Pointe at Lake Havasu City provides assisted living and memory care near downtown Lake Havasu City."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Vista Pointe at Lake Havasu City", "url": "/directory/arizona/mohave-county/lake-havasu-city/vista-pointe-at-lake-havasu-city/"}]
 nearby: []

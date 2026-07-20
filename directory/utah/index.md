@@ -3,7 +3,7 @@ noindex: true
 layout: "state"
 care_level_counts: [{"slug": "assisted-living", "count": 11}, {"slug": "memory-care", "count": 11}, {"slug": "independent-living", "count": 6}, {"slug": "respite-care", "count": 2}, {"slug": "skilled-nursing", "count": 1}]
 title: "Utah Senior Living"
-seo_title: "Senior Living in Utah — Assisted Living, Memory Care & Nursing Homes"
+seo_title: "Senior Living in Utah - Assisted Living, Memory Care & Nursing Homes"
 description: "Find senior living in Utah: 13 communities across 13 cities, with care levels, sizes, and links to official state inspection records."
 state_name: "Utah"
 state_abbrev: "UT"

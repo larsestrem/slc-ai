@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Generations LLC"
-seo_title: "Generations LLC — Senior Living Communities & Locations"
+seo_title: "Generations LLC - Senior Living Communities & Locations"
 description: "Generations LLC is a family-owned senior living company that has served seniors since 1943, developing and operating multi-level retirement campuses in the we"
 org_description: "Generations LLC is a family-owned senior living company that has served seniors since 1943, developing and operating multi-level retirement campuses in the western United States. Its Oregon communities include CherryWood Village in Portland."
 headquarters: "Clovis, California"

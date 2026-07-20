@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "San Leandro Senior Living"
-seo_title: "San Leandro Senior Living — Senior Living in San Leandro, CA"
+seo_title: "San Leandro Senior Living - Senior Living in San Leandro, CA"
 description: "Assisted living community near downtown San Leandro offering customized service plans and around-the-clock staffing."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Leandro Senior Living", "url": "/directory/california/alameda-county/san-leandro/san-leandro-senior-living/"}]
 nearby: []

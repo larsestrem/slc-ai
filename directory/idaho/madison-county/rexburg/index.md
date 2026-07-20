@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Rexburg, ID"
-seo_title: "Senior Living in Rexburg, ID — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Rexburg, ID - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Rexburg, Idaho: care levels, sizes, and official inspection records for each."
 city_name: "Rexburg"
 county_name: "Madison"

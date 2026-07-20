@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Linn County, OR Senior Living"
-seo_title: "Senior Living in Linn County, OR — 5 Communities"
+seo_title: "Senior Living in Linn County, OR - 5 Communities"
 description: "Senior living in Linn County, Oregon: 5 communities across 2 cities, with care levels and inspection links."
 county_name: "Linn"
 state_name: "Oregon"

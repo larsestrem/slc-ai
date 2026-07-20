@@ -1,16 +1,16 @@
-/* senior.living.community — SHARED stylesheet, inlined in <head> on every page.
+/* senior.living.community - SHARED stylesheet, inlined in <head> on every page.
    Local only: no webfonts, frameworks, or external requests.
    Page-specific CSS lives in its own include (css/directory.css, css/facility.css,
-   css/post.css) injected only where needed — see _includes/head.html.
+   css/post.css) injected only where needed - see _includes/head.html.
    Palette is WCAG AAA: every text color clears 7:1 on the off-white background. */
 :root {
   --bg: #f7f7f5;          /* warm off-white page */
   --surface: #ffffff;     /* cards / panels */
-  --ink: #1b1d21;         /* body text — 15.7:1 */
-  --muted: #494c52;       /* secondary text — 8.0:1 (AAA at small sizes) */
-  --accent: #0a4aa3;      /* links / primary — 7.8:1 */
-  --accent-strong: #073a82; /* link hover — ~10:1 */
-  --on-accent: #ffffff;   /* text on accent — 8.3:1 */
+  --ink: #1b1d21;         /* body text - 15.7:1 */
+  --muted: #494c52;       /* secondary text - 8.0:1 (AAA at small sizes) */
+  --accent: #0a4aa3;      /* links / primary - 7.8:1 */
+  --accent-strong: #073a82; /* link hover - ~10:1 */
+  --on-accent: #ffffff;   /* text on accent - 8.3:1 */
   --line: #d6d9de;        /* hairlines / borders (decorative) */
   --soft: #eef1f6;        /* callout / notice fill */
   --gold: #7a5a00;        /* small-home badge & records-note accent */
@@ -33,7 +33,7 @@ body {
 }
 img { max-width: 100%; height: auto; }
 
-/* Links — underline on hover/focus, blue always */
+/* Links - underline on hover/focus, blue always */
 a { color: var(--accent); text-decoration: none; }
 a:hover, a:focus { color: var(--accent-strong); text-decoration: underline; }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
@@ -124,7 +124,7 @@ main { display: block; padding: 1.6rem 0 3rem; }
 .badge:hover { border-color: var(--accent); text-decoration: none; }
 .badge.small-home { border-color: var(--gold); }
 
-/* Read-the-record-first note — a neutral nudge, deliberately NOT red and NOT
+/* Read-the-record-first note - a neutral nudge, deliberately NOT red and NOT
    an icon: it asks the reader to check the official record and reviews, and
    says nothing about what they contain. */
 .records-note { border-left: 4px solid var(--gold); background: #f7f2e4; padding: .7rem .9rem; border-radius: 0 8px 8px 0; font-size: .95rem; }
@@ -222,7 +222,7 @@ tbody tr:hover { background: var(--soft); }
 .q-form .honey { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
 
 /* Claimed-listing perks on cards: photo strip + quiet manager credit.
-   Deliberately modest — a reward for claiming, not a ranking signal. */
+   Deliberately modest - a reward for claiming, not a ranking signal. */
 .card.has-thumb { padding-top: 0; }
 .card .card-thumb { display: block; margin: 0 -1.1rem .7rem; border-radius: var(--radius) var(--radius) 0 0; overflow: hidden; }
 .card .card-thumb img { width: 100%; height: 7rem; object-fit: cover; display: block; }

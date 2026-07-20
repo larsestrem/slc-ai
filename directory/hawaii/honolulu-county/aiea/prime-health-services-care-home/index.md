@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Prime Health Services Care Home"
-seo_title: "Prime Health Services Care Home — Senior Living in Aiea, HI"
+seo_title: "Prime Health Services Care Home - Senior Living in Aiea, HI"
 description: "Prime Health Services Care Home is a small residential care home in Aiea offering memory care with 24-hour staffing and personalized care plans."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Prime Health Services Care Home", "url": "/directory/hawaii/honolulu-county/aiea/prime-health-services-care-home/"}]
 nearby: []

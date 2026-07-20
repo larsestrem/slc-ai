@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Pacific Retirement Services"
-seo_title: "Pacific Retirement Services — Senior Living Communities & Locations"
+seo_title: "Pacific Retirement Services - Senior Living Communities & Locations"
 description: "A nonprofit organization that develops and manages continuing care retirement communities across the West and beyond, including The Meadows of Napa Valley. Kn"
 org_description: "A nonprofit organization that develops and manages continuing care retirement communities across the West and beyond, including The Meadows of Napa Valley. Known for large life plan campuses such as Mirabella Seattle and Rogue Valley Manor."
 headquarters: "Medford, Oregon"

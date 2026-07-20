@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Snohomish County, WA Senior Living"
-seo_title: "Senior Living in Snohomish County, WA — 17 Communities"
+seo_title: "Senior Living in Snohomish County, WA - 17 Communities"
 description: "Senior living in Snohomish County, Washington: 17 communities across 8 cities, with care levels and inspection links."
 county_name: "Snohomish"
 state_name: "Washington"

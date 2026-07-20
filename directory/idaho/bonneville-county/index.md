@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Bonneville County, ID Senior Living"
-seo_title: "Senior Living in Bonneville County, ID — 6 Communities"
+seo_title: "Senior Living in Bonneville County, ID - 6 Communities"
 description: "Senior living in Bonneville County, Idaho: 6 communities across 1 cities, with care levels and inspection links."
 county_name: "Bonneville"
 state_name: "Idaho"

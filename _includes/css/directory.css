@@ -15,7 +15,7 @@
 .state-map a.hl .map-dot { fill: var(--gold); opacity: 1; r: 7px; }
 .state-map figcaption { color: var(--muted); font-size: .82rem; }
 .map-dot.hl { fill: var(--gold) !important; }
-/* Region colors (map dots + card accents) — decorative, distinguishable hues */
+/* Region colors (map dots + card accents) - decorative, distinguishable hues */
 .rc0 { fill: #0a4aa3; } .rc1 { fill: #6d28d9; } .rc2 { fill: #0f766e; } .rc3 { fill: #9a3412; }
 .rc4 { fill: #a3123c; } .rc5 { fill: #075985; } .rc6 { fill: #4c1d95; } .rc7 { fill: #713f12; }
 .rc-border0 { border-left: 5px solid #0a4aa3; } .rc-border1 { border-left: 5px solid #6d28d9; }

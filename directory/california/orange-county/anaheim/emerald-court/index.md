@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Emerald Court"
-seo_title: "Emerald Court — Senior Living in Anaheim, CA"
+seo_title: "Emerald Court - Senior Living in Anaheim, CA"
 description: "Kisco Senior Living community in west Anaheim offering independent living, assisted living, and memory care near Anaheim Medical Center. U.S. News has rated i"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Emerald Court", "url": "/directory/california/orange-county/anaheim/emerald-court/"}]
 nearby: [{"name": "Walnut Village", "url": "/directory/california/orange-county/anaheim/walnut-village/", "city_name": "Anaheim", "state_abbrev": "CA", "care_levels": ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Walnut Village is a continuing care retirement community in Anaheim offering independent living, assisted living, memory care and skilled nursing on one campus. The community, operated by nonprofit Front Porch, features a library, swimming pool and fitness center, and was named Continuing Care Retirement Community of the Year 2010 by 50+ Builders Magazine."}]

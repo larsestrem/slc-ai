@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Coos County, OR Senior Living"
-seo_title: "Senior Living in Coos County, OR — 4 Communities"
+seo_title: "Senior Living in Coos County, OR - 4 Communities"
 description: "Senior living in Coos County, Oregon: 4 communities across 2 cities, with care levels and inspection links."
 county_name: "Coos"
 state_name: "Oregon"

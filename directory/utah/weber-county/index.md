@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Weber County, UT Senior Living"
-seo_title: "Senior Living in Weber County, UT — 1 Communities"
+seo_title: "Senior Living in Weber County, UT - 1 Communities"
 description: "Senior living in Weber County, Utah: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Weber"
 state_name: "Utah"

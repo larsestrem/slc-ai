@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Sumner, WA"
-seo_title: "Senior Living in Sumner, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Sumner, WA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Sumner, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Sumner"
 county_name: "Pierce"

@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Vi at Palo Alto"
-seo_title: "Vi at Palo Alto — Senior Living in Palo Alto, CA"
+seo_title: "Vi at Palo Alto - Senior Living in Palo Alto, CA"
 description: "Life Plan (continuing care) community on 23 acres of Stanford land on Sand Hill Road, offering independent living, assisted living, memory care, and skilled n"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Vi at Palo Alto", "url": "/directory/california/santa-clara-county/palo-alto/vi-at-palo-alto/"}]
 nearby: [{"name": "Channing House", "url": "/directory/california/santa-clara-county/palo-alto/channing-house/", "city_name": "Palo Alto", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "skilled-nursing", "ccrc"], "records_note": false, "facility_size": "large", "description": "A nonprofit continuing care retirement community in a high-rise in downtown Palo Alto, a short walk from University Avenue shops. Residents move through independent living, assisted living, and skilled nursing within the same building."}]

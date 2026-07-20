@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Cascade Living Group"
-seo_title: "Cascade Living Group — Senior Living Communities & Locations"
+seo_title: "Cascade Living Group - Senior Living Communities & Locations"
 description: "Cascade Living Group is a senior living operator headquartered in Bothell, Washington, with about 30 communities across Washington, Oregon, California, Nevada"
 org_description: "Cascade Living Group is a senior living operator headquartered in Bothell, Washington, with about 30 communities across Washington, Oregon, California, Nevada, and Arizona. Its portfolio ranges from active independent living to assisted living and integrated Alzheimer's and memory care communities, including Cascades of Bend in Central Oregon."
 headquarters: "Bothell, Washington"

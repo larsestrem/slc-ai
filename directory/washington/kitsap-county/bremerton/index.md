@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Bremerton, WA"
-seo_title: "Senior Living in Bremerton, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Bremerton, WA - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Bremerton, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Bremerton"
 county_name: "Kitsap"

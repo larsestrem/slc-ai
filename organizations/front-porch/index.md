@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Front Porch"
-seo_title: "Front Porch — Senior Living Communities & Locations"
+seo_title: "Front Porch - Senior Living Communities & Locations"
 description: "A nonprofit senior living provider formed by the 2021 merger of Front Porch and Covia, operating about 19 retirement and life plan communities, primarily in C"
 org_description: "A nonprofit senior living provider formed by the 2021 merger of Front Porch and Covia, operating about 19 retirement and life plan communities, primarily in California, plus affordable housing programs. Its communities include Spring Lake Village in Santa Rosa and St. Paul's Towers in Oakland."
 headquarters: "Glendale, California"

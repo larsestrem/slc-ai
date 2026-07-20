@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Portland, OR"
-seo_title: "Senior Living in Portland, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Portland, OR - Assisted Living, Memory Care & More"
 description: "Compare 21 senior living communities in Portland, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Portland"
 county_name: "Multnomah"

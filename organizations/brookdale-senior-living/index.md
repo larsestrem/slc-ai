@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Brookdale Senior Living"
-seo_title: "Brookdale Senior Living — Senior Living Communities & Locations"
+seo_title: "Brookdale Senior Living - Senior Living Communities & Locations"
 description: "Brookdale Senior Living, headquartered at 111 Westwood Place in Brentwood, Tennessee, is the largest operator of senior housing in the United States, serving "
 org_description: "Brookdale Senior Living, headquartered at 111 Westwood Place in Brentwood, Tennessee, is the largest operator of senior housing in the United States, serving over 51,000 residents as of December 31, 2025. The publicly traded company operates 424 communities offering independent living, assisted living, memory care, and continuing care across the country, including the Brookdale Boise Parkcenter campus in Idaho."
 headquarters: "Brentwood, Tennessee"

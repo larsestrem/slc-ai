@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Hood River County, OR Senior Living"
-seo_title: "Senior Living in Hood River County, OR — 2 Communities"
+seo_title: "Senior Living in Hood River County, OR - 2 Communities"
 description: "Senior living in Hood River County, Oregon: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Hood River"
 state_name: "Oregon"

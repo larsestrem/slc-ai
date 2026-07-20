@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Generations Senior Living"
-seo_title: "Generations Senior Living — Senior Living Communities & Locations"
+seo_title: "Generations Senior Living - Senior Living Communities & Locations"
 description: "Generations is a family-owned senior living company that develops and operates communities in the western United States, including the resort-style Paradise V"
 org_description: "Generations is a family-owned senior living company that develops and operates communities in the western United States, including the resort-style Paradise Village campus near San Diego. Its communities span independent living, assisted living, and memory care."
 website: "https://www.generationsllc.com/"

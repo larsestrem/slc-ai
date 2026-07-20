@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Klamath Falls, OR"
-seo_title: "Senior Living in Klamath Falls, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Klamath Falls, OR - Assisted Living, Memory Care & More"
 description: "Compare 5 senior living communities in Klamath Falls, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Klamath Falls"
 county_name: "Klamath"

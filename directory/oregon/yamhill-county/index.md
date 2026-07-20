@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Yamhill County, OR Senior Living"
-seo_title: "Senior Living in Yamhill County, OR — 6 Communities"
+seo_title: "Senior Living in Yamhill County, OR - 6 Communities"
 description: "Senior living in Yamhill County, Oregon: 6 communities across 2 cities, with care levels and inspection links."
 county_name: "Yamhill"
 state_name: "Oregon"

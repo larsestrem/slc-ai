@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Aegis Living"
-seo_title: "Aegis Living — Senior Living Communities & Locations"
+seo_title: "Aegis Living - Senior Living Communities & Locations"
 description: "Aegis Living is a privately held, family-owned senior living company headquartered in Bellevue, Washington. It operates roughly three dozen assisted living an"
 org_description: "Aegis Living is a privately held, family-owned senior living company headquartered in Bellevue, Washington. It operates roughly three dozen assisted living and memory care communities in Washington, California, and Nevada, with additional communities in development. The company is known for design-forward buildings and its Life's Neighborhood memory care program."
 headquarters: "Bellevue, Washington"

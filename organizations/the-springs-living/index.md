@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "The Springs Living"
-seo_title: "The Springs Living — Senior Living Communities & Locations"
+seo_title: "The Springs Living - Senior Living Communities & Locations"
 description: "The Springs Living is a privately held senior living company founded in 1996 by Fee Stubblefield and headquartered in McMinnville, Oregon. It operates indepen"
 org_description: "The Springs Living is a privately held senior living company founded in 1996 by Fee Stubblefield and headquartered in McMinnville, Oregon. It operates independent living, assisted living, and memory care communities across Oregon and Montana, with a heavy concentration in the Portland metro area including Lake Oswego, Happy Valley, Hillsboro, Beaverton, Wilsonville, and Sherwood. The company acquired the Hearthstone communities in Beaverton, rebranding them under The Springs name."
 headquarters: "McMinnville, Oregon"

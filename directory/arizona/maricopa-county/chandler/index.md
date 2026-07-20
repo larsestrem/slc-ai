@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Chandler, AZ"
-seo_title: "Senior Living in Chandler, AZ — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Chandler, AZ - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Chandler, Arizona: care levels, sizes, and official inspection records for each."
 city_name: "Chandler"
 county_name: "Maricopa"

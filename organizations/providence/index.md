@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Providence"
-seo_title: "Providence — Senior Living Communities & Locations"
+seo_title: "Providence - Senior Living Communities & Locations"
 description: "Providence is one of the largest not-for-profit Catholic health systems in the United States, serving communities across seven Western states. Alongside hospi"
 org_description: "Providence is one of the largest not-for-profit Catholic health systems in the United States, serving communities across seven Western states. Alongside hospitals and clinics, it operates senior services including the Providence Senior Village campus in Hood River, Oregon, home to Providence Down Manor independent living and Providence Brookside Manor assisted living and memory care."
 headquarters: "Renton, Washington"

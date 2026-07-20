@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Touchmark"
-seo_title: "Touchmark — Senior Living Communities & Locations"
+seo_title: "Touchmark - Senior Living Communities & Locations"
 description: "Touchmark is a family-owned senior living company founded in 1980, operating full-service retirement communities across the western and midwestern United Stat"
 org_description: "Touchmark is a family-owned senior living company founded in 1980, operating full-service retirement communities across the western and midwestern United States and Canada, typically combining independent living, assisted living, memory care, and large health-and-fitness clubs on one campus."
 headquarters: "Beaverton, Oregon"

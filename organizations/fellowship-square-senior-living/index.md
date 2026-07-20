@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Fellowship Square Senior Living"
-seo_title: "Fellowship Square Senior Living — Senior Living Communities & Locations"
+seo_title: "Fellowship Square Senior Living - Senior Living Communities & Locations"
 description: "Fellowship Square Senior Living is the community brand of Christian Care, a faith-based Arizona nonprofit operating senior living campuses in Historic Mesa, e"
 org_description: "Fellowship Square Senior Living is the community brand of Christian Care, a faith-based Arizona nonprofit operating senior living campuses in Historic Mesa, east Mesa, Phoenix, Surprise, and Tucson. Its communities offer independent living, assisted living, and memory care at below-average price points for the Phoenix market."
 headquarters: "Mesa, Arizona"

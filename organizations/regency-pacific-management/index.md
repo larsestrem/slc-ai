@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Regency Pacific Management"
-seo_title: "Regency Pacific Management — Senior Living Communities & Locations"
+seo_title: "Regency Pacific Management - Senior Living Communities & Locations"
 description: "Regency Pacific Management operates more than 40 licensed senior living communities across Washington, Oregon, Idaho, California, and Hawaii, housing over 3,0"
 org_description: "Regency Pacific Management operates more than 40 licensed senior living communities across Washington, Oregon, Idaho, California, and Hawaii, housing over 3,000 residents. Its communities span independent living, assisted living, memory care, rehabilitation, respite care, and skilled nursing. Oregon locations include Fox Hollow in Bend and Regency Redmond Rehabilitation and Nursing Center."
 headquarters: "Bellevue, Washington"

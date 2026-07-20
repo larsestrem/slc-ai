@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Latah County, ID Senior Living"
-seo_title: "Senior Living in Latah County, ID — 1 Communities"
+seo_title: "Senior Living in Latah County, ID - 1 Communities"
 description: "Senior living in Latah County, Idaho: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Latah"
 state_name: "Idaho"

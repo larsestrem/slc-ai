@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Holiday by Atria"
-seo_title: "Holiday by Atria — Senior Living Communities & Locations"
+seo_title: "Holiday by Atria - Senior Living Communities & Locations"
 description: "Holiday by Atria is one of the largest independent senior living operators in the United States, running roughly 240 communities nationwide since Holiday Reti"
 org_description: "Holiday by Atria is one of the largest independent senior living operators in the United States, running roughly 240 communities nationwide since Holiday Retirement was acquired by Atria Senior Living in 2021. Its communities bundle meals, housekeeping, utilities, and activities into a single monthly rate; Kalama Heights in Kihei is its Maui community."
 headquarters: "Louisville, Kentucky"

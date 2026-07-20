@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Claremont, CA"
-seo_title: "Senior Living in Claremont, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Claremont, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Claremont, California: care levels, sizes, and official inspection records for each."
 city_name: "Claremont"
 county_name: "Los Angeles"

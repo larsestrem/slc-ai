@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Pima County, AZ Senior Living"
-seo_title: "Senior Living in Pima County, AZ — 3 Communities"
+seo_title: "Senior Living in Pima County, AZ - 3 Communities"
 description: "Senior living in Pima County, Arizona: 3 communities across 2 cities, with care levels and inspection links."
 county_name: "Pima"
 state_name: "Arizona"

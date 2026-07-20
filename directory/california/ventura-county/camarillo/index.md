@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Camarillo, CA"
-seo_title: "Senior Living in Camarillo, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Camarillo, CA - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Camarillo, California: care levels, sizes, and official inspection records for each."
 city_name: "Camarillo"
 county_name: "Ventura"

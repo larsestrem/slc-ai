@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Salt Lake City, UT"
-seo_title: "Senior Living in Salt Lake City, UT — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Salt Lake City, UT - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Salt Lake City, Utah: care levels, sizes, and official inspection records for each."
 city_name: "Salt Lake City"
 county_name: "Salt Lake"

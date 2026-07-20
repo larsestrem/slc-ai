@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Los Angeles, CA"
-seo_title: "Senior Living in Los Angeles, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Los Angeles, CA - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Los Angeles, California: care levels, sizes, and official inspection records for each."
 city_name: "Los Angeles"
 county_name: "Los Angeles"

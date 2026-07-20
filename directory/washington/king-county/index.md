@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "King County, WA Senior Living"
-seo_title: "Senior Living in King County, WA — 42 Communities"
+seo_title: "Senior Living in King County, WA - 42 Communities"
 description: "Senior living in King County, Washington: 42 communities across 14 cities, with care levels and inspection links."
 county_name: "King"
 state_name: "Washington"

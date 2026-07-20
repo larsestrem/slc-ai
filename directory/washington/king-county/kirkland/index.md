@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Kirkland, WA"
-seo_title: "Senior Living in Kirkland, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Kirkland, WA - Assisted Living, Memory Care & More"
 description: "Compare 4 senior living communities in Kirkland, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Kirkland"
 county_name: "King"

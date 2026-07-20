@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in University Place, WA"
-seo_title: "Senior Living in University Place, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in University Place, WA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in University Place, Washington: care levels, sizes, and official inspection records for each."
 city_name: "University Place"
 county_name: "Pierce"

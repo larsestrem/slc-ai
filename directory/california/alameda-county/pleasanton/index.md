@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Pleasanton, CA"
-seo_title: "Senior Living in Pleasanton, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Pleasanton, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Pleasanton, California: care levels, sizes, and official inspection records for each."
 city_name: "Pleasanton"
 county_name: "Alameda"

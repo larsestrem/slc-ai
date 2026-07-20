@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "WellQuest of Elk Grove"
-seo_title: "WellQuest of Elk Grove — Senior Living in Elk Grove, CA"
+seo_title: "WellQuest of Elk Grove - Senior Living in Elk Grove, CA"
 description: "WellQuest of Elk Grove is a resort-style senior living community offering independent living, assisted living, and memory care on East Stockton Boulevard. Res"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "WellQuest of Elk Grove", "url": "/directory/california/sacramento-county/elk-grove/wellquest-of-elk-grove/"}]
 nearby: []

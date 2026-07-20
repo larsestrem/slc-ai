@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Fairwinds - Ivey Ranch"
-seo_title: "Fairwinds - Ivey Ranch — Senior Living in Oceanside, CA"
+seo_title: "Fairwinds - Ivey Ranch - Senior Living in Oceanside, CA"
 description: "Fairwinds - Ivey Ranch is a Leisure Care retirement community in Oceanside offering independent living and assisted living. It has been named among U.S."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Fairwinds - Ivey Ranch", "url": "/directory/california/san-diego-county/oceanside/fairwinds-ivey-ranch/"}]
 nearby: []

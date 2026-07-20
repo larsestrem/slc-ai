@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Life Care Services"
-seo_title: "Life Care Services — Senior Living Communities & Locations"
+seo_title: "Life Care Services - Senior Living Communities & Locations"
 description: "Life Care Services, an LCS Company, is one of the nation's largest senior living management companies, managing well over 100 communities including Life Plan "
 org_description: "Life Care Services, an LCS Company, is one of the nation's largest senior living management companies, managing well over 100 communities including Life Plan Communities (CCRCs) across the United States. LCS ranked highest in customer satisfaction with independent senior living providers in the J.D. Power U.S. Senior Living Satisfaction Study for four consecutive years through 2022."
 headquarters: "Des Moines, Iowa"

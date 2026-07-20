@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Placer County, CA Senior Living"
-seo_title: "Senior Living in Placer County, CA — 5 Communities"
+seo_title: "Senior Living in Placer County, CA - 5 Communities"
 description: "Senior living in Placer County, California: 5 communities across 3 cities, with care levels and inspection links."
 county_name: "Placer"
 state_name: "California"

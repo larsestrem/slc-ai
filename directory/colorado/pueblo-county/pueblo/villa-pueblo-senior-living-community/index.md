@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Villa Pueblo Senior Living Community"
-seo_title: "Villa Pueblo Senior Living Community — Senior Living in Pueblo, CO"
+seo_title: "Villa Pueblo Senior Living Community - Senior Living in Pueblo, CO"
 description: "Villa Pueblo is a complete campus of care in Pueblo offering independent living in its tower, private assisted living rooms in the Terrace and Pavilion, and s"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Villa Pueblo Senior Living Community", "url": "/directory/colorado/pueblo-county/pueblo/villa-pueblo-senior-living-community/"}]
 nearby: []

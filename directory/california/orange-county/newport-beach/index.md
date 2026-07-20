@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Newport Beach, CA"
-seo_title: "Senior Living in Newport Beach, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Newport Beach, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Newport Beach, California: care levels, sizes, and official inspection records for each."
 city_name: "Newport Beach"
 county_name: "Orange"

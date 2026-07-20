@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Lebanon, OR"
-seo_title: "Senior Living in Lebanon, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Lebanon, OR - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Lebanon, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Lebanon"
 county_name: "Linn"

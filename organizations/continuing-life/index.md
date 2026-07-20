@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Continuing Life"
-seo_title: "Continuing Life — Senior Living Communities & Locations"
+seo_title: "Continuing Life - Senior Living Communities & Locations"
 description: "A California family of large luxury life plan communities operating under the Continuing Life brand, including Stoneridge Creek in Pleasanton, University Vill"
 org_description: "A California family of large luxury life plan communities operating under the Continuing Life brand, including Stoneridge Creek in Pleasanton, University Village Thousand Oaks, and La Costa Glen in Carlsbad. Communities emphasize resort-style campuses with a full continuum of care."
 headquarters: "Carlsbad, California"

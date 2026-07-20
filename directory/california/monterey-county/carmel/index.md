@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Carmel, CA"
-seo_title: "Senior Living in Carmel, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Carmel, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Carmel, California: care levels, sizes, and official inspection records for each."
 city_name: "Carmel"
 county_name: "Monterey"

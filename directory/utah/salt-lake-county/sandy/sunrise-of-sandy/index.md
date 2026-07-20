@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Sunrise of Sandy"
-seo_title: "Sunrise of Sandy — Senior Living in Sandy, UT"
+seo_title: "Sunrise of Sandy - Senior Living in Sandy, UT"
 description: "Sunrise of Sandy provides assisted living, memory care, and short-term respite stays near Alta View Hospital in Sandy. Memory care residents live in the secur"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Sunrise of Sandy", "url": "/directory/utah/salt-lake-county/sandy/sunrise-of-sandy/"}]
 nearby: []

@@ -5,7 +5,7 @@
 .photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
 .claim { border-left: 4px solid var(--accent); }
 
-/* Sidebar ratings & reviews panel — links only, no numbers */
+/* Sidebar ratings & reviews panel - links only, no numbers */
 .rating-glance .muted { color: var(--muted); font-size: .88rem; }
 .rating-glance .glance-links { list-style: none; margin: .6rem 0; padding: 0; }
 .rating-glance .glance-links li { margin: .45rem 0; font-size: .92rem; }
@@ -29,9 +29,9 @@
 .review-link-list { list-style: none; margin: .5rem 0; padding: 0; }
 .review-link-list li { margin: .4rem 0; }
 
-/* Community-verified profile — hero gallery, provided-content tags, sample banner */
+/* Community-verified profile - hero gallery, provided-content tags, sample banner */
 .sample-banner { border-left: 4px solid var(--accent); font-size: .95rem; }
-/* Kept deliberately quiet — attribution is a trust signal, not page content. */
+/* Kept deliberately quiet - attribution is a trust signal, not page content. */
 .claimed-badge { background: #eaf3ea; border: 1px solid #b9d0b9; border-radius: var(--radius); color: var(--ink); font-size: .84rem; padding: .35rem .65rem; margin: .8rem 0 0; }
 .contributors { font-size: .88rem; color: var(--muted); margin: 1.6rem 0; }
 .contributors h2 { font-size: 1rem; margin: 0 0 .4rem; }
@@ -88,7 +88,7 @@
 .gallery-grid figcaption { font-size: .85rem; color: var(--muted); margin-top: .35rem; }
 .lightbox .lb-hint { display: block; font-size: .78rem; color: #b9bec7; margin-top: .3rem; }
 
-/* Team pages & profile teaser. Headshots are PORTRAIT (3:4) — the one
+/* Team pages & profile teaser. Headshots are PORTRAIT (3:4) - the one
    orientation exception to the landscape photo rule; a neutral placeholder
    fills the frame until the community sends one. */
 .team-member { display: flex; gap: 1.1rem; align-items: flex-start; }

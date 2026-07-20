@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Legacy House of Logan"
-seo_title: "Legacy House of Logan — Senior Living in Logan, UT"
+seo_title: "Legacy House of Logan - Senior Living in Logan, UT"
 description: "Legacy House of Logan offers assisted living and memory care in the heart of Cache Valley, near Logan Regional Hospital."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Legacy House of Logan", "url": "/directory/utah/cache-county/logan/legacy-house-of-logan/"}]
 nearby: []

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Boulder City, NV"
-seo_title: "Senior Living in Boulder City, NV — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Boulder City, NV - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Boulder City, Nevada: care levels, sizes, and official inspection records for each."
 city_name: "Boulder City"
 county_name: "Clark"

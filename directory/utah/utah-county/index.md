@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Utah County, UT Senior Living"
-seo_title: "Senior Living in Utah County, UT — 2 Communities"
+seo_title: "Senior Living in Utah County, UT - 2 Communities"
 description: "Senior living in Utah County, Utah: 2 communities across 2 cities, with care levels and inspection links."
 county_name: "Utah"
 state_name: "Utah"

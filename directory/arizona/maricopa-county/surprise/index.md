@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Surprise, AZ"
-seo_title: "Senior Living in Surprise, AZ — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Surprise, AZ - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Surprise, Arizona: care levels, sizes, and official inspection records for each."
 city_name: "Surprise"
 county_name: "Maricopa"

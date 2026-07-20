@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Civitas Senior Living"
-seo_title: "Civitas Senior Living — Senior Living Communities & Locations"
+seo_title: "Civitas Senior Living - Senior Living Communities & Locations"
 description: "Civitas Senior Living is a Fort Worth, Texas-based senior living operator with assisted living and memory care communities across Texas, Arizona, and other st"
 org_description: "Civitas Senior Living is a Fort Worth, Texas-based senior living operator with assisted living and memory care communities across Texas, Arizona, and other states, including The Bluffs of Flagstaff in northern Arizona."
 headquarters: "Fort Worth, Texas"

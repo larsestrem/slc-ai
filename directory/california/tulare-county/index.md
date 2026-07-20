@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Tulare County, CA Senior Living"
-seo_title: "Senior Living in Tulare County, CA — 2 Communities"
+seo_title: "Senior Living in Tulare County, CA - 2 Communities"
 description: "Senior living in Tulare County, California: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Tulare"
 state_name: "California"

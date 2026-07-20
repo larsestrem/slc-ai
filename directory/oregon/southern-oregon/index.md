@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Southern Oregon Senior Living"
-seo_title: "Senior Living in Southern Oregon, OR — 17 Communities"
-description: "Compare 17 senior living communities in Southern Oregon, Oregon — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Southern Oregon, OR - 17 Communities"
+description: "Compare 17 senior living communities in Southern Oregon, Oregon - care levels, review evidence, and official inspection links for each."
 region_name: "Southern Oregon"
 state: "oregon"
 state_name: "Oregon"

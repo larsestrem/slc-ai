@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Eagle, ID"
-seo_title: "Senior Living in Eagle, ID — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Eagle, ID - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Eagle, Idaho: care levels, sizes, and official inspection records for each."
 city_name: "Eagle"
 county_name: "Ada"

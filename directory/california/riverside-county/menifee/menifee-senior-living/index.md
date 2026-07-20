@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Menifee Senior Living"
-seo_title: "Menifee Senior Living — Senior Living in Menifee, CA"
+seo_title: "Menifee Senior Living - Senior Living in Menifee, CA"
 description: "Menifee Senior Living offers independent living, assisted living, memory care, and respite stays in the Sun City area of Menifee."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Menifee Senior Living", "url": "/directory/california/riverside-county/menifee/menifee-senior-living/"}]
 nearby: []

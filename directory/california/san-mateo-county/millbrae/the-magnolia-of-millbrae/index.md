@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "The Magnolia of Millbrae"
-seo_title: "The Magnolia of Millbrae — Senior Living in Millbrae, CA"
+seo_title: "The Magnolia of Millbrae - Senior Living in Millbrae, CA"
 description: "Full-service retirement and assisted living community on Chadbourne Avenue in Millbrae, on the Peninsula between San Francisco and San Mateo."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Magnolia of Millbrae", "url": "/directory/california/san-mateo-county/millbrae/the-magnolia-of-millbrae/"}]
 nearby: []

@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Panorama"
-seo_title: "Panorama — Senior Living in Lacey, WA"
+seo_title: "Panorama - Senior Living in Lacey, WA"
 description: "Panorama is a nonprofit continuing care retirement community spanning more than 140 acres in Lacey, with over 850 homes plus assisted living and skilled nursi"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Panorama", "url": "/directory/washington/thurston-county/lacey/panorama/"}]
 nearby: []

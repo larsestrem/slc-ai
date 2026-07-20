@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "AltaVita Living"
-seo_title: "AltaVita Living — Senior Living Communities & Locations"
+seo_title: "AltaVita Living - Senior Living Communities & Locations"
 description: "AltaVita Living is a locally owned Longmont, Colorado senior living operator whose campus includes the AltaVita Memory Care Centre, AltaVita Assisted Living, "
 org_description: "AltaVita Living is a locally owned Longmont, Colorado senior living operator whose campus includes the AltaVita Memory Care Centre, AltaVita Assisted Living, and AltaVita Senior Residences independent living, serving the Boulder County area."
 headquarters: "Longmont, Colorado"

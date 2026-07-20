@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Discovery Senior Living"
-seo_title: "Discovery Senior Living — Senior Living Communities & Locations"
+seo_title: "Discovery Senior Living - Senior Living Communities & Locations"
 description: "Large national senior living developer and operator headquartered in Bonita Springs, Florida, managing communities across multiple brands including the Discov"
 org_description: "Large national senior living developer and operator headquartered in Bonita Springs, Florida, managing communities across multiple brands including the Discovery Commons line. The company operates Discovery Commons Whittier in Los Angeles County."
 headquarters: "Bonita Springs, Florida"

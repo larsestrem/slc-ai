@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Victorville, CA"
-seo_title: "Senior Living in Victorville, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Victorville, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Victorville, California: care levels, sizes, and official inspection records for each."
 city_name: "Victorville"
 county_name: "San Bernardino"

@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Hawthorn Senior Living"
-seo_title: "Hawthorn Senior Living — Senior Living Communities & Locations"
+seo_title: "Hawthorn Senior Living - Senior Living Communities & Locations"
 description: "Hawthorn Senior Living manages all-inclusive independent living retirement communities under the Gracious Retirement Living brand across the United States and"
 org_description: "Hawthorn Senior Living manages all-inclusive independent living retirement communities under the Gracious Retirement Living brand across the United States and Canada. Its communities feature live-in managers, three chef-prepared meals daily, and bundled services in a single monthly rent. Stoneybrook Lodge in Corvallis is one of its Oregon communities."
 website: "https://seniorlivinginstyle.com/"

@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Lincoln County, OR Senior Living"
-seo_title: "Senior Living in Lincoln County, OR — 1 Communities"
+seo_title: "Senior Living in Lincoln County, OR - 1 Communities"
 description: "Senior living in Lincoln County, Oregon: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Lincoln"
 state_name: "Oregon"

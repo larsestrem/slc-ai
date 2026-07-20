@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Junction City, OR"
-seo_title: "Senior Living in Junction City, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Junction City, OR - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Junction City, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Junction City"
 county_name: "Lane"

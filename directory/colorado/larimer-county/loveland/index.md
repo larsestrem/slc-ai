@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Loveland, CO"
-seo_title: "Senior Living in Loveland, CO — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Loveland, CO - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Loveland, Colorado: care levels, sizes, and official inspection records for each."
 city_name: "Loveland"
 county_name: "Larimer"

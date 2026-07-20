@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Ogden, UT"
-seo_title: "Senior Living in Ogden, UT — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Ogden, UT - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Ogden, Utah: care levels, sizes, and official inspection records for each."
 city_name: "Ogden"
 county_name: "Weber"

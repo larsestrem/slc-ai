@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Atria Rancho Mirage"
-seo_title: "Atria Rancho Mirage — Senior Living in Rancho Mirage, CA"
+seo_title: "Atria Rancho Mirage - Senior Living in Rancho Mirage, CA"
 description: "Atria Rancho Mirage offers independent living, assisted living and memory care in the Coachella Valley. News has rated it a Best Senior Living community for a"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Atria Rancho Mirage", "url": "/directory/california/riverside-county/rancho-mirage/atria-rancho-mirage/"}]
 nearby: []

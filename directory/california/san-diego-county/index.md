@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "San Diego County, CA Senior Living"
-seo_title: "Senior Living in San Diego County, CA — 20 Communities"
+seo_title: "Senior Living in San Diego County, CA - 20 Communities"
 description: "Senior living in San Diego County, California: 20 communities across 12 cities, with care levels and inspection links."
 county_name: "San Diego"
 state_name: "California"

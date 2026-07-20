@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Modesto, CA"
-seo_title: "Senior Living in Modesto, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Modesto, CA - Assisted Living, Memory Care & More"
 description: "Compare 4 senior living communities in Modesto, California: care levels, sizes, and official inspection records for each."
 city_name: "Modesto"
 county_name: "Stanislaus"

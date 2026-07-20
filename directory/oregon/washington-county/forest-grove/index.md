@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Forest Grove, OR"
-seo_title: "Senior Living in Forest Grove, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Forest Grove, OR - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Forest Grove, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Forest Grove"
 county_name: "Washington"

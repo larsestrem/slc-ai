@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Beverly Hills, CA"
-seo_title: "Senior Living in Beverly Hills, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Beverly Hills, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Beverly Hills, California: care levels, sizes, and official inspection records for each."
 city_name: "Beverly Hills"
 county_name: "Los Angeles"

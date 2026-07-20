@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Koelsch Communities"
-seo_title: "Koelsch Communities — Senior Living Communities & Locations"
+seo_title: "Koelsch Communities - Senior Living Communities & Locations"
 description: "Koelsch Communities is a family-owned senior living company founded in 1958 and headquartered in Olympia, Washington. It operates a portfolio of more than 40 "
 org_description: "Koelsch Communities is a family-owned senior living company founded in 1958 and headquartered in Olympia, Washington. It operates a portfolio of more than 40 communities across eight states, offering independent living, assisted living, and memory care, including the Creekside Inn memory care community in Coeur d'Alene, Idaho."
 headquarters: "Olympia, Washington"

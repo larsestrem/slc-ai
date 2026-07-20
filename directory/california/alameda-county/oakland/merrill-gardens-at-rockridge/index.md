@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Merrill Gardens at Rockridge"
-seo_title: "Merrill Gardens at Rockridge — Senior Living in Oakland, CA"
+seo_title: "Merrill Gardens at Rockridge - Senior Living in Oakland, CA"
 description: "Newer senior living community in Oakland's Rockridge neighborhood offering independent living, assisted living, and memory care, with architecture designed to"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Merrill Gardens at Rockridge", "url": "/directory/california/alameda-county/oakland/merrill-gardens-at-rockridge/"}]
 nearby: [{"name": "St. Paul's Towers", "url": "/directory/california/alameda-county/oakland/st-pauls-towers/", "city_name": "Oakland", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "records_note": false, "facility_size": "large", "description": "A high-rise life plan community overlooking Lake Merritt in Oakland, operated by nonprofit Front Porch."}]

@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Payette County, ID Senior Living"
-seo_title: "Senior Living in Payette County, ID — 1 Communities"
+seo_title: "Senior Living in Payette County, ID - 1 Communities"
 description: "Senior living in Payette County, Idaho: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Payette"
 state_name: "Idaho"

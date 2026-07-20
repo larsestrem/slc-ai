@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Whittier, CA"
-seo_title: "Senior Living in Whittier, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Whittier, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Whittier, California: care levels, sizes, and official inspection records for each."
 city_name: "Whittier"
 county_name: "Los Angeles"

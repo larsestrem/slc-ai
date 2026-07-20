@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Everett, WA"
-seo_title: "Senior Living in Everett, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Everett, WA - Assisted Living, Memory Care & More"
 description: "Compare 6 senior living communities in Everett, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Everett"
 county_name: "Snohomish"

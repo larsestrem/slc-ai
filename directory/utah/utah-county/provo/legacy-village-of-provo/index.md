@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Legacy Village of Provo"
-seo_title: "Legacy Village of Provo — Senior Living in Provo, UT"
+seo_title: "Legacy Village of Provo - Senior Living in Provo, UT"
 description: "Legacy Village of Provo is a 150-bed assisted living and memory care community on University Avenue in north Provo."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Legacy Village of Provo", "url": "/directory/utah/utah-county/provo/legacy-village-of-provo/"}]
 nearby: []

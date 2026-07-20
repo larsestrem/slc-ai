@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Silverton, ID"
-seo_title: "Senior Living in Silverton, ID — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Silverton, ID - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Silverton, Idaho: care levels, sizes, and official inspection records for each."
 city_name: "Silverton"
 county_name: "Shoshone"

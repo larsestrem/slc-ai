@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Mason County, WA Senior Living"
-seo_title: "Senior Living in Mason County, WA — 2 Communities"
+seo_title: "Senior Living in Mason County, WA - 2 Communities"
 description: "Senior living in Mason County, Washington: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Mason"
 state_name: "Washington"

@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Regency Redmond Rehabilitation and Nursing Center"
-seo_title: "Regency Redmond Rehabilitation and Nursing Center — Senior Living in Redmond, OR"
+seo_title: "Regency Redmond Rehabilitation and Nursing Center - Senior Living in Redmond, OR"
 description: "Regency Redmond is a Medicare- and Medicaid-certified skilled nursing and rehabilitation center with 50 certified beds, operating since 1992. It is operated b"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Regency Redmond Rehabilitation and Nursing Center", "url": "/directory/oregon/deschutes-county/redmond/regency-redmond-rehabilitation-and-nursing-center/"}]
 nearby: []

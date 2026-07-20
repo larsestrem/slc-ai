@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "The Heritage Downtown"
-seo_title: "The Heritage Downtown — Senior Living in Walnut Creek, CA"
+seo_title: "The Heritage Downtown - Senior Living in Walnut Creek, CA"
 description: "An active-adult luxury independent living community in downtown Walnut Creek, within walking distance of shops and restaurants. Residents get restaurant-style"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Heritage Downtown", "url": "/directory/california/contra-costa-county/walnut-creek/the-heritage-downtown/"}]
 nearby: [{"name": "Byron Park", "url": "/directory/california/contra-costa-county/walnut-creek/byron-park/", "city_name": "Walnut Creek", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living"], "records_note": false, "facility_size": "large", "description": "Independent living and assisted living community in Walnut Creek's Tice Valley area, operating since 1991 as part of Kisco Senior Living. Residents compare the well-kept grounds, courtyard gardens, and pool to a boutique hotel, and the community runs a busy calendar of exercise classes, live music, and cultural outings with scheduled daily transportation."}]

@@ -1,8 +1,8 @@
 ---
 layout: "region"
 title: "Eastern & Central Washington Senior Living"
-seo_title: "Senior Living in Eastern & Central Washington, WA — 27 Communities"
-description: "Compare 27 senior living communities in Eastern & Central Washington, Washington — care levels, review evidence, and official inspection links for each."
+seo_title: "Senior Living in Eastern & Central Washington, WA - 27 Communities"
+description: "Compare 27 senior living communities in Eastern & Central Washington, Washington - care levels, review evidence, and official inspection links for each."
 region_name: "Eastern & Central Washington"
 state: "washington"
 state_name: "Washington"

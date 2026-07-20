@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Washington County, OR Senior Living"
-seo_title: "Senior Living in Washington County, OR — 21 Communities"
+seo_title: "Senior Living in Washington County, OR - 21 Communities"
 description: "Senior living in Washington County, Oregon: 21 communities across 6 cities, with care levels and inspection links."
 county_name: "Washington"
 state_name: "Oregon"

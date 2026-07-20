@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Living Care Lifestyles"
-seo_title: "Living Care Lifestyles — Senior Living Communities & Locations"
+seo_title: "Living Care Lifestyles - Senior Living Communities & Locations"
 description: "Living Care Lifestyles is a Seattle-area senior living operator best known for its Quail Park communities, which offer assisted living and Tribute-branded mem"
 org_description: "Living Care Lifestyles is a Seattle-area senior living operator best known for its Quail Park communities, which offer assisted living and Tribute-branded memory care. The company runs Quail Park campuses in Washington and other western states."
 headquarters: "Seattle, Washington"

@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Douglas County, NV Senior Living"
-seo_title: "Senior Living in Douglas County, NV — 1 Communities"
+seo_title: "Senior Living in Douglas County, NV - 1 Communities"
 description: "Senior living in Douglas County, Nevada: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Douglas"
 state_name: "Nevada"

@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Silvergate Retirement Residences"
-seo_title: "Silvergate Retirement Residences — Senior Living Communities & Locations"
+seo_title: "Silvergate Retirement Residences - Senior Living Communities & Locations"
 description: "Silvergate Retirement Residences is a family-owned San Diego County operator with communities in Fallbrook, San Marcos, and Rancho Bernardo. Silvergate has se"
 org_description: "Silvergate Retirement Residences is a family-owned San Diego County operator with communities in Fallbrook, San Marcos, and Rancho Bernardo. Silvergate has served North County seniors for more than three decades with independent living, assisted living, and memory care."
 headquarters: "San Diego County, California"

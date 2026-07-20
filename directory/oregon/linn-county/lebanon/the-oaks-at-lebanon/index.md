@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "The Oaks at Lebanon"
-seo_title: "The Oaks at Lebanon — Senior Living in Lebanon, OR"
+seo_title: "The Oaks at Lebanon - Senior Living in Lebanon, OR"
 description: "The Oaks at Lebanon is a retirement and assisted living community in Lebanon offering 104 private apartments in studio, one-bedroom, and two-bedroom layouts, "
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "The Oaks at Lebanon", "url": "/directory/oregon/linn-county/lebanon/the-oaks-at-lebanon/"}]
 nearby: [{"name": "Edward C. Allworth Veterans' Home", "url": "/directory/oregon/linn-county/lebanon/edward-c-allworth-veterans-home/", "city_name": "Lebanon", "state_abbrev": "OR", "care_levels": ["skilled-nursing", "memory-care"], "records_note": false, "facility_size": "large", "description": "The Edward C. Allworth Veterans' Home is a 154-bed state veterans home on 12 acres in Lebanon, opened in 2014 and owned by the Oregon Department of Veterans' Affairs."}]

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Walla Walla, WA"
-seo_title: "Senior Living in Walla Walla, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Walla Walla, WA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Walla Walla, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Walla Walla"
 county_name: "Walla Walla"

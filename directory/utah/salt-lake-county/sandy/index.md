@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Sandy, UT"
-seo_title: "Senior Living in Sandy, UT — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Sandy, UT - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Sandy, Utah: care levels, sizes, and official inspection records for each."
 city_name: "Sandy"
 county_name: "Salt Lake"

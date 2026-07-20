@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Sinceri Senior Living"
-seo_title: "Sinceri Senior Living — Senior Living Communities & Locations"
+seo_title: "Sinceri Senior Living - Senior Living Communities & Locations"
 description: "Privately owned senior living management and development company headquartered in Vancouver, Washington, operating assisted living and memory care communities"
 org_description: "Privately owned senior living management and development company headquartered in Vancouver, Washington, operating assisted living and memory care communities throughout the United States, including Sparr Heights Estates in Glendale, California."
 headquarters: "Vancouver, Washington"

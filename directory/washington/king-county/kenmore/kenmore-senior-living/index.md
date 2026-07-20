@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Kenmore Senior Living"
-seo_title: "Kenmore Senior Living — Senior Living in Kenmore, WA"
+seo_title: "Kenmore Senior Living - Senior Living in Kenmore, WA"
 description: "Kenmore Senior Living, formerly Spring Estates, offers independent living, assisted living, and memory care near the north end of Lake Washington. Residents c"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Kenmore Senior Living", "url": "/directory/washington/king-county/kenmore/kenmore-senior-living/"}]
 nearby: []

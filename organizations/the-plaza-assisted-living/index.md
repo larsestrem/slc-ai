@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "The Plaza Assisted Living"
-seo_title: "The Plaza Assisted Living — Senior Living Communities & Locations"
+seo_title: "The Plaza Assisted Living - Senior Living Communities & Locations"
 description: "The Plaza Assisted Living is a Hawaii-based senior living operator with multiple purpose-built communities across Oahu, including locations in Punchbowl, Moan"
 org_description: "The Plaza Assisted Living is a Hawaii-based senior living operator with multiple purpose-built communities across Oahu, including locations in Punchbowl, Moanalua, Mililani, Pearl City, Waikiki, and Kaneohe. Its communities offer independent living, assisted living, the Hali'a memory care program, and short-term respite stays."
 headquarters: "Honolulu, Hawaii"

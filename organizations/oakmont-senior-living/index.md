@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Oakmont Senior Living"
-seo_title: "Oakmont Senior Living — Senior Living Communities & Locations"
+seo_title: "Oakmont Senior Living - Senior Living Communities & Locations"
 description: "Oakmont Senior Living, with nearly three decades of experience, holds a portfolio of over 100 senior living communities offering independent living, assisted "
 org_description: "Oakmont Senior Living, with nearly three decades of experience, holds a portfolio of over 100 senior living communities offering independent living, assisted living, and memory care, including the Ivy Living brand. The Ivy at Hawaii Kai in Honolulu is its Hawaii community."
 headquarters: "Windsor, California"

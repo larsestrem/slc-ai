@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Dana Point, CA"
-seo_title: "Senior Living in Dana Point, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Dana Point, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Dana Point, California: care levels, sizes, and official inspection records for each."
 city_name: "Dana Point"
 county_name: "Orange"

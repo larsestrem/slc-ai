@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "MorningStar Senior Living"
-seo_title: "MorningStar Senior Living — Senior Living Communities & Locations"
+seo_title: "MorningStar Senior Living - Senior Living Communities & Locations"
 description: "MorningStar Senior Living is a Denver, Colorado-based operator of independent living, assisted living, and memory care communities across the western United S"
 org_description: "MorningStar Senior Living is a Denver, Colorado-based operator of independent living, assisted living, and memory care communities across the western United States. Its portfolio encompasses more than 40 communities in operation or under development, representing over 5,000 units, including MorningStar Senior Living of Sparks in Nevada."
 headquarters: "Denver, Colorado"

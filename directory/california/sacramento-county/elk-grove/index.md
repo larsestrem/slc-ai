@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Elk Grove, CA"
-seo_title: "Senior Living in Elk Grove, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Elk Grove, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Elk Grove, California: care levels, sizes, and official inspection records for each."
 city_name: "Elk Grove"
 county_name: "Sacramento"

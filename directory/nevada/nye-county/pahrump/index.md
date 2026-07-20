@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Pahrump, NV"
-seo_title: "Senior Living in Pahrump, NV — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Pahrump, NV - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Pahrump, Nevada: care levels, sizes, and official inspection records for each."
 city_name: "Pahrump"
 county_name: "Nye"

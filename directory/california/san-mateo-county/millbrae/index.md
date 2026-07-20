@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Millbrae, CA"
-seo_title: "Senior Living in Millbrae, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Millbrae, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Millbrae, California: care levels, sizes, and official inspection records for each."
 city_name: "Millbrae"
 county_name: "San Mateo"

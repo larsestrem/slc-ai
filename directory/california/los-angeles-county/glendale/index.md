@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Glendale, CA"
-seo_title: "Senior Living in Glendale, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Glendale, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Glendale, California: care levels, sizes, and official inspection records for each."
 city_name: "Glendale"
 county_name: "Los Angeles"

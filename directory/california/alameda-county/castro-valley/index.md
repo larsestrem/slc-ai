@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Castro Valley, CA"
-seo_title: "Senior Living in Castro Valley, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Castro Valley, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Castro Valley, California: care levels, sizes, and official inspection records for each."
 city_name: "Castro Valley"
 county_name: "Alameda"

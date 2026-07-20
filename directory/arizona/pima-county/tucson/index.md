@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Tucson, AZ"
-seo_title: "Senior Living in Tucson, AZ — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Tucson, AZ - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Tucson, Arizona: care levels, sizes, and official inspection records for each."
 city_name: "Tucson"
 county_name: "Pima"

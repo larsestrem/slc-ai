@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Radiant Senior Living"
-seo_title: "Radiant Senior Living — Senior Living Communities & Locations"
+seo_title: "Radiant Senior Living - Senior Living Communities & Locations"
 description: "Family-owned senior living company formed in mid-2011 and headquartered in Portland, Oregon. Radiant operates communities in Oregon, Washington, Montana, Colo"
 org_description: "Family-owned senior living company formed in mid-2011 and headquartered in Portland, Oregon. Radiant operates communities in Oregon, Washington, Montana, Colorado, Nevada, and Idaho, employing over 1,000 staff and serving more than 1,260 residents across all levels of care."
 headquarters: "Portland, Oregon"

@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Fellowship Square Surprise"
-seo_title: "Fellowship Square Surprise — Senior Living in Surprise, AZ"
+seo_title: "Fellowship Square Surprise - Senior Living in Surprise, AZ"
 description: "Fellowship Square Surprise is a nonprofit senior living community in the West Valley offering independent living, assisted living, and memory care, with costs"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Fellowship Square Surprise", "url": "/directory/arizona/maricopa-county/surprise/fellowship-square-surprise/"}]
 nearby: []

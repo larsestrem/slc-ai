@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Savant Senior Living"
-seo_title: "Savant Senior Living — Senior Living Communities & Locations"
+seo_title: "Savant Senior Living - Senior Living Communities & Locations"
 description: "California senior living operator running a small group of communities in the Los Angeles area, including Savant of Santa Monica and Savant of Alhambra. Its c"
 org_description: "California senior living operator running a small group of communities in the Los Angeles area, including Savant of Santa Monica and Savant of Alhambra. Its communities offer independent living, assisted living, memory care, and respite care."
 website: "https://www.savantseniorliving.com/"

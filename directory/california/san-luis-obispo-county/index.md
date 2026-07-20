@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "San Luis Obispo County, CA Senior Living"
-seo_title: "Senior Living in San Luis Obispo County, CA — 2 Communities"
+seo_title: "Senior Living in San Luis Obispo County, CA - 2 Communities"
 description: "Senior living in San Luis Obispo County, California: 2 communities across 2 cities, with care levels and inspection links."
 county_name: "San Luis Obispo"
 state_name: "California"

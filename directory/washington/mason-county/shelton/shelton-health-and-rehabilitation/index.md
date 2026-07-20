@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Shelton Health and Rehabilitation"
-seo_title: "Shelton Health and Rehabilitation — Senior Living in Shelton, WA"
+seo_title: "Shelton Health and Rehabilitation - Senior Living in Shelton, WA"
 description: "Shelton Health and Rehabilitation is a 76-bed skilled nursing facility at 153 Johns Ct in Shelton offering 24-hour skilled nursing, long-term residential care"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Shelton Health and Rehabilitation", "url": "/directory/washington/mason-county/shelton/shelton-health-and-rehabilitation/"}]
 nearby: [{"name": "Fir Lane Care", "url": "/directory/washington/mason-county/shelton/fir-lane-care/", "city_name": "Shelton", "state_abbrev": "WA", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Fir Lane Care (also known as Fir Lane Health & Rehabilitation Center) is a 135-bed, for-profit skilled nursing facility at 2430 N 13th St in Shelton, offering long-term skilled nursing and short-term rehabilitation. It is owned by Caldera Care."}]

@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Bingham County, ID Senior Living"
-seo_title: "Senior Living in Bingham County, ID — 1 Communities"
+seo_title: "Senior Living in Bingham County, ID - 1 Communities"
 description: "Senior living in Bingham County, Idaho: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Bingham"
 state_name: "Idaho"

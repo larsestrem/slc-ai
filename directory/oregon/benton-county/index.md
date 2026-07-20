@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Benton County, OR Senior Living"
-seo_title: "Senior Living in Benton County, OR — 6 Communities"
+seo_title: "Senior Living in Benton County, OR - 6 Communities"
 description: "Senior living in Benton County, Oregon: 6 communities across 1 cities, with care levels and inspection links."
 county_name: "Benton"
 state_name: "Oregon"

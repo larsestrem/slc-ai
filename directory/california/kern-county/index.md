@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Kern County, CA Senior Living"
-seo_title: "Senior Living in Kern County, CA — 1 Communities"
+seo_title: "Senior Living in Kern County, CA - 1 Communities"
 description: "Senior living in Kern County, California: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Kern"
 state_name: "California"

@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Legacy Retirement Communities"
-seo_title: "Legacy Retirement Communities — Senior Living Communities & Locations"
+seo_title: "Legacy Retirement Communities - Senior Living Communities & Locations"
 description: "Legacy Retirement Communities operates 19 senior living communities with more than 2,700 units across Utah, Nevada, Arizona, Colorado, and Oklahoma under the "
 org_description: "Legacy Retirement Communities operates 19 senior living communities with more than 2,700 units across Utah, Nevada, Arizona, Colorado, and Oklahoma under the Legacy House and Legacy Village brands. Based in South Jordan, Utah, and managed by Western States Lodging and Management, the company provides independent living, assisted living, memory care, and rehabilitation services and has received Utah's Best of State award for senior living."
 headquarters: "South Jordan, Utah"

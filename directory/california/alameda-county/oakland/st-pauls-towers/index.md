@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "St. Paul's Towers"
-seo_title: "St. Paul's Towers — Senior Living in Oakland, CA"
+seo_title: "St. Paul's Towers - Senior Living in Oakland, CA"
 description: "A high-rise life plan community overlooking Lake Merritt in Oakland, operated by nonprofit Front Porch."
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "St. Paul's Towers", "url": "/directory/california/alameda-county/oakland/st-pauls-towers/"}]
 nearby: [{"name": "Merrill Gardens at Rockridge", "url": "/directory/california/alameda-county/oakland/merrill-gardens-at-rockridge/", "city_name": "Oakland", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "Newer senior living community in Oakland's Rockridge neighborhood offering independent living, assisted living, and memory care, with architecture designed to match the classic character of the area. Located close to the dining and retail of College Avenue and BART."}]

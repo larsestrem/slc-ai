@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Blackfoot, ID"
-seo_title: "Senior Living in Blackfoot, ID — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Blackfoot, ID - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Blackfoot, Idaho: care levels, sizes, and official inspection records for each."
 city_name: "Blackfoot"
 county_name: "Bingham"

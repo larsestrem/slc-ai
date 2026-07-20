@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Sea Bluffs"
-seo_title: "Sea Bluffs — Senior Living in Dana Point, CA"
+seo_title: "Sea Bluffs - Senior Living in Dana Point, CA"
 description: "Sea Bluffs, formerly The Fountains at Sea Bluffs by Watermark, is a senior living community on a coastal bluff in Dana Point offering independent living, assi"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sea Bluffs", "url": "/directory/california/orange-county/dana-point/sea-bluffs/"}]
 nearby: []

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Santa Barbara, CA"
-seo_title: "Senior Living in Santa Barbara, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Santa Barbara, CA - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Santa Barbara, California: care levels, sizes, and official inspection records for each."
 city_name: "Santa Barbara"
 county_name: "Santa Barbara"

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Spokane Valley, WA"
-seo_title: "Senior Living in Spokane Valley, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Spokane Valley, WA - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Spokane Valley, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Spokane Valley"
 county_name: "Spokane"

@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Madison County, ID Senior Living"
-seo_title: "Senior Living in Madison County, ID — 2 Communities"
+seo_title: "Senior Living in Madison County, ID - 2 Communities"
 description: "Senior living in Madison County, Idaho: 2 communities across 1 cities, with care levels and inspection links."
 county_name: "Madison"
 state_name: "Idaho"

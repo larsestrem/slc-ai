@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Hilo, HI"
-seo_title: "Senior Living in Hilo, HI — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Hilo, HI - Assisted Living, Memory Care & More"
 description: "Compare 3 senior living communities in Hilo, Hawaii: care levels, sizes, and official inspection records for each."
 city_name: "Hilo"
 county_name: "Hawaii"

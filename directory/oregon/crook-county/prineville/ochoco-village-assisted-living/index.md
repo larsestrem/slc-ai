@@ -1,7 +1,7 @@
 ---
 layout: "facility"
 title: "Regency Village at Prineville"
-seo_title: "Regency Village at Prineville — Senior Living in Prineville, OR"
+seo_title: "Regency Village at Prineville - Senior Living in Prineville, OR"
 description: "Ochoco Village is an assisted living community in Prineville licensed for up to 57 residents, one of the main senior care options in Crook County. Residents r"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Regency Village at Prineville", "url": "/directory/oregon/crook-county/prineville/ochoco-village-assisted-living/"}]
 nearby: []

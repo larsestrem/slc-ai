@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Avalon Health Care"
-seo_title: "Avalon Health Care — Senior Living Communities & Locations"
+seo_title: "Avalon Health Care - Senior Living Communities & Locations"
 description: "Avalon Health Care is a regional operator of skilled nursing, rehabilitation, assisted living, and long-term care facilities across the western United States,"
 org_description: "Avalon Health Care is a regional operator of skilled nursing, rehabilitation, assisted living, and long-term care facilities across the western United States, headquartered in Salt Lake City, Utah. Its Hawaii presence includes Avalon Care Center - Honolulu."
 headquarters: "Salt Lake City, Utah"

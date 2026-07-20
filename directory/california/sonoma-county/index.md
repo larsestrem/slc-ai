@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Sonoma County, CA Senior Living"
-seo_title: "Senior Living in Sonoma County, CA — 3 Communities"
+seo_title: "Senior Living in Sonoma County, CA - 3 Communities"
 description: "Senior living in Sonoma County, California: 3 communities across 2 cities, with care levels and inspection links."
 county_name: "Sonoma"
 state_name: "California"

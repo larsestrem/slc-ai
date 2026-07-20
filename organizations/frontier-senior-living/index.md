@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Frontier Senior Living"
-seo_title: "Frontier Senior Living — Senior Living Communities & Locations"
+seo_title: "Frontier Senior Living - Senior Living Communities & Locations"
 description: "Oregon-based operator (formerly Frontier Management) of over 100 senior living communities nationwide, with a heavy emphasis on stand-alone memory care. Its M"
 org_description: "Oregon-based operator (formerly Frontier Management) of over 100 senior living communities nationwide, with a heavy emphasis on stand-alone memory care. Its Montessori-inspired SPARK program is the core of its dementia-care approach."
 headquarters: "Durham, Oregon"

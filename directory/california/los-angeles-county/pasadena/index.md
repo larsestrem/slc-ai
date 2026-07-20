@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Pasadena, CA"
-seo_title: "Senior Living in Pasadena, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Pasadena, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Pasadena, California: care levels, sizes, and official inspection records for each."
 city_name: "Pasadena"
 county_name: "Los Angeles"

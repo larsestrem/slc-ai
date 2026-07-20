@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Spokane, WA"
-seo_title: "Senior Living in Spokane, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Spokane, WA - Assisted Living, Memory Care & More"
 description: "Compare 10 senior living communities in Spokane, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Spokane"
 county_name: "Spokane"

@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Curry County, OR Senior Living"
-seo_title: "Senior Living in Curry County, OR — 1 Communities"
+seo_title: "Senior Living in Curry County, OR - 1 Communities"
 description: "Senior living in Curry County, Oregon: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Curry"
 state_name: "Oregon"

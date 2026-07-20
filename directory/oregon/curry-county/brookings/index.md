@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Brookings, OR"
-seo_title: "Senior Living in Brookings, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Brookings, OR - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Brookings, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Brookings"
 county_name: "Curry"

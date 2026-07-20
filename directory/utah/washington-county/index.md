@@ -2,7 +2,7 @@
 layout: "county"
 noindex: true
 title: "Washington County, UT Senior Living"
-seo_title: "Senior Living in Washington County, UT — 1 Communities"
+seo_title: "Senior Living in Washington County, UT - 1 Communities"
 description: "Senior living in Washington County, Utah: 1 communities across 1 cities, with care levels and inspection links."
 county_name: "Washington"
 state_name: "Utah"

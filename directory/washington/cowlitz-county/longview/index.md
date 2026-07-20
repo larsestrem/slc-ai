@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Longview, WA"
-seo_title: "Senior Living in Longview, WA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Longview, WA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Longview, Washington: care levels, sizes, and official inspection records for each."
 city_name: "Longview"
 county_name: "Cowlitz"

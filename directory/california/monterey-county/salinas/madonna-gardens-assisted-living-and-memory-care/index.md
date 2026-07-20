@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Madonna Gardens Assisted Living and Memory Care"
-seo_title: "Madonna Gardens Assisted Living and Memory Care — Senior Living in Salinas, CA"
+seo_title: "Madonna Gardens Assisted Living and Memory Care - Senior Living in Salinas, CA"
 description: "Assisted living and memory care community in Salinas known for beautifully landscaped courtyards with water features and a lush interior garden. Amenities inc"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Madonna Gardens Assisted Living and Memory Care", "url": "/directory/california/monterey-county/salinas/madonna-gardens-assisted-living-and-memory-care/"}]
 nearby: []

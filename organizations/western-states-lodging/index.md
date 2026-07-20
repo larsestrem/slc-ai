@@ -1,7 +1,7 @@
 ---
 layout: "organization"
 title: "Western States Lodging & Management"
-seo_title: "Western States Lodging & Management — Senior Living Communities & Locations"
+seo_title: "Western States Lodging & Management - Senior Living Communities & Locations"
 description: "Western States Lodging & Management is a Utah-based hospitality and senior living operator, in business more than 25 years, that manages the Legacy House and "
 org_description: "Western States Lodging & Management is a Utah-based hospitality and senior living operator, in business more than 25 years, that manages the Legacy House and Legacy Village brands of assisted living and memory care communities across Utah, Nevada, and Idaho."
 headquarters: "Taylorsville, Utah"

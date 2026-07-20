@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Happy Valley, OR"
-seo_title: "Senior Living in Happy Valley, OR — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Happy Valley, OR - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Happy Valley, Oregon: care levels, sizes, and official inspection records for each."
 city_name: "Happy Valley"
 county_name: "Clackamas"

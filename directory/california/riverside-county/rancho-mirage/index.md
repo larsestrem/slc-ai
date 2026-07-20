@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Rancho Mirage, CA"
-seo_title: "Senior Living in Rancho Mirage, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Rancho Mirage, CA - Assisted Living, Memory Care & More"
 description: "Compare 1 senior living communities in Rancho Mirage, California: care levels, sizes, and official inspection records for each."
 city_name: "Rancho Mirage"
 county_name: "Riverside"

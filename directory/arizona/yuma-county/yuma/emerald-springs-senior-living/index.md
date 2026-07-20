@@ -2,7 +2,7 @@
 noindex: true
 layout: "facility"
 title: "Emerald Springs Senior Living"
-seo_title: "Emerald Springs Senior Living — Senior Living in Yuma, AZ"
+seo_title: "Emerald Springs Senior Living - Senior Living in Yuma, AZ"
 description: "Emerald Springs Senior Living is a full-campus community in Yuma offering independent living, assisted living, and memory care, with a pool, robust activity c"
 crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Emerald Springs Senior Living", "url": "/directory/arizona/yuma-county/yuma/emerald-springs-senior-living/"}]
 nearby: []

@@ -2,7 +2,7 @@
 layout: "city"
 noindex: true
 title: "Senior Living in Rancho Cucamonga, CA"
-seo_title: "Senior Living in Rancho Cucamonga, CA — Assisted Living, Memory Care & More"
+seo_title: "Senior Living in Rancho Cucamonga, CA - Assisted Living, Memory Care & More"
 description: "Compare 2 senior living communities in Rancho Cucamonga, California: care levels, sizes, and official inspection records for each."
 city_name: "Rancho Cucamonga"
 county_name: "San Bernardino"

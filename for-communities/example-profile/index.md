@@ -114,15 +114,12 @@ activities_list:
   - "Worship services"
   - "Twice-weekly outings"
   - "Intergenerational visits with the elementary school"
-amenities:
-  - "Enclosed garden courtyard"
-  - "Walking paths"
-  - "Library"
-  - "Fitness room"
-  - "Salon & barber"
-  - "Theater room"
-  - "Private dining room"
-  - "Guest suite for visiting family"
+amenities_groups: [{"label": "Community spaces", "items": ["Enclosed garden courtyard", "Walking paths", "Library", "Theater room", "Private dining room", "Guest suite for visiting family"]}, {"label": "Wellness & services", "items": ["Fitness room", "Salon & barber", "Weekly housekeeping", "Scheduled transportation"]}, {"label": "In the apartments", "items": ["Kitchenette", "Walk-in shower with grab bars", "Emergency call system", "Individual climate control"]}]
+room_types: [{"type": "Studio", "count": 14, "sqft": "380", "features": ["Kitchenette", "Walk-in shower"]}, {"type": "One bedroom", "count": 22, "sqft": "540", "features": ["Full kitchen", "Patio on ground floor"]}, {"type": "Two bedroom", "count": 8, "sqft": "720", "features": ["Second bath", "Corner views"]}]
+pricing: [{"label": "Assisted living", "starting_at": "$5,150/mo"}, {"label": "Memory care", "starting_at": "$7,400/mo"}]
+pricing_as_of: "July 2026"
+availability_status: "Accepting move-ins; two-bedroom waitlist"
+availability_as_of: "July 2026"
 rooms_url: /for-communities/example-profile/rooms/
 rooms_teaser: "Four apartment types from a 380 sq ft studio to a 720 sq ft two-bedroom, with sample floor plans, what's included, and questions to ask about each."
 concern_response: "Any concern - from a missing laundry bag to a care issue - goes first to the shift supervisor, who must respond to the family the same day. Anything touching health or safety goes immediately to our Director of Nursing and is logged in our quality system. We call the family with what we found and what we changed, in writing if they prefer it. Every complaint is reviewed at our monthly quality meeting; last quarter, that's why we changed our evening medication rounds and added a second weekend laundry cycle. If a family isn't satisfied with our answer, we tell them how to reach the state ombudsman - we'd rather be checked than doubted."

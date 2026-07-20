@@ -21,6 +21,7 @@ facility_size: "large"
 capacity: 120
 cms_ccn: "135098"
 sources: ["https://www.nursinghomedatabase.com/snf/135098", "https://timberspringscare.com/", "https://www.medicare.gov/care-compare/details/nursing-home/135098/view-all/?state=ID"]
+records_note: true
 verified_date: "2026-07-14"
 description_full: "Timber Springs Transitional Care is a Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Boise with 120 certified beds. It offers short-term rehabilitation therapy and long-term skilled nursing care."
 reviews_search_url: "https://www.google.com/search?q=Timber+Springs+Transitional+Care+Boise+ID+reviews"

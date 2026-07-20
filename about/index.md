@@ -45,8 +45,10 @@ with a community before making decisions.
 ## What we are not
 
 We are not a placement or referral service, and we don't accept referral fees from communities.
-We don't provide medical, legal, or financial advice - our guides tell you when a question
-belongs with a doctor, an elder law attorney, or a benefits counselor, and
+Our income comes from curated sponsors and marketing services kept walled off from the directory -
+[here's exactly how we're funded](/how-we-are-funded/), and why none of it touches what you read
+about a community. We don't provide medical, legal, or financial advice - our guides tell you when
+a question belongs with a doctor, an elder law attorney, or a benefits counselor, and
 [where to find free help](/guides/government-assistance-programs/).
 
 ## About ratings and reviews - we link, we don't display

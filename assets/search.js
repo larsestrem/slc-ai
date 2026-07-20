@@ -118,7 +118,27 @@
     });
   }
 
-  function init() { document.querySelectorAll(".fsearch").forEach(setup); }
+  function initHeaderToggle() {
+    var btn = document.querySelector(".search-toggle");
+    var panel = document.getElementById("header-search");
+    if (!btn || !panel) return;
+    function open() {
+      panel.hidden = false;
+      btn.setAttribute("aria-expanded", "true");
+      var inp = panel.querySelector("input[type=search]");
+      if (inp) inp.focus();
+    }
+    function shut() { panel.hidden = true; btn.setAttribute("aria-expanded", "false"); }
+    btn.addEventListener("click", function () { panel.hidden ? open() : shut(); });
+    document.addEventListener("keydown", function (ev) {
+      if (ev.key === "Escape" && !panel.hidden) { shut(); btn.focus(); }
+    });
+    document.addEventListener("click", function (ev) {
+      if (!panel.hidden && !panel.contains(ev.target) && !btn.contains(ev.target)) shut();
+    });
+  }
+
+  function init() { document.querySelectorAll(".fsearch").forEach(setup); initHeaderToggle(); }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
   else init();
 })();

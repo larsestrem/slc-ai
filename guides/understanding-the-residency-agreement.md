@@ -43,7 +43,7 @@ The rate on page one is the starting price, not the price. Find the language gov
 
 This is the uncomfortable check, and it's vital. Read what happens to money when your parent moves out - or dies:
 
-- **The community fee** (often $2,000-6,000, sometimes more) is usually non-refundable after a short window. Confirm exactly when it stops being refundable.
+- **The community fee** (often $2,500 to $12,000, roughly one-half to two times the monthly rent) is usually non-refundable after a short window. Confirm exactly when it stops being refundable.
 - **Prorating at move-out and at death.** If your parent dies on the 3rd of the month, does the family owe the full month? Does billing stop at death, at removal of belongings, or 30 days after notice? Contracts differ enormously here, and grieving families routinely pay for empty rooms because nobody read this paragraph.
 - **Security deposits and entrance fees.** For big [CCRC](/guides/ccrc-life-plan-communities/) entrance fees, refund formulas ("90% refundable," declining schedules) deserve an attorney's eyes, full stop.
 

@@ -87,14 +87,14 @@ name on move-in day already trusts you a little. See the
 [sample team page](/for-communities/example-profile/team/), then email us short bios
 (a few sentences each: role, years in senior care, what they're known for at your community).
 
-## Free now - and what happens if that changes
+## Managing your listing is free
 
-Claiming and updating your listing is **free**. At some point we may charge for the editorial
-work involved - verifying updaters, editing, and maintaining listings takes real time - but
-we won't introduce any charge until this directory is sending communities significant traffic
-that justifies it. And whatever happens with pricing, one thing never changes:
-**payment will never buy placement, ranking, or favorable treatment** - see
-[our promise](#our-promise) below.
+Claiming and updating your listing is **free, and we intend to keep it that way.** We don't
+charge communities to claim, update, or maintain a listing. Keeping updates free is part of how
+we stay independent: what your listing says is never tied to a payment to us. We do offer
+separate, optional [marketing services](/marketing/) that some communities hire us for, but that
+work never touches the directory, and **payment of any kind will never buy placement, ranking, or
+favorable treatment** - see [our promise](#our-promise) below.
 
 ## Our promise
 

@@ -90,7 +90,7 @@ for. The fuller definitions are in the sections that follow.
 ## Money and contracts
 
 - **Base rent vs. care charges** - the advertised price vs. the assessed care fees added on top; the real bill is both. [How the bill is built](/guides/cost-of-senior-living/).
-- **Community fee / move-in fee** - a one-time charge at move-in, often $1,500 - $5,000+, usually negotiable. [Hidden fees guide](/guides/whats-not-included-hidden-fees/).
+- **Community fee / move-in fee** - a one-time charge at move-in, often $2,500 to $12,000 (roughly one-half to two times the monthly rent), usually negotiable. [Hidden fees guide](/guides/whats-not-included-hidden-fees/).
 - **Second-person fee** - the added charge when a couple shares an apartment. [Couples guide](/guides/pets-partners-and-age-requirements/).
 - **Entrance fee** - the large upfront payment at most CCRCs ($100k - $1M+), with varying refundability.
 - **Long-term care (LTC) insurance** - private insurance that reimburses care costs; claiming it takes paperwork and persistence. [Paying for care](/guides/paying-for-senior-care/).

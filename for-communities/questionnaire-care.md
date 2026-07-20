@@ -13,6 +13,10 @@ About 10 minutes. Fill in what you can and skip anything that doesn't apply - pa
 are welcome. Your answers are **sent privately to our editors**; nothing is published until
 we've verified you with your community.
 
+Please give us the specific facts, not sales language: what care you provide, who provides it,
+and how it works. Concrete details help families and hold up over time; we edit out superlatives
+either way. See our [content guidelines](/for-communities/content-guidelines/).
+
 {% include q-form-start.html subject="Listing questionnaire - Care & Services" %}
 
   <fieldset>

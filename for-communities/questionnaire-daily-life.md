@@ -13,6 +13,10 @@ About 5-10 minutes - and honestly the section families enjoy reading most. Fill 
 can; partial answers are welcome. Your answers are **sent privately to our editors**; nothing
 is published until we've verified you with your community.
 
+One tip: families remember specifics, not slogans. A sample menu, a weekly activity schedule, or
+a staff member's name says far more than "wonderful" or "resort-style" - and we edit marketing
+language out anyway. See our [content guidelines](/for-communities/content-guidelines/).
+
 {% include q-form-start.html subject="Listing questionnaire - Daily Life" %}
 
   <fieldset>

@@ -69,7 +69,7 @@ Assisted living rarely calls them "shared rooms" - they're "companion suites": t
 More than the rate sheet suggests, especially at communities with empty apartments:
 
 - **Private rooms at reduced rates.** A community with vacancies may offer a private unit at or near the companion rate, sometimes framed as a "move-in special." Occupancy is leverage - ask what's available.
-- **Rate locks and waived community fees.** One-time move-in/community fees ($1,500 - $5,000) are frequently negotiable, as are first-year rate guarantees.
+- **Rate locks and waived community fees.** One-time move-in/community fees (often $2,500 to $12,000) are frequently negotiable, as are first-year rate guarantees.
 - **A private room while waiting for a companion match.** If no roommate is available, ask to pay the companion rate for private occupancy until one is matched. Get the terms in writing.
 - In nursing homes there's less price flexibility, but room *placement* - which room, which wing, which roommate - is worth advocating for, persistently and politely.
 

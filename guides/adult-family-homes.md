@@ -90,7 +90,7 @@ Because quality rides on the individual owner, vetting matters even more than wi
 
 > **Ask this:** "May I see your last two state inspection reports, and can you give me the phone numbers of two families with a resident here now?"
 
-An insider note about referrals: many free "placement advisors" are paid a commission - often equal to a month's rent - by the facility your parent chooses, and some small homes don't pay these fees, so advisors may never mention them. Our [placement professionals guide](/guides/placement-professionals/) explains how that industry works. Search your state's licensing lookup and our [directory](/directory/) yourself so you see the full landscape.
+An insider note about referrals: many free "placement advisors" are paid a commission - often 50% to 100% of a month's rent - by the facility your parent chooses, and some small homes don't pay these fees, so advisors may never mention them. Our [placement professionals guide](/guides/placement-professionals/) explains how that industry works. Search your state's licensing lookup and our [directory](/directory/) yourself so you see the full landscape.
 
 ## Common questions
 

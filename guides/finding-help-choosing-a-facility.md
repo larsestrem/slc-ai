@@ -59,7 +59,7 @@ sale. Placement specialists work the same way:
 - **They arrange and often join the tours**, help you compare, and guide the move-in
   paperwork.
 - **You typically pay nothing directly.** Like a realtor's commission, the specialist's fee
-  is paid by the community your parent moves into - usually a placement fee in the range of
+  is paid by the community your parent moves into - commonly a placement fee of 50% to 100% of
   one month's rent. That fee is how they earn their living, and communities pay it because
   finding well-matched residents is worth it to them.
 
@@ -73,12 +73,12 @@ when a hospital discharge gives you 48 hours to decide.
 **The realtor analogy cuts both ways, so go in clear-eyed.** Just as a realtor only earns
 commission when you buy, a placement specialist only earns when your parent moves into a
 community that pays them - so the best ones are transparent about who's in their network and
-still put your fit first, and the mediocre ones steer. That's why we
-[explain the business model in full](/guides/placement-professionals/) and why our
-[placement professionals directory](/placement-professionals/) only lists advisors who pass a
-published 10-point vetting standard - including putting their conflict-of-interest answers on
-the listing itself. Prefer local advisors who tour with you in person over national
-call-center services that never leave the phone.
+still put your fit first, and the mediocre ones steer. We don't list or endorse specific advisors,
+and we take no referral fees ourselves, so we can't point you to one - but we
+[explain the business model in full](/guides/placement-professionals/) and lay out
+[how to find and vet an advisor yourself](/placement-professionals/), including the
+conflict-of-interest questions to ask. Prefer local advisors who tour with you in person over
+national call-center services that never leave the phone.
 
 ## Free and low-cost help alongside (or instead)
 
@@ -118,6 +118,6 @@ they can help and point you to your Area Agency on Aging if they can't.
 
 Start with our [step-by-step choosing guide](/guides/how-to-choose-a-senior-care-facility/) to
 get oriented, use the [touring checklist](/guides/touring-checklist/) on every visit, and if
-you want an expert in your corner, our [placement professionals directory](/placement-professionals/)
-explains exactly what we verify before listing an advisor - or call the Eldercare Locator at
-1-800-677-1116 for the free public route.
+you want an expert in your corner, our guide to
+[finding and vetting a placement advisor](/placement-professionals/) shows you how to judge one
+yourself - or call the Eldercare Locator at 1-800-677-1116 for the free public route.

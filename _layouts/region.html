@@ -3,6 +3,7 @@ layout: default
 ---
 <h1>{{ page.region_name }} Senior Living Facilities &amp; Care Homes</h1>
 <p class="lead">{{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in the {{ page.region_name }} region of {{ page.state_name }}, organized by city.</p>
+{% include search-box.html %}
 
 {{ content }}
 

@@ -3,6 +3,7 @@ layout: default
 ---
 <h1>Senior Living in {{ page.city_name }}, {{ page.state_abbrev }}</h1>
 <p class="lead">{{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in {{ page.city_name }}, {{ page.county_name }} County, {{ page.state_name }}.</p>
+{% include search-box.html %}
 
 {{ content }}
 

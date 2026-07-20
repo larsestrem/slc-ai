@@ -1,0 +1,674 @@
+[{"t":"x","n":"","u":""}
+,{"t":"state","n":"Idaho","d":"62 communities","u":"/directory/idaho/"}
+,{"t":"state","n":"Oregon","d":"163 communities","u":"/directory/oregon/"}
+,{"t":"state","n":"Washington","d":"137 communities","u":"/directory/washington/"}
+,{"t":"state","n":"Hawaii","d":"44 communities","u":"/directory/hawaii/"}
+,{"t":"facility","n":"Alder Grove Senior Living","d":"Rivertown, OR","u":"/for-communities/example-profile/"}
+,{"t":"facility","n":"Meadow View Assisted Living and Memory Care","d":"Emmett, ID","u":"/directory/idaho/gem-county/emmett/meadow-view-assisted-living-and-memory-care/"}
+,{"t":"city","n":"Emmett","d":"Idaho","u":"/directory/idaho/gem-county/emmett/"}
+,{"t":"facility","n":"Idaho State Veterans Home - Lewiston","d":"Lewiston, ID","u":"/directory/idaho/nez-perce-county/lewiston/idaho-state-veterans-home-lewiston/"}
+,{"t":"facility","n":"Royal Plaza Health and Rehabilitation of Cascadia","d":"Lewiston, ID","u":"/directory/idaho/nez-perce-county/lewiston/royal-plaza-health-and-rehabilitation-of-cascadia/"}
+,{"t":"facility","n":"Cascadia of Lewiston","d":"Lewiston, ID","u":"/directory/idaho/nez-perce-county/lewiston/cascadia-of-lewiston/"}
+,{"t":"city","n":"Lewiston","d":"Idaho","u":"/directory/idaho/nez-perce-county/lewiston/"}
+,{"t":"facility","n":"Pomerelle Place","d":"Burley, ID","u":"/directory/idaho/cassia-county/burley/pomerelle-place/"}
+,{"t":"city","n":"Burley","d":"Idaho","u":"/directory/idaho/cassia-county/burley/"}
+,{"t":"facility","n":"North Star Retirement Community","d":"Coeur d'Alene, ID","u":"/directory/idaho/kootenai-county/coeur-dalene/north-star-retirement-community/"}
+,{"t":"facility","n":"Legends Park Assisted Living","d":"Coeur d'Alene, ID","u":"/directory/idaho/kootenai-county/coeur-dalene/legends-park-assisted-living/"}
+,{"t":"facility","n":"Ironwood Rehabilitation and Care Center","d":"Coeur d'Alene, ID","u":"/directory/idaho/kootenai-county/coeur-dalene/ironwood-rehabilitation-and-care-center/"}
+,{"t":"facility","n":"Creekside Inn","d":"Coeur d'Alene, ID","u":"/directory/idaho/kootenai-county/coeur-dalene/creekside-inn/"}
+,{"t":"city","n":"Coeur d'Alene","d":"Idaho","u":"/directory/idaho/kootenai-county/coeur-dalene/"}
+,{"t":"facility","n":"Guardian Angel Homes Post Falls","d":"Post Falls, ID","u":"/directory/idaho/kootenai-county/post-falls/guardian-angel-homes-post-falls/"}
+,{"t":"facility","n":"Life Care Center of Post Falls","d":"Post Falls, ID","u":"/directory/idaho/kootenai-county/post-falls/life-care-center-of-post-falls/"}
+,{"t":"city","n":"Post Falls","d":"Idaho","u":"/directory/idaho/kootenai-county/post-falls/"}
+,{"t":"facility","n":"Silverton Health and Rehabilitation of Cascadia","d":"Silverton, ID","u":"/directory/idaho/shoshone-county/silverton/silverton-health-and-rehabilitation-of-cascadia/"}
+,{"t":"city","n":"Silverton","d":"Idaho","u":"/directory/idaho/shoshone-county/silverton/"}
+,{"t":"facility","n":"Briarwood Assisted Living of Rexburg","d":"Rexburg, ID","u":"/directory/idaho/madison-county/rexburg/briarwood-assisted-living-of-rexburg/"}
+,{"t":"facility","n":"Temple View Transitional Care Center","d":"Rexburg, ID","u":"/directory/idaho/madison-county/rexburg/temple-view-transitional-care-center/"}
+,{"t":"city","n":"Rexburg","d":"Idaho","u":"/directory/idaho/madison-county/rexburg/"}
+,{"t":"facility","n":"Idaho State Veterans Home - Pocatello","d":"Pocatello, ID","u":"/directory/idaho/bannock-county/pocatello/idaho-state-veterans-home-pocatello/"}
+,{"t":"facility","n":"Quinn Meadows Rehabilitation and Care Center","d":"Pocatello, ID","u":"/directory/idaho/bannock-county/pocatello/quinn-meadows-rehabilitation-and-care-center/"}
+,{"t":"facility","n":"Caring Hearts Assisted Living","d":"Pocatello, ID","u":"/directory/idaho/bannock-county/pocatello/caring-hearts-assisted-living-pocatello/"}
+,{"t":"city","n":"Pocatello","d":"Idaho","u":"/directory/idaho/bannock-county/pocatello/"}
+,{"t":"facility","n":"Grangeville Health and Rehabilitation of Cascadia","d":"Grangeville, ID","u":"/directory/idaho/idaho-county/grangeville/grangeville-health-and-rehabilitation-of-cascadia/"}
+,{"t":"city","n":"Grangeville","d":"Idaho","u":"/directory/idaho/idaho-county/grangeville/"}
+,{"t":"facility","n":"Touchmark at Meadow Lake Village","d":"Meridian, ID","u":"/directory/idaho/ada-county/meridian/touchmark-at-meadow-lake-village/"}
+,{"t":"facility","n":"Grace at Fairview Lakes","d":"Meridian, ID","u":"/directory/idaho/ada-county/meridian/grace-at-fairview-lakes/"}
+,{"t":"facility","n":"Edgewood Meridian","d":"Meridian, ID","u":"/directory/idaho/ada-county/meridian/edgewood-meridian/"}
+,{"t":"facility","n":"Copper Springs Senior Living","d":"Meridian, ID","u":"/directory/idaho/ada-county/meridian/copper-springs-senior-living/"}
+,{"t":"facility","n":"Aspen Transitional Rehabilitation","d":"Meridian, ID","u":"/directory/idaho/ada-county/meridian/aspen-transitional-rehabilitation/"}
+,{"t":"city","n":"Meridian","d":"Idaho","u":"/directory/idaho/ada-county/meridian/"}
+,{"t":"facility","n":"Ashley Manor - Cory Lane","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/ashley-manor-cory-lane/"}
+,{"t":"facility","n":"The Cottages at Columbia Village","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/the-cottages-at-columbia-village/"}
+,{"t":"facility","n":"Timber Springs Transitional Care","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/timber-springs-transitional-care/"}
+,{"t":"facility","n":"Brookdale Boise Parkcenter","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/brookdale-boise-parkcenter/"}
+,{"t":"facility","n":"Fox Den Homes North End House","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/fox-den-homes-north-end-house/"}
+,{"t":"facility","n":"Applewood Assisted Living","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/applewood-assisted-living/"}
+,{"t":"facility","n":"Truewood by Merrill, Boise","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/truewood-by-merrill-boise/"}
+,{"t":"facility","n":"Cascadia of Boise","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/cascadia-of-boise/"}
+,{"t":"facility","n":"Fox Den Homes Franklin House","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/fox-den-homes-franklin-house/"}
+,{"t":"facility","n":"Fox Den Homes at Summerset","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/fox-den-homes-at-summerset/"}
+,{"t":"facility","n":"Fox Den Homes Bannock House","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/fox-den-homes-bannock-house/"}
+,{"t":"facility","n":"Idaho State Veterans Home - Boise","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/idaho-state-veterans-home-boise/"}
+,{"t":"facility","n":"The Terraces of Boise","d":"Boise, ID","u":"/directory/idaho/ada-county/boise/the-terraces-of-boise/"}
+,{"t":"city","n":"Boise","d":"Idaho","u":"/directory/idaho/ada-county/boise/"}
+,{"t":"facility","n":"Revel Eagle","d":"Eagle, ID","u":"/directory/idaho/ada-county/eagle/revel-eagle/"}
+,{"t":"city","n":"Eagle","d":"Idaho","u":"/directory/idaho/ada-county/eagle/"}
+,{"t":"facility","n":"The Bridge at Sandpoint","d":"Sandpoint, ID","u":"/directory/idaho/bonner-county/sandpoint/the-bridge-at-sandpoint/"}
+,{"t":"facility","n":"Life Care Center of Sandpoint","d":"Sandpoint, ID","u":"/directory/idaho/bonner-county/sandpoint/life-care-center-of-sandpoint/"}
+,{"t":"facility","n":"Valley Vista Care Center of Sandpoint","d":"Sandpoint, ID","u":"/directory/idaho/bonner-county/sandpoint/valley-vista-care-center-of-sandpoint/"}
+,{"t":"city","n":"Sandpoint","d":"Idaho","u":"/directory/idaho/bonner-county/sandpoint/"}
+,{"t":"facility","n":"Weiser Care of Cascadia","d":"Weiser, ID","u":"/directory/idaho/washington-county/weiser/weiser-care-of-cascadia/"}
+,{"t":"city","n":"Weiser","d":"Idaho","u":"/directory/idaho/washington-county/weiser/"}
+,{"t":"facility","n":"Lincoln Court","d":"Idaho Falls, ID","u":"/directory/idaho/bonneville-county/idaho-falls/lincoln-court/"}
+,{"t":"facility","n":"The Gables of Idaho Falls Assisted Living & Memory Care","d":"Idaho Falls, ID","u":"/directory/idaho/bonneville-county/idaho-falls/the-gables-of-idaho-falls-assisted-living-memory-care/"}
+,{"t":"facility","n":"Fairwinds - Sand Creek","d":"Idaho Falls, ID","u":"/directory/idaho/bonneville-county/idaho-falls/fairwinds-sand-creek/"}
+,{"t":"facility","n":"Life Care Center of Idaho Falls","d":"Idaho Falls, ID","u":"/directory/idaho/bonneville-county/idaho-falls/life-care-center-of-idaho-falls/"}
+,{"t":"facility","n":"Lily and Syringa Assisted Living","d":"Idaho Falls, ID","u":"/directory/idaho/bonneville-county/idaho-falls/lily-and-syringa-assisted-living/"}
+,{"t":"facility","n":"MorningStar of Idaho Falls","d":"Idaho Falls, ID","u":"/directory/idaho/bonneville-county/idaho-falls/morningstar-of-idaho-falls/"}
+,{"t":"city","n":"Idaho Falls","d":"Idaho","u":"/directory/idaho/bonneville-county/idaho-falls/"}
+,{"t":"facility","n":"Oak Creek Rehabilitation Center of Kimberly","d":"Kimberly, ID","u":"/directory/idaho/twin-falls-county/kimberly/oak-creek-rehabilitation-center-of-kimberly/"}
+,{"t":"city","n":"Kimberly","d":"Idaho","u":"/directory/idaho/twin-falls-county/kimberly/"}
+,{"t":"facility","n":"Cenoma House","d":"Twin Falls, ID","u":"/directory/idaho/twin-falls-county/twin-falls/cenoma-house/"}
+,{"t":"facility","n":"Desert Rose Retirement Estates","d":"Twin Falls, ID","u":"/directory/idaho/twin-falls-county/twin-falls/desert-rose-retirement-estates/"}
+,{"t":"facility","n":"Avista Twin Falls","d":"Twin Falls, ID","u":"/directory/idaho/twin-falls-county/twin-falls/avista-twin-falls/"}
+,{"t":"facility","n":"Heritage Assisted Living of Twin Falls","d":"Twin Falls, ID","u":"/directory/idaho/twin-falls-county/twin-falls/heritage-assisted-living-of-twin-falls/"}
+,{"t":"facility","n":"Twin Falls Transitional Care of Cascadia","d":"Twin Falls, ID","u":"/directory/idaho/twin-falls-county/twin-falls/twin-falls-transitional-care-of-cascadia/"}
+,{"t":"facility","n":"Bridgeview Estates","d":"Twin Falls, ID","u":"/directory/idaho/twin-falls-county/twin-falls/bridgeview-estates/"}
+,{"t":"city","n":"Twin Falls","d":"Idaho","u":"/directory/idaho/twin-falls-county/twin-falls/"}
+,{"t":"facility","n":"Paradise Creek Health and Rehab of Cascadia","d":"Moscow, ID","u":"/directory/idaho/latah-county/moscow/paradise-creek-health-and-rehab-of-cascadia/"}
+,{"t":"city","n":"Moscow","d":"Idaho","u":"/directory/idaho/latah-county/moscow/"}
+,{"t":"facility","n":"Edgewood Spring Creek Fruitland","d":"Fruitland, ID","u":"/directory/idaho/payette-county/fruitland/edgewood-spring-creek-fruitland/"}
+,{"t":"city","n":"Fruitland","d":"Idaho","u":"/directory/idaho/payette-county/fruitland/"}
+,{"t":"facility","n":"Bingham Memorial Skilled Nursing & Rehabilitation","d":"Blackfoot, ID","u":"/directory/idaho/bingham-county/blackfoot/bingham-memorial-skilled-nursing-rehabilitation/"}
+,{"t":"city","n":"Blackfoot","d":"Idaho","u":"/directory/idaho/bingham-county/blackfoot/"}
+,{"t":"facility","n":"Karcher Senior Living","d":"Nampa, ID","u":"/directory/idaho/canyon-county/nampa/karcher-senior-living/"}
+,{"t":"facility","n":"Cascadia of Nampa","d":"Nampa, ID","u":"/directory/idaho/canyon-county/nampa/cascadia-of-nampa/"}
+,{"t":"facility","n":"Grace Assisted Living - Nampa","d":"Nampa, ID","u":"/directory/idaho/canyon-county/nampa/grace-assisted-living-nampa/"}
+,{"t":"city","n":"Nampa","d":"Idaho","u":"/directory/idaho/canyon-county/nampa/"}
+,{"t":"facility","n":"Caldwell Care of Cascadia","d":"Caldwell, ID","u":"/directory/idaho/canyon-county/caldwell/caldwell-care-of-cascadia/"}
+,{"t":"facility","n":"Autumn Wind Assisted Living & Memory Care","d":"Caldwell, ID","u":"/directory/idaho/canyon-county/caldwell/autumn-wind-assisted-living-memory-care/"}
+,{"t":"city","n":"Caldwell","d":"Idaho","u":"/directory/idaho/canyon-county/caldwell/"}
+,{"t":"facility","n":"Mililani Care Home","d":"Mililani, HI","u":"/directory/hawaii/honolulu-county/mililani/mililani-care-home/"}
+,{"t":"city","n":"Mililani","d":"Hawaii","u":"/directory/hawaii/honolulu-county/mililani/"}
+,{"t":"facility","n":"Prime Health Services Care Home","d":"Aiea, HI","u":"/directory/hawaii/honolulu-county/aiea/prime-health-services-care-home/"}
+,{"t":"city","n":"Aiea","d":"Hawaii","u":"/directory/hawaii/honolulu-county/aiea/"}
+,{"t":"facility","n":"Family Ties ARCH II","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/family-ties-arch-ii/"}
+,{"t":"facility","n":"Hale Malamalama","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/hale-malamalama/"}
+,{"t":"facility","n":"Maluhia","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/maluhia/"}
+,{"t":"facility","n":"Kalakaua Gardens","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/kalakaua-gardens/"}
+,{"t":"facility","n":"Kahala Nui","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/kahala-nui/"}
+,{"t":"facility","n":"Avalon Care Center - Honolulu","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/avalon-care-center-honolulu/"}
+,{"t":"facility","n":"Maunalani Nursing and Rehabilitation Center","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/maunalani-nursing-and-rehabilitation-center/"}
+,{"t":"facility","n":"15 Craigside","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/15-craigside/"}
+,{"t":"facility","n":"Leahi Hospital","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/leahi-hospital/"}
+,{"t":"facility","n":"Arcadia Retirement Residence","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/arcadia-retirement-residence/"}
+,{"t":"facility","n":"The Plaza at Punchbowl","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/the-plaza-at-punchbowl/"}
+,{"t":"facility","n":"Faith Harbor Adult Care","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/faith-harbor-adult-care/"}
+,{"t":"facility","n":"Vilma's Adult Care Home","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/vilmas-adult-care-home/"}
+,{"t":"facility","n":"Nuuanu Hale","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/nuuanu-hale/"}
+,{"t":"facility","n":"Oahu Care Facility","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/oahu-care-facility/"}
+,{"t":"facility","n":"The Care Center of Honolulu","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/the-care-center-of-honolulu/"}
+,{"t":"facility","n":"Liliha Healthcare Center","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/liliha-healthcare-center/"}
+,{"t":"facility","n":"Kuakini Geriatric Care, Inc.","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/kuakini-geriatric-care/"}
+,{"t":"facility","n":"The Villas","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/the-villas-honolulu/"}
+,{"t":"facility","n":"The Ivy at Hawaii Kai","d":"Honolulu, HI","u":"/directory/hawaii/honolulu-county/honolulu/the-ivy-at-hawaii-kai/"}
+,{"t":"city","n":"Honolulu","d":"Hawaii","u":"/directory/hawaii/honolulu-county/honolulu/"}
+,{"t":"facility","n":"Kina 'Ole Estate","d":"Kaneohe, HI","u":"/directory/hawaii/honolulu-county/kaneohe/kina-ole-estate/"}
+,{"t":"facility","n":"Good Samaritan Society - Pohai Nani","d":"Kaneohe, HI","u":"/directory/hawaii/honolulu-county/kaneohe/good-samaritan-society-pohai-nani/"}
+,{"t":"city","n":"Kaneohe","d":"Hawaii","u":"/directory/hawaii/honolulu-county/kaneohe/"}
+,{"t":"facility","n":"The Plaza at Pearl City","d":"Pearl City, HI","u":"/directory/hawaii/honolulu-county/pearl-city/the-plaza-at-pearl-city/"}
+,{"t":"city","n":"Pearl City","d":"Hawaii","u":"/directory/hawaii/honolulu-county/pearl-city/"}
+,{"t":"facility","n":"Wilson Senior Living Kailua","d":"Kailua, HI","u":"/directory/hawaii/honolulu-county/kailua/wilson-senior-living-kailua/"}
+,{"t":"facility","n":"Kina 'Ole Estate Elima","d":"Kailua, HI","u":"/directory/hawaii/honolulu-county/kailua/kina-ole-estate-elima/"}
+,{"t":"city","n":"Kailua","d":"Hawaii","u":"/directory/hawaii/honolulu-county/kailua/"}
+,{"t":"facility","n":"Serenity Hawaii Care Home","d":"Waipahu, HI","u":"/directory/hawaii/honolulu-county/waipahu/serenity-hawaii-care-home/"}
+,{"t":"city","n":"Waipahu","d":"Hawaii","u":"/directory/hawaii/honolulu-county/waipahu/"}
+,{"t":"facility","n":"'Ilima at Leihano","d":"Kapolei, HI","u":"/directory/hawaii/honolulu-county/kapolei/ilima-at-leihano/"}
+,{"t":"facility","n":"Ka Punawai Ola","d":"Kapolei, HI","u":"/directory/hawaii/honolulu-county/kapolei/ka-punawai-ola/"}
+,{"t":"city","n":"Kapolei","d":"Hawaii","u":"/directory/hawaii/honolulu-county/kapolei/"}
+,{"t":"facility","n":"Holiday Kalama Heights","d":"Kihei, HI","u":"/directory/hawaii/maui-county/kihei/holiday-kalama-heights/"}
+,{"t":"city","n":"Kihei","d":"Hawaii","u":"/directory/hawaii/maui-county/kihei/"}
+,{"t":"facility","n":"Honesty","d":"Wailuku, HI","u":"/directory/hawaii/maui-county/wailuku/honesty-care-home-wailuku/"}
+,{"t":"facility","n":"Hale Makua - Wailuku","d":"Wailuku, HI","u":"/directory/hawaii/maui-county/wailuku/hale-makua-wailuku/"}
+,{"t":"city","n":"Wailuku","d":"Hawaii","u":"/directory/hawaii/maui-county/wailuku/"}
+,{"t":"facility","n":"Kula Hospital","d":"Kula, HI","u":"/directory/hawaii/maui-county/kula/kula-hospital/"}
+,{"t":"city","n":"Kula","d":"Hawaii","u":"/directory/hawaii/maui-county/kula/"}
+,{"t":"facility","n":"Myles Care Home","d":"Kahului, HI","u":"/directory/hawaii/maui-county/kahului/myles-care-home/"}
+,{"t":"facility","n":"Roselani Place","d":"Kahului, HI","u":"/directory/hawaii/maui-county/kahului/roselani-place/"}
+,{"t":"city","n":"Kahului","d":"Hawaii","u":"/directory/hawaii/maui-county/kahului/"}
+,{"t":"facility","n":"Ruth's House","d":"Kailua-Kona, HI","u":"/directory/hawaii/hawaii-county/kailua-kona/ruths-house-kailua-kona/"}
+,{"t":"facility","n":"Life Care Center of Kona","d":"Kailua-Kona, HI","u":"/directory/hawaii/hawaii-county/kailua-kona/life-care-center-of-kona/"}
+,{"t":"facility","n":"Domingo's Care Home","d":"Kailua-Kona, HI","u":"/directory/hawaii/hawaii-county/kailua-kona/domingos-care-home/"}
+,{"t":"city","n":"Kailua-Kona","d":"Hawaii","u":"/directory/hawaii/hawaii-county/kailua-kona/"}
+,{"t":"facility","n":"Yukio Okutsu State Veterans Home","d":"Hilo, HI","u":"/directory/hawaii/hawaii-county/hilo/yukio-okutsu-state-veterans-home/"}
+,{"t":"facility","n":"Life Care Center of Hilo","d":"Hilo, HI","u":"/directory/hawaii/hawaii-county/hilo/life-care-center-of-hilo/"}
+,{"t":"facility","n":"Legacy Hilo Rehabilitation & Nursing Center","d":"Hilo, HI","u":"/directory/hawaii/hawaii-county/hilo/legacy-hilo-rehabilitation-and-nursing-center/"}
+,{"t":"city","n":"Hilo","d":"Hawaii","u":"/directory/hawaii/hawaii-county/hilo/"}
+,{"t":"facility","n":"Regency at Puakea","d":"Lihue, HI","u":"/directory/hawaii/kauai-county/lihue/regency-at-puakea/"}
+,{"t":"facility","n":"Garden Isle Healthcare and Rehabilitation Center","d":"Lihue, HI","u":"/directory/hawaii/kauai-county/lihue/garden-isle-healthcare-and-rehabilitation-center/"}
+,{"t":"city","n":"Lihue","d":"Hawaii","u":"/directory/hawaii/kauai-county/lihue/"}
+,{"t":"facility","n":"Sea View Senior Living Community","d":"Brookings, OR","u":"/directory/oregon/curry-county/brookings/sea-view-senior-living-community/"}
+,{"t":"city","n":"Brookings","d":"Oregon","u":"/directory/oregon/curry-county/brookings/"}
+,{"t":"facility","n":"Oceanview Senior Living","d":"Newport, OR","u":"/directory/oregon/lincoln-county/newport/oceanview-senior-living/"}
+,{"t":"city","n":"Newport","d":"Oregon","u":"/directory/oregon/lincoln-county/newport/"}
+,{"t":"facility","n":"Avamere Rehabilitation of Junction City","d":"Junction City, OR","u":"/directory/oregon/lane-county/junction-city/avamere-rehabilitation-of-junction-city/"}
+,{"t":"city","n":"Junction City","d":"Oregon","u":"/directory/oregon/lane-county/junction-city/"}
+,{"t":"facility","n":"The Rawlin at Riverbend Memory Care","d":"Springfield, OR","u":"/directory/oregon/lane-county/springfield/the-rawlin-at-riverbend-memory-care/"}
+,{"t":"facility","n":"Sweetbriar Villa","d":"Springfield, OR","u":"/directory/oregon/lane-county/springfield/sweetbriar-villa/"}
+,{"t":"city","n":"Springfield","d":"Oregon","u":"/directory/oregon/lane-county/springfield/"}
+,{"t":"facility","n":"Quail Crest Memory Care","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/quail-crest-memory-care/"}
+,{"t":"facility","n":"Creekside Health and Rehab of Cascadia","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/creekside-health-and-rehab-of-cascadia/"}
+,{"t":"facility","n":"Willamette Oaks","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/willamette-oaks/"}
+,{"t":"facility","n":"Merrill Gardens at Sheldon Park","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/merrill-gardens-at-sheldon-park/"}
+,{"t":"facility","n":"Waterford Grand","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/waterford-grand/"}
+,{"t":"facility","n":"Angels Aisle Adult Foster","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/angels-aisle-adult-foster/"}
+,{"t":"facility","n":"Trustwell Living at River Run Place","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/trustwell-living-at-river-run-place/"}
+,{"t":"facility","n":"Cascade Manor","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/cascade-manor/"}
+,{"t":"facility","n":"The Springs at Greer Gardens","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/the-springs-at-greer-gardens/"}
+,{"t":"facility","n":"Pine Tree Care - AFH","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/pine-tree-care-afh/"}
+,{"t":"facility","n":"Garden Way Retirement Community","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/garden-way-retirement-community/"}
+,{"t":"facility","n":"Avamere Rehabilitation of Eugene","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/avamere-rehabilitation-of-eugene/"}
+,{"t":"facility","n":"Holiday Sheldon Oaks","d":"Eugene, OR","u":"/directory/oregon/lane-county/eugene/holiday-sheldon-oaks/"}
+,{"t":"city","n":"Eugene","d":"Oregon","u":"/directory/oregon/lane-county/eugene/"}
+,{"t":"facility","n":"Shorewood Senior Living","d":"Florence, OR","u":"/directory/oregon/lane-county/florence/shorewood-senior-living/"}
+,{"t":"city","n":"Florence","d":"Oregon","u":"/directory/oregon/lane-county/florence/"}
+,{"t":"facility","n":"Solista Roseburg by Cogir","d":"Roseburg, OR","u":"/directory/oregon/douglas-county/roseburg/solista-roseburg-by-cogir/"}
+,{"t":"facility","n":"Callahan Court Memory Care","d":"Roseburg, OR","u":"/directory/oregon/douglas-county/roseburg/callahan-court-memory-care/"}
+,{"t":"city","n":"Roseburg","d":"Oregon","u":"/directory/oregon/douglas-county/roseburg/"}
+,{"t":"facility","n":"Prairie House Assisted Living and Memory Care","d":"La Pine, OR","u":"/directory/oregon/deschutes-county/la-pine/prairie-house-assisted-living-and-memory-care/"}
+,{"t":"city","n":"La Pine","d":"Oregon","u":"/directory/oregon/deschutes-county/la-pine/"}
+,{"t":"facility","n":"High Lakes Care Homes LLC","d":"Sisters, OR","u":"/directory/oregon/deschutes-county/sisters/high-lakes-care-homes/"}
+,{"t":"city","n":"Sisters","d":"Oregon","u":"/directory/oregon/deschutes-county/sisters/"}
+,{"t":"facility","n":"Whispering Winds Retirement","d":"Bend, OR","u":"/directory/oregon/deschutes-county/bend/whispering-winds-retirement/"}
+,{"t":"facility","n":"Brookdale Bend","d":"Bend, OR","u":"/directory/oregon/deschutes-county/bend/brookdale-bend/"}
+,{"t":"facility","n":"Cascades of Bend","d":"Bend, OR","u":"/directory/oregon/deschutes-county/bend/cascades-of-bend/"}
+,{"t":"facility","n":"Touchmark at Mount Bachelor Village","d":"Bend, OR","u":"/directory/oregon/deschutes-county/bend/touchmark-at-mount-bachelor-village/"}
+,{"t":"facility","n":"Bend Transitional Care","d":"Bend, OR","u":"/directory/oregon/deschutes-county/bend/bend-transitional-care/"}
+,{"t":"facility","n":"Fox Hollow Independent and Assisted Living","d":"Bend, OR","u":"/directory/oregon/deschutes-county/bend/fox-hollow-independent-and-assisted-living/"}
+,{"t":"facility","n":"Awbrey Place Assisted Living and Memory Care","d":"Bend, OR","u":"/directory/oregon/deschutes-county/bend/awbrey-place-assisted-living-and-memory-care/"}
+,{"t":"facility","n":"Pilot Butte Rehabilitation Center","d":"Bend, OR","u":"/directory/oregon/deschutes-county/bend/pilot-butte-rehabilitation-center/"}
+,{"t":"facility","n":"Stone Lodge Gracious Retirement Living","d":"Bend, OR","u":"/directory/oregon/deschutes-county/bend/stone-lodge/"}
+,{"t":"facility","n":"Prestige Senior Living High Desert","d":"Bend, OR","u":"/directory/oregon/deschutes-county/bend/prestige-senior-living-high-desert/"}
+,{"t":"city","n":"Bend","d":"Oregon","u":"/directory/oregon/deschutes-county/bend/"}
+,{"t":"facility","n":"Regency Redmond Rehabilitation and Nursing Center","d":"Redmond, OR","u":"/directory/oregon/deschutes-county/redmond/regency-redmond-rehabilitation-and-nursing-center/"}
+,{"t":"city","n":"Redmond","d":"Oregon","u":"/directory/oregon/deschutes-county/redmond/"}
+,{"t":"facility","n":"Regent Court","d":"Corvallis, OR","u":"/directory/oregon/benton-county/corvallis/regent-court/"}
+,{"t":"facility","n":"Timberhill Place","d":"Corvallis, OR","u":"/directory/oregon/benton-county/corvallis/timberhill-place/"}
+,{"t":"facility","n":"Willamette Springs Memory Care","d":"Corvallis, OR","u":"/directory/oregon/benton-county/corvallis/willamette-springs-memory-care/"}
+,{"t":"facility","n":"Holistic Hands Care","d":"Corvallis, OR","u":"/directory/oregon/benton-county/corvallis/holistic-hands-care/"}
+,{"t":"facility","n":"Corvallis Manor","d":"Corvallis, OR","u":"/directory/oregon/benton-county/corvallis/corvallis-manor/"}
+,{"t":"facility","n":"Stoneybrook Lodge","d":"Corvallis, OR","u":"/directory/oregon/benton-county/corvallis/stoneybrook-lodge/"}
+,{"t":"city","n":"Corvallis","d":"Oregon","u":"/directory/oregon/benton-county/corvallis/"}
+,{"t":"facility","n":"Trustwell Living at Astor Place","d":"Astoria, OR","u":"/directory/oregon/clatsop-county/astoria/trustwell-living-at-astor-place/"}
+,{"t":"city","n":"Astoria","d":"Oregon","u":"/directory/oregon/clatsop-county/astoria/"}
+,{"t":"facility","n":"Avamere at Seaside","d":"Seaside, OR","u":"/directory/oregon/clatsop-county/seaside/avamere-at-seaside/"}
+,{"t":"facility","n":"Neawanna by the Sea","d":"Seaside, OR","u":"/directory/oregon/clatsop-county/seaside/neawanna-by-the-sea/"}
+,{"t":"city","n":"Seaside","d":"Oregon","u":"/directory/oregon/clatsop-county/seaside/"}
+,{"t":"facility","n":"Bonaventure at Keizer Station","d":"Keizer, OR","u":"/directory/oregon/marion-county/keizer/bonaventure-at-keizer-station/"}
+,{"t":"facility","n":"Keizer Nursing and Rehabilitation","d":"Keizer, OR","u":"/directory/oregon/marion-county/keizer/keizer-nursing-and-rehabilitation/"}
+,{"t":"city","n":"Keizer","d":"Oregon","u":"/directory/oregon/marion-county/keizer/"}
+,{"t":"facility","n":"French Prairie Nursing and Rehabilitation Center","d":"Woodburn, OR","u":"/directory/oregon/marion-county/woodburn/french-prairie-nursing-and-rehabilitation-center/"}
+,{"t":"facility","n":"Country Meadows Village","d":"Woodburn, OR","u":"/directory/oregon/marion-county/woodburn/country-meadows-village/"}
+,{"t":"city","n":"Woodburn","d":"Oregon","u":"/directory/oregon/marion-county/woodburn/"}
+,{"t":"facility","n":"Trustwell Living at Davenport Place","d":"Silverton, OR","u":"/directory/oregon/marion-county/silverton/trustwell-living-at-davenport-place/"}
+,{"t":"city","n":"Silverton","d":"Oregon","u":"/directory/oregon/marion-county/silverton/"}
+,{"t":"facility","n":"Mt. Angel Health and Rehabilitation","d":"Mount Angel, OR","u":"/directory/oregon/marion-county/mount-angel/mt-angel-health-and-rehabilitation/"}
+,{"t":"city","n":"Mount Angel","d":"Oregon","u":"/directory/oregon/marion-county/mount-angel/"}
+,{"t":"facility","n":"Redwood Heights by Cogir","d":"Salem, OR","u":"/directory/oregon/marion-county/salem/redwood-heights-by-cogir/"}
+,{"t":"facility","n":"Battle Creek Memory Care","d":"Salem, OR","u":"/directory/oregon/marion-county/salem/battle-creek-memory-care/"}
+,{"t":"facility","n":"Tierra Rose Care Center","d":"Salem, OR","u":"/directory/oregon/marion-county/salem/tierra-rose-care-center/"}
+,{"t":"facility","n":"Salem Transitional Care","d":"Salem, OR","u":"/directory/oregon/marion-county/salem/salem-transitional-care/"}
+,{"t":"facility","n":"Cedar Village by Cogir","d":"Salem, OR","u":"/directory/oregon/marion-county/salem/cedar-village-by-cogir/"}
+,{"t":"facility","n":"Golden Nest Adult Foster Home","d":"Salem, OR","u":"/directory/oregon/marion-county/salem/golden-nest-adult-foster-home/"}
+,{"t":"facility","n":"Bonaventure of Salem","d":"Salem, OR","u":"/directory/oregon/marion-county/salem/bonaventure-of-salem/"}
+,{"t":"facility","n":"Skyline Manor Care Home","d":"Salem, OR","u":"/directory/oregon/marion-county/salem/skyline-manor-care-home/"}
+,{"t":"facility","n":"Felicity Haven Adult Foster Home","d":"Salem, OR","u":"/directory/oregon/marion-county/salem/felicity-haven-adult-foster-home/"}
+,{"t":"facility","n":"Holiday Madrona Hills","d":"Salem, OR","u":"/directory/oregon/marion-county/salem/the-ridge-at-madrona-hills/"}
+,{"t":"facility","n":"The Springs at Sunnyview","d":"Salem, OR","u":"/directory/oregon/marion-county/salem/the-springs-at-sunnyview/"}
+,{"t":"city","n":"Salem","d":"Oregon","u":"/directory/oregon/marion-county/salem/"}
+,{"t":"facility","n":"Regina Adult Foster Home","d":"Hillsboro, OR","u":"/directory/oregon/washington-county/hillsboro/regina-adult-foster-home/"}
+,{"t":"facility","n":"Rosewood Memory Care","d":"Hillsboro, OR","u":"/directory/oregon/washington-county/hillsboro/rosewood-memory-care/"}
+,{"t":"facility","n":"Cornell Estates Retirement and Assisted Living","d":"Hillsboro, OR","u":"/directory/oregon/washington-county/hillsboro/cornell-estates-retirement-and-assisted-living/"}
+,{"t":"facility","n":"The Springs at Tanasbourne","d":"Hillsboro, OR","u":"/directory/oregon/washington-county/hillsboro/the-springs-at-tanasbourne/"}
+,{"t":"facility","n":"The Ackerly at Reed's Crossing","d":"Hillsboro, OR","u":"/directory/oregon/washington-county/hillsboro/the-ackerly-at-reeds-crossing/"}
+,{"t":"facility","n":"Avamere Rehabilitation of Hillsboro","d":"Hillsboro, OR","u":"/directory/oregon/washington-county/hillsboro/avamere-rehabilitation-of-hillsboro/"}
+,{"t":"city","n":"Hillsboro","d":"Oregon","u":"/directory/oregon/washington-county/hillsboro/"}
+,{"t":"facility","n":"Marquis Forest Grove Post Acute Rehab","d":"Forest Grove, OR","u":"/directory/oregon/washington-county/forest-grove/marquis-forest-grove-post-acute-rehab/"}
+,{"t":"facility","n":"Jennings McCall Center","d":"Forest Grove, OR","u":"/directory/oregon/washington-county/forest-grove/jennings-mccall-center/"}
+,{"t":"city","n":"Forest Grove","d":"Oregon","u":"/directory/oregon/washington-county/forest-grove/"}
+,{"t":"facility","n":"Marquis Tualatin","d":"Tualatin, OR","u":"/directory/oregon/washington-county/tualatin/marquis-tualatin/"}
+,{"t":"city","n":"Tualatin","d":"Oregon","u":"/directory/oregon/washington-county/tualatin/"}
+,{"t":"facility","n":"Summerfield Estates Retirement Community","d":"Tigard, OR","u":"/directory/oregon/washington-county/tigard/summerfield-estates-retirement-community/"}
+,{"t":"facility","n":"Sunrise Adult Foster Home","d":"Tigard, OR","u":"/directory/oregon/washington-county/tigard/sunrise-adult-foster-home-tigard/"}
+,{"t":"facility","n":"Sapphire at Tigard Rehabilitation Center","d":"Tigard, OR","u":"/directory/oregon/washington-county/tigard/tigard-rehabilitation-and-care/"}
+,{"t":"city","n":"Tigard","d":"Oregon","u":"/directory/oregon/washington-county/tigard/"}
+,{"t":"facility","n":"Guardian Angel ACH","d":"Beaverton, OR","u":"/directory/oregon/washington-county/beaverton/guardian-angel-ach/"}
+,{"t":"facility","n":"Summer Crest A.C.H.","d":"Beaverton, OR","u":"/directory/oregon/washington-county/beaverton/summer-crest-ach/"}
+,{"t":"facility","n":"Maryville Nursing Home","d":"Beaverton, OR","u":"/directory/oregon/washington-county/beaverton/maryville-nursing-home/"}
+,{"t":"facility","n":"Eden Adult Foster Home LLC","d":"Beaverton, OR","u":"/directory/oregon/washington-county/beaverton/eden-adult-foster-home/"}
+,{"t":"facility","n":"Fulga's ACH","d":"Beaverton, OR","u":"/directory/oregon/washington-county/beaverton/fulgas-ach/"}
+,{"t":"facility","n":"Heightsview Care Home","d":"Beaverton, OR","u":"/directory/oregon/washington-county/beaverton/heightsview-care-home/"}
+,{"t":"facility","n":"The Springs at Murrayhill","d":"Beaverton, OR","u":"/directory/oregon/washington-county/beaverton/the-springs-at-murrayhill/"}
+,{"t":"facility","n":"Bethany Adult Care","d":"Beaverton, OR","u":"/directory/oregon/washington-county/beaverton/bethany-adult-care/"}
+,{"t":"city","n":"Beaverton","d":"Oregon","u":"/directory/oregon/washington-county/beaverton/"}
+,{"t":"facility","n":"Merrill Gardens at Sherwood","d":"Sherwood, OR","u":"/directory/oregon/washington-county/sherwood/merrill-gardens-at-sherwood/"}
+,{"t":"city","n":"Sherwood","d":"Oregon","u":"/directory/oregon/washington-county/sherwood/"}
+,{"t":"facility","n":"The Suites Assisted Living and Memory Care","d":"Grants Pass, OR","u":"/directory/oregon/josephine-county/grants-pass/the-suites-assisted-living-and-memory-care/"}
+,{"t":"facility","n":"Highland House Nursing and Rehabilitation Center","d":"Grants Pass, OR","u":"/directory/oregon/josephine-county/grants-pass/highland-house-nursing-and-rehabilitation-center/"}
+,{"t":"city","n":"Grants Pass","d":"Oregon","u":"/directory/oregon/josephine-county/grants-pass/"}
+,{"t":"facility","n":"Friendsview Retirement Community","d":"Newberg, OR","u":"/directory/oregon/yamhill-county/newberg/friendsview-retirement-community/"}
+,{"t":"facility","n":"Willow Place","d":"Newberg, OR","u":"/directory/oregon/yamhill-county/newberg/willow-place/"}
+,{"t":"city","n":"Newberg","d":"Oregon","u":"/directory/oregon/yamhill-county/newberg/"}
+,{"t":"facility","n":"Prestige Post-Acute and Rehabilitation Center - McMinnville","d":"McMinnville, OR","u":"/directory/oregon/yamhill-county/mcminnville/prestige-post-acute-and-rehabilitation-center-mcminnville/"}
+,{"t":"facility","n":"Hillside Retirement Community","d":"McMinnville, OR","u":"/directory/oregon/yamhill-county/mcminnville/hillside-retirement-community/"}
+,{"t":"facility","n":"Brookdale McMinnville City Center","d":"McMinnville, OR","u":"/directory/oregon/yamhill-county/mcminnville/brookdale-mcminnville-city-center/"}
+,{"t":"facility","n":"Vineyard Heights Assisted Living and Retirement Cottages","d":"McMinnville, OR","u":"/directory/oregon/yamhill-county/mcminnville/vineyard-heights-assisted-living-and-retirement-cottages/"}
+,{"t":"city","n":"McMinnville","d":"Oregon","u":"/directory/oregon/yamhill-county/mcminnville/"}
+,{"t":"facility","n":"Dallas Retirement Village","d":"Dallas, OR","u":"/directory/oregon/polk-county/dallas/dallas-retirement-village/"}
+,{"t":"city","n":"Dallas","d":"Oregon","u":"/directory/oregon/polk-county/dallas/"}
+,{"t":"facility","n":"Capital Manor","d":"Salem, OR","u":"/directory/oregon/polk-county/salem/capital-manor/"}
+,{"t":"facility","n":"Valley View II Manor Care Home","d":"Salem, OR","u":"/directory/oregon/polk-county/salem/valley-view-ii-manor-care-home/"}
+,{"t":"facility","n":"Prestige Senior Living Orchard Heights","d":"Salem, OR","u":"/directory/oregon/polk-county/salem/prestige-senior-living-orchard-heights/"}
+,{"t":"city","n":"Salem","d":"Oregon","u":"/directory/oregon/polk-county/salem/"}
+,{"t":"facility","n":"Edward C. Allworth Veterans' Home","d":"Lebanon, OR","u":"/directory/oregon/linn-county/lebanon/edward-c-allworth-veterans-home/"}
+,{"t":"facility","n":"The Oaks at Lebanon","d":"Lebanon, OR","u":"/directory/oregon/linn-county/lebanon/the-oaks-at-lebanon/"}
+,{"t":"city","n":"Lebanon","d":"Oregon","u":"/directory/oregon/linn-county/lebanon/"}
+,{"t":"facility","n":"Brookdale Geary Street","d":"Albany, OR","u":"/directory/oregon/linn-county/albany/brookdale-geary-street/"}
+,{"t":"facility","n":"Mennonite Village","d":"Albany, OR","u":"/directory/oregon/linn-county/albany/mennonite-village/"}
+,{"t":"facility","n":"Brookdale Grand Prairie","d":"Albany, OR","u":"/directory/oregon/linn-county/albany/brookdale-grand-prairie/"}
+,{"t":"city","n":"Albany","d":"Oregon","u":"/directory/oregon/linn-county/albany/"}
+,{"t":"facility","n":"Avamere at Hermiston","d":"Hermiston, OR","u":"/directory/oregon/umatilla-county/hermiston/avamere-at-hermiston/"}
+,{"t":"city","n":"Hermiston","d":"Oregon","u":"/directory/oregon/umatilla-county/hermiston/"}
+,{"t":"facility","n":"Willowbrook Post Acute","d":"Pendleton, OR","u":"/directory/oregon/umatilla-county/pendleton/willowbrook-post-acute/"}
+,{"t":"facility","n":"McKay Creek Assisted Living","d":"Pendleton, OR","u":"/directory/oregon/umatilla-county/pendleton/mckay-creek-assisted-living/"}
+,{"t":"city","n":"Pendleton","d":"Oregon","u":"/directory/oregon/umatilla-county/pendleton/"}
+,{"t":"facility","n":"Pelican Pointe by Cogir","d":"Klamath Falls, OR","u":"/directory/oregon/klamath-county/klamath-falls/pelican-pointe-by-cogir/"}
+,{"t":"facility","n":"Klamath Falls Senior Living","d":"Klamath Falls, OR","u":"/directory/oregon/klamath-county/klamath-falls/klamath-falls-senior-living/"}
+,{"t":"facility","n":"Marquis Plum Ridge Post Acute Rehab","d":"Klamath Falls, OR","u":"/directory/oregon/klamath-county/klamath-falls/marquis-plum-ridge-post-acute-rehab/"}
+,{"t":"facility","n":"Trustwell Living at Rogue River Place","d":"Klamath Falls, OR","u":"/directory/oregon/klamath-county/klamath-falls/trustwell-living-at-rogue-river-place/"}
+,{"t":"facility","n":"Crystal Terrace of Klamath Falls","d":"Klamath Falls, OR","u":"/directory/oregon/klamath-county/klamath-falls/crystal-terrace-of-klamath-falls/"}
+,{"t":"city","n":"Klamath Falls","d":"Oregon","u":"/directory/oregon/klamath-county/klamath-falls/"}
+,{"t":"facility","n":"Regency Village at Prineville","d":"Prineville, OR","u":"/directory/oregon/crook-county/prineville/ochoco-village-assisted-living/"}
+,{"t":"city","n":"Prineville","d":"Oregon","u":"/directory/oregon/crook-county/prineville/"}
+,{"t":"facility","n":"Baycrest Village","d":"North Bend, OR","u":"/directory/oregon/coos-county/north-bend/baycrest-village/"}
+,{"t":"city","n":"North Bend","d":"Oregon","u":"/directory/oregon/coos-county/north-bend/"}
+,{"t":"facility","n":"Bayside Terrace by Cogir","d":"Coos Bay, OR","u":"/directory/oregon/coos-county/coos-bay/bayside-terrace-by-cogir/"}
+,{"t":"facility","n":"Life Care Center of Coos Bay","d":"Coos Bay, OR","u":"/directory/oregon/coos-county/coos-bay/life-care-center-of-coos-bay/"}
+,{"t":"facility","n":"Ocean Ridge by Cogir","d":"Coos Bay, OR","u":"/directory/oregon/coos-county/coos-bay/ocean-ridge-by-cogir/"}
+,{"t":"city","n":"Coos Bay","d":"Oregon","u":"/directory/oregon/coos-county/coos-bay/"}
+,{"t":"facility","n":"Wildflower Lodge","d":"La Grande, OR","u":"/directory/oregon/union-county/la-grande/wildflower-lodge/"}
+,{"t":"city","n":"La Grande","d":"Oregon","u":"/directory/oregon/union-county/la-grande/"}
+,{"t":"facility","n":"The Springs at Anna Maria","d":"Medford, OR","u":"/directory/oregon/jackson-county/medford/the-springs-at-anna-maria/"}
+,{"t":"facility","n":"Hearthstone Nursing and Rehabilitation Center","d":"Medford, OR","u":"/directory/oregon/jackson-county/medford/hearthstone-nursing-and-rehabilitation-center/"}
+,{"t":"facility","n":"Brookdale Medford","d":"Medford, OR","u":"/directory/oregon/jackson-county/medford/brookdale-medford/"}
+,{"t":"facility","n":"Rogue Valley Manor","d":"Medford, OR","u":"/directory/oregon/jackson-county/medford/rogue-valley-manor/"}
+,{"t":"facility","n":"Prestige Senior Living Arbor Place","d":"Medford, OR","u":"/directory/oregon/jackson-county/medford/prestige-senior-living-arbor-place/"}
+,{"t":"facility","n":"Farmington Square Medford","d":"Medford, OR","u":"/directory/oregon/jackson-county/medford/farmington-square-medford/"}
+,{"t":"facility","n":"Avamere at Three Fountains","d":"Medford, OR","u":"/directory/oregon/jackson-county/medford/avamere-at-three-fountains/"}
+,{"t":"city","n":"Medford","d":"Oregon","u":"/directory/oregon/jackson-county/medford/"}
+,{"t":"facility","n":"Ashland Post Acute","d":"Ashland, OR","u":"/directory/oregon/jackson-county/ashland/ashland-post-acute/"}
+,{"t":"city","n":"Ashland","d":"Oregon","u":"/directory/oregon/jackson-county/ashland/"}
+,{"t":"facility","n":"Rose Villa Senior Living Community","d":"Milwaukie, OR","u":"/directory/oregon/clackamas-county/milwaukie/rose-villa-senior-living-community/"}
+,{"t":"facility","n":"Willamette View","d":"Milwaukie, OR","u":"/directory/oregon/clackamas-county/milwaukie/willamette-view/"}
+,{"t":"facility","n":"Homewoods on the Willamette","d":"Milwaukie, OR","u":"/directory/oregon/clackamas-county/milwaukie/homewoods-on-the-willamette/"}
+,{"t":"city","n":"Milwaukie","d":"Oregon","u":"/directory/oregon/clackamas-county/milwaukie/"}
+,{"t":"facility","n":"Mary's Woods","d":"Lake Oswego, OR","u":"/directory/oregon/clackamas-county/lake-oswego/marys-woods/"}
+,{"t":"facility","n":"The Springs at Carman Oaks","d":"Lake Oswego, OR","u":"/directory/oregon/clackamas-county/lake-oswego/the-springs-at-carman-oaks/"}
+,{"t":"city","n":"Lake Oswego","d":"Oregon","u":"/directory/oregon/clackamas-county/lake-oswego/"}
+,{"t":"facility","n":"SpringRidge at Charbonneau","d":"Wilsonville, OR","u":"/directory/oregon/clackamas-county/wilsonville/springridge-at-charbonneau/"}
+,{"t":"facility","n":"Marquis Wilsonville Post Acute Rehab","d":"Wilsonville, OR","u":"/directory/oregon/clackamas-county/wilsonville/marquis-wilsonville-post-acute-rehab/"}
+,{"t":"city","n":"Wilsonville","d":"Oregon","u":"/directory/oregon/clackamas-county/wilsonville/"}
+,{"t":"facility","n":"The Ridge at Oregon City","d":"Oregon City, OR","u":"/directory/oregon/clackamas-county/oregon-city/the-ridge-at-oregon-city/"}
+,{"t":"facility","n":"Rivercrest Post Acute","d":"Oregon City, OR","u":"/directory/oregon/clackamas-county/oregon-city/rivercrest-post-acute/"}
+,{"t":"facility","n":"Atrium Adult Care Home, LLC","d":"Oregon City, OR","u":"/directory/oregon/clackamas-county/oregon-city/atrium-adult-care-home/"}
+,{"t":"city","n":"Oregon City","d":"Oregon","u":"/directory/oregon/clackamas-county/oregon-city/"}
+,{"t":"facility","n":"Marquis Hope Village","d":"Canby, OR","u":"/directory/oregon/clackamas-county/canby/marquis-hope-village/"}
+,{"t":"facility","n":"Hope Village","d":"Canby, OR","u":"/directory/oregon/clackamas-county/canby/hope-village/"}
+,{"t":"facility","n":"Rackleff Place","d":"Canby, OR","u":"/directory/oregon/clackamas-county/canby/rackleff-place/"}
+,{"t":"city","n":"Canby","d":"Oregon","u":"/directory/oregon/clackamas-county/canby/"}
+,{"t":"facility","n":"Sunnyside Meadows Memory Care","d":"Happy Valley, OR","u":"/directory/oregon/clackamas-county/happy-valley/sunnyside-meadows-memory-care/"}
+,{"t":"facility","n":"The Springs at Happy Valley","d":"Happy Valley, OR","u":"/directory/oregon/clackamas-county/happy-valley/the-springs-at-happy-valley/"}
+,{"t":"city","n":"Happy Valley","d":"Oregon","u":"/directory/oregon/clackamas-county/happy-valley/"}
+,{"t":"facility","n":"Angels Place Adult Foster Care","d":"Gresham, OR","u":"/directory/oregon/multnomah-county/gresham/angels-place-adult-foster-care/"}
+,{"t":"facility","n":"Grace Care Adult Foster Home","d":"Gresham, OR","u":"/directory/oregon/multnomah-county/gresham/grace-care-adult-foster-home/"}
+,{"t":"facility","n":"Courtyard Fountains","d":"Gresham, OR","u":"/directory/oregon/multnomah-county/gresham/courtyard-fountains/"}
+,{"t":"facility","n":"Powell Valley Assisted Living and Memory Care","d":"Gresham, OR","u":"/directory/oregon/multnomah-county/gresham/powell-valley-assisted-living-and-memory-care/"}
+,{"t":"facility","n":"Gresham Post Acute Care and Rehabilitation","d":"Gresham, OR","u":"/directory/oregon/multnomah-county/gresham/gresham-post-acute-care-and-rehabilitation/"}
+,{"t":"city","n":"Gresham","d":"Oregon","u":"/directory/oregon/multnomah-county/gresham/"}
+,{"t":"facility","n":"Mirabella Portland","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/mirabella-portland/"}
+,{"t":"facility","n":"Orchard Care Home","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/orchard-care-home/"}
+,{"t":"facility","n":"Sellwood Senior Living","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/sellwood-senior-living/"}
+,{"t":"facility","n":"Markham House","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/markham-house/"}
+,{"t":"facility","n":"Portland Health and Rehabilitation Center","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/portland-health-and-rehabilitation-center/"}
+,{"t":"facility","n":"Hirity Adult Home","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/hirity-adult-home/"}
+,{"t":"facility","n":"Marquis Centennial Post Acute Rehab","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/marquis-centennial-post-acute-rehab/"}
+,{"t":"facility","n":"Elder Garden Care Home, LLC","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/elder-garden-care-home/"}
+,{"t":"facility","n":"CherryWood Village","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/cherrywood-village/"}
+,{"t":"facility","n":"Terwilliger Plaza","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/terwilliger-plaza/"}
+,{"t":"facility","n":"Brookdale Oswego Springs Portland","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/brookdale-oswego-springs-portland/"}
+,{"t":"facility","n":"West Hills Health & Rehabilitation","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/west-hills-health-and-rehabilitation/"}
+,{"t":"facility","n":"Robison Jewish Health Center","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/robison-jewish-health-center/"}
+,{"t":"facility","n":"Holladay Park Plaza","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/holladay-park-plaza/"}
+,{"t":"facility","n":"Russellville Park","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/russellville-park/"}
+,{"t":"facility","n":"Courtyard at Mt. Tabor","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/courtyard-at-mt-tabor/"}
+,{"t":"facility","n":"Marquis Piedmont Post Acute Rehab","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/marquis-piedmont-post-acute-rehab/"}
+,{"t":"facility","n":"Stephenson Adult Care Home","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/stephenson-adult-care-home/"}
+,{"t":"facility","n":"Rose Schnitzer Manor","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/rose-schnitzer-manor/"}
+,{"t":"facility","n":"Marquis Vermont Hills","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/marquis-vermont-hills/"}
+,{"t":"facility","n":"Marquis Mill Park","d":"Portland, OR","u":"/directory/oregon/multnomah-county/portland/marquis-mill-park/"}
+,{"t":"city","n":"Portland","d":"Oregon","u":"/directory/oregon/multnomah-county/portland/"}
+,{"t":"facility","n":"Providence Down Manor","d":"Hood River, OR","u":"/directory/oregon/hood-river-county/hood-river/providence-down-manor/"}
+,{"t":"facility","n":"Hawks Ridge Assisted Living","d":"Hood River, OR","u":"/directory/oregon/hood-river-county/hood-river/hawks-ridge-assisted-living/"}
+,{"t":"city","n":"Hood River","d":"Oregon","u":"/directory/oregon/hood-river-county/hood-river/"}
+,{"t":"facility","n":"Wenatchee Senior Living by Cogir","d":"Wenatchee, WA","u":"/directory/washington/chelan-county/wenatchee/wenatchee-senior-living-by-cogir/"}
+,{"t":"city","n":"Wenatchee","d":"Washington","u":"/directory/washington/chelan-county/wenatchee/"}
+,{"t":"facility","n":"Ellensburg Senior Living","d":"Ellensburg, WA","u":"/directory/washington/kittitas-county/ellensburg/ellensburg-senior-living/"}
+,{"t":"city","n":"Ellensburg","d":"Washington","u":"/directory/washington/kittitas-county/ellensburg/"}
+,{"t":"facility","n":"Kadie Glen Assisted Living","d":"East Wenatchee, WA","u":"/directory/washington/douglas-county/east-wenatchee/kadie-glen-assisted-living/"}
+,{"t":"facility","n":"Bonaventure of East Wenatchee","d":"East Wenatchee, WA","u":"/directory/washington/douglas-county/east-wenatchee/bonaventure-of-east-wenatchee/"}
+,{"t":"city","n":"East Wenatchee","d":"Washington","u":"/directory/washington/douglas-county/east-wenatchee/"}
+,{"t":"facility","n":"Fairview Assisted Living Inc","d":"Spokane, WA","u":"/directory/washington/spokane-county/spokane/fairview-assisted-living/"}
+,{"t":"facility","n":"Aspen Quality Care","d":"Spokane, WA","u":"/directory/washington/spokane-county/spokane/aspen-quality-care/"}
+,{"t":"facility","n":"Spokane Health & Rehabilitation","d":"Spokane, WA","u":"/directory/washington/spokane-county/spokane/spokane-health-and-rehabilitation/"}
+,{"t":"facility","n":"South Hill Rehabilitation and Care Center","d":"Spokane, WA","u":"/directory/washington/spokane-county/spokane/south-hill-rehabilitation-and-care-center/"}
+,{"t":"facility","n":"Fairwinds - Spokane","d":"Spokane, WA","u":"/directory/washington/spokane-county/spokane/fairwinds-spokane/"}
+,{"t":"facility","n":"Providence Adult Family Home","d":"Spokane, WA","u":"/directory/washington/spokane-county/spokane/providence-adult-family-home-spokane/"}
+,{"t":"facility","n":"Touchmark on South Hill","d":"Spokane, WA","u":"/directory/washington/spokane-county/spokane/touchmark-on-south-hill/"}
+,{"t":"facility","n":"Rockwood South Hill","d":"Spokane, WA","u":"/directory/washington/spokane-county/spokane/rockwood-south-hill/"}
+,{"t":"facility","n":"Regency at Northpointe","d":"Spokane, WA","u":"/directory/washington/spokane-county/spokane/regency-at-northpointe/"}
+,{"t":"facility","n":"Franklin Hills Health & Rehab Center","d":"Spokane, WA","u":"/directory/washington/spokane-county/spokane/franklin-hills-health-and-rehab-center/"}
+,{"t":"city","n":"Spokane","d":"Washington","u":"/directory/washington/spokane-county/spokane/"}
+,{"t":"facility","n":"Orchard Crest Retirement Community","d":"Spokane Valley, WA","u":"/directory/washington/spokane-county/spokane-valley/orchard-crest-retirement-community/"}
+,{"t":"facility","n":"Broadway Court Estates","d":"Spokane Valley, WA","u":"/directory/washington/spokane-county/spokane-valley/broadway-court-estates/"}
+,{"t":"facility","n":"Sullivan Park Senior Living","d":"Spokane Valley, WA","u":"/directory/washington/spokane-county/spokane-valley/sullivan-park-assisted-living-community/"}
+,{"t":"city","n":"Spokane Valley","d":"Washington","u":"/directory/washington/spokane-county/spokane-valley/"}
+,{"t":"facility","n":"Tri-Cities Senior Living","d":"Kennewick, WA","u":"/directory/washington/benton-county/kennewick/ciel-senior-living-of-tri-cities/"}
+,{"t":"facility","n":"Parkview Estates","d":"Kennewick, WA","u":"/directory/washington/benton-county/kennewick/parkview-estates/"}
+,{"t":"facility","n":"Life Care Center of Kennewick","d":"Kennewick, WA","u":"/directory/washington/benton-county/kennewick/life-care-center-of-kennewick/"}
+,{"t":"facility","n":"Regency Canyon Lakes Rehabilitation and Nursing Center","d":"Kennewick, WA","u":"/directory/washington/benton-county/kennewick/regency-canyon-lakes-rehabilitation-and-nursing-center/"}
+,{"t":"city","n":"Kennewick","d":"Washington","u":"/directory/washington/benton-county/kennewick/"}
+,{"t":"facility","n":"Bonaventure of the Tri-Cities","d":"Richland, WA","u":"/directory/washington/benton-county/richland/bonaventure-of-the-tri-cities/"}
+,{"t":"city","n":"Richland","d":"Washington","u":"/directory/washington/benton-county/richland/"}
+,{"t":"facility","n":"Northwoods Lodge","d":"Silverdale, WA","u":"/directory/washington/kitsap-county/silverdale/northwoods-lodge/"}
+,{"t":"city","n":"Silverdale","d":"Washington","u":"/directory/washington/kitsap-county/silverdale/"}
+,{"t":"facility","n":"Liberty Shores Senior Living","d":"Poulsbo, WA","u":"/directory/washington/kitsap-county/poulsbo/liberty-shores-senior-living/"}
+,{"t":"city","n":"Poulsbo","d":"Washington","u":"/directory/washington/kitsap-county/poulsbo/"}
+,{"t":"facility","n":"Bay Pointe by Cogir","d":"Bremerton, WA","u":"/directory/washington/kitsap-county/bremerton/bay-pointe-by-cogir/"}
+,{"t":"facility","n":"Cascades of Bremerton","d":"Bremerton, WA","u":"/directory/washington/kitsap-county/bremerton/cascades-of-bremerton/"}
+,{"t":"facility","n":"Vineyard Park at Bremerton Senior Living","d":"Bremerton, WA","u":"/directory/washington/kitsap-county/bremerton/vineyard-park-at-bremerton-senior-living/"}
+,{"t":"city","n":"Bremerton","d":"Washington","u":"/directory/washington/kitsap-county/bremerton/"}
+,{"t":"facility","n":"Edmonds Landing by Cogir","d":"Edmonds, WA","u":"/directory/washington/snohomish-county/edmonds/edmonds-landing-by-cogir/"}
+,{"t":"facility","n":"Sunrise of Edmonds","d":"Edmonds, WA","u":"/directory/washington/snohomish-county/edmonds/sunrise-of-edmonds/"}
+,{"t":"city","n":"Edmonds","d":"Washington","u":"/directory/washington/snohomish-county/edmonds/"}
+,{"t":"facility","n":"Harbour Pointe Senior Living","d":"Mukilteo, WA","u":"/directory/washington/snohomish-county/mukilteo/harbour-pointe-senior-living/"}
+,{"t":"city","n":"Mukilteo","d":"Washington","u":"/directory/washington/snohomish-county/mukilteo/"}
+,{"t":"facility","n":"Josephine Caring Community","d":"Stanwood, WA","u":"/directory/washington/snohomish-county/stanwood/josephine-caring-community/"}
+,{"t":"facility","n":"Warm Beach Senior Community","d":"Stanwood, WA","u":"/directory/washington/snohomish-county/stanwood/warm-beach-senior-community/"}
+,{"t":"city","n":"Stanwood","d":"Washington","u":"/directory/washington/snohomish-county/stanwood/"}
+,{"t":"facility","n":"Olympic Place by Bonaventure","d":"Arlington, WA","u":"/directory/washington/snohomish-county/arlington/olympic-place-by-bonaventure/"}
+,{"t":"city","n":"Arlington","d":"Washington","u":"/directory/washington/snohomish-county/arlington/"}
+,{"t":"facility","n":"Village Concepts of Marysville - Grandview Village","d":"Marysville, WA","u":"/directory/washington/snohomish-county/marysville/village-concepts-of-marysville-grandview-village/"}
+,{"t":"facility","n":"Marysville Care Center","d":"Marysville, WA","u":"/directory/washington/snohomish-county/marysville/marysville-care-center/"}
+,{"t":"city","n":"Marysville","d":"Washington","u":"/directory/washington/snohomish-county/marysville/"}
+,{"t":"facility","n":"America's Best Adult Family Home","d":"Lynnwood, WA","u":"/directory/washington/snohomish-county/lynnwood/americas-best-adult-family-home/"}
+,{"t":"facility","n":"Sunny Loving Care Adult Family Home","d":"Lynnwood, WA","u":"/directory/washington/snohomish-county/lynnwood/sunny-loving-care-adult-family-home/"}
+,{"t":"city","n":"Lynnwood","d":"Washington","u":"/directory/washington/snohomish-county/lynnwood/"}
+,{"t":"facility","n":"Compassionate Care Adult Family Home LLC","d":"Everett, WA","u":"/directory/washington/snohomish-county/everett/compassionate-care-adult-family-home/"}
+,{"t":"facility","n":"Everett Plaza","d":"Everett, WA","u":"/directory/washington/snohomish-county/everett/everett-plaza/"}
+,{"t":"facility","n":"Solista Everett by Cogir","d":"Everett, WA","u":"/directory/washington/snohomish-county/everett/solista-everett-by-cogir/"}
+,{"t":"facility","n":"Washington Oakes","d":"Everett, WA","u":"/directory/washington/snohomish-county/everett/washington-oakes/"}
+,{"t":"facility","n":"Abelia I Senior Home","d":"Everett, WA","u":"/directory/washington/snohomish-county/everett/abelia-i-senior-home/"}
+,{"t":"facility","n":"Everett Center","d":"Everett, WA","u":"/directory/washington/snohomish-county/everett/everett-center/"}
+,{"t":"city","n":"Everett","d":"Washington","u":"/directory/washington/snohomish-county/everett/"}
+,{"t":"facility","n":"Idyllic Adult Family Home","d":"Snohomish, WA","u":"/directory/washington/snohomish-county/snohomish/idyllic-adult-family-home/"}
+,{"t":"city","n":"Snohomish","d":"Washington","u":"/directory/washington/snohomish-county/snohomish/"}
+,{"t":"facility","n":"Canterbury Inn","d":"Longview, WA","u":"/directory/washington/cowlitz-county/longview/canterbury-inn/"}
+,{"t":"city","n":"Longview","d":"Washington","u":"/directory/washington/cowlitz-county/longview/"}
+,{"t":"facility","n":"Wheatland Village","d":"Walla Walla, WA","u":"/directory/washington/walla-walla-county/walla-walla/wheatland-village/"}
+,{"t":"facility","n":"Park Manor Rehabilitation Center","d":"Walla Walla, WA","u":"/directory/washington/walla-walla-county/walla-walla/park-manor-rehabilitation-center/"}
+,{"t":"city","n":"Walla Walla","d":"Washington","u":"/directory/washington/walla-walla-county/walla-walla/"}
+,{"t":"facility","n":"Fir Lane Care","d":"Shelton, WA","u":"/directory/washington/mason-county/shelton/fir-lane-care/"}
+,{"t":"facility","n":"Shelton Health and Rehabilitation","d":"Shelton, WA","u":"/directory/washington/mason-county/shelton/shelton-health-and-rehabilitation/"}
+,{"t":"city","n":"Shelton","d":"Washington","u":"/directory/washington/mason-county/shelton/"}
+,{"t":"facility","n":"Caring Arms Adult Family Home","d":"Puyallup, WA","u":"/directory/washington/pierce-county/puyallup/caring-arms-adult-family-home/"}
+,{"t":"facility","n":"Fieldstone Memory Care Puyallup","d":"Puyallup, WA","u":"/directory/washington/pierce-county/puyallup/fieldstone-memory-care-puyallup/"}
+,{"t":"city","n":"Puyallup","d":"Washington","u":"/directory/washington/pierce-county/puyallup/"}
+,{"t":"facility","n":"Bridgeport Place","d":"University Place, WA","u":"/directory/washington/pierce-county/university-place/bridgeport-place/"}
+,{"t":"city","n":"University Place","d":"Washington","u":"/directory/washington/pierce-county/university-place/"}
+,{"t":"facility","n":"Maple Creek of Lakewood","d":"Lakewood, WA","u":"/directory/washington/pierce-county/lakewood/maple-creek-of-lakewood/"}
+,{"t":"city","n":"Lakewood","d":"Washington","u":"/directory/washington/pierce-county/lakewood/"}
+,{"t":"facility","n":"Vineyard Park of Sumner","d":"Sumner, WA","u":"/directory/washington/pierce-county/sumner/stafford-suites-sumner/"}
+,{"t":"city","n":"Sumner","d":"Washington","u":"/directory/washington/pierce-county/sumner/"}
+,{"t":"facility","n":"The Lodge at Mallard's Landing","d":"Gig Harbor, WA","u":"/directory/washington/pierce-county/gig-harbor/the-lodge-at-mallards-landing/"}
+,{"t":"facility","n":"Harbor Place at Cottesmore","d":"Gig Harbor, WA","u":"/directory/washington/pierce-county/gig-harbor/harbor-place-at-cottesmore/"}
+,{"t":"city","n":"Gig Harbor","d":"Washington","u":"/directory/washington/pierce-county/gig-harbor/"}
+,{"t":"facility","n":"Franke Tobey Jones","d":"Tacoma, WA","u":"/directory/washington/pierce-county/tacoma/franke-tobey-jones/"}
+,{"t":"facility","n":"Merrill Gardens at Wright Park","d":"Tacoma, WA","u":"/directory/washington/pierce-county/tacoma/merrill-gardens-at-wright-park/"}
+,{"t":"facility","n":"eliseo","d":"Tacoma, WA","u":"/directory/washington/pierce-county/tacoma/eliseo/"}
+,{"t":"facility","n":"Weatherly Inn Tacoma","d":"Tacoma, WA","u":"/directory/washington/pierce-county/tacoma/weatherly-inn-tacoma/"}
+,{"t":"facility","n":"Titlow Adult Family Home","d":"Tacoma, WA","u":"/directory/washington/pierce-county/tacoma/titlow-adult-family-home/"}
+,{"t":"city","n":"Tacoma","d":"Washington","u":"/directory/washington/pierce-county/tacoma/"}
+,{"t":"facility","n":"Life Care Center of Mount Vernon","d":"Mount Vernon, WA","u":"/directory/washington/skagit-county/mount-vernon/life-care-center-of-mount-vernon/"}
+,{"t":"city","n":"Mount Vernon","d":"Washington","u":"/directory/washington/skagit-county/mount-vernon/"}
+,{"t":"facility","n":"SIM Adult Family Home","d":"Olympia, WA","u":"/directory/washington/thurston-county/olympia/sim-adult-family-home/"}
+,{"t":"facility","n":"Fieldstone Cooper Point","d":"Olympia, WA","u":"/directory/washington/thurston-county/olympia/fieldstone-cooper-point/"}
+,{"t":"facility","n":"Olympia Transitional Care and Rehabilitation","d":"Olympia, WA","u":"/directory/washington/thurston-county/olympia/olympia-transitional-care-and-rehabilitation/"}
+,{"t":"facility","n":"Woodard Creek Health & Rehabilitation","d":"Olympia, WA","u":"/directory/washington/thurston-county/olympia/woodard-creek-health-and-rehabilitation/"}
+,{"t":"facility","n":"Ravancho AFH","d":"Olympia, WA","u":"/directory/washington/thurston-county/olympia/ravancho-afh/"}
+,{"t":"city","n":"Olympia","d":"Washington","u":"/directory/washington/thurston-county/olympia/"}
+,{"t":"facility","n":"Panorama","d":"Lacey, WA","u":"/directory/washington/thurston-county/lacey/panorama/"}
+,{"t":"city","n":"Lacey","d":"Washington","u":"/directory/washington/thurston-county/lacey/"}
+,{"t":"facility","n":"Summer Wood Alzheimer's Special Care Center","d":"Moses Lake, WA","u":"/directory/washington/grant-county/moses-lake/summer-wood-alzheimers-special-care-center/"}
+,{"t":"city","n":"Moses Lake","d":"Washington","u":"/directory/washington/grant-county/moses-lake/"}
+,{"t":"facility","n":"Highgate Senior Living - Yakima","d":"Yakima, WA","u":"/directory/washington/yakima-county/yakima/highgate-senior-living-yakima/"}
+,{"t":"facility","n":"Good Samaritan Health Care Center","d":"Yakima, WA","u":"/directory/washington/yakima-county/yakima/good-samaritan-health-care-center/"}
+,{"t":"city","n":"Yakima","d":"Washington","u":"/directory/washington/yakima-county/yakima/"}
+,{"t":"facility","n":"Mallard Landing by Cogir","d":"Battle Ground, WA","u":"/directory/washington/clark-county/battle-ground/mallard-landing-by-cogir/"}
+,{"t":"city","n":"Battle Ground","d":"Washington","u":"/directory/washington/clark-county/battle-ground/"}
+,{"t":"facility","n":"Camas Hills Care Home","d":"Camas, WA","u":"/directory/washington/clark-county/camas/camas-hills-care-home/"}
+,{"t":"facility","n":"Lacamas Creek Post Acute","d":"Camas, WA","u":"/directory/washington/clark-county/camas/lacamas-creek-post-acute/"}
+,{"t":"city","n":"Camas","d":"Washington","u":"/directory/washington/clark-county/camas/"}
+,{"t":"facility","n":"Cogir at The Quarry","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/cogir-at-the-quarry/"}
+,{"t":"facility","n":"The Hampton at Salmon Creek","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/the-hampton-at-salmon-creek/"}
+,{"t":"facility","n":"Best Care Adult Family Home","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/best-care-adult-family-home/"}
+,{"t":"facility","n":"Highgate at Vancouver","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/highgate-at-vancouver/"}
+,{"t":"facility","n":"Bridge Crest Post Acute","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/bridge-crest-post-acute/"}
+,{"t":"facility","n":"The Springs at The Waterfront","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/the-springs-at-the-waterfront/"}
+,{"t":"facility","n":"Prestige Senior Living Bridgewood","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/prestige-senior-living-bridgewood/"}
+,{"t":"facility","n":"Fort Vancouver Assisted Living","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/fort-vancouver-assisted-living/"}
+,{"t":"facility","n":"Cogir of Glenwood Place","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/cogir-of-glenwood-place/"}
+,{"t":"facility","n":"Touchmark at Fairway Village","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/touchmark-at-fairway-village/"}
+,{"t":"facility","n":"Truewood by Merrill, Vancouver","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/truewood-by-merrill-vancouver/"}
+,{"t":"facility","n":"The Oaks at Timberline","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/the-oaks-at-timberline/"}
+,{"t":"facility","n":"Hudson Bay Health and Rehabilitation","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/hudson-bay-health-and-rehabilitation/"}
+,{"t":"facility","n":"IRIS Adult Family Home","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/iris-adult-family-home/"}
+,{"t":"facility","n":"Vancouver Specialty and Rehabilitative Care","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/vancouver-specialty-and-rehabilitation-care/"}
+,{"t":"facility","n":"Assurety Adult Family Home","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/assurety-adult-family-home/"}
+,{"t":"facility","n":"Bonaventure of Vancouver","d":"Vancouver, WA","u":"/directory/washington/clark-county/vancouver/bonaventure-of-vancouver/"}
+,{"t":"city","n":"Vancouver","d":"Washington","u":"/directory/washington/clark-county/vancouver/"}
+,{"t":"facility","n":"Columbia Ridge Senior Living","d":"Washougal, WA","u":"/directory/washington/clark-county/washougal/columbia-ridge-senior-living/"}
+,{"t":"city","n":"Washougal","d":"Washington","u":"/directory/washington/clark-county/washougal/"}
+,{"t":"facility","n":"Village Concepts of Chehalis - Woodland Village","d":"Chehalis, WA","u":"/directory/washington/lewis-county/chehalis/village-concepts-of-chehalis-woodland-village/"}
+,{"t":"city","n":"Chehalis","d":"Washington","u":"/directory/washington/lewis-county/chehalis/"}
+,{"t":"facility","n":"Bellingham Adult Family Homes LLC","d":"Bellingham, WA","u":"/directory/washington/whatcom-county/bellingham/bellingham-adult-family-homes-llc/"}
+,{"t":"facility","n":"Highgate Senior Living - Bellingham","d":"Bellingham, WA","u":"/directory/washington/whatcom-county/bellingham/highgate-senior-living-bellingham/"}
+,{"t":"city","n":"Bellingham","d":"Washington","u":"/directory/washington/whatcom-county/bellingham/"}
+,{"t":"facility","n":"Avamere Olympic Rehabilitation of Sequim","d":"Sequim, WA","u":"/directory/washington/clallam-county/sequim/avamere-olympic-rehabilitation-of-sequim/"}
+,{"t":"city","n":"Sequim","d":"Washington","u":"/directory/washington/clallam-county/sequim/"}
+,{"t":"facility","n":"Kenmore Senior Living","d":"Kenmore, WA","u":"/directory/washington/king-county/kenmore/kenmore-senior-living/"}
+,{"t":"city","n":"Kenmore","d":"Washington","u":"/directory/washington/king-county/kenmore/"}
+,{"t":"facility","n":"Always With Love Care","d":"Kent, WA","u":"/directory/washington/king-county/kent/always-with-love-care-kent/"}
+,{"t":"facility","n":"Farrington Court","d":"Kent, WA","u":"/directory/washington/king-county/kent/farrington-court/"}
+,{"t":"facility","n":"Namaste Adult Family Home","d":"Kent, WA","u":"/directory/washington/king-county/kent/namaste-adult-family-home/"}
+,{"t":"city","n":"Kent","d":"Washington","u":"/directory/washington/king-county/kent/"}
+,{"t":"facility","n":"Aegis Living Kirkland Waterfront","d":"Kirkland, WA","u":"/directory/washington/king-county/kirkland/aegis-living-kirkland-waterfront/"}
+,{"t":"facility","n":"MorningStar of Kirkland","d":"Kirkland, WA","u":"/directory/washington/king-county/kirkland/morningstar-of-kirkland/"}
+,{"t":"facility","n":"Bridle Trails Senior Care","d":"Kirkland, WA","u":"/directory/washington/king-county/kirkland/bridle-trails-senior-care/"}
+,{"t":"facility","n":"Madison House","d":"Kirkland, WA","u":"/directory/washington/king-county/kirkland/madison-house/"}
+,{"t":"city","n":"Kirkland","d":"Washington","u":"/directory/washington/king-county/kirkland/"}
+,{"t":"facility","n":"Parkside Retirement Community","d":"Auburn, WA","u":"/directory/washington/king-county/auburn/parkside-retirement-community/"}
+,{"t":"facility","n":"At Serenity Adult Family Home","d":"Auburn, WA","u":"/directory/washington/king-county/auburn/at-serenity-adult-family-home/"}
+,{"t":"facility","n":"Merrill Gardens at Auburn","d":"Auburn, WA","u":"/directory/washington/king-county/auburn/merrill-gardens-at-auburn/"}
+,{"t":"city","n":"Auburn","d":"Washington","u":"/directory/washington/king-county/auburn/"}
+,{"t":"facility","n":"Fairwinds - Brittany Park","d":"Woodinville, WA","u":"/directory/washington/king-county/woodinville/fairwinds-brittany-park/"}
+,{"t":"city","n":"Woodinville","d":"Washington","u":"/directory/washington/king-county/woodinville/"}
+,{"t":"facility","n":"Greenlake Senior Living Renton","d":"Renton, WA","u":"/directory/washington/king-county/renton/greenlake-senior-living-renton/"}
+,{"t":"facility","n":"Merrill Gardens at Renton Centre","d":"Renton, WA","u":"/directory/washington/king-county/renton/merrill-gardens-at-renton-centre/"}
+,{"t":"city","n":"Renton","d":"Washington","u":"/directory/washington/king-county/renton/"}
+,{"t":"facility","n":"NobleCare Adult Family Home","d":"Bothell, WA","u":"/directory/washington/king-county/bothell/noblecare-adult-family-home/"}
+,{"t":"facility","n":"Elderly Home Care","d":"Bothell, WA","u":"/directory/washington/king-county/bothell/elderly-home-care-bothell/"}
+,{"t":"facility","n":"Chateau Bothell Landing","d":"Bothell, WA","u":"/directory/washington/king-county/bothell/chateau-bothell-landing/"}
+,{"t":"city","n":"Bothell","d":"Washington","u":"/directory/washington/king-county/bothell/"}
+,{"t":"facility","n":"Sunny's Adult Family Home LLC","d":"Bellevue, WA","u":"/directory/washington/king-county/bellevue/sunnys-adult-family-home-llc/"}
+,{"t":"facility","n":"Sunrise of Bellevue","d":"Bellevue, WA","u":"/directory/washington/king-county/bellevue/sunrise-of-bellevue/"}
+,{"t":"facility","n":"Divine Home Health Adult Family Home","d":"Bellevue, WA","u":"/directory/washington/king-county/bellevue/divine-home-health-adult-family-home/"}
+,{"t":"facility","n":"The Bellettini","d":"Bellevue, WA","u":"/directory/washington/king-county/bellevue/the-bellettini/"}
+,{"t":"facility","n":"Cascades Adult Family Home","d":"Bellevue, WA","u":"/directory/washington/king-county/bellevue/cascades-adult-family-home/"}
+,{"t":"city","n":"Bellevue","d":"Washington","u":"/directory/washington/king-county/bellevue/"}
+,{"t":"facility","n":"Aljoya Mercer Island","d":"Mercer Island, WA","u":"/directory/washington/king-county/mercer-island/aljoya-mercer-island/"}
+,{"t":"city","n":"Mercer Island","d":"Washington","u":"/directory/washington/king-county/mercer-island/"}
+,{"t":"facility","n":"Fairwinds - Redmond","d":"Redmond, WA","u":"/directory/washington/king-county/redmond/fairwinds-redmond/"}
+,{"t":"facility","n":"Redmond Care and Rehabilitation Center","d":"Redmond, WA","u":"/directory/washington/king-county/redmond/redmond-care-and-rehabilitation-center/"}
+,{"t":"facility","n":"Emerald Heights","d":"Redmond, WA","u":"/directory/washington/king-county/redmond/emerald-heights/"}
+,{"t":"city","n":"Redmond","d":"Washington","u":"/directory/washington/king-county/redmond/"}
+,{"t":"facility","n":"Twin Lake Adult Family Home","d":"Federal Way, WA","u":"/directory/washington/king-county/federal-way/twin-lake-adult-family-home/"}
+,{"t":"facility","n":"Avalon Care Center - Federal Way","d":"Federal Way, WA","u":"/directory/washington/king-county/federal-way/avalon-care-center-federal-way/"}
+,{"t":"facility","n":"All Saints Adult Family Home","d":"Federal Way, WA","u":"/directory/washington/king-county/federal-way/all-saints-adult-family-home/"}
+,{"t":"city","n":"Federal Way","d":"Washington","u":"/directory/washington/king-county/federal-way/"}
+,{"t":"facility","n":"Victoria 1 Adult Family Home","d":"Seattle, WA","u":"/directory/washington/king-county/seattle/victoria-1-adult-family-home/"}
+,{"t":"facility","n":"Columbia Lutheran Home","d":"Seattle, WA","u":"/directory/washington/king-county/seattle/columbia-lutheran-home/"}
+,{"t":"facility","n":"Caroline Kline Galland Home","d":"Seattle, WA","u":"/directory/washington/king-county/seattle/caroline-kline-galland-home/"}
+,{"t":"facility","n":"University House Wallingford","d":"Seattle, WA","u":"/directory/washington/king-county/seattle/university-house-wallingford/"}
+,{"t":"facility","n":"Aegis Living Queen Anne Rodgers Park","d":"Seattle, WA","u":"/directory/washington/king-county/seattle/aegis-living-queen-anne-rodgers-park/"}
+,{"t":"facility","n":"Quail Park of West Seattle","d":"Seattle, WA","u":"/directory/washington/king-county/seattle/quail-park-of-west-seattle/"}
+,{"t":"facility","n":"Merrill Gardens at Ballard","d":"Seattle, WA","u":"/directory/washington/king-county/seattle/merrill-gardens-at-ballard/"}
+,{"t":"city","n":"Seattle","d":"Washington","u":"/directory/washington/king-county/seattle/"}
+,{"t":"facility","n":"Judson Park","d":"Des Moines, WA","u":"/directory/washington/king-county/des-moines/judson-park/"}
+,{"t":"city","n":"Des Moines","d":"Washington","u":"/directory/washington/king-county/des-moines/"}
+,{"t":"facility","n":"Marianwood Health & Rehabilitation","d":"Issaquah, WA","u":"/directory/washington/king-county/issaquah/providence-marianwood/"}
+,{"t":"facility","n":"Sunrise of Issaquah","d":"Issaquah, WA","u":"/directory/washington/king-county/issaquah/sunrise-of-issaquah/"}
+,{"t":"facility","n":"Grace Senior Care of Issaquah","d":"Issaquah, WA","u":"/directory/washington/king-county/issaquah/grace-senior-care-of-issaquah/"}
+,{"t":"facility","n":"Aegis Living Issaquah","d":"Issaquah, WA","u":"/directory/washington/king-county/issaquah/aegis-living-issaquah/"}
+,{"t":"city","n":"Issaquah","d":"Washington","u":"/directory/washington/king-county/issaquah/"}
+,{"t":"org","n":"Hawthorn Senior Living","d":"operator","u":"/organizations/hawthorn-senior-living/"}
+,{"t":"org","n":"Bonaventure Senior Living","d":"operator","u":"/organizations/bonaventure-senior-living/"}
+,{"t":"org","n":"Integral Senior Living","d":"operator","u":"/organizations/integral-senior-living/"}
+,{"t":"org","n":"MorningStar Senior Living","d":"operator","u":"/organizations/morningstar-senior-living/"}
+,{"t":"org","n":"Emerald Communities","d":"operator","u":"/organizations/emerald-communities/"}
+,{"t":"org","n":"Elder Care Alliance","d":"operator","u":"/organizations/elder-care-alliance/"}
+,{"t":"org","n":"Sisters of St. Mary of Oregon","d":"operator","u":"/organizations/sisters-of-st-mary-of-oregon/"}
+,{"t":"org","n":"WellQuest Living","d":"operator","u":"/organizations/wellquest-living/"}
+,{"t":"org","n":"Providence","d":"operator","u":"/organizations/providence/"}
+,{"t":"org","n":"Watermark Retirement Communities","d":"operator","u":"/organizations/watermark-retirement-communities/"}
+,{"t":"org","n":"Marquis Companies","d":"operator","u":"/organizations/marquis-companies/"}
+,{"t":"org","n":"Chateau Retirement Communities","d":"operator","u":"/organizations/chateau-retirement-communities/"}
+,{"t":"org","n":"The Gables Assisted Living and Memory Care","d":"operator","u":"/organizations/the-gables-assisted-living/"}
+,{"t":"org","n":"Kisco Senior Living","d":"operator","u":"/organizations/kisco-senior-living/"}
+,{"t":"org","n":"Cascade Living Group","d":"operator","u":"/organizations/cascade-living-group/"}
+,{"t":"org","n":"Christian Living Communities","d":"operator","u":"/organizations/christian-living-communities/"}
+,{"t":"org","n":"Generations Senior Living","d":"operator","u":"/organizations/generations-senior-living/"}
+,{"t":"org","n":"Senior Lifestyle","d":"operator","u":"/organizations/senior-lifestyle/"}
+,{"t":"org","n":"Discovery Senior Living","d":"operator","u":"/organizations/discovery-senior-living/"}
+,{"t":"org","n":"Era Living","d":"operator","u":"/organizations/era-living/"}
+,{"t":"org","n":"Western States Lodging & Management","d":"operator","u":"/organizations/western-states-lodging/"}
+,{"t":"org","n":"Legacy Retirement Communities","d":"operator","u":"/organizations/legacy-retirement-communities/"}
+,{"t":"org","n":"Onelife Senior Living","d":"operator","u":"/organizations/onelife-senior-living/"}
+,{"t":"org","n":"Vivante Living","d":"operator","u":"/organizations/vivante-living/"}
+,{"t":"org","n":"Oakmont Management Group","d":"operator","u":"/organizations/oakmont-management-group/"}
+,{"t":"org","n":"Brookdale Senior Living","d":"operator","u":"/organizations/brookdale-senior-living/"}
+,{"t":"org","n":"Silverado","d":"operator","u":"/organizations/silverado/"}
+,{"t":"org","n":"Ohana Ventures","d":"operator","u":"/organizations/ohana-ventures/"}
+,{"t":"org","n":"Kline Galland","d":"operator","u":"/organizations/kline-galland/"}
+,{"t":"org","n":"Hawaii Health Systems Corporation","d":"operator","u":"/organizations/hawaii-health-systems-corporation/"}
+,{"t":"org","n":"The Plaza Assisted Living","d":"operator","u":"/organizations/the-plaza-assisted-living/"}
+,{"t":"org","n":"Vi","d":"operator","u":"/organizations/vi/"}
+,{"t":"org","n":"Front Porch Communities and Services","d":"operator","u":"/organizations/front-porch-communities-and-services/"}
+,{"t":"org","n":"Grace Assisted Living","d":"operator","u":"/organizations/grace-assisted-living/"}
+,{"t":"org","n":"Belmont Village Senior Living","d":"operator","u":"/organizations/belmont-village/"}
+,{"t":"org","n":"Summerset Senior Living","d":"operator","u":"/organizations/summerset-senior-living/"}
+,{"t":"org","n":"Holiday by Atria","d":"operator","u":"/organizations/holiday-by-atria/"}
+,{"t":"org","n":"Weatherly Inn","d":"operator","u":"/organizations/weatherly-inn/"}
+,{"t":"org","n":"Front Porch","d":"operator","u":"/organizations/front-porch/"}
+,{"t":"org","n":"Cedar Sinai Park","d":"operator","u":"/organizations/cedar-sinai-park/"}
+,{"t":"org","n":"Carefield Living","d":"operator","u":"/organizations/carefield-living/"}
+,{"t":"org","n":"Guardian Angel Homes","d":"operator","u":"/organizations/guardian-angel-homes/"}
+,{"t":"org","n":"Sunrise Senior Living","d":"operator","u":"/organizations/sunrise-senior-living/"}
+,{"t":"org","n":"Edgewood Healthcare","d":"operator","u":"/organizations/edgewood-healthcare/"}
+,{"t":"org","n":"Fox Den Homes","d":"operator","u":"/organizations/fox-den-homes/"}
+,{"t":"org","n":"Cascadia Healthcare","d":"operator","u":"/organizations/cascadia-healthcare/"}
+,{"t":"org","n":"Avamere","d":"operator","u":"/organizations/avamere/"}
+,{"t":"org","n":"Atria Senior Living","d":"operator","u":"/organizations/atria-senior-living/"}
+,{"t":"org","n":"Trustwell Living","d":"operator","u":"/organizations/trustwell-living/"}
+,{"t":"org","n":"Regency Pacific Management","d":"operator","u":"/organizations/regency-pacific-management/"}
+,{"t":"org","n":"Savant Senior Living","d":"operator","u":"/organizations/savant-senior-living/"}
+,{"t":"org","n":"Cogir Senior Living","d":"operator","u":"/organizations/cogir-senior-living/"}
+,{"t":"org","n":"Compass Senior Living","d":"operator","u":"/organizations/compass-senior-living/"}
+,{"t":"org","n":"Mosaic Senior Living","d":"operator","u":"/organizations/mosaic-senior-living/"}
+,{"t":"org","n":"Prestige Care","d":"operator","u":"/organizations/prestige-care/"}
+,{"t":"org","n":"Westmont Living","d":"operator","u":"/organizations/westmont-living/"}
+,{"t":"org","n":"ACC Senior Services","d":"operator","u":"/organizations/acc-senior-services/"}
+,{"t":"org","n":"The Ensign Group","d":"operator","u":"/organizations/the-ensign-group/"}
+,{"t":"org","n":"MBK Senior Living","d":"operator","u":"/organizations/mbk-senior-living/"}
+,{"t":"org","n":"Generations","d":"operator","u":"/organizations/generations/"}
+,{"t":"org","n":"Coterie Senior Living","d":"operator","u":"/organizations/coterie-senior-living/"}
+,{"t":"org","n":"Avamere Family of Companies","d":"operator","u":"/organizations/avamere-family-of-companies/"}
+,{"t":"org","n":"HumanGood","d":"operator","u":"/organizations/humangood/"}
+,{"t":"org","n":"Good Samaritan Society","d":"operator","u":"/organizations/good-samaritan-society/"}
+,{"t":"org","n":"Oakmont Senior Living","d":"operator","u":"/organizations/oakmont-senior-living/"}
+,{"t":"org","n":"Volare Health","d":"operator","u":"/organizations/volare-health/"}
+,{"t":"org","n":"Highgate Senior Living","d":"operator","u":"/organizations/highgate-senior-living/"}
+,{"t":"org","n":"Living Care Lifestyles","d":"operator","u":"/organizations/living-care-lifestyles/"}
+,{"t":"org","n":"Civitas Senior Living","d":"operator","u":"/organizations/civitas-senior-living/"}
+,{"t":"org","n":"Meridian Senior Living","d":"operator","u":"/organizations/meridian-senior-living/"}
+,{"t":"org","n":"The Ensign Group","d":"operator","u":"/organizations/ensign-group/"}
+,{"t":"org","n":"Avalon Health Care","d":"operator","u":"/organizations/avalon-health-care/"}
+,{"t":"org","n":"Ivy Living","d":"operator","u":"/organizations/ivy-living/"}
+,{"t":"org","n":"Village Concepts","d":"operator","u":"/organizations/village-concepts/"}
+,{"t":"org","n":"Merrill Gardens","d":"operator","u":"/organizations/merrill-gardens/"}
+,{"t":"org","n":"Arcadia Family of Companies","d":"operator","u":"/organizations/arcadia-family-of-companies/"}
+,{"t":"org","n":"Touchmark","d":"operator","u":"/organizations/touchmark/"}
+,{"t":"org","n":"Encore Communities","d":"operator","u":"/organizations/encore-communities/"}
+,{"t":"org","n":"Aegis Living","d":"operator","u":"/organizations/aegis-living/"}
+,{"t":"org","n":"Radiant Senior Living","d":"operator","u":"/organizations/radiant-senior-living/"}
+,{"t":"org","n":"Regency Pacific","d":"operator","u":"/organizations/regency-pacific/"}
+,{"t":"org","n":"Ciel Senior Living","d":"operator","u":"/organizations/ciel-senior-living/"}
+,{"t":"org","n":"Ohana Pacific Health","d":"operator","u":"/organizations/ohana-pacific-health/"}
+,{"t":"org","n":"Generations LLC","d":"operator","u":"/organizations/generations-llc/"}
+,{"t":"org","n":"Silvergate Retirement Residences","d":"operator","u":"/organizations/silvergate-retirement-residences/"}
+,{"t":"org","n":"Maui Health","d":"operator","u":"/organizations/maui-health/"}
+,{"t":"org","n":"Pacifica Senior Living","d":"operator","u":"/organizations/pacifica-senior-living/"}
+,{"t":"org","n":"Century Park Associates","d":"operator","u":"/organizations/century-park-associates/"}
+,{"t":"org","n":"Leisure Care","d":"operator","u":"/organizations/leisure-care/"}
+,{"t":"org","n":"Northstar Senior Living","d":"operator","u":"/organizations/northstar-senior-living/"}
+,{"t":"org","n":"AltaVita Living","d":"operator","u":"/organizations/altavita-living/"}
+,{"t":"org","n":"Bayshire Senior Communities","d":"operator","u":"/organizations/bayshire-senior-communities/"}
+,{"t":"org","n":"Covenant Living Communities and Services","d":"operator","u":"/organizations/covenant-living-communities-and-services/"}
+,{"t":"org","n":"Astoria Senior Living","d":"operator","u":"/organizations/astoria-senior-living/"}
+,{"t":"org","n":"Life Care Centers of America","d":"operator","u":"/organizations/life-care-centers-of-america/"}
+,{"t":"org","n":"Fellowship Square Senior Living","d":"operator","u":"/organizations/fellowship-square-senior-living/"}
+,{"t":"org","n":"Northwest Care Senior Living","d":"operator","u":"/organizations/northwest-care-senior-living/"}
+,{"t":"org","n":"Life Care Services","d":"operator","u":"/organizations/life-care-services/"}
+,{"t":"org","n":"The Springs Living","d":"operator","u":"/organizations/the-springs-living/"}
+,{"t":"org","n":"Veterans Care Centers of Oregon","d":"operator","u":"/organizations/veterans-care-centers-of-oregon/"}
+,{"t":"org","n":"Senior Resource Group","d":"operator","u":"/organizations/senior-resource-group/"}
+,{"t":"org","n":"Ashley Manor","d":"operator","u":"/organizations/ashley-manor/"}
+,{"t":"org","n":"Sinceri Senior Living","d":"operator","u":"/organizations/sinceri-senior-living/"}
+,{"t":"org","n":"Continuing Life","d":"operator","u":"/organizations/continuing-life/"}
+,{"t":"org","n":"Kensington Senior Living","d":"operator","u":"/organizations/kensington-senior-living/"}
+,{"t":"org","n":"SRG Senior Living","d":"operator","u":"/organizations/srg-senior-living/"}
+,{"t":"org","n":"Ashford Senior Communities","d":"operator","u":"/organizations/ashford-senior-communities/"}
+,{"t":"org","n":"Revel Communities","d":"operator","u":"/organizations/revel-communities/"}
+,{"t":"org","n":"Stellar Senior Living","d":"operator","u":"/organizations/stellar-senior-living/"}
+,{"t":"org","n":"Sunshine Retirement Living","d":"operator","u":"/organizations/sunshine-retirement-living/"}
+,{"t":"org","n":"Fieldstone Communities","d":"operator","u":"/organizations/fieldstone-communities/"}
+,{"t":"org","n":"Avista Senior Living","d":"operator","u":"/organizations/avista-senior-living/"}
+,{"t":"org","n":"Idaho Division of Veterans Services","d":"operator","u":"/organizations/idaho-division-of-veterans-services/"}
+,{"t":"org","n":"Belmont Village Senior Living","d":"operator","u":"/organizations/belmont-village-senior-living/"}
+,{"t":"org","n":"Pacific Retirement Services","d":"operator","u":"/organizations/pacific-retirement-services/"}
+,{"t":"org","n":"Koelsch Communities","d":"operator","u":"/organizations/koelsch-communities/"}
+,{"t":"org","n":"Vi Living","d":"operator","u":"/organizations/vi-living/"}
+,{"t":"org","n":"Frontier Senior Living","d":"operator","u":"/organizations/frontier-senior-living/"}
+,{"t":"org","n":"Tanabell Health Services","d":"operator","u":"/organizations/tanabell-health-services/"}
+,{"t":"org","n":"Eskaton","d":"operator","u":"/organizations/eskaton/"}
+,{"t":"org","n":"Valley Vista Care Corporation","d":"operator","u":"/organizations/valley-vista-care-corporation/"}
+]

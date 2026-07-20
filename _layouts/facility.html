@@ -316,9 +316,13 @@ layout: default
   {%- endif %}
 
   <p class="notice">
-    Details verified against public sources on {{ page.verified_date | default: site.data_vintage.last_verified }}.
+    This profile is a research aid, not a recommendation or a substitute for a professional
+    assessment. Details verified against public sources on {{ page.verified_date | default: site.data_vintage.last_verified }}.
     {%- if page.sources %} Sources:{% for s in page.sources %} <a href="{{ s }}" rel="nofollow noopener">[{{ forloop.index }}]</a>{% endfor %}.{% endif %}
-    Availability, pricing, and services change - always confirm directly with the community.
+    Services, staffing, prices, availability, ownership, and license status change - verify
+    important details directly with the community and the responsible government agency before
+    you decide. Community-provided statements are labeled and are not independently audited unless
+    stated.
     See something inaccurate?
     <a href="/report-a-correction/?community={{ page.title | append: ' - ' | append: page.city_name | append: ', ' | append: page.state_abbrev | url_encode }}">Report it</a> - or if you work at {{ page.title }}, <a href="/for-communities/">claim and manage this profile</a>.
   </p>

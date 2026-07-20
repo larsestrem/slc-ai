@@ -19,8 +19,8 @@ phone: "(559) 297-4900"
 website: "https://www.generationsllc.com/communities/carmel-village/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
-organization: "generations-llc"
-organization_name: "Generations LLC"
+organization: "generations"
+organization_name: "Generations"
 sources: ["https://www.aplaceformom.com/community/carmel-village-at-clovis-senior-living-1368455", "https://www.generationsllc.com/communities/carmel-village/"]
 verified_date: "2026-07-19"
 description_full: "A resort-style senior living community in the heart of Clovis offering independent living, assisted living, and memory care."

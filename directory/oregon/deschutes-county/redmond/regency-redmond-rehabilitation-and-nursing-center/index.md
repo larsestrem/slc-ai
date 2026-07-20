@@ -19,8 +19,8 @@ website: "https://www.regency-pacific.com/senior-living/or/redmond/regency-redmo
 care_levels: ["skilled-nursing"]
 facility_size: "medium"
 capacity: 50
-organization: "regency-pacific-management"
-organization_name: "Regency Pacific Management"
+organization: "regency-pacific"
+organization_name: "Regency Pacific"
 cms_ccn: "385230"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/regency-redmond-rehabilitation-and-nursing-center-385230", "https://www.nursinghomes.us/facility/regency-redmond-rehabilitation-and-nursing-center-385230", "https://www.regency-pacific.com/senior-living/or/redmond/regency-redmond-rehabilitation-nursing-center/"]
 verified_date: "2026-07-14"

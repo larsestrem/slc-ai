@@ -1,8 +1,11 @@
 ---
-layout: "organization"
-title: "The Ensign Group"
-seo_title: "The Ensign Group - Senior Living Communities & Locations"
-description: "The Ensign Group senior living communities: locations in our directory, company facts, and how to evaluate each community."
-facilities: [{"name": "The Cove at La Jolla", "url": "/directory/california/san-diego-county/la-jolla/the-cove-at-la-jolla/", "city_name": "La Jolla", "state_abbrev": "CA", "care_levels": ["skilled-nursing", "respite-care"], "records_note": false, "facility_size": "medium", "description": "The Cove at La Jolla is a 59-bed Medicare-certified skilled nursing facility near the coast in La Jolla. The facility is affiliated with The Ensign Group."}]
-crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "The Ensign Group", "url": "/organizations/the-ensign-group/"}]
+layout: null
+permalink: /organizations/the-ensign-group/
+sitemap: false
 ---
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url=/organizations/ensign-group/">
+<link rel="canonical" href="/organizations/ensign-group/">
+<meta name="robots" content="noindex">
+<title>The Ensign Group</title></head>
+<body><p>This operator is listed at <a href="/organizations/ensign-group/">/organizations/ensign-group/</a>.</p></body></html>

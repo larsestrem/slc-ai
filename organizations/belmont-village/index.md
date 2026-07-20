@@ -1,13 +1,11 @@
 ---
-layout: "organization"
-title: "Belmont Village Senior Living"
-seo_title: "Belmont Village Senior Living - Senior Living Communities & Locations"
-description: "Houston-based developer and operator of upscale senior living communities founded in 1997, with 33 communities concentrated in California, Texas and other maj"
-org_description: "Houston-based developer and operator of upscale senior living communities founded in 1997, with 33 communities concentrated in California, Texas and other major metros. Communities emphasize licensed-nurse staffing, research-based memory care programs and hotel-style hospitality."
-headquarters: "Houston, Texas"
-website: "https://www.belmontvillage.com/"
-facility_count_approx: 33
-org_states: ["TX", "CA", "IL", "FL", "TN", "AZ", "KY", "WI"]
-facilities: [{"name": "Belmont Village San Jose", "url": "/directory/california/santa-clara-county/san-jose/belmont-village-san-jose/", "city_name": "San Jose", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Large assisted living and memory care community on South Winchester Boulevard near Santana Row and the Winchester Mystery House."}]
-crumbs: [{"name": "Organizations", "url": "/organizations/"}, {"name": "Belmont Village Senior Living", "url": "/organizations/belmont-village/"}]
+layout: null
+permalink: /organizations/belmont-village/
+sitemap: false
 ---
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url=/organizations/belmont-village-senior-living/">
+<link rel="canonical" href="/organizations/belmont-village-senior-living/">
+<meta name="robots" content="noindex">
+<title>Belmont Village Senior Living</title></head>
+<body><p>This operator is listed at <a href="/organizations/belmont-village-senior-living/">/organizations/belmont-village-senior-living/</a>.</p></body></html>

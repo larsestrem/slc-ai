@@ -17,8 +17,8 @@ zip: "97138"
 phone: "(503) 738-0900"
 website: "https://avamereatseaside.com/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
-organization: "avamere-family-of-companies"
-organization_name: "Avamere Family of Companies"
+organization: "avamere"
+organization_name: "Avamere"
 sources: ["https://www.aplaceformom.com/community/avamere-at-seaside-96454", "https://avamereatseaside.com/contact/", "https://ltclicensing.oregon.gov/Facilities/Details/50R296"]
 verified_date: "2026-07-14"
 description_full: "An Oregon-licensed residential care community in Seaside offering assisted living with a dedicated memory care unit and an independent living option. Operated by Oregon-based Avamere."

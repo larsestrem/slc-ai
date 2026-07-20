@@ -19,8 +19,8 @@ phone: "(909) 626-1227"
 website: "https://frontporch.net/community/claremont-manor/"
 care_levels: ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"]
 facility_size: "large"
-organization: "front-porch-communities-and-services"
-organization_name: "Front Porch Communities and Services"
+organization: "front-porch"
+organization_name: "Front Porch"
 sources: ["https://birdeye.com/claremont-manor-retirement-community-171234797375055", "https://www.yelp.com/biz/claremont-manor-retirement-community-claremont"]
 verified_date: "2026-07-19"
 description_full: "Claremont Manor is a continuing care retirement community operated by the not-for-profit Front Porch organization, blocks from the Claremont Colleges."

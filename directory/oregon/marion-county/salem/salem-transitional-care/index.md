@@ -19,8 +19,8 @@ website: "https://www.avamere.com/salem-transitional-care/"
 care_levels: ["skilled-nursing"]
 facility_size: "large"
 capacity: 80
-organization: "avamere-family-of-companies"
-organization_name: "Avamere Family of Companies"
+organization: "avamere"
+organization_name: "Avamere"
 cms_ccn: "385234"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/salem-transitional-care-385234", "https://www.avamere.com/salem-transitional-care/rehabilitation", "https://ltclicensing.oregon.gov/Facilities/Details/385234"]
 records_note: true

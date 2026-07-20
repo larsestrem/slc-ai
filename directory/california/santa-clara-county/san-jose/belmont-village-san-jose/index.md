@@ -19,7 +19,7 @@ phone: "(408) 984-4767"
 website: "https://www.belmontvillage.com/locations/san-jose-california/"
 care_levels: ["assisted-living", "memory-care"]
 facility_size: "large"
-organization: "belmont-village"
+organization: "belmont-village-senior-living"
 organization_name: "Belmont Village Senior Living"
 sources: ["https://www.aplaceformom.com/community/belmont-village-san-jose-96571", "https://www.yelp.com/biz/belmont-village-senior-living-san-jose-2"]
 verified_date: "2026-07-19"

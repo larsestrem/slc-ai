@@ -581,9 +581,7 @@
 ,{"t":"org","n":"Hawaii Health Systems Corporation","d":"operator","u":"/organizations/hawaii-health-systems-corporation/"}
 ,{"t":"org","n":"The Plaza Assisted Living","d":"operator","u":"/organizations/the-plaza-assisted-living/"}
 ,{"t":"org","n":"Vi","d":"operator","u":"/organizations/vi/"}
-,{"t":"org","n":"Front Porch Communities and Services","d":"operator","u":"/organizations/front-porch-communities-and-services/"}
 ,{"t":"org","n":"Grace Assisted Living","d":"operator","u":"/organizations/grace-assisted-living/"}
-,{"t":"org","n":"Belmont Village Senior Living","d":"operator","u":"/organizations/belmont-village/"}
 ,{"t":"org","n":"Summerset Senior Living","d":"operator","u":"/organizations/summerset-senior-living/"}
 ,{"t":"org","n":"Holiday by Atria","d":"operator","u":"/organizations/holiday-by-atria/"}
 ,{"t":"org","n":"Weatherly Inn","d":"operator","u":"/organizations/weatherly-inn/"}
@@ -598,7 +596,6 @@
 ,{"t":"org","n":"Avamere","d":"operator","u":"/organizations/avamere/"}
 ,{"t":"org","n":"Atria Senior Living","d":"operator","u":"/organizations/atria-senior-living/"}
 ,{"t":"org","n":"Trustwell Living","d":"operator","u":"/organizations/trustwell-living/"}
-,{"t":"org","n":"Regency Pacific Management","d":"operator","u":"/organizations/regency-pacific-management/"}
 ,{"t":"org","n":"Savant Senior Living","d":"operator","u":"/organizations/savant-senior-living/"}
 ,{"t":"org","n":"Cogir Senior Living","d":"operator","u":"/organizations/cogir-senior-living/"}
 ,{"t":"org","n":"Compass Senior Living","d":"operator","u":"/organizations/compass-senior-living/"}
@@ -606,11 +603,9 @@
 ,{"t":"org","n":"Prestige Care","d":"operator","u":"/organizations/prestige-care/"}
 ,{"t":"org","n":"Westmont Living","d":"operator","u":"/organizations/westmont-living/"}
 ,{"t":"org","n":"ACC Senior Services","d":"operator","u":"/organizations/acc-senior-services/"}
-,{"t":"org","n":"The Ensign Group","d":"operator","u":"/organizations/the-ensign-group/"}
 ,{"t":"org","n":"MBK Senior Living","d":"operator","u":"/organizations/mbk-senior-living/"}
 ,{"t":"org","n":"Generations","d":"operator","u":"/organizations/generations/"}
 ,{"t":"org","n":"Coterie Senior Living","d":"operator","u":"/organizations/coterie-senior-living/"}
-,{"t":"org","n":"Avamere Family of Companies","d":"operator","u":"/organizations/avamere-family-of-companies/"}
 ,{"t":"org","n":"HumanGood","d":"operator","u":"/organizations/humangood/"}
 ,{"t":"org","n":"Good Samaritan Society","d":"operator","u":"/organizations/good-samaritan-society/"}
 ,{"t":"org","n":"Oakmont Senior Living","d":"operator","u":"/organizations/oakmont-senior-living/"}
@@ -632,7 +627,6 @@
 ,{"t":"org","n":"Regency Pacific","d":"operator","u":"/organizations/regency-pacific/"}
 ,{"t":"org","n":"Ciel Senior Living","d":"operator","u":"/organizations/ciel-senior-living/"}
 ,{"t":"org","n":"Ohana Pacific Health","d":"operator","u":"/organizations/ohana-pacific-health/"}
-,{"t":"org","n":"Generations LLC","d":"operator","u":"/organizations/generations-llc/"}
 ,{"t":"org","n":"Silvergate Retirement Residences","d":"operator","u":"/organizations/silvergate-retirement-residences/"}
 ,{"t":"org","n":"Maui Health","d":"operator","u":"/organizations/maui-health/"}
 ,{"t":"org","n":"Pacifica Senior Living","d":"operator","u":"/organizations/pacifica-senior-living/"}
@@ -654,7 +648,6 @@
 ,{"t":"org","n":"Sinceri Senior Living","d":"operator","u":"/organizations/sinceri-senior-living/"}
 ,{"t":"org","n":"Continuing Life","d":"operator","u":"/organizations/continuing-life/"}
 ,{"t":"org","n":"Kensington Senior Living","d":"operator","u":"/organizations/kensington-senior-living/"}
-,{"t":"org","n":"SRG Senior Living","d":"operator","u":"/organizations/srg-senior-living/"}
 ,{"t":"org","n":"Ashford Senior Communities","d":"operator","u":"/organizations/ashford-senior-communities/"}
 ,{"t":"org","n":"Revel Communities","d":"operator","u":"/organizations/revel-communities/"}
 ,{"t":"org","n":"Stellar Senior Living","d":"operator","u":"/organizations/stellar-senior-living/"}
@@ -665,7 +658,6 @@
 ,{"t":"org","n":"Belmont Village Senior Living","d":"operator","u":"/organizations/belmont-village-senior-living/"}
 ,{"t":"org","n":"Pacific Retirement Services","d":"operator","u":"/organizations/pacific-retirement-services/"}
 ,{"t":"org","n":"Koelsch Communities","d":"operator","u":"/organizations/koelsch-communities/"}
-,{"t":"org","n":"Vi Living","d":"operator","u":"/organizations/vi-living/"}
 ,{"t":"org","n":"Frontier Senior Living","d":"operator","u":"/organizations/frontier-senior-living/"}
 ,{"t":"org","n":"Tanabell Health Services","d":"operator","u":"/organizations/tanabell-health-services/"}
 ,{"t":"org","n":"Eskaton","d":"operator","u":"/organizations/eskaton/"}

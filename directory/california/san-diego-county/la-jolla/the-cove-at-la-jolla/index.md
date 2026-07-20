@@ -20,7 +20,7 @@ website: "https://thecoveatlajolla.com/"
 care_levels: ["skilled-nursing", "respite-care"]
 facility_size: "medium"
 capacity: 59
-organization: "the-ensign-group"
+organization: "ensign-group"
 organization_name: "The Ensign Group"
 cms_ccn: "555545"
 sources: ["https://thecoveatlajolla.com/", "https://health.usnews.com/best-nursing-homes/area/ca/the-cove-at-la-jolla-555545", "https://www.yelp.com/biz/the-cove-at-la-jolla-la-jolla-2"]

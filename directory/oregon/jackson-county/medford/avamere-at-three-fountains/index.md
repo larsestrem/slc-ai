@@ -19,8 +19,8 @@ website: "https://www.avamere.com/avamere-at-three-fountains/"
 care_levels: ["skilled-nursing"]
 facility_size: "large"
 capacity: 117
-organization: "avamere-family-of-companies"
-organization_name: "Avamere Family of Companies"
+organization: "avamere"
+organization_name: "Avamere"
 cms_ccn: "385126"
 sources: ["https://health.usnews.com/best-nursing-homes/area/or/avamere-at-three-fountains-385126", "https://www.avamere.com/avamere-at-three-fountains/", "https://ltclicensing.oregon.gov/Facilities/Details/385126"]
 records_note: true

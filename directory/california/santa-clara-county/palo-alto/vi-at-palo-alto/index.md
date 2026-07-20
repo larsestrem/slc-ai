@@ -19,8 +19,8 @@ phone: "(650) 853-5000"
 website: "https://www.viliving.com/locations/ca/palo-alto/contact"
 care_levels: ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"]
 facility_size: "large"
-organization: "vi-living"
-organization_name: "Vi Living"
+organization: "vi"
+organization_name: "Vi"
 cms_ccn: "555835"
 sources: ["https://www.medicare.gov/care-compare/details/nursing-home/555835/view-all/?state=CA", "https://health.usnews.com/best-nursing-homes/area/ca/vi-at-palo-alto-555835", "https://www.yelp.com/biz/vi-at-palo-alto-palo-alto", "https://www.viliving.com/locations/ca/palo-alto/contact"]
 verified_date: "2026-07-19"

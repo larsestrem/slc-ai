@@ -19,8 +19,8 @@ phone: "(805) 723-3309"
 website: "https://www.srgseniorliving.com/santa-barbara-ca-maravilla/"
 care_levels: ["independent-living", "assisted-living", "memory-care"]
 facility_size: "large"
-organization: "srg-senior-living"
-organization_name: "SRG Senior Living"
+organization: "senior-resource-group"
+organization_name: "Senior Resource Group"
 sources: ["https://www.seniorly.com/assisted-living/california/santa-barbara/maravilla", "https://www.caring.com/senior-living/california/santa-barbara/maravilla-93111"]
 verified_date: "2026-07-19"
 description_full: "Luxury senior living community on Calle Real established in 2002, offering independent living, assisted living, and memory care on a large resort-style campus. Pet-friendly, with 12-16 hour nursing and a 24-hour call system."

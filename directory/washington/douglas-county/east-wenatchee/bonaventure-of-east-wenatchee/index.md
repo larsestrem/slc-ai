@@ -25,5 +25,5 @@ verified_date: "2026-07-14"
 description_full: "Bonaventure of East Wenatchee is a senior living community in East Wenatchee, in central Washington, offering retirement (independent) living, assisted living, and memory care. It is operated by Bonaventure Senior Living of Salem, Oregon."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/bonaventure-of-east-wenatchee-east-wenatchee"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bonaventure-of-east-wenatchee-153978"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/wenatchee/bonaventure-of-east-wenatchee-98802"}]
 reviews_search_url: "https://www.google.com/search?q=Bonaventure+of+East+Wenatchee+East+Wenatchee+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

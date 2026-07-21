@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Kadie Glen Assisted Living is an assisted living community at 451 N Baker Ave in East Wenatchee operated by Ridgeline Management Company. It is open 24 hours and licensed by the State of Washington."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/east-wenatchee/kadie-glen-assisted-living-98801"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/washington/east-wenatchee/kadie-glen-assisted-living"}]
 reviews_search_url: "https://www.google.com/search?q=Kadie+Glen+Assisted+Living+East+Wenatchee+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

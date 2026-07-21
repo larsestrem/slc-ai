@@ -53,7 +53,7 @@ def read_states_meta():
             val = val.strip().strip('"')
             if key.strip() == "licensing":
                 cur["licensing"] = {}
-            elif "licensing" in cur and key.strip() in ("agency", "lookup_url", "small_home", "note"):
+            elif "licensing" in cur and key.strip() in ("agency", "lookup_url", "afh_lookup_url", "small_home", "note"):
                 cur["licensing"][key.strip()] = val
             elif key.strip() in ("name", "abbrev"):
                 cur[key.strip()] = val
@@ -310,7 +310,13 @@ def gen_facility_page(f, siblings, licensing):
     search_q = quote_plus(f"{f['name']} {f['city_name']} {f['state_abbrev']} reviews")
     front["reviews_search_url"] = f"https://www.google.com/search?q={search_q}"
     if not f.get("cms_ccn") and licensing:
-        front["licensing"] = {"agency": licensing.get("agency"), "lookup_url": licensing.get("lookup_url")}
+        # Some states run separate locators per facility type. A pure adult
+        # family home uses the AFH locator when the state provides one; every
+        # other facility uses the general lookup.
+        lu = licensing.get("lookup_url")
+        if f.get("care_levels") == ["adult-family-home"] and licensing.get("afh_lookup_url"):
+            lu = licensing.get("afh_lookup_url")
+        front["licensing"] = {"agency": licensing.get("agency"), "lookup_url": lu}
     write(DIRECTORY / f["state"] / county_slug(f) / f["city"] / f["slug"] / "index.md", fm(front))
 
     # Leadership team profiles (claimed listings): a dedicated /team/ page with

@@ -25,5 +25,5 @@ specialties: ["Dementia"]
 description_full: "Elderly Home Care is a licensed six-bed adult family home in Bothell owned and operated by Veronica Dudau, a healthcare professional with more than 20 years of long-term care experience. It offers assisted living and memory care with a high caregiver-to-resident ratio."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/elderly-home-care-99483"}]
 reviews_search_url: "https://www.google.com/search?q=Elderly+Home+Care+Bothell+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

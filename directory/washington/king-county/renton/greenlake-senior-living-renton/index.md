@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Greenlake Senior Living Renton (also marketed as Renton Assisted Living) is an assisted living and memory care community at 71 SW Victoria St in Renton, located near the south end of Lake Washington and managed by Brookdale-affiliated ownership. It offers private and companion apartments."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/renton-assisted-living-71339"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/brookdale-assisted-living-renton"}]
 reviews_search_url: "https://www.google.com/search?q=Greenlake+Senior+Living+Renton+Renton+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

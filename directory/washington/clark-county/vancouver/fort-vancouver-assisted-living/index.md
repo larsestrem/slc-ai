@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Fort Vancouver Assisted Living is an assisted living community at 8422 NE 8th Way in Vancouver. It is licensed by the State of Washington."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fort-vancouver-assisted-living-71980"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/park-lido-inc-vancouver-wa"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/vancouver/fort-vancouver-assisted-living"}]
 reviews_search_url: "https://www.google.com/search?q=Fort+Vancouver+Assisted+Living+Vancouver+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

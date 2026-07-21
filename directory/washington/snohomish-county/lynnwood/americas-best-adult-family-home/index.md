@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Licensed adult family home in Lynnwood serving the Lynnwood and Edmonds area with personalized 24-hour senior care in a residential setting. A small-home alternative to larger assisted living communities, offering individualized attention in a family-style house."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/1-americas-best-adult-family-home-llc-168180757471192"}]
 reviews_search_url: "https://www.google.com/search?q=America%27s+Best+Adult+Family+Home+Lynnwood+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/AFHPubLookup.aspx"}
 ---

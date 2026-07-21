@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/merrill-gardens-at-renton-centre-138586"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/merrill-gardens-at-renton-centre-renton-3"}]
 reviews_search_url: "https://www.google.com/search?q=Merrill+Gardens+at+Renton+Centre+Renton+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

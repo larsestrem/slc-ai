@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Broadway Court Estates is a family-run independent living community in Spokane Valley."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/broadway-court-estates-72237"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/spokane-valley/broadway-court-estates-99216"}]
 reviews_search_url: "https://www.google.com/search?q=Broadway+Court+Estates+Spokane+Valley+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

@@ -25,5 +25,5 @@ verified_date: "2026-07-14"
 description_full: "Cogir at The Quarry is a large senior living campus at Columbia Tech Center in east Vancouver offering independent living, assisted living, and memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cogir-at-the-quarry-143883"}]
 reviews_search_url: "https://www.google.com/search?q=Cogir+at+The+Quarry+Vancouver+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

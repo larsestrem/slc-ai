@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Harbor Place at Cottesmore offers 40 independent retirement apartments and 60 assisted living apartments on a Gig Harbor campus shared with a skilled nursing and rehab center, giving residents a continuum of care in one place. Serving seniors since 2006, it was named a 2025 U.S. News Best Assisted and Independent Living community."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/gig-harbor/harbor-place-at-cottesmore-98335"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/harbor-place-at-cottesmore-gig-harbor"}]
 reviews_search_url: "https://www.google.com/search?q=Harbor+Place+at+Cottesmore+Gig+Harbor+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

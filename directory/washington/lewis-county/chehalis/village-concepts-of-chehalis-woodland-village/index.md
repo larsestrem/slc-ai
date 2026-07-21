@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Woodland Village is a Village Concepts retirement community in Chehalis offering independent living, assisted living, memory care support and independent senior cottages on an expansive campus."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/village-concepts-of-chehalis-woodland-village-chehalis"}]
 reviews_search_url: "https://www.google.com/search?q=Village+Concepts+of+Chehalis+-+Woodland+Village+Chehalis+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

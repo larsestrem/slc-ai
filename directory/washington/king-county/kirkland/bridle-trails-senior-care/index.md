@@ -25,5 +25,5 @@ specialties: ["Dementia"]
 description_full: "Bridle Trails Senior Care is a licensed adult family home in Kirkland's Bridle Trails neighborhood, owned and managed by a Washington-licensed registered nurse. It specializes in Alzheimer's and dementia care, hospice, and nursing services in a peaceful, home-like setting for up to six residents."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bridle-trails-senior-care-1357000"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/bridle-trails-senior-care-kirkland"}]
 reviews_search_url: "https://www.google.com/search?q=Bridle+Trails+Senior+Care+Kirkland+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

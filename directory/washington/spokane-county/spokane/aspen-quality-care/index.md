@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Aspen Quality Care is a 21-bed Enhanced Assisted Living Facility at 9626 N Colfax Rd in Spokane, specializing in Alzheimer's/dementia care, mental health care, and diabetic care management. It is licensed by the State of Washington."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/aspen-quality-care-1364942"}]
 reviews_search_url: "https://www.google.com/search?q=Aspen+Quality+Care+Spokane+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

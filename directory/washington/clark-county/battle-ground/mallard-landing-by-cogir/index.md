@@ -26,5 +26,5 @@ verified_date: "2026-07-14"
 description_full: "Mallard Landing by Cogir is an 85-bed licensed assisted living community in downtown Battle Ground offering assisted living apartments and senior living services including medication management, diabetic care, and higher-acuity support."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/mallard-landing-by-cogir-96444"}]
 reviews_search_url: "https://www.google.com/search?q=Mallard+Landing+by+Cogir+Battle+Ground+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

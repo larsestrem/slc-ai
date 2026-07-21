@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Parkside Retirement Community is a 94-bed senior living campus at 2902 I St NE in Auburn offering independent living, assisted living, memory care, and hospice/respite support. It has operated since 1973 and is owned by Noble Healthcare."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/auburn/parkside-retirement-center-98002"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/parkside-retirement-community-71212"}]
 reviews_search_url: "https://www.google.com/search?q=Parkside+Retirement+Community+Auburn+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

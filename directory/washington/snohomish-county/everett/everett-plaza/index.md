@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Everett Plaza is an independent and assisted living community at 2204 12th St in Everett offering 24-hour caregiver support."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/everett-plaza-assisted-living-community-everett"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/everett/everett-plaza-everett"}, {"name": "Birdeye", "url": "https://reviews.birdeye.com/everett-plaza-assisted-living-community-148049409088751"}]
 reviews_search_url: "https://www.google.com/search?q=Everett+Plaza+Everett+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

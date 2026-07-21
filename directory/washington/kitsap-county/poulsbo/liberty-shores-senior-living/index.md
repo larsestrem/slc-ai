@@ -26,5 +26,5 @@ verified_date: "2026-07-14"
 description_full: "Liberty Shores Senior Living is a 112-bed assisted living community with specialized dementia care on Liberty Bay in Poulsbo, one of the area's few locally owned and managed communities."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/poulsbo/liberty-shores-senior-living"}, {"name": "Birdeye", "url": "https://reviews.birdeye.com/liberty-shores-assisted-living-148049609718663"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/liberty-shores-assisted-living-poulsbo"}]
 reviews_search_url: "https://www.google.com/search?q=Liberty+Shores+Senior+Living+Poulsbo+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

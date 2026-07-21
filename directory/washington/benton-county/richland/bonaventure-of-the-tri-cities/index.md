@@ -26,5 +26,5 @@ verified_date: "2026-07-14"
 description_full: "Bonaventure of the Tri-Cities is a 123-bed independent living, assisted living, and memory care community in Richland's Bellerive area. The campus features a swimming pool, walking paths, landscaped grounds, and a salon."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bonaventure-tri-cities-153656"}]
 reviews_search_url: "https://www.google.com/search?q=Bonaventure+of+the+Tri-Cities+Richland+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

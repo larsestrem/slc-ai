@@ -26,5 +26,5 @@ review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/
 reviews_search_url: "https://www.google.com/search?q=Aljoya+Mercer+Island+Mercer+Island+WA+reviews"
 records_url: "https://fortress.wa.gov/dshs/adsaapps/lookup/BHForms.aspx?Lic=2019"
 license_id: "2019"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

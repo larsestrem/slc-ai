@@ -26,5 +26,5 @@ verified_date: "2026-07-14"
 description_full: "The Hampton at Salmon Creek is a 68-bed secured memory care community in Vancouver's Salmon Creek neighborhood, purpose-built for residents living with Alzheimer's and other dementias. Operated by family-owned Koelsch Communities, it offers 24-hour staffing, music therapy, and dementia-specific programming."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-hampton-at-salmon-creek-memory-care-1353029"}]
 reviews_search_url: "https://www.google.com/search?q=The+Hampton+at+Salmon+Creek+Vancouver+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

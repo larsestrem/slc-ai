@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Warm Beach Senior Community is a faith-based, not-for-profit continuing care community established in 1967 on a 90-acre campus near Stanwood, affiliated with the Free Methodist Church. It combines independent cottages and apartments with assisted living, memory care, and skilled nursing, and residents cite more than two dozen resident clubs and comparatively affordable rates."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/warm-beach-senior-community-71668"}]
 reviews_search_url: "https://www.google.com/search?q=Warm+Beach+Senior+Community+Stanwood+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

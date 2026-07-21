@@ -25,5 +25,5 @@ sources: ["https://www.thespringsliving.com/senior-living/vancouver/washington/w
 verified_date: "2026-07-14"
 description_full: "The Springs at The Waterfront is a 12-story, 360,000-square-foot senior living community on Vancouver's Columbia River waterfront, opened in late 2024. It houses 182 independent living, 48 assisted living, and 20 memory care units for adults 62 and over. Amenities include multiple dining venues, a wine lounge, an indoor pool, and a wellness center."
 reviews_search_url: "https://www.google.com/search?q=The+Springs+at+The+Waterfront+Vancouver+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

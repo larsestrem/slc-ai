@@ -26,5 +26,5 @@ verified_date: "2026-07-14"
 description_full: "University House Wallingford is an Era Living retirement community in Seattle's Wallingford neighborhood, opened in 1997, with 146 one- and two-bedroom apartments. It offers independent living with assisted living services available, a full-service restaurant, and an on-site wellness center staffed by a registered nurse. The community sits within walking distance of Wallingford shops, restaurants, and the library."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/university-house-wallingford-seattle"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/university-house-wallingford-71370"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/seattle/university-house-wallingford-98103"}]
 reviews_search_url: "https://www.google.com/search?q=University+House+Wallingford+Seattle+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

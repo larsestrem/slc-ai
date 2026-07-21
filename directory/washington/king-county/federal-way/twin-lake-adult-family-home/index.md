@@ -25,5 +25,5 @@ specialties: ["Dementia"]
 description_full: "Twin Lake Adult Family Home is a licensed six-bed adult family home in Federal Way, set beside a golf course. It offers memory care and personal care in a small, home-like setting with hands-on daily involvement from the owner and caregivers."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/twin-lake-adult-family-home-1453915"}]
 reviews_search_url: "https://www.google.com/search?q=Twin+Lake+Adult+Family+Home+Federal+Way+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

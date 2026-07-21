@@ -25,5 +25,5 @@ verified_date: "2026-07-14"
 description_full: "Quail Park of West Seattle opened in 2019 in the West Seattle Junction area and offers enhanced assisted living alongside its Tribute memory care program. The multi-story community holds around 180 apartments and is operated by Seattle-based Living Care Lifestyles."
 review_links: [{"name": "Birdeye", "url": "https://birdeye.com/quail-park-of-west-seattle-171380379107484"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/quail-park-of-west-seattle-seattle-2"}]
 reviews_search_url: "https://www.google.com/search?q=Quail+Park+of+West+Seattle+Seattle+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

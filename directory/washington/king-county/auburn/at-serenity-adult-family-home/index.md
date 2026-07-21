@@ -27,5 +27,5 @@ specialties: ["Dementia", "Mental Health"]
 description_full: "At Serenity Adult Family Home is a licensed six-bed adult family home in Auburn operating since 2005. It is certified by Washington DSHS for both Dementia Specialty and Mental Health Specialty care and provides 24-hour supervision."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/a-serenity-adult-family-home-139217"}]
 reviews_search_url: "https://www.google.com/search?q=At+Serenity+Adult+Family+Home+Auburn+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

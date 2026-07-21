@@ -26,5 +26,5 @@ review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/l
 reviews_search_url: "https://www.google.com/search?q=Sunrise+of+Edmonds+Edmonds+WA+reviews"
 records_url: "https://fortress.wa.gov/dshs/adsaapps/lookup/BHForms.aspx?Lic=2162"
 license_id: "2162"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

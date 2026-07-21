@@ -24,5 +24,5 @@ specialties: ["Dementia"]
 description_full: "Victoria 1 Adult Family Home is a licensed adult family home in Seattle's Lake City area providing memory care and 24-hour supervision. The provider, Maria Corbu, is a certified nursing assistant with specialty training in Alzheimer's, dementia and mental health and more than 10 years of experience."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/victoria-1-adult-family-home-142288"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/victoria-1-afh-seattle-wa"}]
 reviews_search_url: "https://www.google.com/search?q=Victoria+1+Adult+Family+Home+Seattle+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

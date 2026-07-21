@@ -24,5 +24,5 @@ verified_date: "2026-07-14"
 description_full: "Grace Senior Care of Issaquah is a licensed adult family home for up to six residents, set on a private acre and a half in the Issaquah Highlands area near I-90. Each resident has a private room and bathroom, with hands-on care from providers Michelle and Alex Lupse, who have offered senior care in Issaquah for many years."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/grace-senior-care-of-issaquah-160401"}]
 reviews_search_url: "https://www.google.com/search?q=Grace+Senior+Care+of+Issaquah+Issaquah+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/AFHPubLookup.aspx"}
 ---

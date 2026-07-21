@@ -24,5 +24,5 @@ licensed_since: 1999
 description_full: "IRIS is a licensed 6-bed adult family home in Vancouver that has operated since 1999, with staff trained in memory care, high-acuity care and medication management. Aggregator listings describe it as a memory care and residential care home serving residents with dementia."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/iris-adult-family-home-1441293"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/iris-adult-family-home-vancouver-wa"}]
 reviews_search_url: "https://www.google.com/search?q=IRIS+Adult+Family+Home+Vancouver+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

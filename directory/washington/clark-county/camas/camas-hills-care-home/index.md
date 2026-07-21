@@ -23,5 +23,5 @@ licensed_since: 2010
 description_full: "Camas Hills Care Home is a licensed 6-bed adult family home in Camas, family-owned and operated since 2010. It offers six private suites with private bathrooms and states specialized training in mental health and dementia, caring for all levels including hospice."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/camas-hills-care-home-1378934"}]
 reviews_search_url: "https://www.google.com/search?q=Camas+Hills+Care+Home+Camas+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

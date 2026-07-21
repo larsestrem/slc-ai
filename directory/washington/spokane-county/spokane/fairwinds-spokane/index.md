@@ -25,5 +25,5 @@ verified_date: "2026-07-14"
 description_full: "Fairwinds - Spokane is a large independent and assisted living community on the north side of Spokane, operated by Leisure Care. Residents have access to a library, hair salon, computer room, and a full calendar of outings, live music, and social programs."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/fairwinds-spokane-72733"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/spokane/fairwinds-spokane-99218"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/washington/spokane/fairwinds-spokane"}]
 reviews_search_url: "https://www.google.com/search?q=Fairwinds+-+Spokane+Spokane+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

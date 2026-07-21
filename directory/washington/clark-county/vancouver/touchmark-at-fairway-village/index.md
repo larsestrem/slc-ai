@@ -25,5 +25,5 @@ verified_date: "2026-07-14"
 description_full: "Touchmark at Fairway Village is a full-service retirement community on an 18-acre campus in east Vancouver, offering independent living cottages and apartments plus assisted living and memory care. Amenities include an indoor pool, fitness center with Parkinson's programming, multiple dining venues, and a theater."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/washington/vancouver/touchmark-at-fairway-village-98683-2"}, {"name": "Yelp", "url": "https://www.yelp.com/biz/touchmark-at-fairway-village-vancouver-6"}]
 reviews_search_url: "https://www.google.com/search?q=Touchmark+at+Fairway+Village+Vancouver+WA+reviews"
-licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/"}
+licensing: {"agency": "Washington DSHS Aging and Long-Term Support Administration", "lookup_url": "https://fortress.wa.gov/dshs/adsaapps/lookup/BHPubLookup.aspx"}
 ---

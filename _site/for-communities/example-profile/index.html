@@ -161,6 +161,13 @@ blockquote p { margin: .2rem 0; }
 .kv dt { color: var(--muted); font-weight: 500; }
 .kv dd { margin: 0; overflow-wrap: anywhere; }
 @media (max-width: 34rem) { .kv { grid-template-columns: 1fr; } .kv dd { margin: -0.3rem 0 .4rem; } }
+.profile-nav { margin: .35rem 0 1.2rem; display: flex; align-items: baseline; flex-wrap: wrap; gap: .3rem .6rem; }
+.profile-nav .pn-label { font-size: .82rem; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }
+.profile-nav ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .4rem; }
+.profile-nav a { display: inline-block; padding: .3rem .7rem; border: 1px solid var(--line); border-radius: 999px; font-size: .9rem; text-decoration: none; color: var(--ink); background: var(--surface); white-space: nowrap; }
+.profile-nav a:hover, .profile-nav a:focus { border-color: var(--accent); color: var(--accent); }
+article [id] { scroll-margin-top: 1rem; }
+
 .two-col { display: grid; gap: 1.1rem; grid-template-columns: 1fr; }
 @media (min-width: 52rem) { .two-col { grid-template-columns: 3fr 2fr; align-items: start; } }
 
@@ -424,6 +431,17 @@ tbody tr:hover { background: var(--soft); }
   <span class="from-community">From the community</span> were updated by
   Maria Alvarez (Executive Director), James Okafor (Dining Services Director), and <a href="#contributors">1 more</a>
   · <a href="/for-communities/#how-claiming-works">how we verify updaters</a> (we confirm the updater's identity, not every claim)</p>
+
+  
+<nav class="profile-nav" aria-label="Jump to a section of this profile">
+  <span class="pn-label">Jump to</span>
+  <ul>
+    <li><a href="#care-h">Care levels</a></li><li><a href="#life-h">Health &amp; services</a></li><li><a href="#daily-h">Daily life</a></li><li><a href="#gallery">Photos</a></li><li><a href="#roomtypes-h">Floor plans</a></li><li><a href="#pricing-h">Costs</a></li><li><a href="#team-h">Our team</a></li><li><a href="#response-h">How we handle concerns</a></li>
+    <li><a href="#ratings-h">The record &amp; reviews</a></li>
+    <li><a href="#contact-h">Contact</a></li>
+  </ul>
+</nav>
+
   <div class="hero-gallery" id="gallery">
     <figure class="hg-main">
       <a href="#photo-1" aria-label="View full screen: Illustration of the front entrance and grounds of Alder Grove Senior Living">
@@ -529,6 +547,11 @@ tbody tr:hover { background: var(--soft); }
             <p class="meta"><a href="/guides/skilled-nursing/">What skilled nursing includes and who it fits &rarr;</a></p>
           </div>
         </div>
+        <h3 id="staffing-h">Staffing <span class="from-community">From the community</span></h3>
+        <p class="muted-note">These figures are provided by Alder Grove Senior Living and are not
+        independently verified. Check them against the official record at the Oregon licensing record,
+        and see <a href="/guides/staffing-ratios/">how to read staffing numbers</a>.</p>
+        <dl class="kv"><dt>Overnight nurse coverage</dt><dd>Licensed nurse on site 24/7 in the skilled nursing wing; awake care staff community-wide overnight</dd><dt>Assisted living (daytime)</dt><dd>About 1 care staff to 8 residents</dd><dt>Memory care (daytime)</dt><dd>About 1 care staff to 6 residents</dd><dt>Caregiver turnover (2025)</dt><dd>About 34 percent</dd></dl><p class="count">As of July 2026, provided by the community.</p>
         <p>Care needs usually grow over time. Ask every community what happens when your parent
         needs more care than their current level - moving twice is hard on everyone.
         See <a href="/guides/levels-of-care-explained/">levels of care explained</a>.</p>

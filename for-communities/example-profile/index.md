@@ -85,6 +85,16 @@ care_details:
   - level: skilled-nursing
     units: "14 beds"
     description: "Short-term rehabilitation and long-term nursing care with 24-hour licensed nursing, physical and occupational therapy on site, and physician rounds weekly."
+staffing:
+  - label: "Overnight nurse coverage"
+    value: "Licensed nurse on site 24/7 in the skilled nursing wing; awake care staff community-wide overnight"
+  - label: "Assisted living (daytime)"
+    value: "About 1 care staff to 8 residents"
+  - label: "Memory care (daytime)"
+    value: "About 1 care staff to 6 residents"
+  - label: "Caregiver turnover (2025)"
+    value: "About 34 percent"
+staffing_as_of: "July 2026"
 pets: "Cats and dogs up to 30 lbs welcome in independent and assisted living; pet-care support available"
 couples: "Couples can share any apartment, including when one partner needs a higher level of care"
 min_age: "62+"

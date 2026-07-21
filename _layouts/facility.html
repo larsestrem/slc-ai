@@ -22,6 +22,8 @@ layout: default
   on {{ page.claimed_date }} · <a href="/for-communities/#how-claiming-works">how we verify updaters</a> (we confirm the updater's identity, not every claim)</p>
   {%- endif %}
 
+  {% include profile-nav.html %}
+
   {%- if page.photos and page.photos.size > 0 %}
   {%- comment %} One large photo + up to four tiles in a 2x2 grid beside it
       (stacked on mobile). More than five photos: the hero shows the first five
@@ -108,6 +110,15 @@ layout: default
           <li><strong>{{ info.label }}</strong> - <a href="{{ info.guide }}">what {{ info.label | downcase }} includes and who it fits</a></li>
           {%- endfor %}
         </ul>
+        {%- endif %}
+        {%- if page.staffing and page.claimed_date %}
+        <h3 id="staffing-h">Staffing <span class="from-community">From the community</span></h3>
+        <p class="muted-note">These figures are provided by {{ page.title }} and are not
+        independently verified. Check them against the official record
+        {%- if page.cms_ccn %} on <a href="https://www.medicare.gov/care-compare/details/nursing-home/{{ page.cms_ccn }}" rel="noopener">Medicare Care Compare</a>{% elsif page.records_url %} at <a href="{{ page.records_url }}" rel="noopener">the {{ page.state_name }} licensing record</a>{% else %} at the {{ page.state_name }} licensing record{% endif %},
+        and see <a href="/guides/staffing-ratios/">how to read staffing numbers</a>.</p>
+        <dl class="kv">{%- for s in page.staffing %}<dt>{{ s.label }}</dt><dd>{{ s.value }}</dd>{%- endfor %}</dl>
+        {%- if page.staffing_as_of %}<p class="count">As of {{ page.staffing_as_of }}, provided by the community.</p>{% endif %}
         {%- endif %}
         <p>Care needs usually grow over time. Ask every community what happens when your parent
         needs more care than their current level - moving twice is hard on everyone.

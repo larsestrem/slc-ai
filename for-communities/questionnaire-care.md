@@ -52,6 +52,22 @@ we've verified you with your community.
   </fieldset>
 
   <fieldset>
+    <legend>Staffing</legend>
+    <p class="hint">Families ask about this more than almost anything. We publish these as
+    <strong>community-reported</strong> figures, dated, and shown next to the official staffing
+    record (Medicare Care Compare or your state licensing record) so families can compare. Share
+    only what you're comfortable standing behind. See <a href="/guides/staffing-ratios/">how
+    families read staffing numbers</a>.</p>
+    <label for="c10a">Overnight coverage <span class="opt">(awake staff, and nurse on site or on call?)</span></label>
+    <input type="text" id="c10a" name="Q10a Overnight coverage">
+    <label for="c10b">Typical daytime staffing ratios, by care level</label>
+    <p class="hint">For example: assisted living about 1 to 8, memory care about 1 to 6. Approximate is fine.</p>
+    <textarea id="c10b" name="Q10b Daytime staffing ratios"></textarea>
+    <label for="c10c">Most recent caregiver turnover, and the period it covers <span class="opt">(optional)</span></label>
+    <input type="text" id="c10c" name="Q10c Caregiver turnover">
+  </fieldset>
+
+  <fieldset>
     <legend>Non-medical services</legend>
     <label for="c11">What's included in the base monthly rate?</label>
     <p class="hint">Housekeeping frequency, laundry, linens, utilities, cable/internet…</p>

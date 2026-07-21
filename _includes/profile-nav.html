@@ -1,0 +1,32 @@
+{%- comment %}
+Jump-nav for managed (claimed) profiles. Renders links only for sections that
+actually have content on this profile, in the order families evaluate a place.
+Shown only when the community has claimed the listing - an unclaimed profile
+doesn't have these sections to jump to. Anchors point at existing section
+heading IDs in _layouts/facility.html and the record section in
+ratings-section.html. Keep this order in sync with the on-page section order.
+{% endcomment %}
+{%- assign managed = false %}
+{%- if page.claimed_date or page.contributors %}{% assign managed = true %}{% endif %}
+{%- if managed %}
+{%- assign floor_anchor = nil %}
+{%- if page.room_types %}{% assign floor_anchor = 'roomtypes-h' %}{% elsif page.rooms_url %}{% assign floor_anchor = 'rooms-h' %}{% endif %}
+{%- assign has_daily = false %}{% if page.dining_text or page.activities_list or page.amenities or page.amenities_groups %}{% assign has_daily = true %}{% endif %}
+{%- assign has_services = false %}{% if page.medical_services or page.support_services or page.pets or page.couples or page.min_age or page.transportation %}{% assign has_services = true %}{% endif %}
+{%- assign has_costs = false %}{% if page.pricing or page.availability_status %}{% assign has_costs = true %}{% endif %}
+<nav class="profile-nav" aria-label="Jump to a section of this profile">
+  <span class="pn-label">Jump to</span>
+  <ul>
+    <li><a href="#care-h">Care levels</a></li>
+    {%- if has_services %}<li><a href="#life-h">Health &amp; services</a></li>{% endif %}
+    {%- if has_daily %}<li><a href="#daily-h">Daily life</a></li>{% endif %}
+    {%- if page.photos and page.photos.size > 0 %}<li><a href="#gallery">Photos</a></li>{% endif %}
+    {%- if floor_anchor %}<li><a href="#{{ floor_anchor }}">Floor plans</a></li>{% endif %}
+    {%- if has_costs %}<li><a href="#pricing-h">Costs</a></li>{% endif %}
+    {%- if page.team_url %}<li><a href="#team-h">Our team</a></li>{% endif %}
+    {%- if page.concern_response %}<li><a href="#response-h">How we handle concerns</a></li>{% endif %}
+    <li><a href="#ratings-h">The record &amp; reviews</a></li>
+    <li><a href="#contact-h">Contact</a></li>
+  </ul>
+</nav>
+{%- endif %}

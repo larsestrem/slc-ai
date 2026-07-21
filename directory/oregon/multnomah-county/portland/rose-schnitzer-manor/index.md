@@ -25,7 +25,7 @@ verified_date: "2026-07-14"
 description_full: "A residential care and assisted living community on the Cedar Sinai Park campus in southwest Portland, rooted in Jewish tradition and open to residents of all faiths. It offers apartments, kosher dining, and a full activities program adjacent to the campus's skilled nursing center."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/portland/rose-schnitzer-manor-97221"}]
 reviews_search_url: "https://www.google.com/search?q=Rose+Schnitzer+Manor+Portland+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M080"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/70M080"
 license_id: "70M080"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

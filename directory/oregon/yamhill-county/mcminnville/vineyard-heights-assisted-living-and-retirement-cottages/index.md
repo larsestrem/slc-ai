@@ -19,11 +19,11 @@ website: "https://compass-living.com/community/vineyard-heights-assisted-living/
 care_levels: ["independent-living", "assisted-living"]
 facility_size: "large"
 capacity: 97
-sources: ["https://carelistings.com/assisted-living-homes/mcminnville-or/vineyard-heights-assisted-living-and-retirement-cottages/5acd0268a71d8c15cf6931a8", "https://www.compass-living.com/community/vineyard-heights-assisted-living/", "https://ltclicensing.oregon.gov/Facilities/Details/70A267"]
+sources: ["https://carelistings.com/assisted-living-homes/mcminnville-or/vineyard-heights-assisted-living-and-retirement-cottages/5acd0268a71d8c15cf6931a8", "https://www.compass-living.com/community/vineyard-heights-assisted-living/", "https://ltclicensing.oregon.gov/Providers/Details/70A267"]
 verified_date: "2026-07-14"
 description_full: "An assisted living and independent living community in McMinnville wine country with 81 assisted living apartments and 16 retirement cottages, two miles from historic downtown."
 reviews_search_url: "https://www.google.com/search?q=Vineyard+Heights+Assisted+Living+and+Retirement+Cottages+McMinnville+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A267"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/70A267"
 license_id: "70A267"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

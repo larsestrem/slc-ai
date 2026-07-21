@@ -25,7 +25,7 @@ verified_date: "2026-07-14"
 description_full: "Crystal Terrace of Klamath Falls brings independent living and assisted living together on a 22-acre mountainside campus, with studio, one-bedroom, and two-bedroom apartments plus independent living cottages. Short-term respite stays are also offered. The community is managed by MBK Senior Living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/crystal-terrace-of-klamath-falls-60277"}, {"name": "Seniorly", "url": "https://www.seniorly.com/assisted-living/oregon/klamath-falls/crystal-terrace-of-klamath-falls"}]
 reviews_search_url: "https://www.google.com/search?q=Crystal+Terrace+of+Klamath+Falls+Klamath+Falls+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/50R292"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/50R292"
 license_id: "50R292"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

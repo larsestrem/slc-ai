@@ -25,7 +25,7 @@ verified_date: "2026-07-14"
 description_full: "A Leisure Care independent living, assisted living, and memory care community in the Reed's Crossing neighborhood of Hillsboro. A newer resort-style campus, it was named a 2026 U.S. News Best Senior Living community for independent living and memory care."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/the-ackerly-at-reeds-crossing-168152394386829"}]
 reviews_search_url: "https://www.google.com/search?q=The+Ackerly+at+Reed%27s+Crossing+Hillsboro+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A347"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/70A347"
 license_id: "70A347"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -22,7 +22,7 @@ sources: ["https://www.holladayparkplaza.org/", "https://www.carechanges.com/liv
 verified_date: "2026-07-14"
 description_full: "Holladay Park Plaza is a nonprofit continuing care retirement community in Portland's Lloyd District, affiliated with Pacific Retirement Services. It offers independent living across more than 30 floor plans in three buildings, plus residential (assisted) living, memory care, and on-site skilled nursing. Residents are steps from the MAX light rail, Lloyd Center, and downtown Portland."
 reviews_search_url: "https://www.google.com/search?q=Holladay+Park+Plaza+Portland+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/50R230"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/50R230"
 license_id: "50R230"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -27,6 +27,6 @@ verified_date: "2026-07-14"
 records_note: true
 description_full: "Hearthstone Nursing and Rehabilitation Center is an 87-bed Medicare- and Medicaid-certified skilled nursing facility in Medford offering short-term rehabilitation and long-term nursing care. It is operated by Volare Health."
 reviews_search_url: "https://www.google.com/search?q=Hearthstone+Nursing+and+Rehabilitation+Center+Medford+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385091"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/385091"
 license_id: "385091"
 ---

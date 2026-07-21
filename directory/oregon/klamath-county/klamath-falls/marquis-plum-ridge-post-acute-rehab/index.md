@@ -21,10 +21,10 @@ facility_size: "large"
 organization: "marquis-companies"
 organization_name: "Marquis Companies"
 cms_ccn: "385137"
-sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-plum-ridge-385137", "https://www.marquiscompanies.com/cna-class/marquis-plum-ridge-in-klamath-falls/", "https://ltclicensing.oregon.gov/Facilities/Details/385137"]
+sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-plum-ridge-385137", "https://www.marquiscompanies.com/cna-class/marquis-plum-ridge-in-klamath-falls/", "https://ltclicensing.oregon.gov/Providers/Details/385137"]
 verified_date: "2026-07-14"
 description_full: "Marquis Plum Ridge Post Acute Rehab is a skilled nursing facility in Klamath Falls providing post-acute rehabilitation and long-term care. It is operated by Marquis Companies, a Milwaukie, Oregon-based post-acute care operator."
 reviews_search_url: "https://www.google.com/search?q=Marquis+Plum+Ridge+Post+Acute+Rehab+Klamath+Falls+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385137"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/385137"
 license_id: "385137"
 ---

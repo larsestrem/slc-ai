@@ -19,12 +19,12 @@ website: "https://cornell-estates.com"
 care_levels: ["independent-living", "assisted-living"]
 facility_size: "large"
 capacity: 75
-sources: ["https://www.aplaceformom.com/community/cornell-estates-59801", "https://cornell-estates.com/", "https://ltclicensing.oregon.gov/Facilities/Details/70M015"]
+sources: ["https://www.aplaceformom.com/community/cornell-estates-59801", "https://cornell-estates.com/", "https://ltclicensing.oregon.gov/Providers/Details/70M015"]
 verified_date: "2026-07-14"
 description_full: "A retirement and assisted living residence in central Hillsboro with 75 licensed assisted living beds that also accepts Medicaid."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cornell-estates-59801"}]
 reviews_search_url: "https://www.google.com/search?q=Cornell+Estates+Retirement+and+Assisted+Living+Hillsboro+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M015"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/70M015"
 license_id: "70M015"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

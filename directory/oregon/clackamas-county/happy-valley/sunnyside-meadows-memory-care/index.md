@@ -21,12 +21,12 @@ facility_size: "large"
 capacity: 72
 organization: "ohana-ventures"
 organization_name: "Ohana Ventures"
-sources: ["https://www.sunnysidemeadows.com/", "https://ltclicensing.oregon.gov/Facilities/Details/50R443", "https://www.aplaceformom.com/community/sunnyside-meadows-memory-care-1393470"]
+sources: ["https://www.sunnysidemeadows.com/", "https://ltclicensing.oregon.gov/Providers/Details/50R443", "https://www.aplaceformom.com/community/sunnyside-meadows-memory-care-1393470"]
 verified_date: "2026-07-14"
 description_full: "Sunnyside Meadows Memory Care is a 72-bed memory care community in Happy Valley for residents with Alzheimer's disease and dementia, currently operated as part of Ohana Ventures."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/sunnyside-meadows-memory-care-1393470"}]
 reviews_search_url: "https://www.google.com/search?q=Sunnyside+Meadows+Memory+Care+Happy+Valley+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/50R443"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/50R443"
 license_id: "50R443"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

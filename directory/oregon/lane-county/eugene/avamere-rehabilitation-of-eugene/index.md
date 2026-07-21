@@ -27,6 +27,6 @@ records_note: true
 verified_date: "2026-07-14"
 description_full: "Avamere Rehabilitation of Eugene is a 92-bed skilled nursing and rehabilitation facility in Eugene. CMS closely monitored the facility for a period between 2024 and 2025 due to a documented pattern of care concerns."
 reviews_search_url: "https://www.google.com/search?q=Avamere+Rehabilitation+of+Eugene+Eugene+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385053"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/385053"
 license_id: "385053"
 ---

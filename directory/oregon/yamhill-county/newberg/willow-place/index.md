@@ -22,7 +22,7 @@ verified_date: "2026-07-14"
 description_full: "Willow Place is a memory care community in Newberg serving seniors with Alzheimer's disease and other dementias, with 24-hour care overseen by licensed nurses. Originally opened as Huffman House in 1991, it is co-owned and managed by Concepts in Community Living and has also been operated in association with Prestige."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/newberg/willow-place-97132"}]
 reviews_search_url: "https://www.google.com/search?q=Willow+Place+Newberg+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M043"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/70M043"
 license_id: "70M043"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -25,7 +25,7 @@ sources: ["https://www.thespringsliving.com/senior-living/hillsboro/oregon/tanas
 verified_date: "2026-07-14"
 description_full: "The Springs at Tanasbourne is a senior living community in Hillsboro's Tanasbourne district with a resident capacity of about 230, offering independent living, assisted living, and memory care. Opened in 2009, the community features restaurant-style dining with chef-prepared meals and a dedicated memory care program for residents with Alzheimer's and other dementias. It sits near the Streets of Tanasbourne shopping center and Kaiser Westside Medical Center."
 reviews_search_url: "https://www.google.com/search?q=The+Springs+at+Tanasbourne+Hillsboro+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M313"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/70M313"
 license_id: "70M313"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

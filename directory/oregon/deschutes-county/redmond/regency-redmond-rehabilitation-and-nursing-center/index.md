@@ -26,6 +26,6 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/or/regency-redmond-
 verified_date: "2026-07-14"
 description_full: "Regency Redmond is a Medicare- and Medicaid-certified skilled nursing and rehabilitation center with 50 certified beds, operating since 1992. It is operated by Regency Pacific Management."
 reviews_search_url: "https://www.google.com/search?q=Regency+Redmond+Rehabilitation+and+Nursing+Center+Redmond+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385230"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/385230"
 license_id: "385230"
 ---

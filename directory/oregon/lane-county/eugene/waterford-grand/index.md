@@ -20,12 +20,12 @@ care_levels: ["assisted-living", "memory-care", "respite-care"]
 facility_size: "large"
 organization: "cascade-living-group"
 organization_name: "Cascade Living Group"
-sources: ["https://www.aplaceformom.com/community/waterford-grand-1376064", "https://www.cascadeliving.com/community/waterford-grand/", "https://ltclicensing.oregon.gov/Facilities/Details/50R411"]
+sources: ["https://www.aplaceformom.com/community/waterford-grand-1376064", "https://www.cascadeliving.com/community/waterford-grand/", "https://ltclicensing.oregon.gov/Providers/Details/50R411"]
 verified_date: "2026-07-14"
 description_full: "An assisted living and memory care community beside the Willamette River in Eugene with a gym, pool, and salon."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/waterford-grand-1376064"}]
 reviews_search_url: "https://www.google.com/search?q=Waterford+Grand+Eugene+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A233"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/70A233"
 license_id: "70A233"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

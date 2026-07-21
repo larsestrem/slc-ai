@@ -22,7 +22,7 @@ sources: ["https://mennonitevillage.org/", "https://findcontinuingcare.com/commu
 verified_date: "2026-07-14"
 description_full: "Mennonite Village is a not-for-profit continuing care retirement community on a 275-acre campus in Albany, serving Oregon families for about 75 years with roughly 700 residents. The full continuum of care includes independent living homes and apartments, assisted living, memory care, rehabilitation, and Medicare-certified skilled nursing on one campus."
 reviews_search_url: "https://www.google.com/search?q=Mennonite+Village+Albany+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385206"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/385206"
 license_id: "385206"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

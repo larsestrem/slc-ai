@@ -22,11 +22,11 @@ capacity: 80
 organization: "avamere"
 organization_name: "Avamere"
 cms_ccn: "385234"
-sources: ["https://health.usnews.com/best-nursing-homes/area/or/salem-transitional-care-385234", "https://www.avamere.com/salem-transitional-care/rehabilitation", "https://ltclicensing.oregon.gov/Facilities/Details/385234"]
+sources: ["https://health.usnews.com/best-nursing-homes/area/or/salem-transitional-care-385234", "https://www.avamere.com/salem-transitional-care/rehabilitation", "https://ltclicensing.oregon.gov/Providers/Details/385234"]
 records_note: true
 verified_date: "2026-07-14"
 description_full: "Salem Transitional Care is an 80-bed Medicare- and Medicaid-certified skilled nursing facility in southeast Salem focused on post-acute rehabilitation."
 reviews_search_url: "https://www.google.com/search?q=Salem+Transitional+Care+Salem+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385234"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/385234"
 license_id: "385234"
 ---

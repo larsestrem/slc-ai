@@ -25,7 +25,7 @@ verified_date: "2026-07-14"
 description_full: "Prairie House is the primary assisted living and memory care community serving La Pine and southern Deschutes County. The community offers award-winning memory care programming alongside assisted living, with staff on site 24 hours a day. It is operated by Prestige Care of Vancouver, Washington."
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/prairie-house-assisted-living-and-memory-care-la-pine"}]
 reviews_search_url: "https://www.google.com/search?q=Prairie+House+Assisted+Living+and+Memory+Care+La+Pine+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70M221"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/70M221"
 license_id: "70M221"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

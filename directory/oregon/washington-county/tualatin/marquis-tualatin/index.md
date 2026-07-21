@@ -26,6 +26,6 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-tualatin
 verified_date: "2026-07-14"
 description_full: "Marquis Tualatin Post Acute Rehab is a 54-bed Medicare- and Medicaid-certified skilled nursing facility providing post-hospital rehabilitation and long-term care in Tualatin. A Marquis assisted living community operates on the same Boones Ferry Road campus."
 reviews_search_url: "https://www.google.com/search?q=Marquis+Tualatin+Tualatin+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/38L300"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/38L300"
 license_id: "38L300"
 ---

@@ -21,12 +21,12 @@ facility_size: "medium"
 capacity: 52
 organization: "onelife-senior-living"
 organization_name: "Onelife Senior Living"
-sources: ["https://www.aplaceformom.com/community/battle-creek-memory-care-1437661", "https://www.onelifeseniorliving.com/blog/battle-creek-memory-care-businessrate-best-of-2026", "https://ltclicensing.oregon.gov/Facilities/Details/50R480"]
+sources: ["https://www.aplaceformom.com/community/battle-creek-memory-care-1437661", "https://www.onelifeseniorliving.com/blog/battle-creek-memory-care-businessrate-best-of-2026", "https://ltclicensing.oregon.gov/Providers/Details/50R480"]
 verified_date: "2026-07-14"
 description_full: "A 52-bed memory care community in south Salem organized into four small neighborhoods, each with its own dining, living, and activity areas."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/battle-creek-memory-care-1437661"}]
 reviews_search_url: "https://www.google.com/search?q=Battle+Creek+Memory+Care+Salem+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/50R480"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/50R480"
 license_id: "50R480"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

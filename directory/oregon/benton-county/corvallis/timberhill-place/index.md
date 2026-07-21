@@ -23,7 +23,7 @@ verified_date: "2026-07-14"
 description_full: "Timberhill Place is a privately owned assisted living community in north Corvallis with 60 apartments, within walking distance of grocery stores, clinics, restaurants, and the Osborn Aquatic Center."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/timberhill-place-60047"}]
 reviews_search_url: "https://www.google.com/search?q=Timberhill+Place+Corvallis+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A097"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/70A097"
 license_id: "70A097"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

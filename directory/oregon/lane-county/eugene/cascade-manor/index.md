@@ -24,7 +24,7 @@ verified_date: "2026-07-14"
 description_full: "Cascade Manor is Eugene's only accredited continuing care retirement community, offering independent living, assisted living, and skilled nursing on a single campus. It is affiliated with Pacific Retirement Services, a Medford-based nonprofit senior living organization, and lets residents move between levels of care as their needs change."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cascade-manor-ccrc-60130"}]
 reviews_search_url: "https://www.google.com/search?q=Cascade+Manor+Eugene+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/38L756"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/38L756"
 license_id: "38L756"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

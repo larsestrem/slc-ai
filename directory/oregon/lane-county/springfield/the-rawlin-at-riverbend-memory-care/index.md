@@ -26,7 +26,7 @@ verified_date: "2026-07-14"
 description_full: "The Rawlin at Riverbend Memory Care is a 72-bed memory care community in Springfield serving residents with Alzheimer's disease and other forms of dementia, open 24 hours with on-site nursing oversight."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-rawlin-at-riverbend-memory-care-1402203"}]
 reviews_search_url: "https://www.google.com/search?q=The+Rawlin+at+Riverbend+Memory+Care+Springfield+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/50R445"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/50R445"
 license_id: "50R445"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

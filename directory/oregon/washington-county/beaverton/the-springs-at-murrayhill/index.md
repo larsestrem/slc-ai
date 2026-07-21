@@ -25,7 +25,7 @@ verified_date: "2026-07-14"
 description_full: "The Springs at Murrayhill, formerly Hearthstone at Murrayhill, is a senior living community in Beaverton's Murrayhill neighborhood serving more than 200 residents across independent living, assisted living, and memory care. The Springs Living acquired the long-running Hearthstone community and operates it alongside its other Portland-metro campuses."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/beaverton/hearthstone-at-murrayhill-97008"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-springs-at-murrayhill-95384"}]
 reviews_search_url: "https://www.google.com/search?q=The+Springs+at+Murrayhill+Beaverton+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/70A273"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/70A273"
 license_id: "70A273"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

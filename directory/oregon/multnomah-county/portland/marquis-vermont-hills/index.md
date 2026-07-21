@@ -26,6 +26,6 @@ sources: ["https://health.usnews.com/best-nursing-homes/area/or/marquis-vermont-
 verified_date: "2026-07-14"
 description_full: "A 73-bed skilled nursing and post-acute rehabilitation center in southwest Portland operated by Marquis Companies. Services include rehabilitation therapy, wound care, and long-term nursing."
 reviews_search_url: "https://www.google.com/search?q=Marquis+Vermont+Hills+Portland+OR+reviews"
-records_url: "https://ltclicensing.oregon.gov/Facilities/Details/385218"
+records_url: "https://ltclicensing.oregon.gov/Providers/Details/385218"
 license_id: "385218"
 ---

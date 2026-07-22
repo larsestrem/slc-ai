@@ -16,10 +16,15 @@ account, without being tracked by us, and without telling us anything.
 
 ## What we collect
 
-**No profiles or ad tracking, for browsing.** There is no account system, no newsletter, no
+{% if site.google_analytics and site.google_analytics != "" %}**No ad tracking, no profiles sold.** There is no account system, no newsletter, and no login.
+We do use Google Analytics to understand which pages help families and where the site falls
+short - it collects standard, aggregated usage data (pages viewed, general location, device type)
+with your IP address anonymized, and we never use it to build advertising profiles or sell your
+data. See "Service providers we rely on" below. Our hosting, security, and network providers may
+also process technical data needed to deliver and protect the site.{% else %}**No profiles or ad tracking, for browsing.** There is no account system, no newsletter, no
 login, and we do not intentionally build browsing profiles or run advertising analytics. Our
 hosting, security, and network providers may process technical data needed to deliver and
-protect the site (see below). Our cost calculator and worksheets run entirely in your browser -
+protect the site (see below).{% endif %} Our cost calculator and worksheets run entirely in your browser -
 nothing you type into them is sent to us or anyone else. To make them useful across visits, your
 entries are stored in your browser's local storage on your own device; they never reach us,
 clearing your browser data removes them, and each worksheet has a "Clear saved answers" button.
@@ -57,9 +62,11 @@ We keep the list of third parties short and name them so you know who can proces
 - **Cloudflare** - hosting and content delivery. Processes technical request data (including IP
   address) to serve and protect the Site.
 - **FormSubmit** - forwards questionnaire and correction submissions to our private email.
-- **Email provider** - receives and stores the messages and submissions you send us.
+- **Email provider** - receives and stores the messages and submissions you send us.{% if site.google_analytics and site.google_analytics != "" %}
+- **Google Analytics** - measures aggregated site usage (pages viewed, general location, device
+  type) so we can improve the site. IP addresses are anonymized; we do not use it for advertising.{% endif %}
 
-We do not use advertising networks, analytics trackers, or data brokers. If this list changes,
+We do not use advertising networks{% if site.google_analytics and site.google_analytics != "" %} or data brokers, and the only analytics we use is the privacy-limited Google Analytics named above{% else %}, analytics trackers, or data brokers{% endif %}. If this list changes,
 we will update this page. For a privacy request, email
 **listings@senior.living.community**.
 

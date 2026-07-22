@@ -10,6 +10,13 @@
 noindex_site: true
 # ==========================================================================
 
+# Google Analytics 4. Paste the Measurement ID (looks like G-XXXXXXXXXX) from
+# Admin > Data streams > your web stream. The numeric GA4 "Property ID" is NOT
+# used here. Leave empty to run NO analytics at all - the tracker and the
+# privacy-policy disclosure both switch on and off with this one value, so they
+# can never disagree. (GA4 property for reference: 374489874)
+google_analytics: ""
+
 title: Senior Living Community
 tagline: An independent guide to evaluating and choosing the right senior care for your loved one
 description: >-

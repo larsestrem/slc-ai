@@ -1,0 +1,16 @@
+{%- comment -%}
+Google Analytics 4. Renders ONLY when site.google_analytics holds a Measurement
+ID (G-XXXXXXXXXX). Empty value = no tracker, no cookies, nothing loaded. Keep
+this in sync with the privacy-policy disclosure in privacy/index.md, which is
+gated on the same config value. GA4 anonymizes IP addresses by default.
+{%- endcomment -%}
+{%- assign ga = site.google_analytics | strip -%}
+{%- if ga != "" -%}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ ga }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ ga }}');
+</script>
+{%- endif -%}

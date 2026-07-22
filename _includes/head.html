@@ -28,3 +28,4 @@ one page's rules never ship to every other page. {%- endcomment -%}
 {%- if page.css_post -%}
 <style>{% capture c %}{% include css/post.css %}{% endcapture %}{{ c }}</style>
 {%- endif -%}
+{% include analytics.html %}

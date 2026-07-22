@@ -112,6 +112,15 @@ The Site is written for adults researching senior care and is not directed to ch
 do not knowingly collect information from anyone under 16; if you believe a child sent us
 information, contact us and we will delete it.
 
+## United States only
+
+This Site is intended for residents of the United States. We list and describe senior living
+communities located in the United States only, and everything here is directed to a US audience.
+We do not target, market to, or knowingly collect personal information from individuals in the
+European Union, the United Kingdom, or other regions with their own data-protection regimes, and
+the Site is not intended for use outside the United States. If you are accessing the Site from
+elsewhere, please do not submit personal information through it.
+
 ## Third-party sites
 
 Links on the Site - government databases, review platforms, community websites - lead to

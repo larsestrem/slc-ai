@@ -13,7 +13,9 @@ never single out communities and never say what any record contains.
   <h2 id="ratings-h">Ratings &amp; official records</h2>
   <p>We don't publish a star rating or numeric score for {{ page.title }} ourselves - ratings
   change, and a wrong number here would be worse than none. Instead, here's exactly where to find
-  the real ones, straight from the source.</p>
+  the real ones, straight from the source - and
+  <a href="/guides/reading-inspection-reports-and-ratings/"><strong>how to read an inspection
+  record and judge how a community responds</strong></a> to complaints and violations.</p>
 
   <p class="records-note">Whatever community you're considering, read the official record and
   recent family reviews below carefully and in full before you decide. We don't summarize or
@@ -24,7 +26,23 @@ never single out communities and never say what any record contains.
   independent, and familiar with local communities - and with the community itself:
   <a href="/guides/why-good-communities-get-complaints/">how they respond tells you a lot</a>.</p>
 
-  {%- if page.cms_ccn %}
+  {%- if page.state_records %}
+  <div class="rating-card">
+    <div class="rating-body">
+      <h3>Official records for this campus</h3>
+      <p>{{ page.title }} runs more than one separately licensed building, and each has its own
+      {{ page.licensing.agency | default: page.state_name }} record. Read the one that matches the
+      care your family needs - inspection findings and substantiated violations are filed per
+      license, not per campus.</p>
+      {%- for r in page.state_records %}
+      <p><a class="btn-link" href="{{ r.url }}" rel="noopener">{{ r.label }}: inspections &amp; violations at the {{ page.state_name }} licensing site &rarr;</a>
+      {%- if r.cms_ccn %}<br><a class="btn-link" href="https://www.medicare.gov/care-compare/details/nursing-home/{{ r.cms_ccn }}" rel="noopener">{{ r.label }}: Medicare Care Compare rating &rarr;</a>{% endif %}</p>
+      {%- endfor %}
+      {%- if page.campus_note %}<p class="muted">{{ page.campus_note }}</p>{% endif %}
+      <p class="cms-currency"><a href="/guides/checking-complaints-and-state-records/">How to read the state record fairly</a></p>
+    </div>
+  </div>
+  {%- elsif page.cms_ccn %}
   <div class="rating-card">
     <div class="rating-body">
       <h3>Medicare Five-Star Quality Rating</h3>
@@ -71,6 +89,7 @@ never single out communities and never say what any record contains.
       {%- elsif page.licensing %}
       <p><a class="btn-link" href="{{ page.licensing.lookup_url }}" rel="noopener">Look up {{ page.title }} at the {{ page.licensing.agency }}{% if page.license_id %} (license&nbsp;{{ page.license_id }}){% endif %} &rarr;</a></p>
       {%- endif %}
+      {%- if page.campus_note %}<p class="muted">{{ page.campus_note }}</p>{% endif %}
       <p class="cms-currency"><a href="/guides/checking-complaints-and-state-records/">How to read the state record fairly</a></p>
     </div>
   </div>

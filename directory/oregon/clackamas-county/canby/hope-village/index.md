@@ -25,4 +25,5 @@ description_full: "Hope Village is a faith-based, not-for-profit retirement comm
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/hope-village-canby"}, {"name": "Birdeye", "url": "https://reviews.birdeye.com/hope-village-senior-living-community-168154464620059"}]
 reviews_search_url: "https://www.google.com/search?q=Hope+Village+Canby+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+campus_note: 'Independent living is not state-licensed, so it has no inspection record of its own. The assisted living, memory care, and skilled nursing on this shared campus are operated by Marquis - see <a href="/directory/oregon/clackamas-county/canby/marquis-hope-village/">Marquis Hope Village</a> for each building''s official Oregon record.'
 ---

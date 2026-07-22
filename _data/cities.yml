@@ -1,0 +1,24 @@
+# Hand-written city landing content, keyed "state-slug/city-slug". Optional:
+# the city layout falls back to the data-driven summary (count + care-level mix
+# + facility list) when a city has no entry here. Keep intros factual and
+# specific - no invented "charming town" filler. nearby: curated links to other
+# city pages families might also consider (verify each URL exists).
+
+oregon/canby:
+  intro: >-
+    Canby sits in Clackamas County along the Willamette River, on the southern
+    edge of the Portland metro area. For families, that location is a practical
+    advantage: it keeps residents within reach of Portland-area hospitals and
+    specialists while offering a quieter, generally more affordable setting than
+    the city itself. Most of Canby's senior care is concentrated on the Hope
+    Village campus, which brings independent living, assisted living, memory
+    care, and skilled nursing together in one place.
+  nearby:
+    - name: Oregon City
+      url: /directory/oregon/clackamas-county/oregon-city/
+    - name: Wilsonville
+      url: /directory/oregon/clackamas-county/wilsonville/
+    - name: Milwaukie
+      url: /directory/oregon/clackamas-county/milwaukie/
+    - name: Happy Valley
+      url: /directory/oregon/clackamas-county/happy-valley/

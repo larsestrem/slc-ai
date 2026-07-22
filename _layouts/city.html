@@ -1,17 +1,39 @@
 ---
 layout: default
 ---
-<h1>Senior Living in {{ page.city_name }}, {{ page.state_abbrev }}</h1>
-<p class="lead">{{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in {{ page.city_name }}, {{ page.county_name }} County, {{ page.state_name }}.</p>
+{%- comment %} Derive the state and city slugs from the URL to look up optional
+hand-written city content in _data/cities.yml (keyed "state/city"). The facility
+list and the care-level mix below are data-driven and unique per city; the intro
+and nearby-cities are curated where we've written them. {% endcomment %}
+{%- assign parts = page.url | split: '/' %}
+{%- assign ckey = parts[2] | append: '/' | append: parts[4] %}
+{%- assign cinfo = site.data.cities[ckey] %}
+{%- assign lv_acc = "" %}
+{%- for f in page.facilities %}{% for lv in f.care_levels %}{% unless lv_acc contains lv %}{% assign lv_acc = lv_acc | append: lv | append: "," %}{% endunless %}{% endfor %}{% endfor %}
+{%- assign lv_slugs = lv_acc | split: "," %}
+{%- assign lv_labels = "" %}
+{%- for s in lv_slugs %}{% assign info = site.data.care_levels[s] %}{% if info %}{% assign lv_labels = lv_labels | append: info.label | append: "|" %}{% endif %}{% endfor %}
+{%- assign lv_list = lv_labels | split: "|" %}
+
+<h1>Senior Living Communities in {{ page.city_name }}, {{ page.state_abbrev }}</h1>
+<p class="lead">{{ page.facility_count }} senior living {% if page.facility_count == 1 %}community{% else %}communities{% endif %} in {{ page.city_name }}, {{ page.county_name }} County, {{ page.state_name }}{% if lv_list.size > 0 %} - offering {{ lv_list | join: ", " }}{% endif %}.</p>
+
+{%- if cinfo.intro %}
+<section class="prose"><p>{{ cinfo.intro }}</p></section>
+{%- endif %}
+
+<p class="notice" style="margin-top:0">New to this? Start with our step-by-step guide to
+<a href="/guides/how-to-choose-a-senior-care-facility/">how to choose a senior care facility</a>,
+and see <a href="/guides/levels-of-care-explained/">what each level of care means</a>.</p>
 
 {{ content }}
 
+<h2>Communities in {{ page.city_name }}</h2>
 <ul class="grid">
   {%- for f in page.facilities %}
   {% include facility-card.html facility=f %}
   {%- endfor %}
 </ul>
-
 
 <section class="prose">
   <h2>Comparing communities in {{ page.city_name }}</h2>
@@ -21,3 +43,21 @@ layout: default
   <a href="/guides/whats-not-included-hidden-fees/">what's not included in the monthly rate</a>
   explains how to compare true costs, not sticker prices.</p>
 </section>
+
+{%- if cinfo.nearby and cinfo.nearby.size > 0 %}
+<section class="prose">
+  <h2>Nearby cities to consider</h2>
+  <p>If you're open to a wider search, these nearby areas are worth a look too:</p>
+  <ul class="nearby-cities">
+    {%- for n in cinfo.nearby %}
+    <li><a href="{{ n.url }}">Senior living in {{ n.name }}, {{ page.state_abbrev }}</a></li>
+    {%- endfor %}
+  </ul>
+</section>
+{%- endif %}
+
+<p class="notice"><a href="{{ page.crumbs[2].url }}">&larr; All {{ page.county_name }} County senior living</a> · <a href="{{ page.crumbs[1].url }}">All {{ page.state_name }} communities</a></p>
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ItemList","name":{{ page.title | jsonify }},"numberOfItems":{{ page.facility_count }},"itemListElement":[{%- for f in page.facilities %}{"@type":"ListItem","position":{{ forloop.index }},"url":"{{ f.url | absolute_url }}","name":{{ f.name | jsonify }}}{% unless forloop.last %},{% endunless %}{%- endfor %}]}
+</script>

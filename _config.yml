@@ -55,6 +55,7 @@ exclude:
   - data/
   - docs/
   - vendor/
+  - functions/   # Cloudflare Pages Function (edge auth gate); not part of the static build
 
 defaults:
   - scope:

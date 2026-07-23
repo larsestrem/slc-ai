@@ -21,6 +21,14 @@ While `noindex_site: true` in `_config.yml`:
 5. Submit `sitemap.xml` in Google Search Console and Bing Webmaster Tools.
 6. Spot-check that canonical URLs and Open Graph URLs resolve on the live domain.
 
+## Pre-launch password (separate from indexing)
+
+The site can also be put behind a shared password for private review, enforced at
+the edge by `functions/_middleware.js` and controlled by the `SITE_PASSWORD`
+environment variable in Cloudflare Pages. It is independent of the indexing block.
+At go-live, delete `SITE_PASSWORD` (open the site) in addition to setting
+`noindex_site: false` (allow indexing). Full instructions: `docs/pre-launch-access.md`.
+
 ## Reminder rule for any assistant working on this repo
 
 As soon as the owner shares live `senior.living.community` links or treats the site as

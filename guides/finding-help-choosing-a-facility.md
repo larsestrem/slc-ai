@@ -74,11 +74,11 @@ when a hospital discharge gives you 48 hours to decide.
 commission when you buy, a placement specialist only earns when your parent moves into a
 community that pays them - so the best ones are transparent about who's in their network and
 still put your fit first, and the mediocre ones steer. That's why we
-[explain the business model in full](/guides/placement-professionals/) and why our
-[placement professionals directory](/placement-professionals/) only lists advisors who pass a
-published 10-point vetting standard - including putting their conflict-of-interest answers on
-the listing itself. Prefer local advisors who tour with you in person over national
-call-center services that never leave the phone.
+[explain the business model in full](/guides/placement-professionals/) and give you a
+[checklist for finding and vetting an advisor yourself](/placement-professionals/). We don't list,
+rank, or endorse specific advisors and we take no referral fees, so nothing here steers you toward
+one. Prefer local advisors who tour with you in person over national call-center services that
+never leave the phone.
 
 ## Free and low-cost help alongside (or instead)
 

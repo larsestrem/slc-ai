@@ -39,19 +39,21 @@ Stars are a screening tool, not a verdict. Use them like this:
 
 Also know the limits: surveys are a snapshot of a few days a year, surveyor strictness varies by state (so don't compare stars across state lines), and Care Compare says nothing about food, activities, or kindness. A facility can pass every inspection and still be a joyless place to live.
 
-## Why we list 3-star facilities - and link you straight to the number
+## We list every community - and link you straight to the number
 
-Families kept asking a fair question: where are the good, ordinary, mid-rated communities? So we
-list government-rated nursing homes at **three stars and above** - not just the four- and
-five-star ones. We don't display the rating ourselves (see [why](/guides/how-we-list-communities/) - a wrong number is worse than none), but every profile links you directly to that facility's
-current rating on Medicare Care Compare, along with who assigns it and what it measures.
+We list every community we can verify, whatever its rating: the four- and five-star ones, the
+ordinary three-star middle, and the one- and two-star ones you most need to look at closely. We
+don't screen the directory by star rating, and we don't display a rating ourselves (see
+[why](/guides/how-we-list-communities/) - a wrong or stale number is worse than none). Every
+profile links you directly to that facility's current rating on Medicare Care Compare, along with
+who assigns it and what it measures, so you read the real number and the findings behind it, not
+our summary of them.
 
 A three-star rating means "average," and average is not a warning label - especially once you know
-an honest facility can land there for reporting its incidents faithfully. Read a three-star
-facility the same way you'd read any other: pull its health-inspection sub-rating, read the
-citations in plain English, check staffing and turnover, ask the administrator what changed after
-the last survey, and - most of all - visit. The rating narrows your list; your own eyes decide the
-rest.
+an honest facility can land there for reporting its incidents faithfully. Read any facility the
+same way, whatever its stars: pull its health-inspection sub-rating, read the citations in plain
+English, check staffing and turnover, ask the administrator what changed after the last survey,
+and - most of all - visit. The rating is one input for you to weigh; your own eyes decide the rest.
 
 ## Assisted living: state licensing reports
 

@@ -24,6 +24,24 @@ project - no code change is needed to turn it on or off.
 To change the password later, edit `SITE_PASSWORD` and redeploy. To revoke access
 for everyone, change it.
 
+### Multiple passwords
+
+`SITE_PASSWORD` accepts more than one password, separated by commas or newlines -
+any one of them works. This lets you hand different reviewers different passwords
+and revoke one without disturbing the others. Two forms, and you can mix them:
+
+- **Just passwords** (all use `SITE_USERNAME`): `firstpass, secondpass`
+- **Named logins** (each has its own username, so you can tell groups apart):
+  `advisors:sunflower, family-testers:bluebird`
+
+Example: to add a second password, change `SITE_PASSWORD` from `sunflower` to
+`sunflower, bluebird` and redeploy. To revoke just the second group, remove
+`bluebird` and redeploy; the first password keeps working.
+
+Notes: don't put a comma inside a password (it's the separator); if a password
+needs a colon, use the `username:password` form so the colon after the username
+is the only separator that matters.
+
 ## Turn protection OFF (go live)
 
 Delete the **`SITE_PASSWORD`** variable (or set it to empty) in the same settings

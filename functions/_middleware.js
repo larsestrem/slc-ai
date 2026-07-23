@@ -16,23 +16,42 @@
  * needed - with no password configured, this gate passes every request through.
  *
  * Environment variables (Cloudflare Pages > Settings > Variables and secrets):
- *   SITE_PASSWORD  Shared password. Unset or empty = site is public (go-live).
- *   SITE_USERNAME  Optional shared username. Defaults to "review".
+ *   SITE_PASSWORD  One or more passwords, separated by commas or newlines. Any
+ *                  one of them works. Each entry is either "password" (uses
+ *                  SITE_USERNAME) or "username:password" to give a login its own
+ *                  name (handy for telling reviewer groups apart or revoking one
+ *                  without touching the others). Unset or empty = site is public
+ *                  (go-live). Avoid commas in a password; use the
+ *                  "username:password" form if a password needs a colon.
+ *   SITE_USERNAME  Default username for entries that don't name one. Defaults to
+ *                  "review".
  *
  * See docs/pre-launch-access.md for step-by-step instructions.
  */
 export async function onRequest(context) {
   const { request, env, next } = context;
-  const password = (env.SITE_PASSWORD || "").trim();
+  const raw = (env.SITE_PASSWORD || "").trim();
 
   // No password configured => the site is open. This is the go-live state.
-  if (!password) return next();
+  if (!raw) return next();
 
-  const username = (env.SITE_USERNAME || "review").trim();
-  const expected = "Basic " + btoa(username + ":" + password);
+  const defaultUser = (env.SITE_USERNAME || "review").trim();
+  const expected = raw
+    .split(/[\n,]/)
+    .map((entry) => entry.trim())
+    .filter(Boolean)
+    .map((entry) => {
+      const sep = entry.indexOf(":");
+      const user = sep === -1 ? defaultUser : entry.slice(0, sep).trim();
+      const pass = sep === -1 ? entry : entry.slice(sep + 1);
+      return "Basic " + btoa(user + ":" + pass);
+    });
+
+  // Every entry was blank => treat as no password configured (open).
+  if (expected.length === 0) return next();
+
   const provided = request.headers.get("Authorization") || "";
-
-  if (provided.length === expected.length && provided === expected) {
+  if (expected.some((valid) => valid.length === provided.length && valid === provided)) {
     return next();
   }
 

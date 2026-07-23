@@ -1044,6 +1044,52 @@
       "verified_date": "2026-07-14"
     },
     {
+      "name": "Countryside Living",
+      "slug": "countryside-living",
+      "state": "oregon",
+      "state_name": "Oregon",
+      "state_abbrev": "OR",
+      "county": "clackamas",
+      "county_name": "Clackamas",
+      "city": "canby",
+      "city_name": "Canby",
+      "address": "390 NW 2nd Ave",
+      "zip": "97013",
+      "phone": "(503) 266-3031",
+      "website": "https://countrysidelivingcanby.com/",
+      "care_levels": [
+        "memory-care",
+        "assisted-living",
+        "respite-care"
+      ],
+      "facility_size": "medium",
+      "description": "Countryside Living is a memory care community in Canby, Oregon, serving older adults with Alzheimer's disease and other forms of dementia. It operates two adjacent, separately state-licensed residential care buildings on NW 2nd Avenue: a 35-bed building at 390 NW 2nd Ave and a 20-bed building at 406 NW 2nd Ave. Among the services it lists are memory care, assisted living, and adult day and respite care, the last through its Thelma's Place day respite program. It has operated in Canby since 1999.",
+      "sources": [
+        "https://countrysidelivingcanby.com/",
+        "https://ltclicensing.oregon.gov/Providers/Details/50R283",
+        "https://ltclicensing.oregon.gov/Providers/Details/50R380"
+      ],
+      "review_links": [
+        {
+          "name": "A Place for Mom",
+          "url": "https://www.aplaceformom.com/community/countryside-living-of-canby-137784"
+        },
+        {
+          "name": "Yelp",
+          "url": "https://www.yelp.com/biz/country-side-living-canby-2"
+        },
+        {
+          "name": "Caring.com",
+          "url": "https://www.caring.com/senior-living/oregon/canby/country-side-living-memory-care"
+        },
+        {
+          "name": "Seniorly",
+          "url": "https://www.seniorly.com/assisted-living/oregon/canby/countryside-living-of-canby"
+        }
+      ],
+      "verified_date": "2026-07-21"
+    },
+    {
       "name": "Terwilliger Plaza",
       "slug": "terwilliger-plaza",
       "state": "oregon",

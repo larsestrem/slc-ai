@@ -30,8 +30,10 @@ never single out communities and never say what any record contains.
   <div class="rating-card">
     <div class="rating-body">
       <h3>Official records for this campus</h3>
+      {%- assign block_agency = page.licensing.agency %}
+      {%- unless block_agency %}{% assign block_row = site.data.states | where: 'slug', page.state | first %}{% assign block_agency = block_row.licensing.agency %}{% endunless %}
       <p>{{ page.title }} runs more than one separately licensed building, and each has its own
-      {{ page.licensing.agency | default: page.state_name }} record. Read the one that matches the
+      {{ block_agency | default: page.state_name }} record. Read the one that matches the
       care your family needs - inspection findings and substantiated violations are filed per
       license, not per campus.</p>
       {%- for r in page.state_records %}

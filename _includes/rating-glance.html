@@ -20,7 +20,9 @@ page.campus_note (optional HTML) adds a muted cross-operator note.
 
   <ul class="glance-links">
     {%- if page.state_records %}
-    <li class="glance-head">{{ page.licensing.agency | default: page.state_name }} - official inspections &amp; violations</li>
+    {%- assign glance_agency = page.licensing.agency %}
+    {%- unless glance_agency %}{% assign glance_row = site.data.states | where: 'slug', page.state | first %}{% assign glance_agency = glance_row.licensing.agency %}{% endunless %}
+    <li class="glance-head"><strong>{{ glance_agency | default: page.state_name }}</strong></li>
     {%- for r in page.state_records %}
     <li><a href="{{ r.url }}" rel="noopener">{{ r.label }}: inspections &amp; violations</a>
       {%- if r.cms_ccn %}<br><span class="muted">also on <a href="https://www.medicare.gov/care-compare/details/nursing-home/{{ r.cms_ccn }}" rel="noopener">Medicare Care Compare</a> - federal record &amp; rating</span>{% endif %}</li>

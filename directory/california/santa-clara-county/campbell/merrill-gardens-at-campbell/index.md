@@ -4,7 +4,7 @@ layout: "facility"
 title: "Merrill Gardens at Campbell"
 seo_title: "Merrill Gardens at Campbell - Senior Living in Campbell, CA"
 description: "Senior living community in downtown Campbell offering independent living, assisted living, and memory care. Rated the highest of the senior communities in Cam"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Merrill Gardens at Campbell", "url": "/directory/california/santa-clara-county/campbell/merrill-gardens-at-campbell/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Campbell", "url": "/directory/california/santa-clara-county/campbell/"}]
 nearby: []
 state: "california"
 state_name: "California"

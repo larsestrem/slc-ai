@@ -4,7 +4,7 @@ layout: "facility"
 title: "Alta Vista Senior Living"
 seo_title: "Alta Vista Senior Living - Senior Living in Vista, CA"
 description: "Alta Vista Senior Living offers assisted living and memory care in Vista, with chef-prepared dining, housekeeping, and a pet-friendly campus."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Alta Vista Senior Living", "url": "/directory/california/san-diego-county/vista/alta-vista-senior-living/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Vista", "url": "/directory/california/san-diego-county/vista/"}]
 nearby: []
 state: "california"
 state_name: "California"

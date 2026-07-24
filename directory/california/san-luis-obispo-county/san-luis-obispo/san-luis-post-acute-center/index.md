@@ -4,7 +4,7 @@ layout: "facility"
 title: "San Luis Post Acute Center"
 seo_title: "San Luis Post Acute Center - Senior Living in San Luis Obispo, CA"
 description: "Medicare- and Medicaid-certified skilled nursing facility in San Luis Obispo offering short-term rehabilitation and long-term care. The 162-bed facility is am"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Luis Post Acute Center", "url": "/directory/california/san-luis-obispo-county/san-luis-obispo/san-luis-post-acute-center/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Luis Obispo", "url": "/directory/california/san-luis-obispo-county/san-luis-obispo/"}]
 nearby: []
 state: "california"
 state_name: "California"

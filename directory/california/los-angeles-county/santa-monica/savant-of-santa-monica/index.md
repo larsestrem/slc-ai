@@ -4,7 +4,7 @@ layout: "facility"
 title: "Savant of Santa Monica"
 seo_title: "Savant of Santa Monica - Senior Living in Santa Monica, CA"
 description: "Senior living community on 17th Street in Santa Monica offering independent living, assisted living, memory care, and respite stays."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Savant of Santa Monica", "url": "/directory/california/los-angeles-county/santa-monica/savant-of-santa-monica/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Santa Monica", "url": "/directory/california/los-angeles-county/santa-monica/"}]
 nearby: []
 state: "california"
 state_name: "California"

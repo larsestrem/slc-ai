@@ -4,7 +4,7 @@ layout: "facility"
 title: "Thunderbird Senior Living"
 seo_title: "Thunderbird Senior Living - Senior Living in Glendale, AZ"
 description: "Thunderbird Senior Living is a large retirement community in Glendale offering independent living, assisted living, and memory care."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Thunderbird Senior Living", "url": "/directory/arizona/maricopa-county/glendale/thunderbird-senior-living/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Glendale", "url": "/directory/arizona/maricopa-county/glendale/"}]
 nearby: []
 state: "arizona"
 state_name: "Arizona"

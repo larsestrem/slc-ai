@@ -3,7 +3,7 @@ layout: "facility"
 title: "Pomerelle Place"
 seo_title: "Pomerelle Place - Senior Living in Burley, ID"
 description: "Pomerelle Place is an assisted living community in Burley with 45 studio and one-bedroom apartments, staffed with a full-time nurse and around-the-clock careg"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Pomerelle Place", "url": "/directory/idaho/cassia-county/burley/pomerelle-place/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Burley", "url": "/directory/idaho/cassia-county/burley/"}]
 nearby: []
 state: "idaho"
 state_name: "Idaho"

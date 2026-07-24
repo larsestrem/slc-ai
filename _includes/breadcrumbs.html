@@ -2,8 +2,11 @@
 <nav class="crumbs wrap" aria-label="Breadcrumb">
   <ol>
     <li><a href="/">Home</a></li>
+    {%- comment %}Facility profiles end their trail at the city (the facility itself is
+    dropped to keep the bar short), so every crumb links; other pages keep the last
+    crumb as the non-link current page.{% endcomment %}
     {%- for c in page.crumbs %}
-    <li>{% if forloop.last %}<span aria-current="page">{{ c.name }}</span>{% else %}<a href="{{ c.url }}">{{ c.name }}</a>{% endif %}</li>
+    <li>{% if forloop.last and page.layout != 'facility' %}<span aria-current="page">{{ c.name }}</span>{% else %}<a href="{{ c.url }}">{{ c.name }}</a>{% endif %}</li>
     {%- endfor %}
   </ol>
 </nav>

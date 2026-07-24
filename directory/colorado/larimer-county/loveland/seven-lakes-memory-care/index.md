@@ -4,7 +4,7 @@ layout: "facility"
 title: "Seven Lakes Memory Care"
 seo_title: "Seven Lakes Memory Care - Senior Living in Loveland, CO"
 description: "Seven Lakes Memory Care is a dedicated memory care community on the shore of Horseshoe Lake in north Loveland, serving residents with Alzheimer's disease and "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Seven Lakes Memory Care", "url": "/directory/colorado/larimer-county/loveland/seven-lakes-memory-care/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Loveland", "url": "/directory/colorado/larimer-county/loveland/"}]
 nearby: []
 state: "colorado"
 state_name: "Colorado"

@@ -3,7 +3,7 @@ layout: "facility"
 title: "Marquis Tualatin"
 seo_title: "Marquis Tualatin - Senior Living in Tualatin, OR"
 description: "Marquis Tualatin Post Acute Rehab is a 54-bed Medicare- and Medicaid-certified skilled nursing facility providing post-hospital rehabilitation and long-term c"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Marquis Tualatin", "url": "/directory/oregon/washington-county/tualatin/marquis-tualatin/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Tualatin", "url": "/directory/oregon/washington-county/tualatin/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

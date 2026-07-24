@@ -3,7 +3,7 @@ layout: "facility"
 title: "Olympic Place by Bonaventure"
 seo_title: "Olympic Place by Bonaventure - Senior Living in Arlington, WA"
 description: "Olympic Place by Bonaventure has served Snohomish County seniors since 2004, offering independent living, assisted living, and memory care in a quiet Arlingto"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Olympic Place by Bonaventure", "url": "/directory/washington/snohomish-county/arlington/olympic-place-by-bonaventure/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Arlington", "url": "/directory/washington/snohomish-county/arlington/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

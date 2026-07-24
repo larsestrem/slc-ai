@@ -4,7 +4,7 @@ layout: "facility"
 title: "MorningStar at Golden Ridge"
 seo_title: "MorningStar at Golden Ridge - Senior Living in Peoria, AZ"
 description: "MorningStar at Golden Ridge is a newer senior living campus on 8.8 acres in Peoria, serving the Peoria and Glendale area with independent living, assisted liv"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "MorningStar at Golden Ridge", "url": "/directory/arizona/maricopa-county/peoria/morningstar-at-golden-ridge/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Peoria", "url": "/directory/arizona/maricopa-county/peoria/"}]
 nearby: []
 state: "arizona"
 state_name: "Arizona"

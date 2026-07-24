@@ -3,7 +3,7 @@ layout: "facility"
 title: "Maple Creek of Lakewood"
 seo_title: "Maple Creek of Lakewood - Senior Living in Lakewood, WA"
 description: "Maple Creek of Lakewood (Maple Creek Senior Living) is a 75-bed assisted living facility at 10420 Gravelly Lake Dr SW in Lakewood, licensed by the State of Wa"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Maple Creek of Lakewood", "url": "/directory/washington/pierce-county/lakewood/maple-creek-of-lakewood/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Lakewood", "url": "/directory/washington/pierce-county/lakewood/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

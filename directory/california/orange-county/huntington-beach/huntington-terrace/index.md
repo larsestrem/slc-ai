@@ -4,7 +4,7 @@ layout: "facility"
 title: "Huntington Terrace"
 seo_title: "Huntington Terrace - Senior Living in Huntington Beach, CA"
 description: "Huntington Terrace is an MBK Senior Living community on a 3.5-acre campus in Huntington Beach offering assisted living and memory care. The community has serv"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Huntington Terrace", "url": "/directory/california/orange-county/huntington-beach/huntington-terrace/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Huntington Beach", "url": "/directory/california/orange-county/huntington-beach/"}]
 nearby: [{"name": "Ivy Park at Huntington Beach", "url": "/directory/california/orange-county/huntington-beach/ivy-park-at-huntington-beach/", "city_name": "Huntington Beach", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Assisted living and memory care community on Yorktown Avenue, about two miles from the Huntington Beach shoreline; formerly Sunrise of Huntington Beach and now part of the Ivy Living portfolio."}]
 state: "california"
 state_name: "California"

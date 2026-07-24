@@ -4,7 +4,7 @@ layout: "facility"
 title: "GlenBrook Health Center"
 seo_title: "GlenBrook Health Center - Senior Living in Carlsbad, CA"
 description: "GlenBrook Health Center is a Medicare-certified skilled nursing facility with 94 certified beds on the La Costa Glen campus in Carlsbad, also offering assiste"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "GlenBrook Health Center", "url": "/directory/california/san-diego-county/carlsbad/glenbrook-health-center/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Carlsbad", "url": "/directory/california/san-diego-county/carlsbad/"}]
 nearby: [{"name": "Bayshire Carlsbad", "url": "/directory/california/san-diego-county/carlsbad/bayshire-carlsbad/", "city_name": "Carlsbad", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "records_note": false, "facility_size": "large", "description": "Continuing care retirement community on El Camino Real in Carlsbad combining assisted living, memory care, and a Medicare-certified skilled nursing center with 45 certified beds. Offers short-term rehabilitation and long-term care on the same campus, first Medicare-certified in 1999."}]
 state: "california"
 state_name: "California"

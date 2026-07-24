@@ -4,7 +4,7 @@ layout: "facility"
 title: "Nazareth Rose Garden of Napa"
 seo_title: "Nazareth Rose Garden of Napa - Senior Living in Napa, CA"
 description: "A 44-bed assisted living and memory care community in the city of Napa offering a 24-hour call system, round-the-clock supervision, and help with daily activi"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Nazareth Rose Garden of Napa", "url": "/directory/california/napa-county/napa/nazareth-rose-garden-of-napa/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Napa", "url": "/directory/california/napa-county/napa/"}]
 nearby: [{"name": "The Meadows of Napa Valley", "url": "/directory/california/napa-county/napa/the-meadows-of-napa-valley/", "city_name": "Napa", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "records_note": false, "facility_size": "large", "description": "A nonprofit life plan community in the city of Napa managed by Pacific Retirement Services, offering independent living, assisted living, and skilled nursing on one campus."}]
 state: "california"
 state_name: "California"

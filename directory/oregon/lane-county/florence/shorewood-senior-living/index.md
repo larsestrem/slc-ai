@@ -3,7 +3,7 @@ layout: "facility"
 title: "Shorewood Senior Living"
 seo_title: "Shorewood Senior Living - Senior Living in Florence, OR"
 description: "A 74-apartment independent living community in Florence, a short drive from the Oregon dunes and beaches. Operated by Compass Senior Living of Eugene."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Shorewood Senior Living", "url": "/directory/oregon/lane-county/florence/shorewood-senior-living/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Florence", "url": "/directory/oregon/lane-county/florence/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

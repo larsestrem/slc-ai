@@ -4,7 +4,7 @@ layout: "facility"
 title: "The Peninsula Regent"
 seo_title: "The Peninsula Regent - Senior Living in San Mateo, CA"
 description: "An owner-occupied independent living community for seniors in downtown San Mateo, steps from shops and restaurants on Baldwin Avenue. Residents own their resi"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Peninsula Regent", "url": "/directory/california/san-mateo-county/san-mateo/the-peninsula-regent/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Mateo", "url": "/directory/california/san-mateo-county/san-mateo/"}]
 nearby: []
 state: "california"
 state_name: "California"

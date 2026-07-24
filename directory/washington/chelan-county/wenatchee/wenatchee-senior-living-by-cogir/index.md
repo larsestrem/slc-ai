@@ -3,7 +3,7 @@ layout: "facility"
 title: "Wenatchee Senior Living by Cogir"
 seo_title: "Wenatchee Senior Living by Cogir - Senior Living in Wenatchee, WA"
 description: "Wenatchee Senior Living by Cogir (formerly Avamere at Wenatchee) has welcomed seniors since 1995 and offers independent and assisted living with close-up moun"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Wenatchee Senior Living by Cogir", "url": "/directory/washington/chelan-county/wenatchee/wenatchee-senior-living-by-cogir/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Wenatchee", "url": "/directory/washington/chelan-county/wenatchee/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

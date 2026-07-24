@@ -4,7 +4,7 @@ layout: "facility"
 title: "Savanna House"
 seo_title: "Savanna House - Senior Living in Gilbert, AZ"
 description: "Savanna House is an assisted living and memory care community in Gilbert built around an expansive central courtyard. Amenities include a movie theater, ice c"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Savanna House", "url": "/directory/arizona/maricopa-county/gilbert/savanna-house/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Gilbert", "url": "/directory/arizona/maricopa-county/gilbert/"}]
 nearby: []
 state: "arizona"
 state_name: "Arizona"

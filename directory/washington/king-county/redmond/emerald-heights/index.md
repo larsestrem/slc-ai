@@ -3,7 +3,7 @@ layout: "facility"
 title: "Emerald Heights"
 seo_title: "Emerald Heights - Senior Living in Redmond, WA"
 description: "Emerald Heights is a nonprofit Life Care retirement community on a 38-acre wooded campus in Redmond, the first Life Care community in Western Washington (open"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Emerald Heights", "url": "/directory/washington/king-county/redmond/emerald-heights/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Redmond", "url": "/directory/washington/king-county/redmond/"}]
 nearby: [{"name": "Fairwinds - Redmond", "url": "/directory/washington/king-county/redmond/fairwinds-redmond/", "city_name": "Redmond", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living"], "records_note": false, "description": "Independent and assisted living retirement community on Avondale Road in Redmond, managed by Seattle-based Leisure Care."}, {"name": "Redmond Care and Rehabilitation Center", "url": "/directory/washington/king-county/redmond/redmond-care-and-rehabilitation-center/", "city_name": "Redmond", "state_abbrev": "WA", "care_levels": ["skilled-nursing", "respite-care"], "records_note": false, "facility_size": "large", "description": "A 139-bed skilled nursing and rehabilitation center near Kirkland, part of the Ensign Group, offering short-term rehab and long-term care."}]
 state: "washington"
 state_name: "Washington"

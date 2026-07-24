@@ -3,7 +3,7 @@ layout: "facility"
 title: "Dallas Retirement Village"
 seo_title: "Dallas Retirement Village - Senior Living in Dallas, OR"
 description: "Dallas Retirement Village is a nonprofit continuing care retirement community on a 30-acre campus in Dallas, Oregon, about 15 miles west of Salem, serving sen"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Dallas Retirement Village", "url": "/directory/oregon/polk-county/dallas/dallas-retirement-village/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Dallas", "url": "/directory/oregon/polk-county/dallas/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

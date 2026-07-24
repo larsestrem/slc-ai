@@ -3,7 +3,7 @@ layout: "facility"
 title: "Wheatland Village"
 seo_title: "Wheatland Village - Senior Living in Walla Walla, WA"
 description: "Wheatland Village is a Generations family-operated retirement campus in Walla Walla offering independent living, assisted living, and memory care. The communi"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Wheatland Village", "url": "/directory/washington/walla-walla-county/walla-walla/wheatland-village/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Walla Walla", "url": "/directory/washington/walla-walla-county/walla-walla/"}]
 nearby: [{"name": "Park Manor Rehabilitation Center", "url": "/directory/washington/walla-walla-county/walla-walla/park-manor-rehabilitation-center/", "city_name": "Walla Walla", "state_abbrev": "WA", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Park Manor Rehabilitation Center is a 99-bed Medicare- and Medicaid-certified skilled nursing facility in Walla Walla providing short-term rehabilitation and long-term care."}]
 state: "washington"
 state_name: "Washington"

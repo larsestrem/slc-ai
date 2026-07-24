@@ -4,7 +4,7 @@ layout: "facility"
 title: "Harbor Terrace Retirement Community"
 seo_title: "Harbor Terrace Retirement Community - Senior Living in San Pedro, CA"
 description: "Harbor Terrace Retirement Community offers independent and assisted living in downtown San Pedro near the Port of Los Angeles."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Harbor Terrace Retirement Community", "url": "/directory/california/los-angeles-county/san-pedro/harbor-terrace-retirement-community/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Pedro", "url": "/directory/california/los-angeles-county/san-pedro/"}]
 nearby: []
 state: "california"
 state_name: "California"

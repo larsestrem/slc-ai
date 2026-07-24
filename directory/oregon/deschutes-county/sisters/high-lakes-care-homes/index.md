@@ -3,7 +3,7 @@ layout: "facility"
 title: "High Lakes Care Homes LLC"
 seo_title: "High Lakes Care Homes LLC - Senior Living in Sisters, OR"
 description: "High Lakes Care Homes is a nurse-owned and operated Class 3 adult foster home in Sisters licensed for 5 residents, with an in-house doctor and level 3 (skille"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "High Lakes Care Homes LLC", "url": "/directory/oregon/deschutes-county/sisters/high-lakes-care-homes/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Sisters", "url": "/directory/oregon/deschutes-county/sisters/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

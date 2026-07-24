@@ -4,7 +4,7 @@ layout: "facility"
 title: "Vivante on the Coast"
 seo_title: "Vivante on the Coast - Senior Living in Costa Mesa, CA"
 description: "Resort-style luxury assisted living and memory care community near the Newport Beach border, voted Best Senior Living in Orange County by LA Times readers in "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Vivante on the Coast", "url": "/directory/california/orange-county/costa-mesa/vivante-on-the-coast/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Costa Mesa", "url": "/directory/california/orange-county/costa-mesa/"}]
 nearby: []
 state: "california"
 state_name: "California"

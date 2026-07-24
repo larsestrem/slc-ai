@@ -4,7 +4,7 @@ layout: "facility"
 title: "Carefield Castro Valley Assisted Living and Memory Care"
 seo_title: "Carefield Castro Valley Assisted Living and Memory Care - Senior Living in Castro Valley, CA"
 description: "Assisted living and memory care community in Castro Valley with a dedicated mild-cognitive-focus program bridging assisted living and memory care. Amenities i"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Carefield Castro Valley Assisted Living and Memory Care", "url": "/directory/california/alameda-county/castro-valley/carefield-castro-valley-assisted-living-and-memory-care/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Castro Valley", "url": "/directory/california/alameda-county/castro-valley/"}]
 nearby: []
 state: "california"
 state_name: "California"

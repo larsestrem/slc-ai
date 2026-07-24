@@ -3,7 +3,7 @@ layout: "facility"
 title: "Trustwell Living at Davenport Place"
 seo_title: "Trustwell Living at Davenport Place - Senior Living in Silverton, OR"
 description: "Assisted living community in Silverton, a small Marion County town near Silver Falls State Park, operated by Trustwell Living. It does not offer memory care o"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Trustwell Living at Davenport Place", "url": "/directory/oregon/marion-county/silverton/trustwell-living-at-davenport-place/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Silverton", "url": "/directory/oregon/marion-county/silverton/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

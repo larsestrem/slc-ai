@@ -3,7 +3,7 @@ layout: "facility"
 title: "Guardian Angel Homes Post Falls"
 seo_title: "Guardian Angel Homes Post Falls - Senior Living in Post Falls, ID"
 description: "Guardian Angel Homes Post Falls is a campus of smaller residential-style homes - including the Tudor House, Timber House, The Cottage, and The Craftsman for r"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Guardian Angel Homes Post Falls", "url": "/directory/idaho/kootenai-county/post-falls/guardian-angel-homes-post-falls/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Post Falls", "url": "/directory/idaho/kootenai-county/post-falls/"}]
 nearby: [{"name": "Life Care Center of Post Falls", "url": "/directory/idaho/kootenai-county/post-falls/life-care-center-of-post-falls/", "city_name": "Post Falls", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "A 120-bed skilled nursing and rehabilitation center in Post Falls operated by Life Care Centers of America. Provides short-term rehab and long-term skilled care."}]
 state: "idaho"
 state_name: "Idaho"

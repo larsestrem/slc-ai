@@ -4,7 +4,7 @@ layout: "facility"
 title: "Oakmont of Whittier"
 seo_title: "Oakmont of Whittier - Senior Living in Whittier, CA"
 description: "Resort-style assisted living and memory care community on Whittier Boulevard, licensed for 97 residents (state license 198603479). Amenities include a movie t"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Oakmont of Whittier", "url": "/directory/california/los-angeles-county/whittier/oakmont-of-whittier/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Whittier", "url": "/directory/california/los-angeles-county/whittier/"}]
 nearby: [{"name": "Discovery Commons Whittier", "url": "/directory/california/los-angeles-county/whittier/discovery-commons-whittier/", "city_name": "Whittier", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Assisted living and memory care community on Burgess Avenue in Whittier, formerly known as Whittier Place Senior Living and now operated by Discovery Senior Living."}]
 state: "california"
 state_name: "California"

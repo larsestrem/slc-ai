@@ -4,7 +4,7 @@ layout: "facility"
 title: "Crescendo Senior Living"
 seo_title: "Crescendo Senior Living - Senior Living in Placentia, CA"
 description: "Crescendo Senior Living is an assisted living and memory care community in Placentia, in north Orange County."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Crescendo Senior Living", "url": "/directory/california/orange-county/placentia/crescendo-senior-living/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Placentia", "url": "/directory/california/orange-county/placentia/"}]
 nearby: []
 state: "california"
 state_name: "California"

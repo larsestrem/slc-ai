@@ -3,7 +3,7 @@ layout: "facility"
 title: "Hope Village Independent Living"
 seo_title: "Hope Village Independent Living - Canby, OR"
 description: "Hope Village is a faith-based, not-for-profit retirement community for adults 62 and older on a 56-acre campus in Canby, sponsored by Housing & Outreach Proje"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Hope Village Independent Living", "url": "/directory/oregon/clackamas-county/canby/hope-village/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Canby", "url": "/directory/oregon/clackamas-county/canby/"}]
 nearby: [{"name": "Hope Village", "url": "/directory/oregon/clackamas-county/canby/marquis-hope-village/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["assisted-living", "memory-care", "skilled-nursing"], "records_note": false, "facility_size": "medium", "description": "Marquis Companies' care campus in Canby offering assisted living, memory care, and skilled nursing across two buildings on the Hope Village campus."}, {"name": "Rackleff Place", "url": "/directory/oregon/clackamas-county/canby/rackleff-place/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["assisted-living"], "records_note": false, "facility_size": "medium", "description": "A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette."}]
 state: "oregon"
 state_name: "Oregon"

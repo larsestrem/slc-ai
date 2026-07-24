@@ -4,7 +4,7 @@ layout: "facility"
 title: "Walnut Village"
 seo_title: "Walnut Village - Senior Living in Anaheim, CA"
 description: "Walnut Village is a continuing care retirement community in Anaheim offering independent living, assisted living, memory care and skilled nursing on one campu"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Walnut Village", "url": "/directory/california/orange-county/anaheim/walnut-village/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Anaheim", "url": "/directory/california/orange-county/anaheim/"}]
 nearby: [{"name": "Emerald Court", "url": "/directory/california/orange-county/anaheim/emerald-court/", "city_name": "Anaheim", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Kisco Senior Living community in west Anaheim offering independent living, assisted living, and memory care near Anaheim Medical Center. U.S. News has rated it a Best Senior Living community across all three care levels."}]
 state: "california"
 state_name: "California"

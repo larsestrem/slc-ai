@@ -4,7 +4,7 @@ layout: "facility"
 title: "Hillcrest - A Remarkable Retirement Community"
 seo_title: "Hillcrest - A Remarkable Retirement Community - Senior Living in La Verne, CA"
 description: "Hillcrest (Brethren Hillcrest Homes) is a not-for-profit continuing care retirement community in La Verne with Craftsman-inspired architecture on a large foot"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Hillcrest - A Remarkable Retirement Community", "url": "/directory/california/los-angeles-county/la-verne/hillcrest-a-remarkable-retirement-community/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "La Verne", "url": "/directory/california/los-angeles-county/la-verne/"}]
 nearby: []
 state: "california"
 state_name: "California"

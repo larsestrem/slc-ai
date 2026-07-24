@@ -4,7 +4,7 @@ layout: "facility"
 title: "Wildwood Canyon Villa Assisted Living and Memory Care"
 seo_title: "Wildwood Canyon Villa Assisted Living and Memory Care - Senior Living in Yucaipa, CA"
 description: "Wildwood Canyon Villa is an assisted living and memory care community in the heart of Yucaipa."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Wildwood Canyon Villa Assisted Living and Memory Care", "url": "/directory/california/san-bernardino-county/yucaipa/wildwood-canyon-villa-assisted-living-and-memory-care/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Yucaipa", "url": "/directory/california/san-bernardino-county/yucaipa/"}]
 nearby: []
 state: "california"
 state_name: "California"

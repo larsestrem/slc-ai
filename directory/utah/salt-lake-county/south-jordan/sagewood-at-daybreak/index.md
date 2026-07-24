@@ -4,7 +4,7 @@ layout: "facility"
 title: "Sagewood at Daybreak"
 seo_title: "Sagewood at Daybreak - Senior Living in South Jordan, UT"
 description: "Sagewood at Daybreak is a resort-style senior living campus in South Jordan's Daybreak community offering independent living, assisted living, and memory care"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Sagewood at Daybreak", "url": "/directory/utah/salt-lake-county/south-jordan/sagewood-at-daybreak/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "South Jordan", "url": "/directory/utah/salt-lake-county/south-jordan/"}]
 nearby: []
 state: "utah"
 state_name: "Utah"

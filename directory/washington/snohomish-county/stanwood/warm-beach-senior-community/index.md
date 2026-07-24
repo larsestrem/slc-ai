@@ -3,7 +3,7 @@ layout: "facility"
 title: "Warm Beach Senior Community"
 seo_title: "Warm Beach Senior Community - Senior Living in Stanwood, WA"
 description: "Warm Beach Senior Community is a faith-based, not-for-profit continuing care community established in 1967 on a 90-acre campus near Stanwood, affiliated with "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Warm Beach Senior Community", "url": "/directory/washington/snohomish-county/stanwood/warm-beach-senior-community/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Stanwood", "url": "/directory/washington/snohomish-county/stanwood/"}]
 nearby: [{"name": "Josephine Caring Community", "url": "/directory/washington/snohomish-county/stanwood/josephine-caring-community/", "city_name": "Stanwood", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care", "skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Josephine Caring Community is a nonprofit senior care campus in Stanwood offering skilled nursing, short-term rehabilitation, memory care, and assisted living."}]
 state: "washington"
 state_name: "Washington"

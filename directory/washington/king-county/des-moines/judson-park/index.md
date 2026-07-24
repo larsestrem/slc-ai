@@ -3,7 +3,7 @@ layout: "facility"
 title: "Judson Park"
 seo_title: "Judson Park - Senior Living in Des Moines, WA"
 description: "Judson Park is a nonprofit continuing care retirement community overlooking Puget Sound in Des Moines, operated by HumanGood. The campus offers independent li"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Judson Park", "url": "/directory/washington/king-county/des-moines/judson-park/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Des Moines", "url": "/directory/washington/king-county/des-moines/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

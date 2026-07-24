@@ -4,7 +4,7 @@ layout: "facility"
 title: "Morningside of Fullerton"
 seo_title: "Morningside of Fullerton - Senior Living in Fullerton, CA"
 description: "Morningside of Fullerton is a Life Plan Community (CCRC) set on 33 landscaped acres in north Orange County, offering independent living, assisted living, memo"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Morningside of Fullerton", "url": "/directory/california/orange-county/fullerton/morningside-of-fullerton/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Fullerton", "url": "/directory/california/orange-county/fullerton/"}]
 nearby: [{"name": "St. Catherine Healthcare", "url": "/directory/california/orange-county/fullerton/st-catherine-healthcare/", "city_name": "Fullerton", "state_abbrev": "CA", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "St. Catherine Healthcare is a 99-bed Medicare- and Medicaid-certified skilled nursing facility in Fullerton offering short-term rehabilitation and long-term care."}]
 state: "california"
 state_name: "California"

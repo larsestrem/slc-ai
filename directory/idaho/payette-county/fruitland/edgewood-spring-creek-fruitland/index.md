@@ -3,7 +3,7 @@ layout: "facility"
 title: "Edgewood Spring Creek Fruitland"
 seo_title: "Edgewood Spring Creek Fruitland - Senior Living in Fruitland, ID"
 description: "Edgewood Spring Creek Fruitland is an assisted living community in the small western Idaho town of Fruitland, licensed for traditional assisted living plus a "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Edgewood Spring Creek Fruitland", "url": "/directory/idaho/payette-county/fruitland/edgewood-spring-creek-fruitland/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Fruitland", "url": "/directory/idaho/payette-county/fruitland/"}]
 nearby: []
 state: "idaho"
 state_name: "Idaho"

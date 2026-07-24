@@ -4,7 +4,7 @@ layout: "facility"
 title: "Oakmont of Orange"
 seo_title: "Oakmont of Orange - Senior Living in Orange, CA"
 description: "Luxury assisted living and memory care community on The City Drive in Orange, close to UCI Medical Center and the Outlets at Orange. Offers restaurant-style d"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Oakmont of Orange", "url": "/directory/california/orange-county/orange/oakmont-of-orange/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Orange", "url": "/directory/california/orange-county/orange/"}]
 nearby: []
 state: "california"
 state_name: "California"

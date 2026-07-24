@@ -4,7 +4,7 @@ layout: "facility"
 title: "La Vida Real"
 seo_title: "La Vida Real - Senior Living in El Cajon, CA"
 description: "La Vida Real is a Spanish-style senior living community on 11 landscaped acres in the Rancho San Diego area of El Cajon, licensed for 177 beds. It offers inde"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "La Vida Real", "url": "/directory/california/san-diego-county/el-cajon/la-vida-real/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "El Cajon", "url": "/directory/california/san-diego-county/el-cajon/"}]
 nearby: []
 state: "california"
 state_name: "California"

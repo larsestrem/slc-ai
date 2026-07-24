@@ -4,7 +4,7 @@ layout: "facility"
 title: "Legacy Village of St. George"
 seo_title: "Legacy Village of St. George - Senior Living in St. George, UT"
 description: "Legacy Village of St. George is a resort-style community offering independent living, assisted living, and memory care in southwest St. George. Amenities incl"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Legacy Village of St. George", "url": "/directory/utah/washington-county/st-george/legacy-village-of-st-george/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "St. George", "url": "/directory/utah/washington-county/st-george/"}]
 nearby: []
 state: "utah"
 state_name: "Utah"

@@ -3,7 +3,7 @@ layout: "facility"
 title: "Orchard Crest Retirement Community"
 seo_title: "Orchard Crest Retirement Community - Senior Living in Spokane Valley, WA"
 description: "An established independent and assisted living retirement community in Spokane Valley, celebrating over 25 years of operation, offering apartments, dining and"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Orchard Crest Retirement Community", "url": "/directory/washington/spokane-county/spokane-valley/orchard-crest-retirement-community/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Spokane Valley", "url": "/directory/washington/spokane-county/spokane-valley/"}]
 nearby: [{"name": "Broadway Court Estates", "url": "/directory/washington/spokane-county/spokane-valley/broadway-court-estates/", "city_name": "Spokane Valley", "state_abbrev": "WA", "care_levels": ["independent-living"], "records_note": false, "description": "Broadway Court Estates is a family-run independent living community in Spokane Valley."}, {"name": "Sullivan Park Senior Living", "url": "/directory/washington/spokane-county/spokane-valley/sullivan-park-assisted-living-community/", "city_name": "Spokane Valley", "state_abbrev": "WA", "care_levels": ["assisted-living", "independent-living"], "records_note": false, "description": "Sullivan Park Assisted Living Community offers assisted living and independent living in Spokane Valley, with a skilled nursing and rehabilitation center (Sullivan Park Care Center) on the same campus."}]
 state: "washington"
 state_name: "Washington"

@@ -4,7 +4,7 @@ layout: "facility"
 title: "The Gables of North Logan"
 seo_title: "The Gables of North Logan - Senior Living in North Logan, UT"
 description: "The Gables of North Logan provides assisted living, memory care, and respite care in a small, home-like setting in Cache Valley."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "The Gables of North Logan", "url": "/directory/utah/cache-county/north-logan/the-gables-of-north-logan/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "North Logan", "url": "/directory/utah/cache-county/north-logan/"}]
 nearby: []
 state: "utah"
 state_name: "Utah"

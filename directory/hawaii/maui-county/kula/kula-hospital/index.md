@@ -3,7 +3,7 @@ layout: "facility"
 title: "Kula Hospital"
 seo_title: "Kula Hospital - Senior Living in Kula, HI"
 description: "A hospital-based skilled nursing and intermediate care facility in upcountry Kula on Maui, operated by Maui Health, with 105 long-term care beds. Note: the fa"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Kula Hospital", "url": "/directory/hawaii/maui-county/kula/kula-hospital/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Kula", "url": "/directory/hawaii/maui-county/kula/"}]
 nearby: []
 state: "hawaii"
 state_name: "Hawaii"

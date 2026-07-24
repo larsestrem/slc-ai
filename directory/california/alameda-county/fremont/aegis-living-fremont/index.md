@@ -4,7 +4,7 @@ layout: "facility"
 title: "Aegis Living Fremont"
 seo_title: "Aegis Living Fremont - Senior Living in Fremont, CA"
 description: "An assisted living and memory care community on Walnut Avenue in central Fremont, part of the Aegis Living family."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Aegis Living Fremont", "url": "/directory/california/alameda-county/fremont/aegis-living-fremont/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Fremont", "url": "/directory/california/alameda-county/fremont/"}]
 nearby: []
 state: "california"
 state_name: "California"

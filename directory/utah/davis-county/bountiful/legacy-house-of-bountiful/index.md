@@ -4,7 +4,7 @@ layout: "facility"
 title: "Legacy House of Bountiful"
 seo_title: "Legacy House of Bountiful - Senior Living in Bountiful, UT"
 description: "Legacy House of Bountiful provides assisted living and memory care in downtown Bountiful."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Legacy House of Bountiful", "url": "/directory/utah/davis-county/bountiful/legacy-house-of-bountiful/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Bountiful", "url": "/directory/utah/davis-county/bountiful/"}]
 nearby: []
 state: "utah"
 state_name: "Utah"

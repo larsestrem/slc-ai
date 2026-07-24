@@ -4,7 +4,7 @@ layout: "facility"
 title: "Paradise Valley Estates"
 seo_title: "Paradise Valley Estates - Senior Living in Fairfield, CA"
 description: "A gated nonprofit life plan community in Fairfield, originally founded by retired military officers, offering independent living, assisted living, memory care"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Paradise Valley Estates", "url": "/directory/california/solano-county/fairfield/paradise-valley-estates/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Fairfield", "url": "/directory/california/solano-county/fairfield/"}]
 nearby: []
 state: "california"
 state_name: "California"

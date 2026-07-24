@@ -4,7 +4,7 @@ layout: "facility"
 title: "Westmont of Escondido"
 seo_title: "Westmont of Escondido - Senior Living in Escondido, CA"
 description: "Downtown Escondido senior community, long known as Westmont Town Court, offering independent living, assisted living, and memory care. Includes three daily me"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Westmont of Escondido", "url": "/directory/california/san-diego-county/escondido/westmont-of-escondido/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Escondido", "url": "/directory/california/san-diego-county/escondido/"}]
 nearby: [{"name": "Silverado Escondido Memory Care Community", "url": "/directory/california/san-diego-county/escondido/silverado-escondido-memory-care-community/", "city_name": "Escondido", "state_abbrev": "CA", "care_levels": ["memory-care"], "records_note": false, "facility_size": "large", "description": "Silverado Escondido is a dedicated memory care community licensed for 104 beds in north Escondido. Part of the national Silverado memory care organization, it provides personal care, meals, medication management, and 24-hour supervision for residents living with Alzheimer's disease and other dementias."}]
 state: "california"
 state_name: "California"

@@ -3,7 +3,7 @@ layout: "facility"
 title: "SpringRidge at Charbonneau"
 seo_title: "SpringRidge at Charbonneau - Senior Living in Wilsonville, OR"
 description: "SpringRidge at Charbonneau is an award-winning 264-unit senior living campus offering independent living, assisted living, and memory care inside Wilsonville'"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "SpringRidge at Charbonneau", "url": "/directory/oregon/clackamas-county/wilsonville/springridge-at-charbonneau/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Wilsonville", "url": "/directory/oregon/clackamas-county/wilsonville/"}]
 nearby: [{"name": "Marquis Wilsonville Post Acute Rehab", "url": "/directory/oregon/clackamas-county/wilsonville/marquis-wilsonville-post-acute-rehab/", "city_name": "Wilsonville", "state_abbrev": "OR", "care_levels": ["skilled-nursing", "respite-care"], "records_note": false, "facility_size": "medium", "description": "A 50-bed Marquis Companies skilled nursing and post-acute rehabilitation center in Wilsonville, Clackamas County. It emphasizes short-stay rehabilitation after hospital stays alongside long-term nursing care."}]
 state: "oregon"
 state_name: "Oregon"

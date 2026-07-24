@@ -3,7 +3,7 @@ layout: "facility"
 title: "Avamere at Hermiston"
 seo_title: "Avamere at Hermiston - Senior Living in Hermiston, OR"
 description: "A 57-room assisted living community in Hermiston offering round-the-clock caregiving, medication management, and respite stays in studio and one-bedroom apart"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Avamere at Hermiston", "url": "/directory/oregon/umatilla-county/hermiston/avamere-at-hermiston/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Hermiston", "url": "/directory/oregon/umatilla-county/hermiston/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

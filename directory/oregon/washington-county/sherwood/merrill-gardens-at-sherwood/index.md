@@ -3,7 +3,7 @@ layout: "facility"
 title: "Merrill Gardens at Sherwood"
 seo_title: "Merrill Gardens at Sherwood - Senior Living in Sherwood, OR"
 description: "Merrill Gardens at Sherwood, formerly known as The Ackerly at Sherwood, offers independent living, assisted living, and memory care southwest of Portland near"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Merrill Gardens at Sherwood", "url": "/directory/oregon/washington-county/sherwood/merrill-gardens-at-sherwood/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Sherwood", "url": "/directory/oregon/washington-county/sherwood/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

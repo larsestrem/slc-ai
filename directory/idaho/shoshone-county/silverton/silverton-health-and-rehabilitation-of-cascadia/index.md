@@ -3,7 +3,7 @@ layout: "facility"
 title: "Silverton Health and Rehabilitation of Cascadia"
 seo_title: "Silverton Health and Rehabilitation of Cascadia - Senior Living in Silverton, ID"
 description: "Silverton Health and Rehabilitation of Cascadia is a 50-bed Medicare- and Medicaid-certified skilled nursing facility in Silverton, in the Silver Valley area "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Silverton Health and Rehabilitation of Cascadia", "url": "/directory/idaho/shoshone-county/silverton/silverton-health-and-rehabilitation-of-cascadia/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Silverton", "url": "/directory/idaho/shoshone-county/silverton/"}]
 nearby: []
 state: "idaho"
 state_name: "Idaho"

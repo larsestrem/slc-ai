@@ -3,7 +3,7 @@ layout: "facility"
 title: "Avamere Olympic Rehabilitation of Sequim"
 seo_title: "Avamere Olympic Rehabilitation of Sequim - Senior Living in Sequim, WA"
 description: "Avamere Olympic Rehabilitation of Sequim is a Medicare- and Medicaid-certified skilled nursing and rehabilitation facility with 125 federally certified beds i"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Avamere Olympic Rehabilitation of Sequim", "url": "/directory/washington/clallam-county/sequim/avamere-olympic-rehabilitation-of-sequim/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Sequim", "url": "/directory/washington/clallam-county/sequim/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

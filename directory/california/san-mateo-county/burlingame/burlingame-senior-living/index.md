@@ -4,7 +4,7 @@ layout: "facility"
 title: "Burlingame Senior Living"
 seo_title: "Burlingame Senior Living - Senior Living in Burlingame, CA"
 description: "A 90-bed community across the street from Washington Park in Burlingame, formerly operated as Atria Burlingame, offering independent living, assisted living, "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Burlingame Senior Living", "url": "/directory/california/san-mateo-county/burlingame/burlingame-senior-living/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Burlingame", "url": "/directory/california/san-mateo-county/burlingame/"}]
 nearby: []
 state: "california"
 state_name: "California"

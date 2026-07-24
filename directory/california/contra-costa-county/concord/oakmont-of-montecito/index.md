@@ -4,7 +4,7 @@ layout: "facility"
 title: "Oakmont of Montecito"
 seo_title: "Oakmont of Montecito - Senior Living in Concord, CA"
 description: "Luxury assisted living and memory care community in east Concord operated by Oakmont Senior Living. The campus is large, with landscaped courtyards and resort"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Oakmont of Montecito", "url": "/directory/california/contra-costa-county/concord/oakmont-of-montecito/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Concord", "url": "/directory/california/contra-costa-county/concord/"}]
 nearby: []
 state: "california"
 state_name: "California"

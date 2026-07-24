@@ -3,7 +3,7 @@ layout: "facility"
 title: "Baycrest Village"
 seo_title: "Baycrest Village - Senior Living in North Bend, OR"
 description: "A full-continuum senior campus on 14 acres overlooking the bay in North Bend, offering independent living, assisted living, memory care, and the 84-bed Medica"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Baycrest Village", "url": "/directory/oregon/coos-county/north-bend/baycrest-village/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "North Bend", "url": "/directory/oregon/coos-county/north-bend/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

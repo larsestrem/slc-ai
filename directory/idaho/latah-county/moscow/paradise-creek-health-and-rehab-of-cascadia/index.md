@@ -3,7 +3,7 @@ layout: "facility"
 title: "Paradise Creek Health and Rehab of Cascadia"
 seo_title: "Paradise Creek Health and Rehab of Cascadia - Senior Living in Moscow, ID"
 description: "Paradise Creek Health and Rehab of Cascadia is a 64-bed Medicare- and Medicaid-certified skilled nursing facility in Moscow, offering short-term rehabilitatio"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Paradise Creek Health and Rehab of Cascadia", "url": "/directory/idaho/latah-county/moscow/paradise-creek-health-and-rehab-of-cascadia/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Moscow", "url": "/directory/idaho/latah-county/moscow/"}]
 nearby: []
 state: "idaho"
 state_name: "Idaho"

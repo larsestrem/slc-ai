@@ -4,7 +4,7 @@ layout: "facility"
 title: "Atria Tamalpais Creek"
 seo_title: "Atria Tamalpais Creek - Senior Living in Novato, CA"
 description: "Senior residential community near downtown Novato offering independent living, assisted living, and memory care, set among redwood trees with an outdoor garde"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Atria Tamalpais Creek", "url": "/directory/california/marin-county/novato/atria-tamalpais-creek/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Novato", "url": "/directory/california/marin-county/novato/"}]
 nearby: []
 state: "california"
 state_name: "California"

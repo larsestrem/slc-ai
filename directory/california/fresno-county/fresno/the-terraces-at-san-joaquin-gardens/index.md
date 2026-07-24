@@ -4,7 +4,7 @@ layout: "facility"
 title: "The Terraces at San Joaquin Gardens"
 seo_title: "The Terraces at San Joaquin Gardens - Senior Living in Fresno, CA"
 description: "The Terraces at San Joaquin Gardens is a continuing care retirement community on North Fresno Street in Fresno. It offers maintenance-free independent living,"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Terraces at San Joaquin Gardens", "url": "/directory/california/fresno-county/fresno/the-terraces-at-san-joaquin-gardens/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Fresno", "url": "/directory/california/fresno-county/fresno/"}]
 nearby: [{"name": "Oakmont of Fresno", "url": "/directory/california/fresno-county/fresno/oakmont-of-fresno/", "city_name": "Fresno", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Oakmont of Fresno is an assisted living and memory care community on North Gates Avenue in northwest Fresno. It is operated by Oakmont Senior Living, a California-based operator of luxury senior living communities."}, {"name": "Oakwood Gardens Care Center", "url": "/directory/california/fresno-county/fresno/oakwood-gardens-care-center/", "city_name": "Fresno", "state_abbrev": "CA", "care_levels": ["skilled-nursing", "respite-care"], "records_note": false, "facility_size": "large", "description": "A 104-bed Medicare- and Medicaid-certified skilled nursing facility in Fresno offering short-term rehabilitation, 24-hour skilled nursing, long-term care, complex wound care, and hospice."}]
 state: "california"
 state_name: "California"

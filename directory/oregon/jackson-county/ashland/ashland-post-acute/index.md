@@ -3,7 +3,7 @@ layout: "facility"
 title: "Ashland Post Acute"
 seo_title: "Ashland Post Acute - Senior Living in Ashland, OR"
 description: "Ashland Post Acute is an 87-bed Medicare- and Medicaid-certified skilled nursing facility near downtown Ashland, set against the Siskiyou Mountains."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Ashland Post Acute", "url": "/directory/oregon/jackson-county/ashland/ashland-post-acute/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Ashland", "url": "/directory/oregon/jackson-county/ashland/"}]
 nearby: []
 state: "oregon"
 state_name: "Oregon"

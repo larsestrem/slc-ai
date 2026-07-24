@@ -3,7 +3,7 @@ layout: "facility"
 title: "Callahan Court Memory Care"
 seo_title: "Callahan Court Memory Care - Senior Living in Roseburg, OR"
 description: "Callahan Court Memory Care is a 48-bed licensed residential memory care community in Roseburg specializing in care for people with Alzheimer's disease and oth"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Callahan Court Memory Care", "url": "/directory/oregon/douglas-county/roseburg/callahan-court-memory-care/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Roseburg", "url": "/directory/oregon/douglas-county/roseburg/"}]
 nearby: [{"name": "Solista Roseburg by Cogir", "url": "/directory/oregon/douglas-county/roseburg/solista-roseburg-by-cogir/", "city_name": "Roseburg", "state_abbrev": "OR", "care_levels": ["independent-living"], "records_note": false, "facility_size": "large", "description": "Solista Roseburg (formerly Holiday Garden Valley) is an independent living community for older adults in Roseburg operated by Cogir Senior Living. Monthly rent includes three chef-prepared meals daily, weekly housekeeping, scheduled local transportation, and a full activity calendar in a four-story apartment building."}]
 state: "oregon"
 state_name: "Oregon"

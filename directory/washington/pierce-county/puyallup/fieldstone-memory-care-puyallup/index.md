@@ -3,7 +3,7 @@ layout: "facility"
 title: "Fieldstone Memory Care Puyallup"
 seo_title: "Fieldstone Memory Care Puyallup - Senior Living in Puyallup, WA"
 description: "Fieldstone Memory Care Puyallup is a dedicated memory care community on South Meridian in Puyallup, operated by Washington-based Fieldstone Communities."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Fieldstone Memory Care Puyallup", "url": "/directory/washington/pierce-county/puyallup/fieldstone-memory-care-puyallup/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Puyallup", "url": "/directory/washington/pierce-county/puyallup/"}]
 nearby: [{"name": "Caring Arms Adult Family Home", "url": "/directory/washington/pierce-county/puyallup/caring-arms-adult-family-home/", "city_name": "Puyallup", "state_abbrev": "WA", "care_levels": ["adult-family-home", "memory-care"], "records_note": false, "facility_size": "small", "description": "Caring Arms Adult Family Home is a licensed six-bed adult family home in the South Hill area of Puyallup, offering six private rooms in a newly remodeled house. It provides assisted living and Alzheimer's care and accepts Medicaid and Veteran benefits."}]
 state: "washington"
 state_name: "Washington"

@@ -4,7 +4,7 @@ layout: "facility"
 title: "Mountain View Assisted Living & Memory Care"
 seo_title: "Mountain View Assisted Living & Memory Care - Senior Living in Ukiah, CA"
 description: "Assisted living and memory care community on South Dora Street in Ukiah, one of the few licensed communities serving inland Mendocino County. Offers private a"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Mountain View Assisted Living & Memory Care", "url": "/directory/california/mendocino-county/ukiah/mountain-view-assisted-living-memory-care/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Ukiah", "url": "/directory/california/mendocino-county/ukiah/"}]
 nearby: []
 state: "california"
 state_name: "California"

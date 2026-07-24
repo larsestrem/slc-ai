@@ -4,7 +4,7 @@ layout: "facility"
 title: "Blossom Vale Senior Living"
 seo_title: "Blossom Vale Senior Living - Senior Living in Orangevale, CA"
 description: "Assisted living and memory care community on Hazel Avenue in Orangevale, about 25 miles northeast of downtown Sacramento."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Blossom Vale Senior Living", "url": "/directory/california/sacramento-county/orangevale/blossom-vale-senior-living/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Orangevale", "url": "/directory/california/sacramento-county/orangevale/"}]
 nearby: []
 state: "california"
 state_name: "California"

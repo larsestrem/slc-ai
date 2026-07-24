@@ -4,7 +4,7 @@ layout: "facility"
 title: "Vista Pointe at Sierra Vista"
 seo_title: "Vista Pointe at Sierra Vista - Senior Living in Sierra Vista, AZ"
 description: "Vista Pointe at Sierra Vista offers assisted living and memory care in Cochise County's largest city."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Vista Pointe at Sierra Vista", "url": "/directory/arizona/cochise-county/sierra-vista/vista-pointe-at-sierra-vista/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Sierra Vista", "url": "/directory/arizona/cochise-county/sierra-vista/"}]
 nearby: []
 state: "arizona"
 state_name: "Arizona"

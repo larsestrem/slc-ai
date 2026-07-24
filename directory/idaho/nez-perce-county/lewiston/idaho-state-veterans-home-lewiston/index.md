@@ -3,7 +3,7 @@ layout: "facility"
 title: "Idaho State Veterans Home - Lewiston"
 seo_title: "Idaho State Veterans Home - Lewiston - Senior Living in Lewiston, ID"
 description: "A state-operated skilled nursing home for eligible Idaho veterans and their spouses in Lewiston, run by the Idaho Division of Veterans Services. Provides long"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Idaho State Veterans Home - Lewiston", "url": "/directory/idaho/nez-perce-county/lewiston/idaho-state-veterans-home-lewiston/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Lewiston", "url": "/directory/idaho/nez-perce-county/lewiston/"}]
 nearby: [{"name": "Cascadia of Lewiston", "url": "/directory/idaho/nez-perce-county/lewiston/cascadia-of-lewiston/", "city_name": "Lewiston", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "medium", "description": "A 34-bed skilled nursing and short-term rehabilitation center in Lewiston operated by Cascadia Healthcare, emphasizing private rooms with private baths. Located near St. Joseph Regional Medical Center and Tri-State Memorial Hospital."}, {"name": "Royal Plaza Health and Rehabilitation of Cascadia", "url": "/directory/idaho/nez-perce-county/lewiston/royal-plaza-health-and-rehabilitation-of-cascadia/", "city_name": "Lewiston", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "A 63-bed skilled nursing and rehabilitation center in Lewiston operated by Cascadia Healthcare. Provides Medicare- and Medicaid-certified post-acute and long-term skilled care."}]
 state: "idaho"
 state_name: "Idaho"

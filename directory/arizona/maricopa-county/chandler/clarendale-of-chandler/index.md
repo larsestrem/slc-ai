@@ -4,7 +4,7 @@ layout: "facility"
 title: "Clarendale of Chandler"
 seo_title: "Clarendale of Chandler - Senior Living in Chandler, AZ"
 description: "Clarendale of Chandler is a modern senior living community opened in 2019 offering independent living, assisted living, and memory care on one campus. U.S."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Clarendale of Chandler", "url": "/directory/arizona/maricopa-county/chandler/clarendale-of-chandler/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Chandler", "url": "/directory/arizona/maricopa-county/chandler/"}]
 nearby: []
 state: "arizona"
 state_name: "Arizona"

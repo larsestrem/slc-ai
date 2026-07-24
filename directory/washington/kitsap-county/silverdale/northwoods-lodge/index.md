@@ -3,7 +3,7 @@ layout: "facility"
 title: "Northwoods Lodge"
 seo_title: "Northwoods Lodge - Senior Living in Silverdale, WA"
 description: "Northwoods Lodge is a 57-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation facility in Silverdale, established in 1993 and part of the E"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Northwoods Lodge", "url": "/directory/washington/kitsap-county/silverdale/northwoods-lodge/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Silverdale", "url": "/directory/washington/kitsap-county/silverdale/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

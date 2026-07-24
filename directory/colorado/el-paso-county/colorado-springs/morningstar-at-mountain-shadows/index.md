@@ -4,7 +4,7 @@ layout: "facility"
 title: "MorningStar at Mountain Shadows"
 seo_title: "MorningStar at Mountain Shadows - Senior Living in Colorado Springs, CO"
 description: "MorningStar at Mountain Shadows offers 45 assisted living suites and a secure 19-suite Reflections memory care neighborhood on the northwest side of Colorado "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "MorningStar at Mountain Shadows", "url": "/directory/colorado/el-paso-county/colorado-springs/morningstar-at-mountain-shadows/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Colorado Springs", "url": "/directory/colorado/el-paso-county/colorado-springs/"}]
 nearby: []
 state: "colorado"
 state_name: "Colorado"

@@ -4,7 +4,7 @@ layout: "facility"
 title: "The Center at Tucson"
 seo_title: "The Center at Tucson - Senior Living in Tucson, AZ"
 description: "The Center at Tucson is a 96-bed Medicare-certified skilled nursing and short-term rehabilitation facility."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "The Center at Tucson", "url": "/directory/arizona/pima-county/tucson/the-center-at-tucson/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Tucson", "url": "/directory/arizona/pima-county/tucson/"}]
 nearby: [{"name": "The Fountains at La Cholla", "url": "/directory/arizona/pima-county/tucson/the-fountains-at-la-cholla/", "city_name": "Tucson", "state_abbrev": "AZ", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "The Fountains at La Cholla is a large Watermark-managed senior living campus in northwest Tucson offering independent living, assisted living, and memory care."}]
 state: "arizona"
 state_name: "Arizona"

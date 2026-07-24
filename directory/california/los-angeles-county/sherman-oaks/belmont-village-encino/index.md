@@ -4,7 +4,7 @@ layout: "facility"
 title: "Belmont Village Encino"
 seo_title: "Belmont Village Encino - Senior Living in Sherman Oaks, CA"
 description: "Belmont Village Encino is a 150-bed assisted living and memory care community on Ventura Boulevard in Sherman Oaks, on the border of Encino. The community is "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Belmont Village Encino", "url": "/directory/california/los-angeles-county/sherman-oaks/belmont-village-encino/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sherman Oaks", "url": "/directory/california/los-angeles-county/sherman-oaks/"}]
 nearby: []
 state: "california"
 state_name: "California"

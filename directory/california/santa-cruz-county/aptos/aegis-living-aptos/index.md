@@ -4,7 +4,7 @@ layout: "facility"
 title: "Aegis Living Aptos"
 seo_title: "Aegis Living Aptos - Senior Living in Aptos, CA"
 description: "Assisted living and memory care community in Aptos, just south of Santa Cruz, operated by West Coast senior living company Aegis Living."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Aegis Living Aptos", "url": "/directory/california/santa-cruz-county/aptos/aegis-living-aptos/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Aptos", "url": "/directory/california/santa-cruz-county/aptos/"}]
 nearby: []
 state: "california"
 state_name: "California"

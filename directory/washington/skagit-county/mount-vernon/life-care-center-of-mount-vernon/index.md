@@ -3,7 +3,7 @@ layout: "facility"
 title: "Life Care Center of Mount Vernon"
 seo_title: "Life Care Center of Mount Vernon - Senior Living in Mount Vernon, WA"
 description: "Life Care Center of Mount Vernon is a 121-bed skilled nursing facility at 2120 E Division St in Mount Vernon, operated by Life Care Centers of America. It pro"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Life Care Center of Mount Vernon", "url": "/directory/washington/skagit-county/mount-vernon/life-care-center-of-mount-vernon/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Mount Vernon", "url": "/directory/washington/skagit-county/mount-vernon/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

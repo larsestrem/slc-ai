@@ -3,7 +3,7 @@ layout: "facility"
 title: "Sunnyside Meadows Memory Care"
 seo_title: "Sunnyside Meadows Memory Care - Senior Living in Happy Valley, OR"
 description: "Sunnyside Meadows Memory Care is a 72-bed memory care community in Happy Valley for residents with Alzheimer's disease and dementia, currently operated as par"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Sunnyside Meadows Memory Care", "url": "/directory/oregon/clackamas-county/happy-valley/sunnyside-meadows-memory-care/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Happy Valley", "url": "/directory/oregon/clackamas-county/happy-valley/"}]
 nearby: [{"name": "The Springs at Happy Valley", "url": "/directory/oregon/clackamas-county/happy-valley/the-springs-at-happy-valley/", "city_name": "Happy Valley", "state_abbrev": "OR", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "The Springs at Happy Valley is a newer-built senior living campus offering independent living, assisted living, and memory care in fast-growing Happy Valley, southeast of Portland. The community features spacious apartments, many with decks and territorial views, plus a gym, pool and hot tub, salon, art studio, and movie theater."}]
 state: "oregon"
 state_name: "Oregon"

@@ -3,7 +3,7 @@ layout: "facility"
 title: "Bonaventure at Keizer Station"
 seo_title: "Bonaventure at Keizer Station - Senior Living in Keizer, OR"
 description: "A Bonaventure community near the Keizer Station shopping district offering independent living, assisted living, and memory care."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Bonaventure at Keizer Station", "url": "/directory/oregon/marion-county/keizer/bonaventure-at-keizer-station/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Keizer", "url": "/directory/oregon/marion-county/keizer/"}]
 nearby: [{"name": "Keizer Nursing and Rehabilitation", "url": "/directory/oregon/marion-county/keizer/keizer-nursing-and-rehabilitation/", "city_name": "Keizer", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "medium", "description": "Keizer Nursing and Rehabilitation is a 49-bed Medicare- and Medicaid-certified skilled nursing facility in Keizer offering short-term rehabilitation and long-term nursing care."}]
 state: "oregon"
 state_name: "Oregon"

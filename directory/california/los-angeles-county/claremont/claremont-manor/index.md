@@ -4,7 +4,7 @@ layout: "facility"
 title: "Claremont Manor"
 seo_title: "Claremont Manor - Senior Living in Claremont, CA"
 description: "Claremont Manor is a continuing care retirement community operated by the not-for-profit Front Porch organization, blocks from the Claremont Colleges."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Claremont Manor", "url": "/directory/california/los-angeles-county/claremont/claremont-manor/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Claremont", "url": "/directory/california/los-angeles-county/claremont/"}]
 nearby: []
 state: "california"
 state_name: "California"

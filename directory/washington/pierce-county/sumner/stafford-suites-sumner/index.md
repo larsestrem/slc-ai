@@ -3,7 +3,7 @@ layout: "facility"
 title: "Vineyard Park of Sumner"
 seo_title: "Vineyard Park of Sumner - Senior Living in Sumner, WA"
 description: "Stafford Suites Sumner is an assisted living community in Sumner where staff assist with daily-living needs from medication management to bathing and dressing"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Vineyard Park of Sumner", "url": "/directory/washington/pierce-county/sumner/stafford-suites-sumner/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Sumner", "url": "/directory/washington/pierce-county/sumner/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

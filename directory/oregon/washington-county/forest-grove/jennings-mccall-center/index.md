@@ -3,7 +3,7 @@ layout: "facility"
 title: "Jennings McCall Center"
 seo_title: "Jennings McCall Center - Senior Living in Forest Grove, OR"
 description: "Jennings McCall is an independent nonprofit retirement community on 15 acres in Forest Grove, started by the Masons of Oregon in 1922 and open to the public s"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Jennings McCall Center", "url": "/directory/oregon/washington-county/forest-grove/jennings-mccall-center/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Forest Grove", "url": "/directory/oregon/washington-county/forest-grove/"}]
 nearby: [{"name": "Marquis Forest Grove Post Acute Rehab", "url": "/directory/oregon/washington-county/forest-grove/marquis-forest-grove-post-acute-rehab/", "city_name": "Forest Grove", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Marquis Forest Grove Post Acute Rehab is a 63-bed skilled nursing facility in Forest Grove offering short-term rehabilitation and long-term care."}]
 state: "oregon"
 state_name: "Oregon"

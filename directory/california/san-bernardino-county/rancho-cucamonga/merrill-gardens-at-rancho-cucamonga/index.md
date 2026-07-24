@@ -4,7 +4,7 @@ layout: "facility"
 title: "Merrill Gardens at Rancho Cucamonga"
 seo_title: "Merrill Gardens at Rancho Cucamonga - Senior Living in Rancho Cucamonga, CA"
 description: "Merrill Gardens at Rancho Cucamonga offers independent living, assisted living, and memory care below the San Gabriel foothills."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Merrill Gardens at Rancho Cucamonga", "url": "/directory/california/san-bernardino-county/rancho-cucamonga/merrill-gardens-at-rancho-cucamonga/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Rancho Cucamonga", "url": "/directory/california/san-bernardino-county/rancho-cucamonga/"}]
 nearby: [{"name": "Ivy Park at Alta Loma", "url": "/directory/california/san-bernardino-county/rancho-cucamonga/ivy-park-at-alta-loma/", "city_name": "Rancho Cucamonga", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care", "respite-care"], "records_note": false, "description": "Ivy Park at Alta Loma, formerly Sunrise of Alta Loma, offers assisted living, memory care and respite care in Rancho Cucamonga. U.S. News lists it among senior living communities in the area."}]
 state: "california"
 state_name: "California"

@@ -4,7 +4,7 @@ layout: "facility"
 title: "Sparr Heights Estates Senior Living"
 seo_title: "Sparr Heights Estates Senior Living - Senior Living in Montrose, CA"
 description: "Assisted living and memory care community on Honolulu Avenue in the Montrose/Sparr Heights neighborhood of Glendale, operated by Sinceri Senior Living. Servic"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sparr Heights Estates Senior Living", "url": "/directory/california/los-angeles-county/montrose/sparr-heights-estates-senior-living/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Montrose", "url": "/directory/california/los-angeles-county/montrose/"}]
 nearby: []
 state: "california"
 state_name: "California"

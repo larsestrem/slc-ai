@@ -4,7 +4,7 @@ layout: "facility"
 title: "Atria Covell Gardens"
 seo_title: "Atria Covell Gardens - Senior Living in Davis, CA"
 description: "An assisted living and memory care community in north Davis operated by Atria Senior Living. Cost runs toward the high end for the Davis area."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Atria Covell Gardens", "url": "/directory/california/yolo-county/davis/atria-covell-gardens/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Davis", "url": "/directory/california/yolo-county/davis/"}]
 nearby: [{"name": "University Retirement Community", "url": "/directory/california/yolo-county/davis/university-retirement-community/", "city_name": "Davis", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "records_note": false, "facility_size": "large", "description": "University Retirement Community is a nonprofit continuing care retirement community near UC Davis offering independent living, assisted living, memory care, and a 37-bed Medicare-certified skilled nursing unit."}]
 state: "california"
 state_name: "California"

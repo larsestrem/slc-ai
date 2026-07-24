@@ -3,7 +3,7 @@ layout: "facility"
 title: "The Bridge at Sandpoint"
 seo_title: "The Bridge at Sandpoint - Senior Living in Sandpoint, ID"
 description: "The Bridge at Sandpoint is an assisted living community named a 2022-2023 U.S. News & World Report Best Assisted Living community, and it shares a campus rela"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "The Bridge at Sandpoint", "url": "/directory/idaho/bonner-county/sandpoint/the-bridge-at-sandpoint/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Sandpoint", "url": "/directory/idaho/bonner-county/sandpoint/"}]
 nearby: [{"name": "Life Care Center of Sandpoint", "url": "/directory/idaho/bonner-county/sandpoint/life-care-center-of-sandpoint/", "city_name": "Sandpoint", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "A 124-bed skilled nursing and rehabilitation center in Sandpoint operated by Life Care Centers of America, serving Bonner County and north Idaho. Provides Medicare- and Medicaid-certified short-term rehab and long-term skilled care."}, {"name": "Valley Vista Care Center of Sandpoint", "url": "/directory/idaho/bonner-county/sandpoint/valley-vista-care-center-of-sandpoint/", "city_name": "Sandpoint", "state_abbrev": "ID", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Valley Vista Care Center of Sandpoint is a 73-bed Medicare- and Medicaid-certified skilled nursing facility in Sandpoint offering short-term rehabilitation and long-term nursing care."}]
 state: "idaho"
 state_name: "Idaho"

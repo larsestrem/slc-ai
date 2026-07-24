@@ -4,7 +4,7 @@ layout: "facility"
 title: "Rowntree Gardens"
 seo_title: "Rowntree Gardens - Senior Living in Stanton, CA"
 description: "Rowntree Gardens is a licensed not-for-profit continuing care retirement community in Stanton offering independent living, assisted living, memory care, skill"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Rowntree Gardens", "url": "/directory/california/orange-county/stanton/rowntree-gardens/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Stanton", "url": "/directory/california/orange-county/stanton/"}]
 nearby: []
 state: "california"
 state_name: "California"

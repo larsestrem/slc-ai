@@ -4,7 +4,7 @@ layout: "facility"
 title: "Cottonwood Rehabilitation and Healthcare Center"
 seo_title: "Cottonwood Rehabilitation and Healthcare Center - Senior Living in Durango, CO"
 description: "Cottonwood Rehabilitation and Healthcare Center (formerly Cottonwood Inn) is a 40-bed skilled nursing facility in Durango certified for Medicare and Medicaid."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Cottonwood Rehabilitation and Healthcare Center", "url": "/directory/colorado/la-plata-county/durango/cottonwood-rehabilitation-and-healthcare-center/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Durango", "url": "/directory/colorado/la-plata-county/durango/"}]
 nearby: []
 state: "colorado"
 state_name: "Colorado"

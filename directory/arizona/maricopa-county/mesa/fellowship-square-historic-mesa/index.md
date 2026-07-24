@@ -4,7 +4,7 @@ layout: "facility"
 title: "Fellowship Square Historic Mesa"
 seo_title: "Fellowship Square Historic Mesa - Senior Living in Mesa, AZ"
 description: "Fellowship Square Historic Mesa is a nonprofit faith-based senior living campus in downtown Mesa offering independent living, assisted living, and memory care"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Fellowship Square Historic Mesa", "url": "/directory/arizona/maricopa-county/mesa/fellowship-square-historic-mesa/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Mesa", "url": "/directory/arizona/maricopa-county/mesa/"}]
 nearby: []
 state: "arizona"
 state_name: "Arizona"

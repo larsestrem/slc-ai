@@ -4,7 +4,7 @@ layout: "facility"
 title: "The Lodge at Grand Junction"
 seo_title: "The Lodge at Grand Junction - Senior Living in Grand Junction, CO"
 description: "The Lodge at Grand Junction provides assisted living, memory care, and respite care in a newer building on Patterson Road, managed by Integral Senior Living."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "The Lodge at Grand Junction", "url": "/directory/colorado/mesa-county/grand-junction/the-lodge-at-grand-junction/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Grand Junction", "url": "/directory/colorado/mesa-county/grand-junction/"}]
 nearby: []
 state: "colorado"
 state_name: "Colorado"

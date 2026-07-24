@@ -4,7 +4,7 @@ layout: "facility"
 title: "Sunrise of Beverly Hills"
 seo_title: "Sunrise of Beverly Hills - Senior Living in Beverly Hills, CA"
 description: "Sunrise of Beverly Hills is an assisted living and memory care community on North Crescent Drive in Beverly Hills, operated by Sunrise Senior Living. The comm"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sunrise of Beverly Hills", "url": "/directory/california/los-angeles-county/beverly-hills/sunrise-of-beverly-hills/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Beverly Hills", "url": "/directory/california/los-angeles-county/beverly-hills/"}]
 nearby: []
 state: "california"
 state_name: "California"

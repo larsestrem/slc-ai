@@ -4,7 +4,7 @@ layout: "facility"
 title: "Sunny View Retirement Community"
 seo_title: "Sunny View Retirement Community - Senior Living in Cupertino, CA"
 description: "Continuing care retirement community in Cupertino operated by nonprofit Front Porch, offering independent living, assisted living, and on-campus skilled nursi"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sunny View Retirement Community", "url": "/directory/california/santa-clara-county/cupertino/sunny-view-retirement-community/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Cupertino", "url": "/directory/california/santa-clara-county/cupertino/"}]
 nearby: []
 state: "california"
 state_name: "California"

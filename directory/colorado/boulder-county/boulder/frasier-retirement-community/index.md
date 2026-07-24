@@ -4,7 +4,7 @@ layout: "facility"
 title: "Frasier Retirement Community"
 seo_title: "Frasier Retirement Community - Senior Living in Boulder, CO"
 description: "Frasier (Frasier Meadows) has served Boulder seniors since 1960 on a 20-acre campus and is the city's only accredited continuing care retirement community."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Frasier Retirement Community", "url": "/directory/colorado/boulder-county/boulder/frasier-retirement-community/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Boulder", "url": "/directory/colorado/boulder-county/boulder/"}]
 nearby: []
 state: "colorado"
 state_name: "Colorado"

@@ -4,7 +4,7 @@ layout: "facility"
 title: "Belmont Village Senior Living Burbank"
 seo_title: "Belmont Village Senior Living Burbank - Senior Living in Burbank, CA"
 description: "Assisted living and memory care community in downtown Burbank operated by Belmont Village Senior Living. U.S."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Belmont Village Senior Living Burbank", "url": "/directory/california/los-angeles-county/burbank/belmont-village-senior-living-burbank/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Burbank", "url": "/directory/california/los-angeles-county/burbank/"}]
 nearby: []
 state: "california"
 state_name: "California"

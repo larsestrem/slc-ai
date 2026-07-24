@@ -4,7 +4,7 @@ layout: "facility"
 title: "Sagewood"
 seo_title: "Sagewood - Senior Living in Phoenix, AZ"
 description: "Sagewood is a resort-style Life Plan Community (CCRC) in north Phoenix offering independent living, assisted living, memory care, and skilled nursing on one c"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Sagewood", "url": "/directory/arizona/maricopa-county/phoenix/sagewood/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Phoenix", "url": "/directory/arizona/maricopa-county/phoenix/"}]
 nearby: []
 state: "arizona"
 state_name: "Arizona"

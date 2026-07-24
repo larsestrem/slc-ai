@@ -4,7 +4,7 @@ layout: "facility"
 title: "The Lakes at Banning"
 seo_title: "The Lakes at Banning - Senior Living in Banning, CA"
 description: "The Lakes at Banning is a senior living community next to the Sun Lakes Country Club offering independent living, assisted living, memory care, and respite ca"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Lakes at Banning", "url": "/directory/california/riverside-county/banning/the-lakes-at-banning/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Banning", "url": "/directory/california/riverside-county/banning/"}]
 nearby: []
 state: "california"
 state_name: "California"

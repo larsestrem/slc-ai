@@ -4,7 +4,7 @@ layout: "facility"
 title: "Fairfield Village of Layton"
 seo_title: "Fairfield Village of Layton - Senior Living in Layton, UT"
 description: "Fairfield Village is a resort-style senior living campus set against the Wasatch Mountains in Layton, offering independent living, assisted living, and memory"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Fairfield Village of Layton", "url": "/directory/utah/davis-county/layton/fairfield-village-of-layton/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Layton", "url": "/directory/utah/davis-county/layton/"}]
 nearby: []
 state: "utah"
 state_name: "Utah"

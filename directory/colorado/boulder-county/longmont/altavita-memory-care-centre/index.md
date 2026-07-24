@@ -4,7 +4,7 @@ layout: "facility"
 title: "AltaVita Memory Care Centre"
 seo_title: "AltaVita Memory Care Centre - Senior Living in Longmont, CO"
 description: "AltaVita Memory Care Centre is a 56-bed licensed assisted living residence in Longmont designed specifically for people with Alzheimer's and other dementias, "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "AltaVita Memory Care Centre", "url": "/directory/colorado/boulder-county/longmont/altavita-memory-care-centre/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Longmont", "url": "/directory/colorado/boulder-county/longmont/"}]
 nearby: []
 state: "colorado"
 state_name: "Colorado"

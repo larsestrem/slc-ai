@@ -4,7 +4,7 @@ layout: "facility"
 title: "Mt. San Antonio Gardens"
 seo_title: "Mt. San Antonio Gardens - Senior Living in Pomona, CA"
 description: "Mt. San Antonio Gardens is a not-for-profit continuing care retirement community on the Pomona-Claremont border, offering independent living, assisted living,"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Mt. San Antonio Gardens", "url": "/directory/california/los-angeles-county/pomona/mt-san-antonio-gardens/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Pomona", "url": "/directory/california/los-angeles-county/pomona/"}]
 nearby: []
 state: "california"
 state_name: "California"

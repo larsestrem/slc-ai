@@ -4,7 +4,7 @@ layout: "facility"
 title: "The Cottages of Carmel"
 seo_title: "The Cottages of Carmel - Senior Living in Carmel, CA"
 description: "Assisted living and memory care community on Carmel Rancho Boulevard near Carmel-by-the-Sea. Costs start around $6,120 per month."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Cottages of Carmel", "url": "/directory/california/monterey-county/carmel/the-cottages-of-carmel/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Carmel", "url": "/directory/california/monterey-county/carmel/"}]
 nearby: []
 state: "california"
 state_name: "California"

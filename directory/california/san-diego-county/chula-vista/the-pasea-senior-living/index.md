@@ -4,7 +4,7 @@ layout: "facility"
 title: "The Pasea Senior Living"
 seo_title: "The Pasea Senior Living - Senior Living in Chula Vista, CA"
 description: "Resort-style community in the Otay Ranch area of Chula Vista offering independent living, assisted living, and memory care; it operated for years as St. Paul'"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Pasea Senior Living", "url": "/directory/california/san-diego-county/chula-vista/the-pasea-senior-living/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Chula Vista", "url": "/directory/california/san-diego-county/chula-vista/"}]
 nearby: [{"name": "Westmont at San Miguel Ranch", "url": "/directory/california/san-diego-county/chula-vista/westmont-at-san-miguel-ranch/", "city_name": "Chula Vista", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Westmont at San Miguel Ranch offers independent living, assisted living, and memory care in the San Miguel Ranch neighborhood of Chula Vista. The community is operated by Westmont Living."}]
 state: "california"
 state_name: "California"

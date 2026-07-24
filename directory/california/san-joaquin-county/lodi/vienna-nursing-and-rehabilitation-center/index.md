@@ -4,7 +4,7 @@ layout: "facility"
 title: "Vienna Nursing and Rehabilitation Center"
 seo_title: "Vienna Nursing and Rehabilitation Center - Senior Living in Lodi, CA"
 description: "Vienna Nursing and Rehabilitation Center is a 150-bed Medicare- and Medicaid-certified skilled nursing facility that has served Lodi since 1967, providing ski"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Vienna Nursing and Rehabilitation Center", "url": "/directory/california/san-joaquin-county/lodi/vienna-nursing-and-rehabilitation-center/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Lodi", "url": "/directory/california/san-joaquin-county/lodi/"}]
 nearby: []
 state: "california"
 state_name: "California"

@@ -4,7 +4,7 @@ layout: "facility"
 title: "Holly Creek Retirement Community"
 seo_title: "Holly Creek Retirement Community - Senior Living in Centennial, CO"
 description: "Holly Creek is a Life Plan (continuing care) retirement community in Centennial operated by the Denver-based nonprofit Christian Living Communities. The campu"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Holly Creek Retirement Community", "url": "/directory/colorado/arapahoe-county/centennial/holly-creek-retirement-community/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Centennial", "url": "/directory/colorado/arapahoe-county/centennial/"}]
 nearby: []
 state: "colorado"
 state_name: "Colorado"

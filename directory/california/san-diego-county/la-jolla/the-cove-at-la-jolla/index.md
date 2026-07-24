@@ -4,7 +4,7 @@ layout: "facility"
 title: "The Cove at La Jolla"
 seo_title: "The Cove at La Jolla - Senior Living in La Jolla, CA"
 description: "The Cove at La Jolla is a 59-bed Medicare-certified skilled nursing facility near the coast in La Jolla. The facility is affiliated with The Ensign Group."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Cove at La Jolla", "url": "/directory/california/san-diego-county/la-jolla/the-cove-at-la-jolla/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "La Jolla", "url": "/directory/california/san-diego-county/la-jolla/"}]
 nearby: []
 state: "california"
 state_name: "California"

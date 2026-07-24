@@ -4,7 +4,7 @@ layout: "facility"
 title: "Belmont Village Albany"
 seo_title: "Belmont Village Albany - Senior Living in Albany, CA"
 description: "Opened in 2017 near Berkeley, this 175-apartment community offers independent living, assisted living, and memory care with a licensed nurse on site 24/7. Bel"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Belmont Village Albany", "url": "/directory/california/alameda-county/albany/belmont-village-albany/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Albany", "url": "/directory/california/alameda-county/albany/"}]
 nearby: []
 state: "california"
 state_name: "California"

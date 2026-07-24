@@ -4,7 +4,7 @@ layout: "facility"
 title: "Cogir of Turlock"
 seo_title: "Cogir of Turlock - Senior Living in Turlock, CA"
 description: "Senior living community in Turlock offering independent living, assisted living and memory care on one campus. Residents with Alzheimer's and dementia are ser"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Cogir of Turlock", "url": "/directory/california/stanislaus-county/turlock/cogir-of-turlock/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Turlock", "url": "/directory/california/stanislaus-county/turlock/"}]
 nearby: []
 state: "california"
 state_name: "California"

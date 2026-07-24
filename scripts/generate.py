@@ -265,12 +265,13 @@ def gen_facility_page(f, siblings, licensing):
         "seo_title": f"{f['name']} — Senior Living in {f['city_name']}, {f['state_abbrev']}",
         "description": (f.get("description") or
                         f"{f['name']} in {f['city_name']}, {f['state_name']}: care levels, contact details, and official inspection records.")[:158],
-        # County/city pages exist (stable URLs for future density) but are
-        # intentionally not linked — breadcrumbs jump state → facility.
+        # Breadcrumb ends at the city (Home > Directory > State > City); the
+        # facility itself is dropped to keep the bar short on mobile, and every
+        # crumb links (see _includes/breadcrumbs.html).
         "crumbs": [
             {"name": "Directory", "url": "/directory/"},
             {"name": f["state_name"], "url": f"/directory/{f['state']}/"},
-            {"name": f["name"], "url": facility_url(f)},
+            {"name": f["city_name"], "url": f"/directory/{f['state']}/{county_slug(f)}/{f['city']}/"},
         ],
         "nearby": nearby,
     }
@@ -340,7 +341,7 @@ def gen_facility_page(f, siblings, licensing):
             "community_name": f["name"],
             "profile_url": facility_url(f),
             "members": team,
-            "crumbs": front["crumbs"] + [{"name": "Team", "url": facility_url(f) + "team/"}],
+            "crumbs": front["crumbs"] + [{"name": f["name"], "url": facility_url(f)}, {"name": "Team", "url": facility_url(f) + "team/"}],
         }
         for k in ("claimed_by", "claimed_role", "claimed_date"):
             if f.get(k):
@@ -358,7 +359,7 @@ def gen_facility_page(f, siblings, licensing):
             "community_name": f["name"],
             "profile_url": facility_url(f),
             "photos": photos,
-            "crumbs": front["crumbs"] + [{"name": "Photos", "url": facility_url(f) + "photos/"}],
+            "crumbs": front["crumbs"] + [{"name": f["name"], "url": facility_url(f)}, {"name": "Photos", "url": facility_url(f) + "photos/"}],
         }
         for k in ("claimed_by", "claimed_role", "claimed_date"):
             if f.get(k):

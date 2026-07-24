@@ -3,7 +3,7 @@ layout: "facility"
 title: "Oak Creek Rehabilitation Center of Kimberly"
 seo_title: "Oak Creek Rehabilitation Center of Kimberly - Senior Living in Kimberly, ID"
 description: "Oak Creek Rehabilitation Center of Kimberly is a 57-bed Medicare- and Medicaid-certified skilled nursing facility in Kimberly, near Twin Falls, offering short"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Oak Creek Rehabilitation Center of Kimberly", "url": "/directory/idaho/twin-falls-county/kimberly/oak-creek-rehabilitation-center-of-kimberly/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Kimberly", "url": "/directory/idaho/twin-falls-county/kimberly/"}]
 nearby: []
 state: "idaho"
 state_name: "Idaho"

@@ -3,7 +3,7 @@ layout: "facility"
 title: "Columbia Ridge Senior Living"
 seo_title: "Columbia Ridge Senior Living - Senior Living in Washougal, WA"
 description: "Columbia Ridge Senior Living is an assisted living community in Washougal with 70 apartment homes in studio and one-bedroom floor plans. The community provide"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Columbia Ridge Senior Living", "url": "/directory/washington/clark-county/washougal/columbia-ridge-senior-living/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Washougal", "url": "/directory/washington/clark-county/washougal/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

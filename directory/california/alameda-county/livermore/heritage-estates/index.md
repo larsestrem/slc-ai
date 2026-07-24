@@ -4,7 +4,7 @@ layout: "facility"
 title: "Heritage Estates"
 seo_title: "Heritage Estates - Senior Living in Livermore, CA"
 description: "A large independent living and assisted living community in Livermore, named a U.S. News Best Senior Living community for both care levels based on resident a"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Heritage Estates", "url": "/directory/california/alameda-county/livermore/heritage-estates/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Livermore", "url": "/directory/california/alameda-county/livermore/"}]
 nearby: []
 state: "california"
 state_name: "California"

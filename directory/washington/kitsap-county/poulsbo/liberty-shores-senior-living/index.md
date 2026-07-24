@@ -3,7 +3,7 @@ layout: "facility"
 title: "Liberty Shores Senior Living"
 seo_title: "Liberty Shores Senior Living - Senior Living in Poulsbo, WA"
 description: "Liberty Shores Senior Living is a 112-bed assisted living community with specialized dementia care on Liberty Bay in Poulsbo, one of the area's few locally ow"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Liberty Shores Senior Living", "url": "/directory/washington/kitsap-county/poulsbo/liberty-shores-senior-living/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Poulsbo", "url": "/directory/washington/kitsap-county/poulsbo/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

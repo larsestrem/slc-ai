@@ -4,7 +4,7 @@ layout: "facility"
 title: "Stoneridge Creek"
 seo_title: "Stoneridge Creek - Senior Living in Pleasanton, CA"
 description: "The Bay Area's largest life plan community, a 50-acre campus in Pleasanton with resort-style amenities: restaurant-style dining venues, a fitness center and s"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Stoneridge Creek", "url": "/directory/california/alameda-county/pleasanton/stoneridge-creek/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Pleasanton", "url": "/directory/california/alameda-county/pleasanton/"}]
 nearby: []
 state: "california"
 state_name: "California"

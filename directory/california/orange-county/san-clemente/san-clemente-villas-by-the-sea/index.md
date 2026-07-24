@@ -4,7 +4,7 @@ layout: "facility"
 title: "San Clemente Villas by the Sea"
 seo_title: "San Clemente Villas by the Sea - Senior Living in San Clemente, CA"
 description: "San Clemente Villas by the Sea is an MBK Senior Living community offering assisted living, memory care, and short-term respite stays near the coast in San Cle"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Clemente Villas by the Sea", "url": "/directory/california/orange-county/san-clemente/san-clemente-villas-by-the-sea/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Clemente", "url": "/directory/california/orange-county/san-clemente/"}]
 nearby: []
 state: "california"
 state_name: "California"

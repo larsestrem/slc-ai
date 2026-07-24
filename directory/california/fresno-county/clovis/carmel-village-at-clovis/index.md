@@ -4,7 +4,7 @@ layout: "facility"
 title: "Carmel Village at Clovis"
 seo_title: "Carmel Village at Clovis - Senior Living in Clovis, CA"
 description: "A resort-style senior living community in the heart of Clovis offering independent living, assisted living, and memory care."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Carmel Village at Clovis", "url": "/directory/california/fresno-county/clovis/carmel-village-at-clovis/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Clovis", "url": "/directory/california/fresno-county/clovis/"}]
 nearby: []
 state: "california"
 state_name: "California"

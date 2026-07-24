@@ -4,7 +4,7 @@ layout: "facility"
 title: "Sunrise of Danville"
 seo_title: "Sunrise of Danville - Senior Living in Danville, CA"
 description: "Assisted living and memory care community on Diablo Road in Danville, offering short-term respite stays alongside long-term care."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sunrise of Danville", "url": "/directory/california/contra-costa-county/danville/sunrise-of-danville/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Danville", "url": "/directory/california/contra-costa-county/danville/"}]
 nearby: []
 state: "california"
 state_name: "California"

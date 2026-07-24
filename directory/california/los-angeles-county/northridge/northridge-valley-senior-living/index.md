@@ -4,7 +4,7 @@ layout: "facility"
 title: "Northridge Valley Senior Living"
 seo_title: "Northridge Valley Senior Living - Senior Living in Northridge, CA"
 description: "Assisted living and memory care community on Lindley Avenue in the Northridge neighborhood of the San Fernando Valley, formerly known as Pacifica Senior Livin"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Northridge Valley Senior Living", "url": "/directory/california/los-angeles-county/northridge/northridge-valley-senior-living/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Northridge", "url": "/directory/california/los-angeles-county/northridge/"}]
 nearby: []
 state: "california"
 state_name: "California"

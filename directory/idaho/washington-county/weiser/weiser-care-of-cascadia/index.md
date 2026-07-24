@@ -3,7 +3,7 @@ layout: "facility"
 title: "Weiser Care of Cascadia"
 seo_title: "Weiser Care of Cascadia - Senior Living in Weiser, ID"
 description: "A 76-bed skilled nursing and rehabilitation center in Weiser operated by Cascadia Healthcare, serving Washington County in western Idaho. Provides Medicare- a"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Weiser Care of Cascadia", "url": "/directory/idaho/washington-county/weiser/weiser-care-of-cascadia/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Idaho", "url": "/directory/idaho/"}, {"name": "Weiser", "url": "/directory/idaho/washington-county/weiser/"}]
 nearby: []
 state: "idaho"
 state_name: "Idaho"

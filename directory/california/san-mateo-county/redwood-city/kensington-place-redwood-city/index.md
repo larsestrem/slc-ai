@@ -4,7 +4,7 @@ layout: "facility"
 title: "Kensington Place Redwood City"
 seo_title: "Kensington Place Redwood City - Senior Living in Redwood City, CA"
 description: "A dedicated memory care community on El Camino Real in Redwood City, part of the Kensington Senior Living family. Care is organized around two neighborhoods f"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Kensington Place Redwood City", "url": "/directory/california/san-mateo-county/redwood-city/kensington-place-redwood-city/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Redwood City", "url": "/directory/california/san-mateo-county/redwood-city/"}]
 nearby: []
 state: "california"
 state_name: "California"

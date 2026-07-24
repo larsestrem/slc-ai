@@ -4,7 +4,7 @@ layout: "facility"
 title: "Aspen Ridge Transitional Rehabilitation"
 seo_title: "Aspen Ridge Transitional Rehabilitation - Senior Living in Murray, UT"
 description: "Aspen Ridge Transitional Rehabilitation is a 38-bed Medicare-certified skilled nursing facility in Murray focused on short-term rehabilitation after hospital "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Aspen Ridge Transitional Rehabilitation", "url": "/directory/utah/salt-lake-county/murray/aspen-ridge-transitional-rehabilitation/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Murray", "url": "/directory/utah/salt-lake-county/murray/"}]
 nearby: []
 state: "utah"
 state_name: "Utah"

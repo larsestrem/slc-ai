@@ -4,7 +4,7 @@ layout: "facility"
 title: "The Kensington Sierra Madre"
 seo_title: "The Kensington Sierra Madre - Senior Living in Sierra Madre, CA"
 description: "The Kensington Sierra Madre is an assisted living and memory care community near Arcadia in the San Gabriel Valley foothills."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Kensington Sierra Madre", "url": "/directory/california/los-angeles-county/sierra-madre/the-kensington-sierra-madre/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sierra Madre", "url": "/directory/california/los-angeles-county/sierra-madre/"}]
 nearby: []
 state: "california"
 state_name: "California"

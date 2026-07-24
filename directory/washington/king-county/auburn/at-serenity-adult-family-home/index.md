@@ -3,7 +3,7 @@ layout: "facility"
 title: "At Serenity Adult Family Home"
 seo_title: "At Serenity Adult Family Home - Senior Living in Auburn, WA"
 description: "At Serenity Adult Family Home is a licensed six-bed adult family home in Auburn operating since 2005. It is certified by Washington DSHS for both Dementia Spe"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "At Serenity Adult Family Home", "url": "/directory/washington/king-county/auburn/at-serenity-adult-family-home/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Auburn", "url": "/directory/washington/king-county/auburn/"}]
 nearby: [{"name": "Merrill Gardens at Auburn", "url": "/directory/washington/king-county/auburn/merrill-gardens-at-auburn/", "city_name": "Auburn", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "Merrill Gardens at Auburn sits in downtown Auburn steps from shops and transit, offering independent living, assisted living, and memory care."}, {"name": "Parkside Retirement Community", "url": "/directory/washington/king-county/auburn/parkside-retirement-community/", "city_name": "Auburn", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Parkside Retirement Community is a 94-bed senior living campus at 2902 I St NE in Auburn offering independent living, assisted living, memory care, and hospice/respite support. It has operated since 1973 and is owned by Noble Healthcare."}]
 state: "washington"
 state_name: "Washington"

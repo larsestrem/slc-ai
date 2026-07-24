@@ -4,7 +4,7 @@ layout: "facility"
 title: "Channing House"
 seo_title: "Channing House - Senior Living in Palo Alto, CA"
 description: "A nonprofit continuing care retirement community in a high-rise in downtown Palo Alto, a short walk from University Avenue shops. Residents move through indep"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Channing House", "url": "/directory/california/santa-clara-county/palo-alto/channing-house/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Palo Alto", "url": "/directory/california/santa-clara-county/palo-alto/"}]
 nearby: [{"name": "Vi at Palo Alto", "url": "/directory/california/santa-clara-county/palo-alto/vi-at-palo-alto/", "city_name": "Palo Alto", "state_abbrev": "CA", "care_levels": ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Life Plan (continuing care) community on 23 acres of Stanford land on Sand Hill Road, offering independent living, assisted living, memory care, and skilled nursing."}]
 state: "california"
 state_name: "California"

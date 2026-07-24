@@ -4,7 +4,7 @@ layout: "facility"
 title: "Legacy Village of Sugar House"
 seo_title: "Legacy Village of Sugar House - Senior Living in Salt Lake City, UT"
 description: "Legacy Village of Sugar House offers independent living, assisted living, and memory care in Salt Lake City's Sugar House neighborhood, with views of the city"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Legacy Village of Sugar House", "url": "/directory/utah/salt-lake-county/salt-lake-city/legacy-village-of-sugar-house/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Salt Lake City", "url": "/directory/utah/salt-lake-county/salt-lake-city/"}]
 nearby: []
 state: "utah"
 state_name: "Utah"

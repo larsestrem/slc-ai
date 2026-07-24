@@ -3,7 +3,7 @@ layout: "facility"
 title: "Summer Wood Alzheimer's Special Care Center"
 seo_title: "Summer Wood Alzheimer's Special Care Center - Senior Living in Moses Lake, WA"
 description: "Summer Wood Alzheimer's Special Care Center is a dedicated memory care community in Moses Lake serving residents with Alzheimer's disease and other dementias."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Summer Wood Alzheimer's Special Care Center", "url": "/directory/washington/grant-county/moses-lake/summer-wood-alzheimers-special-care-center/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Moses Lake", "url": "/directory/washington/grant-county/moses-lake/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

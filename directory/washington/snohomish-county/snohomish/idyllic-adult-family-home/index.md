@@ -3,7 +3,7 @@ layout: "facility"
 title: "Idyllic Adult Family Home"
 seo_title: "Idyllic Adult Family Home - Senior Living in Snohomish, WA"
 description: "Idyllic Adult Family Home is a licensed 6-bed adult family home in Snohomish offering private rooms and 24-hour awake CNA staffing. Listings describe a care f"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Idyllic Adult Family Home", "url": "/directory/washington/snohomish-county/snohomish/idyllic-adult-family-home/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Snohomish", "url": "/directory/washington/snohomish-county/snohomish/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

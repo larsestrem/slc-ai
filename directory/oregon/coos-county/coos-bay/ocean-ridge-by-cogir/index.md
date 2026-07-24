@@ -3,7 +3,7 @@ layout: "facility"
 title: "Ocean Ridge by Cogir"
 seo_title: "Ocean Ridge by Cogir - Senior Living in Coos Bay, OR"
 description: "A senior living community in a quiet Coos Bay neighborhood offering independent living, assisted living, and memory care. Formerly known as Ocean Ridge Assist"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Ocean Ridge by Cogir", "url": "/directory/oregon/coos-county/coos-bay/ocean-ridge-by-cogir/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Coos Bay", "url": "/directory/oregon/coos-county/coos-bay/"}]
 nearby: [{"name": "Bayside Terrace by Cogir", "url": "/directory/oregon/coos-county/coos-bay/bayside-terrace-by-cogir/", "city_name": "Coos Bay", "state_abbrev": "OR", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Bayside Terrace by Cogir is an assisted living and memory care community in Coos Bay offering studio, one-bedroom, and two-bedroom apartments."}, {"name": "Life Care Center of Coos Bay", "url": "/directory/oregon/coos-county/coos-bay/life-care-center-of-coos-bay/", "city_name": "Coos Bay", "state_abbrev": "OR", "care_levels": ["skilled-nursing", "respite-care"], "records_note": false, "facility_size": "large", "description": "A 114-bed Medicare- and Medicaid-certified skilled nursing and rehabilitation center on Ocean Boulevard in Coos Bay, operated by Life Care Centers of America. It provides short-term post-hospital rehabilitation and long-term nursing care."}]
 state: "oregon"
 state_name: "Oregon"

@@ -4,7 +4,7 @@ layout: "facility"
 title: "Silvergate Fallbrook Retirement Residence"
 seo_title: "Silvergate Fallbrook Retirement Residence - Senior Living in Fallbrook, CA"
 description: "Silvergate Fallbrook has served North County San Diego seniors for more than 30 years, offering independent living, assisted living, and memory care on a 5-ac"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Silvergate Fallbrook Retirement Residence", "url": "/directory/california/san-diego-county/fallbrook/silvergate-fallbrook-retirement-residence/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Fallbrook", "url": "/directory/california/san-diego-county/fallbrook/"}]
 nearby: []
 state: "california"
 state_name: "California"

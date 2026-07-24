@@ -4,7 +4,7 @@ layout: "facility"
 title: "Paradise Village"
 seo_title: "Paradise Village - Senior Living in National City, CA"
 description: "Paradise Village is a resort-style senior community on 12 acres in National City, just south of San Diego, offering independent living, assisted living, and m"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Paradise Village", "url": "/directory/california/san-diego-county/national-city/paradise-village/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "National City", "url": "/directory/california/san-diego-county/national-city/"}]
 nearby: []
 state: "california"
 state_name: "California"

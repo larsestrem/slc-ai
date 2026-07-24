@@ -4,7 +4,7 @@ layout: "facility"
 title: "Touchmark at The Ranch"
 seo_title: "Touchmark at The Ranch - Senior Living in Prescott, AZ"
 description: "Touchmark at The Ranch is a full-service retirement community on 44 acres bordering the Prescott National Forest, offering independent living, assisted living"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Touchmark at The Ranch", "url": "/directory/arizona/yavapai-county/prescott/touchmark-at-the-ranch/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Arizona", "url": "/directory/arizona/"}, {"name": "Prescott", "url": "/directory/arizona/yavapai-county/prescott/"}]
 nearby: []
 state: "arizona"
 state_name: "Arizona"

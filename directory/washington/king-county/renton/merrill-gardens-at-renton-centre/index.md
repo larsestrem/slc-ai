@@ -3,7 +3,7 @@ layout: "facility"
 title: "Merrill Gardens at Renton Centre"
 seo_title: "Merrill Gardens at Renton Centre - Senior Living in Renton, WA"
 description: "Downtown Renton community from Seattle-based Merrill Gardens offering independent living, assisted living, and memory care."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Merrill Gardens at Renton Centre", "url": "/directory/washington/king-county/renton/merrill-gardens-at-renton-centre/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Renton", "url": "/directory/washington/king-county/renton/"}]
 nearby: [{"name": "Greenlake Senior Living Renton", "url": "/directory/washington/king-county/renton/greenlake-senior-living-renton/", "city_name": "Renton", "state_abbrev": "WA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "medium", "description": "Greenlake Senior Living Renton (also marketed as Renton Assisted Living) is an assisted living and memory care community at 71 SW Victoria St in Renton, located near the south end of Lake Washington and managed by Brookdale-affiliated ownership. It offers private and companion apartments."}]
 state: "washington"
 state_name: "Washington"

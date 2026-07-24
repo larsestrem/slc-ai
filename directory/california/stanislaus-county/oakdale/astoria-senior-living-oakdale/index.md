@@ -4,7 +4,7 @@ layout: "facility"
 title: "Astoria Senior Living - Oakdale"
 seo_title: "Astoria Senior Living - Oakdale - Senior Living in Oakdale, CA"
 description: "A single-story assisted living and memory care community in Oakdale with cozy lounges, an enclosed courtyard, and a resident chef. Recognized in U.S. News & W"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Astoria Senior Living - Oakdale", "url": "/directory/california/stanislaus-county/oakdale/astoria-senior-living-oakdale/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Oakdale", "url": "/directory/california/stanislaus-county/oakdale/"}]
 nearby: []
 state: "california"
 state_name: "California"

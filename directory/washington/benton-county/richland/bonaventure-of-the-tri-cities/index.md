@@ -3,7 +3,7 @@ layout: "facility"
 title: "Bonaventure of the Tri-Cities"
 seo_title: "Bonaventure of the Tri-Cities - Senior Living in Richland, WA"
 description: "Bonaventure of the Tri-Cities is a 123-bed independent living, assisted living, and memory care community in Richland's Bellerive area. The campus features a "
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Bonaventure of the Tri-Cities", "url": "/directory/washington/benton-county/richland/bonaventure-of-the-tri-cities/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Richland", "url": "/directory/washington/benton-county/richland/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

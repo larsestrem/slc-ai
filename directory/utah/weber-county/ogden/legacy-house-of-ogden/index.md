@@ -4,7 +4,7 @@ layout: "facility"
 title: "Legacy House of Ogden"
 seo_title: "Legacy House of Ogden - Senior Living in Ogden, UT"
 description: "Legacy House of Ogden offers assisted living and memory care across the street from Ogden Regional Medical Center in south Ogden."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Legacy House of Ogden", "url": "/directory/utah/weber-county/ogden/legacy-house-of-ogden/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Ogden", "url": "/directory/utah/weber-county/ogden/"}]
 nearby: []
 state: "utah"
 state_name: "Utah"

@@ -4,7 +4,7 @@ layout: "facility"
 title: "The Terraces of Los Gatos"
 seo_title: "The Terraces of Los Gatos - Senior Living in Los Gatos, CA"
 description: "Named a U.S. News Best Senior Living community for independent living, assisted living, and memory care. Residents like the walkable location near Los Gatos s"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "The Terraces of Los Gatos", "url": "/directory/california/santa-clara-county/los-gatos/the-terraces-of-los-gatos/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Gatos", "url": "/directory/california/santa-clara-county/los-gatos/"}]
 nearby: []
 state: "california"
 state_name: "California"

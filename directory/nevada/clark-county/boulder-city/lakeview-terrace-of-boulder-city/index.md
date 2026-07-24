@@ -4,7 +4,7 @@ layout: "facility"
 title: "Lakeview Terrace of Boulder City"
 seo_title: "Lakeview Terrace of Boulder City - Senior Living in Boulder City, NV"
 description: "Assisted living and memory care community on a hilltop in Boulder City, one of the few licensed senior living options in town."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Lakeview Terrace of Boulder City", "url": "/directory/nevada/clark-county/boulder-city/lakeview-terrace-of-boulder-city/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Nevada", "url": "/directory/nevada/"}, {"name": "Boulder City", "url": "/directory/nevada/clark-county/boulder-city/"}]
 nearby: []
 state: "nevada"
 state_name: "Nevada"

@@ -3,7 +3,7 @@ layout: "facility"
 title: "Camas Hills Care Home"
 seo_title: "Camas Hills Care Home - Senior Living in Camas, WA"
 description: "Camas Hills Care Home is a licensed 6-bed adult family home in Camas, family-owned and operated since 2010. It offers six private suites with private bathroom"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Camas Hills Care Home", "url": "/directory/washington/clark-county/camas/camas-hills-care-home/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Camas", "url": "/directory/washington/clark-county/camas/"}]
 nearby: [{"name": "Lacamas Creek Post Acute", "url": "/directory/washington/clark-county/camas/lacamas-creek-post-acute/", "city_name": "Camas", "state_abbrev": "WA", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Lacamas Creek Post Acute is an 83-bed Medicare- and Medicaid-certified skilled nursing facility in Camas, Washington, owned by PACS Group. Formerly operated as Prestige Care and Rehabilitation - Camas, it provides short-term rehabilitation including physical, occupational, and speech therapy, plus wound care and other post-acute services."}]
 state: "washington"
 state_name: "Washington"

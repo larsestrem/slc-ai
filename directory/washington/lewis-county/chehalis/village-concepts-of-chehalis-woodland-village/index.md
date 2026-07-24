@@ -3,7 +3,7 @@ layout: "facility"
 title: "Village Concepts of Chehalis - Woodland Village"
 seo_title: "Village Concepts of Chehalis - Woodland Village - Senior Living in Chehalis, WA"
 description: "Woodland Village is a Village Concepts retirement community in Chehalis offering independent living, assisted living, memory care support and independent seni"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Village Concepts of Chehalis - Woodland Village", "url": "/directory/washington/lewis-county/chehalis/village-concepts-of-chehalis-woodland-village/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Chehalis", "url": "/directory/washington/lewis-county/chehalis/"}]
 nearby: []
 state: "washington"
 state_name: "Washington"

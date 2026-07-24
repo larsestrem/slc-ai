@@ -29,5 +29,5 @@ license_id: "50M436"
 description_full: "Willamette Springs Memory Care is a 72-bed licensed memory care community in Corvallis operated by Mosaic Senior Living (Mosaic Management Inc.), serving residents with Alzheimer's disease and other forms of dementia. It has operated since 2016."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/willamette-springs-memory-care-1389904"}]
 reviews_search_url: "https://www.google.com/search?q=Willamette+Springs+Memory+Care+Corvallis+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "A nonprofit, single-site continuing care retirement community on 22 acres on a bluff above the Willamette River, offering cottage homes and a full continuum from independent living through 24-hour nursing care. Amenities include a pool, spa, gym, library, and rentable artist studios."
 review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/portland/rose-villa-97222"}]
 reviews_search_url: "https://www.google.com/search?q=Rose+Villa+Senior+Living+Community+Milwaukie+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

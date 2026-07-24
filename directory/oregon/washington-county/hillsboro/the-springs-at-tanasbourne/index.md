@@ -27,5 +27,5 @@ description_full: "The Springs at Tanasbourne is a senior living community in Hi
 reviews_search_url: "https://www.google.com/search?q=The+Springs+at+Tanasbourne+Hillsboro+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/70M313"
 license_id: "70M313"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -28,5 +28,5 @@ review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/fox-hollow-inde
 reviews_search_url: "https://www.google.com/search?q=Fox+Hollow+Independent+and+Assisted+Living+Bend+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/70A294"
 license_id: "70A294"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

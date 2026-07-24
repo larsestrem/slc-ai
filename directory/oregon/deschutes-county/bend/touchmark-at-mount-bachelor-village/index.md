@@ -26,5 +26,5 @@ review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/touchmark-at-mo
 reviews_search_url: "https://www.google.com/search?q=Touchmark+at+Mount+Bachelor+Village+Bend+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/50R349"
 license_id: "50R349"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

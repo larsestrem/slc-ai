@@ -27,5 +27,5 @@ review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/the-acker
 reviews_search_url: "https://www.google.com/search?q=The+Ackerly+at+Reed%27s+Crossing+Hillsboro+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/70A347"
 license_id: "70A347"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

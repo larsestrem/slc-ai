@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Valley View II Manor Care Home is a licensed residential care home in West Salem operating in a custom-built house, offering both residential care and memory care with staff on duty 24 hours a day."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/valley-view-ii-manor-care-home-1365983"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/valley-view-ii-manor-care-home-salem-or"}]
 reviews_search_url: "https://www.google.com/search?q=Valley+View+II+Manor+Care+Home+Salem+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

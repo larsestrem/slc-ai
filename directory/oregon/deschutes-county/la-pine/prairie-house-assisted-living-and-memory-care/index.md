@@ -27,5 +27,5 @@ review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/prairie-house-a
 reviews_search_url: "https://www.google.com/search?q=Prairie+House+Assisted+Living+and+Memory+Care+La+Pine+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/70M221"
 license_id: "70M221"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

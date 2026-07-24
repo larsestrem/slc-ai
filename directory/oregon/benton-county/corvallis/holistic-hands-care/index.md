@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Holistic Hands Care is a small memory-care and residential care home in Corvallis providing assistance with daily activities in a home setting."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/holistic-hands-care-1362858"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/holistic-hands-care-corvallis-or"}]
 reviews_search_url: "https://www.google.com/search?q=Holistic+Hands+Care+Corvallis+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

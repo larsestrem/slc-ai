@@ -28,5 +28,5 @@ review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-livi
 reviews_search_url: "https://www.google.com/search?q=Wildflower+Lodge+La+Grande+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/70M256"
 license_id: "70M256"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

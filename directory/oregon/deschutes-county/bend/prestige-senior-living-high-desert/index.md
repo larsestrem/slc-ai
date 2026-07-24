@@ -28,5 +28,5 @@ review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/
 reviews_search_url: "https://www.google.com/search?q=Prestige+Senior+Living+High+Desert+Bend+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/70A289"
 license_id: "70A289"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

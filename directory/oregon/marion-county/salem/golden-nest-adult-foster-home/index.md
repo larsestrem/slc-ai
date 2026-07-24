@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Golden Nest Adult Foster Home is a Class 2 adult foster home in northeast Salem providing 24-hour residential care in a family home setting."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/golden-nest-adult-foster-home-168248759279253"}]
 reviews_search_url: "https://www.google.com/search?q=Golden+Nest+Adult+Foster+Home+Salem+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

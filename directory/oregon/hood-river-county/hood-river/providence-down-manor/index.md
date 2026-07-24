@@ -26,5 +26,5 @@ verified_date: "2026-07-14"
 description_full: "A 99-unit independent retirement community on the Providence Senior Village campus in Hood River, with views of the Hood River Valley. Rent includes daily meals, housekeeping, laundry, and scheduled transportation, and the campus sits adjacent to Providence Brookside Manor for higher levels of care. Operated by the Providence health system."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/providence-down-manor-59715"}]
 reviews_search_url: "https://www.google.com/search?q=Providence+Down+Manor+Hood+River+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

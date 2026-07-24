@@ -24,5 +24,5 @@ description_full: "Mary's Woods is a single-site nonprofit Life Plan Community (
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/marys-woods-lake-oswego-2"}]
 reviews_search_url: "https://www.google.com/search?q=Mary%27s+Woods+Lake+Oswego+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/70M257"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

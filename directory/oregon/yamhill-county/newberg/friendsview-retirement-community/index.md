@@ -24,5 +24,5 @@ description_full: "Friendsview is a Quaker-heritage, faith-based continuing care
 reviews_search_url: "https://www.google.com/search?q=Friendsview+Retirement+Community+Newberg+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/50R040"
 license_id: "50R040"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

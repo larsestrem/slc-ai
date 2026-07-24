@@ -25,5 +25,5 @@ description_full: "An assisted living and independent living community in McMinn
 reviews_search_url: "https://www.google.com/search?q=Vineyard+Heights+Assisted+Living+and+Retirement+Cottages+McMinnville+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/70A267"
 license_id: "70A267"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

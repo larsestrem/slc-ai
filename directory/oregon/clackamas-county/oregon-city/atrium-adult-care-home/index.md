@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Atrium Adult Care Home is a small residential care home in a quiet Oregon City neighborhood with four private rooms, each with a half bath, plus a wheelchair-accessible shower room."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/atrium-adult-care-home-llc-1335440"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/atrium-adult-care-home-llc-oregon-city-or"}]
 reviews_search_url: "https://www.google.com/search?q=Atrium+Adult+Care+Home%2C+LLC+Oregon+City+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

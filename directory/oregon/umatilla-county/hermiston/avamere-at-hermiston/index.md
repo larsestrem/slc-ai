@@ -28,5 +28,5 @@ review_links: [{"name": "Caring.com", "url": "https://www.caring.com/senior-livi
 reviews_search_url: "https://www.google.com/search?q=Avamere+at+Hermiston+Hermiston+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/70M040"
 license_id: "70M040"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

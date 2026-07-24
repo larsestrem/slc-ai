@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Bethany Adult Care is a single-story residential care home in the Bethany area of Beaverton, licensed for up to five older adults. It offers 24-hour supervision, medication administration, and dementia-friendly care in a home-like setting."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/bethany-adult-care-147575"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/bethany-adult-care-beaverton-or"}]
 reviews_search_url: "https://www.google.com/search?q=Bethany+Adult+Care+Beaverton+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

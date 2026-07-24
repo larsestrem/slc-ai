@@ -25,5 +25,5 @@ verified_date: "2026-07-14"
 description_full: "CherryWood Village is a resort-style senior living campus on 12 acres in east Portland next to Adventist Health Portland, offering independent living, assisted living, and memory care. Campus amenities include a theater, chapel, library, pool, and putting course, and the community is operated by family-owned Generations LLC."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/cherry-wood-village-95433"}, {"name": "Caring.com", "url": "https://www.caring.com/senior-living/oregon/portland/cherrywood-village"}]
 reviews_search_url: "https://www.google.com/search?q=CherryWood+Village+Portland+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

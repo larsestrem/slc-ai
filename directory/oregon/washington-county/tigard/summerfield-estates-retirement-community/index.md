@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Summerfield Estates Retirement Community is an independent living community in Tigard's Summerfield neighborhood."
 review_links: [{"name": "Birdeye", "url": "https://reviews.birdeye.com/summerfield-estates-retirement-community-157270378470540"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/summerfield-estates-retirement-community-59931"}]
 reviews_search_url: "https://www.google.com/search?q=Summerfield+Estates+Retirement+Community+Tigard+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

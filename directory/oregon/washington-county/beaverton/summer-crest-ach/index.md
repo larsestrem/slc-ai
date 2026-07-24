@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Summer Crest A.C.H. is an Oregon state-licensed adult care home in Beaverton offering 24-hour private care for up to five residents, with a focus on memory care and a registered nurse available around the clock."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/summer-crest-a-c-h-1358479"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/summer-crest-a-dot-c-h-beaverton-or"}]
 reviews_search_url: "https://www.google.com/search?q=Summer+Crest+A.C.H.+Beaverton+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Guardian Angel ACH is a five-bed adult care home in Beaverton offering assistance with the activities of daily living."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/guardian-angel-ach-96025"}]
 reviews_search_url: "https://www.google.com/search?q=Guardian+Angel+ACH+Beaverton+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

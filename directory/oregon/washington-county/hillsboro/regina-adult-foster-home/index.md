@@ -25,5 +25,5 @@ review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/l
 reviews_search_url: "https://www.google.com/search?q=Regina+Adult+Foster+Home+Hillsboro+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/520679"
 license_id: "520679"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

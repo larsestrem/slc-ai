@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Grace Care Adult Foster Home sits in a quiet Gresham neighborhood and houses up to five residents in an open-concept, wheelchair-accessible home with private rooms. Daily housekeeping, laundry, and home-cooked meals are provided, and the home offers memory care."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/grace-care-adult-foster-home-137835"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/grace-care-adult-foster-home-gresham-or"}]
 reviews_search_url: "https://www.google.com/search?q=Grace+Care+Adult+Foster+Home+Gresham+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

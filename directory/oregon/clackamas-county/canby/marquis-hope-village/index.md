@@ -1,9 +1,9 @@
 ---
 layout: "facility"
-title: "Hope Village Assisted Living, Memory Care & Skilled Nursing"
-seo_title: "Hope Village Assisted Living, Memory Care & Skilled Nursing - Canby, OR"
+title: "Hope Village"
+seo_title: "Hope Village - Canby, OR"
 description: "Marquis Companies' care campus in Canby, OR (licensed by the state as Marquis Hope Village) offering skilled nursing, assisted living, and memory care, with each licensed building's official Oregon inspection and violation record."
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Hope Village Assisted Living, Memory Care & Skilled Nursing", "url": "/directory/oregon/clackamas-county/canby/marquis-hope-village/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Hope Village", "url": "/directory/oregon/clackamas-county/canby/marquis-hope-village/"}]
 nearby: [{"name": "Hope Village Independent Living", "url": "/directory/oregon/clackamas-county/canby/hope-village/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["independent-living"], "records_note": false, "facility_size": "large", "description": "Hope Village is a faith-based, not-for-profit retirement community for adults 62 and older on a 56-acre campus in Canby, sponsored by Housing & Outreach Project for the Elderly (HOPE), Inc., a nonprofit founded by nine North Willamette Valley churches. Independent-living options include cottage homes, garden homes, and apartments, including income-qualified units at Cascade House. Assisted living, memory care, and skilled nursing are available on the same campus through Marquis-operated buildings, so residents can age in place within the village."}, {"name": "Rackleff Place", "url": "/directory/oregon/clackamas-county/canby/rackleff-place/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["assisted-living"], "records_note": false, "facility_size": "medium", "description": "A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette."}]
 state: "oregon"
 state_name: "Oregon"
@@ -16,7 +16,7 @@ address: "1577 S Ivy St"
 zip: "97013"
 phone: "(503) 266-5541"
 website: "https://www.marquiscompanies.com/facility/marquis-hope-village/"
-care_levels: ["skilled-nursing", "assisted-living", "memory-care"]
+care_levels: ["assisted-living", "memory-care", "skilled-nursing"]
 facility_size: "large"
 organization: "marquis-companies"
 organization_name: "Marquis Companies"

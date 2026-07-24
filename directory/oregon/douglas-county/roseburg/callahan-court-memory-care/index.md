@@ -28,5 +28,5 @@ review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/
 reviews_search_url: "https://www.google.com/search?q=Callahan+Court+Memory+Care+Roseburg+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/5MA240"
 license_id: "5MA240"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

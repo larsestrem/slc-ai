@@ -27,5 +27,5 @@ review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/
 reviews_search_url: "https://www.google.com/search?q=The+Springs+at+Anna+Maria+Medford+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/50R234"
 license_id: "50R234"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

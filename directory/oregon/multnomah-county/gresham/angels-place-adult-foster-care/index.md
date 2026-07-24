@@ -22,5 +22,5 @@ verified_date: "2026-07-14"
 description_full: "Angels Place Adult Foster Care is a small residential care home in Gresham offering one-on-one personal care, help with bathing and medication management, and home-cooked meals tailored to residents' preferences."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/angels-place-adult-foster-care-160284"}, {"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/angels-place-adult-foster-care-gresham-or"}]
 reviews_search_url: "https://www.google.com/search?q=Angels+Place+Adult+Foster+Care+Gresham+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

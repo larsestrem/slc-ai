@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Skyline Manor Care Home is a licensed care home in south Salem serving only five residents, including those with Alzheimer's and other forms of dementia. It offers personalized attention in a peaceful, family-like setting. Aggregator scoring ranks it among the higher-rated small homes in the city."
 review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/skyline-manor-care-home-salem-or"}, {"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/skyline-manor-care-home-1365985"}]
 reviews_search_url: "https://www.google.com/search?q=Skyline+Manor+Care+Home+Salem+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

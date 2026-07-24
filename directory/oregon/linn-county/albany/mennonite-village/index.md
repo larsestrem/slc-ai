@@ -24,5 +24,5 @@ description_full: "Mennonite Village is a not-for-profit continuing care retirem
 reviews_search_url: "https://www.google.com/search?q=Mennonite+Village+Albany+OR+reviews"
 records_url: "https://ltclicensing.oregon.gov/Providers/Details/385206"
 license_id: "385206"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

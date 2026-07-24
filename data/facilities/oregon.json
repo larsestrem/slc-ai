@@ -1008,7 +1008,7 @@
       "review_caveat": "This community shares a campus with separately licensed Marquis Hope Village (skilled nursing) and Rackleff Place (assisted living). Its review sources reference the 'Hope Village' name broadly and may reflect experiences across the shared campus, not only the independent-living community itself — check the other two listings' own ratings separately."
     },
     {
-      "name": "Hope Village Assisted Living, Memory Care & Skilled Nursing",
+      "name": "Hope Village",
       "slug": "marquis-hope-village",
       "state": "oregon",
       "state_name": "Oregon",
@@ -1022,6 +1022,8 @@
       "phone": "(503) 266-5541",
       "website": "https://www.marquiscompanies.com/facility/marquis-hope-village/",
       "care_levels": [
+        "assisted-living",
+        "memory-care",
         "skilled-nursing"
       ],
       "facility_size": "medium",
@@ -1029,7 +1031,7 @@
       "organization": "marquis-companies",
       "organization_name": "Marquis Companies",
       "cms_ccn": "385260",
-      "description": "Marquis Hope Village is a 50-bed Medicare- and Medicaid-certified skilled nursing facility offering post-hospital rehabilitation and long-term care on the Hope Village retirement campus in Canby. Marquis also operates the adjacent Marquis at Hope Village assisted living and memory care building at 1589 S Ivy St, giving campus residents a full continuum of care.",
+      "description": "Marquis Companies' care campus in Canby offering assisted living, memory care, and skilled nursing across two buildings on the Hope Village campus.",
       "sources": [
         "https://health.usnews.com/best-nursing-homes/area/or/marquis-hope-village-385260",
         "https://www.marquiscompanies.com/facility/marquis-hope-village/",

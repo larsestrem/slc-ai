@@ -23,5 +23,5 @@ verified_date: "2026-07-14"
 description_full: "Sunrise Adult Foster Home is a small residential care home in Tigard providing incontinence care, diabetes care, memory care, and medication management."
 review_links: [{"name": "SeniorAdvisor", "url": "https://www.senioradvisor.com/local/sunrise-adult-foster-home-tigard-or"}]
 reviews_search_url: "https://www.google.com/search?q=Sunrise+Adult+Foster+Home+Tigard+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

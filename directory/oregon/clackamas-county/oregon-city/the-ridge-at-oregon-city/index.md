@@ -25,5 +25,5 @@ verified_date: "2026-07-14"
 description_full: "The Ridge at Oregon City is a newly renovated independent living community operated by Cascade Living Group, offering studio, one-bedroom, and two-bedroom apartments plus two-bedroom cottages. Residents receive chef-prepared, scratch-made meals, housekeeping, and complimentary transportation."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/the-ridge-at-oregon-city-59729"}, {"name": "Seniorly", "url": "https://www.seniorly.com/independent-living/oregon/oregon-city/the-ridge-at-oregon-city"}]
 reviews_search_url: "https://www.google.com/search?q=The+Ridge+at+Oregon+City+Oregon+City+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

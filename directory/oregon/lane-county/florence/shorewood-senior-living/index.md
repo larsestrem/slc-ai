@@ -26,5 +26,5 @@ verified_date: "2026-07-14"
 description_full: "A 74-apartment independent living community in Florence, a short drive from the Oregon dunes and beaches. Operated by Compass Senior Living of Eugene."
 review_links: [{"name": "A Place for Mom", "url": "https://www.aplaceformom.com/community/shorewood-senior-living-60174"}]
 reviews_search_url: "https://www.google.com/search?q=Shorewood+Senior+Living+Florence+OR+reviews"
-licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
+licensing: {"agency": "Oregon DHS - Aging & Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
 ---

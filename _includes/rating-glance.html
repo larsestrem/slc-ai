@@ -47,9 +47,9 @@ page.campus_note (optional HTML) adds a muted cross-operator note.
     {%- if page.campus_note %}<li class="muted glance-note">{{ page.campus_note }}</li>{% endif %}
     <li class="glance-head">Family &amp; resident reviews</li>
     {%- for rl in page.review_links %}
-    <li><a href="{{ rl.url }}" rel="nofollow noopener">{{ rl.name }}</a></li>
+    <li><a href="{{ rl.url }}" target="_blank" rel="nofollow noopener">{{ rl.name }}</a></li>
     {%- endfor %}
-    <li><a href="{{ page.reviews_search_url }}" rel="nofollow noopener">Search for more reviews</a> <span class="muted"> - Google</span></li>
+    <li><a href="{{ page.reviews_search_url }}" target="_blank" rel="nofollow noopener">Search for more reviews</a> <span class="muted"> - Google</span></li>
   </ul>
 
   <p class="glance-link"><a href="#ratings-h">Full ratings &amp; records section &darr;</a></p>

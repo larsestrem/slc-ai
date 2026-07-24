@@ -105,9 +105,9 @@ never single out communities and never say what any record contains.
       inspections.{% if page.facility_size == 'small' %} A home this small serves only a handful of families at a time, so even a great one collects far fewer reviews than a 100-bed building - <a href="/guides/adult-family-homes/#judging-a-small-home-with-few-reviews">judge it by the record and your visit, not the review count</a>.{% endif %}</p>
       <ul class="review-link-list">
         {%- for rl in page.review_links %}
-        <li><a class="btn-link" href="{{ rl.url }}" rel="nofollow noopener">Read {{ page.title }}'s reviews on {{ rl.name }} &rarr;</a></li>
+        <li><a class="btn-link" href="{{ rl.url }}" target="_blank" rel="nofollow noopener">Read {{ page.title }}'s reviews on {{ rl.name }} &rarr;</a></li>
         {%- endfor %}
-        <li><a class="btn-link" href="{{ page.reviews_search_url }}" rel="nofollow noopener">Search for more reviews of {{ page.title }} &rarr;</a></li>
+        <li><a class="btn-link" href="{{ page.reviews_search_url }}" target="_blank" rel="nofollow noopener">Search for more reviews of {{ page.title }} &rarr;</a></li>
       </ul>
       {%- if page.review_caveat %}
       <p class="notice" style="margin-bottom:0"><strong>Same-campus note:</strong> {{ page.review_caveat }}</p>

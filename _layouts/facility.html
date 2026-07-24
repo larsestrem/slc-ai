@@ -6,7 +6,9 @@ layout: default
   <p class="notice sample-banner"><strong>Sample profile.</strong> {{ page.sample_notice }}</p>
   {%- endif %}
   <h1>{{ page.title }}</h1>
-  <p class="meta">{% if page.organization %}Part of <a href="/organizations/{{ page.organization }}/">{{ page.organization_name }}</a> · {% endif %}{{ page.city_name }}, {{ page.county_name }} County, {{ page.state_name }}</p>
+  {%- if page.organization %}
+  <p class="meta">Part of <a href="/organizations/{{ page.organization }}/">{{ page.organization_name }}</a></p>
+  {%- endif %}
   {% include care-badges.html levels=page.care_levels %}
 
   {%- if page.contributors and page.contributors.size > 0 %}

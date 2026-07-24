@@ -262,6 +262,12 @@ tbody tr:hover { background: var(--soft); }
 .card .managed-by { font-size: .78rem; color: #2c5530; margin: .55rem 0 0; }
 </style><style>/* Page-specific: injected ONLY on facility pages (see head.html).
    Photo gallery and the claim-your-listing panel accent. */
+
+/* Tighter profile header stack: H1, the "Part of ..." line, and the care-level
+   badges sit closer together. Badge top/bottom margin cut ~25% (.5rem -> .375rem). */
+article > h1 { margin-bottom: .3rem; }
+article > .meta { margin: 0 0 .35rem; }
+.badges[aria-label="Care levels offered"] { margin: .375rem 0; }
 .photo-grid figure { margin: 0; }
 .photo-grid img { width: 100%; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
 .photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
@@ -425,7 +431,7 @@ tbody tr:hover { background: var(--soft); }
   <main id="main" class="wrap">
     <article>
   <h1>Avamere Rehabilitation of Hillsboro</h1>
-  <p class="meta">Part of <a href="/organizations/avamere/">Avamere</a> · Hillsboro, Washington County, Oregon</p>
+  <p class="meta">Part of <a href="/organizations/avamere/">Avamere</a></p>
   
 <ul class="badges" aria-label="Care levels offered">
   <li><a class="badge" href="/guides/skilled-nursing/" title="Learn what Skilled Nursing means">Skilled Nursing</a></li>

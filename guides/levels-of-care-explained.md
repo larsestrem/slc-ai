@@ -20,7 +20,7 @@ on each level when you're ready to go deeper.
 
 ## The care ladder at a glance
 
-<div class="table-scroll">
+<div class="table-scroll" markdown="1">
 
 | Level | Who it's for | Hands-on care | Typical monthly cost* |
 |---|---|---|---|

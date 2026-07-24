@@ -22,7 +22,7 @@ page.campus_note (optional HTML) adds a muted cross-operator note.
     {%- if page.state_records %}
     {%- assign glance_agency = page.licensing.agency %}
     {%- unless glance_agency %}{% assign glance_row = site.data.states | where: 'slug', page.state | first %}{% assign glance_agency = glance_row.licensing.agency %}{% endunless %}
-    <li class="glance-head"><strong>{{ glance_agency | default: page.state_name }}</strong></li>
+    <li class="glance-head">{{ glance_agency | default: page.state_name }}</li>
     {%- for r in page.state_records %}
     <li><a href="{{ r.url }}" rel="noopener">{{ r.label }}: inspections &amp; violations</a>
       {%- if r.cms_ccn %}<br><span class="muted">also on <a href="https://www.medicare.gov/care-compare/details/nursing-home/{{ r.cms_ccn }}" rel="noopener">Medicare Care Compare</a> - federal record &amp; rating</span>{% endif %}</li>
@@ -45,8 +45,9 @@ page.campus_note (optional HTML) adds a muted cross-operator note.
     {%- endunless %}
     {%- endif %}
     {%- if page.campus_note %}<li class="muted glance-note">{{ page.campus_note }}</li>{% endif %}
+    <li class="glance-head">Family &amp; resident reviews</li>
     {%- for rl in page.review_links %}
-    <li><a href="{{ rl.url }}" rel="nofollow noopener">{{ rl.name }}</a> <span class="muted"> - family &amp; resident reviews</span></li>
+    <li><a href="{{ rl.url }}" rel="nofollow noopener">{{ rl.name }}</a></li>
     {%- endfor %}
     <li><a href="{{ page.reviews_search_url }}" rel="nofollow noopener">Search for more reviews</a> <span class="muted"> - Google</span></li>
   </ul>

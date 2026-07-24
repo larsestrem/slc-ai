@@ -302,6 +302,11 @@ article > .meta { margin: 0 0 .35rem; }
 .rating-glance .muted { color: var(--muted); font-size: .88rem; }
 .rating-glance .glance-links { list-style: none; margin: .6rem 0; padding: 0; }
 .rating-glance .glance-links li { margin: .45rem 0; font-size: .92rem; }
+/* Bold sub-headings that group the links: the state agency's official record
+   at the top, then family & resident reviews. The first heading hugs the top;
+   later ones get extra space to separate one group from the one above. */
+.rating-glance .glance-links li.glance-head { font-weight: 700; margin-top: .9rem; }
+.rating-glance .glance-links li.glance-head:first-child { margin-top: 0; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
 .rating-glance .records-note { margin: .6rem 0 .8rem; }
 
@@ -537,11 +542,12 @@ article > .meta { margin: 0 0 .35rem; }
   record and judge how a community responds</strong></a> to complaints and violations.</p>
 
   <ul class="glance-links">
-    <li class="glance-head"><strong>Oregon DHS - Aging & People with Disabilities</strong></li>
+    <li class="glance-head">Oregon DHS - Aging & People with Disabilities</li>
     <li><a href="https://ltclicensing.oregon.gov/Providers/Details/38E004" rel="noopener">Skilled nursing: inspections &amp; violations</a><br><span class="muted">also on <a href="https://www.medicare.gov/care-compare/details/nursing-home/385260" rel="noopener">Medicare Care Compare</a> - federal record &amp; rating</span></li>
     <li><a href="https://ltclicensing.oregon.gov/Providers/Details/70M099" rel="noopener">Assisted living: inspections &amp; violations</a></li>
     <li><a href="https://ltclicensing.oregon.gov/Providers/Details/50R488" rel="noopener">Memory care: inspections &amp; violations</a></li><li class="muted glance-note">Independent living on the Hope Village campus is the separate nonprofit <a href="/directory/oregon/clackamas-county/canby/hope-village/">Hope Village Independent Living</a> community. It is not state-licensed, so it has no inspection record.</li>
-    <li><a href="https://www.yelp.com/biz/marquis-hope-village-post-acute-rehab-canby-2" rel="nofollow noopener">Yelp</a> <span class="muted"> - family &amp; resident reviews</span></li>
+    <li class="glance-head">Family &amp; resident reviews</li>
+    <li><a href="https://www.yelp.com/biz/marquis-hope-village-post-acute-rehab-canby-2" rel="nofollow noopener">Yelp</a></li>
     <li><a href="https://www.google.com/search?q=Marquis+Hope+Village+Canby+OR+reviews" rel="nofollow noopener">Search for more reviews</a> <span class="muted"> - Google</span></li>
   </ul>
 

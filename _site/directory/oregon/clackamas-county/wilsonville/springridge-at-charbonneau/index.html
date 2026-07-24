@@ -302,6 +302,11 @@ article > .meta { margin: 0 0 .35rem; }
 .rating-glance .muted { color: var(--muted); font-size: .88rem; }
 .rating-glance .glance-links { list-style: none; margin: .6rem 0; padding: 0; }
 .rating-glance .glance-links li { margin: .45rem 0; font-size: .92rem; }
+/* Bold sub-headings that group the links: the state agency's official record
+   at the top, then family & resident reviews. The first heading hugs the top;
+   later ones get extra space to separate one group from the one above. */
+.rating-glance .glance-links li.glance-head { font-weight: 700; margin-top: .9rem; }
+.rating-glance .glance-links li.glance-head:first-child { margin-top: 0; }
 .rating-glance .glance-link { margin: .6rem 0 0; font-size: .9rem; }
 .rating-glance .records-note { margin: .6rem 0 .8rem; }
 
@@ -536,8 +541,9 @@ article > .meta { margin: 0 0 .35rem; }
   <ul class="glance-links">
     <li><a href="https://ltclicensing.oregon.gov/Providers/Details/70A284" rel="noopener">Oregon licensing record: inspections &amp; violations</a>
       <br><span class="muted">Jump to: <a href="https://ltclicensing.oregon.gov/Providers/Details/70A284?activeTab=inspectionsTab" rel="noopener">inspections</a> · <a href="https://ltclicensing.oregon.gov/Providers/Details/70A284?activeTab=violationsTab" rel="noopener">substantiated violations</a></span></li>
-    <li><a href="https://www.caring.com/senior-living/oregon/wilsonville/springridge-charbonneau-97070" rel="nofollow noopener">Caring.com</a> <span class="muted"> - family &amp; resident reviews</span></li>
-    <li><a href="https://www.aplaceformom.com/community/spring-ridge-at-charbonneau-96853" rel="nofollow noopener">A Place for Mom</a> <span class="muted"> - family &amp; resident reviews</span></li>
+    <li class="glance-head">Family &amp; resident reviews</li>
+    <li><a href="https://www.caring.com/senior-living/oregon/wilsonville/springridge-charbonneau-97070" rel="nofollow noopener">Caring.com</a></li>
+    <li><a href="https://www.aplaceformom.com/community/spring-ridge-at-charbonneau-96853" rel="nofollow noopener">A Place for Mom</a></li>
     <li><a href="https://www.google.com/search?q=SpringRidge+at+Charbonneau+Wilsonville+OR+reviews" rel="nofollow noopener">Search for more reviews</a> <span class="muted"> - Google</span></li>
   </ul>
 

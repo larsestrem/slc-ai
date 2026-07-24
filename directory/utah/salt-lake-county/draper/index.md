@@ -10,5 +10,5 @@ state_name: "Utah"
 state_abbrev: "UT"
 facility_count: 1
 facilities: [{"name": "Ashford Assisted Living & Memory Care of Draper", "url": "/directory/utah/salt-lake-county/draper/ashford-assisted-living-memory-care-of-draper/", "city_name": "Draper", "state_abbrev": "UT", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "The Ashford of Draper offers independent living, assisted living, and memory care on Bangerter Parkway in Draper, at the south end of the Salt Lake valley."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Salt Lake County", "url": "/directory/utah/salt-lake-county/"}, {"name": "Draper", "url": "/directory/utah/salt-lake-county/draper/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Draper", "url": "/directory/utah/salt-lake-county/draper/"}]
 ---

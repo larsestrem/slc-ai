@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "Poway Gardens Senior Living", "url": "/directory/california/san-diego-county/poway/poway-gardens-senior-living/", "city_name": "Poway", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Poway Gardens Senior Living is a memory-care-focused campus of seven independently licensed buildings, including five six-bed ranch-style Garden Villas and two larger residences, totaling 86 beds."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Diego County", "url": "/directory/california/san-diego-county/"}, {"name": "Poway", "url": "/directory/california/san-diego-county/poway/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Poway", "url": "/directory/california/san-diego-county/poway/"}]
 ---

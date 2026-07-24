@@ -10,5 +10,5 @@ state_name: "Colorado"
 state_abbrev: "CO"
 facility_count: 1
 facilities: [{"name": "Covenant Living of Colorado", "url": "/directory/colorado/jefferson-county/westminster/covenant-living-of-colorado/", "city_name": "Westminster", "state_abbrev": "CO", "care_levels": ["ccrc", "independent-living", "assisted-living", "memory-care", "skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Covenant Living of Colorado is a not-for-profit continuing care retirement community in Westminster offering independent living apartments and cottages, licensed assisted living, a secured memory-support neighborhood, and a skilled nursing center."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Jefferson County", "url": "/directory/colorado/jefferson-county/"}, {"name": "Westminster", "url": "/directory/colorado/jefferson-county/westminster/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Westminster", "url": "/directory/colorado/jefferson-county/westminster/"}]
 ---

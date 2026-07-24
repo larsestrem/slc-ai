@@ -10,5 +10,5 @@ state_name: "Utah"
 state_abbrev: "UT"
 facility_count: 1
 facilities: [{"name": "Treeo Orem", "url": "/directory/utah/utah-county/orem/treeo-orem/", "city_name": "Orem", "state_abbrev": "UT", "care_levels": ["independent-living"], "records_note": false, "facility_size": "large", "description": "Treeo Orem is an independent living community in central Orem managed by Seattle-based Leisure Care. News & World Report."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Utah County", "url": "/directory/utah/utah-county/"}, {"name": "Orem", "url": "/directory/utah/utah-county/orem/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Orem", "url": "/directory/utah/utah-county/orem/"}]
 ---

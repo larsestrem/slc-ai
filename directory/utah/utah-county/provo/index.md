@@ -10,5 +10,5 @@ state_name: "Utah"
 state_abbrev: "UT"
 facility_count: 1
 facilities: [{"name": "Legacy Village of Provo", "url": "/directory/utah/utah-county/provo/legacy-village-of-provo/", "city_name": "Provo", "state_abbrev": "UT", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Legacy Village of Provo is a 150-bed assisted living and memory care community on University Avenue in north Provo."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Utah County", "url": "/directory/utah/utah-county/"}, {"name": "Provo", "url": "/directory/utah/utah-county/provo/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Provo", "url": "/directory/utah/utah-county/provo/"}]
 ---

@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "Belmont Village Senior Living Burbank", "url": "/directory/california/los-angeles-county/burbank/belmont-village-senior-living-burbank/", "city_name": "Burbank", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Assisted living and memory care community in downtown Burbank operated by Belmont Village Senior Living. U.S."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Angeles County", "url": "/directory/california/los-angeles-county/"}, {"name": "Burbank", "url": "/directory/california/los-angeles-county/burbank/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Burbank", "url": "/directory/california/los-angeles-county/burbank/"}]
 ---

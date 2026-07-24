@@ -379,10 +379,10 @@ def gen_city_page(state, cslug, city_facs):
         "state_name": f0["state_name"], "state_abbrev": f0["state_abbrev"],
         "facility_count": len(city_facs),
         "facilities": [card(f) for f in sorted(city_facs, key=sort_key)],
+        # Counties are intentionally not part of breadcrumb navigation for now.
         "crumbs": [
             {"name": "Directory", "url": "/directory/"},
             {"name": f0["state_name"], "url": f"/directory/{state}/"},
-            {"name": f0["county_name"] + " County", "url": f"/directory/{state}/{cslug}/"},
             {"name": f0["city_name"], "url": f"/directory/{state}/{cslug}/{f0['city']}/"},
         ],
     }

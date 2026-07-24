@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 2
 facilities: [{"name": "Brookdale Murrieta", "url": "/directory/california/riverside-county/murrieta/brookdale-murrieta/", "city_name": "Murrieta", "state_abbrev": "CA", "care_levels": ["assisted-living"], "records_note": false, "description": "Assisted living community on Jackson Avenue in Murrieta, part of the national Brookdale Senior Living network."}, {"name": "WellQuest of Murrieta", "url": "/directory/california/riverside-county/murrieta/wellquest-of-murrieta/", "city_name": "Murrieta", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "records_note": false, "description": "WellQuest of Murrieta, formerly Renaissance Village Murrieta, is a senior living community established in 2017 offering independent living, assisted living, memory care and respite care."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Riverside County", "url": "/directory/california/riverside-county/"}, {"name": "Murrieta", "url": "/directory/california/riverside-county/murrieta/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Murrieta", "url": "/directory/california/riverside-county/murrieta/"}]
 ---

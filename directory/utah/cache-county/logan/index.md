@@ -10,5 +10,5 @@ state_name: "Utah"
 state_abbrev: "UT"
 facility_count: 1
 facilities: [{"name": "Legacy House of Logan", "url": "/directory/utah/cache-county/logan/legacy-house-of-logan/", "city_name": "Logan", "state_abbrev": "UT", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Legacy House of Logan offers assisted living and memory care in the heart of Cache Valley, near Logan Regional Hospital."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Cache County", "url": "/directory/utah/cache-county/"}, {"name": "Logan", "url": "/directory/utah/cache-county/logan/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Logan", "url": "/directory/utah/cache-county/logan/"}]
 ---

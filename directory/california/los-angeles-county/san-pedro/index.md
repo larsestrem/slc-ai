@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "Harbor Terrace Retirement Community", "url": "/directory/california/los-angeles-county/san-pedro/harbor-terrace-retirement-community/", "city_name": "San Pedro", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living"], "records_note": false, "description": "Harbor Terrace Retirement Community offers independent and assisted living in downtown San Pedro near the Port of Los Angeles."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Angeles County", "url": "/directory/california/los-angeles-county/"}, {"name": "San Pedro", "url": "/directory/california/los-angeles-county/san-pedro/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Pedro", "url": "/directory/california/los-angeles-county/san-pedro/"}]
 ---

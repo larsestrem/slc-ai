@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "Estancia del Sol", "url": "/directory/california/riverside-county/corona/estancia-del-sol/", "city_name": "Corona", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "records_note": false, "facility_size": "large", "description": "Estancia del Sol is a 135-bed senior living community with Spanish-style architecture in Corona, offering independent living, assisted living, memory care and respite stays."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Riverside County", "url": "/directory/california/riverside-county/"}, {"name": "Corona", "url": "/directory/california/riverside-county/corona/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Corona", "url": "/directory/california/riverside-county/corona/"}]
 ---

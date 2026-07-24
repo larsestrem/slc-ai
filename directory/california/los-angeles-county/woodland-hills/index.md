@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "Motion Picture & Television Hospital Skilled Nursing Facility", "url": "/directory/california/los-angeles-county/woodland-hills/motion-picture-television-hospital-skilled-nursing-facility/", "city_name": "Woodland Hills", "state_abbrev": "CA", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Nonprofit skilled nursing facility on the Motion Picture & Television Fund's Wasserman Campus in Woodland Hills, historically serving entertainment industry members and their families."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Angeles County", "url": "/directory/california/los-angeles-county/"}, {"name": "Woodland Hills", "url": "/directory/california/los-angeles-county/woodland-hills/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Woodland Hills", "url": "/directory/california/los-angeles-county/woodland-hills/"}]
 ---

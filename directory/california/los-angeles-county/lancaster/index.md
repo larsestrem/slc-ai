@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "Bellamar Lancaster", "url": "/directory/california/los-angeles-county/lancaster/bellamar-lancaster/", "city_name": "Lancaster", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "Assisted living and memory care community on 30th Street West in Lancaster, in the Antelope Valley, formerly known as Prestige Assisted Living at Lancaster."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Angeles County", "url": "/directory/california/los-angeles-county/"}, {"name": "Lancaster", "url": "/directory/california/los-angeles-county/lancaster/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Lancaster", "url": "/directory/california/los-angeles-county/lancaster/"}]
 ---

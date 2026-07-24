@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "San Clemente Villas by the Sea", "url": "/directory/california/orange-county/san-clemente/san-clemente-villas-by-the-sea/", "city_name": "San Clemente", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care", "respite-care"], "records_note": false, "description": "San Clemente Villas by the Sea is an MBK Senior Living community offering assisted living, memory care, and short-term respite stays near the coast in San Clemente."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Orange County", "url": "/directory/california/orange-county/"}, {"name": "San Clemente", "url": "/directory/california/orange-county/san-clemente/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "San Clemente", "url": "/directory/california/orange-county/san-clemente/"}]
 ---

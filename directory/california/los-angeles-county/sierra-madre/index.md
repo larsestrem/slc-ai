@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "The Kensington Sierra Madre", "url": "/directory/california/los-angeles-county/sierra-madre/the-kensington-sierra-madre/", "city_name": "Sierra Madre", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "description": "The Kensington Sierra Madre is an assisted living and memory care community near Arcadia in the San Gabriel Valley foothills."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Angeles County", "url": "/directory/california/los-angeles-county/"}, {"name": "Sierra Madre", "url": "/directory/california/los-angeles-county/sierra-madre/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sierra Madre", "url": "/directory/california/los-angeles-county/sierra-madre/"}]
 ---

@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "The Ridge at Healdsburg", "url": "/directory/california/sonoma-county/healdsburg/the-ridge-at-healdsburg/", "city_name": "Healdsburg", "state_abbrev": "CA", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "medium", "description": "Assisted living and memory care community set on nine landscaped acres in the Healdsburg wine country, formerly known as Healdsburg Senior Living. The campus is known for its gardens and resident farm animals, with music therapy and intergenerational programs; it is currently managed by Brightwater Senior Living after earlier ownership changes."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Sonoma County", "url": "/directory/california/sonoma-county/"}, {"name": "Healdsburg", "url": "/directory/california/sonoma-county/healdsburg/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Healdsburg", "url": "/directory/california/sonoma-county/healdsburg/"}]
 ---

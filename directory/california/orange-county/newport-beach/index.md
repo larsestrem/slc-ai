@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "Atria Newport Beach", "url": "/directory/california/orange-county/newport-beach/atria-newport-beach/", "city_name": "Newport Beach", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Modern senior living community near Hoag Hospital offering independent living, assisted living, and memory care. Apartments include smart-home features, and the campus has a fitness center, yoga studio, and movie theater."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Orange County", "url": "/directory/california/orange-county/"}, {"name": "Newport Beach", "url": "/directory/california/orange-county/newport-beach/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Newport Beach", "url": "/directory/california/orange-county/newport-beach/"}]
 ---

@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "Hillcrest - A Remarkable Retirement Community", "url": "/directory/california/los-angeles-county/la-verne/hillcrest-a-remarkable-retirement-community/", "city_name": "La Verne", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing", "ccrc"], "records_note": false, "facility_size": "large", "description": "Hillcrest (Brethren Hillcrest Homes) is a not-for-profit continuing care retirement community in La Verne with Craftsman-inspired architecture on a large foothill campus. Residents have access to a fitness center, aquatic center, and library, with independent living through skilled nursing all on site."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Angeles County", "url": "/directory/california/los-angeles-county/"}, {"name": "La Verne", "url": "/directory/california/los-angeles-county/la-verne/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "La Verne", "url": "/directory/california/los-angeles-county/la-verne/"}]
 ---

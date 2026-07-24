@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "Atria Tamalpais Creek", "url": "/directory/california/marin-county/novato/atria-tamalpais-creek/", "city_name": "Novato", "state_abbrev": "CA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "Senior residential community near downtown Novato offering independent living, assisted living, and memory care, set among redwood trees with an outdoor garden and fountain. Operated by Atria Senior Living, which runs more than 100 communities nationwide."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Marin County", "url": "/directory/california/marin-county/"}, {"name": "Novato", "url": "/directory/california/marin-county/novato/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Novato", "url": "/directory/california/marin-county/novato/"}]
 ---

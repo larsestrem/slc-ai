@@ -10,5 +10,5 @@ state_name: "Hawaii"
 state_abbrev: "HI"
 facility_count: 1
 facilities: [{"name": "The Plaza at Pearl City", "url": "/directory/hawaii/honolulu-county/pearl-city/the-plaza-at-pearl-city/", "city_name": "Pearl City", "state_abbrev": "HI", "care_levels": ["independent-living", "assisted-living", "memory-care", "respite-care"], "records_note": false, "facility_size": "large", "description": "The Plaza at Pearl City is a 158-bed community operated by Hawaii-based The Plaza Assisted Living, offering independent living, assisted living, the Hali'a memory care program, and short-term respite stays."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Honolulu County", "url": "/directory/hawaii/honolulu-county/"}, {"name": "Pearl City", "url": "/directory/hawaii/honolulu-county/pearl-city/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Hawaii", "url": "/directory/hawaii/"}, {"name": "Pearl City", "url": "/directory/hawaii/honolulu-county/pearl-city/"}]
 ---

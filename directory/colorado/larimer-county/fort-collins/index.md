@@ -10,5 +10,5 @@ state_name: "Colorado"
 state_abbrev: "CO"
 facility_count: 1
 facilities: [{"name": "MorningStar of Fort Collins", "url": "/directory/colorado/larimer-county/fort-collins/morningstar-of-fort-collins/", "city_name": "Fort Collins", "state_abbrev": "CO", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "MorningStar of Fort Collins offers 55 assisted living suites and 24 memory care suites in its Reflections Neighborhood, across from Warren Lake and Collindale Golf Course on the city's southeast side."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Larimer County", "url": "/directory/colorado/larimer-county/"}, {"name": "Fort Collins", "url": "/directory/colorado/larimer-county/fort-collins/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Fort Collins", "url": "/directory/colorado/larimer-county/fort-collins/"}]
 ---

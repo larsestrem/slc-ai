@@ -10,5 +10,5 @@ state_name: "Washington"
 state_abbrev: "WA"
 facility_count: 1
 facilities: [{"name": "Canterbury Inn", "url": "/directory/washington/cowlitz-county/longview/canterbury-inn/", "city_name": "Longview", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "description": "Canterbury Inn is a Koelsch Communities property in Longview offering independent living, assisted living and memory care, with licensed nurses on site around the clock."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Cowlitz County", "url": "/directory/washington/cowlitz-county/"}, {"name": "Longview", "url": "/directory/washington/cowlitz-county/longview/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Longview", "url": "/directory/washington/cowlitz-county/longview/"}]
 ---

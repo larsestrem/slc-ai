@@ -10,5 +10,5 @@ state_name: "Oregon"
 state_abbrev: "OR"
 facility_count: 1
 facilities: [{"name": "Avamere at Hermiston", "url": "/directory/oregon/umatilla-county/hermiston/avamere-at-hermiston/", "city_name": "Hermiston", "state_abbrev": "OR", "care_levels": ["assisted-living", "respite-care"], "records_note": false, "facility_size": "medium", "description": "A 57-room assisted living community in Hermiston offering round-the-clock caregiving, medication management, and respite stays in studio and one-bedroom apartments. Operated by Oregon-based Avamere."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Umatilla County", "url": "/directory/oregon/umatilla-county/"}, {"name": "Hermiston", "url": "/directory/oregon/umatilla-county/hermiston/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Hermiston", "url": "/directory/oregon/umatilla-county/hermiston/"}]
 ---

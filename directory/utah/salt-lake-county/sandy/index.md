@@ -10,5 +10,5 @@ state_name: "Utah"
 state_abbrev: "UT"
 facility_count: 1
 facilities: [{"name": "Sunrise of Sandy", "url": "/directory/utah/salt-lake-county/sandy/sunrise-of-sandy/", "city_name": "Sandy", "state_abbrev": "UT", "care_levels": ["assisted-living", "memory-care", "respite-care"], "records_note": false, "description": "Sunrise of Sandy provides assisted living, memory care, and short-term respite stays near Alta View Hospital in Sandy. Memory care residents live in the secured Reminiscence neighborhood, and the community was named a U.S. News Best Senior Living community for both assisted living and memory care in 2026."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Salt Lake County", "url": "/directory/utah/salt-lake-county/"}, {"name": "Sandy", "url": "/directory/utah/salt-lake-county/sandy/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Utah", "url": "/directory/utah/"}, {"name": "Sandy", "url": "/directory/utah/salt-lake-county/sandy/"}]
 ---

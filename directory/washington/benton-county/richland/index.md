@@ -10,5 +10,5 @@ state_name: "Washington"
 state_abbrev: "WA"
 facility_count: 1
 facilities: [{"name": "Bonaventure of the Tri-Cities", "url": "/directory/washington/benton-county/richland/bonaventure-of-the-tri-cities/", "city_name": "Richland", "state_abbrev": "WA", "care_levels": ["independent-living", "assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Bonaventure of the Tri-Cities is a 123-bed independent living, assisted living, and memory care community in Richland's Bellerive area. The campus features a swimming pool, walking paths, landscaped grounds, and a salon."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Benton County", "url": "/directory/washington/benton-county/"}, {"name": "Richland", "url": "/directory/washington/benton-county/richland/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Washington", "url": "/directory/washington/"}, {"name": "Richland", "url": "/directory/washington/benton-county/richland/"}]
 ---

@@ -56,7 +56,7 @@ and see <a href="/guides/levels-of-care-explained/">what each level of care mean
 </section>
 {%- endif %}
 
-<p class="notice"><a href="{{ page.crumbs[2].url }}">&larr; All {{ page.county_name }} County senior living</a> · <a href="{{ page.crumbs[1].url }}">All {{ page.state_name }} communities</a></p>
+<p class="notice"><a href="{{ page.crumbs[1].url }}">&larr; All {{ page.state_name }} communities</a></p>
 
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"ItemList","name":{{ page.title | jsonify }},"numberOfItems":{{ page.facility_count }},"itemListElement":[{%- for f in page.facilities %}{"@type":"ListItem","position":{{ forloop.index }},"url":"{{ f.url | absolute_url }}","name":{{ f.name | jsonify }}}{% unless forloop.last %},{% endunless %}{%- endfor %}]}

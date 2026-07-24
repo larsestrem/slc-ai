@@ -10,5 +10,5 @@ state_name: "Colorado"
 state_abbrev: "CO"
 facility_count: 1
 facilities: [{"name": "Grace Pointe Senior Care Community", "url": "/directory/colorado/weld-county/greeley/grace-pointe-senior-care-community/", "city_name": "Greeley", "state_abbrev": "CO", "care_levels": ["independent-living", "assisted-living", "memory-care", "skilled-nursing"], "records_note": false, "facility_size": "large", "description": "Grace Pointe is a Greeley family-owned continuing care campus offering independent living, assisted living, memory care, skilled nursing, and rehabilitation in one location."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Weld County", "url": "/directory/colorado/weld-county/"}, {"name": "Greeley", "url": "/directory/colorado/weld-county/greeley/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Colorado", "url": "/directory/colorado/"}, {"name": "Greeley", "url": "/directory/colorado/weld-county/greeley/"}]
 ---

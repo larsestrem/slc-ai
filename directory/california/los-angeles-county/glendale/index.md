@@ -10,5 +10,5 @@ state_name: "California"
 state_abbrev: "CA"
 facility_count: 1
 facilities: [{"name": "Scholl Canyon Estates", "url": "/directory/california/los-angeles-county/glendale/scholl-canyon-estates/", "city_name": "Glendale", "state_abbrev": "CA", "care_levels": ["independent-living"], "records_note": false, "facility_size": "large", "description": "Independent living retirement community in the hills of east Glendale, established in 2000 and operated under the Gracious Retirement Living brand. Monthly rent includes three chef-prepared meals daily, weekly housekeeping, transportation, and a busy events calendar with live music, dances, and exercise classes. Live-in managers are on site around the clock."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Los Angeles County", "url": "/directory/california/los-angeles-county/"}, {"name": "Glendale", "url": "/directory/california/los-angeles-county/glendale/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "California", "url": "/directory/california/"}, {"name": "Glendale", "url": "/directory/california/los-angeles-county/glendale/"}]
 ---

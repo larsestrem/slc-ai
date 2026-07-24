@@ -10,5 +10,5 @@ state_name: "Oregon"
 state_abbrev: "OR"
 facility_count: 2
 facilities: [{"name": "Wildflower Lodge", "url": "/directory/oregon/union-county/la-grande/wildflower-lodge/", "city_name": "La Grande", "state_abbrev": "OR", "care_levels": ["assisted-living", "memory-care"], "records_note": false, "facility_size": "large", "description": "Wildflower Lodge is an assisted living and memory care community in La Grande with 43 assisted living apartments and 30 memory care apartments, operated by Compass Senior Living."}]
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Union County", "url": "/directory/oregon/union-county/"}, {"name": "La Grande", "url": "/directory/oregon/union-county/la-grande/"}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "La Grande", "url": "/directory/oregon/union-county/la-grande/"}]
 ---

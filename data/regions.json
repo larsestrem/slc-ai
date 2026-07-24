@@ -1,56 +1,389 @@
 {
   "_comment": "Region definitions: counties (bare slugs, no -county suffix) grouped into named regions per state. States with more facilities than fit one page render region navigation; the generator assigns each facility a region by county. Unlisted counties fall into 'other-areas'.",
   "oregon": {
-    "portland-metro": {"name": "Portland Metro", "counties": ["multnomah", "washington", "clackamas", "yamhill", "columbia"]},
-    "willamette-valley": {"name": "Willamette Valley", "counties": ["marion", "polk", "linn", "benton", "lane"]},
-    "oregon-coast": {"name": "Oregon Coast", "counties": ["clatsop", "tillamook", "lincoln", "coos", "curry"]},
-    "southern-oregon": {"name": "Southern Oregon", "counties": ["jackson", "josephine", "douglas", "klamath"]},
-    "central-oregon": {"name": "Central Oregon", "counties": ["deschutes", "crook", "jefferson"]},
-    "gorge-eastern-oregon": {"name": "Gorge & Eastern Oregon", "counties": ["hood-river", "wasco", "umatilla", "union", "baker", "malheur"]}
+    "portland-metro": {
+      "name": "Portland Metro",
+      "counties": [
+        "multnomah",
+        "washington",
+        "clackamas",
+        "yamhill",
+        "columbia"
+      ]
+    },
+    "willamette-valley": {
+      "name": "Willamette Valley",
+      "counties": [
+        "marion",
+        "polk",
+        "linn",
+        "benton",
+        "lane"
+      ]
+    },
+    "oregon-coast": {
+      "name": "Oregon Coast",
+      "counties": [
+        "clatsop",
+        "tillamook",
+        "lincoln",
+        "coos",
+        "curry"
+      ]
+    },
+    "southern-oregon": {
+      "name": "Southern Oregon",
+      "counties": [
+        "jackson",
+        "josephine",
+        "douglas",
+        "klamath"
+      ]
+    },
+    "central-oregon": {
+      "name": "Central Oregon",
+      "counties": [
+        "deschutes",
+        "crook",
+        "jefferson"
+      ]
+    },
+    "gorge-eastern-oregon": {
+      "name": "Gorge & Eastern Oregon",
+      "counties": [
+        "hood-river",
+        "wasco",
+        "umatilla",
+        "union",
+        "baker",
+        "malheur"
+      ]
+    },
+    "_city_overrides": {
+      "florence": "oregon-coast"
+    }
   },
   "washington": {
-    "seattle-puget-sound": {"name": "Seattle & Puget Sound", "counties": ["king", "snohomish"]},
-    "south-sound-peninsula": {"name": "South Sound & Peninsula", "counties": ["pierce", "thurston", "kitsap", "clallam", "lewis", "mason", "grays-harbor"]},
-    "southwest-washington": {"name": "Southwest Washington", "counties": ["clark", "cowlitz", "skamania", "wahkiakum"]},
-    "eastern-central-washington": {"name": "Eastern & Central Washington", "counties": ["spokane", "yakima", "benton", "franklin", "chelan", "douglas", "walla-walla", "grant", "whitman", "kittitas"]}
+    "seattle-puget-sound": {
+      "name": "Seattle & Puget Sound",
+      "counties": [
+        "king",
+        "snohomish"
+      ]
+    },
+    "south-sound-peninsula": {
+      "name": "South Sound & Peninsula",
+      "counties": [
+        "pierce",
+        "thurston",
+        "kitsap",
+        "clallam",
+        "lewis",
+        "mason",
+        "grays-harbor"
+      ]
+    },
+    "southwest-washington": {
+      "name": "Southwest Washington",
+      "counties": [
+        "clark",
+        "cowlitz",
+        "skamania",
+        "wahkiakum"
+      ]
+    },
+    "eastern-central-washington": {
+      "name": "Eastern & Central Washington",
+      "counties": [
+        "spokane",
+        "yakima",
+        "benton",
+        "franklin",
+        "chelan",
+        "douglas",
+        "walla-walla",
+        "grant",
+        "whitman",
+        "kittitas"
+      ]
+    }
   },
   "california": {
-    "los-angeles-county": {"name": "Los Angeles County", "counties": ["los-angeles"]},
-    "orange-county-inland-empire": {"name": "Orange County & Inland Empire", "counties": ["orange", "riverside", "san-bernardino"]},
-    "san-diego-area": {"name": "San Diego Area", "counties": ["san-diego", "imperial"]},
-    "bay-area": {"name": "San Francisco Bay Area", "counties": ["san-francisco", "alameda", "contra-costa", "santa-clara", "san-mateo", "marin", "sonoma", "napa", "solano", "santa-cruz"]},
-    "sacramento-northern-valley": {"name": "Sacramento & Northern Valley", "counties": ["sacramento", "placer", "yolo", "el-dorado", "butte", "shasta", "nevada"]},
-    "central-valley": {"name": "Central Valley", "counties": ["san-joaquin", "stanislaus", "merced", "fresno", "tulare", "kern", "kings", "madera"]},
-    "central-coast": {"name": "Central Coast", "counties": ["monterey", "san-luis-obispo", "santa-barbara", "ventura"]},
-    "north-coast": {"name": "North Coast", "counties": ["humboldt", "mendocino", "del-norte"]}
+    "los-angeles-county": {
+      "name": "Los Angeles County",
+      "counties": [
+        "los-angeles"
+      ]
+    },
+    "orange-county-inland-empire": {
+      "name": "Orange County & Inland Empire",
+      "counties": [
+        "orange",
+        "riverside",
+        "san-bernardino"
+      ]
+    },
+    "san-diego-area": {
+      "name": "San Diego Area",
+      "counties": [
+        "san-diego",
+        "imperial"
+      ]
+    },
+    "bay-area": {
+      "name": "San Francisco Bay Area",
+      "counties": [
+        "san-francisco",
+        "alameda",
+        "contra-costa",
+        "santa-clara",
+        "san-mateo",
+        "marin",
+        "sonoma",
+        "napa",
+        "solano",
+        "santa-cruz"
+      ]
+    },
+    "sacramento-northern-valley": {
+      "name": "Sacramento & Northern Valley",
+      "counties": [
+        "sacramento",
+        "placer",
+        "yolo",
+        "el-dorado",
+        "butte",
+        "shasta",
+        "nevada"
+      ]
+    },
+    "central-valley": {
+      "name": "Central Valley",
+      "counties": [
+        "san-joaquin",
+        "stanislaus",
+        "merced",
+        "fresno",
+        "tulare",
+        "kern",
+        "kings",
+        "madera"
+      ]
+    },
+    "central-coast": {
+      "name": "Central Coast",
+      "counties": [
+        "monterey",
+        "san-luis-obispo",
+        "santa-barbara",
+        "ventura"
+      ]
+    },
+    "north-coast": {
+      "name": "North Coast",
+      "counties": [
+        "humboldt",
+        "mendocino",
+        "del-norte"
+      ]
+    }
   },
   "nevada": {
-    "southern-nevada": {"name": "Southern Nevada (Las Vegas Area)", "counties": ["clark", "nye", "lincoln"]},
-    "northern-nevada": {"name": "Northern Nevada (Reno & Rural)", "counties": ["washoe", "carson-city", "douglas", "churchill", "elko", "humboldt", "lyon", "storey"]}
+    "southern-nevada": {
+      "name": "Southern Nevada (Las Vegas Area)",
+      "counties": [
+        "clark",
+        "nye",
+        "lincoln"
+      ]
+    },
+    "northern-nevada": {
+      "name": "Northern Nevada (Reno & Rural)",
+      "counties": [
+        "washoe",
+        "carson-city",
+        "douglas",
+        "churchill",
+        "elko",
+        "humboldt",
+        "lyon",
+        "storey"
+      ]
+    }
   },
   "idaho": {
-    "southwest-idaho": {"name": "Treasure Valley & Southwest", "counties": ["ada", "canyon", "gem", "payette", "elmore", "owyhee", "boise"]},
-    "eastern-magic-valley": {"name": "Eastern Idaho & Magic Valley", "counties": ["bonneville", "bannock", "madison", "bingham", "cassia", "twin-falls", "jerome", "minidoka", "power"]},
-    "north-idaho": {"name": "North Idaho", "counties": ["kootenai", "bonner", "latah", "nez-perce", "benewah", "boundary", "shoshone"]}
+    "southwest-idaho": {
+      "name": "Treasure Valley & Southwest",
+      "counties": [
+        "ada",
+        "canyon",
+        "gem",
+        "payette",
+        "elmore",
+        "owyhee",
+        "boise"
+      ]
+    },
+    "eastern-magic-valley": {
+      "name": "Eastern Idaho & Magic Valley",
+      "counties": [
+        "bonneville",
+        "bannock",
+        "madison",
+        "bingham",
+        "cassia",
+        "twin-falls",
+        "jerome",
+        "minidoka",
+        "power"
+      ]
+    },
+    "north-idaho": {
+      "name": "North Idaho",
+      "counties": [
+        "kootenai",
+        "bonner",
+        "latah",
+        "nez-perce",
+        "benewah",
+        "boundary",
+        "shoshone"
+      ]
+    }
   },
   "arizona": {
-    "phoenix-metro": {"name": "Phoenix Metro", "counties": ["maricopa", "pinal"]},
-    "tucson-southern-arizona": {"name": "Tucson & Southern Arizona", "counties": ["pima", "cochise", "santa-cruz", "yuma"]},
-    "northern-western-arizona": {"name": "Northern & Western Arizona", "counties": ["yavapai", "coconino", "mohave", "navajo", "apache", "gila", "la-paz"]}
+    "phoenix-metro": {
+      "name": "Phoenix Metro",
+      "counties": [
+        "maricopa",
+        "pinal"
+      ]
+    },
+    "tucson-southern-arizona": {
+      "name": "Tucson & Southern Arizona",
+      "counties": [
+        "pima",
+        "cochise",
+        "santa-cruz",
+        "yuma"
+      ]
+    },
+    "northern-western-arizona": {
+      "name": "Northern & Western Arizona",
+      "counties": [
+        "yavapai",
+        "coconino",
+        "mohave",
+        "navajo",
+        "apache",
+        "gila",
+        "la-paz"
+      ]
+    }
   },
   "utah": {
-    "wasatch-front": {"name": "Wasatch Front", "counties": ["salt-lake", "weber", "davis", "utah", "morgan", "tooele"]},
-    "northern-utah": {"name": "Northern Utah", "counties": ["cache", "box-elder", "rich", "summit", "wasatch"]},
-    "southern-utah": {"name": "Southern Utah", "counties": ["washington", "iron", "kane", "garfield", "beaver", "sevier", "sanpete", "juab", "millard", "carbon", "emery", "grand", "san-juan", "uintah", "duchesne", "daggett", "piute", "wayne"]}
+    "wasatch-front": {
+      "name": "Wasatch Front",
+      "counties": [
+        "salt-lake",
+        "weber",
+        "davis",
+        "utah",
+        "morgan",
+        "tooele"
+      ]
+    },
+    "northern-utah": {
+      "name": "Northern Utah",
+      "counties": [
+        "cache",
+        "box-elder",
+        "rich",
+        "summit",
+        "wasatch"
+      ]
+    },
+    "southern-utah": {
+      "name": "Southern Utah",
+      "counties": [
+        "washington",
+        "iron",
+        "kane",
+        "garfield",
+        "beaver",
+        "sevier",
+        "sanpete",
+        "juab",
+        "millard",
+        "carbon",
+        "emery",
+        "grand",
+        "san-juan",
+        "uintah",
+        "duchesne",
+        "daggett",
+        "piute",
+        "wayne"
+      ]
+    }
   },
   "colorado": {
-    "denver-metro": {"name": "Denver Metro", "counties": ["denver", "arapahoe", "jefferson", "adams", "douglas", "broomfield"]},
-    "northern-colorado": {"name": "Boulder & Northern Colorado", "counties": ["boulder", "larimer", "weld"]},
-    "southern-colorado": {"name": "Colorado Springs & Southern Colorado", "counties": ["el-paso", "pueblo", "fremont", "teller"]},
-    "western-colorado": {"name": "Western Colorado & Mountains", "counties": ["mesa", "la-plata", "garfield", "eagle", "summit", "pitkin", "montrose", "delta"]}
+    "denver-metro": {
+      "name": "Denver Metro",
+      "counties": [
+        "denver",
+        "arapahoe",
+        "jefferson",
+        "adams",
+        "douglas",
+        "broomfield"
+      ]
+    },
+    "northern-colorado": {
+      "name": "Boulder & Northern Colorado",
+      "counties": [
+        "boulder",
+        "larimer",
+        "weld"
+      ]
+    },
+    "southern-colorado": {
+      "name": "Colorado Springs & Southern Colorado",
+      "counties": [
+        "el-paso",
+        "pueblo",
+        "fremont",
+        "teller"
+      ]
+    },
+    "western-colorado": {
+      "name": "Western Colorado & Mountains",
+      "counties": [
+        "mesa",
+        "la-plata",
+        "garfield",
+        "eagle",
+        "summit",
+        "pitkin",
+        "montrose",
+        "delta"
+      ]
+    }
   },
   "hawaii": {
-    "oahu": {"name": "Oahu", "counties": ["honolulu"]},
-    "neighbor-islands": {"name": "Neighbor Islands", "counties": ["hawaii", "maui", "kauai"]}
+    "oahu": {
+      "name": "Oahu",
+      "counties": [
+        "honolulu"
+      ]
+    },
+    "neighbor-islands": {
+      "name": "Neighbor Islands",
+      "counties": [
+        "hawaii",
+        "maui",
+        "kauai"
+      ]
+    }
   }
 }

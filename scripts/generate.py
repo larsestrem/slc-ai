@@ -188,7 +188,15 @@ def load_regions():
 
 
 def assign_region(f, state_regions):
+    # A per-city override lets geography beat county for coastal towns in
+    # otherwise-inland counties (e.g., Florence is in Lane County, but it's on
+    # the coast). Set in data/regions.json under a state's "_city_overrides".
+    overrides = state_regions.get("_city_overrides", {})
+    if f.get("city") in overrides:
+        return overrides[f["city"]]
     for slug, r in state_regions.items():
+        if slug == "_city_overrides":
+            continue
         if f["county"] in r["counties"]:
             return slug
     return "other-areas"
@@ -446,9 +454,9 @@ def gen_region_page(state, rslug, rname, facs, meta, geo):
 
 
 def gen_state_page_regions(state, facs, meta, geo, state_regions):
-    region_names = {s: r["name"] for s, r in state_regions.items()}
+    region_names = {s: r["name"] for s, r in state_regions.items() if s != "_city_overrides"}
     region_names["other-areas"] = "Other Areas"
-    order = list(state_regions.keys()) + ["other-areas"]
+    order = [s for s in state_regions.keys() if s != "_city_overrides"] + ["other-areas"]
     colors = {s: i % 8 for i, s in enumerate(order)}
     by_region, city_region = {}, {}
     for f in facs:

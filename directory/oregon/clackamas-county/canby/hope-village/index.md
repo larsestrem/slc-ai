@@ -1,10 +1,10 @@
 ---
 layout: "facility"
-title: "Hope Village"
-seo_title: "Hope Village - Senior Living in Canby, OR"
+title: "Hope Village Independent Living"
+seo_title: "Hope Village Independent Living - Canby, OR"
 description: "Hope Village is a faith-based, not-for-profit retirement community for adults 62 and older on a 56-acre campus in Canby, sponsored by Housing & Outreach Proje"
-crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Hope Village", "url": "/directory/oregon/clackamas-county/canby/hope-village/"}]
-nearby: [{"name": "Marquis Hope Village", "url": "/directory/oregon/clackamas-county/canby/marquis-hope-village/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "medium", "description": "Marquis Hope Village is a 50-bed Medicare- and Medicaid-certified skilled nursing facility offering post-hospital rehabilitation and long-term care on the Hope Village retirement campus in Canby. Marquis also operates the adjacent Marquis at Hope Village assisted living and memory care building at 1589 S Ivy St, giving campus residents a full continuum of care."}, {"name": "Rackleff Place", "url": "/directory/oregon/clackamas-county/canby/rackleff-place/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["assisted-living"], "records_note": false, "facility_size": "medium", "description": "A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette."}]
+crumbs: [{"name": "Directory", "url": "/directory/"}, {"name": "Oregon", "url": "/directory/oregon/"}, {"name": "Hope Village Independent Living", "url": "/directory/oregon/clackamas-county/canby/hope-village/"}]
+nearby: [{"name": "Hope Village Assisted Living, Memory Care & Skilled Nursing", "url": "/directory/oregon/clackamas-county/canby/marquis-hope-village/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["skilled-nursing"], "records_note": false, "facility_size": "medium", "description": "Marquis Hope Village is a 50-bed Medicare- and Medicaid-certified skilled nursing facility offering post-hospital rehabilitation and long-term care on the Hope Village retirement campus in Canby. Marquis also operates the adjacent Marquis at Hope Village assisted living and memory care building at 1589 S Ivy St, giving campus residents a full continuum of care."}, {"name": "Rackleff Place", "url": "/directory/oregon/clackamas-county/canby/rackleff-place/", "city_name": "Canby", "state_abbrev": "OR", "care_levels": ["assisted-living"], "records_note": false, "facility_size": "medium", "description": "A single-story assisted living community in Canby with 25 studio and one-bedroom apartments, each with a private bath and kitchenette."}]
 state: "oregon"
 state_name: "Oregon"
 state_abbrev: "OR"
@@ -25,5 +25,5 @@ description_full: "Hope Village is a faith-based, not-for-profit retirement comm
 review_links: [{"name": "Yelp", "url": "https://www.yelp.com/biz/hope-village-canby"}, {"name": "Birdeye", "url": "https://reviews.birdeye.com/hope-village-senior-living-community-168154464620059"}]
 reviews_search_url: "https://www.google.com/search?q=Hope+Village+Canby+OR+reviews"
 licensing: {"agency": "Oregon Department of Human Services, Aging and People with Disabilities", "lookup_url": "https://ltclicensing.oregon.gov/"}
-campus_note: 'Independent living is not state-licensed, so it has no inspection record of its own. The assisted living, memory care, and skilled nursing on this shared campus are operated by Marquis - see <a href="/directory/oregon/clackamas-county/canby/marquis-hope-village/">Marquis Hope Village</a> for each building''s official Oregon record.'
+campus_note: 'Independent living is not state-licensed, so it has no inspection record of its own. The assisted living, memory care, and skilled nursing on this shared campus are operated by Marquis Companies - see <a href="/directory/oregon/clackamas-county/canby/marquis-hope-village/">their care campus listing</a> for each building''s official Oregon record.'
 ---

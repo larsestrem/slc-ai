@@ -271,12 +271,18 @@ article > .meta { margin: 0 0 .35rem; }
 /* Contact & location card (no heading): community name, street, and
    city/state/zip stack tight; the phone and the domain each sit below a
    larger gap. Phone isn't labeled - a phone number reads as one. */
-.contact-card .cc-name { font-weight: 700; font-size: 1.1rem; margin: 0; line-height: 1.25; }
-.contact-card .cc-line { margin: .12rem 0 0; }
+.contact-card .cc-name { font-weight: 700; font-size: 1.1rem; margin: 0; line-height: 1.15; }
+.contact-card .cc-line { margin: 0; line-height: 1.3; }
 .contact-card .cc-map { font-size: .85rem; margin-left: .5rem; white-space: nowrap; }
 .contact-card .cc-phone { margin: .9rem 0 0; font-size: 1.05rem; }
 .contact-card .cc-web { margin: .9rem 0 0; }
 .contact-card .cc-facts { margin: 1.1rem 0 0; }
+/* Community size: bold label, plain supporting detail. Any bed breakdown
+   sits directly beneath the overall count, one care level per line. */
+.contact-card .cc-size { margin: 0; }
+.contact-card .cc-beds { list-style: none; margin: .15rem 0 0; padding: 0; font-size: .92rem; color: var(--muted); }
+.contact-card .cc-beds li { margin: .05rem 0; }
+.contact-card .cc-facts .kv { margin: .6rem 0 0; }
 .photo-grid figure { margin: 0; }
 .photo-grid img { width: 100%; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
 .photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
@@ -316,19 +322,25 @@ article > .meta { margin: 0 0 .35rem; }
 .contributors li { margin: .2rem 0; }
 .contributors p { margin: .4rem 0 0; font-size: .84rem; }
 .from-community { display: inline-block; background: #eaf3ea; border: 1px solid #b9d0b9; color: #2c5530; border-radius: 99px; padding: .02rem .55rem; font-size: .74rem; font-weight: 600; vertical-align: middle; white-space: nowrap; }
-/* Side-by-side at every screen size, so the gallery never pushes content far
-   below the fold. Mobile: a larger main photo with up to four small tiles in a
-   single column down its right edge. Desktop: main photo left, tiles in a 2x2
-   grid to its right. Tile captions live in the fullscreen lightbox (visually
-   hidden here, still read by screen readers); the main photo keeps its caption. */
-.hero-gallery { display: grid; gap: clamp(.3rem, 1vw, .6rem); grid-template-columns: 2.6fr 1fr; grid-auto-rows: minmax(0, 1fr); margin: 1.1rem 0 .4rem; }
+/* The main photo (front of the facility) takes three quarters of the width;
+   the rest are tiles in the remaining quarter - a single column of up to four
+   tiles stacked on mobile, a 2x2 block on wider screens. Every photo crops to
+   fill its cell so all render at a consistent height. A lone photo is capped
+   and centered instead of stretched across the full column. Tile captions live
+   in the fullscreen lightbox (visually hidden here, still read by screen
+   readers); the main photo keeps its caption. */
+.hero-gallery { display: grid; gap: clamp(.3rem, 1vw, .6rem); grid-template-columns: 3fr 1fr; grid-auto-rows: minmax(0, 1fr); margin: 1.1rem 0 .4rem; }
 .hero-gallery figure { margin: 0; display: flex; flex-direction: column; min-height: 0; }
 .hero-gallery figure a { flex: 1 1 auto; min-height: 0; }
 .hero-gallery .hg-main { grid-column: 1; grid-row: 1 / 5; }
 .hero-gallery .hg-main img { aspect-ratio: 4 / 3; }
 .hero-gallery figure:not(.hg-main) figcaption { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+/* Single photo: cap the width and center it so it never stretches edge to edge. */
+.hero-gallery.single { grid-template-columns: minmax(0, 40rem); justify-content: center; }
+.hero-gallery.single .hg-main { grid-row: auto; }
+.hero-gallery.single .hg-main img { aspect-ratio: 3 / 2; }
 @media (min-width: 52rem) {
-  .hero-gallery { grid-template-columns: 1.7fr 1fr 1fr; }
+  .hero-gallery { grid-template-columns: 3fr 0.5fr 0.5fr; }
   .hero-gallery .hg-main { grid-row: 1 / 3; }
   .hero-gallery .hg-main img { aspect-ratio: auto; }
 }
@@ -336,6 +348,9 @@ article > .meta { margin: 0 0 .35rem; }
 .hero-gallery a:hover img, .hero-gallery a:focus-visible img { border-color: var(--accent); }
 .hero-gallery img { width: 100%; height: 100%; object-fit: cover; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
 .hero-gallery figcaption { font-size: .78rem; color: var(--muted); margin-top: .25rem; }
+/* Photo provenance: who supplied the images (the facility, with the name and
+   title of the person who provided them, or the wider community). */
+.photo-credit { font-size: .82rem; color: var(--muted); margin: .3rem 0 0; }
 
 /* CSS-only full-screen lightbox (:target). The whole overlay is the close link. */
 .lightbox { display: none; position: fixed; inset: 0; z-index: 100; background: rgba(20, 22, 26, .93); padding: 1.2rem; align-items: center; justify-content: center; cursor: zoom-out; }
@@ -458,8 +473,9 @@ article > .meta { margin: 0 0 .35rem; }
         <p class="cc-line">17143 133rd Ave NE</p>
         <p class="cc-line cc-city">Woodinville, WA 98072
           <a class="cc-map" href="https://www.google.com/maps/search/?api=1&amp;query=Fairwinds+-+Brittany+Park+17143+133rd+Ave+NE+Woodinville+WA" rel="noopener">Map</a></p><p class="cc-phone"><a href="tel:+14254027100">(425) 402-7100</a></p><p class="cc-web"><a href="https://www.leisurecare.com/our-communities/fairwinds-brittany-park/" rel="noopener nofollow">leisurecare.com</a></p>
-        <dl class="kv cc-facts"><dt>Community size</dt><dd>Large community</dd>
-        </dl>
+        <div class="cc-facts">
+          <p class="cc-size"><strong>Community size:</strong> <a href="/guides/types-of-senior-living-facilities/#large-communities-100-200-residents">Large</a></p>
+        </div>
       </section>
       <section class="prose" aria-labelledby="about-h">
         <h2 id="about-h">About Fairwinds - Brittany Park</h2>

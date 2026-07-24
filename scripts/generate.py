@@ -281,11 +281,17 @@ def gen_facility_page(f, siblings, licensing):
                    "city_name", "address", "zip", "phone", "website", "care_levels",
                    "facility_size", "capacity", "organization", "organization_name",
                    "cms_ccn", "sources", "verified_date",
+                   # bed counts: beds (total) shown beside the size; care_beds
+                   # [{level, count}] lists each care level's beds on its own line
+                   "beds", "care_beds",
                    # lifestyle & services — optional, shown when verified
                    "pets", "couples", "min_age", "transportation",
                    "medical_services", "support_services",
                    # media — photos: [{src, alt, caption}], logo: path
-                   "photos", "logo",
+                   # photos_credit: "facility" (with photos_credit_name/_title of
+                   # the staffer who supplied them) or "community"
+                   "photos", "logo", "photos_credit",
+                   "photos_credit_name", "photos_credit_title",
                    "review_caveat",
                    # small-home license facts (not a rating — license status, not a score)
                    "license_id", "licensed_since", "specialties",

@@ -45,6 +45,9 @@ layout: default
   {%- if page.photos.size > 5 %}
   <p class="gallery-more"><a href="{{ page.url }}photos/">See all {{ page.photos.size }} photos of {{ page.title }} &rarr;</a></p>
   {%- endif %}
+  {%- if page.photos_credit %}
+  <p class="photo-credit">{% if page.photos_credit == 'facility' %}Facility-provided photos{% if page.photos_credit_name %} by {{ page.photos_credit_name }}{% if page.photos_credit_title %}, {{ page.photos_credit_title }}{% endif %}{% endif %}.{% else %}Community-provided photos.{% endif %}</p>
+  {%- endif %}
   {%- for ph in page.photos limit: 5 %}
   <a href="#gallery" class="lightbox" id="photo-{{ forloop.index }}" aria-label="Close full-screen photo">
     <figure>
@@ -67,12 +70,30 @@ layout: default
         {%- endif %}
         {%- if page.phone %}<p class="cc-phone"><a href="tel:+1{{ page.phone | remove: '(' | remove: ')' | remove: '-' | remove: ' ' | remove: '.' }}">{{ page.phone }}</a></p>{% endif %}
         {%- if page.website %}<p class="cc-web"><a href="{{ page.website }}" rel="noopener nofollow">{{ page.website | remove: 'https://' | remove: 'http://' | remove: 'www.' | split: '/' | first }}</a></p>{% endif %}
-        {%- if page.capacity or page.management_since or page.facility_size %}
-        <dl class="kv cc-facts">
-          {%- if page.capacity %}<dt>Capacity</dt><dd>{{ page.capacity }} residents</dd>{% endif %}
-          {%- if page.management_since %}<dt>Current management</dt><dd>Since {{ page.management_since }} <span class="count">(<a href="/guides/warning-signs-when-choosing-a-facility/">why leadership tenure matters</a>)</span></dd>{% endif %}
-          {%- if page.facility_size %}<dt>Community size</dt><dd>{% if page.facility_size == 'small' %}Small residential care home - <a href="/guides/adult-family-homes/">what that means</a>{% elsif page.facility_size == 'medium' %}Mid-size community{% else %}Large community{% endif %}</dd>{% endif %}
-        </dl>
+        {%- if page.facility_size or page.capacity or page.management_since %}
+        <div class="cc-facts">
+          {%- if page.facility_size %}
+          {%- assign size_label = 'Large' %}{% assign size_anchor = 'large-communities-100-200-residents' %}
+          {%- if page.facility_size == 'small' %}{% assign size_label = 'Small' %}{% assign size_anchor = 'small-residential-care-homes-roughly-5-10-residents' %}
+          {%- elsif page.facility_size == 'medium' %}{% assign size_label = 'Medium' %}{% assign size_anchor = 'mid-size-communities-30-80-residents' %}{% endif %}
+          {%- assign total_beds = page.beds %}
+          {%- if total_beds == nil and page.care_beds %}{% assign total_beds = 0 %}{% for cb in page.care_beds %}{% assign total_beds = total_beds | plus: cb.count %}{% endfor %}{% endif %}
+          <p class="cc-size"><strong>Community size:</strong> <a href="/guides/types-of-senior-living-facilities/#{{ size_anchor }}">{{ size_label }}</a>{% if total_beds %} ({{ total_beds }} beds){% endif %}</p>
+          {%- if page.care_beds %}
+          <ul class="cc-beds">
+            {%- for cb in page.care_beds %}
+            <li>{{ site.data.care_levels[cb.level].label }} ({{ cb.count }})</li>
+            {%- endfor %}
+          </ul>
+          {%- endif %}
+          {%- endif %}
+          {%- if page.capacity or page.management_since %}
+          <dl class="kv">
+            {%- if page.capacity %}<dt>Capacity</dt><dd>{{ page.capacity }} residents</dd>{% endif %}
+            {%- if page.management_since %}<dt>Current management</dt><dd>Since {{ page.management_since }} <span class="count">(<a href="/guides/warning-signs-when-choosing-a-facility/">why leadership tenure matters</a>)</span></dd>{% endif %}
+          </dl>
+          {%- endif %}
+        </div>
         {%- endif %}
       </section>
 

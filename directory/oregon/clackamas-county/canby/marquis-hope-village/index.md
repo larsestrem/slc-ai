@@ -18,6 +18,14 @@ phone: "(503) 266-5541"
 website: "https://www.marquiscompanies.com/facility/marquis-hope-village/"
 care_levels: ["assisted-living", "memory-care", "skilled-nursing"]
 facility_size: "large"
+beds: 166
+care_beds:
+  - level: skilled-nursing
+    count: 50
+  - level: assisted-living
+    count: 92
+  - level: memory-care
+    count: 24
 organization: "marquis-companies"
 organization_name: "Marquis Companies"
 cms_ccn: "385260"

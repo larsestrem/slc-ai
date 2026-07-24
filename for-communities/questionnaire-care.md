@@ -15,16 +15,72 @@ we've verified you with your community.
 
 {% include q-form-start.html subject="Listing questionnaire - Care & Services" %}
 
-  <fieldset>
-    <legend>Care levels</legend>
-    <label>Which care levels do you offer?</label>
-    <div class="checks">
-      <label><input type="checkbox" name="Q1 Care levels" value="Independent living"> <a href="/guides/independent-living/">Independent living</a></label>
-      <label><input type="checkbox" name="Q1 Care levels" value="Assisted living"> <a href="/guides/assisted-living/">Assisted living</a></label>
-      <label><input type="checkbox" name="Q1 Care levels" value="Memory care"> <a href="/guides/memory-care/">Memory care</a></label>
-      <label><input type="checkbox" name="Q1 Care levels" value="Skilled nursing"> <a href="/guides/skilled-nursing/">Skilled nursing</a></label>
-      <label><input type="checkbox" name="Q1 Care levels" value="Respite / short stays"> Respite / short stays</label>
+  <fieldset class="care-picker">
+    <legend>Care levels &amp; beds</legend>
+    <p class="hint">Check each care level you offer. Selecting one opens a short section for that
+    level, starting with how many beds or units it has. Fill in what you know and skip the rest.</p>
+
+    <div class="care-item">
+      <input type="checkbox" id="care-il" class="care-toggle" name="Q1 Care levels" value="Independent living">
+      <label for="care-il" class="care-toggle-label"><a href="/guides/independent-living/">Independent living</a></label>
+      <div class="care-detail">
+        <label for="il-units">Independent living: number of units</label>
+        <input type="number" id="il-units" name="Independent living units" min="0" inputmode="numeric">
+        <label for="il-types">Home types and how many of each <span class="opt">(optional)</span></label>
+        <p class="hint">For example: 40 apartments, 20 cottages, 12 garden homes.</p>
+        <textarea id="il-types" name="Independent living home types"></textarea>
+      </div>
     </div>
+
+    <div class="care-item">
+      <input type="checkbox" id="care-al" class="care-toggle" name="Q1 Care levels" value="Assisted living">
+      <label for="care-al" class="care-toggle-label"><a href="/guides/assisted-living/">Assisted living</a></label>
+      <div class="care-detail">
+        <label for="al-beds">Assisted living: licensed beds or apartments</label>
+        <input type="number" id="al-beds" name="Assisted living beds" min="0" inputmode="numeric">
+        <label for="al-types">Apartment types and how many of each <span class="opt">(optional)</span></label>
+        <p class="hint">For example: 20 studio, 30 one-bedroom, 8 two-bedroom.</p>
+        <textarea id="al-types" name="Assisted living apartment types"></textarea>
+      </div>
+    </div>
+
+    <div class="care-item">
+      <input type="checkbox" id="care-mc" class="care-toggle" name="Q1 Care levels" value="Memory care">
+      <label for="care-mc" class="care-toggle-label"><a href="/guides/memory-care/">Memory care</a></label>
+      <div class="care-detail">
+        <label for="mc-beds">Memory care: beds or suites</label>
+        <input type="number" id="mc-beds" name="Memory care beds" min="0" inputmode="numeric">
+        <label for="mc-setting">Is memory care a secured, separate wing or building? Any dedicated programming? <span class="opt">(optional)</span></label>
+        <textarea id="mc-setting" name="Memory care setting and programming"></textarea>
+      </div>
+    </div>
+
+    <div class="care-item">
+      <input type="checkbox" id="care-sn" class="care-toggle" name="Q1 Care levels" value="Skilled nursing">
+      <label for="care-sn" class="care-toggle-label"><a href="/guides/skilled-nursing/">Skilled nursing</a></label>
+      <div class="care-detail">
+        <label for="sn-beds">Skilled nursing: licensed beds</label>
+        <input type="number" id="sn-beds" name="Skilled nursing beds" min="0" inputmode="numeric">
+        <label for="sn-cert">Medicare and/or Medicaid certified? Any beds set aside for short-term rehab vs long-term care? <span class="opt">(optional)</span></label>
+        <textarea id="sn-cert" name="Skilled nursing certification and bed mix"></textarea>
+      </div>
+    </div>
+
+    <div class="care-item">
+      <input type="checkbox" id="care-rs" class="care-toggle" name="Q1 Care levels" value="Respite / short stays">
+      <label for="care-rs" class="care-toggle-label">Respite / short stays</label>
+      <div class="care-detail">
+        <label for="rs-beds">Respite: dedicated respite beds, if any</label>
+        <input type="number" id="rs-beds" name="Respite dedicated beds" min="0" inputmode="numeric">
+        <p class="hint">Leave blank if respite is offered as-available within your other care levels.</p>
+        <label for="rs-detail">Which care levels offer respite, and the minimum or typical stay? <span class="opt">(optional)</span></label>
+        <textarea id="rs-detail" name="Respite availability and stay length"></textarea>
+      </div>
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <legend>Care approach</legend>
     <label for="c2">How do care-level assessments work at your community, and how often are residents reassessed?</label>
     <textarea id="c2" name="Q2 Care assessments"></textarea>
     <label for="c3">Can a resident age in place as needs grow - and where is the line?</label>

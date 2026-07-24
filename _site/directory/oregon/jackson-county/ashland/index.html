@@ -259,6 +259,14 @@ tbody tr:hover { background: var(--soft); }
 .q-form .care-detail { display: none; margin: .7rem 0 .3rem; padding: .1rem 0 .1rem 1rem; border-left: 3px solid var(--accent); }
 .q-form .care-toggle:checked ~ .care-detail { display: block; }
 .q-form .care-detail label:first-child { margin-top: .2rem; }
+/* Generic reveal: checking a box opens a follow-up panel (CSS only, same
+   graceful degrade - no styles means the panel simply shows). Used for the
+   "I work here" section on the add-a-community form. */
+.q-form .reveal { width: auto; margin-right: .5rem; }
+.q-form .reveal-label { display: inline; font-weight: 600; margin: 0; }
+.q-form .reveal-target { display: none; margin: .7rem 0 .3rem; padding: .1rem 0 .1rem 1rem; border-left: 3px solid var(--accent); }
+.q-form .reveal:checked ~ .reveal-target { display: block; }
+.q-form .reveal-target label:first-of-type { margin-top: .2rem; }
 .q-form .consent { display: flex; gap: .6rem; align-items: baseline; font-size: .92rem; margin: 1.2rem 0; }
 .q-form .consent input { width: auto; margin-top: .2rem; }
 .q-form .form-foot { font-size: .85rem; color: var(--muted); margin: .8rem 0 0; }
@@ -367,6 +375,8 @@ and see <a href="/guides/levels-of-care-explained/">what each level of care mean
   <a href="/guides/whats-not-included-hidden-fees/">what's not included in the monthly rate</a>
   explains how to compare true costs, not sticker prices.</p>
 </section>
+
+<p class="notice">Community in Ashland missing? <a href="/add-a-facility/">Add it to the directory</a> - anyone can suggest one, and if you work there we'll help you fill in the full profile.</p>
 
 <p class="notice"><a href="/directory/oregon/">&larr; All Oregon communities</a></p>
 

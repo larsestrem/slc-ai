@@ -468,12 +468,18 @@ def gen_state_page_regions(state, facs, meta, geo, state_regions):
         rl = by_region.get(rslug)
         if not rl:
             continue
-        cities = sorted({f["city_name"] for f in rl})
+        city_map = {}
+        for f in rl:
+            city_map.setdefault(f["city"], {
+                "name": f["city_name"],
+                "url": f"/directory/{state}/{county_slug(f)}/{f['city']}/",
+            })
+        cities = sorted(city_map.values(), key=lambda c: c["name"])
         region_cards.append({
             "slug": rslug, "name": region_names[rslug],
             "url": f"/directory/{state}/{rslug}/",
             "facility_count": len(rl), "color": colors[rslug],
-            "city_names": cities[:8] + (["…"] if len(cities) > 8 else []),
+            "cities": cities,
         })
         gen_region_page(state, rslug, region_names[rslug], rl, meta, geo)
     level_counts = {}

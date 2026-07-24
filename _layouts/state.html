@@ -67,7 +67,11 @@ layout: default
       <li class="card rc-border{{ r.color }}" data-region="{{ r.slug }}">
         <h3><a href="{{ r.url }}">{{ r.name }}</a></h3>
         <p class="meta">{{ r.facility_count }} communities</p>
+        {%- if r.cities %}
+        <p class="desc">{% for c in r.cities %}<a href="{{ c.url }}">{{ c.name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+        {%- else %}
         <p class="desc">{{ r.city_names | join: ", " }}</p>
+        {%- endif %}
       </li>
       {%- endfor %}
     </ul>

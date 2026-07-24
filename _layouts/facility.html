@@ -58,20 +58,22 @@ layout: default
 
   <div class="two-col">
     <div>
-      <section class="panel" aria-labelledby="contact-h">
-        <h2 id="contact-h">Contact &amp; Location</h2>
-        <dl class="kv">
-          {%- if page.address %}
-          <dt>Address</dt>
-          <dd>{{ page.address }}, {{ page.city_name }}, {{ page.state_abbrev }}{% if page.zip %} {{ page.zip }}{% endif %}
-            · <a href="https://www.google.com/maps/search/?api=1&amp;query={{ page.title | append: ' ' | append: page.address | append: ' ' | append: page.city_name | append: ' ' | append: page.state_abbrev | url_encode }}" rel="noopener">Map</a></dd>
-          {%- endif %}
-          {%- if page.phone %}<dt>Phone</dt><dd><a href="tel:+1{{ page.phone | remove: '(' | remove: ')' | remove: '-' | remove: ' ' | remove: '.' }}">{{ page.phone }}</a></dd>{% endif %}
-          {%- if page.website %}<dt>Website</dt><dd><a href="{{ page.website }}" rel="noopener nofollow">{{ page.website | remove: 'https://' | remove: 'http://' | remove: 'www.' | split: '/' | first }}</a></dd>{% endif %}
+      <section class="panel contact-card" aria-label="Contact and location">
+        <p class="cc-name">{{ page.title }}</p>
+        {%- if page.address %}
+        <p class="cc-line">{{ page.address }}</p>
+        <p class="cc-line cc-city">{{ page.city_name }}, {{ page.state_abbrev }}{% if page.zip %} {{ page.zip }}{% endif %}
+          <a class="cc-map" href="https://www.google.com/maps/search/?api=1&amp;query={{ page.title | append: ' ' | append: page.address | append: ' ' | append: page.city_name | append: ' ' | append: page.state_abbrev | url_encode }}" rel="noopener">Map</a></p>
+        {%- endif %}
+        {%- if page.phone %}<p class="cc-phone"><a href="tel:+1{{ page.phone | remove: '(' | remove: ')' | remove: '-' | remove: ' ' | remove: '.' }}">{{ page.phone }}</a></p>{% endif %}
+        {%- if page.website %}<p class="cc-web"><a href="{{ page.website }}" rel="noopener nofollow">{{ page.website | remove: 'https://' | remove: 'http://' | remove: 'www.' | split: '/' | first }}</a></p>{% endif %}
+        {%- if page.capacity or page.management_since or page.facility_size %}
+        <dl class="kv cc-facts">
           {%- if page.capacity %}<dt>Capacity</dt><dd>{{ page.capacity }} residents</dd>{% endif %}
           {%- if page.management_since %}<dt>Current management</dt><dd>Since {{ page.management_since }} <span class="count">(<a href="/guides/warning-signs-when-choosing-a-facility/">why leadership tenure matters</a>)</span></dd>{% endif %}
           {%- if page.facility_size %}<dt>Community size</dt><dd>{% if page.facility_size == 'small' %}Small residential care home - <a href="/guides/adult-family-homes/">what that means</a>{% elsif page.facility_size == 'medium' %}Mid-size community{% else %}Large community{% endif %}</dd>{% endif %}
         </dl>
+        {%- endif %}
       </section>
 
       {%- assign about = page.description_full | default: page.description %}

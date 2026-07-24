@@ -268,6 +268,15 @@ tbody tr:hover { background: var(--soft); }
 article > h1 { margin-bottom: .3rem; }
 article > .meta { margin: 0 0 .35rem; }
 .badges[aria-label="Care levels offered"] { margin: .375rem 0; }
+/* Contact & location card (no heading): community name, street, and
+   city/state/zip stack tight; the phone and the domain each sit below a
+   larger gap. Phone isn't labeled - a phone number reads as one. */
+.contact-card .cc-name { font-weight: 700; font-size: 1.1rem; margin: 0; line-height: 1.25; }
+.contact-card .cc-line { margin: .12rem 0 0; }
+.contact-card .cc-map { font-size: .85rem; margin-left: .5rem; white-space: nowrap; }
+.contact-card .cc-phone { margin: .9rem 0 0; font-size: 1.05rem; }
+.contact-card .cc-web { margin: .9rem 0 0; }
+.contact-card .cc-facts { margin: 1.1rem 0 0; }
 .photo-grid figure { margin: 0; }
 .photo-grid img { width: 100%; border-radius: var(--radius); border: 1px solid var(--line); display: block; }
 .photo-grid figcaption { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
@@ -442,12 +451,12 @@ article > .meta { margin: 0 0 .35rem; }
 
   <div class="two-col">
     <div>
-      <section class="panel" aria-labelledby="contact-h">
-        <h2 id="contact-h">Contact &amp; Location</h2>
-        <dl class="kv">
-          <dt>Address</dt>
-          <dd>96 Kaneohe Bay Drive, Kailua, HI 96734
-            · <a href="https://www.google.com/maps/search/?api=1&amp;query=Wilson+Senior+Living+Kailua+96+Kaneohe+Bay+Drive+Kailua+HI" rel="noopener">Map</a></dd><dt>Phone</dt><dd><a href="tel:+18085964486">(808) 596-4486</a></dd><dt>Website</dt><dd><a href="https://wilsoncare.com/long-term-stay/" rel="noopener nofollow">wilsoncare.com</a></dd><dt>Capacity</dt><dd>19 residents</dd><dt>Community size</dt><dd>Mid-size community</dd>
+      <section class="panel contact-card" aria-label="Contact and location">
+        <p class="cc-name">Wilson Senior Living Kailua</p>
+        <p class="cc-line">96 Kaneohe Bay Drive</p>
+        <p class="cc-line cc-city">Kailua, HI 96734
+          <a class="cc-map" href="https://www.google.com/maps/search/?api=1&amp;query=Wilson+Senior+Living+Kailua+96+Kaneohe+Bay+Drive+Kailua+HI" rel="noopener">Map</a></p><p class="cc-phone"><a href="tel:+18085964486">(808) 596-4486</a></p><p class="cc-web"><a href="https://wilsoncare.com/long-term-stay/" rel="noopener nofollow">wilsoncare.com</a></p>
+        <dl class="kv cc-facts"><dt>Capacity</dt><dd>19 residents</dd><dt>Community size</dt><dd>Mid-size community</dd>
         </dl>
       </section>
       <section class="prose" aria-labelledby="about-h">
